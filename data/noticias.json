@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-05T08:48:08-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-05T11:41:34-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Entrevista | Oxxo abrirá 700 locales en Colombia este año y prepara su aplicación: habla su director",
+        "url": "https://www.valoraanalitik.com/entrevista-oxxo-anuncia-app-700-tiendas/",
+        "resumen": "Oxxo suma 5.400 empleados y presencia en 40 municipios. El 70 % de sus tiendas abrió en los últimos tres años.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Oxxo llegará a 700 tiendas en Colombia este año y alista app propia: esto dice su director general",
+        "capturado": "2026-09-05T11:41:34-05:00"
+      },
+      {
+        "titulo": "De la Espriella endurece estrategia de seguridad y lanza plan para captar inversión: Milagro Week",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-endurece-politica-de-seguridad-y-anuncia-plan-para-atraer-inversion-extranjera-milagro-week/",
+        "resumen": "Colombia tendría un papel protagónico en la Comisión de Seguridad de la ONU y presencia en los escenarios de discusión internacional.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella endurece política de seguridad y anuncia plan para atraer inversión extranjera: «Milagro Week»",
+        "capturado": "2026-09-05T11:41:34-05:00"
+      },
       {
         "titulo": "Primicia | Mineros analiza cotizar en la Bolsa de Nueva York; ejecutó US$20 millones en recompra de acciones",
         "url": "https://www.valoraanalitik.com/mineros-explora-posibilidad-de-listarse-en-la-bolsa-de-nueva-york-ejecuto-us20-millones-en-recompra-de-acciones/",
@@ -136,6 +156,26 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Director general afirma que Oxxo abrirá 700 tiendas en Colombia este año y lanzará su propia aplicación",
+        "url": "https://www.valoraanalitik.com/entrevista-oxxo-anuncia-app-700-tiendas/",
+        "resumen": "Oxxo suma 5.400 empleados y presencia en 40 municipios. El 70 % de sus tiendas abrió en los últimos tres años.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Oxxo llegará a 700 tiendas en Colombia este año y alista app propia: esto dice su director general",
+        "capturado": "2026-09-05T11:41:34-05:00"
+      },
+      {
+        "titulo": "De la Espriella endurece la política de seguridad y lanza el plan Milagro Week para captar inversión",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-endurece-politica-de-seguridad-y-anuncia-plan-para-atraer-inversion-extranjera-milagro-week/",
+        "resumen": "Colombia tendría un papel protagónico en la Comisión de Seguridad de la ONU y presencia en los escenarios de discusión internacional.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella endurece política de seguridad y anuncia plan para atraer inversión extranjera: «Milagro Week»",
+        "capturado": "2026-09-05T11:41:34-05:00"
+      },
       {
         "titulo": "Exclusiva | Mineros evalúa cotizar en la Bolsa de Nueva York y recompró acciones por US$20 millones",
         "url": "https://www.valoraanalitik.com/mineros-explora-posibilidad-de-listarse-en-la-bolsa-de-nueva-york-ejecuto-us20-millones-en-recompra-de-acciones/",
