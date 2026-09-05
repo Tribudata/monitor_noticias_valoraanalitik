@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-05T13:55:22-05:00",
+  "actualizado": "2026-09-05T16:03:31-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Estudio revela que Cali trabaja al 71 % de su ritmo normal luego del movimiento telúrico",
+        "url": "https://www.valoraanalitik.com/actividad-economica-cali-tras-terremoto/",
+        "resumen": "Un reporte de la Universidad ICESI y la Cámara de Comercio de Cali muestra recuperación sostenida tres semanas después del terremoto.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Actividad económica de Cali opera al 71 % de sus niveles habituales tras el terremoto, según estudio",
+        "capturado": "2026-09-05T16:03:31-05:00"
+      },
       {
         "titulo": "Este es el megaproyecto para modernizar el aeropuerto de Barranquilla; traerá billonaria inversión",
         "url": "https://www.valoraanalitik.com/megaproyecto-aeropuerto-barranquilla/",
@@ -176,6 +186,26 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Falleció Beatriz Ardila Lülle de Beltrán Harker, hermana del industrial Carlos Ardila Lülle",
+        "url": "https://www.valoraanalitik.com/murio-beatriz-ardila-lulle-de-beltran-harker-hermana-del-empresario-carlos-ardila-lulle/",
+        "resumen": "Perteneció a una de las familias empresariales más reconocidas de Santander y estuvo vinculada a diferentes espacios sociales de la región.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Murió Beatriz Ardila Lülle de Beltrán Harker, hermana del empresario Carlos Ardila Lülle",
+        "capturado": "2026-09-05T16:03:31-05:00"
+      },
+      {
+        "titulo": "Generación, inversión y almacenamiento para encarar el déficit energético, afirman expertos",
+        "url": "https://www.valoraanalitik.com/capacidad-de-generacion-inversion-y-almacenamiento-para-enfrentar-deficit-energetico-segun-expertos/",
+        "resumen": "Coincidieron en la necesidad de acelerar proyectos, fortalecer la confiabilidad del sistema y generar condiciones para nuevas inversiones.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Capacidad de generación, inversión y almacenamiento para enfrentar déficit energético, según expertos",
+        "capturado": "2026-09-05T16:03:31-05:00"
+      },
       {
         "titulo": "Yango despliega sus patinetas eléctricas en Colombia tras aval en Medellín y planea llegar a más urbes",
         "url": "https://www.valoraanalitik.com/patinetas-electricas-de-yango-se-expanden-en-colombia-medellin-ya-esta-autorizada-y-van-por-mas-ciudades/",
