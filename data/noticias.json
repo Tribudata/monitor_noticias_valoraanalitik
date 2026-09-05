@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-05T11:41:34-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-05T13:55:22-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Este es el megaproyecto para modernizar el aeropuerto de Barranquilla; traerá billonaria inversión",
+        "url": "https://www.valoraanalitik.com/megaproyecto-aeropuerto-barranquilla/",
+        "resumen": "La iniciativa Puerta de Oro contempla expandir y modernizar el aeropuerto Ernesto Cortissoz, con obras que contemplan una inversión estimada de $3,1 billones.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Este es el megaproyecto para renovar el aeropuerto de Barranquilla; movilizará billonaria inversión",
+        "capturado": "2026-09-05T13:55:22-05:00"
+      },
+      {
+        "titulo": "Patinetas eléctricas de Yango se extienden en Colombia: Medellín ya aprobó y buscan más urbes",
+        "url": "https://www.valoraanalitik.com/patinetas-electricas-de-yango-se-expanden-en-colombia-medellin-ya-esta-autorizada-y-van-por-mas-ciudades/",
+        "resumen": "En entrevista con Valora Analitik, Mark Bitton, country manager de Yango, confirmó la llegada de sus patinetas a Medellín y la expansión a más ciudades.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Exclusiva l Patinetas eléctricas de Yango se expanden en Colombia: Medellín ya está autorizada y van por más ciudades",
+        "capturado": "2026-09-05T13:55:22-05:00"
+      },
       {
         "titulo": "Entrevista | Oxxo abrirá 700 locales en Colombia este año y prepara su aplicación: habla su director",
         "url": "https://www.valoraanalitik.com/entrevista-oxxo-anuncia-app-700-tiendas/",
@@ -156,6 +176,16 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Yango despliega sus patinetas eléctricas en Colombia tras aval en Medellín y planea llegar a más urbes",
+        "url": "https://www.valoraanalitik.com/patinetas-electricas-de-yango-se-expanden-en-colombia-medellin-ya-esta-autorizada-y-van-por-mas-ciudades/",
+        "resumen": "En entrevista con Valora Analitik, Mark Bitton, country manager de Yango, confirmó la llegada de sus patinetas a Medellín y la expansión a más ciudades.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Exclusiva l Patinetas eléctricas de Yango se expanden en Colombia: Medellín ya está autorizada y van por más ciudades",
+        "capturado": "2026-09-05T13:55:22-05:00"
+      },
       {
         "titulo": "Director general afirma que Oxxo abrirá 700 tiendas en Colombia este año y lanzará su propia aplicación",
         "url": "https://www.valoraanalitik.com/entrevista-oxxo-anuncia-app-700-tiendas/",
