@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-05T16:03:31-05:00",
+  "actualizado": "2026-09-05T18:10:42-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "MicroSourcing llega a Latinoamérica y Colombia funcionará como su centro de operaciones regional",
+        "url": "https://www.valoraanalitik.com/microsourcing-desembarca-en-america-latina-y-colombia-sera-su-base-para-operar-regionalmente/",
+        "resumen": "La compañía global de servicios de BPO inauguró en Bogotá su primer centro de operaciones en la región.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MicroSourcing desembarca en América Latina y Colombia será su base para operar regionalmente",
+        "capturado": "2026-09-05T18:10:42-05:00"
+      },
+      {
+        "titulo": "Manuel García de Skandia evalúa la situación nacional y afirma que el riesgo país disminuirá",
+        "url": "https://www.valoraanalitik.com/prima-de-riesgo-de-colombia-seguira-descendiendo-manuel-garcia-de-skandia-analiza-la-coyuntura-de-pais-frente-al-panorama-global/",
+        "resumen": "Colombia, según el directivo, tiene la oportunidad histórica de convertirse en uno de los ganadores de esta carrera de atracción de capital.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "«Prima de riesgo de Colombia seguirá descendiendo»: Manuel García de Skandia analiza la coyuntura de país frente al panorama global",
+        "capturado": "2026-09-05T18:10:42-05:00"
+      },
       {
         "titulo": "Estudio revela que Cali trabaja al 71 % de su ritmo normal luego del movimiento telúrico",
         "url": "https://www.valoraanalitik.com/actividad-economica-cali-tras-terremoto/",
@@ -186,6 +206,16 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "MicroSourcing llega a América Latina y escoge a Colombia como su centro de operaciones en la región",
+        "url": "https://www.valoraanalitik.com/microsourcing-desembarca-en-america-latina-y-colombia-sera-su-base-para-operar-regionalmente/",
+        "resumen": "La compañía global de servicios de BPO inauguró en Bogotá su primer centro de operaciones en la región.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MicroSourcing desembarca en América Latina y Colombia será su base para operar regionalmente",
+        "capturado": "2026-09-05T18:10:42-05:00"
+      },
       {
         "titulo": "Falleció Beatriz Ardila Lülle de Beltrán Harker, hermana del industrial Carlos Ardila Lülle",
         "url": "https://www.valoraanalitik.com/murio-beatriz-ardila-lulle-de-beltran-harker-hermana-del-empresario-carlos-ardila-lulle/",
