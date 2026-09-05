@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-05T05:51:32-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-05T08:48:08-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Primicia | Mineros analiza cotizar en la Bolsa de Nueva York; ejecutó US$20 millones en recompra de acciones",
+        "url": "https://www.valoraanalitik.com/mineros-explora-posibilidad-de-listarse-en-la-bolsa-de-nueva-york-ejecuto-us20-millones-en-recompra-de-acciones/",
+        "resumen": "El presidente de Mineros, Daniel Henao, habló sobre los planes financieros de la organización minera.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Mineros explora posibilidad de listarse en la Bolsa de Nueva York; ejecutó US$20 millones en recompra de acciones",
+        "capturado": "2026-09-05T08:48:08-05:00"
+      },
       {
         "titulo": "Fallo reciente restringe a las copropiedades en sus castigos y cobros a residentes con deudas",
         "url": "https://www.valoraanalitik.com/nuevo-fallo-pone-limites-a-conjuntos-residenciales-por-medidas-y-sanciones-contra-propietarios-morosos/",
@@ -126,6 +136,16 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Exclusiva | Mineros evalúa cotizar en la Bolsa de Nueva York y recompró acciones por US$20 millones",
+        "url": "https://www.valoraanalitik.com/mineros-explora-posibilidad-de-listarse-en-la-bolsa-de-nueva-york-ejecuto-us20-millones-en-recompra-de-acciones/",
+        "resumen": "El presidente de Mineros, Daniel Henao, habló sobre los planes financieros de la organización minera.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Mineros explora posibilidad de listarse en la Bolsa de Nueva York; ejecutó US$20 millones en recompra de acciones",
+        "capturado": "2026-09-05T08:48:08-05:00"
+      },
       {
         "titulo": "Entidad de comunicaciones evalúa aspectos positivos y negativos de posible unión de Claro y Azteca en el país",
         "url": "https://www.valoraanalitik.com/crc-alerta-por-operacion-que-dejaria-a-claro-como-unico-proveedor-de-fibra-en-778-rutas/",
