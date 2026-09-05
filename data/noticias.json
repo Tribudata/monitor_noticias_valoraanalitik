@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-04T18:18:07-05:00",
-  "nuevos_en_esta_corrida": 21,
+  "actualizado": "2026-09-04T20:18:35-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
       {
@@ -123,6 +123,15 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "CRC alerta por operación que dejaría a Claro como único proveedor de fibra en 778 rutas",
+        "url": "https://www.valoraanalitik.com/crc-alerta-por-operacion-que-dejaria-a-claro-como-unico-proveedor-de-fibra-en-778-rutas/",
+        "resumen": "Pese a que la CRC dice que esto fortalece la conectividad, hace un llamado de alerta a Claro.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "capturado": "2026-09-04T20:18:35-05:00"
+      },
       {
         "titulo": "Claro Colombia pone la mira en 7 millones de hogares con fibra óptica y advierte por déficit de energía",
         "url": "https://www.valoraanalitik.com/claro-colombia-pone-la-mira-en-7-millones-de-hogares-con-fibra-optica-y-advierte-por-deficit-de-energia/",
