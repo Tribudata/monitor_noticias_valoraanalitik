@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-06T14:26:15-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-06T16:37:12-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El procedimiento requerido cuando un menor de edad desea laborar en Colombia",
+        "url": "https://www.valoraanalitik.com/el-tramite-que-se-debe-hacer-si-un-menor-de-edad-quiere-trabajar-en-colombia/",
+        "resumen": "Los adolescentes que quieran trabajar o hacer prácticas laborales en Colombia deben cumplir un trámite especial; así funciona y estos son los requisitos.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "El trámite que se debe hacer si un menor de edad quiere trabajar en Colombia",
+        "capturado": "2026-09-06T16:37:12-05:00"
+      },
       {
         "titulo": "Gobierno De La Espriella plantea cambios en consulta previa y da prioridad a iniciativas energéticas como Sirius",
         "url": "https://www.valoraanalitik.com/reforma-consulta-previa-proyectos-colombia/",
@@ -266,6 +276,16 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El camino de Nvidia hacia el liderazgo tecnológico global a través de un componente y una gran inversión",
+        "url": "https://www.valoraanalitik.com/asi-fue-como-nvidia-llego-a-dominar-la-industria-tecnologica/",
+        "resumen": "Lo que comenzó con tres amigos sentados en un restaurante terminó convirtiendo a los chips en el corazón de una de las compañías más poderosas del mundo.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Una pequeña pieza, una apuesta millonaria y una revolución: así fue como Nvidia llegó a dominar la industria tecnológica",
+        "capturado": "2026-09-06T16:37:12-05:00"
+      },
       {
         "titulo": "Entrevista | Mapei anuncia expansión en Colombia con nueva planta caribeña para exportar y mira a Venezuela",
         "url": "https://www.valoraanalitik.com/entrevista-mapei-revela-crecimiento-en-colombia-con-ampliacion-de-su-planta-en-el-caribe-para-potenciar-exportaciones-expectativa-con-venezuela/",
