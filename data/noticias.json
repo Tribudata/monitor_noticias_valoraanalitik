@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-06T16:37:12-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-06T18:40:19-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Volvo da nueva vida a pilas de vehículos eléctricos para abastecer energía solar en zonas rurales del país",
+        "url": "https://www.valoraanalitik.com/volvo-reutiliza-baterias-de-carros-electricos-para-llevar-energia-solar-a-comunidades-rurales-de-colombia/",
+        "resumen": "En Colombia más de 1,32 millones de hogares tienen déficit de energía, de acuerdo con cifras de la UPME.",
+        "autor": "",
+        "subseccion": "Importantes fin de semana",
+        "publicacion": "",
+        "titulo_fuente": "Volvo reutiliza baterías de carros eléctricos para llevar energía solar a comunidades rurales de Colombia",
+        "capturado": "2026-09-06T18:40:19-05:00"
+      },
+      {
+        "titulo": "Entrevista exclusiva con el cofundador y CPTO sobre la expansión de Littio hacia nuevos mercados desde Dubái",
+        "url": "https://www.valoraanalitik.com/entrevista-littio-alista-expansion-cpto/",
+        "resumen": "«Lo que falta no es talento, es distribución», dice Óscar Flórez, que opera desde Dubai tras pasar por Revolut, Rappi, Habi y Huspy.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Littio alista expansión a nuevos mercados desde Dubai: habla su cofundador y CPTO",
+        "capturado": "2026-09-06T18:40:19-05:00"
+      },
       {
         "titulo": "El procedimiento requerido cuando un menor de edad desea laborar en Colombia",
         "url": "https://www.valoraanalitik.com/el-tramite-que-se-debe-hacer-si-un-menor-de-edad-quiere-trabajar-en-colombia/",
@@ -276,6 +296,16 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista al cofundador y CPTO de Littio sobre su plan de expansión global desde Dubái",
+        "url": "https://www.valoraanalitik.com/entrevista-littio-alista-expansion-cpto/",
+        "resumen": "«Lo que falta no es talento, es distribución», dice Óscar Flórez, que opera desde Dubai tras pasar por Revolut, Rappi, Habi y Huspy.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Littio alista expansión a nuevos mercados desde Dubai: habla su cofundador y CPTO",
+        "capturado": "2026-09-06T18:40:19-05:00"
+      },
       {
         "titulo": "El camino de Nvidia hacia el liderazgo tecnológico global a través de un componente y una gran inversión",
         "url": "https://www.valoraanalitik.com/asi-fue-como-nvidia-llego-a-dominar-la-industria-tecnologica/",
