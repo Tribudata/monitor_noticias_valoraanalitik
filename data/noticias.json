@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-06T06:16:31-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-06T09:21:28-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El 46 % de los colombianos que solicita incremento salarial no lo obtiene, panorama de los sueldos en el país",
+        "url": "https://www.valoraanalitik.com/el-46-de-los-colombianos-que-pide-aumento-no-lo-consigue/",
+        "resumen": "Los ajustes salariales son una práctica extendida en el país, pero las expectativas sobre la remuneración siguen influyendo en la permanencia laboral.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "El 46 % de los colombianos que pide aumento no lo consigue: así se mueve el salario en Colombia",
+        "capturado": "2026-09-06T09:21:28-05:00"
+      },
+      {
+        "titulo": "Presupuesto del 2027 detiene la valorización de los TES en Colombia y revive los interrogantes fiscales",
+        "url": "https://www.valoraanalitik.com/presupuesto-de-2027-frena-la-valorizacion-de-los-tes-colombianos-y-reaviva-las-dudas-fiscales/",
+        "resumen": "Para los analistas, el drástico movimiento visto en los mercados refleja el impacto de un diagnóstico fiscal mucho más grave del esperado.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto de 2027 frena la valorización de los TES colombianos y reaviva las dudas fiscales",
+        "capturado": "2026-09-06T09:21:28-05:00"
+      },
       {
         "titulo": "MicroSourcing llega a Latinoamérica y Colombia funcionará como su centro de operaciones regional",
         "url": "https://www.valoraanalitik.com/microsourcing-desembarca-en-america-latina-y-colombia-sera-su-base-para-operar-regionalmente/",
@@ -206,6 +226,16 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El 46 % de los colombianos que solicita incremento salarial no lo recibe: panorama de los sueldos",
+        "url": "https://www.valoraanalitik.com/el-46-de-los-colombianos-que-pide-aumento-no-lo-consigue/",
+        "resumen": "Los ajustes salariales son una práctica extendida en el país, pero las expectativas sobre la remuneración siguen influyendo en la permanencia laboral.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "El 46 % de los colombianos que pide aumento no lo consigue: así se mueve el salario en Colombia",
+        "capturado": "2026-09-06T09:21:28-05:00"
+      },
       {
         "titulo": "MicroSourcing llega a América Latina y escoge a Colombia como su centro de operaciones en la región",
         "url": "https://www.valoraanalitik.com/microsourcing-desembarca-en-america-latina-y-colombia-sera-su-base-para-operar-regionalmente/",
