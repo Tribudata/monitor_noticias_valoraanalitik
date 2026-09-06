@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-06T09:21:28-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-06T12:17:24-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Mapei anuncia expansión en Colombia con nueva planta costeña para exportar y mira hacia Venezuela",
+        "url": "https://www.valoraanalitik.com/entrevista-mapei-revela-crecimiento-en-colombia-con-ampliacion-de-su-planta-en-el-caribe-para-potenciar-exportaciones-expectativa-con-venezuela/",
+        "resumen": "Miguel Perilla, gerente general de Mapei Colombia, mencionó: “Esperamos que sea la construcción uno de los pilares y motores de la economía».",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Mapei revela crecimiento en Colombia con ampliación de su planta en el Caribe para potenciar exportaciones: expectativa con Venezuela",
+        "capturado": "2026-09-06T12:17:24-05:00"
+      },
+      {
+        "titulo": "Colectora, obra energética esencial, sufrirá otra demora y no empezará a funcionar este año",
+        "url": "https://www.valoraanalitik.com/colectora-tendra-nuevo-retraso-este-ano/",
+        "resumen": "El proyecto de transmisión de energía ahora estima su entrega para abril de 2027, tras más de ocho años de gestión.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colectora, proyecto energético clave para el país, tendrá nuevo retraso y no entrará en operación este año",
+        "capturado": "2026-09-06T12:17:24-05:00"
+      },
+      {
+        "titulo": "Ramo, la firma de Chocoramo, creció con fuerza en el primer semestre y prevé un cierre récord",
+        "url": "https://www.valoraanalitik.com/ramo-crecimiento-primer-semestre-2026/",
+        "resumen": "Su presidente, Juan Carlos Vargas, aseguró que la compañía viene acelerando sus resultados y prevé cerrar el año con crecimiento en volumen y rentabilidad.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Ramo, tradicional marca dueña de Chocoramo, tuvo fuerte crecimiento en primer semestre; proyecta cierre de año histórico",
+        "capturado": "2026-09-06T12:17:24-05:00"
+      },
       {
         "titulo": "El 46 % de los colombianos que solicita incremento salarial no lo obtiene, panorama de los sueldos en el país",
         "url": "https://www.valoraanalitik.com/el-46-de-los-colombianos-que-pide-aumento-no-lo-consigue/",
@@ -226,6 +256,36 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | Mapei anuncia expansión en Colombia con nueva planta caribeña para exportar y mira a Venezuela",
+        "url": "https://www.valoraanalitik.com/entrevista-mapei-revela-crecimiento-en-colombia-con-ampliacion-de-su-planta-en-el-caribe-para-potenciar-exportaciones-expectativa-con-venezuela/",
+        "resumen": "Miguel Perilla, gerente general de Mapei Colombia, mencionó: “Esperamos que sea la construcción uno de los pilares y motores de la economía».",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Mapei revela crecimiento en Colombia con ampliación de su planta en el Caribe para potenciar exportaciones: expectativa con Venezuela",
+        "capturado": "2026-09-06T12:17:24-05:00"
+      },
+      {
+        "titulo": "Colectora, iniciativa energética vital, sufrirá otra demora y no empezará a funcionar este año",
+        "url": "https://www.valoraanalitik.com/colectora-tendra-nuevo-retraso-este-ano/",
+        "resumen": "El proyecto de transmisión de energía ahora estima su entrega para abril de 2027, tras más de ocho años de gestión.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colectora, proyecto energético clave para el país, tendrá nuevo retraso y no entrará en operación este año",
+        "capturado": "2026-09-06T12:17:24-05:00"
+      },
+      {
+        "titulo": "Ramo, firma de Chocoramo, creció con fuerza al inicio del año y prevé un cierre histórico",
+        "url": "https://www.valoraanalitik.com/ramo-crecimiento-primer-semestre-2026/",
+        "resumen": "Su presidente, Juan Carlos Vargas, aseguró que la compañía viene acelerando sus resultados y prevé cerrar el año con crecimiento en volumen y rentabilidad.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Ramo, tradicional marca dueña de Chocoramo, tuvo fuerte crecimiento en primer semestre; proyecta cierre de año histórico",
+        "capturado": "2026-09-06T12:17:24-05:00"
+      },
       {
         "titulo": "El 46 % de los colombianos que solicita incremento salarial no lo recibe: panorama de los sueldos",
         "url": "https://www.valoraanalitik.com/el-46-de-los-colombianos-que-pide-aumento-no-lo-consigue/",
