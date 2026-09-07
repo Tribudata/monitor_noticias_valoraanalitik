@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-07T04:15:52-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-07T10:10:13-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Bladex ve fin a bajas de tasas de la FED y prevé créditos más caros",
+        "url": "https://www.valoraanalitik.com/bladex-cree-que-los-recortes-de-tasas-de-la-fed-llegaron-a-su-fin-y-anticipa-encarecimiento-en-creditos/",
+        "resumen": "La firma cree que el panorama para la política monetaria de la Reserva Federal se ha reconfigurado 180° en los últimos seis meses.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Bladex cree que los recortes de tasas de la FED llegaron a su fin y anticipa encarecimiento en créditos",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella fija cobro extra en factura de luz para ciertos usuarios",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-ordena-un-cobro-adicional-en-el-recibo-de-la-energia-para-estas-personas/",
+        "resumen": "El gobierno De la Espriella dio a conocer planes para poder cuidar el consumo de energía para finales de este año y comienzos del 2027.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella ordena un “cobro adicional” en el recibo de la energía para estas personas",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "Dólar arranca al alza en 3140 pesos en sesión Next Day a la espera de inflación",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-al-alza-en-3-140-durante-jornada-next-day-y-a-la-espera-del-dato-de-inflacion/",
+        "resumen": "En la región, las divisas continúan respetando sus niveles de soporte clave, de acuerdo con JP Tactical Trading.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre al alza en $3.140 durante jornada Next Day y a la espera del dato de inflación",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "Primicia | Gobierno postergaría inicio del Registro Universal de Ingresos, nuevo Sisbén",
+        "url": "https://www.valoraanalitik.com/primicia-gobierno-aplazaria-entrada-en-vigor-del-registro-universal-de-ingresos-el-nuevo-sisben-que-tendra-colombia/",
+        "resumen": "El RUI fue creado como una herramienta para determinar la focalización de los subsidios, programas y servicios de la oferta social.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Gobierno aplazaría entrada en vigor del Registro Universal de Ingresos, el nuevo Sisbén que tendrá Colombia",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "El índice MSCI Colcap finaliza en picos históricos semanales",
+        "url": "https://www.valoraanalitik.com/el-indice-msci-colcap-cierra-en-maximos-historicos-semanales/",
+        "resumen": "El índice MSCI Colcap de la Bolsa de Valores de Colombia cerró la jornada del 04 de septiembre de 2026, registrando una variación semanal de + 3,53 %",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "El índice MSCI Colcap cierra en máximos históricos semanales",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "Iniciativa minera de AngloGold Ashanti en Antioquia superaría ventas externas de banano y ferroníquel",
+        "url": "https://www.valoraanalitik.com/exportaciones-de-banano-y-ferroniquel-se-verian-superadas-por-proyecto-minero-de-anglogold-ashanti-en-antioquia/",
+        "resumen": "El plan de localiza al suroeste antioqueño, a tres horas de Medellín, y concentra cobre, oro y plata.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Exportaciones de banano y ferroníquel se verían superadas por proyecto minero de AngloGold Ashanti en Antioquia",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "Empresarios más influyentes del país irán a Chocó con Abelardo De la Espriella para apoyar reconstrucción",
+        "url": "https://www.valoraanalitik.com/abelardo-de-la-espriella-llevara-a-choco-a-los-empresarios-mas-poderosos-de-colombia-para-impulsar-reconstruccion/",
+        "resumen": "La visita presidencial se produce días después de una reunión extraordinaria en la sede de la Presidencia en Barranquilla.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Abelardo De la Espriella llevará a Chocó a los empresarios más poderosos de Colombia para impulsar reconstrucción",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "Premercado | Bolsas mundiales cautelosas por petróleo y tasas; Asia avanza gracias al sector tecnológico",
+        "url": "https://www.valoraanalitik.com/premercado-petroleo-y-tasas-generan-cautela-en-bolsas-globales-asia-sube-por-auge-de-acciones-tecnologicas/",
+        "resumen": "Los mercados monetarios han descontado casi por completo una subida de tipos de interés de 25 puntos básicos por parte del BCE.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Petróleo y tasas generan cautela en bolsas globales; Asia sube por auge de acciones tecnológicas",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "Fuerte fenómeno de El Niño presionará la inflación colombiana y encarecerá el almuerzo corriente",
+        "url": "https://www.valoraanalitik.com/con-un-fenomeno-de-el-nino-mas-fuerte-la-inflacion-en-colombia-tendra-mayores-riesgos-y-encarecera-el-corrientazo/",
+        "resumen": "Las expectativas se mantienen para que la inflación en Colombia suba hasta el 7 % a cierre de este año",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Con un fenómeno de El Niño más fuerte, la inflación en Colombia tendrá mayores riesgos y encarecerá el corrientazo",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "Entrevista | Presidente de Drummond afirma que buscan retomar operaciones y exportaciones de carbón a Israel",
+        "url": "https://www.valoraanalitik.com/entrevista-esperamos-recuperar-y-trabajar-para-exportar-nuevamente-carbon-a-israel-presidente-de-drummond/",
+        "resumen": "El presidente de una de las compañías mineras más grandes de Colombia habló sobre sus metas de producción y la perspectiva del mercado del carbón.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | “Esperamos recuperar y trabajar para exportar nuevamente carbón a Israel”, presidente de Drummond",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
       {
         "titulo": "Volvo da nueva vida a pilas de vehículos eléctricos para abastecer energía solar en zonas rurales del país",
         "url": "https://www.valoraanalitik.com/volvo-reutiliza-baterias-de-carros-electricos-para-llevar-energia-solar-a-comunidades-rurales-de-colombia/",
@@ -296,6 +396,36 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El yacimiento minero de AngloGold Ashanti en Antioquia superaría ventas externas de banano y ferroníquel",
+        "url": "https://www.valoraanalitik.com/exportaciones-de-banano-y-ferroniquel-se-verian-superadas-por-proyecto-minero-de-anglogold-ashanti-en-antioquia/",
+        "resumen": "El plan de localiza al suroeste antioqueño, a tres horas de Medellín, y concentra cobre, oro y plata.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Exportaciones de banano y ferroníquel se verían superadas por proyecto minero de AngloGold Ashanti en Antioquia",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "Empresarios más influyentes del país irán a Chocó con Abelardo De la Espriella para apoyar reconstrucción",
+        "url": "https://www.valoraanalitik.com/abelardo-de-la-espriella-llevara-a-choco-a-los-empresarios-mas-poderosos-de-colombia-para-impulsar-reconstruccion/",
+        "resumen": "La visita presidencial se produce días después de una reunión extraordinaria en la sede de la Presidencia en Barranquilla.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Abelardo De la Espriella llevará a Chocó a los empresarios más poderosos de Colombia para impulsar reconstrucción",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
+      {
+        "titulo": "Entrevista | Presidente de Drummond afirma que buscan reactivar operaciones y ventas de carbón a Israel",
+        "url": "https://www.valoraanalitik.com/entrevista-esperamos-recuperar-y-trabajar-para-exportar-nuevamente-carbon-a-israel-presidente-de-drummond/",
+        "resumen": "El presidente de una de las compañías mineras más grandes de Colombia habló sobre sus metas de producción y la perspectiva del mercado del carbón.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | “Esperamos recuperar y trabajar para exportar nuevamente carbón a Israel”, presidente de Drummond",
+        "capturado": "2026-09-07T10:10:13-05:00"
+      },
       {
         "titulo": "Entrevista al cofundador y CPTO de Littio sobre su plan de expansión global desde Dubái",
         "url": "https://www.valoraanalitik.com/entrevista-littio-alista-expansion-cpto/",
