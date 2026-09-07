@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-07T14:21:12-05:00",
-  "nuevos_en_esta_corrida": 16,
+  "actualizado": "2026-09-07T17:13:47-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Tasa de cambio bajó al cierre y el mercado aguarda el dato inflacionario de agosto",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-cerro-con-tendencia-a-la-baja-mercado-espera-dato-de-inflacion-de-agosto/",
+        "resumen": "La sesión abrió al alza en $3.140 (precio máximo intradiario) y la constante presión de oferta empujó la divisa a un piso de $3.114.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia cerró con tendencia a la baja; mercado espera dato de inflación de agosto",
+        "capturado": "2026-09-07T17:13:47-05:00"
+      },
+      {
+        "titulo": "Partidos definen postura frente al Gobierno de Abelardo de la Espriella: así está el mapa político",
+        "url": "https://www.valoraanalitik.com/partidos-definen-postura-frente-al-gobierno-de-abelardo-de-la-espriella-asi-esta-el-mapa-politico/",
+        "resumen": "La definición que queda pendiente es la del Partido Liberal, colectividad que tiene previsto fijar su postura este lunes.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Partidos definen postura frente al Gobierno de Abelardo de la Espriella: así está el mapa político",
+        "capturado": "2026-09-07T17:13:47-05:00"
+      },
+      {
+        "titulo": "¿Un hijo puede quedarse con el 100 % de una pensión de sobrevivientes? Nuevo fallos aclara que pasa con la pareja del fallecido",
+        "url": "https://www.valoraanalitik.com/un-hijo-puede-quedarse-con-el-100-de-una-pension-de-sobrevivientes-nuevo-fallos-aclara-que-pasa-con-la-pareja-del-fallecido/",
+        "resumen": "Una disputa entre una hija y quien se presentó como pareja del fallecido terminó definiendo quién podía recibir la totalidad del dinero de la pensión.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "¿Un hijo puede quedarse con el 100 % de una pensión de sobrevivientes? Nuevo fallos aclara que pasa con la pareja del fallecido",
+        "capturado": "2026-09-07T17:13:47-05:00"
+      },
+      {
+        "titulo": "MinHacienda ratifica la cifra del Presupuesto de 2027 en 634,95 billones de pesos",
+        "url": "https://www.valoraanalitik.com/minhacienda-confirma-que-mantiene-monto-de-presupuesto-de-2027-en-63495-billones/",
+        "resumen": "El Gobierno se reunió con los congresistas coordinadores y ponentes de del proyecto de ley de Presupuesto para 2027 este lunes.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda confirma que mantiene monto de Presupuesto de 2027 en $634,95 billones",
+        "capturado": "2026-09-07T17:13:47-05:00"
+      },
+      {
+        "titulo": "De la Espriella y empresarios lanzan ambicioso Plan Marshall para el Chocó con 1 billón en obras",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-y-empresarios-lanzan-ambicioso-plan-marshall-para-el-choco-1-billon-en-vias-malecon-y-canal-interoceanico/",
+        "resumen": "El ambicioso “Plan Marshall” de De la Espriella y empresarios para el Chocó: $1 billón en infraestructura.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella y empresarios lanzan ambicioso “Plan Marshall” para el Chocó: $1 billón en vías, malecón y canal interoceánico",
+        "capturado": "2026-09-07T17:13:47-05:00"
+      },
+      {
+        "titulo": "De La Espriella retomará el tren interoceánico de Petro e invertirá en vías y aeropuerto",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-retomara-el-plan-para-construir-el-megaproyecto-de-tren-interoceanico-que-arranco-petro/",
+        "resumen": "El mandatario dijo que hay dos opciones de obra: un canal interoceánico y otro que incluye vías férreas. Anuncia paquete de $1 billón para vías y aeropuerto.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | De La Espriella retomará el plan para construir el megaproyecto de tren interoceánico que arrancó Petro; invertirá en vías y aeropuerto",
+        "capturado": "2026-09-07T17:13:47-05:00"
+      },
       {
         "titulo": "Pasar de alquilar a casa propia: esquema colombiano accesible desde un millón de pesos",
         "url": "https://www.valoraanalitik.com/de-pagar-arriendo-a-tener-vivienda-propia-el-modelo-en-colombia-al-que-se-puede-entrar-desde-1-millon/",
@@ -496,6 +556,26 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "De la Espriella y empresarios impulsan Plan Marshall para el Chocó con un billón en vías, malecón y canal",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-y-empresarios-lanzan-ambicioso-plan-marshall-para-el-choco-1-billon-en-vias-malecon-y-canal-interoceanico/",
+        "resumen": "El ambicioso “Plan Marshall” de De la Espriella y empresarios para el Chocó: $1 billón en infraestructura.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella y empresarios lanzan ambicioso “Plan Marshall” para el Chocó: $1 billón en vías, malecón y canal interoceánico",
+        "capturado": "2026-09-07T17:13:47-05:00"
+      },
+      {
+        "titulo": "De La Espriella retomará el plan del tren interoceánico de Petro e invertirá en infraestructura vial y aérea",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-retomara-el-plan-para-construir-el-megaproyecto-de-tren-interoceanico-que-arranco-petro/",
+        "resumen": "El mandatario dijo que hay dos opciones de obra: un canal interoceánico y otro que incluye vías férreas. Anuncia paquete de $1 billón para vías y aeropuerto.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | De La Espriella retomará el plan para construir el megaproyecto de tren interoceánico que arrancó Petro; invertirá en vías y aeropuerto",
+        "capturado": "2026-09-07T17:13:47-05:00"
+      },
       {
         "titulo": "El 30 de octubre formularán cargos a Ricardo Roa por presunto exceso de topes en campaña Petro Presidente",
         "url": "https://www.valoraanalitik.com/ricardo-roa-sera-acusado-el-30-de-octubre-por-la-presunta-violacion-de-topes-de-la-campana-petro-presidente/",
