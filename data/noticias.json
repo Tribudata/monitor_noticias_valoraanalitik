@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-08T10:02:51-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-08T13:55:47-05:00",
+  "nuevos_en_esta_corrida": 19,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Avianca obtiene crédito de entidad de Brasil hasta por US$300 millones para arreglar motores",
+        "url": "https://www.valoraanalitik.com/avianca-logra-financiacion-de-agencia-brasilena-por-hasta-us300-millones-para-mantenimiento-de-motores/",
+        "resumen": "Avianca podrá financiar los trabajos de revisión de sus motores CFM56 en Brasil mediante una operación respaldada por una agencia estatal brasileña.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Avianca logra financiación de agencia brasileña por hasta US$300 millones para mantenimiento de motores",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Bolsa de Colombia llega a máximo histórico con el indicador MSCI Colcap",
+        "url": "https://www.valoraanalitik.com/indice-msci-colcap-toca-record-historico-hasta-donde-puede-llegar-la-bolsa-colombiana/",
+        "resumen": "La magnitud del cambio es evidente. Entre 2015 y 2023, el Colcap se movió en un rango estrecho, con mínimos recurrentes cerca de los 1.100 puntos.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Índice MSCI Colcap toca récord histórico: ¿hasta dónde puede llegar la bolsa colombiana?",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Ministerio de Transporte plantea cambio en contratos para mover vigencias futuras viales",
+        "url": "https://www.valoraanalitik.com/mintransporte-propone-modificacion-contractual-para-reprogramar-vigencias-futuras/",
+        "resumen": "Según explicó la ministra, la alternativa contractual busca evitar mayores presiones sobre un presupuesto que está altamente comprometido.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "MinTransporte propone “modificación contractual” para reprogramar vigencias futuras de megaproyectos",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Gobierno de la Espriella autoriza porte de armas a ciertos ciudadanos con requisitos",
+        "url": "https://www.valoraanalitik.com/estas-personas-podran-portar-armas-en-colombia-por-orden-del-gobierno-de-la-espriella/",
+        "resumen": "El gobierno De la Espriella expuso las justificaciones para levantar restricciones sobre el porte de armas en Colombia.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Estas personas podrán portar armas en Colombia por orden del gobierno De la Espriella: Deberán tener importantes documentos",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Así va la licitación de la Línea 2 del metro bogotano y lo que sigue",
+        "url": "https://www.valoraanalitik.com/linea-2-del-metro-de-bogota-asi-avanza-el-proceso-de-licitacion-y-lo-que-viene/",
+        "resumen": "El alcalde Carlos Fernando Galán calificó la llegada de las tres propuestas como una noticia clave, en particular para Engativá y Suba.",
+        "autor": "",
+        "subseccion": "Uncategorized",
+        "publicacion": "",
+        "titulo_fuente": "Línea 2 del metro de Bogotá: así avanza el proceso de licitación y lo que viene",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Ministros de la administración De la Espriella exponen requerimientos de presupuesto al Congreso",
+        "url": "https://www.valoraanalitik.com/en-vivo-ministros-del-gobierno-de-la-espriella-presentan-sus-necesidades-presupuestales-al-congreso/",
+        "resumen": "Ministros de Agricultura y Vivienda presentaron a las comisiones económicas conjuntas sus necesidades presupuestales este martes.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "En vivo | Ministros del gobierno De la Espriella presentan sus necesidades presupuestales al Congreso",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Gobierno elimina prohibición general para porte de armas: novedades y estado de permisos actuales",
+        "url": "https://www.valoraanalitik.com/gobierno-levanta-suspension-general-para-porte-de-armas-de-fuego-que-cambia-y-que-pasara-con-permisos-vigentes/",
+        "resumen": "El propio texto es explícito en marcar los límites de la medida, no crea nuevos derechos ni amplía el universo de personas autorizadas.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno levanta suspensión general para porte de armas de fuego: ¿qué cambia y qué pasará con permisos vigentes?",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Alejandro Piedrahíta, antes en Grupo Argos, asumirá como vicepresidente de Estrategia en Corona",
+        "url": "https://www.valoraanalitik.com/alejandro-piedrahita-ex-grupo-argos-sera-el-nuevo-vicepresidente-estrategia-desarrollo-negocio-corona/",
+        "resumen": "Se graduó como administrador de negocios de la Universidad Eafit, y posteriormente realizó una Maestría en Ciencias (M.Sc.) en desarrollo económico.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Alejandro Piedrahíta, ex Grupo Argos, será el nuevo vicepresidente de Estrategia y Desarrollo de Negocios de Corona",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Empresas y costos más elevados en el servicio de energía para el estrato cuatro en el país",
+        "url": "https://www.valoraanalitik.com/este-es-el-listado-de-las-empresas-y-tarifas-mas-caras-en-energia-para-el-estrato-4-en-colombia/",
+        "resumen": "El fenómeno de El Niño y una mayor dependencia del gas importado serían algunos de los factores que impulsaron estos incrementos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Este es el listado de las empresas y tarifas más caras en energía para el estrato 4 en Colombia",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Resultados Pisa 2025: Colombia desciende en lectura y matemáticas, distantes del promedio OCDE",
+        "url": "https://www.valoraanalitik.com/pruebas-pisa-2025-colombia-retrocede-en-matematicas-y-lectura-sigue-lejos-de-los-paises-ocde/",
+        "resumen": "Pisa permite comparar el desempeño educativo de distintos países y sistemas escolares.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Pruebas Pisa 2025: Colombia retrocede en matemáticas y lectura, sigue lejos de los países OCDE",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "El costo de la energía en los hogares colombianos subió durante la inflación de agosto",
+        "url": "https://www.valoraanalitik.com/canasta-energetica-para-los-hogares-colombianos-aumento-en-la-inflacion-de-agosto/",
+        "resumen": "El fenómeno de El Niño y una mayor dependencia del gas importado serían algunos de los factores que impulsaron estos incrementos.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Canasta energética para los hogares colombianos aumentó en la inflación de agosto",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Designan a Tatyana Orozco como la nueva presidenta de la Cámara Colombiana de la Infraestructura",
+        "url": "https://www.valoraanalitik.com/tatyana-orozco-nueva-presidenta-de-la-camara-colombiana-de-la-infraestructura/",
+        "resumen": "La Junta Directiva de la agremiación designó a la exdirectora de Prosperidad Social como nueva presidenta. Este es el perfil de la nueva dirigente de la CCI.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Tatyana Orozco es la nueva presidenta de la Cámara Colombiana de la Infraestructura (CCI)",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
       {
         "titulo": "Subida del salario mínimo colombiano en 2027 sería menor al diez por ciento pese a la elevada inflación",
         "url": "https://www.valoraanalitik.com/aumento-del-salario-minimo-en-colombia-en-2027-podria-ser-de-un-solo-digito-a-pesar-de-la-alta-inflacion/",
@@ -483,129 +603,79 @@
         "publicacion": "",
         "titulo_fuente": "«Prima de riesgo de Colombia seguirá descendiendo»: Manuel García de Skandia analiza la coyuntura de país frente al panorama global",
         "capturado": "2026-09-05T18:10:42-05:00"
-      },
-      {
-        "titulo": "Estudio revela que Cali trabaja al 71 % de su ritmo normal luego del movimiento telúrico",
-        "url": "https://www.valoraanalitik.com/actividad-economica-cali-tras-terremoto/",
-        "resumen": "Un reporte de la Universidad ICESI y la Cámara de Comercio de Cali muestra recuperación sostenida tres semanas después del terremoto.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Actividad económica de Cali opera al 71 % de sus niveles habituales tras el terremoto, según estudio",
-        "capturado": "2026-09-05T16:03:31-05:00"
-      },
-      {
-        "titulo": "Este es el megaproyecto para modernizar el aeropuerto de Barranquilla; traerá billonaria inversión",
-        "url": "https://www.valoraanalitik.com/megaproyecto-aeropuerto-barranquilla/",
-        "resumen": "La iniciativa Puerta de Oro contempla expandir y modernizar el aeropuerto Ernesto Cortissoz, con obras que contemplan una inversión estimada de $3,1 billones.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Este es el megaproyecto para renovar el aeropuerto de Barranquilla; movilizará billonaria inversión",
-        "capturado": "2026-09-05T13:55:22-05:00"
-      },
-      {
-        "titulo": "Patinetas eléctricas de Yango se extienden en Colombia: Medellín ya aprobó y buscan más urbes",
-        "url": "https://www.valoraanalitik.com/patinetas-electricas-de-yango-se-expanden-en-colombia-medellin-ya-esta-autorizada-y-van-por-mas-ciudades/",
-        "resumen": "En entrevista con Valora Analitik, Mark Bitton, country manager de Yango, confirmó la llegada de sus patinetas a Medellín y la expansión a más ciudades.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Exclusiva l Patinetas eléctricas de Yango se expanden en Colombia: Medellín ya está autorizada y van por más ciudades",
-        "capturado": "2026-09-05T13:55:22-05:00"
-      },
-      {
-        "titulo": "Entrevista | Oxxo abrirá 700 locales en Colombia este año y prepara su aplicación: habla su director",
-        "url": "https://www.valoraanalitik.com/entrevista-oxxo-anuncia-app-700-tiendas/",
-        "resumen": "Oxxo suma 5.400 empleados y presencia en 40 municipios. El 70 % de sus tiendas abrió en los últimos tres años.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Oxxo llegará a 700 tiendas en Colombia este año y alista app propia: esto dice su director general",
-        "capturado": "2026-09-05T11:41:34-05:00"
-      },
-      {
-        "titulo": "De la Espriella endurece estrategia de seguridad y lanza plan para captar inversión: Milagro Week",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-endurece-politica-de-seguridad-y-anuncia-plan-para-atraer-inversion-extranjera-milagro-week/",
-        "resumen": "Colombia tendría un papel protagónico en la Comisión de Seguridad de la ONU y presencia en los escenarios de discusión internacional.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella endurece política de seguridad y anuncia plan para atraer inversión extranjera: «Milagro Week»",
-        "capturado": "2026-09-05T11:41:34-05:00"
-      },
-      {
-        "titulo": "Primicia | Mineros analiza cotizar en la Bolsa de Nueva York; ejecutó US$20 millones en recompra de acciones",
-        "url": "https://www.valoraanalitik.com/mineros-explora-posibilidad-de-listarse-en-la-bolsa-de-nueva-york-ejecuto-us20-millones-en-recompra-de-acciones/",
-        "resumen": "El presidente de Mineros, Daniel Henao, habló sobre los planes financieros de la organización minera.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Mineros explora posibilidad de listarse en la Bolsa de Nueva York; ejecutó US$20 millones en recompra de acciones",
-        "capturado": "2026-09-05T08:48:08-05:00"
-      },
-      {
-        "titulo": "Fallo reciente restringe a las copropiedades en sus castigos y cobros a residentes con deudas",
-        "url": "https://www.valoraanalitik.com/nuevo-fallo-pone-limites-a-conjuntos-residenciales-por-medidas-y-sanciones-contra-propietarios-morosos/",
-        "resumen": "Un fallo sobre propiedad horizontal aclara hasta dónde puede llegar un conjunto residencial con medidas frente a propietarios que tienen deudas.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo fallo pone límites a conjuntos residenciales por medidas y sanciones contra propietarios morosos",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella confirma que el dólar flotará y expone motivos de su descenso",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-ratifica-que-no-intervendra-el-dolar-y-revela-causas-de-su-caida/",
-        "resumen": "El viceministro de Hacienda, dijo los efectos adversos que esto podría traer en la economía del país.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella ratifica que no intervendrá el dólar y revela causas de su caída",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Davivienda prevé avance del PIB de 2,5 % en 2026; hueco fiscal y sismo frenarán la economía",
-        "url": "https://www.valoraanalitik.com/davivienda-proyecta-crecimiento-economico-del-25-para-2026-desafio-fiscal-y-terremoto-moderaran-el-pib/",
-        "resumen": "La entidad señaló una parálisis productiva dado que la actividad económica se detuvo parcial o totalmente en varias regiones tras el terremoto.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Davivienda proyecta crecimiento económico del 2,5 % para 2026; desafío fiscal y terremoto moderarán el PIB",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Claro Colombia apunta a 7 millones de hogares con fibra y avisa sobre escasez de energía",
-        "url": "https://www.valoraanalitik.com/claro-colombia-pone-la-mira-en-7-millones-de-hogares-con-fibra-optica-y-advierte-por-deficit-de-energia/",
-        "resumen": "El ejecutivo consideró que el país necesita fortalecer la generación, transmisión y distribución de energía para responder a la demanda.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Claro Colombia pone la mira en 7 millones de hogares con fibra óptica y advierte por déficit de energía",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Extracción ilegal provocó que Chocó perdiera cada año el área de 81.000 canchas de fútbol",
-        "url": "https://www.valoraanalitik.com/mineria-ilicita-causo-que-choco-perdiera-el-equivalente-a-81-000-canchas-de-futbol-al-ano/",
-        "resumen": "El Ministerio de Minas y Energía añadió que 85 % del total de consultas previas en el continente americano se concentran en Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Minería ilícita causó que Chocó perdiera el equivalente a 81.000 canchas de fútbol al año",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "GeoPark concreta su llegada a Venezuela mediante pacto para la explotación del bloque Bare",
-        "url": "https://www.valoraanalitik.com/geopark-sella-su-entrada-a-venezuela-con-acuerdo-para-desarrollar-el-bloque-bare/",
-        "resumen": "El proyecto contempla la recuperación y modernización del bloque Bare, un activo de crudo pesado localizado en la Faja Petrolífera del Orinoco.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark sella su entrada a Venezuela con acuerdo para desarrollar el bloque Bare",
-        "capturado": "2026-09-04T21:49:43-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Bolsa de valores colombiana alcanza máximo histórico con el índice MSCI Colcap y genera expectativa",
+        "url": "https://www.valoraanalitik.com/indice-msci-colcap-toca-record-historico-hasta-donde-puede-llegar-la-bolsa-colombiana/",
+        "resumen": "La magnitud del cambio es evidente. Entre 2015 y 2023, el Colcap se movió en un rango estrecho, con mínimos recurrentes cerca de los 1.100 puntos.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Índice MSCI Colcap toca récord histórico: ¿hasta dónde puede llegar la bolsa colombiana?",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Agencia brasileña otorga a Avianca financiación hasta por US$300 millones para arreglar motores",
+        "url": "https://www.valoraanalitik.com/avianca-logra-financiacion-de-agencia-brasilena-por-hasta-us300-millones-para-mantenimiento-de-motores/",
+        "resumen": "Avianca podrá financiar los trabajos de revisión de sus motores CFM56 en Brasil mediante una operación respaldada por una agencia estatal brasileña.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Avianca logra financiación de agencia brasileña por hasta US$300 millones para mantenimiento de motores",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Ministerio de Transporte sugiere cambio en contratos para mover vigencias futuras de grandes obras",
+        "url": "https://www.valoraanalitik.com/mintransporte-propone-modificacion-contractual-para-reprogramar-vigencias-futuras/",
+        "resumen": "Según explicó la ministra, la alternativa contractual busca evitar mayores presiones sobre un presupuesto que está altamente comprometido.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "MinTransporte propone “modificación contractual” para reprogramar vigencias futuras de megaproyectos",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Alejandro Piedrahíta, que estuvo en Grupo Argos, asumirá la vicepresidencia de Corona",
+        "url": "https://www.valoraanalitik.com/alejandro-piedrahita-ex-grupo-argos-sera-el-nuevo-vicepresidente-estrategia-desarrollo-negocio-corona/",
+        "resumen": "Se graduó como administrador de negocios de la Universidad Eafit, y posteriormente realizó una Maestría en Ciencias (M.Sc.) en desarrollo económico.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Alejandro Piedrahíta, ex Grupo Argos, será el nuevo vicepresidente de Estrategia y Desarrollo de Negocios de Corona",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Empresas y costos más altos en el servicio de energía para el estrato cuatro en Colombia",
+        "url": "https://www.valoraanalitik.com/este-es-el-listado-de-las-empresas-y-tarifas-mas-caras-en-energia-para-el-estrato-4-en-colombia/",
+        "resumen": "El fenómeno de El Niño y una mayor dependencia del gas importado serían algunos de los factores que impulsaron estos incrementos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Este es el listado de las empresas y tarifas más caras en energía para el estrato 4 en Colombia",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "El costo de la energía en los hogares colombianos subió durante la inflación de agosto",
+        "url": "https://www.valoraanalitik.com/canasta-energetica-para-los-hogares-colombianos-aumento-en-la-inflacion-de-agosto/",
+        "resumen": "El fenómeno de El Niño y una mayor dependencia del gas importado serían algunos de los factores que impulsaron estos incrementos.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Canasta energética para los hogares colombianos aumentó en la inflación de agosto",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
+      {
+        "titulo": "Tatyana Orozco asume como la nueva presidenta de la Cámara Colombiana de la Infraestructura CCI",
+        "url": "https://www.valoraanalitik.com/tatyana-orozco-nueva-presidenta-de-la-camara-colombiana-de-la-infraestructura/",
+        "resumen": "La Junta Directiva de la agremiación designó a la exdirectora de Prosperidad Social como nueva presidenta. Este es el perfil de la nueva dirigente de la CCI.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Tatyana Orozco es la nueva presidenta de la Cámara Colombiana de la Infraestructura (CCI)",
+        "capturado": "2026-09-08T13:55:47-05:00"
+      },
       {
         "titulo": "GeoPark, propiedad del Grupo Gilinski, destinará cerca de US$7.000 millones para triplicar su bombeo en Venezuela",
         "url": "https://www.valoraanalitik.com/geopark-del-grupo-gilinski-invertira-casi-us7-000-millones-para-triplicar-produccion-de-petroleo-en-venezuela/",
