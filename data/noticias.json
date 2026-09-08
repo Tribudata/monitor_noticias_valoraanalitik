@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-07T17:13:47-05:00",
+  "actualizado": "2026-09-07T19:37:26-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De La Espriella busca reactivar energía en Chocó con plantas diésel, solar y capital privado",
+        "url": "https://www.valoraanalitik.com/con-inversion-privada-plantas-diesel-y-energia-solar-gobierno-de-la-espriella-pretende-reactivar-al-choco-en-materia-energetica/",
+        "resumen": "La ministra de Minas y Energía abordó algunos planes que tiene para la región luego del terremoto del 10 de agosto de 2026.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Con inversión privada, plantas diésel y energía solar, Gobierno De La Espriella pretende reactivar al Chocó en materia energética",
+        "capturado": "2026-09-07T19:37:26-05:00"
+      },
+      {
+        "titulo": "En agosto, la inflación anual nacional continuó subiendo al 6,24 % y superó los pronósticos del mercado",
+        "url": "https://www.valoraanalitik.com/inflacion-anual-en-colombia-persiste-al-alza-y-llego-al-624-en-agosto-por-encima-de-las-proyecciones-del-mercado/",
+        "resumen": "La inflación anual presentó un incremento de 1,14 puntos porcentuales frente al mismo periodo del año anterior.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Inflación anual en Colombia persiste al alza y llegó al 6,24 % en agosto, por encima de las proyecciones del mercado",
+        "capturado": "2026-09-07T19:37:26-05:00"
+      },
+      {
+        "titulo": "XM señala necesidad de directrices para exportar energía colombiana ante escasez",
+        "url": "https://www.valoraanalitik.com/xm-debe-haber-directrices-en-exportaciones-de-energia-de-colombia-en-condiciones-de-escasez/",
+        "resumen": "En julio de 2026, medios ecuatorianos mencionaron que la venta desde Colombia se daría hasta diciembre del mismo año.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "XM: debe haber directrices en exportaciones de energía de Colombia en condiciones de escasez",
+        "capturado": "2026-09-07T19:37:26-05:00"
+      },
+      {
+        "titulo": "Nuevas normas fiscales retan a empresas familiares colombianas y pocas llegan a tercera generación",
+        "url": "https://www.valoraanalitik.com/nuevas-reglas-tributarias-ponen-a-prueba-a-las-empresas-familiares-en-colombia/",
+        "resumen": "Ocho de las 15 empresas con mayores ingresos del país son familiares, pero 7 de cada 10 no llegan a la tercera generación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Nuevas reglas tributarias ponen a prueba a las empresas familiares en Colombia: la mayoría no logra pasar a la tercera generación",
+        "capturado": "2026-09-07T19:37:26-05:00"
+      },
       {
         "titulo": "Tasa de cambio bajó al cierre y el mercado aguarda el dato inflacionario de agosto",
         "url": "https://www.valoraanalitik.com/dolar-en-colombia-cerro-con-tendencia-a-la-baja-mercado-espera-dato-de-inflacion-de-agosto/",
@@ -556,6 +596,46 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Gobierno De La Espriella busca reactivar energía en Chocó mediante plantas diésel, solar y capital privado",
+        "url": "https://www.valoraanalitik.com/con-inversion-privada-plantas-diesel-y-energia-solar-gobierno-de-la-espriella-pretende-reactivar-al-choco-en-materia-energetica/",
+        "resumen": "La ministra de Minas y Energía abordó algunos planes que tiene para la región luego del terremoto del 10 de agosto de 2026.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Con inversión privada, plantas diésel y energía solar, Gobierno De La Espriella pretende reactivar al Chocó en materia energética",
+        "capturado": "2026-09-07T19:37:26-05:00"
+      },
+      {
+        "titulo": "En agosto, la inflación anual nacional subió a 6,24 % y superó las estimaciones del mercado",
+        "url": "https://www.valoraanalitik.com/inflacion-anual-en-colombia-persiste-al-alza-y-llego-al-624-en-agosto-por-encima-de-las-proyecciones-del-mercado/",
+        "resumen": "La inflación anual presentó un incremento de 1,14 puntos porcentuales frente al mismo periodo del año anterior.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Inflación anual en Colombia persiste al alza y llegó al 6,24 % en agosto, por encima de las proyecciones del mercado",
+        "capturado": "2026-09-07T19:37:26-05:00"
+      },
+      {
+        "titulo": "XM señala necesidad de directrices para exportar energía colombiana en escasez",
+        "url": "https://www.valoraanalitik.com/xm-debe-haber-directrices-en-exportaciones-de-energia-de-colombia-en-condiciones-de-escasez/",
+        "resumen": "En julio de 2026, medios ecuatorianos mencionaron que la venta desde Colombia se daría hasta diciembre del mismo año.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "XM: debe haber directrices en exportaciones de energía de Colombia en condiciones de escasez",
+        "capturado": "2026-09-07T19:37:26-05:00"
+      },
+      {
+        "titulo": "Nuevas normas fiscales retan a empresas familiares en Colombia y la mayoría no llega a tercera generación",
+        "url": "https://www.valoraanalitik.com/nuevas-reglas-tributarias-ponen-a-prueba-a-las-empresas-familiares-en-colombia/",
+        "resumen": "Ocho de las 15 empresas con mayores ingresos del país son familiares, pero 7 de cada 10 no llegan a la tercera generación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Nuevas reglas tributarias ponen a prueba a las empresas familiares en Colombia: la mayoría no logra pasar a la tercera generación",
+        "capturado": "2026-09-07T19:37:26-05:00"
+      },
       {
         "titulo": "De la Espriella y empresarios impulsan Plan Marshall para el Chocó con un billón en vías, malecón y canal",
         "url": "https://www.valoraanalitik.com/de-la-espriella-y-empresarios-lanzan-ambicioso-plan-marshall-para-el-choco-1-billon-en-vias-malecon-y-canal-interoceanico/",
