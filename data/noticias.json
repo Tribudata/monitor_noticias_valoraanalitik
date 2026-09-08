@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-07T19:37:26-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-08T00:46:09-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Colectividad liberal confirmó su paso a la administración de De la Espriella",
+        "url": "https://www.valoraanalitik.com/liberales-anunciaron-que-seran-partido-de-gobierno-de-de-la-espriella/",
+        "resumen": "La declaración política también precisa que la condición de partido de Gobierno no implica abandonar la independencia.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Liberales anunciaron que serán partido de Gobierno de De la Espriella",
+        "capturado": "2026-09-08T00:46:09-05:00"
+      },
       {
         "titulo": "Gobierno De La Espriella busca reactivar energía en Chocó con plantas diésel, solar y capital privado",
         "url": "https://www.valoraanalitik.com/con-inversion-privada-plantas-diesel-y-energia-solar-gobierno-de-la-espriella-pretende-reactivar-al-choco-en-materia-energetica/",
@@ -596,6 +606,16 @@
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Grupo Nutresa avisó que tradicional y popular marca de café reducirá su costo",
+        "url": "https://www.valoraanalitik.com/grupo-nutresa-anuncio-que-tradicional-marca-de-cafe-y-muy-consumida-por-ciudadanos-bajara-de-precio/",
+        "resumen": "El ajuste de precios no será uniforme para todas las referencias. Las reducciones dependerán del gramaje y de la presentación de cada producto.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Nutresa anuncio que tradicional marca de café, y muy consumida por ciudadanos, bajará de precio",
+        "capturado": "2026-09-08T00:46:09-05:00"
+      },
       {
         "titulo": "Gobierno De La Espriella busca reactivar energía en Chocó mediante plantas diésel, solar y capital privado",
         "url": "https://www.valoraanalitik.com/con-inversion-privada-plantas-diesel-y-energia-solar-gobierno-de-la-espriella-pretende-reactivar-al-choco-en-materia-energetica/",
