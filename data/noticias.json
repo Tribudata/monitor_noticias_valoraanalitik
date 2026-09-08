@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-08T16:45:10-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-09-08T18:57:34-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Consejo de Estado define liquidación de aportes a seguridad social y excluye ciertos pagos laborales",
+        "url": "https://www.valoraanalitik.com/consejo-de-estado-aclara-el-calculo-de-aportes-a-seguridad-social-estos-pagos-que-reciben-los-trabajadores-no-deben-incluirse/",
+        "resumen": "Una decisión del Consejo de Estado aclara qué pagos pueden quedar por fuera de los aportes a seguridad social y cómo debe aplicarse el límite del 40 %.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Consejo de Estado aclara el cálculo de aportes a seguridad social: estos pagos que reciben los trabajadores no deben incluirse",
+        "capturado": "2026-09-08T18:57:34-05:00"
+      },
+      {
+        "titulo": "Indicadores de inflación básica del BanRep suben en agosto y rebasan el 6 por ciento en sus mediciones",
+        "url": "https://www.valoraanalitik.com/inflaciones-basicas-del-banrep-registran-nueva-aceleracion-en-agosto-y-superan-el-6-en-todas-sus-medidas/",
+        "resumen": "La inflación sin alimentos ni regulados experimentó una nueva aceleración en agosto, dejando atrás el alivio temporal registrado en julio.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Inflaciones básicas del BanRep registran nueva aceleración en agosto y superan el 6 % en todas sus medidas",
+        "capturado": "2026-09-08T18:57:34-05:00"
+      },
+      {
+        "titulo": "Colombia y Estados Unidos inician nueva fase de cooperación con los acuerdos de Barranquilla",
+        "url": "https://www.valoraanalitik.com/colombia-y-ee-uu-abren-una-nueva-etapa-de-cooperacion-con-los-acuerdos-de-barranquilla-de-que-se-trata/",
+        "resumen": "Estas fueron las conclusiones tras la reunión entre Abelardo de la Espriella y Marco Rubio.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Colombia y EE. UU. abren una nueva etapa de cooperación con ‘Los acuerdos de Barranquilla, ¿de qué se trata?",
+        "capturado": "2026-09-08T18:57:34-05:00"
+      },
       {
         "titulo": "Variación en las compras de los colombianos durante el primer semestre de 2026",
         "url": "https://www.valoraanalitik.com/les-esta-alcanzando-mas-el-dinero-a-los-colombianos-este-cambio-en-sus-compras-marco-el-primer-semestre-de-2026/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | “Esperamos recuperar y trabajar para exportar nuevamente carbón a Israel”, presidente de Drummond",
         "capturado": "2026-09-07T10:10:13-05:00"
-      },
-      {
-        "titulo": "Volvo da nueva vida a pilas de vehículos eléctricos para abastecer energía solar en zonas rurales del país",
-        "url": "https://www.valoraanalitik.com/volvo-reutiliza-baterias-de-carros-electricos-para-llevar-energia-solar-a-comunidades-rurales-de-colombia/",
-        "resumen": "En Colombia más de 1,32 millones de hogares tienen déficit de energía, de acuerdo con cifras de la UPME.",
-        "autor": "",
-        "subseccion": "Importantes fin de semana",
-        "publicacion": "",
-        "titulo_fuente": "Volvo reutiliza baterías de carros eléctricos para llevar energía solar a comunidades rurales de Colombia",
-        "capturado": "2026-09-06T18:40:19-05:00"
-      },
-      {
-        "titulo": "Entrevista exclusiva con el cofundador y CPTO sobre la expansión de Littio hacia nuevos mercados desde Dubái",
-        "url": "https://www.valoraanalitik.com/entrevista-littio-alista-expansion-cpto/",
-        "resumen": "«Lo que falta no es talento, es distribución», dice Óscar Flórez, que opera desde Dubai tras pasar por Revolut, Rappi, Habi y Huspy.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Littio alista expansión a nuevos mercados desde Dubai: habla su cofundador y CPTO",
-        "capturado": "2026-09-06T18:40:19-05:00"
-      },
-      {
-        "titulo": "El procedimiento requerido cuando un menor de edad desea laborar en Colombia",
-        "url": "https://www.valoraanalitik.com/el-tramite-que-se-debe-hacer-si-un-menor-de-edad-quiere-trabajar-en-colombia/",
-        "resumen": "Los adolescentes que quieran trabajar o hacer prácticas laborales en Colombia deben cumplir un trámite especial; así funciona y estos son los requisitos.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "El trámite que se debe hacer si un menor de edad quiere trabajar en Colombia",
-        "capturado": "2026-09-06T16:37:12-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Consejo de Estado precisa liquidación de cotizaciones: dichos emolumentos laborales se excluyen",
+        "url": "https://www.valoraanalitik.com/consejo-de-estado-aclara-el-calculo-de-aportes-a-seguridad-social-estos-pagos-que-reciben-los-trabajadores-no-deben-incluirse/",
+        "resumen": "Una decisión del Consejo de Estado aclara qué pagos pueden quedar por fuera de los aportes a seguridad social y cómo debe aplicarse el límite del 40 %.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Consejo de Estado aclara el cálculo de aportes a seguridad social: estos pagos que reciben los trabajadores no deben incluirse",
+        "capturado": "2026-09-08T18:57:34-05:00"
+      },
       {
         "titulo": "Indra Group destinó $1.800 millones en tecnología para sismo y entregará $500 millones en donación",
         "url": "https://www.valoraanalitik.com/indra-group-ha-invertido-1-800-millones-para-atender-emergencia-por-terremoto/",
