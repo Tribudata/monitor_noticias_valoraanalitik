@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-08T13:55:47-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-09-08T16:45:10-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Variación en las compras de los colombianos durante el primer semestre de 2026",
+        "url": "https://www.valoraanalitik.com/les-esta-alcanzando-mas-el-dinero-a-los-colombianos-este-cambio-en-sus-compras-marco-el-primer-semestre-de-2026/",
+        "resumen": "Los hogares colombianos modificaron sus compras durante 2026 y las cifras muestran cómo están administrando ahora su presupuesto.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "¿Les está alcanzando más el dinero a los colombianos? Este cambio en sus compras marcó el primer semestre de 2026",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
+      {
+        "titulo": "Indra Group destinó $1.800 millones en tecnología por sismo y donará $500 millones",
+        "url": "https://www.valoraanalitik.com/indra-group-ha-invertido-1-800-millones-para-atender-emergencia-por-terremoto/",
+        "resumen": "Los recursos se han empleado en temas de conectividad satelital, análisis de imágenes satelitales y de datos.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Indra Group ha invertido $1.800 millones en despliegue tecnológico para atender emergencia por terremoto; donará $500 millones",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
+      {
+        "titulo": "Rodolfo Castillo de Icoharinas asumirá la presidencia de la Junta Directiva de la ANDI",
+        "url": "https://www.valoraanalitik.com/rodolfo-castillo-sera-nuevo-presidente-de-la-junta-directiva-de-la-andi/",
+        "resumen": "La elección se realizó este 8 de septiembre y corresponde al periodo 2026-2027.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Rodolfo Castillo, socio fundador de Icoharinas, será nuevo presidente de la Junta Directiva de la ANDI",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
+      {
+        "titulo": "Administración De La Espriella frenará compra de tierras en 2027 y recortará 10.000 contratistas agro",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-no-comprara-tierras-en-2027-y-anuncia-recorte-de-10-000-contratistas-en-sector-agro/",
+        "resumen": "El ministro Indalecio Dangond ordenó congelar por completo el desembolso de los $1,4 billones pendientes y abrir una rigurosa auditoría forense.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella no comprará tierras en 2027 y anuncia recorte de 10.000 contratistas en sector agro",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella convoca subasta eléctrica por Fenómeno del Niño y prevé aumento de tarifas",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-subasta-de-energia-ante-fuerte-nino-anticipa-alza-de-tarifas/",
+        "resumen": "María Nohemi Arboleda, ministra de Minas y Energías, señaló que están buscando con la finalidad de abastecer el mercado energético colombiano.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella anuncia subasta de energía ante fuerte Niño; anticipa alza de tarifas",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
+      {
+        "titulo": "Un sismo venidero en Colombia pondría en aprietos a gran parte de dueños de casa: la inquietante cifra",
+        "url": "https://www.valoraanalitik.com/un-proximo-terremoto-en-colombia-podria-poner-contra-las-cuerdas-a-la-mayoria-de-propietarios-de-vivienda/",
+        "resumen": "Los daños del último terremoto dejaron en evidencia un riesgo que millones de propietarios podrían enfrentar si vuelve a ocurrir un sismo de gran magnitud.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Un próximo terremoto en Colombia podría poner contra las cuerdas a la mayoría de propietarios de vivienda: el preocupante dato",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
+      {
+        "titulo": "Nueva sentencia sobre impuesto de renta acota a la DIAN: dichos egresos sí serían válidos",
+        "url": "https://www.valoraanalitik.com/nuevo-fallo-sobre-declaracion-de-renta-pone-limites-a-la-dian-estos-gastos-si-podrian-ser-aceptados/",
+        "resumen": "Una decisión del Consejo de Estado aclara qué soportes pueden respaldar ciertos gastos en la declaración de renta y hasta dónde puede exigir pruebas la DIAN.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo fallo sobre declaración de renta pone límites a la DIAN: estos gastos sí podrían ser aceptados",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia baja a $3.111, impulsada por petróleo alto y descenso del DXY",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-hasta-los-3-111-presionado-por-el-crudo-en-maximos-y-la-caida-del-dxy/",
+        "resumen": "Esto movió al dólar en Colombia durante la jornada del 8 de septiembre",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia retrocede hasta los $3.111, presionado por el crudo en máximos y la caída del DXY",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
       {
         "titulo": "Avianca obtiene crédito de entidad de Brasil hasta por US$300 millones para arreglar motores",
         "url": "https://www.valoraanalitik.com/avianca-logra-financiacion-de-agencia-brasilena-por-hasta-us300-millones-para-mantenimiento-de-motores/",
@@ -523,89 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "El trámite que se debe hacer si un menor de edad quiere trabajar en Colombia",
         "capturado": "2026-09-06T16:37:12-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella plantea cambios en consulta previa y da prioridad a iniciativas energéticas como Sirius",
-        "url": "https://www.valoraanalitik.com/reforma-consulta-previa-proyectos-colombia/",
-        "resumen": "El ministro del Interior, Rodrigo Lara, señaló que se busca agilizar los procesos y evitar que se conviertan en un obstáculo para la inversión.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella anuncia reforma a consulta previa y prioriza proyectos energéticos como Sirius",
-        "capturado": "2026-09-06T14:26:15-05:00"
-      },
-      {
-        "titulo": "Mapei anuncia expansión en Colombia con nueva planta costeña para exportar y mira hacia Venezuela",
-        "url": "https://www.valoraanalitik.com/entrevista-mapei-revela-crecimiento-en-colombia-con-ampliacion-de-su-planta-en-el-caribe-para-potenciar-exportaciones-expectativa-con-venezuela/",
-        "resumen": "Miguel Perilla, gerente general de Mapei Colombia, mencionó: “Esperamos que sea la construcción uno de los pilares y motores de la economía».",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Mapei revela crecimiento en Colombia con ampliación de su planta en el Caribe para potenciar exportaciones: expectativa con Venezuela",
-        "capturado": "2026-09-06T12:17:24-05:00"
-      },
-      {
-        "titulo": "Colectora, obra energética esencial, sufrirá otra demora y no empezará a funcionar este año",
-        "url": "https://www.valoraanalitik.com/colectora-tendra-nuevo-retraso-este-ano/",
-        "resumen": "El proyecto de transmisión de energía ahora estima su entrega para abril de 2027, tras más de ocho años de gestión.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colectora, proyecto energético clave para el país, tendrá nuevo retraso y no entrará en operación este año",
-        "capturado": "2026-09-06T12:17:24-05:00"
-      },
-      {
-        "titulo": "Ramo, la firma de Chocoramo, creció con fuerza en el primer semestre y prevé un cierre récord",
-        "url": "https://www.valoraanalitik.com/ramo-crecimiento-primer-semestre-2026/",
-        "resumen": "Su presidente, Juan Carlos Vargas, aseguró que la compañía viene acelerando sus resultados y prevé cerrar el año con crecimiento en volumen y rentabilidad.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ramo, tradicional marca dueña de Chocoramo, tuvo fuerte crecimiento en primer semestre; proyecta cierre de año histórico",
-        "capturado": "2026-09-06T12:17:24-05:00"
-      },
-      {
-        "titulo": "El 46 % de los colombianos que solicita incremento salarial no lo obtiene, panorama de los sueldos en el país",
-        "url": "https://www.valoraanalitik.com/el-46-de-los-colombianos-que-pide-aumento-no-lo-consigue/",
-        "resumen": "Los ajustes salariales son una práctica extendida en el país, pero las expectativas sobre la remuneración siguen influyendo en la permanencia laboral.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "El 46 % de los colombianos que pide aumento no lo consigue: así se mueve el salario en Colombia",
-        "capturado": "2026-09-06T09:21:28-05:00"
-      },
-      {
-        "titulo": "Presupuesto del 2027 detiene la valorización de los TES en Colombia y revive los interrogantes fiscales",
-        "url": "https://www.valoraanalitik.com/presupuesto-de-2027-frena-la-valorizacion-de-los-tes-colombianos-y-reaviva-las-dudas-fiscales/",
-        "resumen": "Para los analistas, el drástico movimiento visto en los mercados refleja el impacto de un diagnóstico fiscal mucho más grave del esperado.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Presupuesto de 2027 frena la valorización de los TES colombianos y reaviva las dudas fiscales",
-        "capturado": "2026-09-06T09:21:28-05:00"
-      },
-      {
-        "titulo": "MicroSourcing llega a Latinoamérica y Colombia funcionará como su centro de operaciones regional",
-        "url": "https://www.valoraanalitik.com/microsourcing-desembarca-en-america-latina-y-colombia-sera-su-base-para-operar-regionalmente/",
-        "resumen": "La compañía global de servicios de BPO inauguró en Bogotá su primer centro de operaciones en la región.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MicroSourcing desembarca en América Latina y Colombia será su base para operar regionalmente",
-        "capturado": "2026-09-05T18:10:42-05:00"
-      },
-      {
-        "titulo": "Manuel García de Skandia evalúa la situación nacional y afirma que el riesgo país disminuirá",
-        "url": "https://www.valoraanalitik.com/prima-de-riesgo-de-colombia-seguira-descendiendo-manuel-garcia-de-skandia-analiza-la-coyuntura-de-pais-frente-al-panorama-global/",
-        "resumen": "Colombia, según el directivo, tiene la oportunidad histórica de convertirse en uno de los ganadores de esta carrera de atracción de capital.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "«Prima de riesgo de Colombia seguirá descendiendo»: Manuel García de Skandia analiza la coyuntura de país frente al panorama global",
-        "capturado": "2026-09-05T18:10:42-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Indra Group destinó $1.800 millones en tecnología para sismo y entregará $500 millones en donación",
+        "url": "https://www.valoraanalitik.com/indra-group-ha-invertido-1-800-millones-para-atender-emergencia-por-terremoto/",
+        "resumen": "Los recursos se han empleado en temas de conectividad satelital, análisis de imágenes satelitales y de datos.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Indra Group ha invertido $1.800 millones en despliegue tecnológico para atender emergencia por terremoto; donará $500 millones",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
+      {
+        "titulo": "Rodolfo Castillo, socio fundador de Icoharinas, asumirá la presidencia de la Junta Directiva de la ANDI",
+        "url": "https://www.valoraanalitik.com/rodolfo-castillo-sera-nuevo-presidente-de-la-junta-directiva-de-la-andi/",
+        "resumen": "La elección se realizó este 8 de septiembre y corresponde al periodo 2026-2027.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Rodolfo Castillo, socio fundador de Icoharinas, será nuevo presidente de la Junta Directiva de la ANDI",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella convoca subasta eléctrica por Fenómeno del Niño y advierte incremento en tarifas",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-subasta-de-energia-ante-fuerte-nino-anticipa-alza-de-tarifas/",
+        "resumen": "María Nohemi Arboleda, ministra de Minas y Energías, señaló que están buscando con la finalidad de abastecer el mercado energético colombiano.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella anuncia subasta de energía ante fuerte Niño; anticipa alza de tarifas",
+        "capturado": "2026-09-08T16:45:10-05:00"
+      },
       {
         "titulo": "Bolsa de valores colombiana alcanza máximo histórico con el índice MSCI Colcap y genera expectativa",
         "url": "https://www.valoraanalitik.com/indice-msci-colcap-toca-record-historico-hasta-donde-puede-llegar-la-bolsa-colombiana/",
