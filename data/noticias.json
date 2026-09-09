@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-09T15:46:51-05:00",
+  "actualizado": "2026-09-09T18:06:16-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Acciones de Colombia, Chile y Perú operarán en bolsa unificada desde 2027 a la espera de trámites",
+        "url": "https://www.valoraanalitik.com/mercado-integrado-2027-esto-es-lo-que-falta/",
+        "resumen": "La integración ya cuenta con una plataforma común de negociación; aún debe completar requisitos de posnegociación y ajustes regulatorios.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Mercado integrado para negociar acciones de Colombia, Chile y Perú entrará en operación en 2027; esto es lo que falta",
+        "capturado": "2026-09-09T18:06:16-05:00"
+      },
+      {
+        "titulo": "Proyecto estatal de 1,2 billones para liquidez energética en 2026 detalla su posible fondeo",
+        "url": "https://www.valoraanalitik.com/asi-se-financiaria-el-proyecto-de-ley-del-gobierno-por-12-billones-para-dar-liquidez-al-sector-energetico-2026/",
+        "resumen": "El gobierno de Abelardo de la Espriella reveló cómo planea conseguir el dinero para atender la emergencia del fenómeno de El Niño.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Así se financiaría el proyecto de ley del Gobierno por $1,2 billones para dar liquidez al sector energético 2026",
+        "capturado": "2026-09-09T18:06:16-05:00"
+      },
+      {
+        "titulo": "Nueva iniciativa replantea cobros del ICA en Bogotá para bancos, autos y cooperativas",
+        "url": "https://www.valoraanalitik.com/nueva-propuesta-redefine-tarifas-del-ica-en-bogota-para-vehiculos-cooperativas-y-sector-financiero/",
+        "resumen": "La tarifa del ICA para el sector bancario de Bogotá sería aplicado de manera progresiva.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Nueva propuesta redefine tarifas del ICA en Bogotá para vehículos, cooperativas y sector financiero",
+        "capturado": "2026-09-09T18:06:16-05:00"
+      },
+      {
+        "titulo": "Elizabeth Rey quedará al frente de la zona Andina de Citi operando desde territorio colombiano",
+        "url": "https://www.valoraanalitik.com/elizabeth-rey-lider-region-citi-colombia/",
+        "resumen": "Rey mantendrá la presidencia de Citi Colombia y sumará las operaciones corporativas de Chile, Ecuador y Perú.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Elizabeth Rey asumirá liderazgo de la región Andina de Citi desde Colombia",
+        "capturado": "2026-09-09T18:06:16-05:00"
+      },
+      {
+        "titulo": "CREG anuncia cronograma clave y estrategia para actualizar el cargo por confiabilidad nacional",
+        "url": "https://www.valoraanalitik.com/creg-confirma-plan-para-modernizar-el-cargo-por-confiabilidad-en-colombia-revela-fecha-clave/",
+        "resumen": "La CREG también evalúa medidas complementarias relacionadas con la disponibilidad de energía para atender contingencias climáticas",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "CREG confirma plan para modernizar el cargo por confiabilidad en Colombia: revela fecha clave",
+        "capturado": "2026-09-09T18:06:16-05:00"
+      },
       {
         "titulo": "MinHacienda apoya cobros diferenciados de luz en el Caribe y urge fijar tiempos y favorecidos",
         "url": "https://www.valoraanalitik.com/minhacienda-respalda-tarifas-diferenciales-de-energia-para-la-costa-pide-definir-beneficiarios-y-plazos/",
@@ -553,59 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Dólar en Colombia arranca a la baja y vuelve a acercarse a los $3.100",
         "capturado": "2026-09-08T10:02:51-05:00"
-      },
-      {
-        "titulo": "Flávio Bolsonaro achica brecha con Lula y encoge contienda presidencial en Brasil",
-        "url": "https://www.valoraanalitik.com/flavio-bolsonaro-recorta-ventaja-de-lula-y-estrecha-carrera-presidencial-en-brasil/",
-        "resumen": "La expectativa electoral también comienza a trasladarse a un fuerte incremento en el interés de compra sobre el ETF.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Flávio Bolsonaro recorta ventaja de Lula y estrecha carrera presidencial en Brasil",
-        "capturado": "2026-09-08T10:02:51-05:00"
-      },
-      {
-        "titulo": "De la Espriella afirma que dichas EPS colombianas van a ser liquidadas",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-sentencia-que-estas-eps-en-colombia-seran-liquidadas/",
-        "resumen": "Las EPS en Colombia cambiarán su modelo de financiamiento ha mencionado el gobierno De la Espriella.",
-        "autor": "",
-        "subseccion": "Reforma a la salud colombia",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella sentencia que estas EPS en Colombia serán “liquidadas”",
-        "capturado": "2026-09-08T10:02:51-05:00"
-      },
-      {
-        "titulo": "Colectividad liberal confirmó su paso a la administración de De la Espriella",
-        "url": "https://www.valoraanalitik.com/liberales-anunciaron-que-seran-partido-de-gobierno-de-de-la-espriella/",
-        "resumen": "La declaración política también precisa que la condición de partido de Gobierno no implica abandonar la independencia.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Liberales anunciaron que serán partido de Gobierno de De la Espriella",
-        "capturado": "2026-09-08T00:46:09-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella busca reactivar energía en Chocó con plantas diésel, solar y capital privado",
-        "url": "https://www.valoraanalitik.com/con-inversion-privada-plantas-diesel-y-energia-solar-gobierno-de-la-espriella-pretende-reactivar-al-choco-en-materia-energetica/",
-        "resumen": "La ministra de Minas y Energía abordó algunos planes que tiene para la región luego del terremoto del 10 de agosto de 2026.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Con inversión privada, plantas diésel y energía solar, Gobierno De La Espriella pretende reactivar al Chocó en materia energética",
-        "capturado": "2026-09-07T19:37:26-05:00"
-      },
-      {
-        "titulo": "En agosto, la inflación anual nacional continuó subiendo al 6,24 % y superó los pronósticos del mercado",
-        "url": "https://www.valoraanalitik.com/inflacion-anual-en-colombia-persiste-al-alza-y-llego-al-624-en-agosto-por-encima-de-las-proyecciones-del-mercado/",
-        "resumen": "La inflación anual presentó un incremento de 1,14 puntos porcentuales frente al mismo periodo del año anterior.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Inflación anual en Colombia persiste al alza y llegó al 6,24 % en agosto, por encima de las proyecciones del mercado",
-        "capturado": "2026-09-07T19:37:26-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Asi se fondearia la iniciativa del Gobierno por 1,2 billones para inyectar liquidez al sector energetico 2026",
+        "url": "https://www.valoraanalitik.com/asi-se-financiaria-el-proyecto-de-ley-del-gobierno-por-12-billones-para-dar-liquidez-al-sector-energetico-2026/",
+        "resumen": "El gobierno de Abelardo de la Espriella reveló cómo planea conseguir el dinero para atender la emergencia del fenómeno de El Niño.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Así se financiaría el proyecto de ley del Gobierno por $1,2 billones para dar liquidez al sector energético 2026",
+        "capturado": "2026-09-09T18:06:16-05:00"
+      },
+      {
+        "titulo": "Nueva iniciativa modifica cobros del ICA en Bogota para automotores, cooperativas y sector financiero",
+        "url": "https://www.valoraanalitik.com/nueva-propuesta-redefine-tarifas-del-ica-en-bogota-para-vehiculos-cooperativas-y-sector-financiero/",
+        "resumen": "La tarifa del ICA para el sector bancario de Bogotá sería aplicado de manera progresiva.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Nueva propuesta redefine tarifas del ICA en Bogotá para vehículos, cooperativas y sector financiero",
+        "capturado": "2026-09-09T18:06:16-05:00"
+      },
+      {
+        "titulo": "CREG ratifica programa para actualizar el cargo por confiabilidad en Colombia y da fecha crucial",
+        "url": "https://www.valoraanalitik.com/creg-confirma-plan-para-modernizar-el-cargo-por-confiabilidad-en-colombia-revela-fecha-clave/",
+        "resumen": "La CREG también evalúa medidas complementarias relacionadas con la disponibilidad de energía para atender contingencias climáticas",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "CREG confirma plan para modernizar el cargo por confiabilidad en Colombia: revela fecha clave",
+        "capturado": "2026-09-09T18:06:16-05:00"
+      },
       {
         "titulo": "Primicia | Coordinadora impulsa su expansión y compite en el mercado de carga aérea en Colombia",
         "url": "https://www.valoraanalitik.com/coordinadora-acelera-expansion-y-entra-de-lleno-al-negocio-de-carga-aerea-en-colombia/",
@@ -1174,36 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "El nuevo y revolucionario desarrollo de Hitachi Energy y Eve Air Mobility que impulsará la movilidad aérea urbana del mundo",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Mineros, Drummond, Cerrejón, Cerro Matoso y Aris Mining lideran la reputación minera en Colombia",
-        "url": "https://www.valoraanalitik.com/drummond-cerrejon-mineros-cerro-matoso-y-aris-mining-son-las-companias-mineras-con-mejor-reputacion-en-colombia/",
-        "resumen": "En el Congreso de la ACM, el sector señaló que necesita seguridad física en los territorios y estabilidad en las reglas de juego para promover la inversión.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Drummond, Cerrejón, Mineros, Cerro Matoso y Aris Mining son las compañías mineras con mejor reputación en Colombia",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Tecnoglass despachará miles de ventanales hacia las regiones damnificadas por el sismo",
-        "url": "https://www.valoraanalitik.com/tecnoglass-enviara-miles-de-ventanas-a-zonas-afectadas-por-el-terremoto/",
-        "resumen": "El Grupo se sumó a la campaña ‘Colombia un solo corazón’ con el envío de las primeras 500 ventanas corredizas a Buenaventura.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tecnoglass enviará miles de ventanas a zonas afectadas por el terremoto",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Cali aporta el 4,6 % del PIB, se afianza como urbe biointeligente y acogerá Smart City Expo 2026",
-        "url": "https://www.valoraanalitik.com/cali-sede-smart-city-expo-2026-corferias/",
-        "resumen": "Smart City se realizará del 30 de septiembre al 1 de octubre en el Centro de Eventos Valle del Pacífico, reuniendo a más de 3.000 visitantes y 43 expositores.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Aportando el 4,6 % del PIB nacional, Cali se consolida como ciudad biointeligente y será la sede de Smart City Expo 2026",
         "capturado": "2026-09-04T21:49:43-05:00"
       }
     ]
