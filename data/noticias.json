@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-08T18:57:34-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-08T23:27:43-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Hidroituango registra utilidades por $1,09 billones y fija distribución entre socios",
+        "url": "https://www.valoraanalitik.com/hidroituango-reporta-ganancias-por-109-billones-y-define-reparto-entre-accionistas/",
+        "resumen": "La compañía destacó el comportamiento de sus cifras financieras durante los primeros seis meses de 2026.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Hidroituango reporta ganancias por $1,09 billones y define reparto entre accionistas",
+        "capturado": "2026-09-08T23:27:43-05:00"
+      },
+      {
+        "titulo": "CREG implementa herramienta para asegurar abastecimiento eléctrico por fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/creg-activa-mecanismo-para-garantizar-el-suministro-de-energia-ante-fenomeno-de-el-nino/",
+        "resumen": "De acuerdo con la CREG, la activación del mecanismo incorpora una serie de disposiciones destinadas a administrar los recursos disponibles.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "CREG activa mecanismo para garantizar el suministro de energía ante fenómeno de El Niño",
+        "capturado": "2026-09-08T23:27:43-05:00"
+      },
+      {
+        "titulo": "Pasivo externo de Colombia continúa cayendo; en junio se situó bajo el 50 %",
+        "url": "https://www.valoraanalitik.com/deuda-externa-de-colombia-sigue-moviendose-a-la-baja-en-junio-se-ubico-por-debajo-del-50/",
+        "resumen": "El indicador se redujo en 2 puntos porcentuales (pp) hasta el 48,6 % del PIB, según cifras preliminares del Banco de la República.",
+        "autor": "",
+        "subseccion": "Banco de la republica",
+        "publicacion": "",
+        "titulo_fuente": "Deuda externa de Colombia sigue moviéndose a la baja; en junio se ubicó por debajo del 50 %",
+        "capturado": "2026-09-08T23:27:43-05:00"
+      },
+      {
+        "titulo": "Marco Rubio entregó señales clave sobre el porvenir de los aranceles de EE. UU. a Colombia",
+        "url": "https://www.valoraanalitik.com/marco-rubio-dio-pistas-clave-sobre-el-futuro-de-los-aranceles-de-ee-uu-a-colombia/",
+        "resumen": "Rubio explicó que el proceso requiere avanzar dentro de un marco jurídico específico.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Marco Rubio dio pistas clave sobre el futuro de los aranceles de EE. UU. a Colombia",
+        "capturado": "2026-09-08T23:27:43-05:00"
+      },
+      {
+        "titulo": "Aliadas presenta al Gobierno 30 iniciativas para reformar normas laborales: labor por horas y ajustes al contrato de aprendizaje",
+        "url": "https://www.valoraanalitik.com/aliadas-entrega-al-gobierno-30-propuestas-para-modificar-reglas-laborales-trabajo-por-horas-y-cambios-en-contrato-de-aprendizaje/",
+        "resumen": "El Ministerio del Trabajo confirmó la puesta en marcha de mesas técnicas para revisar cada una de las 30 propuestas entregadas por Aliadas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aliadas entrega al Gobierno 30 propuestas para modificar reglas laborales: trabajo por horas y cambios en contrato de aprendizaje",
+        "capturado": "2026-09-08T23:27:43-05:00"
+      },
       {
         "titulo": "Consejo de Estado define liquidación de aportes a seguridad social y excluye ciertos pagos laborales",
         "url": "https://www.valoraanalitik.com/consejo-de-estado-aclara-el-calculo-de-aportes-a-seguridad-social-estos-pagos-que-reciben-los-trabajadores-no-deben-incluirse/",
@@ -553,59 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "El índice MSCI Colcap cierra en máximos históricos semanales",
         "capturado": "2026-09-07T10:10:13-05:00"
-      },
-      {
-        "titulo": "Iniciativa minera de AngloGold Ashanti en Antioquia superaría ventas externas de banano y ferroníquel",
-        "url": "https://www.valoraanalitik.com/exportaciones-de-banano-y-ferroniquel-se-verian-superadas-por-proyecto-minero-de-anglogold-ashanti-en-antioquia/",
-        "resumen": "El plan de localiza al suroeste antioqueño, a tres horas de Medellín, y concentra cobre, oro y plata.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Exportaciones de banano y ferroníquel se verían superadas por proyecto minero de AngloGold Ashanti en Antioquia",
-        "capturado": "2026-09-07T10:10:13-05:00"
-      },
-      {
-        "titulo": "Empresarios más influyentes del país irán a Chocó con Abelardo De la Espriella para apoyar reconstrucción",
-        "url": "https://www.valoraanalitik.com/abelardo-de-la-espriella-llevara-a-choco-a-los-empresarios-mas-poderosos-de-colombia-para-impulsar-reconstruccion/",
-        "resumen": "La visita presidencial se produce días después de una reunión extraordinaria en la sede de la Presidencia en Barranquilla.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Abelardo De la Espriella llevará a Chocó a los empresarios más poderosos de Colombia para impulsar reconstrucción",
-        "capturado": "2026-09-07T10:10:13-05:00"
-      },
-      {
-        "titulo": "Premercado | Bolsas mundiales cautelosas por petróleo y tasas; Asia avanza gracias al sector tecnológico",
-        "url": "https://www.valoraanalitik.com/premercado-petroleo-y-tasas-generan-cautela-en-bolsas-globales-asia-sube-por-auge-de-acciones-tecnologicas/",
-        "resumen": "Los mercados monetarios han descontado casi por completo una subida de tipos de interés de 25 puntos básicos por parte del BCE.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Petróleo y tasas generan cautela en bolsas globales; Asia sube por auge de acciones tecnológicas",
-        "capturado": "2026-09-07T10:10:13-05:00"
-      },
-      {
-        "titulo": "Fuerte fenómeno de El Niño presionará la inflación colombiana y encarecerá el almuerzo corriente",
-        "url": "https://www.valoraanalitik.com/con-un-fenomeno-de-el-nino-mas-fuerte-la-inflacion-en-colombia-tendra-mayores-riesgos-y-encarecera-el-corrientazo/",
-        "resumen": "Las expectativas se mantienen para que la inflación en Colombia suba hasta el 7 % a cierre de este año",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Con un fenómeno de El Niño más fuerte, la inflación en Colombia tendrá mayores riesgos y encarecerá el corrientazo",
-        "capturado": "2026-09-07T10:10:13-05:00"
-      },
-      {
-        "titulo": "Entrevista | Presidente de Drummond afirma que buscan retomar operaciones y exportaciones de carbón a Israel",
-        "url": "https://www.valoraanalitik.com/entrevista-esperamos-recuperar-y-trabajar-para-exportar-nuevamente-carbon-a-israel-presidente-de-drummond/",
-        "resumen": "El presidente de una de las compañías mineras más grandes de Colombia habló sobre sus metas de producción y la perspectiva del mercado del carbón.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | “Esperamos recuperar y trabajar para exportar nuevamente carbón a Israel”, presidente de Drummond",
-        "capturado": "2026-09-07T10:10:13-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Hidroituango registra utilidades de 1,09 billones de pesos y fija distribución entre socios",
+        "url": "https://www.valoraanalitik.com/hidroituango-reporta-ganancias-por-109-billones-y-define-reparto-entre-accionistas/",
+        "resumen": "La compañía destacó el comportamiento de sus cifras financieras durante los primeros seis meses de 2026.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Hidroituango reporta ganancias por $1,09 billones y define reparto entre accionistas",
+        "capturado": "2026-09-08T23:27:43-05:00"
+      },
+      {
+        "titulo": "Aliadas presenta al Gobierno 30 iniciativas para reformar normas laborales, incluyendo labor por horas",
+        "url": "https://www.valoraanalitik.com/aliadas-entrega-al-gobierno-30-propuestas-para-modificar-reglas-laborales-trabajo-por-horas-y-cambios-en-contrato-de-aprendizaje/",
+        "resumen": "El Ministerio del Trabajo confirmó la puesta en marcha de mesas técnicas para revisar cada una de las 30 propuestas entregadas por Aliadas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aliadas entrega al Gobierno 30 propuestas para modificar reglas laborales: trabajo por horas y cambios en contrato de aprendizaje",
+        "capturado": "2026-09-08T23:27:43-05:00"
+      },
       {
         "titulo": "Consejo de Estado precisa liquidación de cotizaciones: dichos emolumentos laborales se excluyen",
         "url": "https://www.valoraanalitik.com/consejo-de-estado-aclara-el-calculo-de-aportes-a-seguridad-social-estos-pagos-que-reciben-los-trabajadores-no-deben-incluirse/",
