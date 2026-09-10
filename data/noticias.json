@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-10T14:29:36-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-09-10T16:49:44-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "GeoPark estudia doble cotización de títulos en el país y mercados externos para captar capital",
+        "url": "https://www.valoraanalitik.com/geopark-listado-doble-acciones-colombia/",
+        "resumen": "La petrolera estudia una segunda plaza bursátil para ampliar la liquidez de su acción; composición accionaria cambiará y dará control a Gilinski.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | GeoPark analiza listado doble de sus acciones en Colombia y otros mercados para atraer más inversionistas",
+        "capturado": "2026-09-10T16:49:44-05:00"
+      },
+      {
+        "titulo": "Acciones & Valores lanza CDT desde quinientos mil pesos mediante su sitio de internet",
+        "url": "https://www.valoraanalitik.com/acciones-valores-cdt-portal-web/",
+        "resumen": "La plataforma permite constituir los títulos de Tuya en plazos de 90 a 520 días y conocer desde el inicio la tasa pactada para la inversión.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Acciones & Valores habilita CDT desde $500.000 a través de su portal web",
+        "capturado": "2026-09-10T16:49:44-05:00"
+      },
+      {
+        "titulo": "Bogotá evalúa nueva colocación de bonos internos para pagar proyectos viales y su valor",
+        "url": "https://www.valoraanalitik.com/bogota-explora-nueva-emision-de-bonos-locales-para-financiar-obras-en-la-ciudad/",
+        "resumen": "La operación todavía está en etapa de análisis y podría realizarse antes de finalizar 2026 o a comienzos de 2027.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Bogotá explora nueva emisión de bonos locales para financiar obras en la ciudad; este sería el monto",
+        "capturado": "2026-09-10T16:49:44-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella prepara decreto fundamental para desarrollar obras costa afuera",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-decreto-clave-para-ejecutar-megaproyectos-de-petroleo-y-gas-en-el-mar-offshore/",
+        "resumen": "La Dirección General Marítima sería clave. Este mecanismo no se encuentra vigente y todavía está en trámite en el Ministerio de Defensa.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella alista decreto clave para ejecutar megaproyectos de petróleo y gas en el mar (offshore)",
+        "capturado": "2026-09-10T16:49:44-05:00"
+      },
+      {
+        "titulo": "Grupo Argos planea inversiones para llegar a Venezuela para 2027 analizando el panorama",
+        "url": "https://www.valoraanalitik.com/grupo-argos-alista-apuestas-para-entrar-a-venezuela-en-2027-asi-ve-las-oportunidades/",
+        "resumen": "Grupo Argos proyecta 2027 con una estrategia que combina nuevos proyectos de infraestructura, generación de energía y desarrollo inmobiliario.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos alista apuestas para entrar a Venezuela en 2027: así ve las oportunidades",
+        "capturado": "2026-09-10T16:49:44-05:00"
+      },
       {
         "titulo": "Motivos de la demora en la iniciativa Colectora y estado actual de las consultas previas con comunidades",
         "url": "https://www.valoraanalitik.com/la-historia-detras-del-retraso-del-proyecto-colectora-en-que-van-las-consultas-previas-a-comunidades/",
@@ -553,59 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Entidades energéticas podrían perder $4,2 billones en presupuesto de inversión para 2027",
         "capturado": "2026-09-09T08:50:40-05:00"
-      },
-      {
-        "titulo": "Cotización del crudo trepa cerca de los US$100 debido a la guerra en Medio Oriente",
-        "url": "https://www.valoraanalitik.com/precio-del-petroleo-se-dispara-y-se-acerca-a-los-us100-por-escalada-del-conflicto-en-oriente-medio/",
-        "resumen": "Llos precios comenzaron nuevamente a ganar terreno a medida que Estados Unidos e Irán retomaron los intercambios militares",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Precio del petróleo se dispara y se acerca a los US$100 por escalada del conflicto en Oriente Medio",
-        "capturado": "2026-09-09T08:50:40-05:00"
-      },
-      {
-        "titulo": "Grupo Argos encabeza las alzas del día en la Bolsa de Valores de Colombia",
-        "url": "https://www.valoraanalitik.com/grupo-argos-lidera-el-avance-de-la-jornada-en-bolsa-de-colombia/",
-        "resumen": "Las acciones de Grupo Argos subieron 7,71 %.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos lidera el avance de la jornada en Bolsa de Colombia",
-        "capturado": "2026-09-09T08:50:40-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados mundiales a la baja por Brent sobre US$100 y conflicto bélico",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-globales-sienten-presion-por-petroleo-brent-sobre-us100-y-tension-geopolitica/",
-        "resumen": "El petróleo Brent acumula así un fuerte incremento desde comienzos de agosto y vuelve a niveles que no se observaban desde finales de julio.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas globales sienten presión por petróleo Brent sobre US$100 y tensión geopolítica",
-        "capturado": "2026-09-09T08:50:40-05:00"
-      },
-      {
-        "titulo": "Hidroituango registra utilidades por $1,09 billones y fija distribución entre socios",
-        "url": "https://www.valoraanalitik.com/hidroituango-reporta-ganancias-por-109-billones-y-define-reparto-entre-accionistas/",
-        "resumen": "La compañía destacó el comportamiento de sus cifras financieras durante los primeros seis meses de 2026.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Hidroituango reporta ganancias por $1,09 billones y define reparto entre accionistas",
-        "capturado": "2026-09-08T23:27:43-05:00"
-      },
-      {
-        "titulo": "CREG implementa herramienta para asegurar abastecimiento eléctrico por fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/creg-activa-mecanismo-para-garantizar-el-suministro-de-energia-ante-fenomeno-de-el-nino/",
-        "resumen": "De acuerdo con la CREG, la activación del mecanismo incorpora una serie de disposiciones destinadas a administrar los recursos disponibles.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "CREG activa mecanismo para garantizar el suministro de energía ante fenómeno de El Niño",
-        "capturado": "2026-09-08T23:27:43-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Gobierno De La Espriella prepara decreto fundamental para desarrollar megaproyectos petroleros y gasíferos marinos",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-decreto-clave-para-ejecutar-megaproyectos-de-petroleo-y-gas-en-el-mar-offshore/",
+        "resumen": "La Dirección General Marítima sería clave. Este mecanismo no se encuentra vigente y todavía está en trámite en el Ministerio de Defensa.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella alista decreto clave para ejecutar megaproyectos de petróleo y gas en el mar (offshore)",
+        "capturado": "2026-09-10T16:49:44-05:00"
+      },
+      {
+        "titulo": "Grupo Argos programa inversiones para ingresar a Venezuela en 2027 y analiza las opciones",
+        "url": "https://www.valoraanalitik.com/grupo-argos-alista-apuestas-para-entrar-a-venezuela-en-2027-asi-ve-las-oportunidades/",
+        "resumen": "Grupo Argos proyecta 2027 con una estrategia que combina nuevos proyectos de infraestructura, generación de energía y desarrollo inmobiliario.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos alista apuestas para entrar a Venezuela en 2027: así ve las oportunidades",
+        "capturado": "2026-09-10T16:49:44-05:00"
+      },
       {
         "titulo": "Causas de la demora en la iniciativa Colectora y estado actual de las consultas previas con las comunidades",
         "url": "https://www.valoraanalitik.com/la-historia-detras-del-retraso-del-proyecto-colectora-en-que-van-las-consultas-previas-a-comunidades/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Epiroc: la empresa de US$6.500 millones que quiere expandir su operación en Colombia",
         "capturado": "2026-09-07T14:21:12-05:00"
-      },
-      {
-        "titulo": "Oxford Economics: pacto petrolero entre EE. UU. y Venezuela elevaría la producción, mas persiste duda en su plazo",
-        "url": "https://www.valoraanalitik.com/oxford-economics-acuerdo-petrolero-de-ee-uu-y-venezuela-potenciaria-produccion-de-crudo-pero-persiste-incertidumbre-en-su-duracion/",
-        "resumen": "Las elecciones al Congreso en EE. UU. y la no convocatoria de elecciones en Venezuela son los puntos a tener en cuenta.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Oxford Economics: Acuerdo petrolero de EE. UU. y Venezuela potenciaría producción de crudo, pero persiste incertidumbre en su duración",
-        "capturado": "2026-09-07T14:21:12-05:00"
-      },
-      {
-        "titulo": "El yacimiento minero de AngloGold Ashanti en Antioquia superaría ventas externas de banano y ferroníquel",
-        "url": "https://www.valoraanalitik.com/exportaciones-de-banano-y-ferroniquel-se-verian-superadas-por-proyecto-minero-de-anglogold-ashanti-en-antioquia/",
-        "resumen": "El plan de localiza al suroeste antioqueño, a tres horas de Medellín, y concentra cobre, oro y plata.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Exportaciones de banano y ferroníquel se verían superadas por proyecto minero de AngloGold Ashanti en Antioquia",
-        "capturado": "2026-09-07T10:10:13-05:00"
       }
     ]
   }
