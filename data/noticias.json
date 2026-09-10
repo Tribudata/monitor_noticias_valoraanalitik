@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-09T18:06:16-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-09T20:21:33-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Consejo de Estado detalla por qué devolvieron aportes a congresistas de la Vaca por Antioquia",
+        "url": "https://www.valoraanalitik.com/que-paso-con-la-plata-de-la-vaca-por-antioquia-consejo-de-estado-explico-por-que-algunos-congresistas-recibieron-devolucion-del-dinero/",
+        "resumen": "La ‘Vaca por Antioquia’ terminó en los tribunales por los aportes de congresistas. El Consejo de Estado explicó qué pasó con ese dinero.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "¿Qué pasó con la plata de la ‘Vaca por Antioquia’? Consejo de Estado explicó por qué algunos congresistas recibieron devolución del dinero",
+        "capturado": "2026-09-09T20:21:33-05:00"
+      },
+      {
+        "titulo": "Nuevos megaproyectos viales y aéreos para la movilidad entre Bogotá y Cundinamarca",
+        "url": "https://www.valoraanalitik.com/circuito-aeroportuario-tercer-carril-en-via-a-medellin-y-obras-de-movilidad-los-megaproyectos-que-vienen-en-bogota-cundinamarca/",
+        "resumen": "El director de la Región Metropolitana habló con Valora Analitik sobre las obras de infraestrutura para Bogotá – Cundinamarca.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Circuito aeroportuario, tercer carril en vía a Medellín y obras de movilidad: los megaproyectos que vienen en Bogotá – Cundinamarca",
+        "capturado": "2026-09-09T20:21:33-05:00"
+      },
+      {
+        "titulo": "Bogotá prepara plataforma para empresas y busca reactivar la inversión previa a la pandemia",
+        "url": "https://www.valoraanalitik.com/bogota-alista-sistema-para-emprendedores-mientras-busca-recuperar-inversion-prepandemia/",
+        "resumen": "El nuevo Sistema Distrital de Emprendimiento contará con una red de apoyo para negocios.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá alista sistema para emprendedores mientras busca recuperar inversión prepandemia",
+        "capturado": "2026-09-09T20:21:33-05:00"
+      },
+      {
+        "titulo": "Modificaciones esenciales del Ministerio de Ambiente para Hidroituango y SPEC",
+        "url": "https://www.valoraanalitik.com/estos-son-los-cambios-clave-del-ministerio-de-ambiente-para-spec-e-hidroituango/",
+        "resumen": "Gobierno refuerza sistema energético ante El Niño con más gas y almacenamiento de agua.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los cambios clave del Ministerio de Ambiente para SPEC e Hidroituango",
+        "capturado": "2026-09-09T20:21:33-05:00"
+      },
       {
         "titulo": "Acciones de Colombia, Chile y Perú operarán en bolsa unificada desde 2027 a la espera de trámites",
         "url": "https://www.valoraanalitik.com/mercado-integrado-2027-esto-es-lo-que-falta/",
@@ -563,49 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Atención | Tatyana Orozco es la nueva presidenta de la Cámara Colombiana de la Infraestructura (CCI)",
         "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Subida del salario mínimo colombiano en 2027 sería menor al diez por ciento pese a la elevada inflación",
-        "url": "https://www.valoraanalitik.com/aumento-del-salario-minimo-en-colombia-en-2027-podria-ser-de-un-solo-digito-a-pesar-de-la-alta-inflacion/",
-        "resumen": "Se calienta la discusión del salario mínimo en Colombia para el 2027 con los más recientes datos de inflación.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Aumento del salario mínimo en Colombia en 2027 podría ser de un solo dígito a pesar de la alta inflación",
-        "capturado": "2026-09-08T10:02:51-05:00"
-      },
-      {
-        "titulo": "GeoPark del Grupo Gilinski destinará cerca de US$7.000 millones para triplicar crudo en Venezuela",
-        "url": "https://www.valoraanalitik.com/geopark-del-grupo-gilinski-invertira-casi-us7-000-millones-para-triplicar-produccion-de-petroleo-en-venezuela/",
-        "resumen": "El presidente de la compañía, manifestó que GeoPark es la única empresa privada con extracción de fracking en Argentina y gestión de crudo pesado en Venezuela.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark del Grupo Gilinski invertirá casi US$7.000 millones para triplicar producción de petróleo en Venezuela",
-        "capturado": "2026-09-08T10:02:51-05:00"
-      },
-      {
-        "titulo": "Marco Rubio visita Colombia para afianzar alianza con De la Espriella: seguridad, aranceles y comercio",
-        "url": "https://www.valoraanalitik.com/marco-rubio-llega-a-colombia-para-reforzar-alianza-con-de-la-espriella-seguridad-aranceles-y-comercio-en-la-agenda/",
-        "resumen": "La visita de Rubio también se produce después del giro que ha dado la política de seguridad del Gobierno de De la Espriella hacia Washington.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Marco Rubio llega a Colombia para reforzar alianza con De la Espriella: seguridad, aranceles y comercio en la agenda",
-        "capturado": "2026-09-08T10:02:51-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia inicia en descenso y se aproxima nuevamente a los $3.100",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-arranca-a-la-baja-y-vuelve-a-acercarse-a-los-3100/",
-        "resumen": "Estas son las principales causas del movimiento del dólar al arranque del 8 septiembre.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia arranca a la baja y vuelve a acercarse a los $3.100",
-        "capturado": "2026-09-08T10:02:51-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Bogotá prepara plataforma para negocios y procura captar recursos previos a la emergencia sanitaria",
+        "url": "https://www.valoraanalitik.com/bogota-alista-sistema-para-emprendedores-mientras-busca-recuperar-inversion-prepandemia/",
+        "resumen": "El nuevo Sistema Distrital de Emprendimiento contará con una red de apoyo para negocios.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá alista sistema para emprendedores mientras busca recuperar inversión prepandemia",
+        "capturado": "2026-09-09T20:21:33-05:00"
+      },
+      {
+        "titulo": "Modificaciones esenciales de la cartera ambiental respecto a SPEC e Hidroituango",
+        "url": "https://www.valoraanalitik.com/estos-son-los-cambios-clave-del-ministerio-de-ambiente-para-spec-e-hidroituango/",
+        "resumen": "Gobierno refuerza sistema energético ante El Niño con más gas y almacenamiento de agua.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los cambios clave del Ministerio de Ambiente para SPEC e Hidroituango",
+        "capturado": "2026-09-09T20:21:33-05:00"
+      },
       {
         "titulo": "Asi se fondearia la iniciativa del Gobierno por 1,2 billones para inyectar liquidez al sector energetico 2026",
         "url": "https://www.valoraanalitik.com/asi-se-financiaria-el-proyecto-de-ley-del-gobierno-por-12-billones-para-dar-liquidez-al-sector-energetico-2026/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Minería ilícita causó que Chocó perdiera el equivalente a 81.000 canchas de fútbol al año",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "GeoPark concreta su llegada a territorio venezolano mediante pacto para operar el bloque Bare",
-        "url": "https://www.valoraanalitik.com/geopark-sella-su-entrada-a-venezuela-con-acuerdo-para-desarrollar-el-bloque-bare/",
-        "resumen": "El proyecto contempla la recuperación y modernización del bloque Bare, un activo de crudo pesado localizado en la Faja Petrolífera del Orinoco.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark sella su entrada a Venezuela con acuerdo para desarrollar el bloque Bare",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Alianza entre Hitachi Energy y Eve Air Mobility para potenciar el transporte aéreo urbano global",
-        "url": "https://www.valoraanalitik.com/el-nuevo-y-revolucionario-desarrollo-de-hitachi-energy-y-eve-air-mobility-que-impulsara-la-movilidad-aerea-urbana-del-mundo/",
-        "resumen": "El acuerdo refleja una tendencia que comienza a consolidarse en la transición energética mundial.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "El nuevo y revolucionario desarrollo de Hitachi Energy y Eve Air Mobility que impulsará la movilidad aérea urbana del mundo",
         "capturado": "2026-09-04T21:49:43-05:00"
       }
     ]
