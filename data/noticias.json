@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-10T01:31:35-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-10T07:09:12-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Sondeo Atlas muestra alza en respaldo a De la Espriella y mejora opinión favorable de su administración",
+        "url": "https://www.valoraanalitik.com/encuesta-atlas-aprobacion-de-de-la-espriella-repunto-y-su-gobierno-tiene-mejor-percepcion-positiva/",
+        "resumen": "Así califican la gestión de Abelardo de la Espriella en su primer mes de gobierno.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Encuesta Atlas: Aprobación de De la Espriella repuntó y su gobierno tiene mejor percepción positiva",
+        "capturado": "2026-09-10T07:09:12-05:00"
+      },
+      {
+        "titulo": "Proyecto de la Regasificadora del Pacífico alcanza 80 % de progreso y su expansión finalizaría en abril de 2027",
+        "url": "https://www.valoraanalitik.com/la-regasificadora-del-pacifico-registro-un-avance-de-80-y-su-fase-de-ampliacion-estaria-lista-en-abril-de-2027/",
+        "resumen": "El gerente general de esta infraestructura, Jesús Urías, señaló que existen contrataciones con Ecopetrol y Alcanos.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "La Regasificadora del Pacífico registró un avance de 80 % y su fase de ampliación estaría lista en abril de 2027",
+        "capturado": "2026-09-10T07:09:12-05:00"
+      },
+      {
+        "titulo": "De la Espriella asigna nuevas tareas al vicepresidente Restrepo: liderará energía, inversión, IA y PIB",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-amplia-funciones-al-vicepresidente-restrepo-coordinara-energia-inversion-ia-y-crecimiento-economico/",
+        "resumen": "El decreto también le asigna un papel relevante en la atracción y materialización de inversiones estratégicas.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella amplía funciones al vicepresidente Restrepo: coordinará energía, inversión, IA y crecimiento económico",
+        "capturado": "2026-09-10T07:09:12-05:00"
+      },
+      {
+        "titulo": "Premercado | Mercados pendientes del BCE y cifras de EE. UU mientras el petróleo continúa al alza",
+        "url": "https://www.valoraanalitik.com/premercado-inversores-atentos-a-decision-del-bce-y-datos-clave-de-estados-unidos-petroleo-sigue-subiendo/",
+        "resumen": "Los mercados monetarios descuentan ya casi por completo una subida de los tipos de interés de 25 puntos básicos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Inversores atentos a decisión del BCE y datos clave de Estados Unidos: petróleo sigue subiendo",
+        "capturado": "2026-09-10T07:09:12-05:00"
+      },
+      {
+        "titulo": "Ministra de Energía de la administración De la Espriella advierte que subida en tarifa de luz es segura",
+        "url": "https://www.valoraanalitik.com/no-nos-digamos-mentiras-ministra-energia-gobierno-de-la-espriella-aumento-factura-energia/",
+        "resumen": "Hay escenarios de riesgo que se han materializado y llevan a que el gobierno De la Espriella apoye el aumento de facturas de energía",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "“No nos digamos mentiras”: ministra de Energía del gobierno De la Espriella sobre el aumento inevitable en la factura de energía",
+        "capturado": "2026-09-10T07:09:12-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella imparte nuevas órdenes sobre el drástico cambio en la entrega de fármacos",
+        "url": "https://www.valoraanalitik.com/radical-cambio-entrega-de-medicamentos-en-colombia-nuevas-ordenes-gobierno-de-la-espriella/",
+        "resumen": "La entrega de medicamentos en Colombia es una de las quejas recurrentes de los usuarios del sistema",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "Así será el radical cambio en la entrega de medicamentos en Colombia con nuevas órdenes del gobierno De la Espriella",
+        "capturado": "2026-09-10T07:09:12-05:00"
+      },
       {
         "titulo": "Consejo de Estado detalla por qué devolvieron aportes a congresistas de la Vaca por Antioquia",
         "url": "https://www.valoraanalitik.com/que-paso-con-la-plata-de-la-vaca-por-antioquia-consejo-de-estado-explico-por-que-algunos-congresistas-recibieron-devolucion-del-dinero/",
@@ -543,69 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "En vivo | Ministros del gobierno De la Espriella presentan sus necesidades presupuestales al Congreso",
         "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Gobierno elimina prohibición general para porte de armas: novedades y estado de permisos actuales",
-        "url": "https://www.valoraanalitik.com/gobierno-levanta-suspension-general-para-porte-de-armas-de-fuego-que-cambia-y-que-pasara-con-permisos-vigentes/",
-        "resumen": "El propio texto es explícito en marcar los límites de la medida, no crea nuevos derechos ni amplía el universo de personas autorizadas.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno levanta suspensión general para porte de armas de fuego: ¿qué cambia y qué pasará con permisos vigentes?",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Alejandro Piedrahíta, antes en Grupo Argos, asumirá como vicepresidente de Estrategia en Corona",
-        "url": "https://www.valoraanalitik.com/alejandro-piedrahita-ex-grupo-argos-sera-el-nuevo-vicepresidente-estrategia-desarrollo-negocio-corona/",
-        "resumen": "Se graduó como administrador de negocios de la Universidad Eafit, y posteriormente realizó una Maestría en Ciencias (M.Sc.) en desarrollo económico.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Alejandro Piedrahíta, ex Grupo Argos, será el nuevo vicepresidente de Estrategia y Desarrollo de Negocios de Corona",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Empresas y costos más elevados en el servicio de energía para el estrato cuatro en el país",
-        "url": "https://www.valoraanalitik.com/este-es-el-listado-de-las-empresas-y-tarifas-mas-caras-en-energia-para-el-estrato-4-en-colombia/",
-        "resumen": "El fenómeno de El Niño y una mayor dependencia del gas importado serían algunos de los factores que impulsaron estos incrementos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Este es el listado de las empresas y tarifas más caras en energía para el estrato 4 en Colombia",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Resultados Pisa 2025: Colombia desciende en lectura y matemáticas, distantes del promedio OCDE",
-        "url": "https://www.valoraanalitik.com/pruebas-pisa-2025-colombia-retrocede-en-matematicas-y-lectura-sigue-lejos-de-los-paises-ocde/",
-        "resumen": "Pisa permite comparar el desempeño educativo de distintos países y sistemas escolares.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Pruebas Pisa 2025: Colombia retrocede en matemáticas y lectura, sigue lejos de los países OCDE",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "El costo de la energía en los hogares colombianos subió durante la inflación de agosto",
-        "url": "https://www.valoraanalitik.com/canasta-energetica-para-los-hogares-colombianos-aumento-en-la-inflacion-de-agosto/",
-        "resumen": "El fenómeno de El Niño y una mayor dependencia del gas importado serían algunos de los factores que impulsaron estos incrementos.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Canasta energética para los hogares colombianos aumentó en la inflación de agosto",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Designan a Tatyana Orozco como la nueva presidenta de la Cámara Colombiana de la Infraestructura",
-        "url": "https://www.valoraanalitik.com/tatyana-orozco-nueva-presidenta-de-la-camara-colombiana-de-la-infraestructura/",
-        "resumen": "La Junta Directiva de la agremiación designó a la exdirectora de Prosperidad Social como nueva presidenta. Este es el perfil de la nueva dirigente de la CCI.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Tatyana Orozco es la nueva presidenta de la Cámara Colombiana de la Infraestructura (CCI)",
-        "capturado": "2026-09-08T13:55:47-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El proyecto Regasificadora del Pacífico alcanzó un 80 % de progreso y su expansión finalizaría en abril de 2027",
+        "url": "https://www.valoraanalitik.com/la-regasificadora-del-pacifico-registro-un-avance-de-80-y-su-fase-de-ampliacion-estaria-lista-en-abril-de-2027/",
+        "resumen": "El gerente general de esta infraestructura, Jesús Urías, señaló que existen contrataciones con Ecopetrol y Alcanos.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "La Regasificadora del Pacífico registró un avance de 80 % y su fase de ampliación estaría lista en abril de 2027",
+        "capturado": "2026-09-10T07:09:12-05:00"
+      },
       {
         "titulo": "Bogotá prepara plataforma para negocios y procura captar recursos previos a la emergencia sanitaria",
         "url": "https://www.valoraanalitik.com/bogota-alista-sistema-para-emprendedores-mientras-busca-recuperar-inversion-prepandemia/",
@@ -1194,16 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Podcast | Protección: tecnología y acompañamiento para responder ante una emergencia",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Extracción ilegal provocó que Chocó perdiera anualmente una superficie similar a 81.000 canchas de fútbol",
-        "url": "https://www.valoraanalitik.com/mineria-ilicita-causo-que-choco-perdiera-el-equivalente-a-81-000-canchas-de-futbol-al-ano/",
-        "resumen": "El Ministerio de Minas y Energía añadió que 85 % del total de consultas previas en el continente americano se concentran en Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Minería ilícita causó que Chocó perdiera el equivalente a 81.000 canchas de fútbol al año",
         "capturado": "2026-09-04T21:49:43-05:00"
       }
     ]
