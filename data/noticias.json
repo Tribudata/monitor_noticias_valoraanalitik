@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-10T11:37:09-05:00",
-  "nuevos_en_esta_corrida": 23,
+  "actualizado": "2026-09-10T14:29:36-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Motivos de la demora en la iniciativa Colectora y estado actual de las consultas previas con comunidades",
+        "url": "https://www.valoraanalitik.com/la-historia-detras-del-retraso-del-proyecto-colectora-en-que-van-las-consultas-previas-a-comunidades/",
+        "resumen": "La filial de GEB, Enlaza, indicó que, si bien se sumaron nuevas comunidades para ser consultadas, esto no comenzó ahora, sino en 2025.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "La historia detrás del retraso del proyecto Colectora: ¿en qué van las consultas previas a comunidades?",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar cae otra vez del piso de $3.100 por fuerte subida en la cotización del petróleo",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-vuelve-a-romper-el-soporte-de-3-100/",
+        "resumen": "La moneda estadounidense mantuvo su presión bajista y cerró en $3.090. El mercado evalúa si la divisa seguirá perdiendo terreno en las próximas jornadas.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia vuelve a romper el soporte de $3.100 en medio de fuerte incremento del precio del petróleo",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "A un mes del movimiento telúrico: Plan Marshall, privados y $30 billones para obras a cargo de MinVivienda",
+        "url": "https://www.valoraanalitik.com/un-mes-del-terremoto-plan-marshall-empresarios-y-30-billones-para-la-reconstruccion-que-liderara-minvivienda/",
+        "resumen": "A un mes del terremoto de Chocó: 331 muertos y una reconstrucción que apenas comienza.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Un mes del terremoto: Plan Marshall, empresarios y $30 billones para la reconstrucción que liderará MinVivienda",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Destacado | Nubank tendrá envíos de dinero sin costo y giros rápidos entre Estados Unidos y Colombia vía Bre-B",
+        "url": "https://www.valoraanalitik.com/nubank-ofrecera-remesas-sin-comisiones-transferencias-inmediatas-ee-uu-colombia-bre-b/",
+        "resumen": "La expectativa de David Vélez, CEO de la firma, es que en las próximas décadas las transferencias internacionales sean inmediatas.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Nubank ofrecerá remesas sin comisiones y transferencias inmediatas entre EE. UU. y Colombia por Bre-B",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Colombia necesita elevar su PIB al menos 5 % y sanear cinco flancos complejos, señaló Bruce Mac Master",
+        "url": "https://www.valoraanalitik.com/mac-master-andi-crecimiento-colombia/",
+        "resumen": "Según el presidente de la ANDI, la deuda absorberá uno de cada cuatro pesos del presupuesto de 2027, pero la crisis aún se corrige con reformas internas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia debe crecer mínimo 5 % y estabilizar cinco frentes críticos: Bruce Mac Master",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Corte Suprema modifica normas de pago de cuotas alimentarias y favorece a varios hogares",
+        "url": "https://www.valoraanalitik.com/corte-suprema-cambia-las-reglas-para-pagar-cuotas-alimentarias/",
+        "resumen": "El pago de cuotas alimentarias tiene importantes cambios tras una decisión de la Corte Suprema que puede cambiar lo que ocurre durante estos procesos.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Corte Suprema cambia las reglas para pagar cuotas alimentarias: decisión beneficia a muchas familias",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Operación del nuevo producto Nu Global: genera atractivos intereses diarios en dólares y euros",
+        "url": "https://www.valoraanalitik.com/nueva-cuenta-nu-global-obtener-importantes-rendimientos-en-dolares-y-euros/",
+        "resumen": "Nu Global es una de las nuevas apuestas del banco digital más importante de América Latina.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Así funciona la nueva cuenta Nu Global: permite obtener importantes rendimientos diarios en dólares y euros",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "La DIAN estaría obligada a reintegrar recursos: verifique si figura entre los favorecidos",
+        "url": "https://www.valoraanalitik.com/la-dian-podria-tener-que-devolverle-dinero-revise-si-esta-entre-los-beneficiados/",
+        "resumen": "La DIAN podría devolver algunos impuestos pagados de más. Estas son las fechas y condiciones que debe revisar para saber si puede reclamar.",
+        "autor": "",
+        "subseccion": "Uncategorized",
+        "publicacion": "",
+        "titulo_fuente": "La DIAN podría tener que devolverle dinero: revise si está entre los beneficiados",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
       {
         "titulo": "Cali acoge el sexto encuentro anual de liderazgo en juntas directivas del CESA para discutir sobre empresas",
         "url": "https://www.valoraanalitik.com/cali-encuentro-anual-juntas-directivas-cesa/",
@@ -523,89 +603,79 @@
         "publicacion": "",
         "titulo_fuente": "CREG activa mecanismo para garantizar el suministro de energía ante fenómeno de El Niño",
         "capturado": "2026-09-08T23:27:43-05:00"
-      },
-      {
-        "titulo": "Pasivo externo de Colombia continúa cayendo; en junio se situó bajo el 50 %",
-        "url": "https://www.valoraanalitik.com/deuda-externa-de-colombia-sigue-moviendose-a-la-baja-en-junio-se-ubico-por-debajo-del-50/",
-        "resumen": "El indicador se redujo en 2 puntos porcentuales (pp) hasta el 48,6 % del PIB, según cifras preliminares del Banco de la República.",
-        "autor": "",
-        "subseccion": "Banco de la republica",
-        "publicacion": "",
-        "titulo_fuente": "Deuda externa de Colombia sigue moviéndose a la baja; en junio se ubicó por debajo del 50 %",
-        "capturado": "2026-09-08T23:27:43-05:00"
-      },
-      {
-        "titulo": "Marco Rubio entregó señales clave sobre el porvenir de los aranceles de EE. UU. a Colombia",
-        "url": "https://www.valoraanalitik.com/marco-rubio-dio-pistas-clave-sobre-el-futuro-de-los-aranceles-de-ee-uu-a-colombia/",
-        "resumen": "Rubio explicó que el proceso requiere avanzar dentro de un marco jurídico específico.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Marco Rubio dio pistas clave sobre el futuro de los aranceles de EE. UU. a Colombia",
-        "capturado": "2026-09-08T23:27:43-05:00"
-      },
-      {
-        "titulo": "Aliadas presenta al Gobierno 30 iniciativas para reformar normas laborales: labor por horas y ajustes al contrato de aprendizaje",
-        "url": "https://www.valoraanalitik.com/aliadas-entrega-al-gobierno-30-propuestas-para-modificar-reglas-laborales-trabajo-por-horas-y-cambios-en-contrato-de-aprendizaje/",
-        "resumen": "El Ministerio del Trabajo confirmó la puesta en marcha de mesas técnicas para revisar cada una de las 30 propuestas entregadas por Aliadas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Aliadas entrega al Gobierno 30 propuestas para modificar reglas laborales: trabajo por horas y cambios en contrato de aprendizaje",
-        "capturado": "2026-09-08T23:27:43-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado define liquidación de aportes a seguridad social y excluye ciertos pagos laborales",
-        "url": "https://www.valoraanalitik.com/consejo-de-estado-aclara-el-calculo-de-aportes-a-seguridad-social-estos-pagos-que-reciben-los-trabajadores-no-deben-incluirse/",
-        "resumen": "Una decisión del Consejo de Estado aclara qué pagos pueden quedar por fuera de los aportes a seguridad social y cómo debe aplicarse el límite del 40 %.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Consejo de Estado aclara el cálculo de aportes a seguridad social: estos pagos que reciben los trabajadores no deben incluirse",
-        "capturado": "2026-09-08T18:57:34-05:00"
-      },
-      {
-        "titulo": "Indicadores de inflación básica del BanRep suben en agosto y rebasan el 6 por ciento en sus mediciones",
-        "url": "https://www.valoraanalitik.com/inflaciones-basicas-del-banrep-registran-nueva-aceleracion-en-agosto-y-superan-el-6-en-todas-sus-medidas/",
-        "resumen": "La inflación sin alimentos ni regulados experimentó una nueva aceleración en agosto, dejando atrás el alivio temporal registrado en julio.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Inflaciones básicas del BanRep registran nueva aceleración en agosto y superan el 6 % en todas sus medidas",
-        "capturado": "2026-09-08T18:57:34-05:00"
-      },
-      {
-        "titulo": "Colombia y Estados Unidos inician nueva fase de cooperación con los acuerdos de Barranquilla",
-        "url": "https://www.valoraanalitik.com/colombia-y-ee-uu-abren-una-nueva-etapa-de-cooperacion-con-los-acuerdos-de-barranquilla-de-que-se-trata/",
-        "resumen": "Estas fueron las conclusiones tras la reunión entre Abelardo de la Espriella y Marco Rubio.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Colombia y EE. UU. abren una nueva etapa de cooperación con ‘Los acuerdos de Barranquilla, ¿de qué se trata?",
-        "capturado": "2026-09-08T18:57:34-05:00"
-      },
-      {
-        "titulo": "Variación en las compras de los colombianos durante el primer semestre de 2026",
-        "url": "https://www.valoraanalitik.com/les-esta-alcanzando-mas-el-dinero-a-los-colombianos-este-cambio-en-sus-compras-marco-el-primer-semestre-de-2026/",
-        "resumen": "Los hogares colombianos modificaron sus compras durante 2026 y las cifras muestran cómo están administrando ahora su presupuesto.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "¿Les está alcanzando más el dinero a los colombianos? Este cambio en sus compras marcó el primer semestre de 2026",
-        "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Indra Group destinó $1.800 millones en tecnología por sismo y donará $500 millones",
-        "url": "https://www.valoraanalitik.com/indra-group-ha-invertido-1-800-millones-para-atender-emergencia-por-terremoto/",
-        "resumen": "Los recursos se han empleado en temas de conectividad satelital, análisis de imágenes satelitales y de datos.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Indra Group ha invertido $1.800 millones en despliegue tecnológico para atender emergencia por terremoto; donará $500 millones",
-        "capturado": "2026-09-08T16:45:10-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Causas de la demora en la iniciativa Colectora y estado actual de las consultas previas con las comunidades",
+        "url": "https://www.valoraanalitik.com/la-historia-detras-del-retraso-del-proyecto-colectora-en-que-van-las-consultas-previas-a-comunidades/",
+        "resumen": "La filial de GEB, Enlaza, indicó que, si bien se sumaron nuevas comunidades para ser consultadas, esto no comenzó ahora, sino en 2025.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "La historia detrás del retraso del proyecto Colectora: ¿en qué van las consultas previas a comunidades?",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Accionistas de Grupo Sura avalan compra de títulos propios hasta por 500.000 millones de pesos",
+        "url": "https://www.valoraanalitik.com/asamblea-de-grupo-sura-aprobo-readquisicion-de-acciones-por-hasta-500-000-millones/",
+        "resumen": "El programa tendrá vigencia hasta el 31 de marzo de 2028 y aplicará tanto para la acción ordinaria como la preferencial.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Asamblea de Grupo Sura aprobó readquisición de acciones por hasta $500.000 millones",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Lemy, el reciente producto digital de Grupo Portafolio Verde para modificar el manejo verde corporativo",
+        "url": "https://www.valoraanalitik.com/lemy-la-nueva-apuesta-tecnologica-de-grupo-portafolio-verde-para-transformar-la-gestion-de-la-sostenibilidad-empresarial/",
+        "resumen": "Lemy está dirigida a empresas que requieren administrar de manera más eficiente procesos asociados con su desempeño ambiental, social y de sostenibilidad.",
+        "autor": "",
+        "subseccion": "Valorasostenible",
+        "publicacion": "",
+        "titulo_fuente": "Lemy, la nueva apuesta tecnológica de Grupo Portafolio Verde para transformar la gestión de la sostenibilidad empresarial",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Agencia de Colocación de Colsubsidio alcanza más de 1.500 ubicados y afianza el vínculo laboral",
+        "url": "https://www.valoraanalitik.com/centro-de-empleo-de-colsubsidio-supera-los-1-500-colocados-y-fortalece-la-conexion-entre-talento-y-empresas/",
+        "resumen": "La estrategia de intermediación laboral de Colsubsidio ha generado resultados relevantes en sectores como TIC y salud, con el apoyo de Magneto.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Centro de Empleo de Colsubsidio supera los 1.500 colocados y fortalece la conexión entre talento y empresas",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Destacado | Nubank tendrá giros sin cobro y envíos rápidos de Estados Unidos a Colombia vía Bre-B",
+        "url": "https://www.valoraanalitik.com/nubank-ofrecera-remesas-sin-comisiones-transferencias-inmediatas-ee-uu-colombia-bre-b/",
+        "resumen": "La expectativa de David Vélez, CEO de la firma, es que en las próximas décadas las transferencias internacionales sean inmediatas.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Nubank ofrecerá remesas sin comisiones y transferencias inmediatas entre EE. UU. y Colombia por Bre-B",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Bruce Mac Master señala que el país requiere un alza de al menos 5 % y calmar cinco áreas clave",
+        "url": "https://www.valoraanalitik.com/mac-master-andi-crecimiento-colombia/",
+        "resumen": "Según el presidente de la ANDI, la deuda absorberá uno de cada cuatro pesos del presupuesto de 2027, pero la crisis aún se corrige con reformas internas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia debe crecer mínimo 5 % y estabilizar cinco frentes críticos: Bruce Mac Master",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
+      {
+        "titulo": "Operación de la cuenta Nu Global: otorga rentabilidades diarias representativas en dólares y euros",
+        "url": "https://www.valoraanalitik.com/nueva-cuenta-nu-global-obtener-importantes-rendimientos-en-dolares-y-euros/",
+        "resumen": "Nu Global es una de las nuevas apuestas del banco digital más importante de América Latina.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Así funciona la nueva cuenta Nu Global: permite obtener importantes rendimientos diarios en dólares y euros",
+        "capturado": "2026-09-10T14:29:36-05:00"
+      },
       {
         "titulo": "Cali acoge el sexto encuentro anual de liderazgo en juntas directivas del CESA",
         "url": "https://www.valoraanalitik.com/cali-encuentro-anual-juntas-directivas-cesa/",
@@ -1135,76 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Exportaciones de banano y ferroníquel se verían superadas por proyecto minero de AngloGold Ashanti en Antioquia",
         "capturado": "2026-09-07T10:10:13-05:00"
-      },
-      {
-        "titulo": "Empresarios más influyentes del país irán a Chocó con Abelardo De la Espriella para apoyar reconstrucción",
-        "url": "https://www.valoraanalitik.com/abelardo-de-la-espriella-llevara-a-choco-a-los-empresarios-mas-poderosos-de-colombia-para-impulsar-reconstruccion/",
-        "resumen": "La visita presidencial se produce días después de una reunión extraordinaria en la sede de la Presidencia en Barranquilla.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Abelardo De la Espriella llevará a Chocó a los empresarios más poderosos de Colombia para impulsar reconstrucción",
-        "capturado": "2026-09-07T10:10:13-05:00"
-      },
-      {
-        "titulo": "Entrevista | Presidente de Drummond afirma que buscan reactivar operaciones y ventas de carbón a Israel",
-        "url": "https://www.valoraanalitik.com/entrevista-esperamos-recuperar-y-trabajar-para-exportar-nuevamente-carbon-a-israel-presidente-de-drummond/",
-        "resumen": "El presidente de una de las compañías mineras más grandes de Colombia habló sobre sus metas de producción y la perspectiva del mercado del carbón.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | “Esperamos recuperar y trabajar para exportar nuevamente carbón a Israel”, presidente de Drummond",
-        "capturado": "2026-09-07T10:10:13-05:00"
-      },
-      {
-        "titulo": "Entrevista al cofundador y CPTO de Littio sobre su plan de expansión global desde Dubái",
-        "url": "https://www.valoraanalitik.com/entrevista-littio-alista-expansion-cpto/",
-        "resumen": "«Lo que falta no es talento, es distribución», dice Óscar Flórez, que opera desde Dubai tras pasar por Revolut, Rappi, Habi y Huspy.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Littio alista expansión a nuevos mercados desde Dubai: habla su cofundador y CPTO",
-        "capturado": "2026-09-06T18:40:19-05:00"
-      },
-      {
-        "titulo": "El camino de Nvidia hacia el liderazgo tecnológico global a través de un componente y una gran inversión",
-        "url": "https://www.valoraanalitik.com/asi-fue-como-nvidia-llego-a-dominar-la-industria-tecnologica/",
-        "resumen": "Lo que comenzó con tres amigos sentados en un restaurante terminó convirtiendo a los chips en el corazón de una de las compañías más poderosas del mundo.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Una pequeña pieza, una apuesta millonaria y una revolución: así fue como Nvidia llegó a dominar la industria tecnológica",
-        "capturado": "2026-09-06T16:37:12-05:00"
-      },
-      {
-        "titulo": "Entrevista | Mapei anuncia expansión en Colombia con nueva planta caribeña para exportar y mira a Venezuela",
-        "url": "https://www.valoraanalitik.com/entrevista-mapei-revela-crecimiento-en-colombia-con-ampliacion-de-su-planta-en-el-caribe-para-potenciar-exportaciones-expectativa-con-venezuela/",
-        "resumen": "Miguel Perilla, gerente general de Mapei Colombia, mencionó: “Esperamos que sea la construcción uno de los pilares y motores de la economía».",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Mapei revela crecimiento en Colombia con ampliación de su planta en el Caribe para potenciar exportaciones: expectativa con Venezuela",
-        "capturado": "2026-09-06T12:17:24-05:00"
-      },
-      {
-        "titulo": "Colectora, iniciativa energética vital, sufrirá otra demora y no empezará a funcionar este año",
-        "url": "https://www.valoraanalitik.com/colectora-tendra-nuevo-retraso-este-ano/",
-        "resumen": "El proyecto de transmisión de energía ahora estima su entrega para abril de 2027, tras más de ocho años de gestión.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colectora, proyecto energético clave para el país, tendrá nuevo retraso y no entrará en operación este año",
-        "capturado": "2026-09-06T12:17:24-05:00"
-      },
-      {
-        "titulo": "Ramo, firma de Chocoramo, creció con fuerza al inicio del año y prevé un cierre histórico",
-        "url": "https://www.valoraanalitik.com/ramo-crecimiento-primer-semestre-2026/",
-        "resumen": "Su presidente, Juan Carlos Vargas, aseguró que la compañía viene acelerando sus resultados y prevé cerrar el año con crecimiento en volumen y rentabilidad.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ramo, tradicional marca dueña de Chocoramo, tuvo fuerte crecimiento en primer semestre; proyecta cierre de año histórico",
-        "capturado": "2026-09-06T12:17:24-05:00"
       }
     ]
   }
