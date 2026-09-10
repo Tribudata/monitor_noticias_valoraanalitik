@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-10T16:49:44-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-10T18:53:53-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Reciente sentencia modifica el escenario frente a ceses de empleados con quebrantos de salud",
+        "url": "https://www.valoraanalitik.com/nuevo-fallo-cambia-el-panorama-sobre-despidos-de-trabajadores-con-problemas-de-salud/",
+        "resumen": "La Corte Suprema precisó cuándo un trabajador con problemas de salud tiene estabilidad laboral reforzada y qué debe analizarse antes de un despido.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo fallo cambia el panorama sobre despidos de trabajadores con problemas de salud",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
+      {
+        "titulo": "Este es el listado de más de 35 naciones que reciben la cuenta multidivisa Nu Global de Nu",
+        "url": "https://www.valoraanalitik.com/nubank-lanzamiento-cuenta-nu-global-paises/",
+        "resumen": "La nueva cobertura anunciada por Nubank incorpora mercados de América y Europa, lo que amplía de manera significativa en ambos continentes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Esta es la lista de más de 35 países donde llega Nu con nueva cuenta multidivisa Nu Global",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
+      {
+        "titulo": "Levantan en Quibdó inicial vivienda de Grupo Argos y Nicky Jam tras sismo y así será la obra",
+        "url": "https://www.valoraanalitik.com/construyen-en-quibdo-primera-casa-de-grupo-argos-y-nicky-jam-tras-terremoto-asi-sera-reconstruccion-de-otras-viviendas/",
+        "resumen": "La iniciativa impulsada por Grupo Argos, la Fundación Grupo Argos y Nicky Jam, que tiene como meta contribuir a la reconstrucción de 1.000 viviendas en el país.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Construyen en Quibdó primera casa de Grupo Argos y Nicky Jam tras terremoto: Así será reconstrucción de otras viviendas",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
+      {
+        "titulo": "Bolsa de valores financiará obras viales y reconstrucción en el país, según Asobolsa",
+        "url": "https://www.valoraanalitik.com/mercado-reconstruccion-obras-colombia/",
+        "resumen": "La Bolsa de Colombia y Asobolsa plantearon el rol del mercado como fuente de financiación para Gobierno, empresas y proyectos productivos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Mercado de capitales será clave para financiar reconstrucción y obras de infraestructura en Colombia: Asobolsa",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
+      {
+        "titulo": "Collective Mining halla millones de onzas de oro en el país y seguirá invirtiendo en Caldas",
+        "url": "https://www.valoraanalitik.com/collective-mining-revela-potencial-de-millones-de-onzas-de-oro-en-proyecto-en-colombia-mantendra-inversion-en-caldas/",
+        "resumen": "La campaña de 2026 apunta a 90.000 metros y quedan entre 35.000 y 40.000 por perforar.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Collective Mining revela potencial de millones de onzas de oro en proyecto en Colombia: mantendrá inversión en Caldas",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
+      {
+        "titulo": "BTG Pactual estrena Tevaicol, el fondo cotizado inaugural en la Bolsa de Valores de Colombia",
+        "url": "https://www.valoraanalitik.com/btg-pactual-etf-bolsa-colombia/",
+        "resumen": "El fondo replica el índice TEVA Colombia Equity y permite invertir en una cartera diversificada de acciones colombianas mediante una sola inversión.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "BTG Pactual lanza Tevaicol, su primer ETF listado en la Bolsa de Valores de Colombia",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
+      {
+        "titulo": "De esta forma varía el envío de dineros de la sobretasa al ACPM en la emergencia del temblor",
+        "url": "https://www.valoraanalitik.com/asi-cambia-el-giro-de-recursos-de-la-sobretasa-al-acpm-durante-emergencia-por-el-sismo/",
+        "resumen": "Al contar con menos recursos, la ciudad podría reprogramar inversiones, reducir nuevas asignaciones o incluso sustituir financiación.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Así cambia el giro de recursos de la sobretasa al ACPM durante emergencia por el sismo",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
       {
         "titulo": "GeoPark estudia doble cotización de títulos en el país y mercados externos para captar capital",
         "url": "https://www.valoraanalitik.com/geopark-listado-doble-acciones-colombia/",
@@ -533,79 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Ministro de Vivienda enfrenta primera moción de censura del gobierno de Abelardo de la Espriella",
         "capturado": "2026-09-09T12:44:06-05:00"
-      },
-      {
-        "titulo": "Inicia plan piloto para reiniciar aspersión aérea de plantaciones de coca en el país sin usar glifosato",
-        "url": "https://www.valoraanalitik.com/arranca-plan-piloto-para-retomar-la-fumigacion-aerea-de-cultivos-de-coca-colombia/",
-        "resumen": "El Consejo Nacional de Estupefacientes dio luz verde al proyecto para analizar si es viable o no retomar la aspersión en todo el país.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Arranca plan piloto para retomar la fumigación aérea de cultivos de coca en Colombia: no se hará con glifosato",
-        "capturado": "2026-09-09T12:44:06-05:00"
-      },
-      {
-        "titulo": "Diseños finales del tercer tramo del metro capitalino quedarán listos en 2027, según el alcalde Galán",
-        "url": "https://www.valoraanalitik.com/estudios-definitivos-linea-3-del-metro-de-bogota-estaran-listos-2027/",
-        "resumen": "El alcalde confirmó que la etapa de factibilidad se desarrollará en conjunto con Cundinamarca y la Región Metropolitana.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Estudios definitivos para la línea 3 del metro de Bogotá estarán listos en 2027: Galán",
-        "capturado": "2026-09-09T12:44:06-05:00"
-      },
-      {
-        "titulo": "Avianca actualiza su servicio superior en el continente con nuevas suites, platos finos y ajustes en salones VIP",
-        "url": "https://www.valoraanalitik.com/avianca-renovacion-oferta-premium-colombia/",
-        "resumen": "Avianca rediseñó Insignia, su cabina ejecutiva en vuelos a Europa y Nueva York operados en Boeing 787, con cambios en asiento, menú y servicio en tierra.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Avianca renueva oferta premium en Colombia y las Américas: nuevas suites en vuelos, menús de lujo y cambios en salas VIP",
-        "capturado": "2026-09-09T12:44:06-05:00"
-      },
-      {
-        "titulo": "Aris Mining ingresó al grupo de treinta empresas con mejor rendimiento en la Bolsa de Toronto tras valorizarse",
-        "url": "https://www.valoraanalitik.com/aris-mining-mejor-desempeno-bolsa-toronto/",
-        "resumen": "La minera de oro, con operaciones en Colombia, fue incluida en el TSX30 de la Bolsa de Toronto (TSX) con valorización de 563 % en el precio de su acción.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Aris Mining entró a las 30 compañías de mejor desempeño de la Bolsa de Toronto; logró importante valorización",
-        "capturado": "2026-09-09T12:44:06-05:00"
-      },
-      {
-        "titulo": "El 2027 terminará obligatoriamente con una inflación de siete por ciento en Colombia",
-        "url": "https://www.valoraanalitik.com/es-inevitable-que-la-inflacion-en-colombia-cierre-en-el-7-en-2027/",
-        "resumen": "El dato de inflación en Colombia, en la variación anual a agosto de 2026, superó las expectativas de los analistas.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Es inevitable que la inflación en Colombia cierre en el 7 % en 2027",
-        "capturado": "2026-09-09T12:44:06-05:00"
-      },
-      {
-        "titulo": "Dólar baja a $3.100 y crudo Brent rebasa los US$100 por primera vez desde julio",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-cede-a-3-100-y-el-brent-supera-los-us100-por-primera-vez-desde-julio/",
-        "resumen": "La divisa se mueve en una zona clave donde los operadores vigilan la aparición de nuevos flujos compradores o una extensión de la presión vendedora.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia cede a $3.100 y el Brent supera los US$100 por primera vez desde julio",
-        "capturado": "2026-09-09T08:50:40-05:00"
-      },
-      {
-        "titulo": "Presupuesto de inversión de empresas de energía caería en $4,2 billones para 2027",
-        "url": "https://www.valoraanalitik.com/entidades-energeticas-podrian-perder-42-billones-en-presupuesto-de-inversion-para-2027/",
-        "resumen": "La ministra de Minas y Energía también afirmó que habrá alza en las tarifas a causa de El Niño, la generación térmica y la importación de gas.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Entidades energéticas podrían perder $4,2 billones en presupuesto de inversión para 2027",
-        "capturado": "2026-09-09T08:50:40-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Nueva sentencia modifica el escenario sobre ceses de empleados con afecciones médicas",
+        "url": "https://www.valoraanalitik.com/nuevo-fallo-cambia-el-panorama-sobre-despidos-de-trabajadores-con-problemas-de-salud/",
+        "resumen": "La Corte Suprema precisó cuándo un trabajador con problemas de salud tiene estabilidad laboral reforzada y qué debe analizarse antes de un despido.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo fallo cambia el panorama sobre despidos de trabajadores con problemas de salud",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
+      {
+        "titulo": "Este es el listado de más de 35 naciones que reciben la cuenta multidivisa Nu Global",
+        "url": "https://www.valoraanalitik.com/nubank-lanzamiento-cuenta-nu-global-paises/",
+        "resumen": "La nueva cobertura anunciada por Nubank incorpora mercados de América y Europa, lo que amplía de manera significativa en ambos continentes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Esta es la lista de más de 35 países donde llega Nu con nueva cuenta multidivisa Nu Global",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
+      {
+        "titulo": "Collective Mining halla millones de onzas de oro en proyecto local y seguirá invirtiendo",
+        "url": "https://www.valoraanalitik.com/collective-mining-revela-potencial-de-millones-de-onzas-de-oro-en-proyecto-en-colombia-mantendra-inversion-en-caldas/",
+        "resumen": "La campaña de 2026 apunta a 90.000 metros y quedan entre 35.000 y 40.000 por perforar.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Collective Mining revela potencial de millones de onzas de oro en proyecto en Colombia: mantendrá inversión en Caldas",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
+      {
+        "titulo": "Acciones simultáneas en tres frentes requiere Colombia para bajar los accidentes viales",
+        "url": "https://www.valoraanalitik.com/comportamiento-vehiculo-e-infraestructura-tres-pilares-que-colombia-debe-atender-de-forma-simultanea-para-reducir-siniestros-viales/",
+        "resumen": "Reducir la siniestralidad a una cuestión de responsabilidad individual es una mirada incompleta, y en términos de política pública, peligrosamente insuficiente.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Comportamiento, vehículo e infraestructura: tres pilares que Colombia debe atender de forma simultánea para reducir siniestros viales",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
+      {
+        "titulo": "De esta manera varía el envío de fondos de la sobretasa al ACPM por el sismo",
+        "url": "https://www.valoraanalitik.com/asi-cambia-el-giro-de-recursos-de-la-sobretasa-al-acpm-durante-emergencia-por-el-sismo/",
+        "resumen": "Al contar con menos recursos, la ciudad podría reprogramar inversiones, reducir nuevas asignaciones o incluso sustituir financiación.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Así cambia el giro de recursos de la sobretasa al ACPM durante emergencia por el sismo",
+        "capturado": "2026-09-10T18:53:53-05:00"
+      },
       {
         "titulo": "Gobierno De La Espriella prepara decreto fundamental para desarrollar megaproyectos petroleros y gasíferos marinos",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-decreto-clave-para-ejecutar-megaproyectos-de-petroleo-y-gas-en-el-mar-offshore/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Ahora | De La Espriella retomará el plan para construir el megaproyecto de tren interoceánico que arrancó Petro; invertirá en vías y aeropuerto",
         "capturado": "2026-09-07T17:13:47-05:00"
-      },
-      {
-        "titulo": "El 30 de octubre formularán cargos a Ricardo Roa por presunto exceso de topes en campaña Petro Presidente",
-        "url": "https://www.valoraanalitik.com/ricardo-roa-sera-acusado-el-30-de-octubre-por-la-presunta-violacion-de-topes-de-la-campana-petro-presidente/",
-        "resumen": "La presunta violación de topes en la campaña que llevó a Petro a la Presidencia tiene al expresidente de Ecopetrol en líos con la justicia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ricardo Roa será acusado el 30 de octubre por la presunta violación de topes de la campaña Petro Presidente",
-        "capturado": "2026-09-07T14:21:12-05:00"
-      },
-      {
-        "titulo": "Atención | Estas son las grandes multinacionales que competirían por hacer la línea 2 del metro de Bogotá",
-        "url": "https://www.valoraanalitik.com/atencion-estas-son-las-poderosas-multinacionales-que-pujarian-por-construir-la-linea-2-del-metro-de-bogota/",
-        "resumen": "Las solicitudes recibidas serán evaluadas por un equipo especializado para determinar cuáles grupos cumplen con las exigencias.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Estas son las poderosas multinacionales que pujarían por construir la línea 2 del metro de Bogotá",
-        "capturado": "2026-09-07T14:21:12-05:00"
-      },
-      {
-        "titulo": "Medellín contará con un nuevo vuelo directo diario hacia un cotizado destino de playa a nivel mundial",
-        "url": "https://www.valoraanalitik.com/medellin-tendra-nuevo-vuelo-directo-diario-a-uno-de-los-destinos-de-playa-mas-apetecidos-del-mundo/",
-        "resumen": "Quienes ya empiezan a cuadrar sus vacaciones tendrán una nueva alternativa para viajar desde Medellín al Caribe.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Medellín tendrá nuevo vuelo directo diario a uno de los destinos de playa más apetecidos del mundo",
-        "capturado": "2026-09-07T14:21:12-05:00"
-      },
-      {
-        "titulo": "Casi tres de cada diez pedidos de comida en DiDi Food surgen en Medellín: cerca del 29 % del total en el primer semestre de 2026",
-        "url": "https://www.valoraanalitik.com/casi-tres-de-cada-diez-solicitudes-de-comida-en-didi-food-nacen-en-medellin-representaron-cerca-del-29-del-volumen-nacional-en-primer-semestre-de-2026/",
-        "resumen": "Cerca de 15.000 usuarios restaurantes están conectados a la app DiDi Food.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Casi tres de cada diez solicitudes de comida en DiDi Food nacen en Medellín: representaron cerca del 29 % del volumen nacional en primer semestre de 2026",
-        "capturado": "2026-09-07T14:21:12-05:00"
-      },
-      {
-        "titulo": "Epiroc: la compañía de US$6.500 millones que busca ampliar su presencia comercial en Colombia",
-        "url": "https://www.valoraanalitik.com/epiroc-la-empresa-de-us6-500-millones-que-quiere-expandir-su-operacion-en-colombia/",
-        "resumen": "Nelson Trejo, presidente de partes y servicios de Epiroc, habló del potencial minero en el país.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Epiroc: la empresa de US$6.500 millones que quiere expandir su operación en Colombia",
-        "capturado": "2026-09-07T14:21:12-05:00"
       }
     ]
   }
