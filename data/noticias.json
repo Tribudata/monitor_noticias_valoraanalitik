@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-10T07:09:12-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-10T11:37:09-05:00",
+  "nuevos_en_esta_corrida": 23,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Cali acoge el sexto encuentro anual de liderazgo en juntas directivas del CESA para discutir sobre empresas",
+        "url": "https://www.valoraanalitik.com/cali-encuentro-anual-juntas-directivas-cesa/",
+        "resumen": "Del 9 al 12 de septiembre, empresarios y expertos se reúnen para conversar sobre el papel del sector empresarial ante los retos del país.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Cali se convierte en escenario del liderazgo empresarial con el VI Encuentro anual de liderazgo en juntas directivas del CESA",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "ANIF advierte tormenta perfecta en Colombia por inflación alta, tasas elevadas y limitado espacio fiscal",
+        "url": "https://www.valoraanalitik.com/anif-colombia-enfrenta-una-tormenta-perfecta-con-alta-inflacion-tasas-elevadas-y-poco-espacio-fiscal/",
+        "resumen": "Estas son las previsiones del Centro de Pensamiento Económico ANIF para la infraestructura y la reactivación económica.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "ANIF: Colombia enfrenta una “tormenta perfecta” con alta inflación, tasas elevadas y poco espacio fiscal",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Nubank llega a Estados Unidos con tarjetas y rendimientos y estrena Nu Global para cuentas en 35 países",
+        "url": "https://www.valoraanalitik.com/nubank-inicia-operaciones-en-ee-uu-con-nuevas-tarjetas-y-cuentas-y-lanza-nu-global-para-35-paises/",
+        "resumen": "David Vélez, CEO de Nubank, señaló que la expansión hacia EE. UU. se produce después de consolidar un negocio con más de 140 millones de clientes en la región.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Nubank inicia operaciones en EE. UU. con nuevas tarjetas y rendimientos y lanza Nu Global para 35 países en cuentas en dólares y euros",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Gobierno permite reasignar fondos de la sobretasa al ACPM por la emergencia derivada del terremoto",
+        "url": "https://www.valoraanalitik.com/gobierno-autoriza-redistribuir-recursos-de-sobretasa-al-acpm-en-colombia-por-emergencia-del-terremoto/",
+        "resumen": "Los montos serán destinados a la atención de la emergencia económica y social en los departamentos afectados por el terremoto.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno autoriza redistribuir recursos de sobretasa al ACPM en Colombia por emergencia del terremoto",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "David Vélez expone la nueva visión de Nubank, el neobanco más grande de América Latina, en directo",
+        "url": "https://www.valoraanalitik.com/inicia-una-nu-era-para-nubank-david-velez-presenta-nueva-vision-del-neobanco-mas-grande-de-america-latina/",
+        "resumen": "La “Nu Era” se presenta como una hoja de ruta para entender hacia dónde apunta la compañía y su papel en la próxima generación de servicios financieros.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "En Vivo | Inicia una Nu Era para Nubank: David Vélez presenta nueva visión del neobanco más grande de América Latina",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Arias de Crédito Público informa modificaciones en deuda pública y un nuevo ETF oficial",
+        "url": "https://www.valoraanalitik.com/arias-de-credito-publico-anuncia-cambios-relevantes-en-mercado-de-deuda-publica/",
+        "resumen": "El directivo explicó cuáles son los ajustes que se buscará implementar con miras a fortalecer la profundidad y liquidez del ETF de deuda.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Arias de Crédito Público anuncia cambios relevantes en mercado de deuda pública y nuevo ETF del Gobierno",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "bvc incorpora siete ETFs de J.P.Morgan al Mercado Global Colombiano para operar hoy",
+        "url": "https://www.valoraanalitik.com/bvc-lista-siete-nuevos-etf-de-j-p-morgan-en-el-mercado-global-colombiano-se-negocian-desde-hoy/",
+        "resumen": "Las especies quedan habilitadas para negociación a partir del 10 de septiembre de 2026.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "bvc lista siete nuevos ETF de J.P.Morgan en el Mercado Global Colombiano: se negocian desde hoy",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Oficial: estos tramos de la línea 2 del metro de Bogotá irán bajo tierra",
+        "url": "https://www.valoraanalitik.com/confirmado-estos-seran-los-tramos-subterraneos-que-tendra-la-linea-2-del-metro-de-bogota/",
+        "resumen": "La línea 2 del metro de Bogotá ya tiene propuestas de empresas para su adecuación. Estos son los detalles del proyecto.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Confirmado: estos serán los tramos subterráneos que tendrá la línea 2 del metro de Bogotá",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Gobierno asignará fondos a empresas mixtas para asegurar energía en zonas del sismo",
+        "url": "https://www.valoraanalitik.com/gobierno-dara-recursos-a-empresas-de-servicios-publicos-mixtas-para-garantizar-energia-a-afectados-por-el-terremoto/",
+        "resumen": "El Fondes y las empresas beneficiadas tendrán que ejecutar los recursos en un año contado a partir del último desembolso.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno dará recursos a empresas de servicios públicos mixtas para garantizar energía a afectados por el terremoto",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Gobierno habilita modalidad especial de Obras por Impuestos para zonas del sismo",
+        "url": "https://www.valoraanalitik.com/obras-por-impuestos-zonas-terremoto-gobierno-crea-modalidad-especial-reconstruccion/",
+        "resumen": "La medida busca movilizar capacidad de ejecución privada sin crear una estructura administrativa paralela.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Obras por Impuestos se abre a las zonas del terremoto: Gobierno crea modalidad especial para la reconstrucción",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia frena caída y repunta ante expectativas por elecciones en EE. UU.",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-corta-racha-a-la-baja-y-vuelve-a-subir-en-medio-de-expectativas-por-elecciones-en-ee-uu/",
+        "resumen": "Esto es lo que mueve al dólar en Colombia al inicio de la jornada del 10 de septiembre.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia corta racha a la baja y vuelve a subir en medio de expectativas por elecciones en EE. UU.",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Primicia | Detalles de la emisión de títulos de Pei para adquirir activos de Terranum",
+        "url": "https://www.valoraanalitik.com/operacion-pei-activos-terranum-connecta/",
+        "resumen": "Pei pagará $2,18 billones, con un descuento de 26 % frente al valor de los activos. Operación se cerraría a finales de este año.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Así será la operación de Pei para comprar Connecta, Cortezza y otros activos de Terranum: emitirá títulos",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
       {
         "titulo": "Sondeo Atlas muestra alza en respaldo a De la Espriella y mejora opinión favorable de su administración",
         "url": "https://www.valoraanalitik.com/encuesta-atlas-aprobacion-de-de-la-espriella-repunto-y-su-gobierno-tiene-mejor-percepcion-positiva/",
@@ -483,129 +603,119 @@
         "publicacion": "",
         "titulo_fuente": "Indra Group ha invertido $1.800 millones en despliegue tecnológico para atender emergencia por terremoto; donará $500 millones",
         "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Rodolfo Castillo de Icoharinas asumirá la presidencia de la Junta Directiva de la ANDI",
-        "url": "https://www.valoraanalitik.com/rodolfo-castillo-sera-nuevo-presidente-de-la-junta-directiva-de-la-andi/",
-        "resumen": "La elección se realizó este 8 de septiembre y corresponde al periodo 2026-2027.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Rodolfo Castillo, socio fundador de Icoharinas, será nuevo presidente de la Junta Directiva de la ANDI",
-        "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Administración De La Espriella frenará compra de tierras en 2027 y recortará 10.000 contratistas agro",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-no-comprara-tierras-en-2027-y-anuncia-recorte-de-10-000-contratistas-en-sector-agro/",
-        "resumen": "El ministro Indalecio Dangond ordenó congelar por completo el desembolso de los $1,4 billones pendientes y abrir una rigurosa auditoría forense.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella no comprará tierras en 2027 y anuncia recorte de 10.000 contratistas en sector agro",
-        "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella convoca subasta eléctrica por Fenómeno del Niño y prevé aumento de tarifas",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-subasta-de-energia-ante-fuerte-nino-anticipa-alza-de-tarifas/",
-        "resumen": "María Nohemi Arboleda, ministra de Minas y Energías, señaló que están buscando con la finalidad de abastecer el mercado energético colombiano.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella anuncia subasta de energía ante fuerte Niño; anticipa alza de tarifas",
-        "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Un sismo venidero en Colombia pondría en aprietos a gran parte de dueños de casa: la inquietante cifra",
-        "url": "https://www.valoraanalitik.com/un-proximo-terremoto-en-colombia-podria-poner-contra-las-cuerdas-a-la-mayoria-de-propietarios-de-vivienda/",
-        "resumen": "Los daños del último terremoto dejaron en evidencia un riesgo que millones de propietarios podrían enfrentar si vuelve a ocurrir un sismo de gran magnitud.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Un próximo terremoto en Colombia podría poner contra las cuerdas a la mayoría de propietarios de vivienda: el preocupante dato",
-        "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Nueva sentencia sobre impuesto de renta acota a la DIAN: dichos egresos sí serían válidos",
-        "url": "https://www.valoraanalitik.com/nuevo-fallo-sobre-declaracion-de-renta-pone-limites-a-la-dian-estos-gastos-si-podrian-ser-aceptados/",
-        "resumen": "Una decisión del Consejo de Estado aclara qué soportes pueden respaldar ciertos gastos en la declaración de renta y hasta dónde puede exigir pruebas la DIAN.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo fallo sobre declaración de renta pone límites a la DIAN: estos gastos sí podrían ser aceptados",
-        "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia baja a $3.111, impulsada por petróleo alto y descenso del DXY",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-hasta-los-3-111-presionado-por-el-crudo-en-maximos-y-la-caida-del-dxy/",
-        "resumen": "Esto movió al dólar en Colombia durante la jornada del 8 de septiembre",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia retrocede hasta los $3.111, presionado por el crudo en máximos y la caída del DXY",
-        "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Avianca obtiene crédito de entidad de Brasil hasta por US$300 millones para arreglar motores",
-        "url": "https://www.valoraanalitik.com/avianca-logra-financiacion-de-agencia-brasilena-por-hasta-us300-millones-para-mantenimiento-de-motores/",
-        "resumen": "Avianca podrá financiar los trabajos de revisión de sus motores CFM56 en Brasil mediante una operación respaldada por una agencia estatal brasileña.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Avianca logra financiación de agencia brasileña por hasta US$300 millones para mantenimiento de motores",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Bolsa de Colombia llega a máximo histórico con el indicador MSCI Colcap",
-        "url": "https://www.valoraanalitik.com/indice-msci-colcap-toca-record-historico-hasta-donde-puede-llegar-la-bolsa-colombiana/",
-        "resumen": "La magnitud del cambio es evidente. Entre 2015 y 2023, el Colcap se movió en un rango estrecho, con mínimos recurrentes cerca de los 1.100 puntos.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Índice MSCI Colcap toca récord histórico: ¿hasta dónde puede llegar la bolsa colombiana?",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Ministerio de Transporte plantea cambio en contratos para mover vigencias futuras viales",
-        "url": "https://www.valoraanalitik.com/mintransporte-propone-modificacion-contractual-para-reprogramar-vigencias-futuras/",
-        "resumen": "Según explicó la ministra, la alternativa contractual busca evitar mayores presiones sobre un presupuesto que está altamente comprometido.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "MinTransporte propone “modificación contractual” para reprogramar vigencias futuras de megaproyectos",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Gobierno de la Espriella autoriza porte de armas a ciertos ciudadanos con requisitos",
-        "url": "https://www.valoraanalitik.com/estas-personas-podran-portar-armas-en-colombia-por-orden-del-gobierno-de-la-espriella/",
-        "resumen": "El gobierno De la Espriella expuso las justificaciones para levantar restricciones sobre el porte de armas en Colombia.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Estas personas podrán portar armas en Colombia por orden del gobierno De la Espriella: Deberán tener importantes documentos",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Así va la licitación de la Línea 2 del metro bogotano y lo que sigue",
-        "url": "https://www.valoraanalitik.com/linea-2-del-metro-de-bogota-asi-avanza-el-proceso-de-licitacion-y-lo-que-viene/",
-        "resumen": "El alcalde Carlos Fernando Galán calificó la llegada de las tres propuestas como una noticia clave, en particular para Engativá y Suba.",
-        "autor": "",
-        "subseccion": "Uncategorized",
-        "publicacion": "",
-        "titulo_fuente": "Línea 2 del metro de Bogotá: así avanza el proceso de licitación y lo que viene",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Ministros de la administración De la Espriella exponen requerimientos de presupuesto al Congreso",
-        "url": "https://www.valoraanalitik.com/en-vivo-ministros-del-gobierno-de-la-espriella-presentan-sus-necesidades-presupuestales-al-congreso/",
-        "resumen": "Ministros de Agricultura y Vivienda presentaron a las comisiones económicas conjuntas sus necesidades presupuestales este martes.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "En vivo | Ministros del gobierno De la Espriella presentan sus necesidades presupuestales al Congreso",
-        "capturado": "2026-09-08T13:55:47-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Cali acoge el sexto encuentro anual de liderazgo en juntas directivas del CESA",
+        "url": "https://www.valoraanalitik.com/cali-encuentro-anual-juntas-directivas-cesa/",
+        "resumen": "Del 9 al 12 de septiembre, empresarios y expertos se reúnen para conversar sobre el papel del sector empresarial ante los retos del país.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Cali se convierte en escenario del liderazgo empresarial con el VI Encuentro anual de liderazgo en juntas directivas del CESA",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "ANIF advierte tormenta perfecta en Colombia por inflación, tasas y espacio fiscal",
+        "url": "https://www.valoraanalitik.com/anif-colombia-enfrenta-una-tormenta-perfecta-con-alta-inflacion-tasas-elevadas-y-poco-espacio-fiscal/",
+        "resumen": "Estas son las previsiones del Centro de Pensamiento Económico ANIF para la infraestructura y la reactivación económica.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "ANIF: Colombia enfrenta una “tormenta perfecta” con alta inflación, tasas elevadas y poco espacio fiscal",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Nubank llega a EE UU con tarjetas y lanza Nu Global en 35 países con cuentas en divisas",
+        "url": "https://www.valoraanalitik.com/nubank-inicia-operaciones-en-ee-uu-con-nuevas-tarjetas-y-cuentas-y-lanza-nu-global-para-35-paises/",
+        "resumen": "David Vélez, CEO de Nubank, señaló que la expansión hacia EE. UU. se produce después de consolidar un negocio con más de 140 millones de clientes en la región.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Nubank inicia operaciones en EE. UU. con nuevas tarjetas y rendimientos y lanza Nu Global para 35 países en cuentas en dólares y euros",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Gobierno permite reasignar fondos de sobretasa al ACPM por la emergencia del sismo",
+        "url": "https://www.valoraanalitik.com/gobierno-autoriza-redistribuir-recursos-de-sobretasa-al-acpm-en-colombia-por-emergencia-del-terremoto/",
+        "resumen": "Los montos serán destinados a la atención de la emergencia económica y social en los departamentos afectados por el terremoto.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno autoriza redistribuir recursos de sobretasa al ACPM en Colombia por emergencia del terremoto",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "En Vivo | Arranca nueva etapa de Nubank con visión de David Vélez para el neobanco latino",
+        "url": "https://www.valoraanalitik.com/inicia-una-nu-era-para-nubank-david-velez-presenta-nueva-vision-del-neobanco-mas-grande-de-america-latina/",
+        "resumen": "La “Nu Era” se presenta como una hoja de ruta para entender hacia dónde apunta la compañía y su papel en la próxima generación de servicios financieros.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "En Vivo | Inicia una Nu Era para Nubank: David Vélez presenta nueva visión del neobanco más grande de América Latina",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Arias de Crédito Público informa modificaciones en mercado de deuda estatal y nuevo ETF del Ejecutivo",
+        "url": "https://www.valoraanalitik.com/arias-de-credito-publico-anuncia-cambios-relevantes-en-mercado-de-deuda-publica/",
+        "resumen": "El directivo explicó cuáles son los ajustes que se buscará implementar con miras a fortalecer la profundidad y liquidez del ETF de deuda.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Arias de Crédito Público anuncia cambios relevantes en mercado de deuda pública y nuevo ETF del Gobierno",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Administración destinará dineros a firmas de servicios públicos mixtas para asegurar luz por sismo",
+        "url": "https://www.valoraanalitik.com/gobierno-dara-recursos-a-empresas-de-servicios-publicos-mixtas-para-garantizar-energia-a-afectados-por-el-terremoto/",
+        "resumen": "El Fondes y las empresas beneficiadas tendrán que ejecutar los recursos en un año contado a partir del último desembolso.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno dará recursos a empresas de servicios públicos mixtas para garantizar energía a afectados por el terremoto",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Obras por Impuestos llega a regiones del movimiento telúrico con mecanismo especial de reconstrucción",
+        "url": "https://www.valoraanalitik.com/obras-por-impuestos-zonas-terremoto-gobierno-crea-modalidad-especial-reconstruccion/",
+        "resumen": "La medida busca movilizar capacidad de ejecución privada sin crear una estructura administrativa paralela.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Obras por Impuestos se abre a las zonas del terremoto: Gobierno crea modalidad especial para la reconstrucción",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Primicia | Operación de Pei para adquirir Connecta, Cortezza y activos de Terranum con emisión de papeles",
+        "url": "https://www.valoraanalitik.com/operacion-pei-activos-terranum-connecta/",
+        "resumen": "Pei pagará $2,18 billones, con un descuento de 26 % frente al valor de los activos. Operación se cerraría a finales de este año.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Así será la operación de Pei para comprar Connecta, Cortezza y otros activos de Terranum: emitirá títulos",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella autoriza uso excepcional de dineros del Fonpet a regiones por sismo",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-habilita-uso-extraordinario-de-recursos-del-fonpet-a-zonas-afectadas-por-terremoto/",
+        "resumen": "La medida se expide en desarrollo del Estado de Emergencia Económica, Social y Ecológica declarado por el Decreto 1261 del 19 de agosto de 2026.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella habilita uso extraordinario de recursos del Fonpet a zonas afectadas por terremoto",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
+      {
+        "titulo": "Entrevista | Icesi busca que el 30 % de sus recursos vengan de empresas en seis años tras crear OneIcesi",
+        "url": "https://www.valoraanalitik.com/entrevista-universidad-icesi-apunta-a-que-30-de-sus-ingresos-provenga-de-organizaciones-en-seis-anos-tras-lanzamiento-de-oneicesi/",
+        "resumen": "El rector de Icesi contó lo que busca y espera aportar con esta nueva forma de relacionarse con las organizaciones y las expectativas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Universidad Icesi apunta a que 30 % de sus ingresos provenga de organizaciones en seis años tras lanzamiento de OneIcesi",
+        "capturado": "2026-09-10T11:37:09-05:00"
+      },
       {
         "titulo": "El proyecto Regasificadora del Pacífico alcanzó un 80 % de progreso y su expansión finalizaría en abril de 2027",
         "url": "https://www.valoraanalitik.com/la-regasificadora-del-pacifico-registro-un-avance-de-80-y-su-fase-de-ampliacion-estaria-lista-en-abril-de-2027/",
@@ -1095,116 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Ramo, tradicional marca dueña de Chocoramo, tuvo fuerte crecimiento en primer semestre; proyecta cierre de año histórico",
         "capturado": "2026-09-06T12:17:24-05:00"
-      },
-      {
-        "titulo": "El 46 % de los colombianos que solicita incremento salarial no lo recibe: panorama de los sueldos",
-        "url": "https://www.valoraanalitik.com/el-46-de-los-colombianos-que-pide-aumento-no-lo-consigue/",
-        "resumen": "Los ajustes salariales son una práctica extendida en el país, pero las expectativas sobre la remuneración siguen influyendo en la permanencia laboral.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "El 46 % de los colombianos que pide aumento no lo consigue: así se mueve el salario en Colombia",
-        "capturado": "2026-09-06T09:21:28-05:00"
-      },
-      {
-        "titulo": "MicroSourcing llega a América Latina y escoge a Colombia como su centro de operaciones en la región",
-        "url": "https://www.valoraanalitik.com/microsourcing-desembarca-en-america-latina-y-colombia-sera-su-base-para-operar-regionalmente/",
-        "resumen": "La compañía global de servicios de BPO inauguró en Bogotá su primer centro de operaciones en la región.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MicroSourcing desembarca en América Latina y Colombia será su base para operar regionalmente",
-        "capturado": "2026-09-05T18:10:42-05:00"
-      },
-      {
-        "titulo": "Falleció Beatriz Ardila Lülle de Beltrán Harker, hermana del industrial Carlos Ardila Lülle",
-        "url": "https://www.valoraanalitik.com/murio-beatriz-ardila-lulle-de-beltran-harker-hermana-del-empresario-carlos-ardila-lulle/",
-        "resumen": "Perteneció a una de las familias empresariales más reconocidas de Santander y estuvo vinculada a diferentes espacios sociales de la región.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Murió Beatriz Ardila Lülle de Beltrán Harker, hermana del empresario Carlos Ardila Lülle",
-        "capturado": "2026-09-05T16:03:31-05:00"
-      },
-      {
-        "titulo": "Generación, inversión y almacenamiento para encarar el déficit energético, afirman expertos",
-        "url": "https://www.valoraanalitik.com/capacidad-de-generacion-inversion-y-almacenamiento-para-enfrentar-deficit-energetico-segun-expertos/",
-        "resumen": "Coincidieron en la necesidad de acelerar proyectos, fortalecer la confiabilidad del sistema y generar condiciones para nuevas inversiones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Capacidad de generación, inversión y almacenamiento para enfrentar déficit energético, según expertos",
-        "capturado": "2026-09-05T16:03:31-05:00"
-      },
-      {
-        "titulo": "Yango despliega sus patinetas eléctricas en Colombia tras aval en Medellín y planea llegar a más urbes",
-        "url": "https://www.valoraanalitik.com/patinetas-electricas-de-yango-se-expanden-en-colombia-medellin-ya-esta-autorizada-y-van-por-mas-ciudades/",
-        "resumen": "En entrevista con Valora Analitik, Mark Bitton, country manager de Yango, confirmó la llegada de sus patinetas a Medellín y la expansión a más ciudades.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Exclusiva l Patinetas eléctricas de Yango se expanden en Colombia: Medellín ya está autorizada y van por más ciudades",
-        "capturado": "2026-09-05T13:55:22-05:00"
-      },
-      {
-        "titulo": "Director general afirma que Oxxo abrirá 700 tiendas en Colombia este año y lanzará su propia aplicación",
-        "url": "https://www.valoraanalitik.com/entrevista-oxxo-anuncia-app-700-tiendas/",
-        "resumen": "Oxxo suma 5.400 empleados y presencia en 40 municipios. El 70 % de sus tiendas abrió en los últimos tres años.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Oxxo llegará a 700 tiendas en Colombia este año y alista app propia: esto dice su director general",
-        "capturado": "2026-09-05T11:41:34-05:00"
-      },
-      {
-        "titulo": "De la Espriella endurece la política de seguridad y lanza el plan Milagro Week para captar inversión",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-endurece-politica-de-seguridad-y-anuncia-plan-para-atraer-inversion-extranjera-milagro-week/",
-        "resumen": "Colombia tendría un papel protagónico en la Comisión de Seguridad de la ONU y presencia en los escenarios de discusión internacional.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella endurece política de seguridad y anuncia plan para atraer inversión extranjera: «Milagro Week»",
-        "capturado": "2026-09-05T11:41:34-05:00"
-      },
-      {
-        "titulo": "Exclusiva | Mineros evalúa cotizar en la Bolsa de Nueva York y recompró acciones por US$20 millones",
-        "url": "https://www.valoraanalitik.com/mineros-explora-posibilidad-de-listarse-en-la-bolsa-de-nueva-york-ejecuto-us20-millones-en-recompra-de-acciones/",
-        "resumen": "El presidente de Mineros, Daniel Henao, habló sobre los planes financieros de la organización minera.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Mineros explora posibilidad de listarse en la Bolsa de Nueva York; ejecutó US$20 millones en recompra de acciones",
-        "capturado": "2026-09-05T08:48:08-05:00"
-      },
-      {
-        "titulo": "Entidad de comunicaciones evalúa aspectos positivos y negativos de posible unión de Claro y Azteca en el país",
-        "url": "https://www.valoraanalitik.com/crc-alerta-por-operacion-que-dejaria-a-claro-como-unico-proveedor-de-fibra-en-778-rutas/",
-        "resumen": "Pese a que la CRC dice que esto fortalece la conectividad, hace un llamado de alerta a Claro.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Regulador de Comunicaciones señala pros y contras de eventual alianza de Claro con Azteca en Colombia",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Claro apunta a siete millones de casas con fibra óptica y avisa sobre escasez de energía en Colombia",
-        "url": "https://www.valoraanalitik.com/claro-colombia-pone-la-mira-en-7-millones-de-hogares-con-fibra-optica-y-advierte-por-deficit-de-energia/",
-        "resumen": "El ejecutivo consideró que el país necesita fortalecer la generación, transmisión y distribución de energía para responder a la demanda.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Claro Colombia pone la mira en 7 millones de hogares con fibra óptica y advierte por déficit de energía",
-        "capturado": "2026-09-04T21:49:43-05:00"
-      },
-      {
-        "titulo": "Podcast sobre innovación y asesoría de Protección frente a situaciones críticas",
-        "url": "https://www.valoraanalitik.com/podcast-proteccion-tecnologia-y-acompanamiento-para-responder-ante-una-emergencia/",
-        "resumen": "Carolina Arboleda, líder de Desarrollo y Gestión de Canales de Protección, habló de los desafíos y la experiencia de Protección en el reciente terremoto.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Podcast | Protección: tecnología y acompañamiento para responder ante una emergencia",
-        "capturado": "2026-09-04T21:49:43-05:00"
       }
     ]
   }
