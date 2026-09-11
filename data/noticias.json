@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-11T12:40:45-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-11T15:47:08-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Citi señala que la baja de la divisa beneficiaría a Colombia y la región",
+        "url": "https://www.valoraanalitik.com/caida-del-dolar-podria-fortalecer-a-colombia-y-otros-paises-de-america-latina-citi/",
+        "resumen": "Parte de los factores que actualmente favorecen a la región son de carácter cíclico y dependen de condiciones internacionales.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Caída del dólar podría fortalecer a Colombia y otros países de América Latina: Citi",
+        "capturado": "2026-09-11T15:47:08-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella prepara modificaciones a pactos sindicales",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-cambios-para-los-contratos-sindicales/",
+        "resumen": "Bajo la nueva redacción, las entidades públicas con contratos sindicales vigentes podrán prorrogarlos de forma excepcional.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella alista cambios para los contratos sindicales",
+        "capturado": "2026-09-11T15:47:08-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio cerró la semana con caída de 56 pesos y dos días bajo 3100",
+        "url": "https://www.valoraanalitik.com/precio-del-dolar-en-colombia-este-viernes-11-de-septiembre/",
+        "resumen": "La moneda registró una nueva jornada a la baja, en medio de la expectativa por las tasas de interés en EE. UU. y el Presupuesto colombiano.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia completó dos jornadas por debajo de $3.100: despidió la semana con una pérdida de $56",
+        "capturado": "2026-09-11T15:47:08-05:00"
+      },
+      {
+        "titulo": "Reconocido capitalista se retiró de tradicional club de balompié nacional",
+        "url": "https://www.valoraanalitik.com/inversionista-sale-equipo-futbol-colombia/",
+        "resumen": "El fondo de capital privado Profútbol de Progresión distribuyó más de $22.000 millones durante los ocho años de inversión en el club.",
+        "autor": "",
+        "subseccion": "Valorasports",
+        "publicacion": "",
+        "titulo_fuente": "Importante inversionista salió de histórico equipo del fútbol profesional colombiano",
+        "capturado": "2026-09-11T15:47:08-05:00"
+      },
+      {
+        "titulo": "Alimentos con mayores incrementos de costo este año en territorio nacional",
+        "url": "https://www.valoraanalitik.com/estos-son-los-alimentos-en-colombia-que-mas-suben-de-precio-en-lo-corrido-del-ano/",
+        "resumen": "El precio de los alimentos en Colombia sigue subiendo con fuerza y se esperan nuevos incrementos.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los alimentos en Colombia que más suben de precio en lo corrido del año",
+        "capturado": "2026-09-11T15:47:08-05:00"
+      },
+      {
+        "titulo": "De la Espriella critica la tasa patrimonial del Gobierno y propone agilizar las normas corporativas",
+        "url": "https://www.valoraanalitik.com/gobierno-cuestiona-impuesto-al-patrimonio/",
+        "resumen": "El vicepresidente de Colombia propuso aumentar el ahorro de largo plazo e impulsar más empresas listadas en bolsa.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella cuestiona impuesto al patrimonio; plantea simplificar regulación para empresas",
+        "capturado": "2026-09-11T15:47:08-05:00"
+      },
       {
         "titulo": "Modificatoria pensional alterará la modalidad de pago para cotizaciones de contratistas",
         "url": "https://www.valoraanalitik.com/reforma-pensional-cambiara-la-forma-de-pagar-los-aportes-de-contratistas/",
@@ -543,69 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Premercado | Inversores atentos a decisión del BCE y datos clave de Estados Unidos: petróleo sigue subiendo",
         "capturado": "2026-09-10T07:09:12-05:00"
-      },
-      {
-        "titulo": "Ministra de Energía de la administración De la Espriella advierte que subida en tarifa de luz es segura",
-        "url": "https://www.valoraanalitik.com/no-nos-digamos-mentiras-ministra-energia-gobierno-de-la-espriella-aumento-factura-energia/",
-        "resumen": "Hay escenarios de riesgo que se han materializado y llevan a que el gobierno De la Espriella apoye el aumento de facturas de energía",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "“No nos digamos mentiras”: ministra de Energía del gobierno De la Espriella sobre el aumento inevitable en la factura de energía",
-        "capturado": "2026-09-10T07:09:12-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella imparte nuevas órdenes sobre el drástico cambio en la entrega de fármacos",
-        "url": "https://www.valoraanalitik.com/radical-cambio-entrega-de-medicamentos-en-colombia-nuevas-ordenes-gobierno-de-la-espriella/",
-        "resumen": "La entrega de medicamentos en Colombia es una de las quejas recurrentes de los usuarios del sistema",
-        "autor": "",
-        "subseccion": "Reforma a la salud colombia",
-        "publicacion": "",
-        "titulo_fuente": "Así será el radical cambio en la entrega de medicamentos en Colombia con nuevas órdenes del gobierno De la Espriella",
-        "capturado": "2026-09-10T07:09:12-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado detalla por qué devolvieron aportes a congresistas de la Vaca por Antioquia",
-        "url": "https://www.valoraanalitik.com/que-paso-con-la-plata-de-la-vaca-por-antioquia-consejo-de-estado-explico-por-que-algunos-congresistas-recibieron-devolucion-del-dinero/",
-        "resumen": "La ‘Vaca por Antioquia’ terminó en los tribunales por los aportes de congresistas. El Consejo de Estado explicó qué pasó con ese dinero.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "¿Qué pasó con la plata de la ‘Vaca por Antioquia’? Consejo de Estado explicó por qué algunos congresistas recibieron devolución del dinero",
-        "capturado": "2026-09-09T20:21:33-05:00"
-      },
-      {
-        "titulo": "Nuevos megaproyectos viales y aéreos para la movilidad entre Bogotá y Cundinamarca",
-        "url": "https://www.valoraanalitik.com/circuito-aeroportuario-tercer-carril-en-via-a-medellin-y-obras-de-movilidad-los-megaproyectos-que-vienen-en-bogota-cundinamarca/",
-        "resumen": "El director de la Región Metropolitana habló con Valora Analitik sobre las obras de infraestrutura para Bogotá – Cundinamarca.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Circuito aeroportuario, tercer carril en vía a Medellín y obras de movilidad: los megaproyectos que vienen en Bogotá – Cundinamarca",
-        "capturado": "2026-09-09T20:21:33-05:00"
-      },
-      {
-        "titulo": "Bogotá prepara plataforma para empresas y busca reactivar la inversión previa a la pandemia",
-        "url": "https://www.valoraanalitik.com/bogota-alista-sistema-para-emprendedores-mientras-busca-recuperar-inversion-prepandemia/",
-        "resumen": "El nuevo Sistema Distrital de Emprendimiento contará con una red de apoyo para negocios.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá alista sistema para emprendedores mientras busca recuperar inversión prepandemia",
-        "capturado": "2026-09-09T20:21:33-05:00"
-      },
-      {
-        "titulo": "Modificaciones esenciales del Ministerio de Ambiente para Hidroituango y SPEC",
-        "url": "https://www.valoraanalitik.com/estos-son-los-cambios-clave-del-ministerio-de-ambiente-para-spec-e-hidroituango/",
-        "resumen": "Gobierno refuerza sistema energético ante El Niño con más gas y almacenamiento de agua.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los cambios clave del Ministerio de Ambiente para SPEC e Hidroituango",
-        "capturado": "2026-09-09T20:21:33-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Opinión | Emplearse en tiempos de inteligencia artificial: la importancia de lo humano",
+        "url": "https://www.valoraanalitik.com/opinion-trabajar-en-la-era-de-la-ia-el-valor-de-lo-que-sigue-siendo-humano/",
+        "resumen": "La pregunta de fondo no es solo qué puede hacer la IA, sino para qué decidimos usarla.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Opinión | Trabajar en la era de la IA: el valor de lo que sigue siendo humano",
+        "capturado": "2026-09-11T15:47:08-05:00"
+      },
+      {
+        "titulo": "Delcasino alista nuevas salidas y apunta a Dubái y Estados Unidos como plazas clave",
+        "url": "https://www.valoraanalitik.com/delcasino-prepara-nuevos-lanzamientos-y-apuesta-por-dubai-y-estados-unidos-como-mercados-estrategicos/",
+        "resumen": "La compañía proyecta un crecimiento mínimo del 16 % para 2026, luego de un 2025 marcado por un crecimiento a doble dígito.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Delcasino prepara nuevos lanzamientos y apuesta por Dubai y Estados Unidos como mercados estratégicos",
+        "capturado": "2026-09-11T15:47:08-05:00"
+      },
       {
         "titulo": "El pago de cotizaciones de los contratistas se modificará con la reforma pensional",
         "url": "https://www.valoraanalitik.com/reforma-pensional-cambiara-la-forma-de-pagar-los-aportes-de-contratistas/",
@@ -1184,26 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Avianca logra financiación de agencia brasileña por hasta US$300 millones para mantenimiento de motores",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Ministerio de Transporte sugiere cambio en contratos para mover vigencias futuras de grandes obras",
-        "url": "https://www.valoraanalitik.com/mintransporte-propone-modificacion-contractual-para-reprogramar-vigencias-futuras/",
-        "resumen": "Según explicó la ministra, la alternativa contractual busca evitar mayores presiones sobre un presupuesto que está altamente comprometido.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "MinTransporte propone “modificación contractual” para reprogramar vigencias futuras de megaproyectos",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Alejandro Piedrahíta, que estuvo en Grupo Argos, asumirá la vicepresidencia de Corona",
-        "url": "https://www.valoraanalitik.com/alejandro-piedrahita-ex-grupo-argos-sera-el-nuevo-vicepresidente-estrategia-desarrollo-negocio-corona/",
-        "resumen": "Se graduó como administrador de negocios de la Universidad Eafit, y posteriormente realizó una Maestría en Ciencias (M.Sc.) en desarrollo económico.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Alejandro Piedrahíta, ex Grupo Argos, será el nuevo vicepresidente de Estrategia y Desarrollo de Negocios de Corona",
         "capturado": "2026-09-08T13:55:47-05:00"
       }
     ]
