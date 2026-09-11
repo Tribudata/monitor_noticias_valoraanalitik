@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-11T15:47:08-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-11T18:07:27-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "S&P Global Ratings: PIB de Colombia, Chile y Perú subiría en US$100.000 millones en un quinquenio",
+        "url": "https://www.valoraanalitik.com/sp-global-ratings-integracion/",
+        "resumen": "La firma cree que recuperar el crecimiento previo a la pandemia elevaría en unos US$1.000 el PIB per cápita promedio y atraerá capital a la región.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "S&P Global Ratings: Colombia, Chile y Perú podrían sumar US$100.000 millones a su PIB en cinco años",
+        "capturado": "2026-09-11T18:07:27-05:00"
+      },
+      {
+        "titulo": "De los escombros a un nuevo hogar: la historia de la primera casa reconstruida tras el terremoto",
+        "url": "https://www.valoraanalitik.com/de-los-escombros-a-un-nuevo-hogar-la-historia-de-la-primera-casa-reconstruida-tras-el-terremoto/",
+        "resumen": "Esta es la historia de Darling Asprilla, damnificada por le terremoto más fuerte de la historia reciente de Colombia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "De los escombros a un nuevo hogar: la historia de la primera casa reconstruida tras el terremoto",
+        "capturado": "2026-09-11T18:07:27-05:00"
+      },
+      {
+        "titulo": "Acción de Promigas sale del fondo bursátil Hcolsel al incumplir los requisitos de selección",
+        "url": "https://www.valoraanalitik.com/promigas-sale-del-hcolsel-criterios/",
+        "resumen": "El titulo de compañía fue excluido del índice S&P Colombia Select en el más reciente rebalanceo de S&P Dow Jones Indices.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Acción de Promigas sale del fondo bursátil Hcolsel al no cumplir los criterios para ser elegida",
+        "capturado": "2026-09-11T18:07:27-05:00"
+      },
+      {
+        "titulo": "Fondos de pensiones en Colombia: así impacta la baja del dólar en el ahorro para la vejez",
+        "url": "https://www.valoraanalitik.com/fondos-de-pensiones-en-colombia-asi-puede-afectar-la-caida-del-dolar-a-su-ahorro-pensional/",
+        "resumen": "La fuerte caída del dólar puede influir en su ahorro pensional, pero hay varios factores que determinan cuánto podría afectarlo.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Fondos de pensiones en Colombia: así puede afectar la caída del dólar a su ahorro pensional",
+        "capturado": "2026-09-11T18:07:27-05:00"
+      },
+      {
+        "titulo": "De la Espriella plantea bajar IVA a pasajes aéreos en zonas golpeadas por el terremoto",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-abre-la-puerta-para-reducir-iva-a-tiquetes-aereos-en-zonas-afectadas-por-terremoto/",
+        "resumen": "De la Espriella dijo que hará una revisión fiscal que busca quitar IVA a tiquetes en estos destinos para recuperar la actividad turística.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella abre la puerta para reducir IVA a tiquetes aéreos en zonas afectadas por terremoto",
+        "capturado": "2026-09-11T18:07:27-05:00"
+      },
+      {
+        "titulo": "Famosa parrilla argentina inaugura local en Colombia y continúa su crecimiento",
+        "url": "https://www.valoraanalitik.com/reconocida-parrilla-argentina-amplia-su-presencia-en-colombia-abre-nueva-sede-y-asi-avanza-su-expansion/",
+        "resumen": "Una reconocida propuesta de cocina argentina apuesta por crecer en uno de los corredores más dinámicos de Bogotá. Estos son los detalles.",
+        "autor": "",
+        "subseccion": "Restaurantes gastronomia",
+        "publicacion": "",
+        "titulo_fuente": "Reconocida parrilla argentina amplía su presencia en Colombia: abre nueva sede y así avanza su expansión",
+        "capturado": "2026-09-11T18:07:27-05:00"
+      },
       {
         "titulo": "Citi señala que la baja de la divisa beneficiaría a Colombia y la región",
         "url": "https://www.valoraanalitik.com/caida-del-dolar-podria-fortalecer-a-colombia-y-otros-paises-de-america-latina-citi/",
@@ -543,69 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Obras por Impuestos se abre a las zonas del terremoto: Gobierno crea modalidad especial para la reconstrucción",
         "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia frena caída y repunta ante expectativas por elecciones en EE. UU.",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-corta-racha-a-la-baja-y-vuelve-a-subir-en-medio-de-expectativas-por-elecciones-en-ee-uu/",
-        "resumen": "Esto es lo que mueve al dólar en Colombia al inicio de la jornada del 10 de septiembre.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia corta racha a la baja y vuelve a subir en medio de expectativas por elecciones en EE. UU.",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Primicia | Detalles de la emisión de títulos de Pei para adquirir activos de Terranum",
-        "url": "https://www.valoraanalitik.com/operacion-pei-activos-terranum-connecta/",
-        "resumen": "Pei pagará $2,18 billones, con un descuento de 26 % frente al valor de los activos. Operación se cerraría a finales de este año.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Así será la operación de Pei para comprar Connecta, Cortezza y otros activos de Terranum: emitirá títulos",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Sondeo Atlas muestra alza en respaldo a De la Espriella y mejora opinión favorable de su administración",
-        "url": "https://www.valoraanalitik.com/encuesta-atlas-aprobacion-de-de-la-espriella-repunto-y-su-gobierno-tiene-mejor-percepcion-positiva/",
-        "resumen": "Así califican la gestión de Abelardo de la Espriella en su primer mes de gobierno.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Encuesta Atlas: Aprobación de De la Espriella repuntó y su gobierno tiene mejor percepción positiva",
-        "capturado": "2026-09-10T07:09:12-05:00"
-      },
-      {
-        "titulo": "Proyecto de la Regasificadora del Pacífico alcanza 80 % de progreso y su expansión finalizaría en abril de 2027",
-        "url": "https://www.valoraanalitik.com/la-regasificadora-del-pacifico-registro-un-avance-de-80-y-su-fase-de-ampliacion-estaria-lista-en-abril-de-2027/",
-        "resumen": "El gerente general de esta infraestructura, Jesús Urías, señaló que existen contrataciones con Ecopetrol y Alcanos.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "La Regasificadora del Pacífico registró un avance de 80 % y su fase de ampliación estaría lista en abril de 2027",
-        "capturado": "2026-09-10T07:09:12-05:00"
-      },
-      {
-        "titulo": "De la Espriella asigna nuevas tareas al vicepresidente Restrepo: liderará energía, inversión, IA y PIB",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-amplia-funciones-al-vicepresidente-restrepo-coordinara-energia-inversion-ia-y-crecimiento-economico/",
-        "resumen": "El decreto también le asigna un papel relevante en la atracción y materialización de inversiones estratégicas.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella amplía funciones al vicepresidente Restrepo: coordinará energía, inversión, IA y crecimiento económico",
-        "capturado": "2026-09-10T07:09:12-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados pendientes del BCE y cifras de EE. UU mientras el petróleo continúa al alza",
-        "url": "https://www.valoraanalitik.com/premercado-inversores-atentos-a-decision-del-bce-y-datos-clave-de-estados-unidos-petroleo-sigue-subiendo/",
-        "resumen": "Los mercados monetarios descuentan ya casi por completo una subida de los tipos de interés de 25 puntos básicos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Inversores atentos a decisión del BCE y datos clave de Estados Unidos: petróleo sigue subiendo",
-        "capturado": "2026-09-10T07:09:12-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "De la Espriella habilita posibilidad de bajar IVA a pasajes aéreos en regiones golpeadas por sismo",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-abre-la-puerta-para-reducir-iva-a-tiquetes-aereos-en-zonas-afectadas-por-terremoto/",
+        "resumen": "De la Espriella dijo que hará una revisión fiscal que busca quitar IVA a tiquetes en estos destinos para recuperar la actividad turística.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella abre la puerta para reducir IVA a tiquetes aéreos en zonas afectadas por terremoto",
+        "capturado": "2026-09-11T18:07:27-05:00"
+      },
       {
         "titulo": "Opinión | Emplearse en tiempos de inteligencia artificial: la importancia de lo humano",
         "url": "https://www.valoraanalitik.com/opinion-trabajar-en-la-era-de-la-ia-el-valor-de-lo-que-sigue-siendo-humano/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Índice MSCI Colcap toca récord histórico: ¿hasta dónde puede llegar la bolsa colombiana?",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Agencia brasileña otorga a Avianca financiación hasta por US$300 millones para arreglar motores",
-        "url": "https://www.valoraanalitik.com/avianca-logra-financiacion-de-agencia-brasilena-por-hasta-us300-millones-para-mantenimiento-de-motores/",
-        "resumen": "Avianca podrá financiar los trabajos de revisión de sus motores CFM56 en Brasil mediante una operación respaldada por una agencia estatal brasileña.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Avianca logra financiación de agencia brasileña por hasta US$300 millones para mantenimiento de motores",
         "capturado": "2026-09-08T13:55:47-05:00"
       }
     ]
