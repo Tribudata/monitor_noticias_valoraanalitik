@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-10T18:53:53-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-10T23:04:07-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Abren convocatoria para 250 emprendimientos colombianos con entrega de equipos, capacitación y recursos",
+        "url": "https://www.valoraanalitik.com/nueva-convocatoria-para-emprendedores-en-colombia-250-negocios-podran-recibir-equipos-formacion-y-apoyo-financiero/",
+        "resumen": "Emprendedores de siete ciudades podrán postularse a un programa que combina equipos, formación e inclusión financiera para fortalecer sus negocios.",
+        "autor": "",
+        "subseccion": "Emprendedores",
+        "publicacion": "",
+        "titulo_fuente": "Nueva convocatoria para emprendedores en Colombia: 250 negocios podrán recibir equipos, formación y apoyo financiero",
+        "capturado": "2026-09-10T23:04:07-05:00"
+      },
+      {
+        "titulo": "Valora Analitik ingresa al grupo de los cinco medios nativos digitales más consultados por líderes",
+        "url": "https://www.valoraanalitik.com/valora-analitik-entra-al-top-5-de-medios-nativos-digitales-mas-consulta-los-lideres-en-colombia/",
+        "resumen": "Valora Analitik también se ubica entre las 15 páginas web más consultadas por los líderes de opinión",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Valora Analitik entra al top 5 de medios nativos digitales más consulta los líderes en Colombia",
+        "capturado": "2026-09-10T23:04:07-05:00"
+      },
+      {
+        "titulo": "Administración nacional destraba iniciativa vital para robustecer sistema eléctrico bogotano y central",
+        "url": "https://www.valoraanalitik.com/gobierno-destraba-proyecto-clave-para-ampliar-red-electrica-en-bogota-y-el-centro-del-pais/",
+        "resumen": "Según el mandatario local, el ministro de Ambiente le informó que el proyecto vería la luz con la finalidad de garantizar la seguridad energética de Bogotá.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno destraba proyecto clave para ampliar red eléctrica en Bogotá y el centro del país",
+        "capturado": "2026-09-10T23:04:07-05:00"
+      },
       {
         "titulo": "Reciente sentencia modifica el escenario frente a ceses de empleados con quebrantos de salud",
         "url": "https://www.valoraanalitik.com/nuevo-fallo-cambia-el-panorama-sobre-despidos-de-trabajadores-con-problemas-de-salud/",
@@ -573,39 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Los ministros mejor y peor calificados del Gobierno De la Espriella en redes: así quedó el ranking",
         "capturado": "2026-09-09T12:44:06-05:00"
-      },
-      {
-        "titulo": "La deuda bruta de Colombia continuó a la baja y llegó al 60,1 % del PIB a cierre de julio",
-        "url": "https://www.valoraanalitik.com/deuda-bruta-de-colombia-siguio-descendiendo-y-con-corte-a-julio-se-ubico-en-el-601-del-pib/",
-        "resumen": "El indicador, que calcula el tamaño de la deuda en relación con la economía, fue ligeramente inferior el mes pasado al reportado en junio (60,5 %).",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Deuda bruta de Colombia siguió descendiendo y con corte a julio se ubicó en el 60,1 % del PIB",
-        "capturado": "2026-09-09T12:44:06-05:00"
-      },
-      {
-        "titulo": "Procuraduría lanzó más de 3.000 puestos con sueldos superiores a $10 millones y plazas sin experiencia previa",
-        "url": "https://www.valoraanalitik.com/procuraduria-abrio-mas-de-3-000-vacantes-hay-cargos-sin-experiencia-y-salarios-de-mas-de-10-millones/",
-        "resumen": "La Procuraduría abrió 3.051 vacantes de empleo. Estos son los requisitos, costos, pasos y fechas clave para postularse.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Procuraduría abrió más de 3.000 vacantes: hay cargos sin experiencia y salarios de más de $10 millones; así puede postularse",
-        "capturado": "2026-09-09T12:44:06-05:00"
-      },
-      {
-        "titulo": "Ministro de Vivienda afronta la primera moción de censura en la administración de Abelardo de la Espriella",
-        "url": "https://www.valoraanalitik.com/ministro-de-vivienda-enfrenta-primera-mocion-de-censura-del-gobierno-de-abelardo-de-la-espriella/",
-        "resumen": "Beltrán fue cuestionado por haberse ausentado del país durante la emergencia generada por el terremoto.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Ministro de Vivienda enfrenta primera moción de censura del gobierno de Abelardo de la Espriella",
-        "capturado": "2026-09-09T12:44:06-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Medellín acogerá el mayor evento global de comercio electrónico con 60.000 asistentes y US$5 millones",
+        "url": "https://www.valoraanalitik.com/la-feria-de-e-commerce-mas-grande-del-mundo-reunira-a-mas-de-60-000-personas-en-medellin-dejaria-una-derrama-economica-de-us5-millones/",
+        "resumen": "Effix pasó de 2.500 asistentes en 2021 a superar los 49.000 en 2025, reflejando el crecimiento de la convocatoria y el interés por los negocios digitales.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "La feria de e-commerce más grande del mundo reunirá a más de 60.000 personas en Medellín: dejaría una derrama económica de US$5 millones",
+        "capturado": "2026-09-10T23:04:07-05:00"
+      },
+      {
+        "titulo": "Nuevos auxilios para 250 empresas en Colombia con dispositivos, capacitación y recursos monetarios",
+        "url": "https://www.valoraanalitik.com/nueva-convocatoria-para-emprendedores-en-colombia-250-negocios-podran-recibir-equipos-formacion-y-apoyo-financiero/",
+        "resumen": "Emprendedores de siete ciudades podrán postularse a un programa que combina equipos, formación e inclusión financiera para fortalecer sus negocios.",
+        "autor": "",
+        "subseccion": "Emprendedores",
+        "publicacion": "",
+        "titulo_fuente": "Nueva convocatoria para emprendedores en Colombia: 250 negocios podrán recibir equipos, formación y apoyo financiero",
+        "capturado": "2026-09-10T23:04:07-05:00"
+      },
+      {
+        "titulo": "Administración nacional destraba iniciativa crucial para robustecer el sistema eléctrico bogotano y central",
+        "url": "https://www.valoraanalitik.com/gobierno-destraba-proyecto-clave-para-ampliar-red-electrica-en-bogota-y-el-centro-del-pais/",
+        "resumen": "Según el mandatario local, el ministro de Ambiente le informó que el proyecto vería la luz con la finalidad de garantizar la seguridad energética de Bogotá.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno destraba proyecto clave para ampliar red eléctrica en Bogotá y el centro del país",
+        "capturado": "2026-09-10T23:04:07-05:00"
+      },
       {
         "titulo": "Nueva sentencia modifica el escenario sobre ceses de empleados con afecciones médicas",
         "url": "https://www.valoraanalitik.com/nuevo-fallo-cambia-el-panorama-sobre-despidos-de-trabajadores-con-problemas-de-salud/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "XM: debe haber directrices en exportaciones de energía de Colombia en condiciones de escasez",
         "capturado": "2026-09-07T19:37:26-05:00"
-      },
-      {
-        "titulo": "Nuevas normas fiscales retan a empresas familiares en Colombia y la mayoría no llega a tercera generación",
-        "url": "https://www.valoraanalitik.com/nuevas-reglas-tributarias-ponen-a-prueba-a-las-empresas-familiares-en-colombia/",
-        "resumen": "Ocho de las 15 empresas con mayores ingresos del país son familiares, pero 7 de cada 10 no llegan a la tercera generación.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Nuevas reglas tributarias ponen a prueba a las empresas familiares en Colombia: la mayoría no logra pasar a la tercera generación",
-        "capturado": "2026-09-07T19:37:26-05:00"
-      },
-      {
-        "titulo": "De la Espriella y empresarios impulsan Plan Marshall para el Chocó con un billón en vías, malecón y canal",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-y-empresarios-lanzan-ambicioso-plan-marshall-para-el-choco-1-billon-en-vias-malecon-y-canal-interoceanico/",
-        "resumen": "El ambicioso “Plan Marshall” de De la Espriella y empresarios para el Chocó: $1 billón en infraestructura.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella y empresarios lanzan ambicioso “Plan Marshall” para el Chocó: $1 billón en vías, malecón y canal interoceánico",
-        "capturado": "2026-09-07T17:13:47-05:00"
-      },
-      {
-        "titulo": "De La Espriella retomará el plan del tren interoceánico de Petro e invertirá en infraestructura vial y aérea",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-retomara-el-plan-para-construir-el-megaproyecto-de-tren-interoceanico-que-arranco-petro/",
-        "resumen": "El mandatario dijo que hay dos opciones de obra: un canal interoceánico y otro que incluye vías férreas. Anuncia paquete de $1 billón para vías y aeropuerto.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | De La Espriella retomará el plan para construir el megaproyecto de tren interoceánico que arrancó Petro; invertirá en vías y aeropuerto",
-        "capturado": "2026-09-07T17:13:47-05:00"
       }
     ]
   }
