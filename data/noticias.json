@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-11T08:44:07-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-09-11T12:40:45-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Modificatoria pensional alterará la modalidad de pago para cotizaciones de contratistas",
+        "url": "https://www.valoraanalitik.com/reforma-pensional-cambiara-la-forma-de-pagar-los-aportes-de-contratistas/",
+        "resumen": "La reforma pensional tiene fecha de entrada en vigencia y traerá cambios en los aportes de trabajadores y contratistas que las empresas deberán preparar.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Reforma pensional cambiará la forma de pagar los aportes de los contratistas",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
+      {
+        "titulo": "Consumo global de crudo descenderá más de lo estimado en 2026 debido al conflicto iraní",
+        "url": "https://www.valoraanalitik.com/demanda-mundial-de-petroleo-caera-mas-de-lo-previsto-en-2026-por-la-guerra-en-iran/",
+        "resumen": "Las previsiones de la Agencia Internacional de Energía son que el consumo se recupere levemente en 2027.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Demanda mundial de petróleo caerá más de lo previsto en 2026 por la guerra en Irán",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
+      {
+        "titulo": "Colombia expone postura ante la ONU respecto a la no proliferación atómica de Irán",
+        "url": "https://www.valoraanalitik.com/colombia-fija-posicion-ante-la-onu-sobre-no-proliferacion-de-armas-nucleares-de-iran/",
+        "resumen": "Gaona defiende ante la ONU vigencia del derecho internacional frente al caso nuclear de Irán.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Colombia fija posición ante la ONU sobre no proliferación de armas nucleares de Irán",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
+      {
+        "titulo": "Nuevas directrices sobre cámaras salvavidas en Colombia dispuestas por el Gobierno De la Espriella",
+        "url": "https://www.valoraanalitik.com/cambian-las-reglas-de-las-fotomultas-en-colombia-por-decision-del-gobierno-de-la-espriella-esto-deben-tener-en-cuenta-los-conductores/",
+        "resumen": "Las fotomultas entran en una nueva etapa tras una decisión del Ministerio de Transporte que modifica las reglas del control con dispositivos electrónicos.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Cambian las reglas de las fotomultas en Colombia por decisión del Gobierno De la Espriella: esto deben tener en cuenta los conductores",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
+      {
+        "titulo": "Fitch alerta sobre grave déficit fiscal colombiano y equívoca gestión de endeudamiento caro",
+        "url": "https://www.valoraanalitik.com/fitch-advierte-profundo-desequilibrio-en-presupuesto-de-colombia-y-errado-manejo-de-la-deuda-a-tasas-altas/",
+        "resumen": "La entidad señaló que si las autoridades avanzan en medidas de ajuste, el desbalance superará con creces sus cálculos anteriores.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fitch advierte profundo desequilibrio en presupuesto de Colombia y errado manejo de la deuda a tasas altas",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
+      {
+        "titulo": "Festival Cordillera prevé 90.000 espectadores y derrama económica superior a $100.000 millones en Bogotá",
+        "url": "https://www.valoraanalitik.com/festival-cordillera-espera-90-000-asistentes-e-impacto-economico-de-mas-de-100-000-millones-en-bogota/",
+        "resumen": "La estimación calcula que cada uno gastaría alrededor de $1,5 millones, mientras que el gasto promedio de un turista nacional sería de $727.684.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Festival Cordillera espera 90.000 asistentes e impacto económico de más de $100.000 millones en Bogotá",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
+      {
+        "titulo": "CARF: déficit y deuda podrían dispararse en Colombia en 2027 con cifras heredadas de Petro",
+        "url": "https://www.valoraanalitik.com/carf-deficit-y-deuda-podrian-dispararse-en-colombia-en-2027-con-cifras-heredadas-de-petro/",
+        "resumen": "Para el organismo, debe haber esfuerzos fiscales contundentes que equilibren gastos e ingresos para regresar al cumplimiento de la regla fiscal.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "CARF: déficit y deuda podrían dispararse en Colombia en 2027 con cifras heredadas de Petro",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
+      {
+        "titulo": "Amarilo estima que megaproyecto de renovación urbana Quora podría replicarse en Pereira y Manizales",
+        "url": "https://www.valoraanalitik.com/amarilo-cree-que-megaproyecto-de-renovacion-urbana-quora-podria-replicarse-en-pereira-y-manizales/",
+        "resumen": "Moreno planteó que este tipo de intervenciones también podrían ser útiles en zonas afectadas por desastres naturales.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Amarilo cree que megaproyecto de renovación urbana Quora podría replicarse en Pereira y Manizales",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
       {
         "titulo": "Tasa de cambio abre cayendo y roza los tres mil pesos a la espera de dato inflacionario estadounidense",
         "url": "https://www.valoraanalitik.com/dolar-en-colombia-inicia-jornada-a-la-baja-se-acerca-a-los-3-000-pendiente-de-inflacion-en-ee-uu/",
@@ -523,89 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Estos son los cambios clave del Ministerio de Ambiente para SPEC e Hidroituango",
         "capturado": "2026-09-09T20:21:33-05:00"
-      },
-      {
-        "titulo": "Acciones de Colombia, Chile y Perú operarán en bolsa unificada desde 2027 a la espera de trámites",
-        "url": "https://www.valoraanalitik.com/mercado-integrado-2027-esto-es-lo-que-falta/",
-        "resumen": "La integración ya cuenta con una plataforma común de negociación; aún debe completar requisitos de posnegociación y ajustes regulatorios.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Mercado integrado para negociar acciones de Colombia, Chile y Perú entrará en operación en 2027; esto es lo que falta",
-        "capturado": "2026-09-09T18:06:16-05:00"
-      },
-      {
-        "titulo": "Proyecto estatal de 1,2 billones para liquidez energética en 2026 detalla su posible fondeo",
-        "url": "https://www.valoraanalitik.com/asi-se-financiaria-el-proyecto-de-ley-del-gobierno-por-12-billones-para-dar-liquidez-al-sector-energetico-2026/",
-        "resumen": "El gobierno de Abelardo de la Espriella reveló cómo planea conseguir el dinero para atender la emergencia del fenómeno de El Niño.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Así se financiaría el proyecto de ley del Gobierno por $1,2 billones para dar liquidez al sector energético 2026",
-        "capturado": "2026-09-09T18:06:16-05:00"
-      },
-      {
-        "titulo": "Nueva iniciativa replantea cobros del ICA en Bogotá para bancos, autos y cooperativas",
-        "url": "https://www.valoraanalitik.com/nueva-propuesta-redefine-tarifas-del-ica-en-bogota-para-vehiculos-cooperativas-y-sector-financiero/",
-        "resumen": "La tarifa del ICA para el sector bancario de Bogotá sería aplicado de manera progresiva.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Nueva propuesta redefine tarifas del ICA en Bogotá para vehículos, cooperativas y sector financiero",
-        "capturado": "2026-09-09T18:06:16-05:00"
-      },
-      {
-        "titulo": "Elizabeth Rey quedará al frente de la zona Andina de Citi operando desde territorio colombiano",
-        "url": "https://www.valoraanalitik.com/elizabeth-rey-lider-region-citi-colombia/",
-        "resumen": "Rey mantendrá la presidencia de Citi Colombia y sumará las operaciones corporativas de Chile, Ecuador y Perú.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Elizabeth Rey asumirá liderazgo de la región Andina de Citi desde Colombia",
-        "capturado": "2026-09-09T18:06:16-05:00"
-      },
-      {
-        "titulo": "CREG anuncia cronograma clave y estrategia para actualizar el cargo por confiabilidad nacional",
-        "url": "https://www.valoraanalitik.com/creg-confirma-plan-para-modernizar-el-cargo-por-confiabilidad-en-colombia-revela-fecha-clave/",
-        "resumen": "La CREG también evalúa medidas complementarias relacionadas con la disponibilidad de energía para atender contingencias climáticas",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "CREG confirma plan para modernizar el cargo por confiabilidad en Colombia: revela fecha clave",
-        "capturado": "2026-09-09T18:06:16-05:00"
-      },
-      {
-        "titulo": "MinHacienda apoya cobros diferenciados de luz en el Caribe y urge fijar tiempos y favorecidos",
-        "url": "https://www.valoraanalitik.com/minhacienda-respalda-tarifas-diferenciales-de-energia-para-la-costa-pide-definir-beneficiarios-y-plazos/",
-        "resumen": "El ministro de Hacienda rechazó que se implemente como una medida general cuestionando a quién beneficia y quién paga por ella.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda respalda tarifas diferenciales de energía para la Costa; pide definir beneficiarios y plazos",
-        "capturado": "2026-09-09T15:46:51-05:00"
-      },
-      {
-        "titulo": "Nace alternativa para adquirir pasajes aéreos a plazos: tres pagos sin recargo en rutas locales y fuera",
-        "url": "https://www.valoraanalitik.com/nueva-opcion-para-comprar-tiquetes-de-avion-sin-pagar-todo-de-una-son-3-cuotas-sin-intereses-para-vuelos-nacionales-e-internacionales/",
-        "resumen": "Comprar tiquetes de avión ahora tiene una nueva alternativa de pago para quienes quieran organizar sus viajes de fin de año sin asumir todo el gasto de una vez.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Nueva opción para comprar tiquetes de avión sin pagar todo de una: son 3 cuotas sin intereses para vuelos nacionales e internacionales",
-        "capturado": "2026-09-09T15:46:51-05:00"
-      },
-      {
-        "titulo": "Primicia | Coordinadora acelera su crecimiento e ingresa de lleno al mercado de carga aérea en el país",
-        "url": "https://www.valoraanalitik.com/coordinadora-acelera-expansion-y-entra-de-lleno-al-negocio-de-carga-aerea-en-colombia/",
-        "resumen": "Nicolás Obando, presidente de Coordinadora, explicó que la compañía busca responder a una demanda creciente por servicios de entrega exprés.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Coordinadora acelera expansión y entra de lleno al negocio de carga aérea en Colombia",
-        "capturado": "2026-09-09T15:46:51-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El pago de cotizaciones de los contratistas se modificará con la reforma pensional",
+        "url": "https://www.valoraanalitik.com/reforma-pensional-cambiara-la-forma-de-pagar-los-aportes-de-contratistas/",
+        "resumen": "La reforma pensional tiene fecha de entrada en vigencia y traerá cambios en los aportes de trabajadores y contratistas que las empresas deberán preparar.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Reforma pensional cambiará la forma de pagar los aportes de los contratistas",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
+      {
+        "titulo": "La guerra en Irán reducirá la demanda global de crudo en 2026 más de lo proyectado",
+        "url": "https://www.valoraanalitik.com/demanda-mundial-de-petroleo-caera-mas-de-lo-previsto-en-2026-por-la-guerra-en-iran/",
+        "resumen": "Las previsiones de la Agencia Internacional de Energía son que el consumo se recupere levemente en 2027.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Demanda mundial de petróleo caerá más de lo previsto en 2026 por la guerra en Irán",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
+      {
+        "titulo": "Festival Cordillera prevé 90000 espectadores y un rédito financiero superior a $100000 millones en Bogotá",
+        "url": "https://www.valoraanalitik.com/festival-cordillera-espera-90-000-asistentes-e-impacto-economico-de-mas-de-100-000-millones-en-bogota/",
+        "resumen": "La estimación calcula que cada uno gastaría alrededor de $1,5 millones, mientras que el gasto promedio de un turista nacional sería de $727.684.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Festival Cordillera espera 90.000 asistentes e impacto económico de más de $100.000 millones en Bogotá",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
+      {
+        "titulo": "Jóvenes del campo recibirán formación técnica gratuita gracias a Alquería y el SENA",
+        "url": "https://www.valoraanalitik.com/alqueria-y-el-sena-formaran-gratis-a-jovenes-rurales-en-carreras-tecnicas/",
+        "resumen": "La formación tendrá una duración de 27 meses: 21 meses de etapa lectiva y seis meses de etapa productiva.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Alquería y el SENA formarán gratis a jóvenes rurales en carreras técnicas",
+        "capturado": "2026-09-11T12:40:45-05:00"
+      },
       {
         "titulo": "LinkU Capital Summit convoca en Medellín a líderes de inversión de América Latina",
         "url": "https://www.valoraanalitik.com/linku-capital-summit-el-espacio-que-reunira-en-medellin-a-quienes-toman-las-decisiones-de-inversion-en-latinoamerica/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Primicia | Alejandro Piedrahíta, ex Grupo Argos, será el nuevo vicepresidente de Estrategia y Desarrollo de Negocios de Corona",
         "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Empresas y costos más altos en el servicio de energía para el estrato cuatro en Colombia",
-        "url": "https://www.valoraanalitik.com/este-es-el-listado-de-las-empresas-y-tarifas-mas-caras-en-energia-para-el-estrato-4-en-colombia/",
-        "resumen": "El fenómeno de El Niño y una mayor dependencia del gas importado serían algunos de los factores que impulsaron estos incrementos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Este es el listado de las empresas y tarifas más caras en energía para el estrato 4 en Colombia",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "El costo de la energía en los hogares colombianos subió durante la inflación de agosto",
-        "url": "https://www.valoraanalitik.com/canasta-energetica-para-los-hogares-colombianos-aumento-en-la-inflacion-de-agosto/",
-        "resumen": "El fenómeno de El Niño y una mayor dependencia del gas importado serían algunos de los factores que impulsaron estos incrementos.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Canasta energética para los hogares colombianos aumentó en la inflación de agosto",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "Tatyana Orozco asume como la nueva presidenta de la Cámara Colombiana de la Infraestructura CCI",
-        "url": "https://www.valoraanalitik.com/tatyana-orozco-nueva-presidenta-de-la-camara-colombiana-de-la-infraestructura/",
-        "resumen": "La Junta Directiva de la agremiación designó a la exdirectora de Prosperidad Social como nueva presidenta. Este es el perfil de la nueva dirigente de la CCI.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Tatyana Orozco es la nueva presidenta de la Cámara Colombiana de la Infraestructura (CCI)",
-        "capturado": "2026-09-08T13:55:47-05:00"
-      },
-      {
-        "titulo": "GeoPark, propiedad del Grupo Gilinski, destinará cerca de US$7.000 millones para triplicar su bombeo en Venezuela",
-        "url": "https://www.valoraanalitik.com/geopark-del-grupo-gilinski-invertira-casi-us7-000-millones-para-triplicar-produccion-de-petroleo-en-venezuela/",
-        "resumen": "El presidente de la compañía, manifestó que GeoPark es la única empresa privada con extracción de fracking en Argentina y gestión de crudo pesado en Venezuela.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark del Grupo Gilinski invertirá casi US$7.000 millones para triplicar producción de petróleo en Venezuela",
-        "capturado": "2026-09-08T10:02:51-05:00"
       }
     ]
   }
