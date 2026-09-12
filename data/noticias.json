@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-11T20:25:51-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-12T01:22:28-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Importante | GEB inicia trámite para cotizar en Nueva York: falta aval de accionistas",
+        "url": "https://www.valoraanalitik.com/relevante-geb-comienza-proceso-para-listarse-en-nueva-york-viene-aprobacion-de-accionistas/",
+        "resumen": "La decisión sobre el eventual proceso de registro y negociación en Estados Unidos quedará en manos de los accionistas",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | GEB comienza proceso para listarse en Nueva York: viene aprobación de accionistas",
+        "capturado": "2026-09-12T01:22:28-05:00"
+      },
       {
         "titulo": "S&P Global Ratings: PIB de Colombia, Chile y Perú subiría en US$100.000 millones en un quinquenio",
         "url": "https://www.valoraanalitik.com/sp-global-ratings-integracion/",
@@ -593,19 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno dará recursos a empresas de servicios públicos mixtas para garantizar energía a afectados por el terremoto",
         "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Gobierno habilita modalidad especial de Obras por Impuestos para zonas del sismo",
-        "url": "https://www.valoraanalitik.com/obras-por-impuestos-zonas-terremoto-gobierno-crea-modalidad-especial-reconstruccion/",
-        "resumen": "La medida busca movilizar capacidad de ejecución privada sin crear una estructura administrativa paralela.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Obras por Impuestos se abre a las zonas del terremoto: Gobierno crea modalidad especial para la reconstrucción",
-        "capturado": "2026-09-10T11:37:09-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Importante | Grupo de Energía de Bogotá inicia trámite para cotizar en Nueva York y espera aval",
+        "url": "https://www.valoraanalitik.com/relevante-geb-comienza-proceso-para-listarse-en-nueva-york-viene-aprobacion-de-accionistas/",
+        "resumen": "La decisión sobre el eventual proceso de registro y negociación en Estados Unidos quedará en manos de los accionistas",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | GEB comienza proceso para listarse en Nueva York: viene aprobación de accionistas",
+        "capturado": "2026-09-12T01:22:28-05:00"
+      },
       {
         "titulo": "De la Espriella habilita posibilidad de bajar IVA a pasajes aéreos en regiones golpeadas por sismo",
         "url": "https://www.valoraanalitik.com/de-la-espriella-abre-la-puerta-para-reducir-iva-a-tiquetes-aereos-en-zonas-afectadas-por-terremoto/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella anuncia subasta de energía ante fuerte Niño; anticipa alza de tarifas",
         "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Bolsa de valores colombiana alcanza máximo histórico con el índice MSCI Colcap y genera expectativa",
-        "url": "https://www.valoraanalitik.com/indice-msci-colcap-toca-record-historico-hasta-donde-puede-llegar-la-bolsa-colombiana/",
-        "resumen": "La magnitud del cambio es evidente. Entre 2015 y 2023, el Colcap se movió en un rango estrecho, con mínimos recurrentes cerca de los 1.100 puntos.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Índice MSCI Colcap toca récord histórico: ¿hasta dónde puede llegar la bolsa colombiana?",
-        "capturado": "2026-09-08T13:55:47-05:00"
       }
     ]
   }
