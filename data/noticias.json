@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-12T09:18:32-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-12T12:23:06-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Exministra de Educación Viviane Morales afirma que recursos para salud docente en Fomag irían hasta septiembre",
+        "url": "https://www.valoraanalitik.com/alertan-que-el-fomag-tendria-recursos-para-salud-de-los-maestros-hasta-septiembre/",
+        "resumen": "La funcionaria denunció que la administración anterior habría entregado el Fondo “desfinanciado” y con facturas pendientes por saldar.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Viviane Morales, exministra de Educación, dice que solo hasta septiembre alcanzaría la plata para salud de maestros en el Fomag",
+        "capturado": "2026-09-12T12:23:06-05:00"
+      },
+      {
+        "titulo": "Millennials tienen más dificultad que sus padres para formar patrimonio según estudio del fenómeno",
+        "url": "https://www.valoraanalitik.com/a-los-millennials-les-cuesta-mas-construir-patrimonio-que-a-sus-padres/",
+        "resumen": "Un informe de la OCDE identifica las barreras que enfrenta esta generación para acumular riqueza, desde los ingresos hasta el acceso a vivienda.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "A los millennials les cuesta más construir patrimonio que a sus padres: ¿qué hay detrás de este fenómeno?",
+        "capturado": "2026-09-12T12:23:06-05:00"
+      },
+      {
+        "titulo": "Cierre del puente de la calle 100 con Séptima arranca este domingo y modificará la movilidad",
+        "url": "https://www.valoraanalitik.com/inicia-desmonte-del-puente-de-la-calle-100-con-septima-en-bogota/",
+        "resumen": "La nueva estructura tendrá 461 metros, cuatro carriles y tres pasos deprimidos. Durante las obras habrá cambios en la circulación nocturna.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Este domingo inicia desmonte del puente de la calle 100 con Séptima: así cambiará el tránsito",
+        "capturado": "2026-09-12T12:23:06-05:00"
+      },
       {
         "titulo": "Presupuesto 2027: Diferencia entre una cifra mayor a $600 billones y recursos de caja muy bajos",
         "url": "https://www.valoraanalitik.com/presupuesto-2027-contraste-entre-un-monto-superior-a-600-billones-y-una-caja-en-minimos-historicos/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno autoriza redistribuir recursos de sobretasa al ACPM en Colombia por emergencia del terremoto",
         "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "David Vélez expone la nueva visión de Nubank, el neobanco más grande de América Latina, en directo",
-        "url": "https://www.valoraanalitik.com/inicia-una-nu-era-para-nubank-david-velez-presenta-nueva-vision-del-neobanco-mas-grande-de-america-latina/",
-        "resumen": "La “Nu Era” se presenta como una hoja de ruta para entender hacia dónde apunta la compañía y su papel en la próxima generación de servicios financieros.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "En Vivo | Inicia una Nu Era para Nubank: David Vélez presenta nueva visión del neobanco más grande de América Latina",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Arias de Crédito Público informa modificaciones en deuda pública y un nuevo ETF oficial",
-        "url": "https://www.valoraanalitik.com/arias-de-credito-publico-anuncia-cambios-relevantes-en-mercado-de-deuda-publica/",
-        "resumen": "El directivo explicó cuáles son los ajustes que se buscará implementar con miras a fortalecer la profundidad y liquidez del ETF de deuda.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Arias de Crédito Público anuncia cambios relevantes en mercado de deuda pública y nuevo ETF del Gobierno",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "bvc incorpora siete ETFs de J.P.Morgan al Mercado Global Colombiano para operar hoy",
-        "url": "https://www.valoraanalitik.com/bvc-lista-siete-nuevos-etf-de-j-p-morgan-en-el-mercado-global-colombiano-se-negocian-desde-hoy/",
-        "resumen": "Las especies quedan habilitadas para negociación a partir del 10 de septiembre de 2026.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "bvc lista siete nuevos ETF de J.P.Morgan en el Mercado Global Colombiano: se negocian desde hoy",
-        "capturado": "2026-09-10T11:37:09-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Con importante capital, famosa firma textil nacional pondrá en marcha amplio proyecto de crecimiento",
+        "url": "https://www.valoraanalitik.com/reconocida-marca-de-ropa-colombiana-tendra-ambicioso-plan-de-expansion-con-millonaria-inversion/",
+        "resumen": "La marca de ropa antioqueña tendría su expansión en estas ciudades del país.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Reconocida marca de ropa colombiana tendrá ambicioso plan de expansión con millonaria inversión",
+        "capturado": "2026-09-12T12:23:06-05:00"
+      },
       {
         "titulo": "Entrevista | Presidente de la Regasificadora del Pacífico afirma que sin su planta se apaga el Valle del Cauca",
         "url": "https://www.valoraanalitik.com/si-no-tuvieramos-esta-planta-se-oscurece-el-valle-del-cauca-presidente-de-la-regasificadora-del-pacifico/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Ultimas tecnologia",
         "publicacion": "",
         "titulo_fuente": "Indra Group ha invertido $1.800 millones en despliegue tecnológico para atender emergencia por terremoto; donará $500 millones",
-        "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Rodolfo Castillo, socio fundador de Icoharinas, asumirá la presidencia de la Junta Directiva de la ANDI",
-        "url": "https://www.valoraanalitik.com/rodolfo-castillo-sera-nuevo-presidente-de-la-junta-directiva-de-la-andi/",
-        "resumen": "La elección se realizó este 8 de septiembre y corresponde al periodo 2026-2027.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Rodolfo Castillo, socio fundador de Icoharinas, será nuevo presidente de la Junta Directiva de la ANDI",
         "capturado": "2026-09-08T16:45:10-05:00"
       }
     ]
