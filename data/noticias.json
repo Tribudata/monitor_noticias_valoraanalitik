@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-12T06:09:48-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-12T09:18:32-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Presupuesto 2027: Diferencia entre una cifra mayor a $600 billones y recursos de caja muy bajos",
+        "url": "https://www.valoraanalitik.com/presupuesto-2027-contraste-entre-un-monto-superior-a-600-billones-y-una-caja-en-minimos-historicos/",
+        "resumen": "Las comisiones económicas del Congreso tendrán plazo hasta el 25 de septiembre para votar la ponencia en primer debate unificado.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto 2027: Contraste entre un monto superior a $600 billones y una caja en mínimos históricos",
+        "capturado": "2026-09-12T09:18:32-05:00"
+      },
+      {
+        "titulo": "Entrevista | Si no contáramos con esta planta, se apaga el Valle del Cauca, líder de Regasificadora",
+        "url": "https://www.valoraanalitik.com/si-no-tuvieramos-esta-planta-se-oscurece-el-valle-del-cauca-presidente-de-la-regasificadora-del-pacifico/",
+        "resumen": "El presidente de la Regasificadora del Pacífico abordó aspectos adicionales del impacto que tendrá el proyecto para Colombia y la región.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | “Si no tuviéramos esta planta, se oscurece el Valle del Cauca”, presidente de la Regasificadora del Pacífico",
+        "capturado": "2026-09-12T09:18:32-05:00"
+      },
       {
         "titulo": "Importante | GEB inicia trámite para cotizar en Nueva York: falta aval de accionistas",
         "url": "https://www.valoraanalitik.com/relevante-geb-comienza-proceso-para-listarse-en-nueva-york-viene-aprobacion-de-accionistas/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "bvc lista siete nuevos ETF de J.P.Morgan en el Mercado Global Colombiano: se negocian desde hoy",
         "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Oficial: estos tramos de la línea 2 del metro de Bogotá irán bajo tierra",
-        "url": "https://www.valoraanalitik.com/confirmado-estos-seran-los-tramos-subterraneos-que-tendra-la-linea-2-del-metro-de-bogota/",
-        "resumen": "La línea 2 del metro de Bogotá ya tiene propuestas de empresas para su adecuación. Estos son los detalles del proyecto.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Confirmado: estos serán los tramos subterráneos que tendrá la línea 2 del metro de Bogotá",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Gobierno asignará fondos a empresas mixtas para asegurar energía en zonas del sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-dara-recursos-a-empresas-de-servicios-publicos-mixtas-para-garantizar-energia-a-afectados-por-el-terremoto/",
-        "resumen": "El Fondes y las empresas beneficiadas tendrán que ejecutar los recursos en un año contado a partir del último desembolso.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno dará recursos a empresas de servicios públicos mixtas para garantizar energía a afectados por el terremoto",
-        "capturado": "2026-09-10T11:37:09-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | Presidente de la Regasificadora del Pacífico afirma que sin su planta se apaga el Valle del Cauca",
+        "url": "https://www.valoraanalitik.com/si-no-tuvieramos-esta-planta-se-oscurece-el-valle-del-cauca-presidente-de-la-regasificadora-del-pacifico/",
+        "resumen": "El presidente de la Regasificadora del Pacífico abordó aspectos adicionales del impacto que tendrá el proyecto para Colombia y la región.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | “Si no tuviéramos esta planta, se oscurece el Valle del Cauca”, presidente de la Regasificadora del Pacífico",
+        "capturado": "2026-09-12T09:18:32-05:00"
+      },
       {
         "titulo": "Importante | Grupo de Energía de Bogotá inicia trámite para cotizar en Nueva York y espera aval",
         "url": "https://www.valoraanalitik.com/relevante-geb-comienza-proceso-para-listarse-en-nueva-york-viene-aprobacion-de-accionistas/",
@@ -1194,16 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Rodolfo Castillo, socio fundador de Icoharinas, será nuevo presidente de la Junta Directiva de la ANDI",
-        "capturado": "2026-09-08T16:45:10-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella convoca subasta eléctrica por Fenómeno del Niño y advierte incremento en tarifas",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-subasta-de-energia-ante-fuerte-nino-anticipa-alza-de-tarifas/",
-        "resumen": "María Nohemi Arboleda, ministra de Minas y Energías, señaló que están buscando con la finalidad de abastecer el mercado energético colombiano.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella anuncia subasta de energía ante fuerte Niño; anticipa alza de tarifas",
         "capturado": "2026-09-08T16:45:10-05:00"
       }
     ]
