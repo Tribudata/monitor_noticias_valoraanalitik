@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-12T12:23:06-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-12T14:35:31-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Elon Musk y el director ejecutivo de Anthropic coinciden en frenar la IA debido a peligros de seguridad",
+        "url": "https://www.valoraanalitik.com/elon-musk-y-el-ceo-de-anthropic-estan-de-acuerdo-en-bajar-el-ritmo-de-la-ia/",
+        "resumen": "La propuesta incluye evaluadores externos, estándares comunes de seguridad y coordinación entre gobiernos para controlar los riesgos de la carrera por la IA.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Elon Musk y el CEO de Anthropic están de acuerdo en “bajar el ritmo” de la IA por riesgos de seguridad",
+        "capturado": "2026-09-12T14:35:31-05:00"
+      },
+      {
+        "titulo": "Suministro de fármacos en Colombia: 87 % de los ciudadanos manifiesta trabas de disponibilidad",
+        "url": "https://www.valoraanalitik.com/87-de-usuarios-reporta-problemas-de-acceso-a-medicamentos/",
+        "resumen": "La Defensoría del Pueblo registró 6.289 quejas en el primer semestre de 2026 y alertó por las barreras que persisten en la dispensación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrega de medicamentos en Colombia: 87 % de usuarios reporta problemas de acceso",
+        "capturado": "2026-09-12T14:35:31-05:00"
+      },
+      {
+        "titulo": "Juan Antonio Pungiluppi asume la dirección de la Junta de Millicom Colombia",
+        "url": "https://www.valoraanalitik.com/juan-antonio-pungiluppi-llega-a-la-presidencia-de-la-junta-de-millicom-colombia/",
+        "resumen": "Su llegada se da tras la adquisición de Movistar Colombia por parte de Millicom y la consolidación de su propiedad accionaria en UNE.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Juan Antonio Pungiluppi llega a la presidencia de la Junta de Millicom Colombia",
+        "capturado": "2026-09-12T14:35:31-05:00"
+      },
+      {
+        "titulo": "Entrevista | Jeeves: Compañías colombianas demoran hasta cinco días de caja en cada pago externo",
+        "url": "https://www.valoraanalitik.com/entrevista-jeeves-pagos-exterior-liquidez/",
+        "resumen": "Más de la mitad del volumen de pagos internacionales de Jeeves ya opera con stablecoins, según su CFO, Alexander Melikian.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Jeeves: Empresas colombianas pierden hasta cinco días de liquidez en cada pago al exterior",
+        "capturado": "2026-09-12T14:35:31-05:00"
+      },
       {
         "titulo": "Exministra de Educación Viviane Morales afirma que recursos para salud docente en Fomag irían hasta septiembre",
         "url": "https://www.valoraanalitik.com/alertan-que-el-fomag-tendria-recursos-para-salud-de-los-maestros-hasta-septiembre/",
@@ -563,49 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "La DIAN podría tener que devolverle dinero: revise si está entre los beneficiados",
         "capturado": "2026-09-10T14:29:36-05:00"
-      },
-      {
-        "titulo": "Cali acoge el sexto encuentro anual de liderazgo en juntas directivas del CESA para discutir sobre empresas",
-        "url": "https://www.valoraanalitik.com/cali-encuentro-anual-juntas-directivas-cesa/",
-        "resumen": "Del 9 al 12 de septiembre, empresarios y expertos se reúnen para conversar sobre el papel del sector empresarial ante los retos del país.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Cali se convierte en escenario del liderazgo empresarial con el VI Encuentro anual de liderazgo en juntas directivas del CESA",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "ANIF advierte tormenta perfecta en Colombia por inflación alta, tasas elevadas y limitado espacio fiscal",
-        "url": "https://www.valoraanalitik.com/anif-colombia-enfrenta-una-tormenta-perfecta-con-alta-inflacion-tasas-elevadas-y-poco-espacio-fiscal/",
-        "resumen": "Estas son las previsiones del Centro de Pensamiento Económico ANIF para la infraestructura y la reactivación económica.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "ANIF: Colombia enfrenta una “tormenta perfecta” con alta inflación, tasas elevadas y poco espacio fiscal",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Nubank llega a Estados Unidos con tarjetas y rendimientos y estrena Nu Global para cuentas en 35 países",
-        "url": "https://www.valoraanalitik.com/nubank-inicia-operaciones-en-ee-uu-con-nuevas-tarjetas-y-cuentas-y-lanza-nu-global-para-35-paises/",
-        "resumen": "David Vélez, CEO de Nubank, señaló que la expansión hacia EE. UU. se produce después de consolidar un negocio con más de 140 millones de clientes en la región.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Nubank inicia operaciones en EE. UU. con nuevas tarjetas y rendimientos y lanza Nu Global para 35 países en cuentas en dólares y euros",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Gobierno permite reasignar fondos de la sobretasa al ACPM por la emergencia derivada del terremoto",
-        "url": "https://www.valoraanalitik.com/gobierno-autoriza-redistribuir-recursos-de-sobretasa-al-acpm-en-colombia-por-emergencia-del-terremoto/",
-        "resumen": "Los montos serán destinados a la atención de la emergencia económica y social en los departamentos afectados por el terremoto.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno autoriza redistribuir recursos de sobretasa al ACPM en Colombia por emergencia del terremoto",
-        "capturado": "2026-09-10T11:37:09-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El 87 por ciento de los usuarios en Colombia señala dificultades para recibir sus medicamentos",
+        "url": "https://www.valoraanalitik.com/87-de-usuarios-reporta-problemas-de-acceso-a-medicamentos/",
+        "resumen": "La Defensoría del Pueblo registró 6.289 quejas en el primer semestre de 2026 y alertó por las barreras que persisten en la dispensación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrega de medicamentos en Colombia: 87 % de usuarios reporta problemas de acceso",
+        "capturado": "2026-09-12T14:35:31-05:00"
+      },
+      {
+        "titulo": "Juan Antonio Pungiluppi asume la dirección de la Junta de Millicom Colombia",
+        "url": "https://www.valoraanalitik.com/juan-antonio-pungiluppi-llega-a-la-presidencia-de-la-junta-de-millicom-colombia/",
+        "resumen": "Su llegada se da tras la adquisición de Movistar Colombia por parte de Millicom y la consolidación de su propiedad accionaria en UNE.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Juan Antonio Pungiluppi llega a la presidencia de la Junta de Millicom Colombia",
+        "capturado": "2026-09-12T14:35:31-05:00"
+      },
+      {
+        "titulo": "Entrevista a Jeeves sobre la pérdida de hasta cinco días de liquidez en pagos externos de empresas locales",
+        "url": "https://www.valoraanalitik.com/entrevista-jeeves-pagos-exterior-liquidez/",
+        "resumen": "Más de la mitad del volumen de pagos internacionales de Jeeves ya opera con stablecoins, según su CFO, Alexander Melikian.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Jeeves: Empresas colombianas pierden hasta cinco días de liquidez en cada pago al exterior",
+        "capturado": "2026-09-12T14:35:31-05:00"
+      },
       {
         "titulo": "Con importante capital, famosa firma textil nacional pondrá en marcha amplio proyecto de crecimiento",
         "url": "https://www.valoraanalitik.com/reconocida-marca-de-ropa-colombiana-tendra-ambicioso-plan-de-expansion-con-millonaria-inversion/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Hidroituango reporta ganancias por $1,09 billones y define reparto entre accionistas",
         "capturado": "2026-09-08T23:27:43-05:00"
-      },
-      {
-        "titulo": "Aliadas presenta al Gobierno 30 iniciativas para reformar normas laborales, incluyendo labor por horas",
-        "url": "https://www.valoraanalitik.com/aliadas-entrega-al-gobierno-30-propuestas-para-modificar-reglas-laborales-trabajo-por-horas-y-cambios-en-contrato-de-aprendizaje/",
-        "resumen": "El Ministerio del Trabajo confirmó la puesta en marcha de mesas técnicas para revisar cada una de las 30 propuestas entregadas por Aliadas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Aliadas entrega al Gobierno 30 propuestas para modificar reglas laborales: trabajo por horas y cambios en contrato de aprendizaje",
-        "capturado": "2026-09-08T23:27:43-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado precisa liquidación de cotizaciones: dichos emolumentos laborales se excluyen",
-        "url": "https://www.valoraanalitik.com/consejo-de-estado-aclara-el-calculo-de-aportes-a-seguridad-social-estos-pagos-que-reciben-los-trabajadores-no-deben-incluirse/",
-        "resumen": "Una decisión del Consejo de Estado aclara qué pagos pueden quedar por fuera de los aportes a seguridad social y cómo debe aplicarse el límite del 40 %.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Consejo de Estado aclara el cálculo de aportes a seguridad social: estos pagos que reciben los trabajadores no deben incluirse",
-        "capturado": "2026-09-08T18:57:34-05:00"
-      },
-      {
-        "titulo": "Indra Group destinó $1.800 millones en tecnología para sismo y entregará $500 millones en donación",
-        "url": "https://www.valoraanalitik.com/indra-group-ha-invertido-1-800-millones-para-atender-emergencia-por-terremoto/",
-        "resumen": "Los recursos se han empleado en temas de conectividad satelital, análisis de imágenes satelitales y de datos.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Indra Group ha invertido $1.800 millones en despliegue tecnológico para atender emergencia por terremoto; donará $500 millones",
-        "capturado": "2026-09-08T16:45:10-05:00"
       }
     ]
   }
