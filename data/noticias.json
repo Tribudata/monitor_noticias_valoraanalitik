@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-13T09:52:25-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-13T13:01:31-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Entrevista | Líder de Farizon: infraestructura de carga vial quedó en escala de auto",
+        "url": "https://www.valoraanalitik.com/farizon-entrevista-carga-carretera-camiones/",
+        "resumen": "Felipe Negret, gerente general de Farizon, habla de un país que electrificó la última milla y dejó la carga pesada esperando infraestructura.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Gerente general de Farizon: la red de carga en carretera se quedó en escala de automóvil",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
+      {
+        "titulo": "Fondos no son infinitos: Min-Gobierno De la Espriella detalla decreto de emergencia por sismo",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-entrega-detalles-sobre-decreto-para-atender-la-emergencia-por-el-terremoto/",
+        "resumen": "A través del Decreto 1382, el Ejecutivo busca ampliar el margen de acción para destinar recursos en los territorios afectados por el evento sísmico.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "“No es una chequera ilimitada”: Gobierno De la Espriella entrega detalles sobre decreto para atender la emergencia por el terremoto",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
+      {
+        "titulo": "Fintech Kala busca desembolsar $280.000 millones en libranzas al 2026 y alista titularizaciones",
+        "url": "https://www.valoraanalitik.com/fintech-kala-creditos-libranzas-2026/",
+        "resumen": "La firma busca sostener el crecimiento de su cartera con emisiones recurrentes, ampliar su portafolio de crédito y sumar inversionistas locales.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fintech Kala apunta a colocar $280.000 millones en créditos de libranzas en 2026; prepara nuevas titularizaciones",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
+      {
+        "titulo": "Entrevista | Antioquia alista masiva inversión por Impuestos para recuperar zonas del sismo",
+        "url": "https://www.valoraanalitik.com/entrevista-antioquia-prepara-billonaria-apuesta-de-obras-por-impuestos-para-reconstruir-zonas-afectadas-del-terremoto/",
+        "resumen": "Juliana Velásquez, presidenta ejecutiva de ProAntioquia, explicó los alcances de Obras por Impuestos para la reconstrucción de Colombia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Antioquia prepara billonaria apuesta de Obras por Impuestos para reconstruir zonas afectadas del terremoto",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
+      {
+        "titulo": "Nuevo millonario en Colombia: Baloto Revancha dio $3.200 millones con estos números ganadores",
+        "url": "https://www.valoraanalitik.com/baloto-revancha-entrego-3-200-millones-estos-son-los-numeros-ganadores/",
+        "resumen": "El tiquete ganador fue comprado por internet y acertó los cinco números y la súper balota del sorteo del 12 de septiembre.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo millonario en Colombia: Baloto Revancha entregó $3.200 millones; estos son los números ganadores",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
+      {
+        "titulo": "Naciones como Escocia, Gales e Irlanda del Norte pedirán votaciones para separarse del Reino Unido",
+        "url": "https://www.valoraanalitik.com/escocia-gales-e-irlanda-del-norte-buscaran-referendos-para-independizarse-del-reino-unido/",
+        "resumen": "El último proceso de este tipo que se llevó a cabo sobre el tema tuvo lugar en Escocia en 2014.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Escocia, Gales e Irlanda del Norte buscarán referendos para independizarse del Reino Unido",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
+      {
+        "titulo": "Entrevista | Inversionistas miran de nuevo a Venezuela por opciones en áreas vitales y nexos con Colombia",
+        "url": "https://www.valoraanalitik.com/entrevista-venezuela-vuelve-al-radar-de-inversionistas-se-abren-oportunidades-para-sectores-clave-y-alianzas-con-colombia/",
+        "resumen": "La discusión pasó de concentrarse en dificultades del entorno a analizar posibilidades de crecimiento que empiezan a aparecer en diferentes sectores.",
+        "autor": "",
+        "subseccion": "Insidevenezuela",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Venezuela vuelve al radar de inversionistas: se abren oportunidades para sectores clave y alianzas con Colombia",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
       {
         "titulo": "Entrevista | El déficit fiscal colombiano llegará a su récord histórico en 2027 y retomar la Regla Fiscal en 2028 costará",
         "url": "https://www.valoraanalitik.com/colombia-va-camino-a-tener-el-mayor-deficit-fiscal-de-su-historia-en-2027-sera-dificil-volver-a-la-regla-fiscal-en-2028/",
@@ -533,79 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Relevante | GeoPark analiza listado doble de sus acciones en Colombia y otros mercados para atraer más inversionistas",
         "capturado": "2026-09-10T16:49:44-05:00"
-      },
-      {
-        "titulo": "Acciones & Valores lanza CDT desde quinientos mil pesos mediante su sitio de internet",
-        "url": "https://www.valoraanalitik.com/acciones-valores-cdt-portal-web/",
-        "resumen": "La plataforma permite constituir los títulos de Tuya en plazos de 90 a 520 días y conocer desde el inicio la tasa pactada para la inversión.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Acciones & Valores habilita CDT desde $500.000 a través de su portal web",
-        "capturado": "2026-09-10T16:49:44-05:00"
-      },
-      {
-        "titulo": "Bogotá evalúa nueva colocación de bonos internos para pagar proyectos viales y su valor",
-        "url": "https://www.valoraanalitik.com/bogota-explora-nueva-emision-de-bonos-locales-para-financiar-obras-en-la-ciudad/",
-        "resumen": "La operación todavía está en etapa de análisis y podría realizarse antes de finalizar 2026 o a comienzos de 2027.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Bogotá explora nueva emisión de bonos locales para financiar obras en la ciudad; este sería el monto",
-        "capturado": "2026-09-10T16:49:44-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella prepara decreto fundamental para desarrollar obras costa afuera",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-decreto-clave-para-ejecutar-megaproyectos-de-petroleo-y-gas-en-el-mar-offshore/",
-        "resumen": "La Dirección General Marítima sería clave. Este mecanismo no se encuentra vigente y todavía está en trámite en el Ministerio de Defensa.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella alista decreto clave para ejecutar megaproyectos de petróleo y gas en el mar (offshore)",
-        "capturado": "2026-09-10T16:49:44-05:00"
-      },
-      {
-        "titulo": "Grupo Argos planea inversiones para llegar a Venezuela para 2027 analizando el panorama",
-        "url": "https://www.valoraanalitik.com/grupo-argos-alista-apuestas-para-entrar-a-venezuela-en-2027-asi-ve-las-oportunidades/",
-        "resumen": "Grupo Argos proyecta 2027 con una estrategia que combina nuevos proyectos de infraestructura, generación de energía y desarrollo inmobiliario.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos alista apuestas para entrar a Venezuela en 2027: así ve las oportunidades",
-        "capturado": "2026-09-10T16:49:44-05:00"
-      },
-      {
-        "titulo": "Motivos de la demora en la iniciativa Colectora y estado actual de las consultas previas con comunidades",
-        "url": "https://www.valoraanalitik.com/la-historia-detras-del-retraso-del-proyecto-colectora-en-que-van-las-consultas-previas-a-comunidades/",
-        "resumen": "La filial de GEB, Enlaza, indicó que, si bien se sumaron nuevas comunidades para ser consultadas, esto no comenzó ahora, sino en 2025.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "La historia detrás del retraso del proyecto Colectora: ¿en qué van las consultas previas a comunidades?",
-        "capturado": "2026-09-10T14:29:36-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar cae otra vez del piso de $3.100 por fuerte subida en la cotización del petróleo",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-vuelve-a-romper-el-soporte-de-3-100/",
-        "resumen": "La moneda estadounidense mantuvo su presión bajista y cerró en $3.090. El mercado evalúa si la divisa seguirá perdiendo terreno en las próximas jornadas.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia vuelve a romper el soporte de $3.100 en medio de fuerte incremento del precio del petróleo",
-        "capturado": "2026-09-10T14:29:36-05:00"
-      },
-      {
-        "titulo": "A un mes del movimiento telúrico: Plan Marshall, privados y $30 billones para obras a cargo de MinVivienda",
-        "url": "https://www.valoraanalitik.com/un-mes-del-terremoto-plan-marshall-empresarios-y-30-billones-para-la-reconstruccion-que-liderara-minvivienda/",
-        "resumen": "A un mes del terremoto de Chocó: 331 muertos y una reconstrucción que apenas comienza.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Un mes del terremoto: Plan Marshall, empresarios y $30 billones para la reconstrucción que liderará MinVivienda",
-        "capturado": "2026-09-10T14:29:36-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | Gerente general de Farizon: la red de carga en carretera se quedó en escala de automóvil",
+        "url": "https://www.valoraanalitik.com/farizon-entrevista-carga-carretera-camiones/",
+        "resumen": "Felipe Negret, gerente general de Farizon, habla de un país que electrificó la última milla y dejó la carga pesada esperando infraestructura.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Gerente general de Farizon: la red de carga en carretera se quedó en escala de automóvil",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
+      {
+        "titulo": "Entrevista | Antioquia prepara billonaria apuesta de Obras por Impuestos para reconstruir zonas afectadas del terremoto",
+        "url": "https://www.valoraanalitik.com/entrevista-antioquia-prepara-billonaria-apuesta-de-obras-por-impuestos-para-reconstruir-zonas-afectadas-del-terremoto/",
+        "resumen": "Juliana Velásquez, presidenta ejecutiva de ProAntioquia, explicó los alcances de Obras por Impuestos para la reconstrucción de Colombia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Antioquia prepara billonaria apuesta de Obras por Impuestos para reconstruir zonas afectadas del terremoto",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
+      {
+        "titulo": "Nuevo millonario en Colombia: Baloto Revancha entregó $3.200 millones; estos son los números ganadores",
+        "url": "https://www.valoraanalitik.com/baloto-revancha-entrego-3-200-millones-estos-son-los-numeros-ganadores/",
+        "resumen": "El tiquete ganador fue comprado por internet y acertó los cinco números y la súper balota del sorteo del 12 de septiembre.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo millonario en Colombia: Baloto Revancha entregó $3.200 millones; estos son los números ganadores",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
+      {
+        "titulo": "Entrevista | Venezuela vuelve al radar de inversionistas: se abren oportunidades para sectores clave y alianzas con Colombia",
+        "url": "https://www.valoraanalitik.com/entrevista-venezuela-vuelve-al-radar-de-inversionistas-se-abren-oportunidades-para-sectores-clave-y-alianzas-con-colombia/",
+        "resumen": "La discusión pasó de concentrarse en dificultades del entorno a analizar posibilidades de crecimiento que empiezan a aparecer en diferentes sectores.",
+        "autor": "",
+        "subseccion": "Insidevenezuela",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Venezuela vuelve al radar de inversionistas: se abren oportunidades para sectores clave y alianzas con Colombia",
+        "capturado": "2026-09-13T13:01:31-05:00"
+      },
       {
         "titulo": "El recorrido de David Vélez desde Brasil hasta Estados Unidos para posicionar a Nu en la banca mundial",
         "url": "https://www.valoraanalitik.com/historia-david-velez-nu-brasil-a-estados-unidos-nu-global/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "CREG confirma plan para modernizar el cargo por confiabilidad en Colombia: revela fecha clave",
         "capturado": "2026-09-09T18:06:16-05:00"
-      },
-      {
-        "titulo": "Primicia | Coordinadora impulsa su expansión y compite en el mercado de carga aérea en Colombia",
-        "url": "https://www.valoraanalitik.com/coordinadora-acelera-expansion-y-entra-de-lleno-al-negocio-de-carga-aerea-en-colombia/",
-        "resumen": "Nicolás Obando, presidente de Coordinadora, explicó que la compañía busca responder a una demanda creciente por servicios de entrega exprés.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Coordinadora acelera expansión y entra de lleno al negocio de carga aérea en Colombia",
-        "capturado": "2026-09-09T15:46:51-05:00"
-      },
-      {
-        "titulo": "Smart City Expo Cali: la estrategia distrital de innovación y tecnología para su reactivación",
-        "url": "https://www.valoraanalitik.com/la-apuesta-de-la-smart-city-expo-para-acelerar-la-recuperacion-de-cali/",
-        "resumen": "El evento reunirá a expertos, empresas y autoridades para abordar soluciones de movilidad, sostenibilidad e innovación frente al futuro de Cali.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Smart City Expo Cali: la apuesta de la ciudad por la tecnología y la innovación para acelerar su recuperación",
-        "capturado": "2026-09-09T15:46:51-05:00"
-      },
-      {
-        "titulo": "Grupo Sura anuncia plan para bajar pasivos, subir dividendo, recomprar acciones y mira a Nueva York",
-        "url": "https://www.valoraanalitik.com/grupo-sura-revela-detalles-de-recompra-de-acciones-plan-para-elevar-dividendo-y-reducir-deuda-ny-en-la-mira/",
-        "resumen": "Ricardo Jaramillo, presidente de Grupo Sura, explicó a Valora Analitik que la recompra busca consolidar un “círculo virtuoso” que ya está en marcha",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Sura revela detalles de recompra de acciones, plan para elevar dividendo y reducir deuda; NY en la mira",
-        "capturado": "2026-09-09T12:44:06-05:00"
-      },
-      {
-        "titulo": "Universidad Icesi busca acercar saber académico a retos empresariales mediante nueva estrategia",
-        "url": "https://www.valoraanalitik.com/con-nueva-estrategia-la-universidad-icesi-apuesta-acercar-el-conocimiento-de-la-academia-a-los-desafios-reales-de-las-organizaciones/",
-        "resumen": "El nuevo modelo parte de una premisa: los retos que enfrenta actualmente el sector productivo requieren respuestas que trasciendan una sola disciplina.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Con nueva estrategia, la Universidad Icesi apuesta acercar el conocimiento de la academia a los desafíos reales de las organizaciones",
-        "capturado": "2026-09-09T12:44:06-05:00"
       }
     ]
   }
