@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-13T13:01:31-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-09-13T16:03:45-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Colombia y Chile pactan convalidar destrezas de trabajo para agilizar el tránsito laboral",
+        "url": "https://www.valoraanalitik.com/colombia-y-chile-acuerdan-homologar-competencias-laborales-para-facilitar-la-movilidad-profesional/",
+        "resumen": "El proceso comenzará el 21 de septiembre y abarcará 26 perfiles de sectores como construcción, gastronomía, logística, energía y cuidado de personas.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Colombia y Chile acuerdan homologar competencias laborales para facilitar la movilidad profesional",
+        "capturado": "2026-09-13T16:03:45-05:00"
+      },
+      {
+        "titulo": "OpenAI aplaza su ingreso a la Bolsa debido a los peligros en la seguridad de la inteligencia artificial",
+        "url": "https://www.valoraanalitik.com/openai-retrasa-su-salida-a-bolsa-por-cuenta-de-los-riesgos-en-seguridad-de-la-ia/",
+        "resumen": "Sam Altman, CEO de la compañía, explicó que sería poco prudente dar este paso ante las alarmas que han surgido frente al tema.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "OpenAI retrasa su salida a Bolsa por cuenta de los riesgos en seguridad de la IA",
+        "capturado": "2026-09-13T16:03:45-05:00"
+      },
+      {
+        "titulo": "Activan operativos de rastreo de avioneta extraviada en el trayecto Condoto a Guaymaral",
+        "url": "https://www.valoraanalitik.com/activan-protocolos-de-busqueda-de-aeronave-desaparecida-en-la-ruta-condoto-guaymaral/",
+        "resumen": "La Aeronáutica Civil informó del estado de la situación luego de que se perdiera comunicación con el vehículo y se activara la radiobaliza de emergencia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Activan protocolos de búsqueda de aeronave desaparecida en la ruta Condoto – Guaymaral",
+        "capturado": "2026-09-13T16:03:45-05:00"
+      },
       {
         "titulo": "Entrevista | Líder de Farizon: infraestructura de carga vial quedó en escala de auto",
         "url": "https://www.valoraanalitik.com/farizon-entrevista-carga-carretera-camiones/",
@@ -573,39 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Collective Mining revela potencial de millones de onzas de oro en proyecto en Colombia: mantendrá inversión en Caldas",
         "capturado": "2026-09-10T18:53:53-05:00"
-      },
-      {
-        "titulo": "BTG Pactual estrena Tevaicol, el fondo cotizado inaugural en la Bolsa de Valores de Colombia",
-        "url": "https://www.valoraanalitik.com/btg-pactual-etf-bolsa-colombia/",
-        "resumen": "El fondo replica el índice TEVA Colombia Equity y permite invertir en una cartera diversificada de acciones colombianas mediante una sola inversión.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "BTG Pactual lanza Tevaicol, su primer ETF listado en la Bolsa de Valores de Colombia",
-        "capturado": "2026-09-10T18:53:53-05:00"
-      },
-      {
-        "titulo": "De esta forma varía el envío de dineros de la sobretasa al ACPM en la emergencia del temblor",
-        "url": "https://www.valoraanalitik.com/asi-cambia-el-giro-de-recursos-de-la-sobretasa-al-acpm-durante-emergencia-por-el-sismo/",
-        "resumen": "Al contar con menos recursos, la ciudad podría reprogramar inversiones, reducir nuevas asignaciones o incluso sustituir financiación.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Así cambia el giro de recursos de la sobretasa al ACPM durante emergencia por el sismo",
-        "capturado": "2026-09-10T18:53:53-05:00"
-      },
-      {
-        "titulo": "GeoPark estudia doble cotización de títulos en el país y mercados externos para captar capital",
-        "url": "https://www.valoraanalitik.com/geopark-listado-doble-acciones-colombia/",
-        "resumen": "La petrolera estudia una segunda plaza bursátil para ampliar la liquidez de su acción; composición accionaria cambiará y dará control a Gilinski.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | GeoPark analiza listado doble de sus acciones en Colombia y otros mercados para atraer más inversionistas",
-        "capturado": "2026-09-10T16:49:44-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Llega a Colombia una fintech que ofrecerá ganancias en dólares y otras ventajas clave",
+        "url": "https://www.valoraanalitik.com/nueva-fintech-aterriza-en-colombia-dara-rendimientos-en-dolares-y-otros-importantes-beneficios/",
+        "resumen": "La entrada de la compañía al mercado colombiano ocurre en un contexto de fuerte apreciación del peso frente al dólar.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Nueva fintech aterriza en Colombia: dará rendimientos en dólares y otros importantes beneficios",
+        "capturado": "2026-09-13T16:03:45-05:00"
+      },
+      {
+        "titulo": "OpenAI aplaza su ingreso a la Bolsa debido a peligros en la seguridad de la IA",
+        "url": "https://www.valoraanalitik.com/openai-retrasa-su-salida-a-bolsa-por-cuenta-de-los-riesgos-en-seguridad-de-la-ia/",
+        "resumen": "Sam Altman, CEO de la compañía, explicó que sería poco prudente dar este paso ante las alarmas que han surgido frente al tema.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "OpenAI retrasa su salida a Bolsa por cuenta de los riesgos en seguridad de la IA",
+        "capturado": "2026-09-13T16:03:45-05:00"
+      },
       {
         "titulo": "Entrevista | Gerente general de Farizon: la red de carga en carretera se quedó en escala de automóvil",
         "url": "https://www.valoraanalitik.com/farizon-entrevista-carga-carretera-camiones/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Así se financiaría el proyecto de ley del Gobierno por $1,2 billones para dar liquidez al sector energético 2026",
-        "capturado": "2026-09-09T18:06:16-05:00"
-      },
-      {
-        "titulo": "Nueva iniciativa modifica cobros del ICA en Bogota para automotores, cooperativas y sector financiero",
-        "url": "https://www.valoraanalitik.com/nueva-propuesta-redefine-tarifas-del-ica-en-bogota-para-vehiculos-cooperativas-y-sector-financiero/",
-        "resumen": "La tarifa del ICA para el sector bancario de Bogotá sería aplicado de manera progresiva.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Nueva propuesta redefine tarifas del ICA en Bogotá para vehículos, cooperativas y sector financiero",
-        "capturado": "2026-09-09T18:06:16-05:00"
-      },
-      {
-        "titulo": "CREG ratifica programa para actualizar el cargo por confiabilidad en Colombia y da fecha crucial",
-        "url": "https://www.valoraanalitik.com/creg-confirma-plan-para-modernizar-el-cargo-por-confiabilidad-en-colombia-revela-fecha-clave/",
-        "resumen": "La CREG también evalúa medidas complementarias relacionadas con la disponibilidad de energía para atender contingencias climáticas",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "CREG confirma plan para modernizar el cargo por confiabilidad en Colombia: revela fecha clave",
         "capturado": "2026-09-09T18:06:16-05:00"
       }
     ]
