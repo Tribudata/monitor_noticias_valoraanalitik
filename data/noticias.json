@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-13T20:27:34-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-14T01:56:22-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El incremento de las ventas externas de servicios en Colombia supera al intercambio de mercancías",
+        "url": "https://www.valoraanalitik.com/auge-de-las-exportaciones-de-servicios-en-colombia-deja-atras-al-comercio-de-bienes/",
+        "resumen": "Los servicios pasaron de pesar el 15 % de las exportaciones de bienes a inicios de siglo al 39 % a finales de 2025 e incluso en lo corrido de 2026.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Auge de las exportaciones de servicios en Colombia deja atrás al comercio de bienes",
+        "capturado": "2026-09-14T01:56:22-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella facilitará trámites para atraer inversión privada: Culpa al gobierno Petro de crisis en el manejo de la deuda",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-facilitara-tramites-para-atraer-inversion-privada/",
+        "resumen": "El Gobierno plantea un Presupuesto de $634,9 billones para 2027, con austeridad y una apuesta por recuperar la inversión privada.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella facilitará trámites para atraer inversión privada: Culpa al gobierno Petro de crisis en el manejo de la deuda",
+        "capturado": "2026-09-14T01:56:22-05:00"
+      },
       {
         "titulo": "Colombia y Chile pactan convalidar destrezas de trabajo para agilizar el tránsito laboral",
         "url": "https://www.valoraanalitik.com/colombia-y-chile-acuerdan-homologar-competencias-laborales-para-facilitar-la-movilidad-profesional/",
@@ -582,26 +602,6 @@
         "subseccion": "Infraestructura",
         "publicacion": "",
         "titulo_fuente": "Construyen en Quibdó primera casa de Grupo Argos y Nicky Jam tras terremoto: Así será reconstrucción de otras viviendas",
-        "capturado": "2026-09-10T18:53:53-05:00"
-      },
-      {
-        "titulo": "Bolsa de valores financiará obras viales y reconstrucción en el país, según Asobolsa",
-        "url": "https://www.valoraanalitik.com/mercado-reconstruccion-obras-colombia/",
-        "resumen": "La Bolsa de Colombia y Asobolsa plantearon el rol del mercado como fuente de financiación para Gobierno, empresas y proyectos productivos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Mercado de capitales será clave para financiar reconstrucción y obras de infraestructura en Colombia: Asobolsa",
-        "capturado": "2026-09-10T18:53:53-05:00"
-      },
-      {
-        "titulo": "Collective Mining halla millones de onzas de oro en el país y seguirá invirtiendo en Caldas",
-        "url": "https://www.valoraanalitik.com/collective-mining-revela-potencial-de-millones-de-onzas-de-oro-en-proyecto-en-colombia-mantendra-inversion-en-caldas/",
-        "resumen": "La campaña de 2026 apunta a 90.000 metros y quedan entre 35.000 y 40.000 por perforar.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Collective Mining revela potencial de millones de onzas de oro en proyecto en Colombia: mantendrá inversión en Caldas",
         "capturado": "2026-09-10T18:53:53-05:00"
       }
     ],
