@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-14T14:09:36-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-09-14T17:40:42-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Decisión crucial de la Corte Suprema define cuándo una compañía indemniza por un accidente de trabajo",
+        "url": "https://www.valoraanalitik.com/fallo-clave-de-la-corte-suprema-aclara-cuando-un-accidente-laboral-puede-hacer-que-una-empresa-pague-indemnizacion/",
+        "resumen": "Un accidente laboral no obliga por sí solo a la empresa a pagar indemnización. La Corte Suprema explicó qué debe probarse para establecer la responsabilidad.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Fallo clave de la Corte Suprema aclara cuándo un accidente laboral puede hacer que una empresa pague indemnización",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "Grupo Aval critica reforma tributaria distrital: encarece préstamos y golpea la rentabilidad",
+        "url": "https://www.valoraanalitik.com/grupo-aval-cuestiona-impuestos-bogota/",
+        "resumen": "Presidentes de los bancos del Grupo Aval se reunieron en Bogotá como parte de su Cumbre Regional.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Aval cuestiona cambios en impuestos en Bogotá: encarece el crédito y afecta rentabilidad",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "Modifican el cronograma académico de más de un millón de alumnos en el país mediante nuevo decreto",
+        "url": "https://www.valoraanalitik.com/nuevo-decreto-cambia-el-calendario-escolar-de-mas-de-un-millon-de-estudiantes-en-colombia/",
+        "resumen": "El calendario escolar de más de un millón de estudiantes quedó en manos de una medida excepcional que podría cambiar lo previsto para este año.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo decreto cambia el calendario escolar de más de un millón de estudiantes en Colombia",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "Aumento de 60 billones en el presupuesto nacional: efectos en endeudamiento, tributos y expansión",
+        "url": "https://www.valoraanalitik.com/el-presupuesto-de-colombia-subio-60-billones-lo-que-puede-pasar-con-la-deuda-los-impuestos-y-el-crecimiento/",
+        "resumen": "El presupuesto de Colombia para 2027 pasó de $575 a $635 billones y ahora enfrenta una discusión clave sobre deuda, impuestos y crecimiento económico.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "El presupuesto de Colombia subió $60 billones: lo que puede pasar con la deuda, los impuestos y el crecimiento",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "Brent roza los US$107 por barril: prevén alza en gasolina y más subsidio al diésel en el país",
+        "url": "https://www.valoraanalitik.com/brent-se-acerca-a-us107-por-barril-habria-alza-a-la-gasolina-y-mayor-necesidad-de-subsidio-al-diesel-en-colombia/",
+        "resumen": "El Estado financia a través de subsidios al ACPM o diésel, con la finalidad de que su precio real no se refleje en el mercado.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Brent se acerca a US$107 por barril; habría alza a la gasolina y mayor necesidad de subsidio al diésel en Colombia",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "En vivo | Congreso avala Presupuesto nacional de 2027 por 635 billones de pesos conforme a solicitud oficial",
+        "url": "https://www.valoraanalitik.com/en-vivo-congreso-inicia-debate-para-aprobar-monto-del-presupuesto-2027-asi-estan-las-fuerzas-en-las-comisiones-economicas/",
+        "resumen": "Siga en vivo el debate y la votación del monto del Presupuesto General de la Nación para 2027 en las comisiones económicas conjuntas.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "En vivo | Congreso aprueba que Presupuesto de 2027 de Colombia sea de $635 billones, en línea con lo pedido por el Gobierno",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "Tributaria de Galán: de esta manera puede verificar si pagará más tributos el año entrante",
+        "url": "https://www.valoraanalitik.com/reforma-tributaria-de-galan-asi-puede-confirmar-si-debera-pagar-mas-impuestos-el-proximo-ano/",
+        "resumen": "Bogotá cambiaría impuestos y eliminaría dos tributos con nuevo proyecto en el Concejo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Reforma tributaria de Galán: así puede confirmar si deberá pagar más impuestos el próximo año",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
       {
         "titulo": "Tasa de cambio subió en Colombia y finalizó en 3103,10 pesos por efecto de un índice DXY defensivo",
         "url": "https://www.valoraanalitik.com/dolar-en-colombia-volvio-a-subir-y-cerro-en-3-10310-impulsado-por-un-dxy-defensivo/",
@@ -533,79 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Caída del dólar podría fortalecer a Colombia y otros países de América Latina: Citi",
         "capturado": "2026-09-11T15:47:08-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella prepara modificaciones a pactos sindicales",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-cambios-para-los-contratos-sindicales/",
-        "resumen": "Bajo la nueva redacción, las entidades públicas con contratos sindicales vigentes podrán prorrogarlos de forma excepcional.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella alista cambios para los contratos sindicales",
-        "capturado": "2026-09-11T15:47:08-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio cerró la semana con caída de 56 pesos y dos días bajo 3100",
-        "url": "https://www.valoraanalitik.com/precio-del-dolar-en-colombia-este-viernes-11-de-septiembre/",
-        "resumen": "La moneda registró una nueva jornada a la baja, en medio de la expectativa por las tasas de interés en EE. UU. y el Presupuesto colombiano.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia completó dos jornadas por debajo de $3.100: despidió la semana con una pérdida de $56",
-        "capturado": "2026-09-11T15:47:08-05:00"
-      },
-      {
-        "titulo": "Reconocido capitalista se retiró de tradicional club de balompié nacional",
-        "url": "https://www.valoraanalitik.com/inversionista-sale-equipo-futbol-colombia/",
-        "resumen": "El fondo de capital privado Profútbol de Progresión distribuyó más de $22.000 millones durante los ocho años de inversión en el club.",
-        "autor": "",
-        "subseccion": "Valorasports",
-        "publicacion": "",
-        "titulo_fuente": "Importante inversionista salió de histórico equipo del fútbol profesional colombiano",
-        "capturado": "2026-09-11T15:47:08-05:00"
-      },
-      {
-        "titulo": "Alimentos con mayores incrementos de costo este año en territorio nacional",
-        "url": "https://www.valoraanalitik.com/estos-son-los-alimentos-en-colombia-que-mas-suben-de-precio-en-lo-corrido-del-ano/",
-        "resumen": "El precio de los alimentos en Colombia sigue subiendo con fuerza y se esperan nuevos incrementos.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los alimentos en Colombia que más suben de precio en lo corrido del año",
-        "capturado": "2026-09-11T15:47:08-05:00"
-      },
-      {
-        "titulo": "De la Espriella critica la tasa patrimonial del Gobierno y propone agilizar las normas corporativas",
-        "url": "https://www.valoraanalitik.com/gobierno-cuestiona-impuesto-al-patrimonio/",
-        "resumen": "El vicepresidente de Colombia propuso aumentar el ahorro de largo plazo e impulsar más empresas listadas en bolsa.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella cuestiona impuesto al patrimonio; plantea simplificar regulación para empresas",
-        "capturado": "2026-09-11T15:47:08-05:00"
-      },
-      {
-        "titulo": "Modificatoria pensional alterará la modalidad de pago para cotizaciones de contratistas",
-        "url": "https://www.valoraanalitik.com/reforma-pensional-cambiara-la-forma-de-pagar-los-aportes-de-contratistas/",
-        "resumen": "La reforma pensional tiene fecha de entrada en vigencia y traerá cambios en los aportes de trabajadores y contratistas que las empresas deberán preparar.",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "Reforma pensional cambiará la forma de pagar los aportes de los contratistas",
-        "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "Consumo global de crudo descenderá más de lo estimado en 2026 debido al conflicto iraní",
-        "url": "https://www.valoraanalitik.com/demanda-mundial-de-petroleo-caera-mas-de-lo-previsto-en-2026-por-la-guerra-en-iran/",
-        "resumen": "Las previsiones de la Agencia Internacional de Energía son que el consumo se recupere levemente en 2027.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Demanda mundial de petróleo caerá más de lo previsto en 2026 por la guerra en Irán",
-        "capturado": "2026-09-11T12:40:45-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Nueva sentencia de la Corte Suprema define pago de indemnización por accidentes de trabajo en empresas",
+        "url": "https://www.valoraanalitik.com/fallo-clave-de-la-corte-suprema-aclara-cuando-un-accidente-laboral-puede-hacer-que-una-empresa-pague-indemnizacion/",
+        "resumen": "Un accidente laboral no obliga por sí solo a la empresa a pagar indemnización. La Corte Suprema explicó qué debe probarse para establecer la responsabilidad.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Fallo clave de la Corte Suprema aclara cuándo un accidente laboral puede hacer que una empresa pague indemnización",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "Primicia | Conocida aerolínea sorprenderá a pasajeros con tiquetes a cero pesos",
+        "url": "https://www.valoraanalitik.com/primicia-reconocida-aerolinea-dara-sorpresa-a-viajeros-y-tendra-tiquetes-a-0/",
+        "resumen": "La aerolínea explicó que esta iniciativa hace parte de las acciones que viene desarrollando para ofrecer nuevas alternativas de viaje a sus pasajeros.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Reconocida aerolínea dará sorpresa a viajeros y tendrá tiquetes a $0",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "Artesanías Wayuu de Misión La Guajira arriban a tiendas D1 y Feria Eva en Bogotá",
+        "url": "https://www.valoraanalitik.com/artesanias-wayuu-de-mision-la-guajira-llegan-a-tiendas-d1-y-feria-eva-en-bogota/",
+        "resumen": "Con esta llegada se busca ampliar el acceso a mercados de gran escala bajo condiciones de comercio justo.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Artesanías Wayuu de Misión La Guajira llegan a tiendas D1 y Feria Eva en Bogotá",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "Brent cerca de 107 dólares por barril; subiría la gasolina y aumentaría subsidio al diésel en Colombia",
+        "url": "https://www.valoraanalitik.com/brent-se-acerca-a-us107-por-barril-habria-alza-a-la-gasolina-y-mayor-necesidad-de-subsidio-al-diesel-en-colombia/",
+        "resumen": "El Estado financia a través de subsidios al ACPM o diésel, con la finalidad de que su precio real no se refleje en el mercado.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Brent se acerca a US$107 por barril; habría alza a la gasolina y mayor necesidad de subsidio al diésel en Colombia",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "Blancox expande su portafolio con detergentes líquidos en Colombia para cuidar prendas y colores",
+        "url": "https://www.valoraanalitik.com/blancox-fortalece-su-presencia-en-el-mercado-con-linea-de-detergentes-liquidos-en-colombia-protege-la-ropa-y-los-colores/",
+        "resumen": "Con este portafolio, Blancox ofrece alternativas para distintas rutinas de lavado.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Blancox fortalece su presencia en el mercado con línea de detergentes líquidos en Colombia: protege la ropa y los colores",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
+      {
+        "titulo": "Tributaria de Galán: de esta forma sabrá si pagará más gravámenes el año entrante",
+        "url": "https://www.valoraanalitik.com/reforma-tributaria-de-galan-asi-puede-confirmar-si-debera-pagar-mas-impuestos-el-proximo-ano/",
+        "resumen": "Bogotá cambiaría impuestos y eliminaría dos tributos con nuevo proyecto en el Concejo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Reforma tributaria de Galán: así puede confirmar si deberá pagar más impuestos el próximo año",
+        "capturado": "2026-09-14T17:40:42-05:00"
+      },
       {
         "titulo": "MinHacienda: elevar tributos es la última opción oficial, sin descartar medidas por ahora",
         "url": "https://www.valoraanalitik.com/minhacienda-subir-impuestos-seria-la-ultima-opcion-del-gobierno-pero-no-descartamos-nada-en-esta-situacion/",
@@ -1144,66 +1204,6 @@
         "subseccion": "Conciertos eventos",
         "publicacion": "",
         "titulo_fuente": "Cali se convierte en escenario del liderazgo empresarial con el VI Encuentro anual de liderazgo en juntas directivas del CESA",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "ANIF advierte tormenta perfecta en Colombia por inflación, tasas y espacio fiscal",
-        "url": "https://www.valoraanalitik.com/anif-colombia-enfrenta-una-tormenta-perfecta-con-alta-inflacion-tasas-elevadas-y-poco-espacio-fiscal/",
-        "resumen": "Estas son las previsiones del Centro de Pensamiento Económico ANIF para la infraestructura y la reactivación económica.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "ANIF: Colombia enfrenta una “tormenta perfecta” con alta inflación, tasas elevadas y poco espacio fiscal",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Nubank llega a EE UU con tarjetas y lanza Nu Global en 35 países con cuentas en divisas",
-        "url": "https://www.valoraanalitik.com/nubank-inicia-operaciones-en-ee-uu-con-nuevas-tarjetas-y-cuentas-y-lanza-nu-global-para-35-paises/",
-        "resumen": "David Vélez, CEO de Nubank, señaló que la expansión hacia EE. UU. se produce después de consolidar un negocio con más de 140 millones de clientes en la región.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Nubank inicia operaciones en EE. UU. con nuevas tarjetas y rendimientos y lanza Nu Global para 35 países en cuentas en dólares y euros",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Gobierno permite reasignar fondos de sobretasa al ACPM por la emergencia del sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-autoriza-redistribuir-recursos-de-sobretasa-al-acpm-en-colombia-por-emergencia-del-terremoto/",
-        "resumen": "Los montos serán destinados a la atención de la emergencia económica y social en los departamentos afectados por el terremoto.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno autoriza redistribuir recursos de sobretasa al ACPM en Colombia por emergencia del terremoto",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "En Vivo | Arranca nueva etapa de Nubank con visión de David Vélez para el neobanco latino",
-        "url": "https://www.valoraanalitik.com/inicia-una-nu-era-para-nubank-david-velez-presenta-nueva-vision-del-neobanco-mas-grande-de-america-latina/",
-        "resumen": "La “Nu Era” se presenta como una hoja de ruta para entender hacia dónde apunta la compañía y su papel en la próxima generación de servicios financieros.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "En Vivo | Inicia una Nu Era para Nubank: David Vélez presenta nueva visión del neobanco más grande de América Latina",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Arias de Crédito Público informa modificaciones en mercado de deuda estatal y nuevo ETF del Ejecutivo",
-        "url": "https://www.valoraanalitik.com/arias-de-credito-publico-anuncia-cambios-relevantes-en-mercado-de-deuda-publica/",
-        "resumen": "El directivo explicó cuáles son los ajustes que se buscará implementar con miras a fortalecer la profundidad y liquidez del ETF de deuda.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Arias de Crédito Público anuncia cambios relevantes en mercado de deuda pública y nuevo ETF del Gobierno",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Administración destinará dineros a firmas de servicios públicos mixtas para asegurar luz por sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-dara-recursos-a-empresas-de-servicios-publicos-mixtas-para-garantizar-energia-a-afectados-por-el-terremoto/",
-        "resumen": "El Fondes y las empresas beneficiadas tendrán que ejecutar los recursos en un año contado a partir del último desembolso.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno dará recursos a empresas de servicios públicos mixtas para garantizar energía a afectados por el terremoto",
         "capturado": "2026-09-10T11:37:09-05:00"
       }
     ]
