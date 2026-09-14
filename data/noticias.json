@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-14T08:52:05-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-14T14:09:36-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Tasa de cambio subió en Colombia y finalizó en 3103,10 pesos por efecto de un índice DXY defensivo",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-volvio-a-subir-y-cerro-en-3-10310-impulsado-por-un-dxy-defensivo/",
+        "resumen": "El Índice DXY avanzó a 99,42 unidades (+0,30 %), fortalecido por el alza en los rendimientos de los bonos del Tesoro a 10 años.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia volvió a subir y cerró en $3.103,10 impulsado por un DXY defensivo",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "En desarrollo: MinHacienda dialogará esta semana con banca, agencias de riesgo y capitalistas de EE UU",
+        "url": "https://www.valoraanalitik.com/minhacienda-se-reune-esta-semana-con-banca-calificadoras-e-inversionistas-de-ee-uu/",
+        "resumen": "El objetivo de las reuniones apunta a este tipo de entidades, por lo cual -por ahora- no pretenden reunirse con multilaterales.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | MinHacienda se reúne esta semana con banca, calificadoras e inversionistas de EE. UU.: estos son los detalles",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "MinHacienda: elevar tributos sería el recurso final del Ejecutivo, aunque se evalúan todas las vías",
+        "url": "https://www.valoraanalitik.com/minhacienda-subir-impuestos-seria-la-ultima-opcion-del-gobierno-pero-no-descartamos-nada-en-esta-situacion/",
+        "resumen": "Este sería el plan del gobierno de Abelardo de la Espriella para manejar las finanzas del país en los próximos años.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda: subir impuestos sería la última opción del Gobierno, pero no descartamos nada en esta situación",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "Bancoomeva constituyó otra firma para dar crédito a fintechs colombianas y prevé colocar 1 billón",
+        "url": "https://www.valoraanalitik.com/bancoomeva-nueva-empresa-financiar-fintechs/",
+        "resumen": "Scalo ofrecerá inicialmente créditos y depósitos a fintechs y tendrá una plataforma tecnológica para integrarse con estas empresas vía API.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Bancoomeva creó nueva empresa para financiar a fintechs en Colombia; espera colocar $1 billón en créditos",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "En desarrollo: MinHacienda planea suprimir o fusionar carteras para bajar gasto y prepara reforma estatal",
+        "url": "https://www.valoraanalitik.com/ahora-minhacienda-busca-acabar-o-fusionar-ministerios-en-colombia-para-recortar-gasto-anuncia-reforma-al-estado/",
+        "resumen": "El gobierno de Abelardo de la Espriella alista una reforma del Estado para reducir el gasto público, fusionar ministerios y eliminar algunas entidades.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | MinHacienda busca acabar o fusionar ministerios en Colombia para recortar gasto; anuncia reforma al Estado",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "EE. UU. definirá certificación antidrogas a Colombia y estos son los puntos clave del anuncio",
+        "url": "https://www.valoraanalitik.com/colombia-espera-decision-de-ee-uu-sobre-certificacion-antidrogas-estas-son-las-claves-del-anuncio/",
+        "resumen": "En 2025, Estados Unidos señaló a Colombia dentro de los países que no habían cumplido adecuadamente con sus compromisos en materia de lucha contra las drogas.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Colombia espera decisión de EE. UU. sobre certificación antidrogas: estas son las claves del anuncio",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "De la Espriella explica cuáles serán las funciones del consulado estadounidense en Barranquilla",
+        "url": "https://www.valoraanalitik.com/para-esto-servira-el-consulado-de-estados-unidos-en-barranquilla-de-la-espriella-explica/",
+        "resumen": "El presidente colombiano explicó lo que vendría para Barranquilla con la instauración de un consulado de Estados Unidos",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Para esto servirá el consulado de Estados Unidos en Barranquilla: De la Espriella explica",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "Air Europa habilitará conexión aérea directa entre Barranquilla y Madrid con esta frecuencia",
+        "url": "https://www.valoraanalitik.com/barranquilla-tendra-vuelo-directo-a-madrid-con-air-europa-esta-sera-la-frecuencia/",
+        "resumen": "El Gobierno trabajará con la Alcaldía de Barranquilla para proyectar el Aeropuerto Ernesto Cortissoz como una terminal de alcance internacional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Barranquilla tendrá vuelo directo a Madrid con Air Europa: esta será la frecuencia",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "Sismo incrementa la búsqueda de viviendas en alquiler en Colombia y estas urbes lideran el alza",
+        "url": "https://www.valoraanalitik.com/terremoto-dispara-la-demanda-de-arriendos-en-colombia-estas-son-las-ciudades-donde-mas-aumento/",
+        "resumen": "La demanda de alquiler aumentó con fuerza tras el terremoto y estas ciudades concentran los mayores cambios en las búsquedas de vivienda.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Terremoto dispara la demanda de arriendos en Colombia: estas son las ciudades donde más aumentó",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "Junta directiva de Ecopetrol solicitará la salida del presidente encargado Juan Carlos Hurtado",
+        "url": "https://www.valoraanalitik.com/junta-de-ecopetrol-le-pedira-renuncia-a-presidente-e-juan-carlos-hurtado/",
+        "resumen": "Juan Carlos Hurtado, presidente encargado de Ecopetrol.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Junta de Ecopetrol le pedirá renuncia a presidente (e), Juan Carlos Hurtado",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "La multinacional petrolera Chevron halla opciones en Argentina para ampliar su mercado de gas",
+        "url": "https://www.valoraanalitik.com/la-gigante-petrolera-chevron-ve-oportunidades-en-argentina-para-diversificar-su-mercado-de-gas/",
+        "resumen": "La empresa también manifestó que, junto con sus socios, invertirá más de US$7.000 millones para duplicar la producción petrolera en Venezuela en 2031.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "La gigante petrolera Chevron ve oportunidades en Argentina para diversificar su mercado de gas",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "El dirigente de la Universidad Nacional sugiere otra vía frente al ingreso de la Fuerza Pública",
+        "url": "https://www.valoraanalitik.com/el-rector-de-la-universidad-nacional-propone-una-alternativa-al-ingreso-de-la-policia-para-mantener-la-autonomia-universitaria/",
+        "resumen": "El presidente Abelardo de la Espriella tomará medidas sobre la autonomía universitaria en el país.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "El rector de la Universidad Nacional propone una alternativa al ingreso de la Policía para mantener la autonomía universitaria",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
       {
         "titulo": "Los títulos de Pei encabezan el incremento semanal del indicador MSCI Colcap",
         "url": "https://www.valoraanalitik.com/acciones-de-pei-lideran-el-avance-semanal-del-indice-msci-colcap/",
@@ -483,129 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Demanda mundial de petróleo caerá más de lo previsto en 2026 por la guerra en Irán",
         "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "Colombia expone postura ante la ONU respecto a la no proliferación atómica de Irán",
-        "url": "https://www.valoraanalitik.com/colombia-fija-posicion-ante-la-onu-sobre-no-proliferacion-de-armas-nucleares-de-iran/",
-        "resumen": "Gaona defiende ante la ONU vigencia del derecho internacional frente al caso nuclear de Irán.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Colombia fija posición ante la ONU sobre no proliferación de armas nucleares de Irán",
-        "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "Nuevas directrices sobre cámaras salvavidas en Colombia dispuestas por el Gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/cambian-las-reglas-de-las-fotomultas-en-colombia-por-decision-del-gobierno-de-la-espriella-esto-deben-tener-en-cuenta-los-conductores/",
-        "resumen": "Las fotomultas entran en una nueva etapa tras una decisión del Ministerio de Transporte que modifica las reglas del control con dispositivos electrónicos.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Cambian las reglas de las fotomultas en Colombia por decisión del Gobierno De la Espriella: esto deben tener en cuenta los conductores",
-        "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "Fitch alerta sobre grave déficit fiscal colombiano y equívoca gestión de endeudamiento caro",
-        "url": "https://www.valoraanalitik.com/fitch-advierte-profundo-desequilibrio-en-presupuesto-de-colombia-y-errado-manejo-de-la-deuda-a-tasas-altas/",
-        "resumen": "La entidad señaló que si las autoridades avanzan en medidas de ajuste, el desbalance superará con creces sus cálculos anteriores.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fitch advierte profundo desequilibrio en presupuesto de Colombia y errado manejo de la deuda a tasas altas",
-        "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "Festival Cordillera prevé 90.000 espectadores y derrama económica superior a $100.000 millones en Bogotá",
-        "url": "https://www.valoraanalitik.com/festival-cordillera-espera-90-000-asistentes-e-impacto-economico-de-mas-de-100-000-millones-en-bogota/",
-        "resumen": "La estimación calcula que cada uno gastaría alrededor de $1,5 millones, mientras que el gasto promedio de un turista nacional sería de $727.684.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Festival Cordillera espera 90.000 asistentes e impacto económico de más de $100.000 millones en Bogotá",
-        "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "CARF: déficit y deuda podrían dispararse en Colombia en 2027 con cifras heredadas de Petro",
-        "url": "https://www.valoraanalitik.com/carf-deficit-y-deuda-podrian-dispararse-en-colombia-en-2027-con-cifras-heredadas-de-petro/",
-        "resumen": "Para el organismo, debe haber esfuerzos fiscales contundentes que equilibren gastos e ingresos para regresar al cumplimiento de la regla fiscal.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "CARF: déficit y deuda podrían dispararse en Colombia en 2027 con cifras heredadas de Petro",
-        "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "Amarilo estima que megaproyecto de renovación urbana Quora podría replicarse en Pereira y Manizales",
-        "url": "https://www.valoraanalitik.com/amarilo-cree-que-megaproyecto-de-renovacion-urbana-quora-podria-replicarse-en-pereira-y-manizales/",
-        "resumen": "Moreno planteó que este tipo de intervenciones también podrían ser útiles en zonas afectadas por desastres naturales.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Amarilo cree que megaproyecto de renovación urbana Quora podría replicarse en Pereira y Manizales",
-        "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio abre cayendo y roza los tres mil pesos a la espera de dato inflacionario estadounidense",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-inicia-jornada-a-la-baja-se-acerca-a-los-3-000-pendiente-de-inflacion-en-ee-uu/",
-        "resumen": "Esto mueve al dólar en Colombia este viernes 11 de septiembre",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia inicia jornada a la baja: se acerca a los $3.000 pendiente de inflación en EE. UU.",
-        "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Expertos advierten que el déficit fiscal y la seguridad son los principales retos para el Ejecutivo",
-        "url": "https://www.valoraanalitik.com/lideres-ponen-la-lupa-sobre-colombia-seguridad-y-deficit-fiscal-los-grandes-desafios-para-el-gobierno/",
-        "resumen": "Sostenibilidad fiscal y capacidad técnica del Gobierno, los retos que líderes ven para 2027 según Cifras y Conceptos.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Líderes ponen la lupa sobre Colombia: seguridad y déficit fiscal, los grandes desafíos para el Gobierno",
-        "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Drummond mantuvo nexos con la israelí National Coal Supply Corporation a pesar del veto carbonero",
-        "url": "https://www.valoraanalitik.com/pese-al-veto-de-exportaciones-de-carbon-drummond-nunca-perdio-contacto-con-la-israeli-national-coal-supply-corporation/",
-        "resumen": "A pesar de la prohibición, la empresa continuó en conversaciones con el mercado israelí para recuperar este mercado.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Pese al veto de exportaciones de carbón, Drummond nunca perdió contacto con la israelí National Coal Supply Corporation",
-        "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Los títulos de Ecopetrol lideraron el volumen de negociación en la rueda bursátil local",
-        "url": "https://www.valoraanalitik.com/msci-colcap-marca-maximo-historico-subio-165-y-llego-a-2-626-puntos/",
-        "resumen": "MSCI Colcap marca máximo histórico: subió 1,65 % y llegó a 2.626 puntos",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Acciones de Ecopetrol fueron las más negociadas del día en la Bolsa de Colombia",
-        "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Bolsas responden a alza de tasas del BCE y crudo cae fuerte mientras aguardan IPC de EE. UU.",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-reaccionan-a-subida-de-tasas-del-bce-mientras-esperan-ipc-de-ee-uu-petroleo-se-desploma/",
-        "resumen": "Una lectura de inflación elevada en el país consolidaría las expectativas de una subida de tipos por parte de la Reserva Federal en su reunión.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas reaccionan a subida de tasas del BCE mientras esperan IPC de EE. UU.: petróleo se desploma",
-        "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Collective Mining descubrió tungsteno, mineral esencial, en el subsuelo del departamento de Caldas",
-        "url": "https://www.valoraanalitik.com/tungsteno-el-mineral-clave-para-el-mundo-que-collective-mining-hallo-en-el-subsuelo-de-caldas/",
-        "resumen": "El presidente de Collective Mining reveló detalles de lo que podría significar uno de los hallazgos más importantes en Caldas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Tungsteno, el mineral clave para el mundo que Collective Mining halló en el subsuelo de Caldas",
-        "capturado": "2026-09-11T08:44:07-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "MinHacienda: elevar tributos es la última opción oficial, sin descartar medidas por ahora",
+        "url": "https://www.valoraanalitik.com/minhacienda-subir-impuestos-seria-la-ultima-opcion-del-gobierno-pero-no-descartamos-nada-en-esta-situacion/",
+        "resumen": "Este sería el plan del gobierno de Abelardo de la Espriella para manejar las finanzas del país en los próximos años.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda: subir impuestos sería la última opción del Gobierno, pero no descartamos nada en esta situación",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "Air Europa habilitará ruta directa entre Barranquilla y Madrid con esta periodicidad",
+        "url": "https://www.valoraanalitik.com/barranquilla-tendra-vuelo-directo-a-madrid-con-air-europa-esta-sera-la-frecuencia/",
+        "resumen": "El Gobierno trabajará con la Alcaldía de Barranquilla para proyectar el Aeropuerto Ernesto Cortissoz como una terminal de alcance internacional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Barranquilla tendrá vuelo directo a Madrid con Air Europa: esta será la frecuencia",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "Alerta | Junta directiva de Ecopetrol solicitará la salida del presidente encargado Juan Carlos Hurtado",
+        "url": "https://www.valoraanalitik.com/junta-de-ecopetrol-le-pedira-renuncia-a-presidente-e-juan-carlos-hurtado/",
+        "resumen": "Juan Carlos Hurtado, presidente encargado de Ecopetrol.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Junta de Ecopetrol le pedirá renuncia a presidente (e), Juan Carlos Hurtado",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "La multinacional Chevron halla opciones en Argentina para ampliar su mercado gasífero",
+        "url": "https://www.valoraanalitik.com/la-gigante-petrolera-chevron-ve-oportunidades-en-argentina-para-diversificar-su-mercado-de-gas/",
+        "resumen": "La empresa también manifestó que, junto con sus socios, invertirá más de US$7.000 millones para duplicar la producción petrolera en Venezuela en 2031.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "La gigante petrolera Chevron ve oportunidades en Argentina para diversificar su mercado de gas",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
+      {
+        "titulo": "A dos décadas de su estreno, PSE alcanzó máximo de pagos en julio y proyecta cambio tecnológico a 2027",
+        "url": "https://www.valoraanalitik.com/pse-record-transacciones-renovacion/",
+        "resumen": "El botón superó 90 millones de operaciones en su mejor mes desde su creación; ACH alista nuevos servicios para empresas y finanzas abiertas.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Tras 20 años de operación, PSE logró récord de transacciones en julio y prepara renovación tecnológica para 2027",
+        "capturado": "2026-09-14T14:09:36-05:00"
+      },
       {
         "titulo": "Reflexión sobre la adquisición de un evento municipal como TEDxRionegro",
         "url": "https://www.valoraanalitik.com/opinion-que-compra-una-ciudad-con-un-evento-tedxrionegro/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno dará recursos a empresas de servicios públicos mixtas para garantizar energía a afectados por el terremoto",
         "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Obras por Impuestos llega a regiones del movimiento telúrico con mecanismo especial de reconstrucción",
-        "url": "https://www.valoraanalitik.com/obras-por-impuestos-zonas-terremoto-gobierno-crea-modalidad-especial-reconstruccion/",
-        "resumen": "La medida busca movilizar capacidad de ejecución privada sin crear una estructura administrativa paralela.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Obras por Impuestos se abre a las zonas del terremoto: Gobierno crea modalidad especial para la reconstrucción",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Primicia | Operación de Pei para adquirir Connecta, Cortezza y activos de Terranum con emisión de papeles",
-        "url": "https://www.valoraanalitik.com/operacion-pei-activos-terranum-connecta/",
-        "resumen": "Pei pagará $2,18 billones, con un descuento de 26 % frente al valor de los activos. Operación se cerraría a finales de este año.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Así será la operación de Pei para comprar Connecta, Cortezza y otros activos de Terranum: emitirá títulos",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella autoriza uso excepcional de dineros del Fonpet a regiones por sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-habilita-uso-extraordinario-de-recursos-del-fonpet-a-zonas-afectadas-por-terremoto/",
-        "resumen": "La medida se expide en desarrollo del Estado de Emergencia Económica, Social y Ecológica declarado por el Decreto 1261 del 19 de agosto de 2026.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella habilita uso extraordinario de recursos del Fonpet a zonas afectadas por terremoto",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "Entrevista | Icesi busca que el 30 % de sus recursos vengan de empresas en seis años tras crear OneIcesi",
-        "url": "https://www.valoraanalitik.com/entrevista-universidad-icesi-apunta-a-que-30-de-sus-ingresos-provenga-de-organizaciones-en-seis-anos-tras-lanzamiento-de-oneicesi/",
-        "resumen": "El rector de Icesi contó lo que busca y espera aportar con esta nueva forma de relacionarse con las organizaciones y las expectativas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Universidad Icesi apunta a que 30 % de sus ingresos provenga de organizaciones en seis años tras lanzamiento de OneIcesi",
-        "capturado": "2026-09-10T11:37:09-05:00"
-      },
-      {
-        "titulo": "El proyecto Regasificadora del Pacífico alcanzó un 80 % de progreso y su expansión finalizaría en abril de 2027",
-        "url": "https://www.valoraanalitik.com/la-regasificadora-del-pacifico-registro-un-avance-de-80-y-su-fase-de-ampliacion-estaria-lista-en-abril-de-2027/",
-        "resumen": "El gerente general de esta infraestructura, Jesús Urías, señaló que existen contrataciones con Ecopetrol y Alcanos.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "La Regasificadora del Pacífico registró un avance de 80 % y su fase de ampliación estaría lista en abril de 2027",
-        "capturado": "2026-09-10T07:09:12-05:00"
       }
     ]
   }
