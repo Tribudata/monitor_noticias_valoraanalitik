@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-14T01:56:22-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-14T08:52:05-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Los títulos de Pei encabezan el incremento semanal del indicador MSCI Colcap",
+        "url": "https://www.valoraanalitik.com/acciones-de-pei-lideran-el-avance-semanal-del-indice-msci-colcap/",
+        "resumen": "MSCI Colcap sube 1,77 % en la semana y marca nuevo máximo histórico",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Acciones de Pei lideran el avance semanal del índice MSCI Colcap",
+        "capturado": "2026-09-14T08:52:05-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia trepa a $3.105 por alza del Brent; Congreso votaría hoy Presupuesto 2027",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sube-a-3-105-por-la-escalada-del-brent-congreso-votaria-hoy-el-monto-del-presupuesto-2027/",
+        "resumen": "En la región, el dólar gana terreno con fuerza, impulsado especialmente por el comportamiento del peso mexicano.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia sube a $3.105 por la escalada del Brent; Congreso votaría hoy el monto del Presupuesto 2027",
+        "capturado": "2026-09-14T08:52:05-05:00"
+      },
+      {
+        "titulo": "Energía nuclear: El Eje Cafetero sería territorio para analizar su factibilidad",
+        "url": "https://www.valoraanalitik.com/energia-nuclear-el-eje-cafetero-podria-ser-el-escenario-para-estudiar-su-viabilidad/",
+        "resumen": "Para investigadores de la Universidad Nacional, esto también es un asunto de accesibilidad al sistema energético en las regiones más vulnerables.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Energía nuclear: El Eje Cafetero podría ser el escenario para estudiar su viabilidad",
+        "capturado": "2026-09-14T08:52:05-05:00"
+      },
+      {
+        "titulo": "De la Espriella informa protocolo sobre actuación de la Policía en universidades públicas",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-anuncia-protocolo-para-definir-cuando-la-policia-podra-actuar-en-universidades-publicas/",
+        "resumen": "La Policía Nacional será la primera autoridad operativa encargada de atender este tipo de situaciones y podrá intervenir en los campus.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella anuncia protocolo para definir cuándo la Policía podrá actuar en universidades públicas",
+        "capturado": "2026-09-14T08:52:05-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella expone estrategia de choque para asistir a enfermos de alto riesgo",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-detalla-plan-de-choque-para-atender-a-pacientes-de-alto-riesgo/",
+        "resumen": "El gobierno De la Espriella asegura que la presión financiera sobre el sistema de salud es muy alta.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella detalla plan de choque para atender a pacientes de alto riesgo",
+        "capturado": "2026-09-14T08:52:05-05:00"
+      },
+      {
+        "titulo": "Bolsas globales bajan por efecto en tecnológicas y crudo trepa tras nuevos ataques",
+        "url": "https://www.valoraanalitik.com/premercado-mercados-globales-caen-por-presion-sobre-valores-tecnologicos-y-petroleo-sube-tras-nuevos-ataques/",
+        "resumen": "Vientos en contra inesperados en el sector de la inteligencia artificial pesaron sobre la confianza del mercado.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Mercados globales caen por presión sobre valores tecnológicos y petróleo sube tras nuevos ataques",
+        "capturado": "2026-09-14T08:52:05-05:00"
+      },
+      {
+        "titulo": "Informe indica alza de la inflación ante un intenso fenómeno de El Niño en Colombia",
+        "url": "https://www.valoraanalitik.com/nuevo-analisis-senala-lo-que-sube-la-inflacion-con-un-fenomeno-de-el-nino-en-colombia-muy-fuerte/",
+        "resumen": "La inflación verá un golpe complejo por los efectos del fenómeno de El Niño en Colombia",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo análisis señala lo que sube la inflación con un fenómeno de El Niño en Colombia muy fuerte",
+        "capturado": "2026-09-14T08:52:05-05:00"
+      },
       {
         "titulo": "El incremento de las ventas externas de servicios en Colombia supera al intercambio de mercancías",
         "url": "https://www.valoraanalitik.com/auge-de-las-exportaciones-de-servicios-en-colombia-deja-atras-al-comercio-de-bienes/",
@@ -533,79 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Tungsteno, el mineral clave para el mundo que Collective Mining halló en el subsuelo de Caldas",
         "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Tasas de interés del Banco de la República en Colombia llegarían al 13 por ciento al finalizar 2027",
-        "url": "https://www.valoraanalitik.com/banco-de-la-republica-tendria-que-subir-las-tasas-de-interes-en-colombia-hasta-el-13-al-cierre-de-2027/",
-        "resumen": "El Banco de la República mantiene las tasas de interés altas por cuenta del crecimiento de la inflación.",
-        "autor": "",
-        "subseccion": "Banco de la republica",
-        "publicacion": "",
-        "titulo_fuente": "Banco de la República tendría que subir las tasas de interés en Colombia hasta el 13 % al cierre de 2027",
-        "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Abren convocatoria para 250 emprendimientos colombianos con entrega de equipos, capacitación y recursos",
-        "url": "https://www.valoraanalitik.com/nueva-convocatoria-para-emprendedores-en-colombia-250-negocios-podran-recibir-equipos-formacion-y-apoyo-financiero/",
-        "resumen": "Emprendedores de siete ciudades podrán postularse a un programa que combina equipos, formación e inclusión financiera para fortalecer sus negocios.",
-        "autor": "",
-        "subseccion": "Emprendedores",
-        "publicacion": "",
-        "titulo_fuente": "Nueva convocatoria para emprendedores en Colombia: 250 negocios podrán recibir equipos, formación y apoyo financiero",
-        "capturado": "2026-09-10T23:04:07-05:00"
-      },
-      {
-        "titulo": "Valora Analitik ingresa al grupo de los cinco medios nativos digitales más consultados por líderes",
-        "url": "https://www.valoraanalitik.com/valora-analitik-entra-al-top-5-de-medios-nativos-digitales-mas-consulta-los-lideres-en-colombia/",
-        "resumen": "Valora Analitik también se ubica entre las 15 páginas web más consultadas por los líderes de opinión",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Valora Analitik entra al top 5 de medios nativos digitales más consulta los líderes en Colombia",
-        "capturado": "2026-09-10T23:04:07-05:00"
-      },
-      {
-        "titulo": "Administración nacional destraba iniciativa vital para robustecer sistema eléctrico bogotano y central",
-        "url": "https://www.valoraanalitik.com/gobierno-destraba-proyecto-clave-para-ampliar-red-electrica-en-bogota-y-el-centro-del-pais/",
-        "resumen": "Según el mandatario local, el ministro de Ambiente le informó que el proyecto vería la luz con la finalidad de garantizar la seguridad energética de Bogotá.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno destraba proyecto clave para ampliar red eléctrica en Bogotá y el centro del país",
-        "capturado": "2026-09-10T23:04:07-05:00"
-      },
-      {
-        "titulo": "Reciente sentencia modifica el escenario frente a ceses de empleados con quebrantos de salud",
-        "url": "https://www.valoraanalitik.com/nuevo-fallo-cambia-el-panorama-sobre-despidos-de-trabajadores-con-problemas-de-salud/",
-        "resumen": "La Corte Suprema precisó cuándo un trabajador con problemas de salud tiene estabilidad laboral reforzada y qué debe analizarse antes de un despido.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo fallo cambia el panorama sobre despidos de trabajadores con problemas de salud",
-        "capturado": "2026-09-10T18:53:53-05:00"
-      },
-      {
-        "titulo": "Este es el listado de más de 35 naciones que reciben la cuenta multidivisa Nu Global de Nu",
-        "url": "https://www.valoraanalitik.com/nubank-lanzamiento-cuenta-nu-global-paises/",
-        "resumen": "La nueva cobertura anunciada por Nubank incorpora mercados de América y Europa, lo que amplía de manera significativa en ambos continentes.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Esta es la lista de más de 35 países donde llega Nu con nueva cuenta multidivisa Nu Global",
-        "capturado": "2026-09-10T18:53:53-05:00"
-      },
-      {
-        "titulo": "Levantan en Quibdó inicial vivienda de Grupo Argos y Nicky Jam tras sismo y así será la obra",
-        "url": "https://www.valoraanalitik.com/construyen-en-quibdo-primera-casa-de-grupo-argos-y-nicky-jam-tras-terremoto-asi-sera-reconstruccion-de-otras-viviendas/",
-        "resumen": "La iniciativa impulsada por Grupo Argos, la Fundación Grupo Argos y Nicky Jam, que tiene como meta contribuir a la reconstrucción de 1.000 viviendas en el país.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Construyen en Quibdó primera casa de Grupo Argos y Nicky Jam tras terremoto: Así será reconstrucción de otras viviendas",
-        "capturado": "2026-09-10T18:53:53-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Reflexión sobre la adquisición de un evento municipal como TEDxRionegro",
+        "url": "https://www.valoraanalitik.com/opinion-que-compra-una-ciudad-con-un-evento-tedxrionegro/",
+        "resumen": "La pregunta que acompaña a estos anuncios es qué gana un territorio con un evento como este. Hay indicadores que lo cuentan.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Opinión | Qué compra una ciudad con un evento: TEDxRionegro",
+        "capturado": "2026-09-14T08:52:05-05:00"
+      },
+      {
+        "titulo": "Cumbre +CTG 2026 en Cartagena reunirá directivos para analizar el futuro creativo",
+        "url": "https://www.valoraanalitik.com/ctg-2026-grandes-lideres-se-reuniran-en-cartagena-para-debatir-las-nuevas-realidades-y-el-futuro-de-la-industria-creativa/",
+        "resumen": "Durante los tres días, serán 60 contenidos que se ofrecen en franjas simultáneas, con una audiencia muy variada que corresponde al ecosistema del sector.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "+CTG 2026: grandes líderes se reunirán en Cartagena para debatir las nuevas realidades y el futuro de la industria creativa",
+        "capturado": "2026-09-14T08:52:05-05:00"
+      },
+      {
+        "titulo": "Energía nuclear: analizan al Eje Cafetero como posible sede de estudio",
+        "url": "https://www.valoraanalitik.com/energia-nuclear-el-eje-cafetero-podria-ser-el-escenario-para-estudiar-su-viabilidad/",
+        "resumen": "Para investigadores de la Universidad Nacional, esto también es un asunto de accesibilidad al sistema energético en las regiones más vulnerables.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Energía nuclear: El Eje Cafetero podría ser el escenario para estudiar su viabilidad",
+        "capturado": "2026-09-14T08:52:05-05:00"
+      },
       {
         "titulo": "Llega a Colombia una fintech que ofrecerá ganancias en dólares y otras ventajas clave",
         "url": "https://www.valoraanalitik.com/nueva-fintech-aterriza-en-colombia-dara-rendimientos-en-dolares-y-otros-importantes-beneficios/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "La Regasificadora del Pacífico registró un avance de 80 % y su fase de ampliación estaría lista en abril de 2027",
         "capturado": "2026-09-10T07:09:12-05:00"
-      },
-      {
-        "titulo": "Bogotá prepara plataforma para negocios y procura captar recursos previos a la emergencia sanitaria",
-        "url": "https://www.valoraanalitik.com/bogota-alista-sistema-para-emprendedores-mientras-busca-recuperar-inversion-prepandemia/",
-        "resumen": "El nuevo Sistema Distrital de Emprendimiento contará con una red de apoyo para negocios.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá alista sistema para emprendedores mientras busca recuperar inversión prepandemia",
-        "capturado": "2026-09-09T20:21:33-05:00"
-      },
-      {
-        "titulo": "Modificaciones esenciales de la cartera ambiental respecto a SPEC e Hidroituango",
-        "url": "https://www.valoraanalitik.com/estos-son-los-cambios-clave-del-ministerio-de-ambiente-para-spec-e-hidroituango/",
-        "resumen": "Gobierno refuerza sistema energético ante El Niño con más gas y almacenamiento de agua.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los cambios clave del Ministerio de Ambiente para SPEC e Hidroituango",
-        "capturado": "2026-09-09T20:21:33-05:00"
-      },
-      {
-        "titulo": "Asi se fondearia la iniciativa del Gobierno por 1,2 billones para inyectar liquidez al sector energetico 2026",
-        "url": "https://www.valoraanalitik.com/asi-se-financiaria-el-proyecto-de-ley-del-gobierno-por-12-billones-para-dar-liquidez-al-sector-energetico-2026/",
-        "resumen": "El gobierno de Abelardo de la Espriella reveló cómo planea conseguir el dinero para atender la emergencia del fenómeno de El Niño.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Así se financiaría el proyecto de ley del Gobierno por $1,2 billones para dar liquidez al sector energético 2026",
-        "capturado": "2026-09-09T18:06:16-05:00"
       }
     ]
   }
