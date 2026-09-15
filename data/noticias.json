@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-15T12:35:31-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-09-15T16:06:06-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "De la Espriella entrega primer hogar en Quibdó y Constructora Capital arreglará el malecón",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-entrego-primera-vivienda-en-quibdo-y-constructora-capital-adecuara-el-malecon/",
+        "resumen": "El despliegue continuará esta semana con la entrega de una segunda vivienda en Ciudad Bolívar, Antioquia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella entregó primera vivienda en Quibdó y Constructora Capital adecuará el malecón",
+        "capturado": "2026-09-15T16:06:06-05:00"
+      },
+      {
+        "titulo": "Gobernadora del Chocó explica gestiones con el Ejecutivo para reconstrucción, paso bioceánico y Obras por Impuestos",
+        "url": "https://www.valoraanalitik.com/gobernadora-del-choco-detalla-avances-con-el-gobierno-nacional-para-la-reconstruccion-apuesta-por-el-paso-bioceanico-y-obras-por-impuestos/",
+        "resumen": "Sobre los recursos necesarios para atender la emergencia y reconstruir el departamento, la gobernadora estimó que se requerirían cerca de $5 billones.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobernadora del Chocó detalla avances con el Gobierno Nacional para la reconstrucción, apuesta por el paso bioceánico y Obras por Impuestos",
+        "capturado": "2026-09-15T16:06:06-05:00"
+      },
+      {
+        "titulo": "Invertir en bolsa desde Colombia: solo el 1,16 % lo hace y estas son las pautas para iniciar",
+        "url": "https://www.valoraanalitik.com/quiere-invertir-en-bolsa-desde-colombia-solo-el-116-lo-hace-y-estas-son-las-claves-para-empezar/",
+        "resumen": "Invertir en bolsa todavía es poco común en Colombia. Estas son las principales claves para quienes buscan dar el primer paso y diversificar su patrimonio.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "¿Quiere invertir en bolsa desde Colombia? Solo el 1,16 % lo hace y estas son las claves para empezar",
+        "capturado": "2026-09-15T16:06:06-05:00"
+      },
+      {
+        "titulo": "Vicepresidente Restrepo muestra plan para llevar el PIB de Colombia a un crecimiento del 6 %",
+        "url": "https://www.valoraanalitik.com/vicepresidente-restrepo-presenta-hoja-de-ruta-para-que-el-pib-de-colombia-crezca-al-6/",
+        "resumen": "Incluye la participación de los ministerios y el apoyo del sector privado, actores del sector productivo y la ciudadanía.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Vicepresidente Restrepo presenta hoja de ruta para que el PIB de Colombia crezca al 6 %",
+        "capturado": "2026-09-15T16:06:06-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia subió y terminó en $3.117 tras sesión de fuerte volatilidad",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-movio-al-alza-y-cerro-en-3-117-tras-jornada-de-alta-volatilidad/",
+        "resumen": "La firmeza global de la divisa estadounidense terminó imponiéndose al final de la sesión, llevando la tasa de cambio a un precio máximo de $3.117.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia se movió al alza y cerró en $3.117 tras jornada de alta volatilidad",
+        "capturado": "2026-09-15T16:06:06-05:00"
+      },
+      {
+        "titulo": "Conformación de la Junta Directiva de Ecopetrol encargada de designar al nuevo presidente y posible fecha",
+        "url": "https://www.valoraanalitik.com/asi-quedo-la-junta-directiva-de-ecopetrol-que-elegira-al-nuevo-presidente-esta-seria-la-fecha-de-designacion/",
+        "resumen": "Fuentes cercanas a la compañía le confirmaron que la elección del nuevo presidente se realizaría en la semana del 21 de septiembre.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Así quedó la Junta Directiva de Ecopetrol que elegirá al nuevo presidente: esta sería la fecha de designación",
+        "capturado": "2026-09-15T16:06:06-05:00"
+      },
+      {
+        "titulo": "La Corte divulga el fallo total de la reforma pensional y la Cámara cuenta con 30 días para corregir fallas",
+        "url": "https://www.valoraanalitik.com/corte-publica-sentencia-completa-sobre-la-reforma-pensional-camara-tendra-30-dias-para-subsanar-vicios/",
+        "resumen": "El Tribunal detalló que, en caso de ser necesario un trámite de conciliación entre el Senado y la Cámara, este deberá surtirse en este legislatura.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Corte publica sentencia completa sobre la reforma pensional; Cámara tendrá 30 días para subsanar vicios",
+        "capturado": "2026-09-15T16:06:06-05:00"
+      },
       {
         "titulo": "Revolut obtuvo permiso bancario en Colombia y así operará en el territorio nacional",
         "url": "https://www.valoraanalitik.com/revolut-licencia-banco-colombia/",
@@ -533,79 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Colombia y Chile acuerdan homologar competencias laborales para facilitar la movilidad profesional",
         "capturado": "2026-09-13T16:03:45-05:00"
-      },
-      {
-        "titulo": "OpenAI aplaza su ingreso a la Bolsa debido a los peligros en la seguridad de la inteligencia artificial",
-        "url": "https://www.valoraanalitik.com/openai-retrasa-su-salida-a-bolsa-por-cuenta-de-los-riesgos-en-seguridad-de-la-ia/",
-        "resumen": "Sam Altman, CEO de la compañía, explicó que sería poco prudente dar este paso ante las alarmas que han surgido frente al tema.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "OpenAI retrasa su salida a Bolsa por cuenta de los riesgos en seguridad de la IA",
-        "capturado": "2026-09-13T16:03:45-05:00"
-      },
-      {
-        "titulo": "Activan operativos de rastreo de avioneta extraviada en el trayecto Condoto a Guaymaral",
-        "url": "https://www.valoraanalitik.com/activan-protocolos-de-busqueda-de-aeronave-desaparecida-en-la-ruta-condoto-guaymaral/",
-        "resumen": "La Aeronáutica Civil informó del estado de la situación luego de que se perdiera comunicación con el vehículo y se activara la radiobaliza de emergencia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Activan protocolos de búsqueda de aeronave desaparecida en la ruta Condoto – Guaymaral",
-        "capturado": "2026-09-13T16:03:45-05:00"
-      },
-      {
-        "titulo": "Entrevista | Líder de Farizon: infraestructura de carga vial quedó en escala de auto",
-        "url": "https://www.valoraanalitik.com/farizon-entrevista-carga-carretera-camiones/",
-        "resumen": "Felipe Negret, gerente general de Farizon, habla de un país que electrificó la última milla y dejó la carga pesada esperando infraestructura.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Gerente general de Farizon: la red de carga en carretera se quedó en escala de automóvil",
-        "capturado": "2026-09-13T13:01:31-05:00"
-      },
-      {
-        "titulo": "Fondos no son infinitos: Min-Gobierno De la Espriella detalla decreto de emergencia por sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-entrega-detalles-sobre-decreto-para-atender-la-emergencia-por-el-terremoto/",
-        "resumen": "A través del Decreto 1382, el Ejecutivo busca ampliar el margen de acción para destinar recursos en los territorios afectados por el evento sísmico.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "“No es una chequera ilimitada”: Gobierno De la Espriella entrega detalles sobre decreto para atender la emergencia por el terremoto",
-        "capturado": "2026-09-13T13:01:31-05:00"
-      },
-      {
-        "titulo": "Fintech Kala busca desembolsar $280.000 millones en libranzas al 2026 y alista titularizaciones",
-        "url": "https://www.valoraanalitik.com/fintech-kala-creditos-libranzas-2026/",
-        "resumen": "La firma busca sostener el crecimiento de su cartera con emisiones recurrentes, ampliar su portafolio de crédito y sumar inversionistas locales.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fintech Kala apunta a colocar $280.000 millones en créditos de libranzas en 2026; prepara nuevas titularizaciones",
-        "capturado": "2026-09-13T13:01:31-05:00"
-      },
-      {
-        "titulo": "Entrevista | Antioquia alista masiva inversión por Impuestos para recuperar zonas del sismo",
-        "url": "https://www.valoraanalitik.com/entrevista-antioquia-prepara-billonaria-apuesta-de-obras-por-impuestos-para-reconstruir-zonas-afectadas-del-terremoto/",
-        "resumen": "Juliana Velásquez, presidenta ejecutiva de ProAntioquia, explicó los alcances de Obras por Impuestos para la reconstrucción de Colombia.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Antioquia prepara billonaria apuesta de Obras por Impuestos para reconstruir zonas afectadas del terremoto",
-        "capturado": "2026-09-13T13:01:31-05:00"
-      },
-      {
-        "titulo": "Nuevo millonario en Colombia: Baloto Revancha dio $3.200 millones con estos números ganadores",
-        "url": "https://www.valoraanalitik.com/baloto-revancha-entrego-3-200-millones-estos-son-los-numeros-ganadores/",
-        "resumen": "El tiquete ganador fue comprado por internet y acertó los cinco números y la súper balota del sorteo del 12 de septiembre.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo millonario en Colombia: Baloto Revancha entregó $3.200 millones; estos son los números ganadores",
-        "capturado": "2026-09-13T13:01:31-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Grupo Argos y Nicky Jam entregan la primera casa de Adopta un Hogar en Quibdó y siguen con mil viviendas",
+        "url": "https://www.valoraanalitik.com/grupo-argos-y-nicky-jam-entregaron-la-primera-vivienda-de-adopta-un-hogar-en-quibdo/",
+        "resumen": "La vivienda representa el primer resultado tangible de un compromiso que requerirá inversiones superiores a $100.000 millones.",
+        "autor": "",
+        "subseccion": "Especiales",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos y Nicky Jam entregaron la primera vivienda de Adopta un Hogar en Quibdó: así avanza la construcción de 1.000 viviendas",
+        "capturado": "2026-09-15T16:06:06-05:00"
+      },
+      {
+        "titulo": "Un programa gratis dará rebaja del 70 % en la factura de energía a empresas de Colombia",
+        "url": "https://www.valoraanalitik.com/empresas-en-colombia-tendran-beneficio-del-70-en-recibo-de-la-luz-con-programa-gratuito/",
+        "resumen": "Las empresas que superen en más de 10 % el consumo de referencia deberán asumir un recargo equivalente al 70 % sobre la energía consumida.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Empresas en Colombia tendrán beneficio del 70 % en recibo de la luz con programa gratuito",
+        "capturado": "2026-09-15T16:06:06-05:00"
+      },
+      {
+        "titulo": "The Brown busca cambiar la vivencia corporativa más allá de la sala de juntas",
+        "url": "https://www.valoraanalitik.com/mas-alla-de-la-sala-de-reuniones-asi-busca-the-brown-transformar-la-experiencia-corporativa/",
+        "resumen": "Naturaleza, gastronomía y espacios de bienestar se integran en un destino cercano a Medellín que amplía las posibilidades para empresas.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Más allá de la sala de reuniones: así busca The Brown transformar la experiencia corporativa",
+        "capturado": "2026-09-15T16:06:06-05:00"
+      },
       {
         "titulo": "DGroupe presenta herramienta para cambiar la gestión de eventos en Colombia",
         "url": "https://www.valoraanalitik.com/dgroupe-lanza-plataforma-que-busca-transformar-la-operacion-de-eventos-en-colombia/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Tungsteno, el mineral clave para el mundo que Collective Mining halló en el subsuelo de Caldas",
         "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Medellín acogerá el mayor evento global de comercio electrónico con 60.000 asistentes y US$5 millones",
-        "url": "https://www.valoraanalitik.com/la-feria-de-e-commerce-mas-grande-del-mundo-reunira-a-mas-de-60-000-personas-en-medellin-dejaria-una-derrama-economica-de-us5-millones/",
-        "resumen": "Effix pasó de 2.500 asistentes en 2021 a superar los 49.000 en 2025, reflejando el crecimiento de la convocatoria y el interés por los negocios digitales.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "La feria de e-commerce más grande del mundo reunirá a más de 60.000 personas en Medellín: dejaría una derrama económica de US$5 millones",
-        "capturado": "2026-09-10T23:04:07-05:00"
-      },
-      {
-        "titulo": "Nuevos auxilios para 250 empresas en Colombia con dispositivos, capacitación y recursos monetarios",
-        "url": "https://www.valoraanalitik.com/nueva-convocatoria-para-emprendedores-en-colombia-250-negocios-podran-recibir-equipos-formacion-y-apoyo-financiero/",
-        "resumen": "Emprendedores de siete ciudades podrán postularse a un programa que combina equipos, formación e inclusión financiera para fortalecer sus negocios.",
-        "autor": "",
-        "subseccion": "Emprendedores",
-        "publicacion": "",
-        "titulo_fuente": "Nueva convocatoria para emprendedores en Colombia: 250 negocios podrán recibir equipos, formación y apoyo financiero",
-        "capturado": "2026-09-10T23:04:07-05:00"
-      },
-      {
-        "titulo": "Administración nacional destraba iniciativa crucial para robustecer el sistema eléctrico bogotano y central",
-        "url": "https://www.valoraanalitik.com/gobierno-destraba-proyecto-clave-para-ampliar-red-electrica-en-bogota-y-el-centro-del-pais/",
-        "resumen": "Según el mandatario local, el ministro de Ambiente le informó que el proyecto vería la luz con la finalidad de garantizar la seguridad energética de Bogotá.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno destraba proyecto clave para ampliar red eléctrica en Bogotá y el centro del país",
-        "capturado": "2026-09-10T23:04:07-05:00"
       }
     ]
   }
