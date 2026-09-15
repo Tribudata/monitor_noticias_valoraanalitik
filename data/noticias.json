@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-14T20:18:09-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-15T01:34:15-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Es oficial la salida de Juan Carlos Hurtado de la presidencia encargada de Ecopetrol",
+        "url": "https://www.valoraanalitik.com/se-confirma-salida-de-juan-carlos-hurtado-como-presidente-e-de-ecopetrol/",
+        "resumen": "La salida de Hurtado se da un día antes de la asamblea general de accionistas de la petrolera estatal.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Se confirma salida de Juan Carlos Hurtado como presidente (e) de Ecopetrol",
+        "capturado": "2026-09-15T01:34:15-05:00"
+      },
+      {
+        "titulo": "Destacado | Carlos René Montoya llegaría a la presidencia de Colpensiones",
+        "url": "https://www.valoraanalitik.com/carlos-rene-montoya-seria-el-nuevo-presidente-de-colpensiones/",
+        "resumen": "El cargo actualmente es ocupado por Diego Alejandro Urrego Escobar bajo la figura de encargo.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Carlos René Montoya sería el nuevo presidente de Colpensiones",
+        "capturado": "2026-09-15T01:34:15-05:00"
+      },
       {
         "titulo": "Grupo Aval califica como favorable anular la repatriación de dineros de pensiones foráneos",
         "url": "https://www.valoraanalitik.com/grupo-aval-ve-positiva-decision-de-revertir-repatriacion-de-recursos-pensionales-en-el-exterior/",
@@ -583,29 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "S&P Global Ratings: Colombia, Chile y Perú podrían sumar US$100.000 millones a su PIB en cinco años",
         "capturado": "2026-09-11T18:07:27-05:00"
-      },
-      {
-        "titulo": "De los escombros a un nuevo hogar: la historia de la primera casa reconstruida tras el terremoto",
-        "url": "https://www.valoraanalitik.com/de-los-escombros-a-un-nuevo-hogar-la-historia-de-la-primera-casa-reconstruida-tras-el-terremoto/",
-        "resumen": "Esta es la historia de Darling Asprilla, damnificada por le terremoto más fuerte de la historia reciente de Colombia.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "De los escombros a un nuevo hogar: la historia de la primera casa reconstruida tras el terremoto",
-        "capturado": "2026-09-11T18:07:27-05:00"
-      },
-      {
-        "titulo": "Acción de Promigas sale del fondo bursátil Hcolsel al incumplir los requisitos de selección",
-        "url": "https://www.valoraanalitik.com/promigas-sale-del-hcolsel-criterios/",
-        "resumen": "El titulo de compañía fue excluido del índice S&P Colombia Select en el más reciente rebalanceo de S&P Dow Jones Indices.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Acción de Promigas sale del fondo bursátil Hcolsel al no cumplir los criterios para ser elegida",
-        "capturado": "2026-09-11T18:07:27-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Estos serian los movimientos de compradores y vendedores en la Bolsa de Colombia por ajuste del S&P",
+        "url": "https://www.valoraanalitik.com/estos-serian-los-flujos-de-compradores-y-vendedores-por-rebalanceo-de-indice-sp-colombia-select/",
+        "resumen": "Ecopetrol, Cemargos y Mineros concentrarían las mayores compras.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Estos serían los flujos de compradores y vendedores en Bolsa de Colombia por rebalanceo de índice S&P Colombia Select",
+        "capturado": "2026-09-15T01:34:15-05:00"
+      },
+      {
+        "titulo": "Se ratifica la salida de Juan Carlos Hurtado de la presidencia encargada de Ecopetrol",
+        "url": "https://www.valoraanalitik.com/se-confirma-salida-de-juan-carlos-hurtado-como-presidente-e-de-ecopetrol/",
+        "resumen": "La salida de Hurtado se da un día antes de la asamblea general de accionistas de la petrolera estatal.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Se confirma salida de Juan Carlos Hurtado como presidente (e) de Ecopetrol",
+        "capturado": "2026-09-15T01:34:15-05:00"
+      },
       {
         "titulo": "Grupo Aval valora bien revocar el retorno de fondos pensionales externos",
         "url": "https://www.valoraanalitik.com/grupo-aval-ve-positiva-decision-de-revertir-repatriacion-de-recursos-pensionales-en-el-exterior/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Valorasostenible",
         "publicacion": "",
         "titulo_fuente": "Lemy, la nueva apuesta tecnológica de Grupo Portafolio Verde para transformar la gestión de la sostenibilidad empresarial",
-        "capturado": "2026-09-10T14:29:36-05:00"
-      },
-      {
-        "titulo": "Agencia de Colocación de Colsubsidio alcanza más de 1.500 ubicados y afianza el vínculo laboral",
-        "url": "https://www.valoraanalitik.com/centro-de-empleo-de-colsubsidio-supera-los-1-500-colocados-y-fortalece-la-conexion-entre-talento-y-empresas/",
-        "resumen": "La estrategia de intermediación laboral de Colsubsidio ha generado resultados relevantes en sectores como TIC y salud, con el apoyo de Magneto.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Centro de Empleo de Colsubsidio supera los 1.500 colocados y fortalece la conexión entre talento y empresas",
-        "capturado": "2026-09-10T14:29:36-05:00"
-      },
-      {
-        "titulo": "Destacado | Nubank tendrá giros sin cobro y envíos rápidos de Estados Unidos a Colombia vía Bre-B",
-        "url": "https://www.valoraanalitik.com/nubank-ofrecera-remesas-sin-comisiones-transferencias-inmediatas-ee-uu-colombia-bre-b/",
-        "resumen": "La expectativa de David Vélez, CEO de la firma, es que en las próximas décadas las transferencias internacionales sean inmediatas.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Nubank ofrecerá remesas sin comisiones y transferencias inmediatas entre EE. UU. y Colombia por Bre-B",
         "capturado": "2026-09-10T14:29:36-05:00"
       }
     ]
