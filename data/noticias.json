@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-15T16:06:06-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-15T18:37:37-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Senado frena moción de censura al ministro de Vivienda Jaime Andrés Beltrán al sumar 61 votos por el no",
+        "url": "https://www.valoraanalitik.com/senado-rechaza-mocion-de-censura-contra-el-ministro-de-vivienda/",
+        "resumen": "La plenaria rechazó la salida del funcionario tras el debate por su gestión durante la emergencia generada por el terremoto.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Con 61 votos por el no, Senado rechaza moción de censura contra el ministro de Vivienda Jaime Andrés Beltrán",
+        "capturado": "2026-09-15T18:37:37-05:00"
+      },
+      {
+        "titulo": "Por ahora GeoPark descarta inscribirse en la Bolsa de Colombia y su título seguirá en Wall Street",
+        "url": "https://www.valoraanalitik.com/geopark-descarta-bolsa-de-colombia/",
+        "resumen": "Felipe Bayón, presidente de la petrolera, dijo que continuará con su cotización en Nueva York, mientras avanza con expansión en Colombia, Argentina y Venezuela.",
+        "autor": "",
+        "subseccion": "Petróleo",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark descarta por ahora listarse en la Bolsa de Colombia y mantendrá acción en Wall Street",
+        "capturado": "2026-09-15T18:37:37-05:00"
+      },
+      {
+        "titulo": "Alertas por presupuesto colombiano: cerca de la mitad de la inversión comprometida no es obra aún",
+        "url": "https://www.valoraanalitik.com/presupuesto-de-colombia-enciende-alertas-casi-la-mitad-de-la-inversion-publica-comprometida-aun-no-se-convierte-en-obras/",
+        "resumen": "El presupuesto público enfrenta un reto de ejecución: hay recursos comprometidos que todavía no avanzan hacia resultados concretos para los colombianos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto de Colombia enciende alertas: casi la mitad de la inversión pública comprometida aún no se convierte en obras",
+        "capturado": "2026-09-15T18:37:37-05:00"
+      },
+      {
+        "titulo": "Exclusivo | Ecopetrol adoptará plan de austeridad para eficientar recursos tras la gestión de Roa",
+        "url": "https://www.valoraanalitik.com/ecopetrol-tendra-plan-de-austeridad-para-optimizar-recursos-tras-administracion-de-roa/",
+        "resumen": "Este proyecto será de obligatorio cumplimiento para Ecopetrol y sus filiales, tales como Hocol, Reficar o Cenit.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Exclusivo | Ecopetrol tendrá plan de austeridad para optimizar recursos tras administración de Roa",
+        "capturado": "2026-09-15T18:37:37-05:00"
+      },
+      {
+        "titulo": "En tres etapas Grupo Argos prevé su ingreso a Venezuela para la expansión de Cementos Argos",
+        "url": "https://www.valoraanalitik.com/grupo-argos-prepara-entrada-a-venezuela-en-tres-fases-asi-crecera-cementos-argos-en-ese-mercado/",
+        "resumen": "Exportaciones, vía marítima y activos: el plan de tres fases de Grupo Argos para entrar a Venezuela.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos prepara entrada a Venezuela en tres fases: así crecerá Cementos Argos en ese mercado",
+        "capturado": "2026-09-15T18:37:37-05:00"
+      },
       {
         "titulo": "De la Espriella entrega primer hogar en Quibdó y Constructora Capital arreglará el malecón",
         "url": "https://www.valoraanalitik.com/de-la-espriella-entrego-primera-vivienda-en-quibdo-y-constructora-capital-adecuara-el-malecon/",
@@ -553,59 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella detalla plan de choque para atender a pacientes de alto riesgo",
         "capturado": "2026-09-14T08:52:05-05:00"
-      },
-      {
-        "titulo": "Bolsas globales bajan por efecto en tecnológicas y crudo trepa tras nuevos ataques",
-        "url": "https://www.valoraanalitik.com/premercado-mercados-globales-caen-por-presion-sobre-valores-tecnologicos-y-petroleo-sube-tras-nuevos-ataques/",
-        "resumen": "Vientos en contra inesperados en el sector de la inteligencia artificial pesaron sobre la confianza del mercado.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Mercados globales caen por presión sobre valores tecnológicos y petróleo sube tras nuevos ataques",
-        "capturado": "2026-09-14T08:52:05-05:00"
-      },
-      {
-        "titulo": "Informe indica alza de la inflación ante un intenso fenómeno de El Niño en Colombia",
-        "url": "https://www.valoraanalitik.com/nuevo-analisis-senala-lo-que-sube-la-inflacion-con-un-fenomeno-de-el-nino-en-colombia-muy-fuerte/",
-        "resumen": "La inflación verá un golpe complejo por los efectos del fenómeno de El Niño en Colombia",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo análisis señala lo que sube la inflación con un fenómeno de El Niño en Colombia muy fuerte",
-        "capturado": "2026-09-14T08:52:05-05:00"
-      },
-      {
-        "titulo": "El incremento de las ventas externas de servicios en Colombia supera al intercambio de mercancías",
-        "url": "https://www.valoraanalitik.com/auge-de-las-exportaciones-de-servicios-en-colombia-deja-atras-al-comercio-de-bienes/",
-        "resumen": "Los servicios pasaron de pesar el 15 % de las exportaciones de bienes a inicios de siglo al 39 % a finales de 2025 e incluso en lo corrido de 2026.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Auge de las exportaciones de servicios en Colombia deja atrás al comercio de bienes",
-        "capturado": "2026-09-14T01:56:22-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella facilitará trámites para atraer inversión privada: Culpa al gobierno Petro de crisis en el manejo de la deuda",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-facilitara-tramites-para-atraer-inversion-privada/",
-        "resumen": "El Gobierno plantea un Presupuesto de $634,9 billones para 2027, con austeridad y una apuesta por recuperar la inversión privada.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella facilitará trámites para atraer inversión privada: Culpa al gobierno Petro de crisis en el manejo de la deuda",
-        "capturado": "2026-09-14T01:56:22-05:00"
-      },
-      {
-        "titulo": "Colombia y Chile pactan convalidar destrezas de trabajo para agilizar el tránsito laboral",
-        "url": "https://www.valoraanalitik.com/colombia-y-chile-acuerdan-homologar-competencias-laborales-para-facilitar-la-movilidad-profesional/",
-        "resumen": "El proceso comenzará el 21 de septiembre y abarcará 26 perfiles de sectores como construcción, gastronomía, logística, energía y cuidado de personas.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Colombia y Chile acuerdan homologar competencias laborales para facilitar la movilidad profesional",
-        "capturado": "2026-09-13T16:03:45-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "MinEnergía, Enel y GEB robustecen la energía de dos centros médicos en Quibdó tras temblor",
+        "url": "https://www.valoraanalitik.com/minenergia-enel-y-geb-fortalecen-el-respaldo-electrico-de-dos-hospitales-de-quibdo-tras-el-sismo/",
+        "resumen": "Enel aportó una planta de 250 kVA y el Grupo lideró la ejecución técnica para avanzar en la instalación de nueva infraestructura.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "MinEnergía, Enel y GEB fortalecen el respaldo eléctrico de dos hospitales de Quibdó tras el sismo",
+        "capturado": "2026-09-15T18:37:37-05:00"
+      },
+      {
+        "titulo": "Exclusivo | Ecopetrol aplicará plan de austeridad para mejorar fondos tras gestión de Roa",
+        "url": "https://www.valoraanalitik.com/ecopetrol-tendra-plan-de-austeridad-para-optimizar-recursos-tras-administracion-de-roa/",
+        "resumen": "Este proyecto será de obligatorio cumplimiento para Ecopetrol y sus filiales, tales como Hocol, Reficar o Cenit.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Exclusivo | Ecopetrol tendrá plan de austeridad para optimizar recursos tras administración de Roa",
+        "capturado": "2026-09-15T18:37:37-05:00"
+      },
+      {
+        "titulo": "Grupo Argos alista llegada a Venezuela en tres etapas: así se expandirá Cementos Argos",
+        "url": "https://www.valoraanalitik.com/grupo-argos-prepara-entrada-a-venezuela-en-tres-fases-asi-crecera-cementos-argos-en-ese-mercado/",
+        "resumen": "Exportaciones, vía marítima y activos: el plan de tres fases de Grupo Argos para entrar a Venezuela.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos prepara entrada a Venezuela en tres fases: así crecerá Cementos Argos en ese mercado",
+        "capturado": "2026-09-15T18:37:37-05:00"
+      },
+      {
+        "titulo": "Satena ha transportado 60 toneladas de asistencia social al Pacífico nacional tras sismo",
+        "url": "https://www.valoraanalitik.com/satena-ha-movilizado-cerca-de-60-toneladas-de-ayuda-humanitaria-hacia-el-pacifico-colombiano-tras-el-terremoto/",
+        "resumen": "Satena completa cinco operaciones humanitarias hacia diferentes territorios del Pacífico colombiano.",
+        "autor": "",
+        "subseccion": "Aerolineas colombia",
+        "publicacion": "",
+        "titulo_fuente": "Satena ya ha movilizado 60 toneladas de ayuda humanitaria hacia el Pacífico colombiano tras el terremoto",
+        "capturado": "2026-09-15T18:37:37-05:00"
+      },
       {
         "titulo": "Grupo Argos y Nicky Jam entregan la primera casa de Adopta un Hogar en Quibdó y siguen con mil viviendas",
         "url": "https://www.valoraanalitik.com/grupo-argos-y-nicky-jam-entregaron-la-primera-vivienda-de-adopta-un-hogar-en-quibdo/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Alquería y el SENA formarán gratis a jóvenes rurales en carreras técnicas",
         "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "LinkU Capital Summit convoca en Medellín a líderes de inversión de América Latina",
-        "url": "https://www.valoraanalitik.com/linku-capital-summit-el-espacio-que-reunira-en-medellin-a-quienes-toman-las-decisiones-de-inversion-en-latinoamerica/",
-        "resumen": "LinkU Summit se estructura alrededor de seis clases de activo, con un escenario principal y salones especializados.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "LinkU Capital Summit: el espacio que reunirá en Medellín a quienes toman las decisiones de inversión en Latinoamérica",
-        "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Drummond mantuvo su vínculo con la israelí National Coal Supply Corporation pese a la prohibición carbonera",
-        "url": "https://www.valoraanalitik.com/pese-al-veto-de-exportaciones-de-carbon-drummond-nunca-perdio-contacto-con-la-israeli-national-coal-supply-corporation/",
-        "resumen": "A pesar de la prohibición, la empresa continuó en conversaciones con el mercado israelí para recuperar este mercado.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Pese al veto de exportaciones de carbón, Drummond nunca perdió contacto con la israelí National Coal Supply Corporation",
-        "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Novotel introduce el bienestar diario en Medellín para incursionar en la economía de la longevidad",
-        "url": "https://www.valoraanalitik.com/medellin-entra-en-la-economia-de-la-longevidad-con-apuesta-de-novotel-por-el-bienestar-cotidiano-como-nuevo-diferencial/",
-        "resumen": "Novotel Medellín participa en la primera Novotel Longevity Week, una iniciativa global que busca llevar a la vida cotidiana prácticas de bienestar.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Medellín entra en la economía de la longevidad con apuesta de Novotel por el bienestar cotidiano como nuevo diferencial",
-        "capturado": "2026-09-11T08:44:07-05:00"
-      },
-      {
-        "titulo": "Collective Mining descubre tungsteno, mineral esencial mundial, en el subsuelo caldense",
-        "url": "https://www.valoraanalitik.com/tungsteno-el-mineral-clave-para-el-mundo-que-collective-mining-hallo-en-el-subsuelo-de-caldas/",
-        "resumen": "El presidente de Collective Mining reveló detalles de lo que podría significar uno de los hallazgos más importantes en Caldas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Tungsteno, el mineral clave para el mundo que Collective Mining halló en el subsuelo de Caldas",
-        "capturado": "2026-09-11T08:44:07-05:00"
       }
     ]
   }
