@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-15T18:37:37-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-15T23:18:57-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Graford Santamaría asume la vicepresidencia comercial y de mercadeo en Ecopetrol",
+        "url": "https://www.valoraanalitik.com/graford-santamaria-llega-a-la-vicepresidencia-comercial-y-de-mercadeo-de-ecopetrol/",
+        "resumen": "El directivo asume el puesto tras la salida de Julio César Herrera de la petrolera.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Graford Santamaría llega a la vicepresidencia comercial y de mercadeo de Ecopetrol",
+        "capturado": "2026-09-15T23:18:57-05:00"
+      },
+      {
+        "titulo": "Minsalud extiende la intervención a Famisanar por un periodo adicional de un año",
+        "url": "https://www.valoraanalitik.com/famisanar-seguira-intervenida-por-un-ano-mas-minsalud-prorrogo-la-medida/",
+        "resumen": "El nuevo plazo se extenderá hasta septiembre de 2027. No obstante, podrá terminar antes si la Supersalud determina que existen condiciones para levantarlo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Famisanar seguirá intervenida por un año más: Minsalud prorrogó la medida",
+        "capturado": "2026-09-15T23:18:57-05:00"
+      },
+      {
+        "titulo": "tyba alcanza US$2.000 millones en activos de inversores de Colombia, Perú y Chile",
+        "url": "https://www.valoraanalitik.com/tyba-activos-administrados-colombia/",
+        "resumen": "La plataforma de inversiones de Credicorp Capital cumple siete años en Colombia, donde más de 120.000 clientes han invertido a través de sus servicios.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "tyba supera US$2.000 millones en activos administrados de inversionistas en Colombia, Perú y Chile",
+        "capturado": "2026-09-15T23:18:57-05:00"
+      },
+      {
+        "titulo": "Alex Saab, indicado testaferro de Maduro, pacta entregar US$195 millones tras admitir culpa por blanqueo de capitales",
+        "url": "https://www.valoraanalitik.com/alex-saab-se-declara-culpable-en-ee-uu-por-lavado-de-dinero/",
+        "resumen": "El empresario colombiano llegó a un pacto con la justicia estadounidense y podría enfrentar hasta 20 años de prisión.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Alex Saab, señalado testaferro de Maduro, acuerda entregar US$195 millones tras declararse culpable por lavado de dinero",
+        "capturado": "2026-09-15T23:18:57-05:00"
+      },
       {
         "titulo": "Senado frena moción de censura al ministro de Vivienda Jaime Andrés Beltrán al sumar 61 votos por el no",
         "url": "https://www.valoraanalitik.com/senado-rechaza-mocion-de-censura-contra-el-ministro-de-vivienda/",
@@ -563,49 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Acciones de Pei lideran el avance semanal del índice MSCI Colcap",
         "capturado": "2026-09-14T08:52:05-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia trepa a $3.105 por alza del Brent; Congreso votaría hoy Presupuesto 2027",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sube-a-3-105-por-la-escalada-del-brent-congreso-votaria-hoy-el-monto-del-presupuesto-2027/",
-        "resumen": "En la región, el dólar gana terreno con fuerza, impulsado especialmente por el comportamiento del peso mexicano.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia sube a $3.105 por la escalada del Brent; Congreso votaría hoy el monto del Presupuesto 2027",
-        "capturado": "2026-09-14T08:52:05-05:00"
-      },
-      {
-        "titulo": "Energía nuclear: El Eje Cafetero sería territorio para analizar su factibilidad",
-        "url": "https://www.valoraanalitik.com/energia-nuclear-el-eje-cafetero-podria-ser-el-escenario-para-estudiar-su-viabilidad/",
-        "resumen": "Para investigadores de la Universidad Nacional, esto también es un asunto de accesibilidad al sistema energético en las regiones más vulnerables.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Energía nuclear: El Eje Cafetero podría ser el escenario para estudiar su viabilidad",
-        "capturado": "2026-09-14T08:52:05-05:00"
-      },
-      {
-        "titulo": "De la Espriella informa protocolo sobre actuación de la Policía en universidades públicas",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-anuncia-protocolo-para-definir-cuando-la-policia-podra-actuar-en-universidades-publicas/",
-        "resumen": "La Policía Nacional será la primera autoridad operativa encargada de atender este tipo de situaciones y podrá intervenir en los campus.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella anuncia protocolo para definir cuándo la Policía podrá actuar en universidades públicas",
-        "capturado": "2026-09-14T08:52:05-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella expone estrategia de choque para asistir a enfermos de alto riesgo",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-detalla-plan-de-choque-para-atender-a-pacientes-de-alto-riesgo/",
-        "resumen": "El gobierno De la Espriella asegura que la presión financiera sobre el sistema de salud es muy alta.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella detalla plan de choque para atender a pacientes de alto riesgo",
-        "capturado": "2026-09-14T08:52:05-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Carolina Suárez toma las riendas de Econometría como su nueva directora",
+        "url": "https://www.valoraanalitik.com/econometria-tiene-nueva-directora-carolina-suarez-asume-el-liderazgo-de-la-firma/",
+        "resumen": "La designación marca una nueva etapa para la firma, que busca consolidar su crecimiento y fortalecer su apuesta por la innovación y el conocimiento.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Econometría tiene nueva directora: Carolina Suárez asume el liderazgo de la firma",
+        "capturado": "2026-09-15T23:18:57-05:00"
+      },
       {
         "titulo": "MinEnergía, Enel y GEB robustecen la energía de dos centros médicos en Quibdó tras temblor",
         "url": "https://www.valoraanalitik.com/minenergia-enel-y-geb-fortalecen-el-respaldo-electrico-de-dos-hospitales-de-quibdo-tras-el-sismo/",
@@ -1194,16 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Festival Cordillera espera 90.000 asistentes e impacto económico de más de $100.000 millones en Bogotá",
-        "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "Jóvenes del campo recibirán formación técnica gratuita gracias a Alquería y el SENA",
-        "url": "https://www.valoraanalitik.com/alqueria-y-el-sena-formaran-gratis-a-jovenes-rurales-en-carreras-tecnicas/",
-        "resumen": "La formación tendrá una duración de 27 meses: 21 meses de etapa lectiva y seis meses de etapa productiva.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Alquería y el SENA formarán gratis a jóvenes rurales en carreras técnicas",
         "capturado": "2026-09-11T12:40:45-05:00"
       }
     ]
