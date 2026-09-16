@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-16T13:21:08-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-16T16:35:40-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Mercado Libre destinará US$600 millones para su crecimiento logístico y corporativo en el país",
+        "url": "https://www.valoraanalitik.com/mercado-libre-inversion-colombia-us600/",
+        "resumen": "Mercado Libre confirmó la apertura de sedes en Bogotá y Medellín, centros logísticos en cuatro ciudades del país y el apoyo a más de 43.600 Pymes en 2026.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Mercado Libre anuncia inversión de US$600 como parte de su plan de expansión logístico y corporativo en Colombia",
+        "capturado": "2026-09-16T16:35:40-05:00"
+      },
+      {
+        "titulo": "Sector del GLP en Colombia pretende captar mercado mediante compras externas por Cartagena",
+        "url": "https://www.valoraanalitik.com/industria-colombiana-del-glp-busca-ganar-terreno-con-la-importacion-desde-cartagena/",
+        "resumen": "El director del plan de importación de GLP de Puerto Bahía afirmó que los privados incrementaron su participación en ese mercado en los últimos cinco años.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Industria colombiana del GLP busca ganar terreno con la importación desde Cartagena",
+        "capturado": "2026-09-16T16:35:40-05:00"
+      },
+      {
+        "titulo": "Exclusiva: Ya se conoce la fecha de entrega de la etapa inicial de obras en Bahía Solano",
+        "url": "https://www.valoraanalitik.com/primicia-primera-fase-de-ampliacion-del-aeropuerto-de-bahia-solano-choco-ya-tiene-fecha-de-terminacion/",
+        "resumen": "Bahía Solano, una de las zonas más turísticas del pacífico colombiano recibirá la ampliación y modernización de su terminal aéreo.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Primera fase de ampliación del aeropuerto de Bahía Solano (Chocó) ya tiene fecha de terminación",
+        "capturado": "2026-09-16T16:35:40-05:00"
+      },
+      {
+        "titulo": "Ventas comerciales subieron en julio en territorio nacional y la manufactura acentuó su descenso",
+        "url": "https://www.valoraanalitik.com/comercio-en-colombia-mantuvo-su-crecimiento-en-julio-mientras-la-industria-manufacturera-profundizo-su-caida/",
+        "resumen": "El sector minorista mantuvo un comportamiento positivo, en tanto que la producción industrial cayó de manera moderada.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Comercio en Colombia mantuvo su crecimiento en julio mientras la industria manufacturera profundizó su caída",
+        "capturado": "2026-09-16T16:35:40-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia trepa a $3.123,33 por mayores tasas de la FED y petróleo a la baja",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sube-hasta-los-3-12333-en-medio-el-alza-de-tasas-de-la-fed-y-caida-del-crudo/",
+        "resumen": "La tasa de cambio abrió en $3.110 y registró un leve piso intradiario de $3.105,20, para luego emprender una trepada hasta un máximo de $3.150.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia sube hasta los $3.123,33 en medio del alza de tasas de la FED y caída del crudo",
+        "capturado": "2026-09-16T16:35:40-05:00"
+      },
       {
         "titulo": "Alerta: La FED subió las tasas de interés por primera vez desde 2023",
         "url": "https://www.valoraanalitik.com/la-fed-aumento-sus-tasas-de-interes-por-primera-vez-desde-2023/",
@@ -553,59 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "AmCham analiza la certificación antidrogas de EE. UU. y los escenarios para Colombia",
         "capturado": "2026-09-14T20:18:09-05:00"
-      },
-      {
-        "titulo": "Se va el director del DANE por determinación del Gobierno De la Espriella y ya existe sucesor",
-        "url": "https://www.valoraanalitik.com/sale-director-del-dane-tras-decision-de-gobierno-de-la-espriella/",
-        "resumen": "La decisión se produce luego de que el saliente director afirmara que no había encontrado anomalías en los indicadores del DANE.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Sale director del DANE tras decisión de Gobierno De la Espriella: ya hay reemplazo",
-        "capturado": "2026-09-14T20:18:09-05:00"
-      },
-      {
-        "titulo": "Decisión crucial de la Corte Suprema define cuándo una compañía indemniza por un accidente de trabajo",
-        "url": "https://www.valoraanalitik.com/fallo-clave-de-la-corte-suprema-aclara-cuando-un-accidente-laboral-puede-hacer-que-una-empresa-pague-indemnizacion/",
-        "resumen": "Un accidente laboral no obliga por sí solo a la empresa a pagar indemnización. La Corte Suprema explicó qué debe probarse para establecer la responsabilidad.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Fallo clave de la Corte Suprema aclara cuándo un accidente laboral puede hacer que una empresa pague indemnización",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Grupo Aval critica reforma tributaria distrital: encarece préstamos y golpea la rentabilidad",
-        "url": "https://www.valoraanalitik.com/grupo-aval-cuestiona-impuestos-bogota/",
-        "resumen": "Presidentes de los bancos del Grupo Aval se reunieron en Bogotá como parte de su Cumbre Regional.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Aval cuestiona cambios en impuestos en Bogotá: encarece el crédito y afecta rentabilidad",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Modifican el cronograma académico de más de un millón de alumnos en el país mediante nuevo decreto",
-        "url": "https://www.valoraanalitik.com/nuevo-decreto-cambia-el-calendario-escolar-de-mas-de-un-millon-de-estudiantes-en-colombia/",
-        "resumen": "El calendario escolar de más de un millón de estudiantes quedó en manos de una medida excepcional que podría cambiar lo previsto para este año.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo decreto cambia el calendario escolar de más de un millón de estudiantes en Colombia",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Aumento de 60 billones en el presupuesto nacional: efectos en endeudamiento, tributos y expansión",
-        "url": "https://www.valoraanalitik.com/el-presupuesto-de-colombia-subio-60-billones-lo-que-puede-pasar-con-la-deuda-los-impuestos-y-el-crecimiento/",
-        "resumen": "El presupuesto de Colombia para 2027 pasó de $575 a $635 billones y ahora enfrenta una discusión clave sobre deuda, impuestos y crecimiento económico.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "El presupuesto de Colombia subió $60 billones: lo que puede pasar con la deuda, los impuestos y el crecimiento",
-        "capturado": "2026-09-14T17:40:42-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Oracle Cast Latinoamérica: nuevo pódcast exclusivo sobre temas financieros e integración de inteligencia artificial",
+        "url": "https://www.valoraanalitik.com/oracle-cast-latinoamerica-nuevo-podcast-exclusivo-con-temas-clave-para-el-sector-financiero-y-la-vinculacion-de-ia/",
+        "resumen": "Aborda cómo las entidades financieras están utilizando los datos para generar señales, tomar decisiones y desarrollar nuevas oportunidades de negocio.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Oracle Cast Latinoamérica: nuevo podcast exclusivo con temas clave para el sector financiero y la vinculación de IA",
+        "capturado": "2026-09-16T16:35:40-05:00"
+      },
+      {
+        "titulo": "Mercado Libre confirma inyección de US$600 para su estrategia de crecimiento logístico y empresarial en Colombia",
+        "url": "https://www.valoraanalitik.com/mercado-libre-inversion-colombia-us600/",
+        "resumen": "Mercado Libre confirmó la apertura de sedes en Bogotá y Medellín, centros logísticos en cuatro ciudades del país y el apoyo a más de 43.600 Pymes en 2026.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Mercado Libre anuncia inversión de US$600 como parte de su plan de expansión logístico y corporativo en Colombia",
+        "capturado": "2026-09-16T16:35:40-05:00"
+      },
+      {
+        "titulo": "Destino Oculto de Wingo vende más de 300 tiquetes en tan solo 19 minutos",
+        "url": "https://www.valoraanalitik.com/destino-oculto-de-wingo-agota-mas-de-300-cupos-en-solo-19-minutos/",
+        "resumen": "La tercera edición partirá de Bogotá y Medellín el 22 de octubre y llevará a los viajeros a dos destinos que solo conocerán al aterrizar.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Destino Oculto de Wingo agota más de 300 cupos en solo 19 minutos",
+        "capturado": "2026-09-16T16:35:40-05:00"
+      },
+      {
+        "titulo": "Sectores del gas licuado en Colombia pretenden ganar espacio mediante compras externas desde Cartagena",
+        "url": "https://www.valoraanalitik.com/industria-colombiana-del-glp-busca-ganar-terreno-con-la-importacion-desde-cartagena/",
+        "resumen": "El director del plan de importación de GLP de Puerto Bahía afirmó que los privados incrementaron su participación en ese mercado en los últimos cinco años.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Industria colombiana del GLP busca ganar terreno con la importación desde Cartagena",
+        "capturado": "2026-09-16T16:35:40-05:00"
+      },
       {
         "titulo": "Administración De La Espriella desembolsó $300.000 millones para solucionar iliquidez en mercado eléctrico",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-giro-300-000-millones-para-atender-problemas-de-liquidez-del-mercado-electrico/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Juan Antonio Pungiluppi llega a la presidencia de la Junta de Millicom Colombia",
         "capturado": "2026-09-12T14:35:31-05:00"
-      },
-      {
-        "titulo": "Entrevista a Jeeves sobre la pérdida de hasta cinco días de liquidez en pagos externos de empresas locales",
-        "url": "https://www.valoraanalitik.com/entrevista-jeeves-pagos-exterior-liquidez/",
-        "resumen": "Más de la mitad del volumen de pagos internacionales de Jeeves ya opera con stablecoins, según su CFO, Alexander Melikian.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Jeeves: Empresas colombianas pierden hasta cinco días de liquidez en cada pago al exterior",
-        "capturado": "2026-09-12T14:35:31-05:00"
-      },
-      {
-        "titulo": "Con importante capital, famosa firma textil nacional pondrá en marcha amplio proyecto de crecimiento",
-        "url": "https://www.valoraanalitik.com/reconocida-marca-de-ropa-colombiana-tendra-ambicioso-plan-de-expansion-con-millonaria-inversion/",
-        "resumen": "La marca de ropa antioqueña tendría su expansión en estas ciudades del país.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Reconocida marca de ropa colombiana tendrá ambicioso plan de expansión con millonaria inversión",
-        "capturado": "2026-09-12T12:23:06-05:00"
-      },
-      {
-        "titulo": "Entrevista | Presidente de la Regasificadora del Pacífico afirma que sin su planta se apaga el Valle del Cauca",
-        "url": "https://www.valoraanalitik.com/si-no-tuvieramos-esta-planta-se-oscurece-el-valle-del-cauca-presidente-de-la-regasificadora-del-pacifico/",
-        "resumen": "El presidente de la Regasificadora del Pacífico abordó aspectos adicionales del impacto que tendrá el proyecto para Colombia y la región.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | “Si no tuviéramos esta planta, se oscurece el Valle del Cauca”, presidente de la Regasificadora del Pacífico",
-        "capturado": "2026-09-12T09:18:32-05:00"
-      },
-      {
-        "titulo": "Importante | Grupo de Energía de Bogotá inicia trámite para cotizar en Nueva York y espera aval",
-        "url": "https://www.valoraanalitik.com/relevante-geb-comienza-proceso-para-listarse-en-nueva-york-viene-aprobacion-de-accionistas/",
-        "resumen": "La decisión sobre el eventual proceso de registro y negociación en Estados Unidos quedará en manos de los accionistas",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | GEB comienza proceso para listarse en Nueva York: viene aprobación de accionistas",
-        "capturado": "2026-09-12T01:22:28-05:00"
       }
     ]
   }
