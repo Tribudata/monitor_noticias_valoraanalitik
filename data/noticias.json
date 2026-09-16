@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-16T04:27:28-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-16T09:19:39-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El optimismo de los compradores colombianos bajó en agosto y retornó a cifras similares a las de abril",
+        "url": "https://www.valoraanalitik.com/confianza-del-consumidor-en-colombia-se-desacelero-en-agosto-y-volvio-a-niveles-cercanos-a-los-de-abril/",
+        "resumen": "A pesar de la moderación mensual, Fedesarrollo destacó que el balance sigue estando por encima del registrado en agosto de 2025.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Confianza del consumidor en Colombia se desaceleró en agosto y volvió a niveles cercanos a los de abril",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
+      {
+        "titulo": "Los biocombustibles registraron cerca de $25 billones en cinco años y estas empresas mandan en el rubro",
+        "url": "https://www.valoraanalitik.com/biocombustibles-movieron-unos-25-billones-en-los-ultimos-cinco-anos-estas-son-las-empresas-que-lideran-el-sector/",
+        "resumen": "Algunas de las principales compañías del sector son Incauca, Providencia, Manuelita, BioD, Ecodiesel, BioSC, entre otras.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Biocombustibles movieron unos $25 billones en los últimos cinco años: estas son las empresas que lideran el sector",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
+      {
+        "titulo": "La tasa de cambio en Colombia se frena en $3.110 a la espera del tipo de interés de la Fed",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-estabiliza-en-3-110-a-la-espera-de-la-decision-de-tasas-de-la-reserva-federal/",
+        "resumen": "Mientras tanto, los precios internacionales del crudo toman un respiro tras un rally de dos días.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia se estabiliza en $3.110 a la espera de la decisión de tasas de la Reserva Federal",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
+      {
+        "titulo": "Entrevista | BioD, Bioenergy y Oleoflores encabezan las nuevas inversiones en biocombustibles en el país",
+        "url": "https://www.valoraanalitik.com/biod-bioenergy-y-oleoflores-lideran-nuevas-inversiones-en-biocombustibles-en-colombia/",
+        "resumen": "Las tres compañías realizarán inversiones por cerca de US$110 millones para ampliar la capacidad de producción de biocombustibles en Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | BioD, Bioenergy y Oleoflores lideran nuevas inversiones en biocombustibles en Colombia",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
+      {
+        "titulo": "En esta fecha se entregaría el segundo tramo del metro de Bogotá según la información disponible",
+        "url": "https://www.valoraanalitik.com/para-esta-fecha-estaria-lista-la-segunda-linea-del-metro-de-bogota-esto-se-sabe/",
+        "resumen": "La segunda línea del metro de Bogotá será, en su gran mayoría, subterránea. Estos son todos los detalles.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Para esta fecha estaría lista la segunda línea del metro de Bogotá: Esto se sabe",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
+      {
+        "titulo": "Sesión a la baja en la Bolsa de Colombia por fuertes desplomes en diversas acciones",
+        "url": "https://www.valoraanalitik.com/jornada-negativa-en-bolsa-de-colombia-varias-acciones-con-fuertes-correcciones/",
+        "resumen": "La Bolsa de Colombia finalizó la jornada del 15 de septiembre de 2026, registrando una variación negativa de – 0,81 %.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Jornada negativa en Bolsa de Colombia: varias acciones con fuertes correcciones",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
+      {
+        "titulo": "Premercado | Mercados repuntan en la antesala de la FED y suben inventarios de crudo en EE. UU.",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-rebotan-mientras-inversores-esperan-decision-de-la-fed-aumentan-las-reservas-de-petroleo-en-ee-uu/",
+        "resumen": "La atención se centra en la rueda de prensa posterior a la reunión del presidente de la FED y en las proyecciones de política monetaria actualizadas.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas rebotan mientras inversores esperan decisión de la FED: aumentan las reservas de petróleo en EE. UU.",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
+      {
+        "titulo": "Retos de la nueva Junta Directiva de Ecopetrol: autoabastecimiento, fracking y extracción de hidrocarburos",
+        "url": "https://www.valoraanalitik.com/fracking-explotacion-de-petroleo-y-gas-y-autoabastecimiento-los-retos-de-la-nueva-junta-directiva-de-ecopetrol/",
+        "resumen": "Lo que le queda a la compañía es seleccionar al nuevo presidente. Este proceso podría darse en la semana del 21 de septiembre de 2026.",
+        "autor": "",
+        "subseccion": "Acciones ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Fracking, explotación de petróleo y gas y autoabastecimiento, los retos de la nueva Junta Directiva de Ecopetrol",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
       {
         "titulo": "Graford Santamaría asume la vicepresidencia comercial y de mercadeo en Ecopetrol",
         "url": "https://www.valoraanalitik.com/graford-santamaria-llega-a-la-vicepresidencia-comercial-y-de-mercadeo-de-ecopetrol/",
@@ -523,89 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Ahora | MinHacienda busca acabar o fusionar ministerios en Colombia para recortar gasto; anuncia reforma al Estado",
         "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "EE. UU. definirá certificación antidrogas a Colombia y estos son los puntos clave del anuncio",
-        "url": "https://www.valoraanalitik.com/colombia-espera-decision-de-ee-uu-sobre-certificacion-antidrogas-estas-son-las-claves-del-anuncio/",
-        "resumen": "En 2025, Estados Unidos señaló a Colombia dentro de los países que no habían cumplido adecuadamente con sus compromisos en materia de lucha contra las drogas.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Colombia espera decisión de EE. UU. sobre certificación antidrogas: estas son las claves del anuncio",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "De la Espriella explica cuáles serán las funciones del consulado estadounidense en Barranquilla",
-        "url": "https://www.valoraanalitik.com/para-esto-servira-el-consulado-de-estados-unidos-en-barranquilla-de-la-espriella-explica/",
-        "resumen": "El presidente colombiano explicó lo que vendría para Barranquilla con la instauración de un consulado de Estados Unidos",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Para esto servirá el consulado de Estados Unidos en Barranquilla: De la Espriella explica",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "Air Europa habilitará conexión aérea directa entre Barranquilla y Madrid con esta frecuencia",
-        "url": "https://www.valoraanalitik.com/barranquilla-tendra-vuelo-directo-a-madrid-con-air-europa-esta-sera-la-frecuencia/",
-        "resumen": "El Gobierno trabajará con la Alcaldía de Barranquilla para proyectar el Aeropuerto Ernesto Cortissoz como una terminal de alcance internacional.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Barranquilla tendrá vuelo directo a Madrid con Air Europa: esta será la frecuencia",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "Sismo incrementa la búsqueda de viviendas en alquiler en Colombia y estas urbes lideran el alza",
-        "url": "https://www.valoraanalitik.com/terremoto-dispara-la-demanda-de-arriendos-en-colombia-estas-son-las-ciudades-donde-mas-aumento/",
-        "resumen": "La demanda de alquiler aumentó con fuerza tras el terremoto y estas ciudades concentran los mayores cambios en las búsquedas de vivienda.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Terremoto dispara la demanda de arriendos en Colombia: estas son las ciudades donde más aumentó",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "Junta directiva de Ecopetrol solicitará la salida del presidente encargado Juan Carlos Hurtado",
-        "url": "https://www.valoraanalitik.com/junta-de-ecopetrol-le-pedira-renuncia-a-presidente-e-juan-carlos-hurtado/",
-        "resumen": "Juan Carlos Hurtado, presidente encargado de Ecopetrol.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Junta de Ecopetrol le pedirá renuncia a presidente (e), Juan Carlos Hurtado",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "La multinacional petrolera Chevron halla opciones en Argentina para ampliar su mercado de gas",
-        "url": "https://www.valoraanalitik.com/la-gigante-petrolera-chevron-ve-oportunidades-en-argentina-para-diversificar-su-mercado-de-gas/",
-        "resumen": "La empresa también manifestó que, junto con sus socios, invertirá más de US$7.000 millones para duplicar la producción petrolera en Venezuela en 2031.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "La gigante petrolera Chevron ve oportunidades en Argentina para diversificar su mercado de gas",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "El dirigente de la Universidad Nacional sugiere otra vía frente al ingreso de la Fuerza Pública",
-        "url": "https://www.valoraanalitik.com/el-rector-de-la-universidad-nacional-propone-una-alternativa-al-ingreso-de-la-policia-para-mantener-la-autonomia-universitaria/",
-        "resumen": "El presidente Abelardo de la Espriella tomará medidas sobre la autonomía universitaria en el país.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "El rector de la Universidad Nacional propone una alternativa al ingreso de la Policía para mantener la autonomía universitaria",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "Los títulos de Pei encabezan el incremento semanal del indicador MSCI Colcap",
-        "url": "https://www.valoraanalitik.com/acciones-de-pei-lideran-el-avance-semanal-del-indice-msci-colcap/",
-        "resumen": "MSCI Colcap sube 1,77 % en la semana y marca nuevo máximo histórico",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Acciones de Pei lideran el avance semanal del índice MSCI Colcap",
-        "capturado": "2026-09-14T08:52:05-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Ventas de biocombustibles llegaron a 25 billones de pesos en cinco años y estas empresas mandan la parada",
+        "url": "https://www.valoraanalitik.com/biocombustibles-movieron-unos-25-billones-en-los-ultimos-cinco-anos-estas-son-las-empresas-que-lideran-el-sector/",
+        "resumen": "Algunas de las principales compañías del sector son Incauca, Providencia, Manuelita, BioD, Ecodiesel, BioSC, entre otras.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Biocombustibles movieron unos $25 billones en los últimos cinco años: estas son las empresas que lideran el sector",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
+      {
+        "titulo": "Modificación sustancial en tributo para establecimientos gastronómicos, alojamientos y gastrobares bogotanos",
+        "url": "https://www.valoraanalitik.com/restaurantes-hoteles-y-bares-de-bogota-tendran-cambio-clave-en-importante-impuesto/",
+        "resumen": "El argumento expuesto durante la discusión se relaciona con las diferencias existentes entre los sectores en aspectos como las estructuras de costos.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Restaurantes, hoteles y bares de Bogotá tendrán cambio clave en importante impuesto",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
+      {
+        "titulo": "BioD, Bioenergy y Oleoflores encabezan nuevas colocaciones de capital en biocombustibles en el país",
+        "url": "https://www.valoraanalitik.com/biod-bioenergy-y-oleoflores-lideran-nuevas-inversiones-en-biocombustibles-en-colombia/",
+        "resumen": "Las tres compañías realizarán inversiones por cerca de US$110 millones para ampliar la capacidad de producción de biocombustibles en Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | BioD, Bioenergy y Oleoflores lideran nuevas inversiones en biocombustibles en Colombia",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
+      {
+        "titulo": "Retos del nuevo directorio de Ecopetrol abarcan fracking, extracción petrolera y gasífera y autoabastecimiento",
+        "url": "https://www.valoraanalitik.com/fracking-explotacion-de-petroleo-y-gas-y-autoabastecimiento-los-retos-de-la-nueva-junta-directiva-de-ecopetrol/",
+        "resumen": "Lo que le queda a la compañía es seleccionar al nuevo presidente. Este proceso podría darse en la semana del 21 de septiembre de 2026.",
+        "autor": "",
+        "subseccion": "Acciones ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Fracking, explotación de petróleo y gas y autoabastecimiento, los retos de la nueva Junta Directiva de Ecopetrol",
+        "capturado": "2026-09-16T09:19:39-05:00"
+      },
       {
         "titulo": "Carolina Suárez toma las riendas de Econometría como su nueva directora",
         "url": "https://www.valoraanalitik.com/econometria-tiene-nueva-directora-carolina-suarez-asume-el-liderazgo-de-la-firma/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Opinión | Trabajar en la era de la IA: el valor de lo que sigue siendo humano",
         "capturado": "2026-09-11T15:47:08-05:00"
-      },
-      {
-        "titulo": "Delcasino alista nuevas salidas y apunta a Dubái y Estados Unidos como plazas clave",
-        "url": "https://www.valoraanalitik.com/delcasino-prepara-nuevos-lanzamientos-y-apuesta-por-dubai-y-estados-unidos-como-mercados-estrategicos/",
-        "resumen": "La compañía proyecta un crecimiento mínimo del 16 % para 2026, luego de un 2025 marcado por un crecimiento a doble dígito.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Delcasino prepara nuevos lanzamientos y apuesta por Dubai y Estados Unidos como mercados estratégicos",
-        "capturado": "2026-09-11T15:47:08-05:00"
-      },
-      {
-        "titulo": "El pago de cotizaciones de los contratistas se modificará con la reforma pensional",
-        "url": "https://www.valoraanalitik.com/reforma-pensional-cambiara-la-forma-de-pagar-los-aportes-de-contratistas/",
-        "resumen": "La reforma pensional tiene fecha de entrada en vigencia y traerá cambios en los aportes de trabajadores y contratistas que las empresas deberán preparar.",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "Reforma pensional cambiará la forma de pagar los aportes de los contratistas",
-        "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "La guerra en Irán reducirá la demanda global de crudo en 2026 más de lo proyectado",
-        "url": "https://www.valoraanalitik.com/demanda-mundial-de-petroleo-caera-mas-de-lo-previsto-en-2026-por-la-guerra-en-iran/",
-        "resumen": "Las previsiones de la Agencia Internacional de Energía son que el consumo se recupere levemente en 2027.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Demanda mundial de petróleo caerá más de lo previsto en 2026 por la guerra en Irán",
-        "capturado": "2026-09-11T12:40:45-05:00"
-      },
-      {
-        "titulo": "Festival Cordillera prevé 90000 espectadores y un rédito financiero superior a $100000 millones en Bogotá",
-        "url": "https://www.valoraanalitik.com/festival-cordillera-espera-90-000-asistentes-e-impacto-economico-de-mas-de-100-000-millones-en-bogota/",
-        "resumen": "La estimación calcula que cada uno gastaría alrededor de $1,5 millones, mientras que el gasto promedio de un turista nacional sería de $727.684.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Festival Cordillera espera 90.000 asistentes e impacto económico de más de $100.000 millones en Bogotá",
-        "capturado": "2026-09-11T12:40:45-05:00"
       }
     ]
   }
