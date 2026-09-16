@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-16T09:19:39-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-16T13:21:08-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Alerta: La FED subió las tasas de interés por primera vez desde 2023",
+        "url": "https://www.valoraanalitik.com/la-fed-aumento-sus-tasas-de-interes-por-primera-vez-desde-2023/",
+        "resumen": "La tasa de referencia se incrementó en 25 puntos básicos en línea con las expectativas del mercado.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Atención| La FED aumentó sus tasas de interés por primera vez desde 2023",
+        "capturado": "2026-09-16T13:21:08-05:00"
+      },
+      {
+        "titulo": "RappiPay eleva la rentabilidad de sus Bóvedas al 12 %: Plazos y cómo abrirlas",
+        "url": "https://www.valoraanalitik.com/rappipay-sube-rentabilidad-bovedas/",
+        "resumen": "Los clientes pueden abrir Bóvedas desde $500.000 y elegir entre plazos de 90, 180 y 360 días, según la tasa ofrecida.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "RappiPay sube la rentabilidad de sus Bóvedas hasta 12 %: Plazos y cómo abrirlas",
+        "capturado": "2026-09-16T13:21:08-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella giró $300.000 millones para liquidez del mercado eléctrico",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-giro-300-000-millones-para-atender-problemas-de-liquidez-del-mercado-electrico/",
+        "resumen": "Este sería el primer pago de una cifra total de $1,5 billones con la cual la administración busca reducir la presión a los actores del sistema.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella giró $300.000 millones para atender problemas de liquidez del mercado eléctrico",
+        "capturado": "2026-09-16T13:21:08-05:00"
+      },
+      {
+        "titulo": "Así aumentaría el PIB de Colombia al 6 %: ¿Qué ocurrirá con la ocupación?",
+        "url": "https://www.valoraanalitik.com/asi-creceria-la-economia-de-colombia-al-6-que-pasara-con-el-empleo/",
+        "resumen": "La economía de Colombia, según entes locales y externos, tiene un potencial de crecimiento cercano al 3 %.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Así crecería la economía de Colombia al 6 %: ¿Qué pasará con el empleo?",
+        "capturado": "2026-09-16T13:21:08-05:00"
+      },
+      {
+        "titulo": "Billetera dale! del Grupo Aval permite operar divisas digitales y traer remesas",
+        "url": "https://www.valoraanalitik.com/dale-grupo-aval-dolares-euros-digitales/",
+        "resumen": "Otra de las novedades es que la app de dale! generará rentabilidad para los usuarios que decidan ahorrar en dólares y en euros",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Billetera dale! (Grupo Aval) lanza compra-venta de dólares y euros digitales con rentabilidad; habilitará remesas",
+        "capturado": "2026-09-16T13:21:08-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo renueva sus cuatro delegados ante la Junta Directiva de la Cámara de Comercio de Bogotá",
+        "url": "https://www.valoraanalitik.com/gobierno-representantes-camara-bogota/",
+        "resumen": "Los nuevos miembros principales son Gregory Schaller, Jaime Cabal, Lewis Grosso y Luis Alberto Arango, según cuatro decretos publicados por MinComercio.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno cambia sus cuatro representantes en la Junta Directiva de la Cámara de Comercio de Bogotá",
+        "capturado": "2026-09-16T13:21:08-05:00"
+      },
+      {
+        "titulo": "Alerta | La administración Trump conserva la descertificación de Colombia en el combate antidrogas",
+        "url": "https://www.valoraanalitik.com/atencion-gobierno-trump-mantiene-descertificacion-a-colombia-en-la-lucha-contra-el-narcotrafico/",
+        "resumen": "El gobierno De la Espriella ya adelanta acercamientos con Estados Unidos para demostrar importantes avances en esa materia",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Gobierno Trump mantiene descertificación a Colombia en la lucha contra el narcotráfico",
+        "capturado": "2026-09-16T13:21:08-05:00"
+      },
+      {
+        "titulo": "Codirector Villamizar avisa que los tipos de interés no pueden alterarse con prisa sin efectos",
+        "url": "https://www.valoraanalitik.com/codirector-villamizar-advierte-que-las-tasas-de-interes-no-se-pueden-mover-rapidamente-sin-consecuencias/",
+        "resumen": "El economista insistió en que para lograr sostenibilidad en la senda de crecimiento, la estabilidad de precios resulta un prerrequisito indispensable.",
+        "autor": "",
+        "subseccion": "Banco de la republica",
+        "publicacion": "",
+        "titulo_fuente": "Codirector Villamizar advierte que las tasas de interés no se pueden mover rápidamente sin consecuencias",
+        "capturado": "2026-09-16T13:21:08-05:00"
+      },
       {
         "titulo": "El optimismo de los compradores colombianos bajó en agosto y retornó a cifras similares a las de abril",
         "url": "https://www.valoraanalitik.com/confianza-del-consumidor-en-colombia-se-desacelero-en-agosto-y-volvio-a-niveles-cercanos-a-los-de-abril/",
@@ -523,89 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "El presupuesto de Colombia subió $60 billones: lo que puede pasar con la deuda, los impuestos y el crecimiento",
         "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Brent roza los US$107 por barril: prevén alza en gasolina y más subsidio al diésel en el país",
-        "url": "https://www.valoraanalitik.com/brent-se-acerca-a-us107-por-barril-habria-alza-a-la-gasolina-y-mayor-necesidad-de-subsidio-al-diesel-en-colombia/",
-        "resumen": "El Estado financia a través de subsidios al ACPM o diésel, con la finalidad de que su precio real no se refleje en el mercado.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Brent se acerca a US$107 por barril; habría alza a la gasolina y mayor necesidad de subsidio al diésel en Colombia",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "En vivo | Congreso avala Presupuesto nacional de 2027 por 635 billones de pesos conforme a solicitud oficial",
-        "url": "https://www.valoraanalitik.com/en-vivo-congreso-inicia-debate-para-aprobar-monto-del-presupuesto-2027-asi-estan-las-fuerzas-en-las-comisiones-economicas/",
-        "resumen": "Siga en vivo el debate y la votación del monto del Presupuesto General de la Nación para 2027 en las comisiones económicas conjuntas.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "En vivo | Congreso aprueba que Presupuesto de 2027 de Colombia sea de $635 billones, en línea con lo pedido por el Gobierno",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Tributaria de Galán: de esta manera puede verificar si pagará más tributos el año entrante",
-        "url": "https://www.valoraanalitik.com/reforma-tributaria-de-galan-asi-puede-confirmar-si-debera-pagar-mas-impuestos-el-proximo-ano/",
-        "resumen": "Bogotá cambiaría impuestos y eliminaría dos tributos con nuevo proyecto en el Concejo.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Reforma tributaria de Galán: así puede confirmar si deberá pagar más impuestos el próximo año",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio subió en Colombia y finalizó en 3103,10 pesos por efecto de un índice DXY defensivo",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-volvio-a-subir-y-cerro-en-3-10310-impulsado-por-un-dxy-defensivo/",
-        "resumen": "El Índice DXY avanzó a 99,42 unidades (+0,30 %), fortalecido por el alza en los rendimientos de los bonos del Tesoro a 10 años.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia volvió a subir y cerró en $3.103,10 impulsado por un DXY defensivo",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "En desarrollo: MinHacienda dialogará esta semana con banca, agencias de riesgo y capitalistas de EE UU",
-        "url": "https://www.valoraanalitik.com/minhacienda-se-reune-esta-semana-con-banca-calificadoras-e-inversionistas-de-ee-uu/",
-        "resumen": "El objetivo de las reuniones apunta a este tipo de entidades, por lo cual -por ahora- no pretenden reunirse con multilaterales.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | MinHacienda se reúne esta semana con banca, calificadoras e inversionistas de EE. UU.: estos son los detalles",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "MinHacienda: elevar tributos sería el recurso final del Ejecutivo, aunque se evalúan todas las vías",
-        "url": "https://www.valoraanalitik.com/minhacienda-subir-impuestos-seria-la-ultima-opcion-del-gobierno-pero-no-descartamos-nada-en-esta-situacion/",
-        "resumen": "Este sería el plan del gobierno de Abelardo de la Espriella para manejar las finanzas del país en los próximos años.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda: subir impuestos sería la última opción del Gobierno, pero no descartamos nada en esta situación",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "Bancoomeva constituyó otra firma para dar crédito a fintechs colombianas y prevé colocar 1 billón",
-        "url": "https://www.valoraanalitik.com/bancoomeva-nueva-empresa-financiar-fintechs/",
-        "resumen": "Scalo ofrecerá inicialmente créditos y depósitos a fintechs y tendrá una plataforma tecnológica para integrarse con estas empresas vía API.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Bancoomeva creó nueva empresa para financiar a fintechs en Colombia; espera colocar $1 billón en créditos",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "En desarrollo: MinHacienda planea suprimir o fusionar carteras para bajar gasto y prepara reforma estatal",
-        "url": "https://www.valoraanalitik.com/ahora-minhacienda-busca-acabar-o-fusionar-ministerios-en-colombia-para-recortar-gasto-anuncia-reforma-al-estado/",
-        "resumen": "El gobierno de Abelardo de la Espriella alista una reforma del Estado para reducir el gasto público, fusionar ministerios y eliminar algunas entidades.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | MinHacienda busca acabar o fusionar ministerios en Colombia para recortar gasto; anuncia reforma al Estado",
-        "capturado": "2026-09-14T14:09:36-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Administración De La Espriella desembolsó $300.000 millones para solucionar iliquidez en mercado eléctrico",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-giro-300-000-millones-para-atender-problemas-de-liquidez-del-mercado-electrico/",
+        "resumen": "Este sería el primer pago de una cifra total de $1,5 billones con la cual la administración busca reducir la presión a los actores del sistema.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella giró $300.000 millones para atender problemas de liquidez del mercado eléctrico",
+        "capturado": "2026-09-16T13:21:08-05:00"
+      },
+      {
+        "titulo": "Gobierno reemplaza a sus cuatro delegados en la Junta Directiva de la Cámara de Comercio de Bogotá",
+        "url": "https://www.valoraanalitik.com/gobierno-representantes-camara-bogota/",
+        "resumen": "Los nuevos miembros principales son Gregory Schaller, Jaime Cabal, Lewis Grosso y Luis Alberto Arango, según cuatro decretos publicados por MinComercio.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno cambia sus cuatro representantes en la Junta Directiva de la Cámara de Comercio de Bogotá",
+        "capturado": "2026-09-16T13:21:08-05:00"
+      },
       {
         "titulo": "Ventas de biocombustibles llegaron a 25 billones de pesos en cinco años y estas empresas mandan la parada",
         "url": "https://www.valoraanalitik.com/biocombustibles-movieron-unos-25-billones-en-los-ultimos-cinco-anos-estas-son-las-empresas-que-lideran-el-sector/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Relevante | GEB comienza proceso para listarse en Nueva York: viene aprobación de accionistas",
         "capturado": "2026-09-12T01:22:28-05:00"
-      },
-      {
-        "titulo": "De la Espriella habilita posibilidad de bajar IVA a pasajes aéreos en regiones golpeadas por sismo",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-abre-la-puerta-para-reducir-iva-a-tiquetes-aereos-en-zonas-afectadas-por-terremoto/",
-        "resumen": "De la Espriella dijo que hará una revisión fiscal que busca quitar IVA a tiquetes en estos destinos para recuperar la actividad turística.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella abre la puerta para reducir IVA a tiquetes aéreos en zonas afectadas por terremoto",
-        "capturado": "2026-09-11T18:07:27-05:00"
-      },
-      {
-        "titulo": "Opinión | Emplearse en tiempos de inteligencia artificial: la importancia de lo humano",
-        "url": "https://www.valoraanalitik.com/opinion-trabajar-en-la-era-de-la-ia-el-valor-de-lo-que-sigue-siendo-humano/",
-        "resumen": "La pregunta de fondo no es solo qué puede hacer la IA, sino para qué decidimos usarla.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Opinión | Trabajar en la era de la IA: el valor de lo que sigue siendo humano",
-        "capturado": "2026-09-11T15:47:08-05:00"
       }
     ]
   }
