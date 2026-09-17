@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-17T14:11:56-05:00",
-  "nuevos_en_esta_corrida": 16,
+  "actualizado": "2026-09-17T17:23:08-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Colombia prepara tres subastas eléctricas para afianzar el sistema: cronograma y proyecciones",
+        "url": "https://www.valoraanalitik.com/colombia-alista-tres-subastas-de-energia-para-reforzar-estabilidad-del-sistema-fechas-estimadas-y-planes/",
+        "resumen": "La CREG también planea una reforma al cargo por confiabilidad, pero el plan todavía está en construcción.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia alista tres subastas de energía para reforzar estabilidad del sistema: fechas estimadas y planes",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "RappiPay busca duplicar su base a 1,5 millones de usuarios en 2027 y potencia el crédito",
+        "url": "https://www.valoraanalitik.com/rappipay-apunta-a-duplicar-sus-clientes/",
+        "resumen": "La compañía busca cerrar 2026 con 850.000 clientes. Ya administra una cartera de créditos de $1,1 billones y espera ampliar su oferta de financiamiento.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | RappiPay apunta a duplicar sus clientes y llegar a 1,5 millones en 2027; acelera apuesta por crédito",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Bancolombia, Davivienda y GNB Sudameris lideran las utilidades de la banca en el país",
+        "url": "https://www.valoraanalitik.com/bancolombia-davivienda-y-gnb-sudameris-se-consolidan-en-el-top-3-de-los-bancos-con-mayores-ganancias-en-colombia/",
+        "resumen": "Los establecimientos bancarios que operan en el país acumularon de manera conjunta utilidades por $10,12 billones al séptimo mes del año.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Bancolombia, Davivienda y GNB Sudameris se consolidan en el ‘top’ 3 de los bancos con mayores ganancias en Colombia",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Movistar se retira de Colombia: evolución de la firma que revolucionó las telecomunicaciones",
+        "url": "https://www.valoraanalitik.com/movistar-se-despide-de-colombia-esta-es-la-historia-de-la-marca/",
+        "resumen": "La compañía llegó al país hace más de 20 años, creció con Telefónica y ahora queda en manos de Millicom tras su integración con Tigo.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Movistar dice adiós a Colombia: esta es la historia de una de las marcas que transformó el sector de telecomunicaciones",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Esta será la pensión máxima que reconocerá Colpensiones bajo el nuevo modelo",
+        "url": "https://www.valoraanalitik.com/esta-es-la-mesada-mas-alta-que-pagara-colpensiones-con-la-reforma-pensional/",
+        "resumen": "La reforma pensional cambia radicalmente el monto de la pensión máxima que recibiría alguien por parte de Colpensiones.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Esta es la mesada más alta que pagará Colpensiones con la reforma pensional",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "A julio de 2026 el sector financiero dejó ganancias por $65,3 billones a los usuarios y muestra baja leve",
+        "url": "https://www.valoraanalitik.com/sistema-financiero-genero-rendimientos-por-653-billones-para-clientes-a-julio-de-2026-cifra-registra-leve-caida/",
+        "resumen": "Las cifras de la SuperFinanciera mostraron una una dinámica de moderación en la rentabilidad de las inversiones de los ahorradores.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Sistema financiero generó rendimientos por $65,3 billones para clientes a julio de 2026; cifra registra leve caída",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Hoy elegirían a Juan Esteban Orrego para presidir la Cámara de Comercio de Bogotá",
+        "url": "https://www.valoraanalitik.com/juan-esteban-orrego-seria-elegido-hoy-como-nuevo-presidente-de-la-camara-de-comercio-de-bogota/",
+        "resumen": "La presidencia de la Cámara de Comercio de Bogotá tiene un papel central en el desarrollo empresarial de Bogotá y Cundinamarca.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Juan Esteban Orrego sería elegido hoy como nuevo presidente de la Cámara de Comercio de Bogotá",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Empresa transnacional lanza más de 3.000 puestos de trabajo en el país para bachilleres y profesionales",
+        "url": "https://www.valoraanalitik.com/multinacional-abre-mas-de-3-000-vacantes-en-colombia-hay-empleos-para-bachilleres-y-profesionales/",
+        "resumen": "Las vacantes de empleo están disponibles en varias ciudades y sectores. Conozca los perfiles que están buscando y cómo participar.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional abre más de 3.000 vacantes en Colombia: hay empleos para bachilleres y profesionales",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "A un año del desenroque los socios de Grupo Argos elevaron su patrimonio hasta 56 % según el mercado",
+        "url": "https://www.valoraanalitik.com/un-ano-despues-del-desenroque-los-accionistas-de-grupo-argos-han-visto-crecer-hasta-56-el-valor-de-su-patrimonio-esto-opina-el-mercado/",
+        "resumen": "Para los accionistas de Grupo Argos significó conservar sus acciones, aumentar derechos económicos y recibir títulos de Grupo Sura.",
+        "autor": "",
+        "subseccion": "Grupo argos",
+        "publicacion": "",
+        "titulo_fuente": "Un año después del desenroque, los accionistas de Grupo Argos han visto crecer hasta 56 % el valor de su patrimonio: esto opina el mercado",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Primicia | Mario Cruz asumirá la dirección de la Unidad de Regulación Financiera de MinHacienda",
+        "url": "https://www.valoraanalitik.com/primicia-mario-cruz-sera-el-director-de-unidad-de-regulacion-financiera-urf-del-ministerio-de-hacienda/",
+        "resumen": "Cruz también cuenta con experiencia como vicepresidente técnico de Acemi y en la Federación de Aseguradores Colombianos (Fasecolda).",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Mario Cruz será el director de Unidad de Regulación Financiera (URF) del Ministerio de Hacienda",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
       {
         "titulo": "Inflación en Colombia se habría estabilizado en septiembre, un respiro para el bolsillo",
         "url": "https://www.valoraanalitik.com/buena-noticia-para-el-bolsillo-la-inflacion-colombia-se-habria-estabilizado-en-septiembre/",
@@ -503,109 +603,89 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | BioD, Bioenergy y Oleoflores lideran nuevas inversiones en biocombustibles en Colombia",
         "capturado": "2026-09-16T09:19:39-05:00"
-      },
-      {
-        "titulo": "En esta fecha se entregaría el segundo tramo del metro de Bogotá según la información disponible",
-        "url": "https://www.valoraanalitik.com/para-esta-fecha-estaria-lista-la-segunda-linea-del-metro-de-bogota-esto-se-sabe/",
-        "resumen": "La segunda línea del metro de Bogotá será, en su gran mayoría, subterránea. Estos son todos los detalles.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Para esta fecha estaría lista la segunda línea del metro de Bogotá: Esto se sabe",
-        "capturado": "2026-09-16T09:19:39-05:00"
-      },
-      {
-        "titulo": "Sesión a la baja en la Bolsa de Colombia por fuertes desplomes en diversas acciones",
-        "url": "https://www.valoraanalitik.com/jornada-negativa-en-bolsa-de-colombia-varias-acciones-con-fuertes-correcciones/",
-        "resumen": "La Bolsa de Colombia finalizó la jornada del 15 de septiembre de 2026, registrando una variación negativa de – 0,81 %.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Jornada negativa en Bolsa de Colombia: varias acciones con fuertes correcciones",
-        "capturado": "2026-09-16T09:19:39-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados repuntan en la antesala de la FED y suben inventarios de crudo en EE. UU.",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-rebotan-mientras-inversores-esperan-decision-de-la-fed-aumentan-las-reservas-de-petroleo-en-ee-uu/",
-        "resumen": "La atención se centra en la rueda de prensa posterior a la reunión del presidente de la FED y en las proyecciones de política monetaria actualizadas.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas rebotan mientras inversores esperan decisión de la FED: aumentan las reservas de petróleo en EE. UU.",
-        "capturado": "2026-09-16T09:19:39-05:00"
-      },
-      {
-        "titulo": "Retos de la nueva Junta Directiva de Ecopetrol: autoabastecimiento, fracking y extracción de hidrocarburos",
-        "url": "https://www.valoraanalitik.com/fracking-explotacion-de-petroleo-y-gas-y-autoabastecimiento-los-retos-de-la-nueva-junta-directiva-de-ecopetrol/",
-        "resumen": "Lo que le queda a la compañía es seleccionar al nuevo presidente. Este proceso podría darse en la semana del 21 de septiembre de 2026.",
-        "autor": "",
-        "subseccion": "Acciones ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Fracking, explotación de petróleo y gas y autoabastecimiento, los retos de la nueva Junta Directiva de Ecopetrol",
-        "capturado": "2026-09-16T09:19:39-05:00"
-      },
-      {
-        "titulo": "Graford Santamaría asume la vicepresidencia comercial y de mercadeo en Ecopetrol",
-        "url": "https://www.valoraanalitik.com/graford-santamaria-llega-a-la-vicepresidencia-comercial-y-de-mercadeo-de-ecopetrol/",
-        "resumen": "El directivo asume el puesto tras la salida de Julio César Herrera de la petrolera.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Graford Santamaría llega a la vicepresidencia comercial y de mercadeo de Ecopetrol",
-        "capturado": "2026-09-15T23:18:57-05:00"
-      },
-      {
-        "titulo": "Minsalud extiende la intervención a Famisanar por un periodo adicional de un año",
-        "url": "https://www.valoraanalitik.com/famisanar-seguira-intervenida-por-un-ano-mas-minsalud-prorrogo-la-medida/",
-        "resumen": "El nuevo plazo se extenderá hasta septiembre de 2027. No obstante, podrá terminar antes si la Supersalud determina que existen condiciones para levantarlo.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Famisanar seguirá intervenida por un año más: Minsalud prorrogó la medida",
-        "capturado": "2026-09-15T23:18:57-05:00"
-      },
-      {
-        "titulo": "tyba alcanza US$2.000 millones en activos de inversores de Colombia, Perú y Chile",
-        "url": "https://www.valoraanalitik.com/tyba-activos-administrados-colombia/",
-        "resumen": "La plataforma de inversiones de Credicorp Capital cumple siete años en Colombia, donde más de 120.000 clientes han invertido a través de sus servicios.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "tyba supera US$2.000 millones en activos administrados de inversionistas en Colombia, Perú y Chile",
-        "capturado": "2026-09-15T23:18:57-05:00"
-      },
-      {
-        "titulo": "Alex Saab, indicado testaferro de Maduro, pacta entregar US$195 millones tras admitir culpa por blanqueo de capitales",
-        "url": "https://www.valoraanalitik.com/alex-saab-se-declara-culpable-en-ee-uu-por-lavado-de-dinero/",
-        "resumen": "El empresario colombiano llegó a un pacto con la justicia estadounidense y podría enfrentar hasta 20 años de prisión.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Alex Saab, señalado testaferro de Maduro, acuerda entregar US$195 millones tras declararse culpable por lavado de dinero",
-        "capturado": "2026-09-15T23:18:57-05:00"
-      },
-      {
-        "titulo": "Senado frena moción de censura al ministro de Vivienda Jaime Andrés Beltrán al sumar 61 votos por el no",
-        "url": "https://www.valoraanalitik.com/senado-rechaza-mocion-de-censura-contra-el-ministro-de-vivienda/",
-        "resumen": "La plenaria rechazó la salida del funcionario tras el debate por su gestión durante la emergencia generada por el terremoto.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Con 61 votos por el no, Senado rechaza moción de censura contra el ministro de Vivienda Jaime Andrés Beltrán",
-        "capturado": "2026-09-15T18:37:37-05:00"
-      },
-      {
-        "titulo": "Por ahora GeoPark descarta inscribirse en la Bolsa de Colombia y su título seguirá en Wall Street",
-        "url": "https://www.valoraanalitik.com/geopark-descarta-bolsa-de-colombia/",
-        "resumen": "Felipe Bayón, presidente de la petrolera, dijo que continuará con su cotización en Nueva York, mientras avanza con expansión en Colombia, Argentina y Venezuela.",
-        "autor": "",
-        "subseccion": "Petróleo",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark descarta por ahora listarse en la Bolsa de Colombia y mantendrá acción en Wall Street",
-        "capturado": "2026-09-15T18:37:37-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Colombia prepara tres subastas eléctricas para asegurar firmeza en la red: cronograma y proyectos",
+        "url": "https://www.valoraanalitik.com/colombia-alista-tres-subastas-de-energia-para-reforzar-estabilidad-del-sistema-fechas-estimadas-y-planes/",
+        "resumen": "La CREG también planea una reforma al cargo por confiabilidad, pero el plan todavía está en construcción.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia alista tres subastas de energía para reforzar estabilidad del sistema: fechas estimadas y planes",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Bancolombia, Davivienda y GNB Sudameris lideran el podio de las entidades financieras con más utilidades",
+        "url": "https://www.valoraanalitik.com/bancolombia-davivienda-y-gnb-sudameris-se-consolidan-en-el-top-3-de-los-bancos-con-mayores-ganancias-en-colombia/",
+        "resumen": "Los establecimientos bancarios que operan en el país acumularon de manera conjunta utilidades por $10,12 billones al séptimo mes del año.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Bancolombia, Davivienda y GNB Sudameris se consolidan en el ‘top’ 3 de los bancos con mayores ganancias en Colombia",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Movistar sale de Colombia: evolución de una compañía que revolucionó la industria de las telecomunicaciones",
+        "url": "https://www.valoraanalitik.com/movistar-se-despide-de-colombia-esta-es-la-historia-de-la-marca/",
+        "resumen": "La compañía llegó al país hace más de 20 años, creció con Telefónica y ahora queda en manos de Millicom tras su integración con Tigo.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Movistar dice adiós a Colombia: esta es la historia de una de las marcas que transformó el sector de telecomunicaciones",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Colsubsidio figura por segundo año consecutivo en el grupo de las 23 marcas preferidas en el país",
+        "url": "https://www.valoraanalitik.com/colsubsidio-por-segundo-ano-consecutivo-entre-las-23-marcas-mas-queridas-por-los-colombianos/",
+        "resumen": "Colsubsidio celebra 69 años de historia, acompañando a millones de colombianos y sus familias en distintos momentos de sus vidas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colsubsidio, por segundo año consecutivo, entre las 23 marcas más queridas por los colombianos",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Supergiros entregará 15000 millones de pesos para socorrer a sus empleados en regiones impactadas por el sismo",
+        "url": "https://www.valoraanalitik.com/supergiros-donara-15-000-millones-para-apoyar-a-sus-colaboradores-en-las-zonas-afectadas-por-el-terremoto/",
+        "resumen": "Supergiros asumiá la totalidad de los costos de reparación de 620 viviendas, aliviando la carga operativa y financiera del Gobierno Nacional por la emergencia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Supergiros donará $15.000 millones para apoyar a sus colaboradores en las zonas afectadas por el terremoto",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Hoy designarían a Juan Esteban Orrego al frente de la Cámara de Comercio de Bogotá",
+        "url": "https://www.valoraanalitik.com/juan-esteban-orrego-seria-elegido-hoy-como-nuevo-presidente-de-la-camara-de-comercio-de-bogota/",
+        "resumen": "La presidencia de la Cámara de Comercio de Bogotá tiene un papel central en el desarrollo empresarial de Bogotá y Cundinamarca.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Juan Esteban Orrego sería elegido hoy como nuevo presidente de la Cámara de Comercio de Bogotá",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Mercado opina que patrimonio de accionistas de Grupo Argos subió hasta 56 % un año tras desenroque",
+        "url": "https://www.valoraanalitik.com/un-ano-despues-del-desenroque-los-accionistas-de-grupo-argos-han-visto-crecer-hasta-56-el-valor-de-su-patrimonio-esto-opina-el-mercado/",
+        "resumen": "Para los accionistas de Grupo Argos significó conservar sus acciones, aumentar derechos económicos y recibir títulos de Grupo Sura.",
+        "autor": "",
+        "subseccion": "Grupo argos",
+        "publicacion": "",
+        "titulo_fuente": "Un año después del desenroque, los accionistas de Grupo Argos han visto crecer hasta 56 % el valor de su patrimonio: esto opina el mercado",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
+      {
+        "titulo": "Mario Cruz asumirá la dirección de Unidad de Regulación Financiera del Ministerio de Hacienda",
+        "url": "https://www.valoraanalitik.com/primicia-mario-cruz-sera-el-director-de-unidad-de-regulacion-financiera-urf-del-ministerio-de-hacienda/",
+        "resumen": "Cruz también cuenta con experiencia como vicepresidente técnico de Acemi y en la Federación de Aseguradores Colombianos (Fasecolda).",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Mario Cruz será el director de Unidad de Regulación Financiera (URF) del Ministerio de Hacienda",
+        "capturado": "2026-09-17T17:23:08-05:00"
+      },
       {
         "titulo": "Agenda del Congreso de Andesco incluirá servicios públicos, agua, energía, TIC e inversión",
         "url": "https://www.valoraanalitik.com/los-temas-que-marcaran-la-agenda-del-congreso-de-andesco/",
@@ -1125,86 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Blancox fortalece su presencia en el mercado con línea de detergentes líquidos en Colombia: protege la ropa y los colores",
         "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Tributaria de Galán: de esta forma sabrá si pagará más gravámenes el año entrante",
-        "url": "https://www.valoraanalitik.com/reforma-tributaria-de-galan-asi-puede-confirmar-si-debera-pagar-mas-impuestos-el-proximo-ano/",
-        "resumen": "Bogotá cambiaría impuestos y eliminaría dos tributos con nuevo proyecto en el Concejo.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Reforma tributaria de Galán: así puede confirmar si deberá pagar más impuestos el próximo año",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "MinHacienda: elevar tributos es la última opción oficial, sin descartar medidas por ahora",
-        "url": "https://www.valoraanalitik.com/minhacienda-subir-impuestos-seria-la-ultima-opcion-del-gobierno-pero-no-descartamos-nada-en-esta-situacion/",
-        "resumen": "Este sería el plan del gobierno de Abelardo de la Espriella para manejar las finanzas del país en los próximos años.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda: subir impuestos sería la última opción del Gobierno, pero no descartamos nada en esta situación",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "Air Europa habilitará ruta directa entre Barranquilla y Madrid con esta periodicidad",
-        "url": "https://www.valoraanalitik.com/barranquilla-tendra-vuelo-directo-a-madrid-con-air-europa-esta-sera-la-frecuencia/",
-        "resumen": "El Gobierno trabajará con la Alcaldía de Barranquilla para proyectar el Aeropuerto Ernesto Cortissoz como una terminal de alcance internacional.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Barranquilla tendrá vuelo directo a Madrid con Air Europa: esta será la frecuencia",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "Alerta | Junta directiva de Ecopetrol solicitará la salida del presidente encargado Juan Carlos Hurtado",
-        "url": "https://www.valoraanalitik.com/junta-de-ecopetrol-le-pedira-renuncia-a-presidente-e-juan-carlos-hurtado/",
-        "resumen": "Juan Carlos Hurtado, presidente encargado de Ecopetrol.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Junta de Ecopetrol le pedirá renuncia a presidente (e), Juan Carlos Hurtado",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "La multinacional Chevron halla opciones en Argentina para ampliar su mercado gasífero",
-        "url": "https://www.valoraanalitik.com/la-gigante-petrolera-chevron-ve-oportunidades-en-argentina-para-diversificar-su-mercado-de-gas/",
-        "resumen": "La empresa también manifestó que, junto con sus socios, invertirá más de US$7.000 millones para duplicar la producción petrolera en Venezuela en 2031.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "La gigante petrolera Chevron ve oportunidades en Argentina para diversificar su mercado de gas",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "A dos décadas de su estreno, PSE alcanzó máximo de pagos en julio y proyecta cambio tecnológico a 2027",
-        "url": "https://www.valoraanalitik.com/pse-record-transacciones-renovacion/",
-        "resumen": "El botón superó 90 millones de operaciones en su mejor mes desde su creación; ACH alista nuevos servicios para empresas y finanzas abiertas.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Tras 20 años de operación, PSE logró récord de transacciones en julio y prepara renovación tecnológica para 2027",
-        "capturado": "2026-09-14T14:09:36-05:00"
-      },
-      {
-        "titulo": "Reflexión sobre la adquisición de un evento municipal como TEDxRionegro",
-        "url": "https://www.valoraanalitik.com/opinion-que-compra-una-ciudad-con-un-evento-tedxrionegro/",
-        "resumen": "La pregunta que acompaña a estos anuncios es qué gana un territorio con un evento como este. Hay indicadores que lo cuentan.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Opinión | Qué compra una ciudad con un evento: TEDxRionegro",
-        "capturado": "2026-09-14T08:52:05-05:00"
-      },
-      {
-        "titulo": "Cumbre +CTG 2026 en Cartagena reunirá directivos para analizar el futuro creativo",
-        "url": "https://www.valoraanalitik.com/ctg-2026-grandes-lideres-se-reuniran-en-cartagena-para-debatir-las-nuevas-realidades-y-el-futuro-de-la-industria-creativa/",
-        "resumen": "Durante los tres días, serán 60 contenidos que se ofrecen en franjas simultáneas, con una audiencia muy variada que corresponde al ecosistema del sector.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "+CTG 2026: grandes líderes se reunirán en Cartagena para debatir las nuevas realidades y el futuro de la industria creativa",
-        "capturado": "2026-09-14T08:52:05-05:00"
       }
     ]
   }
