@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-16T19:14:47-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-17T00:11:21-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno analiza nuevas obras de reconstrucción en concesiones viales del Valle tras temblor",
+        "url": "https://www.valoraanalitik.com/gobierno-estudia-nuevas-obras-de-reconstruccion-en-concesiones-viales-del-valle-tras-sismo/",
+        "resumen": "La ministra de Transporte anunció que se evalúan adiciones a los contratos para atender las afectaciones, especialmente en el corredor Buga-Buenaventura.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno estudia nuevas obras de reconstrucción en concesiones viales del Valle tras sismo",
+        "capturado": "2026-09-17T00:11:21-05:00"
+      },
+      {
+        "titulo": "Banco de Occidente proyecta moderado avance económico y aumento de la inflación en Colombia este 2026",
+        "url": "https://www.valoraanalitik.com/banco-de-occidente-preve-moderado-crecimiento-economico-y-aceleracion-de-la-inflacion-en-colombia-este-2026/",
+        "resumen": "Para 2027, la entidad estima una aceleración económica hacia el 2,6 %, favorecida por un mayor clima de confianza y dinamismo en la demanda.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Banco de Occidente prevé moderado crecimiento económico y aceleración de la inflación en Colombia este 2026",
+        "capturado": "2026-09-17T00:11:21-05:00"
+      },
+      {
+        "titulo": "Este sería el efecto financiero de la iniciativa de simplificación tributaria del gobierno De la Espriella",
+        "url": "https://www.valoraanalitik.com/este-seria-el-impacto-economico-de-la-propuesta-de-simplificacion-tributaria-del-gobierno-de-la-espriella/",
+        "resumen": "El sistema colombiano cuenta con 19 tributos nacionales, de los cuales únicamente cuatro concentran cerca del 95 % del recaudo total.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Este sería el impacto económico de la propuesta de simplificación tributaria del gobierno De la Espriella",
+        "capturado": "2026-09-17T00:11:21-05:00"
+      },
       {
         "titulo": "MinTrabajo señala que Colpensiones requerirá $58 billones y un déficit de $5 billones para el año 2026",
         "url": "https://www.valoraanalitik.com/mintrabajo-dice-que-colpensiones-necesita-58-billones/",
@@ -573,39 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Green Power, Verano Energy, Amerisur, Parex y Canacol, las compañías detrás de los descubrimientos de petróleo y gas en Colombia",
         "capturado": "2026-09-15T07:34:11-05:00"
-      },
-      {
-        "titulo": "El presupuesto para explorar petróleo y gas en Colombia bajó un 43 % entre 2022 y 2025",
-        "url": "https://www.valoraanalitik.com/inversiones-en-exploracion-de-petroleo-y-gas-disminuyeron-43-en-colombia-entre-2022-y-2025/",
-        "resumen": "La exploración es una fase fundamental para el hallazgo y para la explotación de petróleo y gas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Inversiones en exploración de petróleo y gas disminuyeron 43 % en Colombia entre 2022 y 2025",
-        "capturado": "2026-09-15T07:34:11-05:00"
-      },
-      {
-        "titulo": "Estudio de Promigas indica que la Cordillera Oriental colombiana posee gran potencial no convencional",
-        "url": "https://www.valoraanalitik.com/nuevo-informe-de-gas-de-promigas-revela-que-la-cordillera-oriental-de-colombia-tiene-alto-potencial-de-petroleo-o-gas-con-fracking/",
-        "resumen": "Cálculos de Promigas basados en estudios de la ANH señalaron que la Cordillera Oriental tendría 70,5 % de los recursos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo informe de gas de Promigas revela que la Cordillera Oriental de Colombia tiene alto potencial de petróleo o gas con fracking",
-        "capturado": "2026-09-15T07:34:11-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella detalla el futuro y la vigencia que tendrán las EPS en Colombia",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-explica-que-pasara-con-las-eps-en-colombia-y-si-seguiran-siendo-importantes/",
-        "resumen": "Las EPS en Colombia han dejado en claro que tienen serios problemas en materia de estabilidad financiera",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella explica qué pasará con las EPS en Colombia y si seguirán siendo importantes",
-        "capturado": "2026-09-15T07:34:11-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Precia es la primera entidad colombiana en sumarse como socia corporativa al IVSC",
+        "url": "https://www.valoraanalitik.com/precia-se-convierte-en-el-primer-miembro-corporativo-de-colombia-en-el-ivsc/",
+        "resumen": "La firma fue admitida en el organismo que establece estándares internacionales de valoración y ahora podrá participar en la actualización de estas normas.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Precia se convierte en el primer miembro corporativo de Colombia en el IVSC",
+        "capturado": "2026-09-17T00:11:21-05:00"
+      },
+      {
+        "titulo": "El Festival Cordillera 2026 generó 2.300 millones en parafiscales y tuvo 70.000 asistentes",
+        "url": "https://www.valoraanalitik.com/festival-cordillera-2026-aporto-2-300-millones-en-parafiscales-y-recibio-70-000-asistentes/",
+        "resumen": "El festival también impulsó a la generación de más de 55.000 empleos directos, indirectos e inducidos.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Festival Cordillera 2026 aportó $2.300 millones en parafiscales y recibió 70.000 asistentes",
+        "capturado": "2026-09-17T00:11:21-05:00"
+      },
       {
         "titulo": "Invest in Bogotá lanza manual jurídico dirigido a compañías del exterior interesadas en el país",
         "url": "https://www.valoraanalitik.com/invest-in-bogota-presenta-guia-legal-para-empresas-extranjeras-que-buscan-invertir-en-colombia/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "La tradicional marca de sonido JBL refuerza su apuesta por Colombia y prepara más experiencias de marca",
         "capturado": "2026-09-12T17:05:25-05:00"
-      },
-      {
-        "titulo": "Entrevista a TCC sobre sus apuestas financieras para 2026 y la informalidad como gran desafío del sector",
-        "url": "https://www.valoraanalitik.com/entrevista-tcc-revela-sus-focos-de-inversion-en-2026-y-advierte-que-la-informalidad-es-uno-de-los-mayores-retos-para-el-sector/",
-        "resumen": "Los recursos de TCC están orientados principalmente a fortalecer su infraestructura operativa, tecnología, capacidades de distribución y proyectos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | TCC revela sus focos de inversión en 2026 y advierte que la informalidad es uno de los mayores retos para el sector",
-        "capturado": "2026-09-12T17:05:25-05:00"
-      },
-      {
-        "titulo": "El 87 por ciento de los usuarios en Colombia señala dificultades para recibir sus medicamentos",
-        "url": "https://www.valoraanalitik.com/87-de-usuarios-reporta-problemas-de-acceso-a-medicamentos/",
-        "resumen": "La Defensoría del Pueblo registró 6.289 quejas en el primer semestre de 2026 y alertó por las barreras que persisten en la dispensación.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrega de medicamentos en Colombia: 87 % de usuarios reporta problemas de acceso",
-        "capturado": "2026-09-12T14:35:31-05:00"
       }
     ]
   }
