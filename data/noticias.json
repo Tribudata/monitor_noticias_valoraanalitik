@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-17T10:14:09-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-09-17T14:11:56-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Inflación en Colombia se habría estabilizado en septiembre, un respiro para el bolsillo",
+        "url": "https://www.valoraanalitik.com/buena-noticia-para-el-bolsillo-la-inflacion-colombia-se-habria-estabilizado-en-septiembre/",
+        "resumen": "La inflación en Colombia sigue en riesgo de subir y terminar el año en el 7 %. Esto se sabe.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Buena noticia para el bolsillo de los colombianos: la inflación se habría estabilizado en septiembre",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia supera techo y termina la jornada en 3162,55 pesos",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-dispara-y-cierra-en-3-16255-tras-romper-techo/",
+        "resumen": "La tasa de cambio abrió al alza en $3.130, marcó un mínimo intradiario de $3.119,01 y trepó con fuerza hasta alcanzar un máximo de $3.173,90.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia se dispara y cierra en $3.162,55 tras romper techo",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Agenda del Congreso de Andesco: inversión, agua, energía, TIC y servicios públicos",
+        "url": "https://www.valoraanalitik.com/los-temas-que-marcaran-la-agenda-del-congreso-de-andesco/",
+        "resumen": "Camilo Sánchez, presidente del gremio, anticipa las principales discusiones del encuentro y los retos que enfrenta el sector para recuperar su dinamismo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Servicios públicos, agua, energía, TIC e inversión: los temas que marcarán la agenda del Congreso de Andesco",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Encuesta del BanRep indica que la proyección de inflación para el cierre de 2026 es la mayor en tres años",
+        "url": "https://www.valoraanalitik.com/ahora-proyeccion-de-inflacion-para-cierre-de-2026-en-colombia-es-la-mas-alta-en-tres-anos-encuesta-banrep/",
+        "resumen": "La inflación de septiembre, cuyo dato se conocerá el 7 de octubre, también se movería al alza desde el 6,25 % visto en agosto hasta un 6,33 %.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Proyección de inflación para cierre de 2026 en Colombia es la más alta en tres años: encuesta BanRep",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Joquín Gutiérrez sería anunciado hoy por la junta de Ecopetrol como nuevo presidente",
+        "url": "https://www.valoraanalitik.com/junta-de-ecopetrol-anunciaria-hoy-a-joaquin-gutierrez-como-nuevo-presidente/",
+        "resumen": "Este es el perfil de quién lideraría la transformación de Ecopetrol, que anunció desde campaña Abelardo de la Espriella.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Junta de Ecopetrol anunciaría hoy a Joaquín Gutiérrez como nuevo presidente de la empresa",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Consumo de los hogares en Colombia subió en agosto, aunque sigue desacelerándose",
+        "url": "https://www.valoraanalitik.com/gasto-de-los-hogares-colombianos-repunto-en-agosto-pero-mantiene-su-ritmo-de-desaceleracion/",
+        "resumen": "Pese a resistir mejor la caída estacional de mitad de año, el gasto de los hogares se ubica por debajo de la cifra registrada en 2025.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Gasto de los hogares colombianos repuntó en agosto, pero mantiene su ritmo de desaceleración",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Corferias albergará la FIB 2026 por cinco días con 500 expositores y 40 charlas",
+        "url": "https://www.valoraanalitik.com/fib-2026-corferias-tecnologia-industrial/",
+        "resumen": "Expositores nacionales e internacionales estarán en la Feria Internacional Industrial de Bogotá con soluciones dirigidas a diferentes sectores de la industria.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Cinco días de tecnología industrial en Corferias: la FIB 2026 reunirá más de 500 expositores y 40 charlas técnicas",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Alcalde Galán confirma que Bogotá no sufrirá cortes de agua por El Niño",
+        "url": "https://www.valoraanalitik.com/bogota-no-tendra-racionamiento-de-agua-durante-fenomeno-de-el-nino-alcalde-galan/",
+        "resumen": "El alcalde de Bogotá, Carlos Fernando Galán, afirmó que no habrá posibilidad de racionamiento de agua durante el fenómeno de El Niño en la capital.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá no tendrá racionamiento de agua durante fenómeno de El Niño: alcalde Galán",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Gobiernos de Colombia y Estados Unidos conversan sobre comprar gas venezolano",
+        "url": "https://www.valoraanalitik.com/colombia-y-ee-uu-avanzan-en-dialogos-sobre-importacion-de-gas-desde-venezuela/",
+        "resumen": "El vicepresidente Restrepo afirmó que en los últimos tres años llegó a 1,6 %. Estableció que la meta es crecer a 6 % del PIB.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia y EE. UU. avanzan en diálogos sobre importación de gas desde Venezuela",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Primicia de De La Espriella sobre gran proyecto portuario en La Guajira para cruceros",
+        "url": "https://www.valoraanalitik.com/primicia-la-megaobra-maritima-que-de-la-espriella-anunciara-hoy-en-la-guajira-para-atraer-cruceros-internacionales/",
+        "resumen": "La nueva infraestructura busca transformar la oferta turística del departamento con la permanencia de pasajeros y cruceros.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | La megaobra marítima que De La Espriella anunciará hoy en La Guajira para atraer cruceros internacionales",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "El estratega de Abelardo de La Espriella, Carlos Suárez, asume como presidente de Junta Directiva de Ecopetrol",
+        "url": "https://www.valoraanalitik.com/relevante-carlos-suarez-estratega-de-abelardo-de-la-espriella-es-nuevo-presidente-de-junta-directiva-de-ecopetrol/",
+        "resumen": "La elección de Suárez marca su llegada a uno de los principales órganos de decisión de la empresa más grande del país.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Carlos Suárez, estratega de Abelardo de La Espriella, es nuevo presidente de Junta Directiva de Ecopetrol",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
       {
         "titulo": "Así se asignaría el gasto público regional en Colombia para 2027 y estos son los grandes proyectos",
         "url": "https://www.valoraanalitik.com/asi-se-repartiria-la-inversion-publica-en-las-regiones-de-colombia-en-2027-estos-megaproyectos-serian-financiados/",
@@ -493,119 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "GeoPark descarta por ahora listarse en la Bolsa de Colombia y mantendrá acción en Wall Street",
         "capturado": "2026-09-15T18:37:37-05:00"
-      },
-      {
-        "titulo": "Alertas por presupuesto colombiano: cerca de la mitad de la inversión comprometida no es obra aún",
-        "url": "https://www.valoraanalitik.com/presupuesto-de-colombia-enciende-alertas-casi-la-mitad-de-la-inversion-publica-comprometida-aun-no-se-convierte-en-obras/",
-        "resumen": "El presupuesto público enfrenta un reto de ejecución: hay recursos comprometidos que todavía no avanzan hacia resultados concretos para los colombianos.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Presupuesto de Colombia enciende alertas: casi la mitad de la inversión pública comprometida aún no se convierte en obras",
-        "capturado": "2026-09-15T18:37:37-05:00"
-      },
-      {
-        "titulo": "Exclusivo | Ecopetrol adoptará plan de austeridad para eficientar recursos tras la gestión de Roa",
-        "url": "https://www.valoraanalitik.com/ecopetrol-tendra-plan-de-austeridad-para-optimizar-recursos-tras-administracion-de-roa/",
-        "resumen": "Este proyecto será de obligatorio cumplimiento para Ecopetrol y sus filiales, tales como Hocol, Reficar o Cenit.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Exclusivo | Ecopetrol tendrá plan de austeridad para optimizar recursos tras administración de Roa",
-        "capturado": "2026-09-15T18:37:37-05:00"
-      },
-      {
-        "titulo": "En tres etapas Grupo Argos prevé su ingreso a Venezuela para la expansión de Cementos Argos",
-        "url": "https://www.valoraanalitik.com/grupo-argos-prepara-entrada-a-venezuela-en-tres-fases-asi-crecera-cementos-argos-en-ese-mercado/",
-        "resumen": "Exportaciones, vía marítima y activos: el plan de tres fases de Grupo Argos para entrar a Venezuela.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos prepara entrada a Venezuela en tres fases: así crecerá Cementos Argos en ese mercado",
-        "capturado": "2026-09-15T18:37:37-05:00"
-      },
-      {
-        "titulo": "De la Espriella entrega primer hogar en Quibdó y Constructora Capital arreglará el malecón",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-entrego-primera-vivienda-en-quibdo-y-constructora-capital-adecuara-el-malecon/",
-        "resumen": "El despliegue continuará esta semana con la entrega de una segunda vivienda en Ciudad Bolívar, Antioquia.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella entregó primera vivienda en Quibdó y Constructora Capital adecuará el malecón",
-        "capturado": "2026-09-15T16:06:06-05:00"
-      },
-      {
-        "titulo": "Gobernadora del Chocó explica gestiones con el Ejecutivo para reconstrucción, paso bioceánico y Obras por Impuestos",
-        "url": "https://www.valoraanalitik.com/gobernadora-del-choco-detalla-avances-con-el-gobierno-nacional-para-la-reconstruccion-apuesta-por-el-paso-bioceanico-y-obras-por-impuestos/",
-        "resumen": "Sobre los recursos necesarios para atender la emergencia y reconstruir el departamento, la gobernadora estimó que se requerirían cerca de $5 billones.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobernadora del Chocó detalla avances con el Gobierno Nacional para la reconstrucción, apuesta por el paso bioceánico y Obras por Impuestos",
-        "capturado": "2026-09-15T16:06:06-05:00"
-      },
-      {
-        "titulo": "Invertir en bolsa desde Colombia: solo el 1,16 % lo hace y estas son las pautas para iniciar",
-        "url": "https://www.valoraanalitik.com/quiere-invertir-en-bolsa-desde-colombia-solo-el-116-lo-hace-y-estas-son-las-claves-para-empezar/",
-        "resumen": "Invertir en bolsa todavía es poco común en Colombia. Estas son las principales claves para quienes buscan dar el primer paso y diversificar su patrimonio.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "¿Quiere invertir en bolsa desde Colombia? Solo el 1,16 % lo hace y estas son las claves para empezar",
-        "capturado": "2026-09-15T16:06:06-05:00"
-      },
-      {
-        "titulo": "Vicepresidente Restrepo muestra plan para llevar el PIB de Colombia a un crecimiento del 6 %",
-        "url": "https://www.valoraanalitik.com/vicepresidente-restrepo-presenta-hoja-de-ruta-para-que-el-pib-de-colombia-crezca-al-6/",
-        "resumen": "Incluye la participación de los ministerios y el apoyo del sector privado, actores del sector productivo y la ciudadanía.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Vicepresidente Restrepo presenta hoja de ruta para que el PIB de Colombia crezca al 6 %",
-        "capturado": "2026-09-15T16:06:06-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia subió y terminó en $3.117 tras sesión de fuerte volatilidad",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-movio-al-alza-y-cerro-en-3-117-tras-jornada-de-alta-volatilidad/",
-        "resumen": "La firmeza global de la divisa estadounidense terminó imponiéndose al final de la sesión, llevando la tasa de cambio a un precio máximo de $3.117.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia se movió al alza y cerró en $3.117 tras jornada de alta volatilidad",
-        "capturado": "2026-09-15T16:06:06-05:00"
-      },
-      {
-        "titulo": "Conformación de la Junta Directiva de Ecopetrol encargada de designar al nuevo presidente y posible fecha",
-        "url": "https://www.valoraanalitik.com/asi-quedo-la-junta-directiva-de-ecopetrol-que-elegira-al-nuevo-presidente-esta-seria-la-fecha-de-designacion/",
-        "resumen": "Fuentes cercanas a la compañía le confirmaron que la elección del nuevo presidente se realizaría en la semana del 21 de septiembre.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Así quedó la Junta Directiva de Ecopetrol que elegirá al nuevo presidente: esta sería la fecha de designación",
-        "capturado": "2026-09-15T16:06:06-05:00"
-      },
-      {
-        "titulo": "La Corte divulga el fallo total de la reforma pensional y la Cámara cuenta con 30 días para corregir fallas",
-        "url": "https://www.valoraanalitik.com/corte-publica-sentencia-completa-sobre-la-reforma-pensional-camara-tendra-30-dias-para-subsanar-vicios/",
-        "resumen": "El Tribunal detalló que, en caso de ser necesario un trámite de conciliación entre el Senado y la Cámara, este deberá surtirse en este legislatura.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Corte publica sentencia completa sobre la reforma pensional; Cámara tendrá 30 días para subsanar vicios",
-        "capturado": "2026-09-15T16:06:06-05:00"
-      },
-      {
-        "titulo": "Revolut obtuvo permiso bancario en Colombia y así operará en el territorio nacional",
-        "url": "https://www.valoraanalitik.com/revolut-licencia-banco-colombia/",
-        "resumen": "El nuevo banco planea abrir al público a finales de 2026 o comienzos de 2027; tendrá cajeros, corresponsales y planes para sus clientes.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Revolut recibió licencia para operar como banco en Colombia: así será su llegada al país",
-        "capturado": "2026-09-15T12:35:31-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Agenda del Congreso de Andesco incluirá servicios públicos, agua, energía, TIC e inversión",
+        "url": "https://www.valoraanalitik.com/los-temas-que-marcaran-la-agenda-del-congreso-de-andesco/",
+        "resumen": "Camilo Sánchez, presidente del gremio, anticipa las principales discusiones del encuentro y los retos que enfrenta el sector para recuperar su dinamismo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Servicios públicos, agua, energía, TIC e inversión: los temas que marcarán la agenda del Congreso de Andesco",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Junta directiva de Ecopetrol nombraría hoy a Joaquín Gutiérrez como presidente de la compañía",
+        "url": "https://www.valoraanalitik.com/junta-de-ecopetrol-anunciaria-hoy-a-joaquin-gutierrez-como-nuevo-presidente/",
+        "resumen": "Este es el perfil de quién lideraría la transformación de Ecopetrol, que anunció desde campaña Abelardo de la Espriella.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Junta de Ecopetrol anunciaría hoy a Joaquín Gutiérrez como nuevo presidente de la empresa",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "FIB 2026 en Corferias reunirá más de 500 expositores y 40 charlas en cinco días de tecnología",
+        "url": "https://www.valoraanalitik.com/fib-2026-corferias-tecnologia-industrial/",
+        "resumen": "Expositores nacionales e internacionales estarán en la Feria Internacional Industrial de Bogotá con soluciones dirigidas a diferentes sectores de la industria.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Cinco días de tecnología industrial en Corferias: la FIB 2026 reunirá más de 500 expositores y 40 charlas técnicas",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Alcalde Galán confirma que Bogotá no sufrirá cortes de agua en el fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/bogota-no-tendra-racionamiento-de-agua-durante-fenomeno-de-el-nino-alcalde-galan/",
+        "resumen": "El alcalde de Bogotá, Carlos Fernando Galán, afirmó que no habrá posibilidad de racionamiento de agua durante el fenómeno de El Niño en la capital.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá no tendrá racionamiento de agua durante fenómeno de El Niño: alcalde Galán",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
+      {
+        "titulo": "Carlos Suárez, estratega de Abelardo de La Espriella, asume como presidente de junta de Ecopetrol",
+        "url": "https://www.valoraanalitik.com/relevante-carlos-suarez-estratega-de-abelardo-de-la-espriella-es-nuevo-presidente-de-junta-directiva-de-ecopetrol/",
+        "resumen": "La elección de Suárez marca su llegada a uno de los principales órganos de decisión de la empresa más grande del país.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Carlos Suárez, estratega de Abelardo de La Espriella, es nuevo presidente de Junta Directiva de Ecopetrol",
+        "capturado": "2026-09-17T14:11:56-05:00"
+      },
       {
         "titulo": "GeoPark busca más fracking en Vaca Muerta tras alcanzar mejor puntaje en nueva ronda",
         "url": "https://www.valoraanalitik.com/geopark-va-por-mas-fracking-en-vaca-muerta-tras-lograr-mayor-puntaje-en-nueva-ronda/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "+CTG 2026: grandes líderes se reunirán en Cartagena para debatir las nuevas realidades y el futuro de la industria creativa",
         "capturado": "2026-09-14T08:52:05-05:00"
-      },
-      {
-        "titulo": "Energía nuclear: analizan al Eje Cafetero como posible sede de estudio",
-        "url": "https://www.valoraanalitik.com/energia-nuclear-el-eje-cafetero-podria-ser-el-escenario-para-estudiar-su-viabilidad/",
-        "resumen": "Para investigadores de la Universidad Nacional, esto también es un asunto de accesibilidad al sistema energético en las regiones más vulnerables.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Energía nuclear: El Eje Cafetero podría ser el escenario para estudiar su viabilidad",
-        "capturado": "2026-09-14T08:52:05-05:00"
-      },
-      {
-        "titulo": "Llega a Colombia una fintech que ofrecerá ganancias en dólares y otras ventajas clave",
-        "url": "https://www.valoraanalitik.com/nueva-fintech-aterriza-en-colombia-dara-rendimientos-en-dolares-y-otros-importantes-beneficios/",
-        "resumen": "La entrada de la compañía al mercado colombiano ocurre en un contexto de fuerte apreciación del peso frente al dólar.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Nueva fintech aterriza en Colombia: dará rendimientos en dólares y otros importantes beneficios",
-        "capturado": "2026-09-13T16:03:45-05:00"
-      },
-      {
-        "titulo": "OpenAI aplaza su ingreso a la Bolsa debido a peligros en la seguridad de la IA",
-        "url": "https://www.valoraanalitik.com/openai-retrasa-su-salida-a-bolsa-por-cuenta-de-los-riesgos-en-seguridad-de-la-ia/",
-        "resumen": "Sam Altman, CEO de la compañía, explicó que sería poco prudente dar este paso ante las alarmas que han surgido frente al tema.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "OpenAI retrasa su salida a Bolsa por cuenta de los riesgos en seguridad de la IA",
-        "capturado": "2026-09-13T16:03:45-05:00"
-      },
-      {
-        "titulo": "Entrevista | Gerente general de Farizon: la red de carga en carretera se quedó en escala de automóvil",
-        "url": "https://www.valoraanalitik.com/farizon-entrevista-carga-carretera-camiones/",
-        "resumen": "Felipe Negret, gerente general de Farizon, habla de un país que electrificó la última milla y dejó la carga pesada esperando infraestructura.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Gerente general de Farizon: la red de carga en carretera se quedó en escala de automóvil",
-        "capturado": "2026-09-13T13:01:31-05:00"
-      },
-      {
-        "titulo": "Entrevista | Antioquia prepara billonaria apuesta de Obras por Impuestos para reconstruir zonas afectadas del terremoto",
-        "url": "https://www.valoraanalitik.com/entrevista-antioquia-prepara-billonaria-apuesta-de-obras-por-impuestos-para-reconstruir-zonas-afectadas-del-terremoto/",
-        "resumen": "Juliana Velásquez, presidenta ejecutiva de ProAntioquia, explicó los alcances de Obras por Impuestos para la reconstrucción de Colombia.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Antioquia prepara billonaria apuesta de Obras por Impuestos para reconstruir zonas afectadas del terremoto",
-        "capturado": "2026-09-13T13:01:31-05:00"
       }
     ]
   }
