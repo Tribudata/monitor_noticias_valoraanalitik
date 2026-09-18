@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-17T19:42:03-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-18T00:42:52-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "De la Espriella apoya la iniciativa de mover $100.000 millones de la JEP hacia la Rama Judicial",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-respalda-propuesta-para-trasladar-100-000-millones-de-jep-a-la-rama-judicial/",
+        "resumen": "La iniciativa busca financiar más jueces y despachos para atender el rezago de cerca de 2,2 millones de procesos pendientes de decisión.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella respalda propuesta para trasladar $100.000 millones de la JEP a la Rama Judicial",
+        "capturado": "2026-09-18T00:42:52-05:00"
+      },
+      {
+        "titulo": "De la Espriella avala $65.000 millones destinados a importante carretera en La Guajira",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-confirma-65-000-millones-para-via-clave-de-la-guajira/",
+        "resumen": "El Gobierno De la Espriella anunció recursos para una vía estratégica del sur de La Guajira, mientras prepara más proyectos de infraestructura en la región.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella confirma $65.000 millones para vía clave de La Guajira",
+        "capturado": "2026-09-18T00:42:52-05:00"
+      },
       {
         "titulo": "Colombia Fintech informa que sus asociados destinaran 4,3 billones de pesos para financiamiento y expansion",
         "url": "https://www.valoraanalitik.com/relevante-colombia-fintech-anuncia-43-billones-de-sus-miembros-para-fondear-empresas-y-jalonar-crecimiento/",
@@ -582,26 +602,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Billetera dale! (Grupo Aval) lanza compra-venta de dólares y euros digitales con rentabilidad; habilitará remesas",
-        "capturado": "2026-09-16T13:21:08-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo renueva sus cuatro delegados ante la Junta Directiva de la Cámara de Comercio de Bogotá",
-        "url": "https://www.valoraanalitik.com/gobierno-representantes-camara-bogota/",
-        "resumen": "Los nuevos miembros principales son Gregory Schaller, Jaime Cabal, Lewis Grosso y Luis Alberto Arango, según cuatro decretos publicados por MinComercio.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno cambia sus cuatro representantes en la Junta Directiva de la Cámara de Comercio de Bogotá",
-        "capturado": "2026-09-16T13:21:08-05:00"
-      },
-      {
-        "titulo": "Alerta | La administración Trump conserva la descertificación de Colombia en el combate antidrogas",
-        "url": "https://www.valoraanalitik.com/atencion-gobierno-trump-mantiene-descertificacion-a-colombia-en-la-lucha-contra-el-narcotrafico/",
-        "resumen": "El gobierno De la Espriella ya adelanta acercamientos con Estados Unidos para demostrar importantes avances en esa materia",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Gobierno Trump mantiene descertificación a Colombia en la lucha contra el narcotráfico",
         "capturado": "2026-09-16T13:21:08-05:00"
       }
     ],
