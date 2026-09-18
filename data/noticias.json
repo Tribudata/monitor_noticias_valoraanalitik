@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-18T16:09:25-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-18T18:31:21-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Transparencia por Colombia señala peligros de falta de claridad en contratos para levantar zona tras sismo",
+        "url": "https://www.valoraanalitik.com/transparencia-por-colombia-advierte-riesgos-de-opacidad-en-la-contratacion-para-la-reconstruccion-tras-el-terremoto/",
+        "resumen": "La entidad alerta por ausencia de criterios públicos y verificables para la priorización de proyectos y beneficiarios.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Transparencia por Colombia advierte riesgos de opacidad en la contratación para la reconstrucción tras el terremoto",
+        "capturado": "2026-09-18T18:31:21-05:00"
+      },
+      {
+        "titulo": "Manuel Fernández Ariza es el nuevo presidente de la Junta Directiva de Bancóldex nombrado por la entidad",
+        "url": "https://www.valoraanalitik.com/manuel-fernandez-ariza-llega-a-la-presidencia-de-bancoldex/",
+        "resumen": "El directivo cuenta con 24 años de experiencia en el sector público y privado en diferentes cargos de gerencia y diseño de proyectos.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Junta Directiva de Bancóldex designó a Manuel Fernández Ariza como nuevo presidente de la entidad",
+        "capturado": "2026-09-18T18:31:21-05:00"
+      },
+      {
+        "titulo": "Aplicación paga hasta $50 extra por cada dólar pasado a pesos",
+        "url": "https://www.valoraanalitik.com/con-esta-app-puede-recibir-hasta-50-mas-por-cada-dolar-que-convierta-a-pesos/",
+        "resumen": "Recibir dólares desde el exterior puede dejar más pesos colombianos con este cambio. Conozca cómo funciona y cuánto podría ganar según el monto.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Con esta app puede recibir hasta $50 más por cada dólar que convierta a pesos",
+        "capturado": "2026-09-18T18:31:21-05:00"
+      },
+      {
+        "titulo": "Gobierno ofrece seguros, créditos y devolución de ahorros a damnificados por sismo",
+        "url": "https://www.valoraanalitik.com/gobierno-habilita-creditos-seguros-y-entrega-de-ahorros-para-afectados-por-terremoto/",
+        "resumen": "Con estas medidas, el Gobierno busca facilitar el acceso a liquidez y financiación para las familias y empresas afectadas.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno habilita créditos, seguros y entrega de ahorros para afectados por terremoto",
+        "capturado": "2026-09-18T18:31:21-05:00"
+      },
+      {
+        "titulo": "Administración impone tope a cánones de arrendamiento tras sismo y así se fijarán las tarifas",
+        "url": "https://www.valoraanalitik.com/gobierno-pone-limite-a-los-arriendos-tras-el-terremoto-asi-quedaran-los-precios/",
+        "resumen": "Un nuevo decreto cambió temporalmente las reglas de los arriendos en las zonas afectadas por el terremoto. Estos son sus alcances.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno pone límite a los arriendos tras el terremoto: así quedarán los precios",
+        "capturado": "2026-09-18T18:31:21-05:00"
+      },
       {
         "titulo": "Cámaras de comercio destinarán fondos a negocios golpeados por sismo y fijan más ayudas",
         "url": "https://www.valoraanalitik.com/camaras-de-comercio-podran-usar-recursos-para-ayudar-a-empresas-afectadas-por-terremoto/",
@@ -553,59 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "GeoPark va por más fracking en Vaca Muerta tras lograr mayor puntaje en nueva ronda",
         "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "Primicia | Lulo Bank llega al sector corporativo con factoring y otros servicios para empresas",
-        "url": "https://www.valoraanalitik.com/lulo-bank-entra-de-lleno-en-la-banca-empresarial-factoring-mas-servicios/",
-        "resumen": "Lulo Empresas ya tiene 194 compañías vinculadas y ha desembolsado cerca de $100.000 millones en soluciones de trabajo y factoring.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Lulo Bank entra de lleno en la banca empresarial: ofrecerá factoring y más servicios corporativos",
-        "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia avanza a 3131 pesos por alza de tasas de la FED y expectativas diplomáticas",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sube-a-3-131-tras-aumento-de-tasas-de-la-fed-y-expectativas-de-avances-diplomaticos-en-medio-oriente/",
-        "resumen": "El dólar abrió la jornada en $3.130 y se ubica en sus primeras operaciones en $3.131,05, alineándose con la tendencia de la divisa estadounidense.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia sube a $3.131 tras aumento de tasas de la FED y expectativas de avances diplomáticos en Medio Oriente",
-        "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "Iván Duque quedará al frente de panel en la Cámara de Comercio Internacional",
-        "url": "https://www.valoraanalitik.com/ivan-duque-asumira-liderazgo-en-panel-de-la-camara-de-comercio-internacional/",
-        "resumen": "La Cámara de Comercio Internacional (CCI) representa institucionalmente a más de 45 millones de empresas en más de 170 países.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Iván Duque asumirá liderazgo en panel de la Cámara de Comercio Internacional",
-        "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "Video | Indicador MSCI Colcap baja durante cuatro días seguidos",
-        "url": "https://www.valoraanalitik.com/indice-msci-colcap-retrocede-por-cuarta-jornada-consecutiva/",
-        "resumen": "El índice MSCI Colcap de la bolsa de Colombia finalizó la jornada en 2.511,76 puntos",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Video | Índice MSCI Colcap retrocede por cuarta jornada consecutiva",
-        "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "BeatHub compra la mitad restante del Movistar Arena y toma el control total de su funcionamiento",
-        "url": "https://www.valoraanalitik.com/beathub-adquiere-el-50-restante-del-movistar-arena-y-consolida-el-100-de-su-operacion/",
-        "resumen": "Uno de los elementos centrales de la estrategia será la operación simultánea del Movistar Arena en Bogotá y la próxima apertura de DAVIarena en Medellín.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "BeatHub adquiere el 50 % restante del Movistar Arena y consolida el 100 % de su operación",
-        "capturado": "2026-09-17T10:14:09-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Manuel Fernández Ariza fue nombrado como presidente de Bancóldex por su Junta Directiva",
+        "url": "https://www.valoraanalitik.com/manuel-fernandez-ariza-llega-a-la-presidencia-de-bancoldex/",
+        "resumen": "El directivo cuenta con 24 años de experiencia en el sector público y privado en diferentes cargos de gerencia y diseño de proyectos.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Junta Directiva de Bancóldex designó a Manuel Fernández Ariza como nuevo presidente de la entidad",
+        "capturado": "2026-09-18T18:31:21-05:00"
+      },
       {
         "titulo": "Cámaras de comercio destinarán fondos para asistir a negocios damnificados por sismo y fijan ayudas",
         "url": "https://www.valoraanalitik.com/camaras-de-comercio-podran-usar-recursos-para-ayudar-a-empresas-afectadas-por-terremoto/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Más allá de la sala de reuniones: así busca The Brown transformar la experiencia corporativa",
         "capturado": "2026-09-15T16:06:06-05:00"
-      },
-      {
-        "titulo": "DGroupe presenta herramienta para cambiar la gestión de eventos en Colombia",
-        "url": "https://www.valoraanalitik.com/dgroupe-lanza-plataforma-que-busca-transformar-la-operacion-de-eventos-en-colombia/",
-        "resumen": "La solución integra finanzas, logística, inventarios, equipos, incidencias, inteligencia de negocios, clima y geolocalización en un solo ecosistema.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "D’Groupe lanza plataforma que busca transformar la operación de eventos en Colombia",
-        "capturado": "2026-09-15T12:35:31-05:00"
       }
     ]
   }
