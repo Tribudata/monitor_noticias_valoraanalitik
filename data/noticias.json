@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-17T17:23:08-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-09-17T19:42:03-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Colombia Fintech informa que sus asociados destinaran 4,3 billones de pesos para financiamiento y expansion",
+        "url": "https://www.valoraanalitik.com/relevante-colombia-fintech-anuncia-43-billones-de-sus-miembros-para-fondear-empresas-y-jalonar-crecimiento/",
+        "resumen": "Así lo confirmó el presidente de Colombia Fintech al cierre de la primera jornada del Latam Fintech Market 2026.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Colombia Fintech anuncia $4,3 billones de sus miembros para fondear empresas y jalonar crecimiento",
+        "capturado": "2026-09-17T19:42:03-05:00"
+      },
+      {
+        "titulo": "Ecopetrol revela la conformacion y los nombres de los integrantes de sus nuevos comites directivos",
+        "url": "https://www.valoraanalitik.com/ecopetrol-confirma-como-quedaron-los-nuevos-comites-de-su-junta-directiva-estos-son-sus-integrantes/",
+        "resumen": "Ecopetrol definió cómo quedarán conformados los seis comités que respaldan las decisiones de la Junta. Lea los detalles.",
+        "autor": "",
+        "subseccion": "Petróleo",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol confirma cómo quedaron los nuevos comités de su Junta Directiva: estos son sus integrantes",
+        "capturado": "2026-09-17T19:42:03-05:00"
+      },
+      {
+        "titulo": "Vicepresidente Jose Manuel Restrepo comunica la llegada de la Milagro Week a Asia tras Europa y Latinoamerica",
+        "url": "https://www.valoraanalitik.com/vicepresidente-restrepo-milagro-week-asia-sumaran-europa-america-latina/",
+        "resumen": "La primera edición de este formato se realizará en Nueva York en los próximos días. Buscan atraer inversión en sectores clave.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Vicepresidente José Manuel Restrepo anuncia «Milagro Week» en Asia: se suma a Europa y América Latina",
+        "capturado": "2026-09-17T19:42:03-05:00"
+      },
+      {
+        "titulo": "Superavit y crecimiento de Olimpica en el semestre junto con anuncios de precios y nuevas tiendas",
+        "url": "https://www.valoraanalitik.com/olimpica-dispara-utilidades-en-el-primer-semestre-y-acelera-expansion-anuncia-novedades-en-precios-y-aperturas/",
+        "resumen": "Olímpica cerró el primer semestre con resultados financieros positivos y ahora prepara nuevos movimientos para fortalecer su presencia en el país.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Olímpica dispara utilidades en el primer semestre y acelera expansión: anuncia novedades en precios y aperturas",
+        "capturado": "2026-09-17T19:42:03-05:00"
+      },
+      {
+        "titulo": "Nueva sentencia ampara a los clientes y obliga a las entidades bancarias a asumir fraudes con tarjetas",
+        "url": "https://www.valoraanalitik.com/bancos-tendran-que-responder-por-fraudes-con-tarjetas-en-estos-casos-nuevo-fallo-protege-a-los-usuarios/",
+        "resumen": "Un fallo de la Superfinanciera puso el foco en lo que deben hacer los bancos cuando aparecen compras que el cliente asegura no haber realizado.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Bancos tendrán que responder por fraudes con tarjetas en estos casos: nuevo fallo protege a los usuarios",
+        "capturado": "2026-09-17T19:42:03-05:00"
+      },
       {
         "titulo": "Colombia prepara tres subastas eléctricas para afianzar el sistema: cronograma y proyecciones",
         "url": "https://www.valoraanalitik.com/colombia-alista-tres-subastas-de-energia-para-reforzar-estabilidad-del-sistema-fechas-estimadas-y-planes/",
@@ -553,59 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Atención | Gobierno Trump mantiene descertificación a Colombia en la lucha contra el narcotráfico",
         "capturado": "2026-09-16T13:21:08-05:00"
-      },
-      {
-        "titulo": "Codirector Villamizar avisa que los tipos de interés no pueden alterarse con prisa sin efectos",
-        "url": "https://www.valoraanalitik.com/codirector-villamizar-advierte-que-las-tasas-de-interes-no-se-pueden-mover-rapidamente-sin-consecuencias/",
-        "resumen": "El economista insistió en que para lograr sostenibilidad en la senda de crecimiento, la estabilidad de precios resulta un prerrequisito indispensable.",
-        "autor": "",
-        "subseccion": "Banco de la republica",
-        "publicacion": "",
-        "titulo_fuente": "Codirector Villamizar advierte que las tasas de interés no se pueden mover rápidamente sin consecuencias",
-        "capturado": "2026-09-16T13:21:08-05:00"
-      },
-      {
-        "titulo": "El optimismo de los compradores colombianos bajó en agosto y retornó a cifras similares a las de abril",
-        "url": "https://www.valoraanalitik.com/confianza-del-consumidor-en-colombia-se-desacelero-en-agosto-y-volvio-a-niveles-cercanos-a-los-de-abril/",
-        "resumen": "A pesar de la moderación mensual, Fedesarrollo destacó que el balance sigue estando por encima del registrado en agosto de 2025.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Confianza del consumidor en Colombia se desaceleró en agosto y volvió a niveles cercanos a los de abril",
-        "capturado": "2026-09-16T09:19:39-05:00"
-      },
-      {
-        "titulo": "Los biocombustibles registraron cerca de $25 billones en cinco años y estas empresas mandan en el rubro",
-        "url": "https://www.valoraanalitik.com/biocombustibles-movieron-unos-25-billones-en-los-ultimos-cinco-anos-estas-son-las-empresas-que-lideran-el-sector/",
-        "resumen": "Algunas de las principales compañías del sector son Incauca, Providencia, Manuelita, BioD, Ecodiesel, BioSC, entre otras.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Biocombustibles movieron unos $25 billones en los últimos cinco años: estas son las empresas que lideran el sector",
-        "capturado": "2026-09-16T09:19:39-05:00"
-      },
-      {
-        "titulo": "La tasa de cambio en Colombia se frena en $3.110 a la espera del tipo de interés de la Fed",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-estabiliza-en-3-110-a-la-espera-de-la-decision-de-tasas-de-la-reserva-federal/",
-        "resumen": "Mientras tanto, los precios internacionales del crudo toman un respiro tras un rally de dos días.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia se estabiliza en $3.110 a la espera de la decisión de tasas de la Reserva Federal",
-        "capturado": "2026-09-16T09:19:39-05:00"
-      },
-      {
-        "titulo": "Entrevista | BioD, Bioenergy y Oleoflores encabezan las nuevas inversiones en biocombustibles en el país",
-        "url": "https://www.valoraanalitik.com/biod-bioenergy-y-oleoflores-lideran-nuevas-inversiones-en-biocombustibles-en-colombia/",
-        "resumen": "Las tres compañías realizarán inversiones por cerca de US$110 millones para ampliar la capacidad de producción de biocombustibles en Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | BioD, Bioenergy y Oleoflores lideran nuevas inversiones en biocombustibles en Colombia",
-        "capturado": "2026-09-16T09:19:39-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Colombia Fintech informa que sus asociados destinan 4,3 billones para financiar empresas y crecer",
+        "url": "https://www.valoraanalitik.com/relevante-colombia-fintech-anuncia-43-billones-de-sus-miembros-para-fondear-empresas-y-jalonar-crecimiento/",
+        "resumen": "Así lo confirmó el presidente de Colombia Fintech al cierre de la primera jornada del Latam Fintech Market 2026.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Colombia Fintech anuncia $4,3 billones de sus miembros para fondear empresas y jalonar crecimiento",
+        "capturado": "2026-09-17T19:42:03-05:00"
+      },
+      {
+        "titulo": "Ecopetrol revela la conformación y los nombres de los integrantes de sus nuevos comités directivos",
+        "url": "https://www.valoraanalitik.com/ecopetrol-confirma-como-quedaron-los-nuevos-comites-de-su-junta-directiva-estos-son-sus-integrantes/",
+        "resumen": "Ecopetrol definió cómo quedarán conformados los seis comités que respaldan las decisiones de la Junta. Lea los detalles.",
+        "autor": "",
+        "subseccion": "Petróleo",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol confirma cómo quedaron los nuevos comités de su Junta Directiva: estos son sus integrantes",
+        "capturado": "2026-09-17T19:42:03-05:00"
+      },
+      {
+        "titulo": "Vicepresidente José Manuel Restrepo comunica la Milagro Week en Asia junto a Europa y América Latina",
+        "url": "https://www.valoraanalitik.com/vicepresidente-restrepo-milagro-week-asia-sumaran-europa-america-latina/",
+        "resumen": "La primera edición de este formato se realizará en Nueva York en los próximos días. Buscan atraer inversión en sectores clave.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Vicepresidente José Manuel Restrepo anuncia «Milagro Week» en Asia: se suma a Europa y América Latina",
+        "capturado": "2026-09-17T19:42:03-05:00"
+      },
+      {
+        "titulo": "Olímpica incrementa ganancias semestrales y acelera crecimiento con anuncios en precios y aperturas",
+        "url": "https://www.valoraanalitik.com/olimpica-dispara-utilidades-en-el-primer-semestre-y-acelera-expansion-anuncia-novedades-en-precios-y-aperturas/",
+        "resumen": "Olímpica cerró el primer semestre con resultados financieros positivos y ahora prepara nuevos movimientos para fortalecer su presencia en el país.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Olímpica dispara utilidades en el primer semestre y acelera expansión: anuncia novedades en precios y aperturas",
+        "capturado": "2026-09-17T19:42:03-05:00"
+      },
       {
         "titulo": "Colombia prepara tres subastas eléctricas para asegurar firmeza en la red: cronograma y proyectos",
         "url": "https://www.valoraanalitik.com/colombia-alista-tres-subastas-de-energia-para-reforzar-estabilidad-del-sistema-fechas-estimadas-y-planes/",
@@ -1164,46 +1204,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Fallo clave de la Corte Suprema aclara cuándo un accidente laboral puede hacer que una empresa pague indemnización",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Primicia | Conocida aerolínea sorprenderá a pasajeros con tiquetes a cero pesos",
-        "url": "https://www.valoraanalitik.com/primicia-reconocida-aerolinea-dara-sorpresa-a-viajeros-y-tendra-tiquetes-a-0/",
-        "resumen": "La aerolínea explicó que esta iniciativa hace parte de las acciones que viene desarrollando para ofrecer nuevas alternativas de viaje a sus pasajeros.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Reconocida aerolínea dará sorpresa a viajeros y tendrá tiquetes a $0",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Artesanías Wayuu de Misión La Guajira arriban a tiendas D1 y Feria Eva en Bogotá",
-        "url": "https://www.valoraanalitik.com/artesanias-wayuu-de-mision-la-guajira-llegan-a-tiendas-d1-y-feria-eva-en-bogota/",
-        "resumen": "Con esta llegada se busca ampliar el acceso a mercados de gran escala bajo condiciones de comercio justo.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Artesanías Wayuu de Misión La Guajira llegan a tiendas D1 y Feria Eva en Bogotá",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Brent cerca de 107 dólares por barril; subiría la gasolina y aumentaría subsidio al diésel en Colombia",
-        "url": "https://www.valoraanalitik.com/brent-se-acerca-a-us107-por-barril-habria-alza-a-la-gasolina-y-mayor-necesidad-de-subsidio-al-diesel-en-colombia/",
-        "resumen": "El Estado financia a través de subsidios al ACPM o diésel, con la finalidad de que su precio real no se refleje en el mercado.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Brent se acerca a US$107 por barril; habría alza a la gasolina y mayor necesidad de subsidio al diésel en Colombia",
-        "capturado": "2026-09-14T17:40:42-05:00"
-      },
-      {
-        "titulo": "Blancox expande su portafolio con detergentes líquidos en Colombia para cuidar prendas y colores",
-        "url": "https://www.valoraanalitik.com/blancox-fortalece-su-presencia-en-el-mercado-con-linea-de-detergentes-liquidos-en-colombia-protege-la-ropa-y-los-colores/",
-        "resumen": "Con este portafolio, Blancox ofrece alternativas para distintas rutinas de lavado.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Blancox fortalece su presencia en el mercado con línea de detergentes líquidos en Colombia: protege la ropa y los colores",
         "capturado": "2026-09-14T17:40:42-05:00"
       }
     ]
