@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-19T16:38:49-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-19T18:59:13-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
       {
@@ -607,6 +607,16 @@
     ],
     "Empresariales": [
       {
+        "titulo": "American Airlines lanzó descuentos en trayectos a Miami y la promoción tendrá restricciones",
+        "url": "https://www.valoraanalitik.com/american-airlines-saco-promociones-en-vuelos-a-miami-oferta-sera-limitada/",
+        "resumen": "American Airlines también informó que durante la temporada alta de invierno tendrá una programación de hasta 91 vuelos semanales.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "American Airlines sacó promociones en vuelos a Miami: Oferta será limitada",
+        "capturado": "2026-09-19T18:59:13-05:00"
+      },
+      {
         "titulo": "Cifras y analistas señalan que el turismo y la vivienda turística impulsan el crecimiento de Medellín",
         "url": "https://www.valoraanalitik.com/desarrollo-de-medellin-impulsado-por-el-turismo-y-la-derrama-economica-de-la-vivienda-turistica-esto-dicen-cifras-y-expertos/",
         "resumen": "Expertos hacen énfasis en que la vivienda turística se ha convertido en un motor para Medellín.",
@@ -1194,16 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "MinEnergía, Enel y GEB fortalecen el respaldo eléctrico de dos hospitales de Quibdó tras el sismo",
-        "capturado": "2026-09-15T18:37:37-05:00"
-      },
-      {
-        "titulo": "Exclusivo | Ecopetrol aplicará plan de austeridad para mejorar fondos tras gestión de Roa",
-        "url": "https://www.valoraanalitik.com/ecopetrol-tendra-plan-de-austeridad-para-optimizar-recursos-tras-administracion-de-roa/",
-        "resumen": "Este proyecto será de obligatorio cumplimiento para Ecopetrol y sus filiales, tales como Hocol, Reficar o Cenit.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Exclusivo | Ecopetrol tendrá plan de austeridad para optimizar recursos tras administración de Roa",
         "capturado": "2026-09-15T18:37:37-05:00"
       }
     ]
