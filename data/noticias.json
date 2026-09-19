@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-19T03:55:39-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-19T08:01:21-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Entrevista | A final de 2026, Colombia compraría en el exterior entre el 35 % y el 40 % de su gas",
+        "url": "https://www.valoraanalitik.com/colombia-llegaria-a-importar-35-a-40-del-gas-que-consume-para-finales-de-2026/",
+        "resumen": "Óscar Rincón, presidente de Acipet, manifestó que Colombia tiene un gran potencial en yacimientos no convencionales o fracking.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Colombia llegaría a importar 35 % a 40 % del gas que consume para finales de 2026",
+        "capturado": "2026-09-19T08:01:21-05:00"
+      },
       {
         "titulo": "Trump pacta con Dinamarca para acrecentar su base militar en Groenlandia",
         "url": "https://www.valoraanalitik.com/ee-uu-y-dinamarca-alcanzan-acuerdo-para-ampliar-presencia-militar-en-groenlandia/",
@@ -593,19 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Colombia y EE. UU. avanzan en diálogos sobre importación de gas desde Venezuela",
         "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Primicia de De La Espriella sobre gran proyecto portuario en La Guajira para cruceros",
-        "url": "https://www.valoraanalitik.com/primicia-la-megaobra-maritima-que-de-la-espriella-anunciara-hoy-en-la-guajira-para-atraer-cruceros-internacionales/",
-        "resumen": "La nueva infraestructura busca transformar la oferta turística del departamento con la permanencia de pasajeros y cruceros.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | La megaobra marítima que De La Espriella anunciará hoy en La Guajira para atraer cruceros internacionales",
-        "capturado": "2026-09-17T14:11:56-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | A finales de 2026, Colombia compraría en el exterior entre el 35 % y el 40 % de su gas",
+        "url": "https://www.valoraanalitik.com/colombia-llegaria-a-importar-35-a-40-del-gas-que-consume-para-finales-de-2026/",
+        "resumen": "Óscar Rincón, presidente de Acipet, manifestó que Colombia tiene un gran potencial en yacimientos no convencionales o fracking.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Colombia llegaría a importar 35 % a 40 % del gas que consume para finales de 2026",
+        "capturado": "2026-09-19T08:01:21-05:00"
+      },
       {
         "titulo": "Estudio muestra que las microfinanzas llegaron a un menor número de empresarios en el Valle de Aburrá",
         "url": "https://www.valoraanalitik.com/informe-revela-que-clientes-activos-de-microcredito-en-el-valle-de-aburra-disminuyeron-118-en-2025/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Especiales",
         "publicacion": "",
         "titulo_fuente": "Grupo Argos y Nicky Jam entregaron la primera vivienda de Adopta un Hogar en Quibdó: así avanza la construcción de 1.000 viviendas",
-        "capturado": "2026-09-15T16:06:06-05:00"
-      },
-      {
-        "titulo": "Un programa gratis dará rebaja del 70 % en la factura de energía a empresas de Colombia",
-        "url": "https://www.valoraanalitik.com/empresas-en-colombia-tendran-beneficio-del-70-en-recibo-de-la-luz-con-programa-gratuito/",
-        "resumen": "Las empresas que superen en más de 10 % el consumo de referencia deberán asumir un recargo equivalente al 70 % sobre la energía consumida.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Empresas en Colombia tendrán beneficio del 70 % en recibo de la luz con programa gratuito",
         "capturado": "2026-09-15T16:06:06-05:00"
       }
     ]
