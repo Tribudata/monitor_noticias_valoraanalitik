@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-19T08:01:21-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-19T11:42:35-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "DiDi Food celebra un lustro en Colombia con nueve millones de usuarios y quince mil locales asociados",
+        "url": "https://www.valoraanalitik.com/didi-food-cumple-cinco-anos-en-colombia-ya-suma-9-millones-de-usuarios-y-15-000-restaurantes/",
+        "resumen": "Catalina Arteaga, directora de Desarrollo de Negocios para DiDi Food Hispanoamérica, explicó a Valora Analitik, cómo ha crecido la app en Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | DiDi Food cumple cinco años en Colombia: ya suma 9 millones de usuarios y 15.000 restaurantes",
+        "capturado": "2026-09-19T11:42:35-05:00"
+      },
+      {
+        "titulo": "La otra cara de la reconstrucción en Chocó muestra falta de acueducto y alcantarillado con sismos",
+        "url": "https://www.valoraanalitik.com/sin-acueducto-sin-alcantarillado-y-con-la-tierra-temblando-la-otra-cara-de-la-reconstruccion-en-choco/",
+        "resumen": "La burocracia que frena la reconstrucción luego del terremoto y la ayuda que llega a cuentagotas en el Chocó.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Sin acueducto, sin alcantarillado y con la tierra temblando: la otra cara de la reconstrucción en Chocó",
+        "capturado": "2026-09-19T11:42:35-05:00"
+      },
+      {
+        "titulo": "Analistas explican las proyecciones de la tasa de cambio tras la baja del dólar de cuatro a tres mil",
+        "url": "https://www.valoraanalitik.com/que-llevo-al-precio-del-dolar-a-pasar-de-los-4-000-a-rozar-los-3-000/",
+        "resumen": "Los analistas señalan que este podría no ser un piso definitivo para la divisa estadounidense, que podría llegar a tocar niveles entre los $2.800 y los $2.700.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "¿Por qué el dólar en Colombia cayó de $4.000 a casi $3.000 en menos de un año? Esto dicen analistas de lo que se espera para la tasa de cambio",
+        "capturado": "2026-09-19T11:42:35-05:00"
+      },
       {
         "titulo": "Entrevista | A final de 2026, Colombia compraría en el exterior entre el 35 % y el 40 % de su gas",
         "url": "https://www.valoraanalitik.com/colombia-llegaria-a-importar-35-a-40-del-gas-que-consume-para-finales-de-2026/",
@@ -572,36 +602,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "Gasto de los hogares colombianos repuntó en agosto, pero mantiene su ritmo de desaceleración",
-        "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Corferias albergará la FIB 2026 por cinco días con 500 expositores y 40 charlas",
-        "url": "https://www.valoraanalitik.com/fib-2026-corferias-tecnologia-industrial/",
-        "resumen": "Expositores nacionales e internacionales estarán en la Feria Internacional Industrial de Bogotá con soluciones dirigidas a diferentes sectores de la industria.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Cinco días de tecnología industrial en Corferias: la FIB 2026 reunirá más de 500 expositores y 40 charlas técnicas",
-        "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Alcalde Galán confirma que Bogotá no sufrirá cortes de agua por El Niño",
-        "url": "https://www.valoraanalitik.com/bogota-no-tendra-racionamiento-de-agua-durante-fenomeno-de-el-nino-alcalde-galan/",
-        "resumen": "El alcalde de Bogotá, Carlos Fernando Galán, afirmó que no habrá posibilidad de racionamiento de agua durante el fenómeno de El Niño en la capital.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá no tendrá racionamiento de agua durante fenómeno de El Niño: alcalde Galán",
-        "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Gobiernos de Colombia y Estados Unidos conversan sobre comprar gas venezolano",
-        "url": "https://www.valoraanalitik.com/colombia-y-ee-uu-avanzan-en-dialogos-sobre-importacion-de-gas-desde-venezuela/",
-        "resumen": "El vicepresidente Restrepo afirmó que en los últimos tres años llegó a 1,6 %. Estableció que la meta es crecer a 6 % del PIB.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia y EE. UU. avanzan en diálogos sobre importación de gas desde Venezuela",
         "capturado": "2026-09-17T14:11:56-05:00"
       }
     ],
