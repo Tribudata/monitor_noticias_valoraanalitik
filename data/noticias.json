@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-19T11:42:35-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-19T14:14:50-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Alarma eléctrica: Ocho embalses colombianos operarían bajo mínimos históricos por el fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/alerta-en-el-sistema-electrico-ocho-embalses-de-colombia-operarian-por-debajo-de-sus-minimos-historicos-por-el-nino/",
+        "resumen": "Embalses estratégicos para el parque hidroeléctrico nacional caerán a registros no vistos durante la temporada seca.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Alerta en el sistema eléctrico: Ocho embalses de Colombia operarían por debajo de sus mínimos históricos por El Niño",
+        "capturado": "2026-09-19T14:14:50-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella asigna 87.700 millones de pesos para culminar el Gran Malecón del Mar en Cartagena",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-destina-87-700-millones-para-finalizar-el-gran-malecon-del-mar-en-cartagena/",
+        "resumen": "Según el cronograma de la obra, el próximo 15 de octubre debían ponerse en operación los primeros 2 kilómetros habilitados.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella destina $87.700 millones para finalizar el Gran Malecón del Mar en Cartagena",
+        "capturado": "2026-09-19T14:14:50-05:00"
+      },
+      {
+        "titulo": "Corferias vinculó mediante Econexia a firmas creativas del país con compradores de España, México y Chile",
+        "url": "https://www.valoraanalitik.com/econexia-corferias-resultados-rueda-industrias-creativas/",
+        "resumen": "La demanda se concentró en los sectores tecnológico, editorial, artesanal y didáctico, con oferentes de Bogotá, Antioquia, Cundinamarca y Atlántico.",
+        "autor": "",
+        "subseccion": "Pymes en colombia",
+        "publicacion": "",
+        "titulo_fuente": "Econexia de Corferias conectó a empresas creativas colombianas con compradores de México, España y Chile",
+        "capturado": "2026-09-19T14:14:50-05:00"
+      },
       {
         "titulo": "DiDi Food celebra un lustro en Colombia con nueve millones de usuarios y quince mil locales asociados",
         "url": "https://www.valoraanalitik.com/didi-food-cumple-cinco-anos-en-colombia-ya-suma-9-millones-de-usuarios-y-15-000-restaurantes/",
@@ -573,39 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Servicios públicos, agua, energía, TIC e inversión: los temas que marcarán la agenda del Congreso de Andesco",
         "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Encuesta del BanRep indica que la proyección de inflación para el cierre de 2026 es la mayor en tres años",
-        "url": "https://www.valoraanalitik.com/ahora-proyeccion-de-inflacion-para-cierre-de-2026-en-colombia-es-la-mas-alta-en-tres-anos-encuesta-banrep/",
-        "resumen": "La inflación de septiembre, cuyo dato se conocerá el 7 de octubre, también se movería al alza desde el 6,25 % visto en agosto hasta un 6,33 %.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Proyección de inflación para cierre de 2026 en Colombia es la más alta en tres años: encuesta BanRep",
-        "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Joquín Gutiérrez sería anunciado hoy por la junta de Ecopetrol como nuevo presidente",
-        "url": "https://www.valoraanalitik.com/junta-de-ecopetrol-anunciaria-hoy-a-joaquin-gutierrez-como-nuevo-presidente/",
-        "resumen": "Este es el perfil de quién lideraría la transformación de Ecopetrol, que anunció desde campaña Abelardo de la Espriella.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Junta de Ecopetrol anunciaría hoy a Joaquín Gutiérrez como nuevo presidente de la empresa",
-        "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Consumo de los hogares en Colombia subió en agosto, aunque sigue desacelerándose",
-        "url": "https://www.valoraanalitik.com/gasto-de-los-hogares-colombianos-repunto-en-agosto-pero-mantiene-su-ritmo-de-desaceleracion/",
-        "resumen": "Pese a resistir mejor la caída estacional de mitad de año, el gasto de los hogares se ubica por debajo de la cifra registrada en 2025.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Gasto de los hogares colombianos repuntó en agosto, pero mantiene su ritmo de desaceleración",
-        "capturado": "2026-09-17T14:11:56-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Firmas creativas del país enlazadas con clientes en Chile, España y México mediante Econexia de Corferias",
+        "url": "https://www.valoraanalitik.com/econexia-corferias-resultados-rueda-industrias-creativas/",
+        "resumen": "La demanda se concentró en los sectores tecnológico, editorial, artesanal y didáctico, con oferentes de Bogotá, Antioquia, Cundinamarca y Atlántico.",
+        "autor": "",
+        "subseccion": "Pymes en colombia",
+        "publicacion": "",
+        "titulo_fuente": "Econexia de Corferias conectó a empresas creativas colombianas con compradores de México, España y Chile",
+        "capturado": "2026-09-19T14:14:50-05:00"
+      },
+      {
+        "titulo": "DiDi Food alcanza un lustro en el país con 15.000 locales y 9 millones de usuarios según su entrevista",
+        "url": "https://www.valoraanalitik.com/didi-food-cumple-cinco-anos-en-colombia-ya-suma-9-millones-de-usuarios-y-15-000-restaurantes/",
+        "resumen": "Catalina Arteaga, directora de Desarrollo de Negocios para DiDi Food Hispanoamérica, explicó a Valora Analitik, cómo ha crecido la app en Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | DiDi Food cumple cinco años en Colombia: ya suma 9 millones de usuarios y 15.000 restaurantes",
+        "capturado": "2026-09-19T14:14:50-05:00"
+      },
       {
         "titulo": "Entrevista | A finales de 2026, Colombia compraría en el exterior entre el 35 % y el 40 % de su gas",
         "url": "https://www.valoraanalitik.com/colombia-llegaria-a-importar-35-a-40-del-gas-que-consume-para-finales-de-2026/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Grupo Argos prepara entrada a Venezuela en tres fases: así crecerá Cementos Argos en ese mercado",
         "capturado": "2026-09-15T18:37:37-05:00"
-      },
-      {
-        "titulo": "Satena ha transportado 60 toneladas de asistencia social al Pacífico nacional tras sismo",
-        "url": "https://www.valoraanalitik.com/satena-ha-movilizado-cerca-de-60-toneladas-de-ayuda-humanitaria-hacia-el-pacifico-colombiano-tras-el-terremoto/",
-        "resumen": "Satena completa cinco operaciones humanitarias hacia diferentes territorios del Pacífico colombiano.",
-        "autor": "",
-        "subseccion": "Aerolineas colombia",
-        "publicacion": "",
-        "titulo_fuente": "Satena ya ha movilizado 60 toneladas de ayuda humanitaria hacia el Pacífico colombiano tras el terremoto",
-        "capturado": "2026-09-15T18:37:37-05:00"
-      },
-      {
-        "titulo": "Grupo Argos y Nicky Jam entregan la primera casa de Adopta un Hogar en Quibdó y siguen con mil viviendas",
-        "url": "https://www.valoraanalitik.com/grupo-argos-y-nicky-jam-entregaron-la-primera-vivienda-de-adopta-un-hogar-en-quibdo/",
-        "resumen": "La vivienda representa el primer resultado tangible de un compromiso que requerirá inversiones superiores a $100.000 millones.",
-        "autor": "",
-        "subseccion": "Especiales",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos y Nicky Jam entregaron la primera vivienda de Adopta un Hogar en Quibdó: así avanza la construcción de 1.000 viviendas",
-        "capturado": "2026-09-15T16:06:06-05:00"
       }
     ]
   }
