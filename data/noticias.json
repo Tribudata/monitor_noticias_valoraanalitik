@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-19T14:14:50-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-19T16:38:49-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "MinTransporte aplazará cinco billones quinientos mil millones en vigencias futuras de la ANI con las firmas",
+        "url": "https://www.valoraanalitik.com/mintransporte-reprogramara-55-billones-en-vigencias-futuras-de-la-ani-con-los-concesionarios/",
+        "resumen": "La ministra de Transporte, Elsa Noguera, expuso la estrategia para hacer frente al déficit presupuestal y garantizar la terminación de las obras inconclusas.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "MinTransporte reprogramará $5,5 billones en vigencias futuras de la ANI con los concesionarios",
+        "capturado": "2026-09-19T16:38:49-05:00"
+      },
       {
         "titulo": "Alarma eléctrica: Ocho embalses colombianos operarían bajo mínimos históricos por el fenómeno de El Niño",
         "url": "https://www.valoraanalitik.com/alerta-en-el-sistema-electrico-ocho-embalses-de-colombia-operarian-por-debajo-de-sus-minimos-historicos-por-el-nino/",
@@ -593,19 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Dólar en Colombia se dispara y cierra en $3.162,55 tras romper techo",
         "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Agenda del Congreso de Andesco: inversión, agua, energía, TIC y servicios públicos",
-        "url": "https://www.valoraanalitik.com/los-temas-que-marcaran-la-agenda-del-congreso-de-andesco/",
-        "resumen": "Camilo Sánchez, presidente del gremio, anticipa las principales discusiones del encuentro y los retos que enfrenta el sector para recuperar su dinamismo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Servicios públicos, agua, energía, TIC e inversión: los temas que marcarán la agenda del Congreso de Andesco",
-        "capturado": "2026-09-17T14:11:56-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Cifras y analistas señalan que el turismo y la vivienda turística impulsan el crecimiento de Medellín",
+        "url": "https://www.valoraanalitik.com/desarrollo-de-medellin-impulsado-por-el-turismo-y-la-derrama-economica-de-la-vivienda-turistica-esto-dicen-cifras-y-expertos/",
+        "resumen": "Expertos hacen énfasis en que la vivienda turística se ha convertido en un motor para Medellín.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Desarrollo de Medellín, impulsado por el turismo y la derrama económica de la vivienda turística: esto dicen cifras y expertos",
+        "capturado": "2026-09-19T16:38:49-05:00"
+      },
       {
         "titulo": "Firmas creativas del país enlazadas con clientes en Chile, España y México mediante Econexia de Corferias",
         "url": "https://www.valoraanalitik.com/econexia-corferias-resultados-rueda-industrias-creativas/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Ecopetrol",
         "publicacion": "",
         "titulo_fuente": "Exclusivo | Ecopetrol tendrá plan de austeridad para optimizar recursos tras administración de Roa",
-        "capturado": "2026-09-15T18:37:37-05:00"
-      },
-      {
-        "titulo": "Grupo Argos alista llegada a Venezuela en tres etapas: así se expandirá Cementos Argos",
-        "url": "https://www.valoraanalitik.com/grupo-argos-prepara-entrada-a-venezuela-en-tres-fases-asi-crecera-cementos-argos-en-ese-mercado/",
-        "resumen": "Exportaciones, vía marítima y activos: el plan de tres fases de Grupo Argos para entrar a Venezuela.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos prepara entrada a Venezuela en tres fases: así crecerá Cementos Argos en ese mercado",
         "capturado": "2026-09-15T18:37:37-05:00"
       }
     ]
