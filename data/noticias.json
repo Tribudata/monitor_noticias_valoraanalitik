@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-18T18:31:21-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-18T23:06:07-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Trump pacta con Dinamarca para acrecentar su base militar en Groenlandia",
+        "url": "https://www.valoraanalitik.com/ee-uu-y-dinamarca-alcanzan-acuerdo-para-ampliar-presencia-militar-en-groenlandia/",
+        "resumen": "El pacto busca reforzar la seguridad en el Ártico y limitar la presencia militar e inversiones sensibles de países adversarios.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Trump anuncia acuerdo con Dinamarca para ampliar presencia militar en Groenlandia",
+        "capturado": "2026-09-18T23:06:07-05:00"
+      },
+      {
+        "titulo": "Trump y Delcy Rodríguez sostendrán su primer cara a cara en Nueva York",
+        "url": "https://www.valoraanalitik.com/trump-y-delcy-rodriguez-tendran-su-primer-encuentro-cara-a-cara-en-nueva-york/",
+        "resumen": "La reunión se dará durante la Asamblea General de la ONU y será la primera entre ambos mandatarios tras el restablecimiento de relaciones diplomáticas.",
+        "autor": "",
+        "subseccion": "Financieras internacionales",
+        "publicacion": "",
+        "titulo_fuente": "Trump y Delcy Rodríguez tendrán su primer encuentro cara a cara en Nueva York",
+        "capturado": "2026-09-18T23:06:07-05:00"
+      },
+      {
+        "titulo": "Gobierno da aval para cancelar o alargar concesiones por obras del sismo",
+        "url": "https://www.valoraanalitik.com/gobierno-ampliar-plazo-de-concesiones-por-obras-de-emergencia-por-terremoto/",
+        "resumen": "Las medias quedaron fijadas con la expedición del Decreto 1424 de 2026.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno autoriza pagar o ampliar plazo de concesiones por obras de emergencia por terremoto; lanza salvavidas a sistemas de transporte",
+        "capturado": "2026-09-18T23:06:07-05:00"
+      },
       {
         "titulo": "Transparencia por Colombia señala peligros de falta de claridad en contratos para levantar zona tras sismo",
         "url": "https://www.valoraanalitik.com/transparencia-por-colombia-advierte-riesgos-de-opacidad-en-la-contratacion-para-la-reconstruccion-tras-el-terremoto/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Primicia | La megaobra marítima que De La Espriella anunciará hoy en La Guajira para atraer cruceros internacionales",
         "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "El estratega de Abelardo de La Espriella, Carlos Suárez, asume como presidente de Junta Directiva de Ecopetrol",
-        "url": "https://www.valoraanalitik.com/relevante-carlos-suarez-estratega-de-abelardo-de-la-espriella-es-nuevo-presidente-de-junta-directiva-de-ecopetrol/",
-        "resumen": "La elección de Suárez marca su llegada a uno de los principales órganos de decisión de la empresa más grande del país.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Carlos Suárez, estratega de Abelardo de La Espriella, es nuevo presidente de Junta Directiva de Ecopetrol",
-        "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Así se asignaría el gasto público regional en Colombia para 2027 y estos son los grandes proyectos",
-        "url": "https://www.valoraanalitik.com/asi-se-repartiria-la-inversion-publica-en-las-regiones-de-colombia-en-2027-estos-megaproyectos-serian-financiados/",
-        "resumen": "Conforme a la caracterización geográfica del DNP, la región Andina concentra $22,27 billones, equivalentes al 25,6 % del total.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Así se repartiría la inversión pública en las regiones de Colombia en 2027: estos megaproyectos serían financiados",
-        "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "GeoPark busca más fracturación hidráulica en Vaca Muerta al obtener mejor puntaje en reciente ronda",
-        "url": "https://www.valoraanalitik.com/geopark-va-por-mas-fracking-en-vaca-muerta-tras-lograr-mayor-puntaje-en-nueva-ronda/",
-        "resumen": "La eventual adjudicación permitiría a GeoPark ampliar su presencia en una de las principales formaciones de hidrocarburos no convencionales del mundo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark va por más fracking en Vaca Muerta tras lograr mayor puntaje en nueva ronda",
-        "capturado": "2026-09-17T10:14:09-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Estudio muestra que las microfinanzas llegaron a un menor número de empresarios en el Valle de Aburrá",
+        "url": "https://www.valoraanalitik.com/informe-revela-que-clientes-activos-de-microcredito-en-el-valle-de-aburra-disminuyeron-118-en-2025/",
+        "resumen": "Desembolsó operaciones por sumas de dinero más elevadas, consolidando una cartera vigente que alcanzó los $10 billones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Informe revela que el sistema microfinanciero atendió a menos empresarios del Valle de Aburrá en 2025",
+        "capturado": "2026-09-18T23:06:07-05:00"
+      },
       {
         "titulo": "Manuel Fernández Ariza fue nombrado como presidente de Bancóldex por su Junta Directiva",
         "url": "https://www.valoraanalitik.com/manuel-fernandez-ariza-llega-a-la-presidencia-de-bancoldex/",
@@ -1194,16 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Empresas en Colombia tendrán beneficio del 70 % en recibo de la luz con programa gratuito",
-        "capturado": "2026-09-15T16:06:06-05:00"
-      },
-      {
-        "titulo": "The Brown busca cambiar la vivencia corporativa más allá de la sala de juntas",
-        "url": "https://www.valoraanalitik.com/mas-alla-de-la-sala-de-reuniones-asi-busca-the-brown-transformar-la-experiencia-corporativa/",
-        "resumen": "Naturaleza, gastronomía y espacios de bienestar se integran en un destino cercano a Medellín que amplía las posibilidades para empresas.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Más allá de la sala de reuniones: así busca The Brown transformar la experiencia corporativa",
         "capturado": "2026-09-15T16:06:06-05:00"
       }
     ]
