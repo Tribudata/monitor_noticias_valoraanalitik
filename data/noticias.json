@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-20T04:40:33-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-20T09:02:58-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Riesgo país sube y tasas de TES se acercan al 12,7 % por dudas fiscales del Gobierno De la Espriella",
+        "url": "https://www.valoraanalitik.com/tasas-de-los-tes-rozan-el-127-y-el-riesgo-pais-escala-ante-la-incertidumbre-fiscal-del-gobierno-de-la-espriella/",
+        "resumen": "Estos son los factores que han disparado la prima de riesgo (EMBI) e incrementado los costos de endeudamiento del Estado colombiano.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Tasas de los TES rozan el 12,7 % y el riesgo país escala ante la incertidumbre fiscal del Gobierno De la Espriella",
+        "capturado": "2026-09-20T09:02:58-05:00"
+      },
       {
         "titulo": "MinTransporte aplazará cinco billones quinientos mil millones en vigencias futuras de la ANI con las firmas",
         "url": "https://www.valoraanalitik.com/mintransporte-reprogramara-55-billones-en-vigencias-futuras-de-la-ani-con-los-concesionarios/",
@@ -592,16 +602,6 @@
         "subseccion": "Inflación",
         "publicacion": "",
         "titulo_fuente": "Buena noticia para el bolsillo de los colombianos: la inflación se habría estabilizado en septiembre",
-        "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia supera techo y termina la jornada en 3162,55 pesos",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-dispara-y-cierra-en-3-16255-tras-romper-techo/",
-        "resumen": "La tasa de cambio abrió al alza en $3.130, marcó un mínimo intradiario de $3.119,01 y trepó con fuerza hasta alcanzar un máximo de $3.173,90.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia se dispara y cierra en $3.162,55 tras romper techo",
         "capturado": "2026-09-17T14:11:56-05:00"
       }
     ],
