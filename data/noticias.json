@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-20T12:36:22-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-20T15:36:00-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "José Manuel Restrepo asistirá por Colombia a la Asamblea General de la ONU en Nueva York",
+        "url": "https://www.valoraanalitik.com/jose-manuel-restrepo-representara-a-colombia-en-la-asamblea-general-de-la-onu-en-nueva-york/",
+        "resumen": "La intervención central del vicepresidente de Colombia ante el pleno de la ONU está programada para el jueves 24 de septiembre",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "José Manuel Restrepo representará a Colombia en la Asamblea General de la ONU en Nueva York",
+        "capturado": "2026-09-20T15:36:00-05:00"
+      },
+      {
+        "titulo": "Colplast proyecta expansión en América Latina, alista nuevos productos y avanza en su crecimiento",
+        "url": "https://www.valoraanalitik.com/entrevista-colplast-espera-llegar-a-mas-paises-de-latinoamerica-prepara-nuevos-lanzamientos-y-revela-proyecciones-de-crecimiento/",
+        "resumen": "La operación de Colplast está constituida por 34 máquinas inyectoras, 16 robots, 8 bandas transportadoras y 2 peletizadoras propias.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Colplast espera llegar a más países de Latinoamérica: prepara nuevos lanzamientos y revela proyecciones de crecimiento",
+        "capturado": "2026-09-20T15:36:00-05:00"
+      },
+      {
+        "titulo": "Tensión armada en Medio Oriente: restricción energética presiona la economía estadounidense",
+        "url": "https://www.valoraanalitik.com/escalada-militar-en-medio-oriente-bloqueo-energetico-presiona-la-economia-de-ee-uu/",
+        "resumen": "La tensión bélica, que se ha prolongado por casi siete meses, mantiene paralizada una de las rutas marítimas más críticas para el comercio global.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Escalada militar en Medio Oriente: bloqueo energético presiona la economía de EE. UU.",
+        "capturado": "2026-09-20T15:36:00-05:00"
+      },
       {
         "titulo": "Suramericana atendió 11.800 solicitudes luego del sismo en Colombia y pagó $70.100 millones",
         "url": "https://www.valoraanalitik.com/suramericana-reclamaciones-terremoto/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Sistema financiero generó rendimientos por $65,3 billones para clientes a julio de 2026; cifra registra leve caída",
         "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Hoy elegirían a Juan Esteban Orrego para presidir la Cámara de Comercio de Bogotá",
-        "url": "https://www.valoraanalitik.com/juan-esteban-orrego-seria-elegido-hoy-como-nuevo-presidente-de-la-camara-de-comercio-de-bogota/",
-        "resumen": "La presidencia de la Cámara de Comercio de Bogotá tiene un papel central en el desarrollo empresarial de Bogotá y Cundinamarca.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Juan Esteban Orrego sería elegido hoy como nuevo presidente de la Cámara de Comercio de Bogotá",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Empresa transnacional lanza más de 3.000 puestos de trabajo en el país para bachilleres y profesionales",
-        "url": "https://www.valoraanalitik.com/multinacional-abre-mas-de-3-000-vacantes-en-colombia-hay-empleos-para-bachilleres-y-profesionales/",
-        "resumen": "Las vacantes de empleo están disponibles en varias ciudades y sectores. Conozca los perfiles que están buscando y cómo participar.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Multinacional abre más de 3.000 vacantes en Colombia: hay empleos para bachilleres y profesionales",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "A un año del desenroque los socios de Grupo Argos elevaron su patrimonio hasta 56 % según el mercado",
-        "url": "https://www.valoraanalitik.com/un-ano-despues-del-desenroque-los-accionistas-de-grupo-argos-han-visto-crecer-hasta-56-el-valor-de-su-patrimonio-esto-opina-el-mercado/",
-        "resumen": "Para los accionistas de Grupo Argos significó conservar sus acciones, aumentar derechos económicos y recibir títulos de Grupo Sura.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Un año después del desenroque, los accionistas de Grupo Argos han visto crecer hasta 56 % el valor de su patrimonio: esto opina el mercado",
-        "capturado": "2026-09-17T17:23:08-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Colplast proyecta expansión regional con nuevos productos y metas de crecimiento",
+        "url": "https://www.valoraanalitik.com/entrevista-colplast-espera-llegar-a-mas-paises-de-latinoamerica-prepara-nuevos-lanzamientos-y-revela-proyecciones-de-crecimiento/",
+        "resumen": "La operación de Colplast está constituida por 34 máquinas inyectoras, 16 robots, 8 bandas transportadoras y 2 peletizadoras propias.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Colplast espera llegar a más países de Latinoamérica: prepara nuevos lanzamientos y revela proyecciones de crecimiento",
+        "capturado": "2026-09-20T15:36:00-05:00"
+      },
       {
         "titulo": "Mayor oferta de trayectos y rutas inéditas: la estrategia de crecimiento de Arajet en el país con pasajes baratos",
         "url": "https://www.valoraanalitik.com/mas-vuelos-y-nuevos-destinos-el-plan-de-expansion-de-arajet-en-colombia-con-tiquetes-economicos/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Fracking, explotación de petróleo y gas y autoabastecimiento, los retos de la nueva Junta Directiva de Ecopetrol",
         "capturado": "2026-09-16T09:19:39-05:00"
-      },
-      {
-        "titulo": "Carolina Suárez toma las riendas de Econometría como su nueva directora",
-        "url": "https://www.valoraanalitik.com/econometria-tiene-nueva-directora-carolina-suarez-asume-el-liderazgo-de-la-firma/",
-        "resumen": "La designación marca una nueva etapa para la firma, que busca consolidar su crecimiento y fortalecer su apuesta por la innovación y el conocimiento.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Econometría tiene nueva directora: Carolina Suárez asume el liderazgo de la firma",
-        "capturado": "2026-09-15T23:18:57-05:00"
       }
     ]
   }
