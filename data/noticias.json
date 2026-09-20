@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-20T09:02:58-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-20T12:36:22-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Suramericana atendió 11.800 solicitudes luego del sismo en Colombia y pagó $70.100 millones",
+        "url": "https://www.valoraanalitik.com/suramericana-reclamaciones-terremoto/",
+        "resumen": "La compañía parte del Grupo Sura plantea mayor prevención ante fenómenos como el envejecimiento, el cambio climático, la energía y la tecnología.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Suramericana recibió 11.800 reclamaciones tras terremoto en Colombia y ha desembolsado $70.100 millones",
+        "capturado": "2026-09-20T12:36:22-05:00"
+      },
+      {
+        "titulo": "Fuego forestal de enorme proporción arrasa con más de 70 hectáreas en Villa de Leyva",
+        "url": "https://www.valoraanalitik.com/incendio-forestal-de-gran-magnitud-consume-mas-de-70-hectareas-en-villa-de-leyva/",
+        "resumen": "Informes preliminares de la Unidad Nacional para la Gestión del Riesgo de Desastres señalan que la conflagración habría sido provocada.",
+        "autor": "",
+        "subseccion": "Medio ambiente",
+        "publicacion": "",
+        "titulo_fuente": "Incendio forestal de gran magnitud consume más de 70 hectáreas en Villa de Leyva",
+        "capturado": "2026-09-20T12:36:22-05:00"
+      },
       {
         "titulo": "Riesgo país sube y tasas de TES se acercan al 12,7 % por dudas fiscales del Gobierno De la Espriella",
         "url": "https://www.valoraanalitik.com/tasas-de-los-tes-rozan-el-127-y-el-riesgo-pais-escala-ante-la-incertidumbre-fiscal-del-gobierno-de-la-espriella/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Un año después del desenroque, los accionistas de Grupo Argos han visto crecer hasta 56 % el valor de su patrimonio: esto opina el mercado",
         "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Primicia | Mario Cruz asumirá la dirección de la Unidad de Regulación Financiera de MinHacienda",
-        "url": "https://www.valoraanalitik.com/primicia-mario-cruz-sera-el-director-de-unidad-de-regulacion-financiera-urf-del-ministerio-de-hacienda/",
-        "resumen": "Cruz también cuenta con experiencia como vicepresidente técnico de Acemi y en la Federación de Aseguradores Colombianos (Fasecolda).",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Mario Cruz será el director de Unidad de Regulación Financiera (URF) del Ministerio de Hacienda",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Inflación en Colombia se habría estabilizado en septiembre, un respiro para el bolsillo",
-        "url": "https://www.valoraanalitik.com/buena-noticia-para-el-bolsillo-la-inflacion-colombia-se-habria-estabilizado-en-septiembre/",
-        "resumen": "La inflación en Colombia sigue en riesgo de subir y terminar el año en el 7 %. Esto se sabe.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Buena noticia para el bolsillo de los colombianos: la inflación se habría estabilizado en septiembre",
-        "capturado": "2026-09-17T14:11:56-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Mayor oferta de trayectos y rutas inéditas: la estrategia de crecimiento de Arajet en el país con pasajes baratos",
+        "url": "https://www.valoraanalitik.com/mas-vuelos-y-nuevos-destinos-el-plan-de-expansion-de-arajet-en-colombia-con-tiquetes-economicos/",
+        "resumen": "Para 2026, Arajet prevé transportar entre 300.000 y 350.000 pasajeros entre Colombia y República Dominicana.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Más vuelos y nuevos destinos: el plan de expansión de Arajet en Colombia con tiquetes económicos",
+        "capturado": "2026-09-20T12:36:22-05:00"
+      },
       {
         "titulo": "American Airlines lanzó descuentos en trayectos a Miami y la promoción tendrá restricciones",
         "url": "https://www.valoraanalitik.com/american-airlines-saco-promociones-en-vuelos-a-miami-oferta-sera-limitada/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Econometría tiene nueva directora: Carolina Suárez asume el liderazgo de la firma",
         "capturado": "2026-09-15T23:18:57-05:00"
-      },
-      {
-        "titulo": "MinEnergía, Enel y GEB robustecen la energía de dos centros médicos en Quibdó tras temblor",
-        "url": "https://www.valoraanalitik.com/minenergia-enel-y-geb-fortalecen-el-respaldo-electrico-de-dos-hospitales-de-quibdo-tras-el-sismo/",
-        "resumen": "Enel aportó una planta de 250 kVA y el Grupo lideró la ejecución técnica para avanzar en la instalación de nueva infraestructura.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "MinEnergía, Enel y GEB fortalecen el respaldo eléctrico de dos hospitales de Quibdó tras el sismo",
-        "capturado": "2026-09-15T18:37:37-05:00"
       }
     ]
   }
