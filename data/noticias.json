@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-21T09:27:57-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-21T14:41:40-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Administración De la Espriella modifica condiciones para obtener ayudas habitacionales",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-cambia-requisitos-para-acceder-a-subsidios-de-vivienda/",
+        "resumen": "Los subsidios de vivienda tendrán nuevas reglas para hogares afectados por el terremoto. Estas son las condiciones que cambian.",
+        "autor": "",
+        "subseccion": "Subsidio de vivienda",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella cambia requisitos para acceder a subsidios de vivienda",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Aumentaron fuertemente las compras externas de gas en el país durante el fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/se-disparo-la-importacion-de-gas-en-colombia-en-medio-del-fenomeno-de-el-nino/",
+        "resumen": "A causa de la falta de posibilidad de autoabastecimiento a corto plazo, algunos expertos señalaron la necesidad de incentivar la importación.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Se disparó la importación de gas en Colombia en medio del fenómeno de El Niño",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio bordeó los 3.200 pesos y terminó al alza por tercer día consecutivo",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-rozo-los-3-200-y-cerro-al-alza-por-tercera-jornada-consecutiva/",
+        "resumen": "El precio se movió de forma lateral y se mantuvo cerca del nivel de los $3.190, buscando consolidarse por encima del techo técnico previo.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia rozó los $3.200 y cerró al alza por tercera jornada consecutiva",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Administración lanza en Nueva York Misión Crecer para impulsar inversión y elevar PIB al 6 por ciento",
+        "url": "https://www.valoraanalitik.com/gobierno-presenta-en-nueva-york-mision-crecer-para-acelerar-inversion-y-llevar-pib-al-6/",
+        "resumen": "Seguridad jurídica, simplificación del Estado y un portafolio de proyectos, fueron los ejes del encuentro.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno presenta en Nueva York Misión Crecer para acelerar inversión y llevar PIB al 6 %",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Gobierno autoriza a Cajas de Compensación trasladar hasta medio billón para damnificados por sismo",
+        "url": "https://www.valoraanalitik.com/gobierno-habilita-que-cajas-de-compensacion-movilicen-hasta-medio-billon-para-apoyar-a-afectados-por-terremoto/",
+        "resumen": "Hasta $550.000 millones podrán movilizar las Cajas de Compensación Familiar para apoyar la recuperación de las familias.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno habilita que Cajas de Compensación movilicen hasta medio billón para apoyar a afectados por terremoto",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Plata arrancó operaciones en Colombia con CDT, bolsillo rentable y tarjeta débito; duplicará su inversión",
+        "url": "https://www.valoraanalitik.com/plata-operacion-colombia-cdt-rentabilidad/",
+        "resumen": "La fintech, que comenzó a operar la semana pasada, ya lanzó CDT y tarjeta débito; el próximo año prevé ampliar su oferta con financiamiento.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Fintech Plata inició operación en Colombia con CDT, bolsillo con rentabilidad y tarjeta débito; duplicará inversión",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "En julio las importaciones colombianas subieron 22,9 % impulsadas por manufacturas y combustibles",
+        "url": "https://www.valoraanalitik.com/importaciones-de-colombia-crecieron-229-en-julio-manufacturas-y-combustibles-jalonaron-el-resultado/",
+        "resumen": "En el periodo de enero a julio de 2026, las compras externas de Colombia ascendieron a US$46.043,9 millones CIF, lo que representa un repunte del 15,1 %.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Importaciones de Colombia crecieron 22,9 % en julio: Manufacturas y combustibles jalonaron el resultado",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "La ola de calor en Colombia sería la mayor del siglo y afectaría energía, agro y alimentos",
+        "url": "https://www.valoraanalitik.com/ola-de-calor-que-golpeara-colombia-podria-ser-la-mas-fuerte-en-lo-que-va-del-siglo-energia-agro-y-alimentos-serian-los-mas-afectados/",
+        "resumen": "Corficolombiana manifestó que el ahorro de agua y de energía pasó de ser una alternativa para convertirse en una prioridad.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ola de calor que golpeará Colombia podría ser la más fuerte en lo que va del siglo; energía, agro y alimentos serían los más afectados",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "MinAgricultura busca anular la declaratoria APPA en Córdoba para formular una nueva",
+        "url": "https://www.valoraanalitik.com/minagricultura-quiere-derogar-la-declaratoria-appa-en-cordoba-y-preparar-una-nueva-formulacion/",
+        "resumen": "Una revisión adelantada por la UPRA evidenció fallas en la escala cartográfica e ignorancia de zonas contaminadas con metales pesados.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "MinAgricultura quiere derogar la declaratoria APPA en Córdoba y preparar una nueva formulación",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
       {
         "titulo": "Dólar inicia jornada en baja a $3.170 pendiente de reunión entre Trump y Xi Jinping",
         "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-a-la-baja-en-3-170-a-la-espera-de-la-cumbre-entre-trump-y-xi-jinping/",
@@ -513,99 +603,119 @@
         "publicacion": "",
         "titulo_fuente": "Relevante | Gobierno crea incentivos tributarios para atraer inversión a zonas afectadas por terremoto",
         "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Video | Papeles de Ecopetrol encabezan las negociaciones bursátiles del día",
-        "url": "https://www.valoraanalitik.com/video-acciones-de-ecopetrol-lideran-el-volumen-de-transacciones-de-la-jornada/",
-        "resumen": "Ecopetrol movilizo $68.746 millones al finalizar el día",
-        "autor": "",
-        "subseccion": "Acciones ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Video | Acciones de Ecopetrol lideran el volumen de transacciones de la jornada",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Gobierno suaviza abonos de obligaciones fiscales por sismo y detalla fechas",
-        "url": "https://www.valoraanalitik.com/gobierno-flexibiliza-pago-de-deudas-tributarias-para-afectados-por-terremoto-asi-funcionaran-los-plazos/",
-        "resumen": "La nueva norma busca facilitar el cumplimiento de obligaciones tributarias de los afectados, reducir temporalmente sanciones e intereses.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno flexibiliza pago de deudas tributarias para afectados por terremoto: así funcionarán los plazos",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Pasaportes en Colombia: Cancillería adopta acción rápida para asegurar la prestación",
-        "url": "https://www.valoraanalitik.com/pasaportes-en-colombia-cancilleria-toma-medida-urgente-para-garantizar-la-continuidad-del-servicio/",
-        "resumen": "La Cancillería declaró la urgencia manifiesta para garantizar el suministro de pasaportes y visas mientras se define el futuro del nuevo modelo de expedición.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Pasaportes en Colombia: Cancillería toma medida urgente para garantizar la continuidad del servicio",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados globales mixtos por tasa del Banco de Japón y baja del crudo",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-mundiales-operan-mixtas-tras-decision-del-banco-de-japon-y-caida-del-petroleo-wall-street-rebota/",
-        "resumen": "Las acciones de tecnología y de fabricantes de chips se encontraron entre las de mejor rendimiento del día, rebotando desde las fuertes caídas.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas mundiales operan mixtas tras decisión del Banco de Japón y caída del petróleo: Wall Street rebota",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Entrevista | Isagen proveerá al sistema eléctrico del país energía igual al gasto de Cali",
-        "url": "https://www.valoraanalitik.com/el-sistema-electrico-colombiano-recibira-de-isagen-una-energia-equivalente-al-consumo-de-cali/",
-        "resumen": "Camilo Marulanda, presidente de Isagen, también reveló que Air-e le debe a la empresa $95.000 millones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | El sistema eléctrico colombiano recibirá de Isagen una energía equivalente al consumo de Cali",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "De la Espriella apoya la iniciativa de mover $100.000 millones de la JEP hacia la Rama Judicial",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-respalda-propuesta-para-trasladar-100-000-millones-de-jep-a-la-rama-judicial/",
-        "resumen": "La iniciativa busca financiar más jueces y despachos para atender el rezago de cerca de 2,2 millones de procesos pendientes de decisión.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella respalda propuesta para trasladar $100.000 millones de la JEP a la Rama Judicial",
-        "capturado": "2026-09-18T00:42:52-05:00"
-      },
-      {
-        "titulo": "De la Espriella avala $65.000 millones destinados a importante carretera en La Guajira",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-confirma-65-000-millones-para-via-clave-de-la-guajira/",
-        "resumen": "El Gobierno De la Espriella anunció recursos para una vía estratégica del sur de La Guajira, mientras prepara más proyectos de infraestructura en la región.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella confirma $65.000 millones para vía clave de La Guajira",
-        "capturado": "2026-09-18T00:42:52-05:00"
-      },
-      {
-        "titulo": "Colombia Fintech informa que sus asociados destinaran 4,3 billones de pesos para financiamiento y expansion",
-        "url": "https://www.valoraanalitik.com/relevante-colombia-fintech-anuncia-43-billones-de-sus-miembros-para-fondear-empresas-y-jalonar-crecimiento/",
-        "resumen": "Así lo confirmó el presidente de Colombia Fintech al cierre de la primera jornada del Latam Fintech Market 2026.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Colombia Fintech anuncia $4,3 billones de sus miembros para fondear empresas y jalonar crecimiento",
-        "capturado": "2026-09-17T19:42:03-05:00"
-      },
-      {
-        "titulo": "Ecopetrol revela la conformacion y los nombres de los integrantes de sus nuevos comites directivos",
-        "url": "https://www.valoraanalitik.com/ecopetrol-confirma-como-quedaron-los-nuevos-comites-de-su-junta-directiva-estos-son-sus-integrantes/",
-        "resumen": "Ecopetrol definió cómo quedarán conformados los seis comités que respaldan las decisiones de la Junta. Lea los detalles.",
-        "autor": "",
-        "subseccion": "Petróleo",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol confirma cómo quedaron los nuevos comités de su Junta Directiva: estos son sus integrantes",
-        "capturado": "2026-09-17T19:42:03-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Aumentaron las compras externas de gas en el país durante el fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/se-disparo-la-importacion-de-gas-en-colombia-en-medio-del-fenomeno-de-el-nino/",
+        "resumen": "A causa de la falta de posibilidad de autoabastecimiento a corto plazo, algunos expertos señalaron la necesidad de incentivar la importación.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Se disparó la importación de gas en Colombia en medio del fenómeno de El Niño",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Inteligencia artificial sumaría hasta US$13.600 millones al PIB nacional, según Blend360",
+        "url": "https://www.valoraanalitik.com/ia-aporte-pib-colombia-desafios-resultados/",
+        "resumen": "La firma advierte que muchas empresas todavía no cuentan con una metodología para determinar el retorno de sus proyectos de inteligencia artificial.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "IA podría aportar hasta US$13.600 millones al PIB de Colombia, pero hay desafíos para medir resultados: Blend360",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Tendencias y lugares de viaje de los antioqueños en 2026 de acuerdo con un estudio",
+        "url": "https://www.valoraanalitik.com/asi-estan-viajando-los-antioquenos-en-2026-destinos-y-nuevas-tendencias/",
+        "resumen": "Las reservas desde Medellín crecieron 80 % en un año, con mayor interés por viajes internacionales, paquetes turísticos y experiencias en pareja.",
+        "autor": "",
+        "subseccion": "Turismo",
+        "publicacion": "",
+        "titulo_fuente": "Así están viajando los antioqueños en 2026: destinos y nuevas tendencias, según estudio",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "ISA Energía destina US$670 millones a 35 iniciativas nacionales, sobre todo en la Costa Atlántica",
+        "url": "https://www.valoraanalitik.com/isa-energia-invierte-us670-millones-para-35-proyectos-en-colombia-la-mayoria-son-en-la-costa-atlantica/",
+        "resumen": "ISA Energía Colombia, específicamente, es el principal transmisor de energía a alto voltaje del país.",
+        "autor": "",
+        "subseccion": "Especial petroleo gas mineria y renovables",
+        "publicacion": "",
+        "titulo_fuente": "ISA Energía invierte US$670 millones para 35 proyectos en Colombia; la mayoría son en la Costa Atlántica",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Despegar sube 50 % en el país por compras móviles y alianzas bancarias y proyecta triplicarse",
+        "url": "https://www.valoraanalitik.com/despegar-crece-50-en-colombia-jalonado-por-ventas-por-celular-y-alianzas-con-entidades-financieras/",
+        "resumen": "Más de 2.500 agencias de viajes en Colombia compran hoy a través de la plataforma de Despegar para vender a sus propios clientes.",
+        "autor": "",
+        "subseccion": "Turismo",
+        "publicacion": "",
+        "titulo_fuente": "Despegar crece 50 % en Colombia jalonado por ventas por celular y alianzas con entidades financieras: prevé triplicar su tamaño",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Ejecutivo permite que Cajas de Compensación trasladen hasta medio billón para damnificados por sismo",
+        "url": "https://www.valoraanalitik.com/gobierno-habilita-que-cajas-de-compensacion-movilicen-hasta-medio-billon-para-apoyar-a-afectados-por-terremoto/",
+        "resumen": "Hasta $550.000 millones podrán movilizar las Cajas de Compensación Familiar para apoyar la recuperación de las familias.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno habilita que Cajas de Compensación movilicen hasta medio billón para apoyar a afectados por terremoto",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Este es el escalafón de rentabilidad de fondos de cesantías en Colombia: el plazo largo importa",
+        "url": "https://www.valoraanalitik.com/este-es-el-ranking-de-rentabilidad-de-fondos-de-cesantias-en-colombia-vision-en-el-largo-plazo-es-clave/",
+        "resumen": "Colfondos registra la mayor rentabilidad entre los principales fondos de cesantías tanto en el portafolio de largo plazo como en el de corto plazo.",
+        "autor": "",
+        "subseccion": "Especiales",
+        "publicacion": "",
+        "titulo_fuente": "Este es el ranking de rentabilidad de fondos de cesantías en Colombia: visión en el largo plazo es clave",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Julio César Henríquez asume la Subdirección Nacional Académica de la ESAP",
+        "url": "https://www.valoraanalitik.com/julio-cesar-henriquez-llega-a-la-subdireccion-nacional-academica-de-la-esap/",
+        "resumen": "Es abogado, especialista en ‘Los orígenes del cristianismo’, magíster en Teología y doctor en Ciencias Políticas.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Julio César Henríquez llega a la Subdirección Nacional Académica de la ESAP",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Compañías de Envigado tendrán acceso sin costo a asesorías y diagnósticos en sostenibilidad",
+        "url": "https://www.valoraanalitik.com/empresas-de-envigado-podran-acceder-gratuitamente-a-diagnosticos-y-acompanamiento-en-sostenibilidad/",
+        "resumen": "Se busca que las empresas incorporen prácticas sostenibles que les permitan ser más competitivas, optimizar recursos y prepararse para nuevos retos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Empresas de Envigado podrán acceder gratuitamente a diagnósticos y acompañamiento en sostenibilidad",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Cali se prepara para albergar Smart City Expo Cali 2026, la primera gran cita de su reactivación",
+        "url": "https://www.valoraanalitik.com/cali-esta-lista-para-recibir-smart-city-expo-cali-2026/",
+        "resumen": "El 96,5 % de la hotelería se encuentra lista y las estructuras de los centros comerciales evaluados están habilitadas para recibir visitantes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cali está lista para recibir Smart City Expo Cali 2026, el primer gran evento de su etapa de recuperación",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
+      {
+        "titulo": "Temperaturas extremas en Colombia alcanzarían récord del siglo y impactarían energía, agro y comida",
+        "url": "https://www.valoraanalitik.com/ola-de-calor-que-golpeara-colombia-podria-ser-la-mas-fuerte-en-lo-que-va-del-siglo-energia-agro-y-alimentos-serian-los-mas-afectados/",
+        "resumen": "Corficolombiana manifestó que el ahorro de agua y de energía pasó de ser una alternativa para convertirse en una prioridad.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ola de calor que golpeará Colombia podría ser la más fuerte en lo que va del siglo; energía, agro y alimentos serían los más afectados",
+        "capturado": "2026-09-21T14:41:40-05:00"
+      },
       {
         "titulo": "Patria Investments vendió su parte en el parque solar mayor de Colombia y se conoce el comprador",
         "url": "https://www.valoraanalitik.com/exclusivo-patria-investments-vendio-participacion-en-el-parque-solar-mas-grande-de-colombia-quien-fue-el-comprador/",
@@ -1095,116 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Primicia | Lulo Bank entra de lleno en la banca empresarial: ofrecerá factoring y más servicios corporativos",
         "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "BeatHub compra el cincuenta por ciento restante del Movistar Arena y toma el control total",
-        "url": "https://www.valoraanalitik.com/beathub-adquiere-el-50-restante-del-movistar-arena-y-consolida-el-100-de-su-operacion/",
-        "resumen": "Uno de los elementos centrales de la estrategia será la operación simultánea del Movistar Arena en Bogotá y la próxima apertura de DAVIarena en Medellín.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "BeatHub adquiere el 50 % restante del Movistar Arena y consolida el 100 % de su operación",
-        "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "Spotify estrena en Colombia un programa para que los creadores moneticen sus contenidos",
-        "url": "https://www.valoraanalitik.com/spotify-creadores-monetizar-contenidos/",
-        "resumen": "Spotify Partner Program permitirá generar ingresos por consumo de video, publicidad y patrocinios, mientras amplía las opciones para creadores de podcasts.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Spotify lanza en Colombia programa para que creadores moneticen sus contenidos",
-        "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "We agro lanza canal de abonos para disminuir gastos de transporte del sector agrícola nacional",
-        "url": "https://www.valoraanalitik.com/we-agro-estrena-ruta-de-fertilizantes-y-apunta-a-reducir-costos-logisticos/",
-        "resumen": "La nueva compañía del Grupo GreenLand recibió su primer buque de fertilizantes en Urabá.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "We agro estrena ruta de fertilizantes y apunta a reducir costos logísticos para el agro colombiano",
-        "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "El suministro eléctrico en Colombia correría peligro de escasez durante 2027 y 2028",
-        "url": "https://www.valoraanalitik.com/sector-electrico-colombiano-esta-en-riesgo-de-quedarse-sin-la-suficiente-energia-en-2027-y-2028/",
-        "resumen": "Otro de los puntos críticos es una deuda al interior del sector que asciende a $4 billones. El Gobierno de la Espriella mencionó que giraría $1,5 billones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Sector eléctrico colombiano está en riesgo de quedarse sin la suficiente energía en 2027 y 2028",
-        "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "Precia es la primera entidad colombiana en sumarse como socia corporativa al IVSC",
-        "url": "https://www.valoraanalitik.com/precia-se-convierte-en-el-primer-miembro-corporativo-de-colombia-en-el-ivsc/",
-        "resumen": "La firma fue admitida en el organismo que establece estándares internacionales de valoración y ahora podrá participar en la actualización de estas normas.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Precia se convierte en el primer miembro corporativo de Colombia en el IVSC",
-        "capturado": "2026-09-17T00:11:21-05:00"
-      },
-      {
-        "titulo": "El Festival Cordillera 2026 generó 2.300 millones en parafiscales y tuvo 70.000 asistentes",
-        "url": "https://www.valoraanalitik.com/festival-cordillera-2026-aporto-2-300-millones-en-parafiscales-y-recibio-70-000-asistentes/",
-        "resumen": "El festival también impulsó a la generación de más de 55.000 empleos directos, indirectos e inducidos.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Festival Cordillera 2026 aportó $2.300 millones en parafiscales y recibió 70.000 asistentes",
-        "capturado": "2026-09-17T00:11:21-05:00"
-      },
-      {
-        "titulo": "Invest in Bogotá lanza manual jurídico dirigido a compañías del exterior interesadas en el país",
-        "url": "https://www.valoraanalitik.com/invest-in-bogota-presenta-guia-legal-para-empresas-extranjeras-que-buscan-invertir-en-colombia/",
-        "resumen": "La guía responde a las preguntas que Invest in Bogotá ha identificado de manera recurrente durante sus 20 años de acompañamiento a inversionistas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Invest in Bogotá presenta guía legal para empresas extranjeras que buscan invertir en Colombia",
-        "capturado": "2026-09-16T19:14:47-05:00"
-      },
-      {
-        "titulo": "Oracle Cast Latinoamérica: nuevo pódcast exclusivo sobre temas financieros e integración de inteligencia artificial",
-        "url": "https://www.valoraanalitik.com/oracle-cast-latinoamerica-nuevo-podcast-exclusivo-con-temas-clave-para-el-sector-financiero-y-la-vinculacion-de-ia/",
-        "resumen": "Aborda cómo las entidades financieras están utilizando los datos para generar señales, tomar decisiones y desarrollar nuevas oportunidades de negocio.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Oracle Cast Latinoamérica: nuevo podcast exclusivo con temas clave para el sector financiero y la vinculación de IA",
-        "capturado": "2026-09-16T16:35:40-05:00"
-      },
-      {
-        "titulo": "Mercado Libre confirma inyección de US$600 para su estrategia de crecimiento logístico y empresarial en Colombia",
-        "url": "https://www.valoraanalitik.com/mercado-libre-inversion-colombia-us600/",
-        "resumen": "Mercado Libre confirmó la apertura de sedes en Bogotá y Medellín, centros logísticos en cuatro ciudades del país y el apoyo a más de 43.600 Pymes en 2026.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Mercado Libre anuncia inversión de US$600 como parte de su plan de expansión logístico y corporativo en Colombia",
-        "capturado": "2026-09-16T16:35:40-05:00"
-      },
-      {
-        "titulo": "Destino Oculto de Wingo vende más de 300 tiquetes en tan solo 19 minutos",
-        "url": "https://www.valoraanalitik.com/destino-oculto-de-wingo-agota-mas-de-300-cupos-en-solo-19-minutos/",
-        "resumen": "La tercera edición partirá de Bogotá y Medellín el 22 de octubre y llevará a los viajeros a dos destinos que solo conocerán al aterrizar.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Destino Oculto de Wingo agota más de 300 cupos en solo 19 minutos",
-        "capturado": "2026-09-16T16:35:40-05:00"
-      },
-      {
-        "titulo": "Sectores del gas licuado en Colombia pretenden ganar espacio mediante compras externas desde Cartagena",
-        "url": "https://www.valoraanalitik.com/industria-colombiana-del-glp-busca-ganar-terreno-con-la-importacion-desde-cartagena/",
-        "resumen": "El director del plan de importación de GLP de Puerto Bahía afirmó que los privados incrementaron su participación en ese mercado en los últimos cinco años.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Industria colombiana del GLP busca ganar terreno con la importación desde Cartagena",
-        "capturado": "2026-09-16T16:35:40-05:00"
       }
     ]
   }
