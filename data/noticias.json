@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-21T14:41:40-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-09-21T18:06:09-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Salario mínimo 2027: Consejo Gremial alerta sobre los posibles efectos de un incremento excesivo",
+        "url": "https://www.valoraanalitik.com/salario-minimo-2027-consejo-gremial-advierte-que-podria-pasar-si-sube-demasiado/",
+        "resumen": "Cerca de 2,4 millones de trabajadores en Colombia reciben el salario mínimo, mientras más de 6 millones perciben entre uno y dos veces ese monto.",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Salario mínimo 2027: Consejo Gremial advierte qué podría pasar si sube demasiado",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
+      {
+        "titulo": "Corte Constitucional fija nueva norma en licencias de maternidad y lactancia y modifica condiciones",
+        "url": "https://www.valoraanalitik.com/corte-constitucional-deja-nueva-regla-para-las-licencias-de-maternidad-y-lactancia-esto-cambia-para-las-familias/",
+        "resumen": "Una decisión de la Corte Constitucional cambia la forma de analizar las licencias de maternidad y lactancia en familias con situaciones particulares",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Corte Constitucional deja nueva regla para las licencias de maternidad y lactancia: esto cambia para las familias",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
+      {
+        "titulo": "Oxford Economics reduce su pronóstico de expansión económica para Colombia y señala incertidumbre",
+        "url": "https://www.valoraanalitik.com/oxford-economics-modera-su-proyeccion-de-crecimiento-economico-en-colombia-y-advierte-incertidumbre/",
+        "resumen": "Esta debilidad, de acuerdo con Oxford Economics, responde a la combinación de un peso colombiano fuerte y una demanda de inversión.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Oxford Economics modera su proyección de crecimiento económico en Colombia y advierte incertidumbre",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
+      {
+        "titulo": "A julio de 2026, las fintechs otorgaron 70% de los créditos con respaldo del FGA Fondo de Garantías",
+        "url": "https://www.valoraanalitik.com/fintechs-creditos-respaldados-fga/",
+        "resumen": "Estas compañías movilizaron $3,3 billones en 5,2 millones de créditos respaldados durante los primeros siete meses del año.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fintechs originaron 70% de los créditos respaldados por FGA Fondo de Garantías a julio de 2026",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
+      {
+        "titulo": "Bruce Mac Master solicita al gobierno De la Espriella garantizar fondos reales para la salud colombiana",
+        "url": "https://www.valoraanalitik.com/bruce-mac-master-pide-al-gobierno-de-la-espriella-asegurar-recursos-reales-para-la-salud-en-colombia/",
+        "resumen": "La salud en Colombia, recordó la ANDI, tiene importantes presiones financieras para los próximos años.",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "Bruce Mac Master pide al gobierno De la Espriella asegurar recursos reales para la salud en Colombia",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
+      {
+        "titulo": "Excongresista del Centro Democrático Thania Vega asumirá como embajadora de Colombia en Perú",
+        "url": "https://www.valoraanalitik.com/thania-vega-exsenadora-del-centro-democratico-sera-la-nueva-embajadora-de-colombia-en-peru/",
+        "resumen": "Ficha cercana al uribismo llega al gobierno de Abelardo de la Espriella.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Thania Vega, exsenadora del Centro Democrático, será la nueva embajadora de Colombia en Perú",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
+      {
+        "titulo": "Banco de Bogotá otorgará crédito por 300.000 millones para granja solar de Patria y Ashmore en Santander",
+        "url": "https://www.valoraanalitik.com/banco-de-bogota-parque-solar-santander/",
+        "resumen": "El proyecto Puertos de Santander tendrá una capacidad instalada de 250 megavatios pico (MWp) y generará más de 500 gigavatios hora (GWh) al año.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Banco de Bogotá financiará $300.000 millones para parque solar de Patria y Ashmore en Santander",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
+      {
+        "titulo": "Revise bien antes de adquirir un vehículo híbrido pues no todos cuentan con iguales ventajas fiscales",
+        "url": "https://www.valoraanalitik.com/no-todos-los-carros-hibridos-tienen-los-mismos-beneficios-tributarios-ojo-antes-de-comprar/",
+        "resumen": "Los carros híbridos ganan terreno en Colombia, pero la tecnología elegida puede cambiar los beneficios tributarios disponibles para el comprador.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "No todos los carros híbridos tienen los mismos beneficios tributarios: ojo antes de comprar",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
+      {
+        "titulo": "Proyecto de presupuesto nacional de 2027 afronta más de 600 proposiciones previas a su aprobación",
+        "url": "https://www.valoraanalitik.com/presupuesto-de-colombia-2027-enfrenta-mas-de-600-preposiciones-para-ser-aprobado/",
+        "resumen": "Continúa en vilo la aprobación del Presupuesto General para 2027 y se agota el tiempo.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto de Colombia 2027 enfrenta más de 600 preposiciones para ser aprobado",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
+      {
+        "titulo": "Fuerte temporada de calor alcanzará su pico a finales de 2026 y cederá hacia la mitad de 2027",
+        "url": "https://www.valoraanalitik.com/ola-de-calor-golpeara-con-la-mayor-intensidad-a-finales-de-2026-pero-disminuira-a-mediados-de-2027/",
+        "resumen": "Este fenómeno climático altera la capacidad de generación de las hidroeléctricas de Colombia y aumenta la generación térmica.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ola de calor golpeará con la mayor intensidad a finales de 2026, pero disminuirá a mediados de 2027",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
       {
         "titulo": "Administración De la Espriella modifica condiciones para obtener ayudas habitacionales",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-cambia-requisitos-para-acceder-a-subsidios-de-vivienda/",
@@ -503,109 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Salario mínimo de 2026 habría disparado el gasto de Colpensiones y dejó faltante de $5,4 billones",
         "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Compañías acatarán nuevos requisitos en 2026 para prevenir multas, según estipula la ley",
-        "url": "https://www.valoraanalitik.com/empresas-deberan-cumplir-nuevas-exigencias-en-2026-para-evitar-sanciones-esto-dice-la-norma/",
-        "resumen": "Una obligación ambiental tendrá nuevos puntos de control para las empresas en 2026. Revise quiénes deben cumplirla y qué exige la norma.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Empresas deberán cumplir nuevas exigencias en 2026 para evitar sanciones: esto dice la norma",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Detalles de la salida de Nike de Atlético Nacional y su marca propia apoyada en James",
-        "url": "https://www.valoraanalitik.com/exclusivo-estos-son-los-detalles-de-la-salida-de-nike-de-atletico-nacional-marca-propia-se-apalancara-en-james/",
-        "resumen": "Atlético Nacional pondrá fin a 14 años de alianza con Nike y prepara una nueva estrategia comercial que busca aprovechar el mercado de su hinchada.",
-        "autor": "",
-        "subseccion": "Valorasports",
-        "publicacion": "",
-        "titulo_fuente": "Exclusivo | Estos son los detalles de la salida de Nike de Atlético Nacional: Marca propia se apalancará en James",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "El PIB colombiano subió 1,11 % en julio, una cuarta parte del registro anterior",
-        "url": "https://www.valoraanalitik.com/actividad-economica-de-colombia-crecio-111-en-julio-cuatro-veces-menos-que-el-ano-pasado/",
-        "resumen": "En el acumulado del año (enero-julio), la economía colombiana registró un crecimiento del 2,62 %, según el DANE.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Actividad económica de Colombia creció 1,11 % en julio, cuatro veces menos que el año pasado",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "CARF advierte que el país se acerca al límite de deuda y hay riesgos de insolvencia",
-        "url": "https://www.valoraanalitik.com/carf-colombia-se-acerca-al-limite-irreversible-del-endeudamiento-y-hay-sombras-de-insolvencia/",
-        "resumen": "Juan Carlos Ramírez, presidente del Comité Autónomo de la Regla Fiscal (CARF), analizó el desbalance presupuestal y las limitaciones de los recortes.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "CARF: Colombia se acerca al límite irreversible del endeudamiento y hay sombras de insolvencia",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Parque eólico de AES Colombia y Ecopetrol iniciaría operaciones en 2029",
-        "url": "https://www.valoraanalitik.com/megaproyecto-eolico-de-aes-colombia-y-ecopetrol-entraria-en-operacion-en-2029/",
-        "resumen": "Federico Echavarría, gerente de la empresa, reveló cómo será el desarrollo de dicha iniciativa.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Megaproyecto eólico de AES Colombia y Ecopetrol entraría en operación en 2029",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Entubar redes en Bogotá para limpiar vías valdría más de $20 billones y sigue en debate en el Concejo",
-        "url": "https://www.valoraanalitik.com/soterrar-cables-y-redes-en-bogota-para-ordenar-calles-de-bogota-costaria-mas-de-20-billones-asi-esta-el-pulso-en-el-concejo-por-este-proyecto/",
-        "resumen": "La disputa por el soterramiento de cables en Bogotá escala entre Enel y concejales. La empresa advierte sobre costos y pide cambios al proyecto.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Soterrar cables y redes en Bogotá para ordenar calles de Bogotá costaría más de $20 billones: así está el pulso en el Concejo por este proyecto",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Warren Buffett sale de la presidencia de Berkshire Hathaway y su hijo Howard ocupará el puesto",
-        "url": "https://www.valoraanalitik.com/warren-buffett-deja-la-presidencia-de-berkshire-hathaway-y-su-hijo-howard-asumira-el-cargo/",
-        "resumen": "La llegada de Howard Buffett a la presidencia forma parte del plan de sucesión que Berkshire Hathaway ha desarrollado durante años.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Warren Buffett deja la presidencia de Berkshire Hathaway y su hijo Howard asumirá el cargo",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Dólar amplía su alza y abre en $3.170 mientras el mercado aguarda el dato de actividad en Colombia",
-        "url": "https://www.valoraanalitik.com/dolar-extiende-su-tendencia-alcista-y-abre-en-3-170-mercado-a-la-espera-del-dato-de-actividad-economica-en-colombia/",
-        "resumen": "El precio de apertura de este viernes no se registraba desde el inicio del mes y confirma la tendencia alcista del dólar en Colombia.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar extiende su tendencia alcista y abre en $3.170: mercado, a la espera del dato de actividad económica en Colombia",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Inician análisis para levantar Puerto Nuevo, proyecto dirigido a traer gas desde el Magdalena",
-        "url": "https://www.valoraanalitik.com/arrancan-estudios-para-construir-puerto-nuevo-proyecto-para-importar-gas-desde-el-magdalena/",
-        "resumen": "La entidad inició trámite para modificar la licencia ambiental y avanzar con un proyecto de importación de petróleo, gas, derivados y otros bienes y productos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Arrancan estudios para construir Puerto Nuevo: iniciativa para importar gas desde el Magdalena",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Gobierno establece beneficios de impuestos para captar capital en zonas golpeadas por sismo",
-        "url": "https://www.valoraanalitik.com/relevante-gobierno-crea-incentivos-tributarios-para-atraer-inversion-a-zonas-afectadas-por-terremoto/",
-        "resumen": "El decreto estableció montos mínimos diferentes dependiendo de la actividad económica de la empresa.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Gobierno crea incentivos tributarios para atraer inversión a zonas afectadas por terremoto",
-        "capturado": "2026-09-18T09:54:35-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Nueva regla de la Corte Constitucional sobre licencias de maternidad y lactancia modifica condiciones",
+        "url": "https://www.valoraanalitik.com/corte-constitucional-deja-nueva-regla-para-las-licencias-de-maternidad-y-lactancia-esto-cambia-para-las-familias/",
+        "resumen": "Una decisión de la Corte Constitucional cambia la forma de analizar las licencias de maternidad y lactancia en familias con situaciones particulares",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Corte Constitucional deja nueva regla para las licencias de maternidad y lactancia: esto cambia para las familias",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
+      {
+        "titulo": "A finales de 2026 llegará el pico de la ola de calor que bajará a mediados de 2027",
+        "url": "https://www.valoraanalitik.com/ola-de-calor-golpeara-con-la-mayor-intensidad-a-finales-de-2026-pero-disminuira-a-mediados-de-2027/",
+        "resumen": "Este fenómeno climático altera la capacidad de generación de las hidroeléctricas de Colombia y aumenta la generación térmica.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ola de calor golpeará con la mayor intensidad a finales de 2026, pero disminuirá a mediados de 2027",
+        "capturado": "2026-09-21T18:06:09-05:00"
+      },
       {
         "titulo": "Aumentaron las compras externas de gas en el país durante el fenómeno de El Niño",
         "url": "https://www.valoraanalitik.com/se-disparo-la-importacion-de-gas-en-colombia-en-medio-del-fenomeno-de-el-nino/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Relevante | Carlos Suárez, estratega de Abelardo de La Espriella, es nuevo presidente de Junta Directiva de Ecopetrol",
         "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "GeoPark busca más fracking en Vaca Muerta tras alcanzar mejor puntaje en nueva ronda",
-        "url": "https://www.valoraanalitik.com/geopark-va-por-mas-fracking-en-vaca-muerta-tras-lograr-mayor-puntaje-en-nueva-ronda/",
-        "resumen": "La eventual adjudicación permitiría a GeoPark ampliar su presencia en una de las principales formaciones de hidrocarburos no convencionales del mundo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark va por más fracking en Vaca Muerta tras lograr mayor puntaje en nueva ronda",
-        "capturado": "2026-09-17T10:14:09-05:00"
-      },
-      {
-        "titulo": "Lulo Bank incursiona de lleno en la banca corporativa con factoring y más servicios empresariales",
-        "url": "https://www.valoraanalitik.com/lulo-bank-entra-de-lleno-en-la-banca-empresarial-factoring-mas-servicios/",
-        "resumen": "Lulo Empresas ya tiene 194 compañías vinculadas y ha desembolsado cerca de $100.000 millones en soluciones de trabajo y factoring.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Lulo Bank entra de lleno en la banca empresarial: ofrecerá factoring y más servicios corporativos",
-        "capturado": "2026-09-17T10:14:09-05:00"
       }
     ]
   }
