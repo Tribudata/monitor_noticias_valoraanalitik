@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-20T18:06:09-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-20T20:27:35-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Revolut llega al país con cinco opciones de pago y un enfoque de libre selección para los clientes",
+        "url": "https://www.valoraanalitik.com/revolut-aterriza-en-colombia-con-cinco-planes-de-suscripcion-y-una-propuesta-de-libre-eleccion-para-los-usuarios/",
+        "resumen": "Colombia será el primer mercado en el que Revolut lanzará desde el primer día el portafolio integral que ofrece en Europa.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Revolut aterriza en Colombia con cinco planes de suscripción y una propuesta de libre elección para los usuarios",
+        "capturado": "2026-09-20T20:27:35-05:00"
+      },
       {
         "titulo": "Cerca de 3.800 firmas colombianas exportan a EE.UU. y sube la demanda en salud, logística y tecnología",
         "url": "https://www.valoraanalitik.com/exportaciones-colombia-estados-unidos/",
@@ -592,16 +602,6 @@
         "subseccion": "Bancarias",
         "publicacion": "",
         "titulo_fuente": "Bancolombia, Davivienda y GNB Sudameris se consolidan en el ‘top’ 3 de los bancos con mayores ganancias en Colombia",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Movistar se retira de Colombia: evolución de la firma que revolucionó las telecomunicaciones",
-        "url": "https://www.valoraanalitik.com/movistar-se-despide-de-colombia-esta-es-la-historia-de-la-marca/",
-        "resumen": "La compañía llegó al país hace más de 20 años, creció con Telefónica y ahora queda en manos de Millicom tras su integración con Tigo.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Movistar dice adiós a Colombia: esta es la historia de una de las marcas que transformó el sector de telecomunicaciones",
         "capturado": "2026-09-17T17:23:08-05:00"
       }
     ],
