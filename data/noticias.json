@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-21T18:06:09-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-21T20:45:21-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno de De la Espriella revela plan de urgencia en salud para ayudar a enfermos y aseguradoras",
+        "url": "https://www.valoraanalitik.com/gobierno-de-de-la-espriella-anuncia-plan-de-choque-en-salud-asi-beneficiara-a-pacientes-y-eps/",
+        "resumen": "De la Espriella sostuvo que entre enero y julio de este año se registraron más de 1,2 millones de reclamos ante la Superintendencia Nacional de Salud.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno de De la Espriella anuncia ‘plan de choque en salud’: así beneficiará a pacientes y EPS",
+        "capturado": "2026-09-21T20:45:21-05:00"
+      },
+      {
+        "titulo": "Colombia planea junto a Estados Unidos su ingreso al Escudo de las Américas",
+        "url": "https://www.valoraanalitik.com/colombia-coordina-con-ee-uu-su-participacion-en-el-escudo-de-las-americas/",
+        "resumen": "Colombia se incorporó oficialmente al Escudo de las Américas el pasado 14 de septiembre.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Colombia coordina con EE. UU. su participación en el Escudo de las Américas",
+        "capturado": "2026-09-21T20:45:21-05:00"
+      },
+      {
+        "titulo": "De la Espriella alista modificaciones estructurales en la creación y comercio ecológico en Colombia",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-prepara-cambios-de-fondo-para-la-produccion-y-venta-de-productos-organicos-en-colombia/",
+        "resumen": "Productores de alimentos orgánicos enfrentarían nuevas reglas de certificación y trazabilidad.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella prepara cambios de fondo para la producción y venta de productos orgánicos en Colombia",
+        "capturado": "2026-09-21T20:45:21-05:00"
+      },
+      {
+        "titulo": "Mateo Restrepo Villegas asume la presidencia de la Minera de Cobre Quebradona con larga trayectoria",
+        "url": "https://www.valoraanalitik.com/minera-de-cobre-quebradona-tiene-nuevo-presidente-mateo-restrepo-villegas-llega-con-mas-de-20-anos-de-trayectoria/",
+        "resumen": "Mateo Restrepo Villegas, nuevo presidente de Minera de Cobre Quebradona SAS BIC, llega en reemplazo de Mauricio Echeverry. Estos son los detalles.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Minera de Cobre Quebradona tiene nuevo presidente: Mateo Restrepo Villegas llega con más de 20 años de trayectoria",
+        "capturado": "2026-09-21T20:45:21-05:00"
+      },
       {
         "titulo": "Salario mínimo 2027: Consejo Gremial alerta sobre los posibles efectos de un incremento excesivo",
         "url": "https://www.valoraanalitik.com/salario-minimo-2027-consejo-gremial-advierte-que-podria-pasar-si-sube-demasiado/",
@@ -563,46 +603,6 @@
         "publicacion": "",
         "titulo_fuente": "Dólar en Colombia superó este viernes la barrera de los $3.200 impulsado por cautela externa y debilidad del ISE local",
         "capturado": "2026-09-18T16:09:25-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella permite usar regalías para proyectos en áreas damnificadas por el sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-habilita-uso-de-regalias-en-zonas-afectadas-por-el-terremoto-para-financiar-proyectos/",
-        "resumen": "La norma restringe el beneficio exclusivamente a los departamentos y municipios incluidos en la declaratoria de emergencia.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella habilita uso de regalías en zonas afectadas por el terremoto para financiar proyectos",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Gobierno suma más de medio billón al Presupuesto de 2026 para reparar afectaciones del sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-adiciona-mas-de-medio-billon-de-pesos-al-presupuesto-de-2026-para-atender-los-danos-del-terremoto/",
-        "resumen": "El terremoto habría dejado $30 billones en pérdidas, equivalentes al 1,5 % del PIB nacional, de acuerdo con las estimaciones oficiales.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno adiciona más de medio billón de pesos al Presupuesto de 2026 para atender los daños del terremoto",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Relevante | Nu inyectará $5 billones en Colombia a cinco años y rebasó seis millones de usuarios",
-        "url": "https://www.valoraanalitik.com/nu-5-billones-colombia-cinco-anos/",
-        "resumen": "Marcela Torres, gerente general de Nu Colombia, destacó el crecimiento del neobanco en el país.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Nu invertirá $5 billones en Colombia en próximos cinco años; superó seis millones de clientes",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Sueldo básico de 2026 habría elevado el gasto de Colpensiones y generó déficit de $5,4 billones",
-        "url": "https://www.valoraanalitik.com/salario-minimo-de-2026-habria-disparado-el-gasto-de-colpensiones-y-dejo-faltante-de-54-billones/",
-        "resumen": "El Gobierno deberá definir cómo financiar el faltante de $5,4 billones que enfrenta Colpensiones para garantizar el pago de las pensiones.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Salario mínimo de 2026 habría disparado el gasto de Colpensiones y dejó faltante de $5,4 billones",
-        "capturado": "2026-09-18T13:13:54-05:00"
       }
     ],
     "Empresariales": [
