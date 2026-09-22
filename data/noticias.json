@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-22T12:43:08-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-22T16:06:49-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "ANH revela nuevo plan para fomentar la búsqueda de crudo y gas en el país",
+        "url": "https://www.valoraanalitik.com/anh-anuncia-nueva-estrategia-para-impulsar-la-exploracion-de-petroleo-y-gas-en-colombia/",
+        "resumen": "La entidad presentó Oportunidades Exploratorias 2026 y advirtió sobre los riesgos para el abastecimiento futuro por la baja actividad exploratoria.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "ANH anuncia nueva estrategia para impulsar la exploración de petróleo y gas en Colombia",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Administración De La Espriella declarará emergencia por el fenómeno climático",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-decretara-emergencia-por-el-fenomeno-de-el-nino/",
+        "resumen": "Esta medida sería expedida el próximo lunes, 28 de septiembre.",
+        "autor": "",
+        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella decretará emergencia por el fenómeno de El Niño",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "MinTransporte informa medidas para terminal aérea de Rionegro y su segunda pista",
+        "url": "https://www.valoraanalitik.com/mintransporte-hace-anuncios-clave-para-el-aeropuerto-de-rionegro-habra-nueva-terminal-y-tramites-para-segunda-pista/",
+        "resumen": "La ministra Noguera confirmó que el contrato vigente con Airplan tiene el margen para asumir la obra.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "MinTransporte hace anuncios clave para el aeropuerto de Rionegro: habrá nueva terminal y trámites para segunda pista",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Destacado | Global66 obtiene aval vital para brindar acceso a inversión extranjera",
+        "url": "https://www.valoraanalitik.com/global66-aprobacion-inversiones-wall-street/",
+        "resumen": "La fintech destinó más de US$1 millón y 19 meses al proceso regulatorio; su operación en Estados Unidos también quedó registrada ante la SEC.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Global66 recibe aprobación clave en su proceso para ofrecer acceso a inversiones en Wall Street",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Dimayor y Sencia explican el futuro de El Campín tras fijarse la final femenina en Tunja",
+        "url": "https://www.valoraanalitik.com/dimayor-y-sencia-chocan-por-el-campin-tras-confirmarse-que-la-final-del-futbol-femenino-se-jugara-en-tunja/",
+        "resumen": "El cambio de estadio para la final de la Liga Femenina abrió una disputa entre Dimayor y Sencia por la disponibilidad de El Campín y la programación de eventos.",
+        "autor": "",
+        "subseccion": "Valorasports",
+        "publicacion": "",
+        "titulo_fuente": "Dimayor y Sencia aclaran lo que viene para El Campín tras confirmarse que la final del fútbol femenino se jugará en Tunja",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Cajas de compensación darán nuevo auxilio de vivienda en alquiler en el país y así operará",
+        "url": "https://www.valoraanalitik.com/cajas-de-compensacion-entregaran-nuevo-subsidio-de-arriendo-en-colombia-asi-funcionara/",
+        "resumen": "Un nuevo subsidio de arriendo en Colombia tendrá condiciones especiales y será entregado a través de las cajas de compensación.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Cajas de compensación entregarán nuevo subsidio de arriendo en Colombia: así funcionará",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Gobierno da aval a ISA para crédito interno por 31.908 millones de pesos",
+        "url": "https://www.valoraanalitik.com/gobierno-autoriza-a-isa-operacion-de-deuda-interna-por-31-908-millones/",
+        "resumen": "ISA podrá formalizar la modificación del contrato bajo las condiciones financieras previamente aprobadas por el Ministerio de Hacienda.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno autoriza a ISA operación de deuda interna por $31.908 millones",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Dólar superó los 3.200 pesos tras semanas por declaraciones de Trump ante la ONU",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-cerro-sobre-3-200-por-primera-vez-en-semanas-mercado-se-mueve-por-anuncios-de-trump-en-la-onu/",
+        "resumen": "Durante la sesión se transaron US$1.180,15 millones en un total de 1.644 operaciones a través de la plataforma SET-FX.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia cerró sobre $3.200 por primera vez en semanas; mercado se mueve por anuncios de Trump en la ONU",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Visa y Nequi finalizan traslado de más de 6 millones de usuarios al sistema Pismo",
+        "url": "https://www.valoraanalitik.com/visa-y-nequi-completan-migracion-de-mas-de-6-millones-de-cuentas-a-plataforma-pismo/",
+        "resumen": "La nueva plataforma permitirá a Nequi contar con mayor agilidad para ampliar su capacidad operativa y responder al crecimiento.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Visa y Nequi completan migración de más de 6 millones de cuentas a plataforma Pismo",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
       {
         "titulo": "Iniciativa de De La Espriella sobre Código de Tránsito disminuirá costo de multas, cursos, pases, patios y grúas",
         "url": "https://www.valoraanalitik.com/reforma-de-de-la-espriella-a-codigo-de-transito-rebajara-valor-de-multas-cursos-licencias-patios-y-gruas-en-colombia/",
@@ -513,99 +603,119 @@
         "publicacion": "",
         "titulo_fuente": "José Manuel Restrepo representará a Colombia en la Asamblea General de la ONU en Nueva York",
         "capturado": "2026-09-20T15:36:00-05:00"
-      },
-      {
-        "titulo": "Colplast proyecta expansión en América Latina, alista nuevos productos y avanza en su crecimiento",
-        "url": "https://www.valoraanalitik.com/entrevista-colplast-espera-llegar-a-mas-paises-de-latinoamerica-prepara-nuevos-lanzamientos-y-revela-proyecciones-de-crecimiento/",
-        "resumen": "La operación de Colplast está constituida por 34 máquinas inyectoras, 16 robots, 8 bandas transportadoras y 2 peletizadoras propias.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Colplast espera llegar a más países de Latinoamérica: prepara nuevos lanzamientos y revela proyecciones de crecimiento",
-        "capturado": "2026-09-20T15:36:00-05:00"
-      },
-      {
-        "titulo": "Tensión armada en Medio Oriente: restricción energética presiona la economía estadounidense",
-        "url": "https://www.valoraanalitik.com/escalada-militar-en-medio-oriente-bloqueo-energetico-presiona-la-economia-de-ee-uu/",
-        "resumen": "La tensión bélica, que se ha prolongado por casi siete meses, mantiene paralizada una de las rutas marítimas más críticas para el comercio global.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Escalada militar en Medio Oriente: bloqueo energético presiona la economía de EE. UU.",
-        "capturado": "2026-09-20T15:36:00-05:00"
-      },
-      {
-        "titulo": "Suramericana atendió 11.800 solicitudes luego del sismo en Colombia y pagó $70.100 millones",
-        "url": "https://www.valoraanalitik.com/suramericana-reclamaciones-terremoto/",
-        "resumen": "La compañía parte del Grupo Sura plantea mayor prevención ante fenómenos como el envejecimiento, el cambio climático, la energía y la tecnología.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Suramericana recibió 11.800 reclamaciones tras terremoto en Colombia y ha desembolsado $70.100 millones",
-        "capturado": "2026-09-20T12:36:22-05:00"
-      },
-      {
-        "titulo": "Fuego forestal de enorme proporción arrasa con más de 70 hectáreas en Villa de Leyva",
-        "url": "https://www.valoraanalitik.com/incendio-forestal-de-gran-magnitud-consume-mas-de-70-hectareas-en-villa-de-leyva/",
-        "resumen": "Informes preliminares de la Unidad Nacional para la Gestión del Riesgo de Desastres señalan que la conflagración habría sido provocada.",
-        "autor": "",
-        "subseccion": "Medio ambiente",
-        "publicacion": "",
-        "titulo_fuente": "Incendio forestal de gran magnitud consume más de 70 hectáreas en Villa de Leyva",
-        "capturado": "2026-09-20T12:36:22-05:00"
-      },
-      {
-        "titulo": "Riesgo país sube y tasas de TES se acercan al 12,7 % por dudas fiscales del Gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/tasas-de-los-tes-rozan-el-127-y-el-riesgo-pais-escala-ante-la-incertidumbre-fiscal-del-gobierno-de-la-espriella/",
-        "resumen": "Estos son los factores que han disparado la prima de riesgo (EMBI) e incrementado los costos de endeudamiento del Estado colombiano.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Tasas de los TES rozan el 12,7 % y el riesgo país escala ante la incertidumbre fiscal del Gobierno De la Espriella",
-        "capturado": "2026-09-20T09:02:58-05:00"
-      },
-      {
-        "titulo": "MinTransporte aplazará cinco billones quinientos mil millones en vigencias futuras de la ANI con las firmas",
-        "url": "https://www.valoraanalitik.com/mintransporte-reprogramara-55-billones-en-vigencias-futuras-de-la-ani-con-los-concesionarios/",
-        "resumen": "La ministra de Transporte, Elsa Noguera, expuso la estrategia para hacer frente al déficit presupuestal y garantizar la terminación de las obras inconclusas.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "MinTransporte reprogramará $5,5 billones en vigencias futuras de la ANI con los concesionarios",
-        "capturado": "2026-09-19T16:38:49-05:00"
-      },
-      {
-        "titulo": "Alarma eléctrica: Ocho embalses colombianos operarían bajo mínimos históricos por el fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/alerta-en-el-sistema-electrico-ocho-embalses-de-colombia-operarian-por-debajo-de-sus-minimos-historicos-por-el-nino/",
-        "resumen": "Embalses estratégicos para el parque hidroeléctrico nacional caerán a registros no vistos durante la temporada seca.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Alerta en el sistema eléctrico: Ocho embalses de Colombia operarían por debajo de sus mínimos históricos por El Niño",
-        "capturado": "2026-09-19T14:14:50-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella asigna 87.700 millones de pesos para culminar el Gran Malecón del Mar en Cartagena",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-destina-87-700-millones-para-finalizar-el-gran-malecon-del-mar-en-cartagena/",
-        "resumen": "Según el cronograma de la obra, el próximo 15 de octubre debían ponerse en operación los primeros 2 kilómetros habilitados.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella destina $87.700 millones para finalizar el Gran Malecón del Mar en Cartagena",
-        "capturado": "2026-09-19T14:14:50-05:00"
-      },
-      {
-        "titulo": "Corferias vinculó mediante Econexia a firmas creativas del país con compradores de España, México y Chile",
-        "url": "https://www.valoraanalitik.com/econexia-corferias-resultados-rueda-industrias-creativas/",
-        "resumen": "La demanda se concentró en los sectores tecnológico, editorial, artesanal y didáctico, con oferentes de Bogotá, Antioquia, Cundinamarca y Atlántico.",
-        "autor": "",
-        "subseccion": "Pymes en colombia",
-        "publicacion": "",
-        "titulo_fuente": "Econexia de Corferias conectó a empresas creativas colombianas con compradores de México, España y Chile",
-        "capturado": "2026-09-19T14:14:50-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Cartagena acogerá el Congreso Colombiano de la Construcción 2026: ejes temáticos y panelistas principales",
+        "url": "https://www.valoraanalitik.com/el-congreso-colombiano-de-la-construccion-2026-se-toma-cartagena-estos-seran-los-temas-y-panelistas-clave-de-esta-edicion/",
+        "resumen": "El evento busca trascender su agenda tradicional y convertirse en un espacio de conversación sobre el presente y el futuro del país.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "El Congreso Colombiano de la Construcción 2026 se toma Cartagena: estos serán los temas y panelistas clave de esta edición",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella declarará estado de emergencia a causa del fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-decretara-emergencia-por-el-fenomeno-de-el-nino/",
+        "resumen": "Esta medida sería expedida el próximo lunes, 28 de septiembre.",
+        "autor": "",
+        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella decretará emergencia por el fenómeno de El Niño",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Gobierno avala endeudamiento interno de ISA por treinta y un mil novecientos ocho millones de pesos",
+        "url": "https://www.valoraanalitik.com/gobierno-autoriza-a-isa-operacion-de-deuda-interna-por-31-908-millones/",
+        "resumen": "ISA podrá formalizar la modificación del contrato bajo las condiciones financieras previamente aprobadas por el Ministerio de Hacienda.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno autoriza a ISA operación de deuda interna por $31.908 millones",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Visa y Nequi culminan traslado de más de seis millones de cuentas hacia el sistema Pismo",
+        "url": "https://www.valoraanalitik.com/visa-y-nequi-completan-migracion-de-mas-de-6-millones-de-cuentas-a-plataforma-pismo/",
+        "resumen": "La nueva plataforma permitirá a Nequi contar con mayor agilidad para ampliar su capacidad operativa y responder al crecimiento.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Visa y Nequi completan migración de más de 6 millones de cuentas a plataforma Pismo",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Modificación de De La Espriella al Código de Tránsito disminuirá costos de multas, pases, patios y grúas",
+        "url": "https://www.valoraanalitik.com/reforma-de-de-la-espriella-a-codigo-de-transito-rebajara-valor-de-multas-cursos-licencias-patios-y-gruas-en-colombia/",
+        "resumen": "Elsa Noguera, ministra de Transporte, sostuvo que el proyecto atenderá una directriz presidencial orientada a la desregulación de cobros excesivos.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Reforma de De La Espriella al Código de Tránsito rebajará valor de multas, cursos, licencias, patios y grúas en Colombia",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "El aguacate Hass es clave para la competitividad, innovación y negocios en Colombia",
+        "url": "https://www.valoraanalitik.com/colombia-pone-al-aguacate-hass-en-el-centro-de-la-conversacion-sobre-competitividad-innovacion-y-negocios/",
+        "resumen": "Territorio Aguacate 2026, el punto de encuentro que busca funcionar como un ecosistema de conexión para los distintos actores que participan en la industria.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia pone al aguacate Hass en el centro de la conversación sobre competitividad, innovación y negocios",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Visa prepara nueva tecnología para enlazar billeteras colombianas con pagos globales",
+        "url": "https://www.valoraanalitik.com/visa-alista-nueva-tecnologia-para-conectar-billeteras-colombianas-con-pagos-internacionales/",
+        "resumen": "La compañía avanza en interoperabilidad de manera internacional con su nueva solución.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Visa alista nueva tecnología para conectar billeteras colombianas con pagos internacionales",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Entrevista | Banco de Occidente: el reto es que la incertidumbre no paralice empresas",
+        "url": "https://www.valoraanalitik.com/banco-de-occidente-el-reto-es-que-la-incertidumbre-no-se-convierta-en-paralisis-para-las-empresas/",
+        "resumen": "Banco de Occidente destaca que la fortaleza reciente del peso puede ser aprovechada para importar maquinaria, tecnología e insumos a un menor costo.",
+        "autor": "",
+        "subseccion": "Grupo aval",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Banco de Occidente: “el reto es que la incertidumbre no se convierta en parálisis para las empresas”",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Adriana Cárdenas saldrá de la gerencia general de Visa Colombia en diciembre",
+        "url": "https://www.valoraanalitik.com/adriana-cardenas-dejara-la-gerencia-general-de-visa-colombia-en-diciembre/",
+        "resumen": "Luego de cinco años, Cárdenas se despide de la dirección de Visa desde el Payments Day 2026.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Adriana Cárdenas dejará la gerencia general de Visa Colombia en diciembre",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Entrevista | Patria Investments alista parque solar en Santander y ve opciones en baterías",
+        "url": "https://www.valoraanalitik.com/entrevista-patria-investments-avanza-en-nuevo-parque-solar-en-santander-tras-venta-de-puerta-de-oro-ve-oportunidades-en-negocio-de-baterias/",
+        "resumen": "Pablo Cano, Managing Director de Patria Investments, expresó que el mercado eléctrico colombiano necesita ajustes regulatorios en baterías.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Patria Investments avanza en nuevo parque solar en Santander tras venta de Puerta de Oro; ve oportunidades en negocio de baterías",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
+      {
+        "titulo": "Federación de Cafeteros incrementa tarifa del café pasilla para resguardar entradas por El Niño",
+        "url": "https://www.valoraanalitik.com/federacion-de-cafeteros-sube-el-precio-del-cafe-pasilla-para-proteger-ingresos-por-el-nino/",
+        "resumen": "La pasilla de café tiene una participación importante en el mercado interno.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Federación de Cafeteros sube el precio del café pasilla para proteger ingresos por El Niño",
+        "capturado": "2026-09-22T16:06:49-05:00"
+      },
       {
         "titulo": "Patria Investments y Ashmore Colombia consiguieron los recursos para el parque solar Puertos de Santander",
         "url": "https://www.valoraanalitik.com/patria-investment-y-ashmore-colombia-aseguraron-la-financiacion-para-el-proyecto-de-energia-solar-puertos-de-santander/",
@@ -1095,116 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Olímpica dispara utilidades en el primer semestre y acelera expansión: anuncia novedades en precios y aperturas",
         "capturado": "2026-09-17T19:42:03-05:00"
-      },
-      {
-        "titulo": "Colombia prepara tres subastas eléctricas para asegurar firmeza en la red: cronograma y proyectos",
-        "url": "https://www.valoraanalitik.com/colombia-alista-tres-subastas-de-energia-para-reforzar-estabilidad-del-sistema-fechas-estimadas-y-planes/",
-        "resumen": "La CREG también planea una reforma al cargo por confiabilidad, pero el plan todavía está en construcción.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia alista tres subastas de energía para reforzar estabilidad del sistema: fechas estimadas y planes",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Bancolombia, Davivienda y GNB Sudameris lideran el podio de las entidades financieras con más utilidades",
-        "url": "https://www.valoraanalitik.com/bancolombia-davivienda-y-gnb-sudameris-se-consolidan-en-el-top-3-de-los-bancos-con-mayores-ganancias-en-colombia/",
-        "resumen": "Los establecimientos bancarios que operan en el país acumularon de manera conjunta utilidades por $10,12 billones al séptimo mes del año.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Bancolombia, Davivienda y GNB Sudameris se consolidan en el ‘top’ 3 de los bancos con mayores ganancias en Colombia",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Movistar sale de Colombia: evolución de una compañía que revolucionó la industria de las telecomunicaciones",
-        "url": "https://www.valoraanalitik.com/movistar-se-despide-de-colombia-esta-es-la-historia-de-la-marca/",
-        "resumen": "La compañía llegó al país hace más de 20 años, creció con Telefónica y ahora queda en manos de Millicom tras su integración con Tigo.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Movistar dice adiós a Colombia: esta es la historia de una de las marcas que transformó el sector de telecomunicaciones",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Colsubsidio figura por segundo año consecutivo en el grupo de las 23 marcas preferidas en el país",
-        "url": "https://www.valoraanalitik.com/colsubsidio-por-segundo-ano-consecutivo-entre-las-23-marcas-mas-queridas-por-los-colombianos/",
-        "resumen": "Colsubsidio celebra 69 años de historia, acompañando a millones de colombianos y sus familias en distintos momentos de sus vidas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colsubsidio, por segundo año consecutivo, entre las 23 marcas más queridas por los colombianos",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Supergiros entregará 15000 millones de pesos para socorrer a sus empleados en regiones impactadas por el sismo",
-        "url": "https://www.valoraanalitik.com/supergiros-donara-15-000-millones-para-apoyar-a-sus-colaboradores-en-las-zonas-afectadas-por-el-terremoto/",
-        "resumen": "Supergiros asumiá la totalidad de los costos de reparación de 620 viviendas, aliviando la carga operativa y financiera del Gobierno Nacional por la emergencia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Supergiros donará $15.000 millones para apoyar a sus colaboradores en las zonas afectadas por el terremoto",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Hoy designarían a Juan Esteban Orrego al frente de la Cámara de Comercio de Bogotá",
-        "url": "https://www.valoraanalitik.com/juan-esteban-orrego-seria-elegido-hoy-como-nuevo-presidente-de-la-camara-de-comercio-de-bogota/",
-        "resumen": "La presidencia de la Cámara de Comercio de Bogotá tiene un papel central en el desarrollo empresarial de Bogotá y Cundinamarca.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Juan Esteban Orrego sería elegido hoy como nuevo presidente de la Cámara de Comercio de Bogotá",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Mercado opina que patrimonio de accionistas de Grupo Argos subió hasta 56 % un año tras desenroque",
-        "url": "https://www.valoraanalitik.com/un-ano-despues-del-desenroque-los-accionistas-de-grupo-argos-han-visto-crecer-hasta-56-el-valor-de-su-patrimonio-esto-opina-el-mercado/",
-        "resumen": "Para los accionistas de Grupo Argos significó conservar sus acciones, aumentar derechos económicos y recibir títulos de Grupo Sura.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Un año después del desenroque, los accionistas de Grupo Argos han visto crecer hasta 56 % el valor de su patrimonio: esto opina el mercado",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Mario Cruz asumirá la dirección de Unidad de Regulación Financiera del Ministerio de Hacienda",
-        "url": "https://www.valoraanalitik.com/primicia-mario-cruz-sera-el-director-de-unidad-de-regulacion-financiera-urf-del-ministerio-de-hacienda/",
-        "resumen": "Cruz también cuenta con experiencia como vicepresidente técnico de Acemi y en la Federación de Aseguradores Colombianos (Fasecolda).",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Mario Cruz será el director de Unidad de Regulación Financiera (URF) del Ministerio de Hacienda",
-        "capturado": "2026-09-17T17:23:08-05:00"
-      },
-      {
-        "titulo": "Agenda del Congreso de Andesco incluirá servicios públicos, agua, energía, TIC e inversión",
-        "url": "https://www.valoraanalitik.com/los-temas-que-marcaran-la-agenda-del-congreso-de-andesco/",
-        "resumen": "Camilo Sánchez, presidente del gremio, anticipa las principales discusiones del encuentro y los retos que enfrenta el sector para recuperar su dinamismo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Servicios públicos, agua, energía, TIC e inversión: los temas que marcarán la agenda del Congreso de Andesco",
-        "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "Junta directiva de Ecopetrol nombraría hoy a Joaquín Gutiérrez como presidente de la compañía",
-        "url": "https://www.valoraanalitik.com/junta-de-ecopetrol-anunciaria-hoy-a-joaquin-gutierrez-como-nuevo-presidente/",
-        "resumen": "Este es el perfil de quién lideraría la transformación de Ecopetrol, que anunció desde campaña Abelardo de la Espriella.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Junta de Ecopetrol anunciaría hoy a Joaquín Gutiérrez como nuevo presidente de la empresa",
-        "capturado": "2026-09-17T14:11:56-05:00"
-      },
-      {
-        "titulo": "FIB 2026 en Corferias reunirá más de 500 expositores y 40 charlas en cinco días de tecnología",
-        "url": "https://www.valoraanalitik.com/fib-2026-corferias-tecnologia-industrial/",
-        "resumen": "Expositores nacionales e internacionales estarán en la Feria Internacional Industrial de Bogotá con soluciones dirigidas a diferentes sectores de la industria.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Cinco días de tecnología industrial en Corferias: la FIB 2026 reunirá más de 500 expositores y 40 charlas técnicas",
-        "capturado": "2026-09-17T14:11:56-05:00"
       }
     ]
   }
