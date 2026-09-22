@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-22T08:16:30-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-22T12:43:08-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Iniciativa de De La Espriella sobre Código de Tránsito disminuirá costo de multas, cursos, pases, patios y grúas",
+        "url": "https://www.valoraanalitik.com/reforma-de-de-la-espriella-a-codigo-de-transito-rebajara-valor-de-multas-cursos-licencias-patios-y-gruas-en-colombia/",
+        "resumen": "Elsa Noguera, ministra de Transporte, sostuvo que el proyecto atenderá una directriz presidencial orientada a la desregulación de cobros excesivos.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Reforma de De La Espriella a Código de Tránsito rebajará valor de multas, cursos, licencias, patios y grúas en Colombia",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "Arranca Asamblea General de la ONU con alta delegación colombiana: estos serán los temas centrales",
+        "url": "https://www.valoraanalitik.com/inicia-asamblea-general-de-la-onu-con-delegacion-colombiana-de-alto-nivel-estos-seran-los-focos-claves/",
+        "resumen": "La presencia colombiana quedó registrada en una publicación de Mauricio Gaona en X, quien compartió una fotografía desde el recinto de Naciones Unidas.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Inicia Asamblea General de la ONU con delegación colombiana de alto nivel: estos serán los focos claves",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "Visa prepara nueva tecnología para enlazar billeteras colombianas con pagos globales",
+        "url": "https://www.valoraanalitik.com/visa-alista-nueva-tecnologia-para-conectar-billeteras-colombianas-con-pagos-internacionales/",
+        "resumen": "La compañía avanza en interoperabilidad de manera internacional con su nueva solución.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Visa alista nueva tecnología para conectar billeteras colombianas con pagos internacionales",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "Contraloría intensifica supervisión y control del metro de Bogotá debido a demoras en trabajos",
+        "url": "https://www.valoraanalitik.com/contraloria-refuerza-vigilancia-y-control-sobre-metro-de-bogota-por-retrasos-en-obras/",
+        "resumen": "De acuerdo con el cronograma del proyecto, la construcción está prevista para finalizar en septiembre de 2027.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Contraloría refuerza vigilancia y control sobre metro de Bogotá por retrasos en obras",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "Entrevista | Banco de Occidente: el reto es que la incertidumbre no se convierta en parálisis empresarial",
+        "url": "https://www.valoraanalitik.com/banco-de-occidente-el-reto-es-que-la-incertidumbre-no-se-convierta-en-paralisis-para-las-empresas/",
+        "resumen": "Banco de Occidente destaca que la fortaleza reciente del peso puede ser aprovechada para importar maquinaria, tecnología e insumos a un menor costo.",
+        "autor": "",
+        "subseccion": "Grupo aval",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Banco de Occidente: “el reto es que la incertidumbre no se convierta en parálisis para las empresas”",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "Juan Valdez ingresa a Canadá con más de 400 puntos de venta en su proceso de expansión global",
+        "url": "https://www.valoraanalitik.com/juan-valdez-llega-a-canada-400-puntos/",
+        "resumen": "La marca colombiana de café inició su operación en Canadá a través de cadenas de supermercados, tiendas independientes y comercio electrónico.",
+        "autor": "",
+        "subseccion": "Cafe en colombia",
+        "publicacion": "",
+        "titulo_fuente": "Juan Valdez llega a Canadá y estará disponible en más de 400 puntos de venta; avanza en expansión internacional",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "En diciembre, Adriana Cárdenas culminará su labor como gerente general de Visa Colombia",
+        "url": "https://www.valoraanalitik.com/adriana-cardenas-dejara-la-gerencia-general-de-visa-colombia-en-diciembre/",
+        "resumen": "Luego de cinco años, Cárdenas se despide de la dirección de Visa desde el Payments Day 2026.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Adriana Cárdenas dejará la gerencia general de Visa Colombia en diciembre",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "Entrevista | Patria Investments desarrolla parque solar en Santander tras vender Puerta de Oro y mira baterías",
+        "url": "https://www.valoraanalitik.com/entrevista-patria-investments-avanza-en-nuevo-parque-solar-en-santander-tras-venta-de-puerta-de-oro-ve-oportunidades-en-negocio-de-baterias/",
+        "resumen": "Pablo Cano, Managing Director de Patria Investments, expresó que el mercado eléctrico colombiano necesita ajustes regulatorios en baterías.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Patria Investments avanza en nuevo parque solar en Santander tras venta de Puerta de Oro; ve oportunidades en negocio de baterías",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "Terrenta proyecta captar $10.000 millones en 2026 mediante dos campañas para respaldar iniciativas de finca raíz",
+        "url": "https://www.valoraanalitik.com/terrenta-proyectos-inmobiliarios-campanas/",
+        "resumen": "La firma de cofinanciación trabaja en una segunda etapa de su plataforma, con la creación de un mercado secundario para sus proyectos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Terrenta busca cofinanciar proyectos inmobiliarios con dos nuevas campañas; apunta a $10.000 millones en 2026",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "Presupuesto 2027: El Ejecutivo descarta más de 600 propuestas legislativas y emitiría la iniciativa por decreto",
+        "url": "https://www.valoraanalitik.com/presupuesto-2027-gobierno-rechaza-mas-de-600-proposiciones-de-congresistas-y-podria-expedir-el-proyecto-por-decreto/",
+        "resumen": "Continúa la puja en el Congreso por el Presupuesto para 2027, una de las pruebas para el Gobierno de Abelardo de la Espriella ante el Legislativo.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto 2027: Gobierno rechaza más de 600 proposiciones de congresistas y podría expedir el proyecto por decreto",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "Sencia responde si continuará el fútbol en El Campín durante el resto de este año",
+        "url": "https://www.valoraanalitik.com/se-seguira-jugando-futbol-en-el-campin-en-lo-que-queda-de-este-ano-sencia-responde/",
+        "resumen": "El estadio El Campín estará cerrado para eventos deportivos durante algunas fechas.",
+        "autor": "",
+        "subseccion": "Futbol colombiano",
+        "publicacion": "",
+        "titulo_fuente": "¿Se seguirá jugando fútbol en El Campín lo que queda de este año?: Sencia responde",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
+      {
+        "titulo": "Dólar alza este martes su cuarto día seguido por atención del mercado a la FED y Presupuesto 2027",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sube-este-martes-por-cuarto-dia-consecutivo-mercado-esta-atento-a-la-fed-y-al-presupuesto-de-2027/",
+        "resumen": "El comportamiento del dólar en Colombia se da en medio de señales mixtas en los mercados internacionales.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia sube este martes por cuarto día consecutivo: mercado está atento a la FED y al Presupuesto de 2027",
+        "capturado": "2026-09-22T12:43:08-05:00"
+      },
       {
         "titulo": "Patria Investments y Ashmore Colombia consiguieron los recursos para la granja solar Puertos de Santander",
         "url": "https://www.valoraanalitik.com/patria-investment-y-ashmore-colombia-aseguraron-la-financiacion-para-el-proyecto-de-energia-solar-puertos-de-santander/",
@@ -483,126 +603,6 @@
         "publicacion": "",
         "titulo_fuente": "Econexia de Corferias conectó a empresas creativas colombianas con compradores de México, España y Chile",
         "capturado": "2026-09-19T14:14:50-05:00"
-      },
-      {
-        "titulo": "DiDi Food celebra un lustro en Colombia con nueve millones de usuarios y quince mil locales asociados",
-        "url": "https://www.valoraanalitik.com/didi-food-cumple-cinco-anos-en-colombia-ya-suma-9-millones-de-usuarios-y-15-000-restaurantes/",
-        "resumen": "Catalina Arteaga, directora de Desarrollo de Negocios para DiDi Food Hispanoamérica, explicó a Valora Analitik, cómo ha crecido la app en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | DiDi Food cumple cinco años en Colombia: ya suma 9 millones de usuarios y 15.000 restaurantes",
-        "capturado": "2026-09-19T11:42:35-05:00"
-      },
-      {
-        "titulo": "La otra cara de la reconstrucción en Chocó muestra falta de acueducto y alcantarillado con sismos",
-        "url": "https://www.valoraanalitik.com/sin-acueducto-sin-alcantarillado-y-con-la-tierra-temblando-la-otra-cara-de-la-reconstruccion-en-choco/",
-        "resumen": "La burocracia que frena la reconstrucción luego del terremoto y la ayuda que llega a cuentagotas en el Chocó.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Sin acueducto, sin alcantarillado y con la tierra temblando: la otra cara de la reconstrucción en Chocó",
-        "capturado": "2026-09-19T11:42:35-05:00"
-      },
-      {
-        "titulo": "Analistas explican las proyecciones de la tasa de cambio tras la baja del dólar de cuatro a tres mil",
-        "url": "https://www.valoraanalitik.com/que-llevo-al-precio-del-dolar-a-pasar-de-los-4-000-a-rozar-los-3-000/",
-        "resumen": "Los analistas señalan que este podría no ser un piso definitivo para la divisa estadounidense, que podría llegar a tocar niveles entre los $2.800 y los $2.700.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "¿Por qué el dólar en Colombia cayó de $4.000 a casi $3.000 en menos de un año? Esto dicen analistas de lo que se espera para la tasa de cambio",
-        "capturado": "2026-09-19T11:42:35-05:00"
-      },
-      {
-        "titulo": "Entrevista | A final de 2026, Colombia compraría en el exterior entre el 35 % y el 40 % de su gas",
-        "url": "https://www.valoraanalitik.com/colombia-llegaria-a-importar-35-a-40-del-gas-que-consume-para-finales-de-2026/",
-        "resumen": "Óscar Rincón, presidente de Acipet, manifestó que Colombia tiene un gran potencial en yacimientos no convencionales o fracking.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Colombia llegaría a importar 35 % a 40 % del gas que consume para finales de 2026",
-        "capturado": "2026-09-19T08:01:21-05:00"
-      },
-      {
-        "titulo": "Trump pacta con Dinamarca para acrecentar su base militar en Groenlandia",
-        "url": "https://www.valoraanalitik.com/ee-uu-y-dinamarca-alcanzan-acuerdo-para-ampliar-presencia-militar-en-groenlandia/",
-        "resumen": "El pacto busca reforzar la seguridad en el Ártico y limitar la presencia militar e inversiones sensibles de países adversarios.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Trump anuncia acuerdo con Dinamarca para ampliar presencia militar en Groenlandia",
-        "capturado": "2026-09-18T23:06:07-05:00"
-      },
-      {
-        "titulo": "Trump y Delcy Rodríguez sostendrán su primer cara a cara en Nueva York",
-        "url": "https://www.valoraanalitik.com/trump-y-delcy-rodriguez-tendran-su-primer-encuentro-cara-a-cara-en-nueva-york/",
-        "resumen": "La reunión se dará durante la Asamblea General de la ONU y será la primera entre ambos mandatarios tras el restablecimiento de relaciones diplomáticas.",
-        "autor": "",
-        "subseccion": "Financieras internacionales",
-        "publicacion": "",
-        "titulo_fuente": "Trump y Delcy Rodríguez tendrán su primer encuentro cara a cara en Nueva York",
-        "capturado": "2026-09-18T23:06:07-05:00"
-      },
-      {
-        "titulo": "Gobierno da aval para cancelar o alargar concesiones por obras del sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-ampliar-plazo-de-concesiones-por-obras-de-emergencia-por-terremoto/",
-        "resumen": "Las medias quedaron fijadas con la expedición del Decreto 1424 de 2026.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno autoriza pagar o ampliar plazo de concesiones por obras de emergencia por terremoto; lanza salvavidas a sistemas de transporte",
-        "capturado": "2026-09-18T23:06:07-05:00"
-      },
-      {
-        "titulo": "Transparencia por Colombia señala peligros de falta de claridad en contratos para levantar zona tras sismo",
-        "url": "https://www.valoraanalitik.com/transparencia-por-colombia-advierte-riesgos-de-opacidad-en-la-contratacion-para-la-reconstruccion-tras-el-terremoto/",
-        "resumen": "La entidad alerta por ausencia de criterios públicos y verificables para la priorización de proyectos y beneficiarios.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Transparencia por Colombia advierte riesgos de opacidad en la contratación para la reconstrucción tras el terremoto",
-        "capturado": "2026-09-18T18:31:21-05:00"
-      },
-      {
-        "titulo": "Manuel Fernández Ariza es el nuevo presidente de la Junta Directiva de Bancóldex nombrado por la entidad",
-        "url": "https://www.valoraanalitik.com/manuel-fernandez-ariza-llega-a-la-presidencia-de-bancoldex/",
-        "resumen": "El directivo cuenta con 24 años de experiencia en el sector público y privado en diferentes cargos de gerencia y diseño de proyectos.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Junta Directiva de Bancóldex designó a Manuel Fernández Ariza como nuevo presidente de la entidad",
-        "capturado": "2026-09-18T18:31:21-05:00"
-      },
-      {
-        "titulo": "Aplicación paga hasta $50 extra por cada dólar pasado a pesos",
-        "url": "https://www.valoraanalitik.com/con-esta-app-puede-recibir-hasta-50-mas-por-cada-dolar-que-convierta-a-pesos/",
-        "resumen": "Recibir dólares desde el exterior puede dejar más pesos colombianos con este cambio. Conozca cómo funciona y cuánto podría ganar según el monto.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Con esta app puede recibir hasta $50 más por cada dólar que convierta a pesos",
-        "capturado": "2026-09-18T18:31:21-05:00"
-      },
-      {
-        "titulo": "Gobierno ofrece seguros, créditos y devolución de ahorros a damnificados por sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-habilita-creditos-seguros-y-entrega-de-ahorros-para-afectados-por-terremoto/",
-        "resumen": "Con estas medidas, el Gobierno busca facilitar el acceso a liquidez y financiación para las familias y empresas afectadas.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno habilita créditos, seguros y entrega de ahorros para afectados por terremoto",
-        "capturado": "2026-09-18T18:31:21-05:00"
-      },
-      {
-        "titulo": "Administración impone tope a cánones de arrendamiento tras sismo y así se fijarán las tarifas",
-        "url": "https://www.valoraanalitik.com/gobierno-pone-limite-a-los-arriendos-tras-el-terremoto-asi-quedaran-los-precios/",
-        "resumen": "Un nuevo decreto cambió temporalmente las reglas de los arriendos en las zonas afectadas por el terremoto. Estos son sus alcances.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno pone límite a los arriendos tras el terremoto: así quedarán los precios",
-        "capturado": "2026-09-18T18:31:21-05:00"
       }
     ],
     "Empresariales": [
