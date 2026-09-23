@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-22T18:44:35-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-22T23:16:08-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Acipet le expone al Ejecutivo tres iniciativas esenciales para afrontar los desafíos energéticos del país",
+        "url": "https://www.valoraanalitik.com/acipet-presenta-propuestas-para-enfrentar-retos-energeticos-de-colombia/",
+        "resumen": "El gremio plantea acelerar la exploración, optimizar yacimientos existentes y aprovechar el petróleo y gas en la transición.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Acipet presenta al Gobierno sus tres propuestas clave para enfrentar retos energéticos de Colombia",
+        "capturado": "2026-09-22T23:16:08-05:00"
+      },
+      {
+        "titulo": "Colpensiones solicita a la Corte Constitucional posponer la reforma pensional señalando fecha y motivo",
+        "url": "https://www.valoraanalitik.com/colpensiones-pidio-a-la-corte-constitucional-aplazar-la-reforma-pensional-esta-es-la-fecha-y-la-razon/",
+        "resumen": "Colpensiones llevó a la Corte una solicitud que podría modificar el calendario previsto para la entrada en operación de la reforma pensional.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Colpensiones pidió a la Corte Constitucional aplazar la reforma pensional: esta es la fecha y la razón",
+        "capturado": "2026-09-22T23:16:08-05:00"
+      },
+      {
+        "titulo": "Pei progresa en adquisición de bienes de Terranum para expandir uno de los principales fondos de inmuebles",
+        "url": "https://www.valoraanalitik.com/pei-avanza-en-compra-de-activos-de-terranum-asi-crecera-uno-de-los-grandes-portafolios-inmobiliarios-del-pais/",
+        "resumen": "Pei dio un nuevo paso en una operación que incorporará activos corporativos y logísticos y modificará el tamaño de su portafolio inmobiliario.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pei avanza en compra de activos de Terranum: así crecerá uno de los grandes portafolios inmobiliarios del país",
+        "capturado": "2026-09-22T23:16:08-05:00"
+      },
+      {
+        "titulo": "GeoPark se halla preparado para ejecutar proyectos de fracturación hidráulica en Colombia, según Felipe Bayón",
+        "url": "https://www.valoraanalitik.com/geopark-estaria-listo-para-desarrollar-proyectos-de-fracking-en-colombia/",
+        "resumen": "El directivo destacó el potencial de los yacimientos no convencionales y señaló que el país necesita recuperar conocimiento y capacidades para aprovecharlo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark está listo para desarrollar proyectos de ‘fracking’ en Colombia: Felipe Bayón, CEO de la compañía",
+        "capturado": "2026-09-22T23:16:08-05:00"
+      },
       {
         "titulo": "Inician trabajos de megaproyecto de 1,6 billones para aliviar movilidad del sur bogotano",
         "url": "https://www.valoraanalitik.com/arrancan-obras-de-megaproyecto-de-16-billones-que-busca-descongestionar-el-sur-de-bogota-asi-sera/",
@@ -563,49 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Dólar en Colombia abre a la baja en $3.170 a la espera de la cumbre entre Trump y Xi Jinping",
         "capturado": "2026-09-21T09:27:57-05:00"
-      },
-      {
-        "titulo": "Exclusivo | Patria Investments vendió participación en el parque solar más grande de Colombia: ¿Quién fue el comprador?",
-        "url": "https://www.valoraanalitik.com/exclusivo-patria-investments-vendio-participacion-en-el-parque-solar-mas-grande-de-colombia-quien-fue-el-comprador/",
-        "resumen": "Patria había conseguido $1 billón para financiar el proyecto ubicado en el departamento de Cundinamarca.",
-        "autor": "",
-        "subseccion": "Especial petroleo gas mineria y renovables",
-        "publicacion": "",
-        "titulo_fuente": "Exclusivo | Patria Investments vendió participación en el parque solar más grande de Colombia: ¿Quién fue el comprador?",
-        "capturado": "2026-09-21T09:27:57-05:00"
-      },
-      {
-        "titulo": "Hidroituango podrá almacenar una energía equivalente a 15 días del consumo eléctrico de Medellín",
-        "url": "https://www.valoraanalitik.com/hidroituango-podra-almacenar-una-energia-equivalente-a-15-dias-del-consumo-electrico-de-medellin/",
-        "resumen": "Autoridades dieron permiso para que se aumente el nivel del embalse, lo que permitirá el almacenamiento de 187 gigavatios hora de energía.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "Hidroituango podrá almacenar una energía equivalente a 15 días del consumo eléctrico de Medellín",
-        "capturado": "2026-09-21T09:27:57-05:00"
-      },
-      {
-        "titulo": "Banco de la República tomará importante decisión sobre las tasas de interés en Colombia en los próximos días",
-        "url": "https://www.valoraanalitik.com/banco-de-la-republica-tomara-importante-decision-sobre-las-tasas-de-interes-en-colombia/",
-        "resumen": "Las tasas de interés en Colombia se van a mantener altas hasta el próximo año.",
-        "autor": "",
-        "subseccion": "Tasas de interes en colombia",
-        "publicacion": "",
-        "titulo_fuente": "Banco de la República tomará importante decisión sobre las tasas de interés en Colombia en los próximos días",
-        "capturado": "2026-09-21T09:27:57-05:00"
-      },
-      {
-        "titulo": "Entrevista | Antioquia Gold proyecta ampliar su producción y sumar una tercera mina en Colombia",
-        "url": "https://www.valoraanalitik.com/antioquia-gold-proyecta-ampliar-su-produccion-y-sumar-una-tercera-mina-en-colombia/",
-        "resumen": "Diego Heilbrunn, CEO de Antioquia Gold, explicó que la compañía espera avanzar con la ampliación de su planta y desarrollar el proyecto La Palma.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Antioquia Gold proyecta ampliar su producción y sumar una tercera mina en Colombia",
-        "capturado": "2026-09-21T09:27:57-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Pei adquiere activos de Terranum para expandir uno de los principales portafolios de bienes raíces",
+        "url": "https://www.valoraanalitik.com/pei-avanza-en-compra-de-activos-de-terranum-asi-crecera-uno-de-los-grandes-portafolios-inmobiliarios-del-pais/",
+        "resumen": "Pei dio un nuevo paso en una operación que incorporará activos corporativos y logísticos y modificará el tamaño de su portafolio inmobiliario.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pei avanza en compra de activos de Terranum: así crecerá uno de los grandes portafolios inmobiliarios del país",
+        "capturado": "2026-09-22T23:16:08-05:00"
+      },
+      {
+        "titulo": "Felipe Bayón, CEO de GeoPark, afirma que la empresa está preparada para hacer fracking en Colombia",
+        "url": "https://www.valoraanalitik.com/geopark-estaria-listo-para-desarrollar-proyectos-de-fracking-en-colombia/",
+        "resumen": "El directivo destacó el potencial de los yacimientos no convencionales y señaló que el país necesita recuperar conocimiento y capacidades para aprovecharlo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark está listo para desarrollar proyectos de ‘fracking’ en Colombia: Felipe Bayón, CEO de la compañía",
+        "capturado": "2026-09-22T23:16:08-05:00"
+      },
       {
         "titulo": "Cartagena acogerá el Congreso Colombiano de la Construcción 2026: ejes temáticos y panelistas principales",
         "url": "https://www.valoraanalitik.com/el-congreso-colombiano-de-la-construccion-2026-se-toma-cartagena-estos-seran-los-temas-y-panelistas-clave-de-esta-edicion/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Petróleo",
         "publicacion": "",
         "titulo_fuente": "Ecopetrol confirma cómo quedaron los nuevos comités de su Junta Directiva: estos son sus integrantes",
-        "capturado": "2026-09-17T19:42:03-05:00"
-      },
-      {
-        "titulo": "Vicepresidente José Manuel Restrepo comunica la Milagro Week en Asia junto a Europa y América Latina",
-        "url": "https://www.valoraanalitik.com/vicepresidente-restrepo-milagro-week-asia-sumaran-europa-america-latina/",
-        "resumen": "La primera edición de este formato se realizará en Nueva York en los próximos días. Buscan atraer inversión en sectores clave.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Vicepresidente José Manuel Restrepo anuncia «Milagro Week» en Asia: se suma a Europa y América Latina",
-        "capturado": "2026-09-17T19:42:03-05:00"
-      },
-      {
-        "titulo": "Olímpica incrementa ganancias semestrales y acelera crecimiento con anuncios en precios y aperturas",
-        "url": "https://www.valoraanalitik.com/olimpica-dispara-utilidades-en-el-primer-semestre-y-acelera-expansion-anuncia-novedades-en-precios-y-aperturas/",
-        "resumen": "Olímpica cerró el primer semestre con resultados financieros positivos y ahora prepara nuevos movimientos para fortalecer su presencia en el país.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Olímpica dispara utilidades en el primer semestre y acelera expansión: anuncia novedades en precios y aperturas",
         "capturado": "2026-09-17T19:42:03-05:00"
       }
     ]
