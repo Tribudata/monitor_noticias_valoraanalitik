@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-23T13:33:00-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-23T17:09:11-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "En directo | Comisiones económicas congresionales arrancan debate para avalar Presupuesto 2027 en primer debate",
+        "url": "https://www.valoraanalitik.com/en-vivo-comisiones-economicas-del-congreso-inician-discusion-para-aprobar-presupuesto-2027-en-primer-debate/",
+        "resumen": "Por el momento solo se ha avanzado con el llamado a lista y verificación del cuórum de una de las cuatro corporaciones citadas.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "En vivo | Comisiones económicas del Congreso inician discusión para aprobar Presupuesto 2027 en primer debate",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
+      {
+        "titulo": "Al sistema eléctrico colombiano ha entrado menos del 25 % de la energía prevista en 2026 a corte de septiembre",
+        "url": "https://www.valoraanalitik.com/al-sistema-electrico-colombiano-ha-entrado-menos-de-25-de-la-energia-esperada-en-2026-a-corte-de-septiembre/",
+        "resumen": "Air-e es una de las compañías más expuestas a la volatilidad en los precios de la bolsa de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Al sistema eléctrico colombiano ha entrado menos de 25 % de la energía esperada en 2026 a corte de septiembre",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella alista relevante disposición para frenar llamadas estafa desde los establecimientos carcelarios",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-prepara-importante-medida-para-frenar-llamadas-estafa-desde-las-carceles/",
+        "resumen": "El Gobierno De La Espriella anunció una modificación al esquema que se utiliza para restringir las comunicaciones no autorizadas desde las cárceles.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella prepara importante medida para frenar llamadas estafa desde las cárceles",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
+      {
+        "titulo": "DIAN otorga mayor plazo para cancelar pasivos y compromisos fiscales: estos ciudadanos podrán acceder al beneficio",
+        "url": "https://www.valoraanalitik.com/dian-da-mas-plazo-para-pagar-deudas-y-obligaciones-tributarias-estos-ciudadanos-podran-acceder-al-beneficio/",
+        "resumen": "La DIAN estableció nuevas condiciones para facilitar el pago de obligaciones tributarias de ciertos contribuyentes en Colombia.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "DIAN da más plazo para pagar deudas y obligaciones tributarias: estos ciudadanos podrán acceder al beneficio",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
+      {
+        "titulo": "Presupuesto Colombia 2027: Salud obtiene $2 billones extra tras recorte al sector Hacienda",
+        "url": "https://www.valoraanalitik.com/presupuesto-colombia-2027-salud-recibe-2-billones-adicionales-tras-recorte-al-sector-hacienda/",
+        "resumen": "La ponencia oficial estableció una reconfiguración interna del gasto asignado a la JEP, los sectores de salud, deporte y la rama Judicial.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto Colombia 2027: Salud recibe $2 billones adicionales tras recorte al sector Hacienda",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
+      {
+        "titulo": "Ejecutivo contempla elevar tarifas del diésel a futuro y expone los requisitos necesarios",
+        "url": "https://www.valoraanalitik.com/gobierno-no-descarta-subir-precios-del-diesel-a-largo-plazo-revela-condiciones-que-deberian-cumplirse/",
+        "resumen": "Si se aplica esta medida, sería de una manera “muy delicada y paulatina”, teniendo en cuenta el impacto que causaría en el bolsillo de los colombianos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno no descarta subir precios del diésel a largo plazo: revela condiciones que deberían cumplirse",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en el país subió con intensidad, terminó al alza y rebasó los 3300 pesos",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-disparo-cerro-con-fuerza-al-alza-y-supero-los-3-300/",
+        "resumen": "La tasa de cambio abrió en el mínimo del día de $3.215; más tarde superó la barrera de los $3.300, cifra que no se veía desde el 9 de julio.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia se disparó, cerró con fuerza al alza y superó los $3.300",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
+      {
+        "titulo": "Inicia Uber Mujeres en el país: pasajeras podrán optar por viajes con conductoras",
+        "url": "https://www.valoraanalitik.com/uber-mujeres-colombia-bogota-medellin-cali/",
+        "resumen": "La opción está disponible inicialmente en Bogotá, Medellín y Cali.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Llega Uber Mujeres a Colombia: las usuarias podrán decidir hacer trayectos con conductoras",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
       {
         "titulo": "Demandas al Estado por grandes obras rebasan los $100 billones y se avecinan nuevas APP viales",
         "url": "https://www.valoraanalitik.com/litigios-contra-el-estado-colombiano-por-megaobras-superan-100-billones/",
@@ -523,89 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | “Si no ahorramos energía, se va a apagar el país”, presidente de Andesco",
         "capturado": "2026-09-22T08:16:30-05:00"
-      },
-      {
-        "titulo": "Inflación en Colombia impacta fuertemente y obligará a acciones: endeudarse se pondrá más costoso",
-        "url": "https://www.valoraanalitik.com/inflacion-en-colombia-ya-esta-sintiendo-importante-golpe-encarecera-de-nuevo-comprar-con-credito/",
-        "resumen": "La inflación en Colombia va a terminar este año todavía muy alta. Hay recomendaciones tempranas para tomar medidas.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Inflación en Colombia ya está sintiendo importante golpe y habrá que tomar medidas: Se encarecerá de nuevo comprar con crédito",
-        "capturado": "2026-09-22T08:16:30-05:00"
-      },
-      {
-        "titulo": "Gobierno de De la Espriella revela plan de urgencia en salud para ayudar a enfermos y aseguradoras",
-        "url": "https://www.valoraanalitik.com/gobierno-de-de-la-espriella-anuncia-plan-de-choque-en-salud-asi-beneficiara-a-pacientes-y-eps/",
-        "resumen": "De la Espriella sostuvo que entre enero y julio de este año se registraron más de 1,2 millones de reclamos ante la Superintendencia Nacional de Salud.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno de De la Espriella anuncia ‘plan de choque en salud’: así beneficiará a pacientes y EPS",
-        "capturado": "2026-09-21T20:45:21-05:00"
-      },
-      {
-        "titulo": "Colombia planea junto a Estados Unidos su ingreso al Escudo de las Américas",
-        "url": "https://www.valoraanalitik.com/colombia-coordina-con-ee-uu-su-participacion-en-el-escudo-de-las-americas/",
-        "resumen": "Colombia se incorporó oficialmente al Escudo de las Américas el pasado 14 de septiembre.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Colombia coordina con EE. UU. su participación en el Escudo de las Américas",
-        "capturado": "2026-09-21T20:45:21-05:00"
-      },
-      {
-        "titulo": "De la Espriella alista modificaciones estructurales en la creación y comercio ecológico en Colombia",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-prepara-cambios-de-fondo-para-la-produccion-y-venta-de-productos-organicos-en-colombia/",
-        "resumen": "Productores de alimentos orgánicos enfrentarían nuevas reglas de certificación y trazabilidad.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella prepara cambios de fondo para la producción y venta de productos orgánicos en Colombia",
-        "capturado": "2026-09-21T20:45:21-05:00"
-      },
-      {
-        "titulo": "Mateo Restrepo Villegas asume la presidencia de la Minera de Cobre Quebradona con larga trayectoria",
-        "url": "https://www.valoraanalitik.com/minera-de-cobre-quebradona-tiene-nuevo-presidente-mateo-restrepo-villegas-llega-con-mas-de-20-anos-de-trayectoria/",
-        "resumen": "Mateo Restrepo Villegas, nuevo presidente de Minera de Cobre Quebradona SAS BIC, llega en reemplazo de Mauricio Echeverry. Estos son los detalles.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Minera de Cobre Quebradona tiene nuevo presidente: Mateo Restrepo Villegas llega con más de 20 años de trayectoria",
-        "capturado": "2026-09-21T20:45:21-05:00"
-      },
-      {
-        "titulo": "Salario mínimo 2027: Consejo Gremial alerta sobre los posibles efectos de un incremento excesivo",
-        "url": "https://www.valoraanalitik.com/salario-minimo-2027-consejo-gremial-advierte-que-podria-pasar-si-sube-demasiado/",
-        "resumen": "Cerca de 2,4 millones de trabajadores en Colombia reciben el salario mínimo, mientras más de 6 millones perciben entre uno y dos veces ese monto.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Salario mínimo 2027: Consejo Gremial advierte qué podría pasar si sube demasiado",
-        "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "Corte Constitucional fija nueva norma en licencias de maternidad y lactancia y modifica condiciones",
-        "url": "https://www.valoraanalitik.com/corte-constitucional-deja-nueva-regla-para-las-licencias-de-maternidad-y-lactancia-esto-cambia-para-las-familias/",
-        "resumen": "Una decisión de la Corte Constitucional cambia la forma de analizar las licencias de maternidad y lactancia en familias con situaciones particulares",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Corte Constitucional deja nueva regla para las licencias de maternidad y lactancia: esto cambia para las familias",
-        "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "Oxford Economics reduce su pronóstico de expansión económica para Colombia y señala incertidumbre",
-        "url": "https://www.valoraanalitik.com/oxford-economics-modera-su-proyeccion-de-crecimiento-economico-en-colombia-y-advierte-incertidumbre/",
-        "resumen": "Esta debilidad, de acuerdo con Oxford Economics, responde a la combinación de un peso colombiano fuerte y una demanda de inversión.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Oxford Economics modera su proyección de crecimiento económico en Colombia y advierte incertidumbre",
-        "capturado": "2026-09-21T18:06:09-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "A corte de septiembre, el sistema eléctrico colombiano recibió menos del 25 % de la energía prevista para 2026",
+        "url": "https://www.valoraanalitik.com/al-sistema-electrico-colombiano-ha-entrado-menos-de-25-de-la-energia-esperada-en-2026-a-corte-de-septiembre/",
+        "resumen": "Air-e es una de las compañías más expuestas a la volatilidad en los precios de la bolsa de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Al sistema eléctrico colombiano ha entrado menos de 25 % de la energía esperada en 2026 a corte de septiembre",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
+      {
+        "titulo": "Multinsa innova desde Barrancabermeja con inteligencia artificial y nanotecnología para los hidrocarburos",
+        "url": "https://www.valoraanalitik.com/multinsa-innova-en-hidrocarburos-con-nanotecnologia-e-inteligencia-artificial/",
+        "resumen": "La empresa desarrolla soluciones para optimizar procesos, reducir el manejo de agua y ampliar su portafolio de productos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Nanotecnología e inteligencia artificial para el sector hidrocarburos: así innova Multinsa desde Barrancabermeja",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
+      {
+        "titulo": "Uber Mujeres aterriza en Colombia: usuarias tendrán la opción de elegir viajes conducidos por mujeres",
+        "url": "https://www.valoraanalitik.com/uber-mujeres-colombia-bogota-medellin-cali/",
+        "resumen": "La opción está disponible inicialmente en Bogotá, Medellín y Cali.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Llega Uber Mujeres a Colombia: las usuarias podrán decidir hacer trayectos con conductoras",
+        "capturado": "2026-09-23T17:09:11-05:00"
+      },
       {
         "titulo": "Minsait presenta propuesta de redes inteligentes para disminuir apagones y pérdidas eléctricas en Colombia",
         "url": "https://www.valoraanalitik.com/minsait-impulsa-redes-inteligentes-para-reducir-interrupciones-y-perdidas-de-energia-en-colombia-esta-es-su-propuesta/",
@@ -1174,36 +1204,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Relevante | Nu invertirá $5 billones en Colombia en próximos cinco años; superó seis millones de clientes",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "La regulación exige nuevas obligaciones a las compañías en 2026 para prevenir multas",
-        "url": "https://www.valoraanalitik.com/empresas-deberan-cumplir-nuevas-exigencias-en-2026-para-evitar-sanciones-esto-dice-la-norma/",
-        "resumen": "Una obligación ambiental tendrá nuevos puntos de control para las empresas en 2026. Revise quiénes deben cumplirla y qué exige la norma.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Empresas deberán cumplir nuevas exigencias en 2026 para evitar sanciones: esto dice la norma",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Detalles de la salida de Nike de Atlético Nacional y su marca propia apoyada en James",
-        "url": "https://www.valoraanalitik.com/exclusivo-estos-son-los-detalles-de-la-salida-de-nike-de-atletico-nacional-marca-propia-se-apalancara-en-james/",
-        "resumen": "Atlético Nacional pondrá fin a 14 años de alianza con Nike y prepara una nueva estrategia comercial que busca aprovechar el mercado de su hinchada.",
-        "autor": "",
-        "subseccion": "Valorasports",
-        "publicacion": "",
-        "titulo_fuente": "Exclusivo | Estos son los detalles de la salida de Nike de Atlético Nacional: Marca propia se apalancará en James",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Parque eólico de AES Colombia y Ecopetrol iniciaría operaciones en 2029",
-        "url": "https://www.valoraanalitik.com/megaproyecto-eolico-de-aes-colombia-y-ecopetrol-entraria-en-operacion-en-2029/",
-        "resumen": "Federico Echavarría, gerente de la empresa, reveló cómo será el desarrollo de dicha iniciativa.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Megaproyecto eólico de AES Colombia y Ecopetrol entraría en operación en 2029",
         "capturado": "2026-09-18T13:13:54-05:00"
       }
     ]
