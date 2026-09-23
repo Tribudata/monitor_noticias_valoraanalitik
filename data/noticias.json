@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-23T09:22:05-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-09-23T13:33:00-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Demandas al Estado por grandes obras rebasan los $100 billones y se avecinan nuevas APP viales",
+        "url": "https://www.valoraanalitik.com/litigios-contra-el-estado-colombiano-por-megaobras-superan-100-billones/",
+        "resumen": "El presidente de la ANI, Ricardo Ayerbe, confirmó que la entidad alista nuevos proyectos para las vías que han reversado al Invías.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Reclamaciones y litigios contra el Estado colombiano por megaobras ya superan los $100 billones; se vienen nuevas APP en vías clave",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
+      {
+        "titulo": "Bancolombia prevé que Colombia demorará diez años en retornar al objetivo inflacionario del 3 % en 2028",
+        "url": "https://www.valoraanalitik.com/colombia-tardaria-una-decada-en-volver-a-la-meta-de-inflacion-del-3-y-solo-lo-lograria-hasta-2028-bancolombia/",
+        "resumen": "Bancolombia revisó al alza sus expectativas de cierre de inflación para 2026 hasta el 6,7 % y para 2027 anticipa un 5,5 %.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Colombia tardaría una década en volver a la meta de inflación del 3 % y solo lo lograría hasta 2028: Bancolombia",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
+      {
+        "titulo": "CARF indica que la liquidez estatal en pesos bajó a $15,1 billones en agosto, bajo el nivel histórico",
+        "url": "https://www.valoraanalitik.com/caja-en-pesos-del-gobierno-cayo-a-151-billones-en-agosto-y-se-ubica-por-debajo-del-promedio-historico-carf/",
+        "resumen": "El informe del CARF detalló el balance fiscal consolidado al cierre de julio, que ayuda a contextualizar la presión financiera observada en agosto.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Caja en pesos del Gobierno cayó a $15,1 billones en agosto y se ubica por debajo del promedio histórico: CARF",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
+      {
+        "titulo": "Nuevos megaproyectos viales en Bogotá y la Sabana para optimizar la entrada al aeropuerto El Dorado",
+        "url": "https://www.valoraanalitik.com/las-nuevas-megaobras-que-tendra-bogota-y-la-sabana-para-mejorar-el-acceso-al-aeropuerto-el-dorado/",
+        "resumen": "El convenio tendrá vigencia hasta el 31 de diciembre de 2027 e incluye la contratación de consultorías e interventorías para desarrollar los estudios.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Las nuevas megaobras que tendrá Bogotá y la Sabana para mejorar el acceso al aeropuerto El Dorado",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
+      {
+        "titulo": "Credicorp Capital advierte que El Niño restaría un punto al PIB colombiano y elevaría la inflación",
+        "url": "https://www.valoraanalitik.com/el-nino-economia-colombia-credicorp-capital/",
+        "resumen": "En Colombia, la firma estima que el principal impacto se vería sobre la inflación, mientras Chile y Perú enfrentarían otros efectos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "El Niño podría restar un punto a la economía de Colombia en escenario pesimista, inflación subiría: Credicorp Capital",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
+      {
+        "titulo": "Anif advierte que Fenómeno de El Niño presionará comida, inflación y tasas en Colombia",
+        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-agregara-presion-a-los-alimentos-la-inflacion-y-las-tasas-de-interes/",
+        "resumen": "El centro de estudios ha tenido que revisar al alza varias veces este año su proyección de inflación para fin de año, que hoy se ubica en 6,6 %.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Anif: Fenómeno de El Niño agregará presión a los alimentos, la inflación y las tasas de interés en Colombia",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
+      {
+        "titulo": "MinHacienda urge a la Corte Constitucional evaluar costo fiscal de reforma pensional",
+        "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-pide-con-urgencia-a-la-corte-constitucional-revisar-el-impacto-fiscal-de-la-reforma-pensional/",
+        "resumen": "Según el Gobierno, la reforma pensional en Colombia genera billonarias presiones fiscales.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Ministerio de Hacienda pide, con urgencia, a la Corte Constitucional revisar el impacto fiscal de la reforma pensional",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
+      {
+        "titulo": "Concejo de Bogotá vota hoy tributaria de Galán: así cambiarán gravámenes e incentivos",
+        "url": "https://www.valoraanalitik.com/concejo-de-bogota-vota-hoy-la-reforma-tributaria-de-galan-esto-es-lo-que-cambiaria-en-impuestos-e-incentivos/",
+        "resumen": "Galán salió a defender el alcance social de la reforma y a despejar la idea de que se trata de un alza generalizada de impuestos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Concejo de Bogotá vota hoy la reforma tributaria de Galán: esto es lo que cambiaría en impuestos e incentivos",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
       {
         "titulo": "Fernando Isaza Gutiérrez de Piñeres sonaría como presidente entrante del Fondo Nacional de Garantías",
         "url": "https://www.valoraanalitik.com/fernando-isaza-gutierrez-de-pineres-seria-el-nuevo-presidente-del-fondo-nacional-de-garantias/",
@@ -523,89 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Oxford Economics modera su proyección de crecimiento económico en Colombia y advierte incertidumbre",
         "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "A julio de 2026, las fintechs otorgaron 70% de los créditos con respaldo del FGA Fondo de Garantías",
-        "url": "https://www.valoraanalitik.com/fintechs-creditos-respaldados-fga/",
-        "resumen": "Estas compañías movilizaron $3,3 billones en 5,2 millones de créditos respaldados durante los primeros siete meses del año.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fintechs originaron 70% de los créditos respaldados por FGA Fondo de Garantías a julio de 2026",
-        "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master solicita al gobierno De la Espriella garantizar fondos reales para la salud colombiana",
-        "url": "https://www.valoraanalitik.com/bruce-mac-master-pide-al-gobierno-de-la-espriella-asegurar-recursos-reales-para-la-salud-en-colombia/",
-        "resumen": "La salud en Colombia, recordó la ANDI, tiene importantes presiones financieras para los próximos años.",
-        "autor": "",
-        "subseccion": "Reforma a la salud colombia",
-        "publicacion": "",
-        "titulo_fuente": "Bruce Mac Master pide al gobierno De la Espriella asegurar recursos reales para la salud en Colombia",
-        "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "Excongresista del Centro Democrático Thania Vega asumirá como embajadora de Colombia en Perú",
-        "url": "https://www.valoraanalitik.com/thania-vega-exsenadora-del-centro-democratico-sera-la-nueva-embajadora-de-colombia-en-peru/",
-        "resumen": "Ficha cercana al uribismo llega al gobierno de Abelardo de la Espriella.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Thania Vega, exsenadora del Centro Democrático, será la nueva embajadora de Colombia en Perú",
-        "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá otorgará crédito por 300.000 millones para granja solar de Patria y Ashmore en Santander",
-        "url": "https://www.valoraanalitik.com/banco-de-bogota-parque-solar-santander/",
-        "resumen": "El proyecto Puertos de Santander tendrá una capacidad instalada de 250 megavatios pico (MWp) y generará más de 500 gigavatios hora (GWh) al año.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Banco de Bogotá financiará $300.000 millones para parque solar de Patria y Ashmore en Santander",
-        "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "Revise bien antes de adquirir un vehículo híbrido pues no todos cuentan con iguales ventajas fiscales",
-        "url": "https://www.valoraanalitik.com/no-todos-los-carros-hibridos-tienen-los-mismos-beneficios-tributarios-ojo-antes-de-comprar/",
-        "resumen": "Los carros híbridos ganan terreno en Colombia, pero la tecnología elegida puede cambiar los beneficios tributarios disponibles para el comprador.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "No todos los carros híbridos tienen los mismos beneficios tributarios: ojo antes de comprar",
-        "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "Proyecto de presupuesto nacional de 2027 afronta más de 600 proposiciones previas a su aprobación",
-        "url": "https://www.valoraanalitik.com/presupuesto-de-colombia-2027-enfrenta-mas-de-600-preposiciones-para-ser-aprobado/",
-        "resumen": "Continúa en vilo la aprobación del Presupuesto General para 2027 y se agota el tiempo.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Presupuesto de Colombia 2027 enfrenta más de 600 preposiciones para ser aprobado",
-        "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "Fuerte temporada de calor alcanzará su pico a finales de 2026 y cederá hacia la mitad de 2027",
-        "url": "https://www.valoraanalitik.com/ola-de-calor-golpeara-con-la-mayor-intensidad-a-finales-de-2026-pero-disminuira-a-mediados-de-2027/",
-        "resumen": "Este fenómeno climático altera la capacidad de generación de las hidroeléctricas de Colombia y aumenta la generación térmica.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ola de calor golpeará con la mayor intensidad a finales de 2026, pero disminuirá a mediados de 2027",
-        "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella modifica condiciones para obtener ayudas habitacionales",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-cambia-requisitos-para-acceder-a-subsidios-de-vivienda/",
-        "resumen": "Los subsidios de vivienda tendrán nuevas reglas para hogares afectados por el terremoto. Estas son las condiciones que cambian.",
-        "autor": "",
-        "subseccion": "Subsidio de vivienda",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella cambia requisitos para acceder a subsidios de vivienda",
-        "capturado": "2026-09-21T14:41:40-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Minsait presenta propuesta de redes inteligentes para disminuir apagones y pérdidas eléctricas en Colombia",
+        "url": "https://www.valoraanalitik.com/minsait-impulsa-redes-inteligentes-para-reducir-interrupciones-y-perdidas-de-energia-en-colombia-esta-es-su-propuesta/",
+        "resumen": "Y es que según cifras, la continuidad del servicio sigue siendo un reto para el país.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Minsait impulsa redes inteligentes para reducir interrupciones y pérdidas de energía en Colombia: esta es su propuesta",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
+      {
+        "titulo": "Demandas contra la nación por megaproyectos pasan de $100 billones y preparan nuevas APP viales",
+        "url": "https://www.valoraanalitik.com/litigios-contra-el-estado-colombiano-por-megaobras-superan-100-billones/",
+        "resumen": "El presidente de la ANI, Ricardo Ayerbe, confirmó que la entidad alista nuevos proyectos para las vías que han reversado al Invías.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Reclamaciones y litigios contra el Estado colombiano por megaobras ya superan los $100 billones; se vienen nuevas APP en vías clave",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
+      {
+        "titulo": "Iberia alista su centenario con desembolsos de 6.000 millones de euros y crecimiento en Latinoamérica",
+        "url": "https://www.valoraanalitik.com/iberia-se-prepara-para-su-siglo-de-vida-con-inversiones-de-6-000-millones-de-euros-y-expansion-en-america-latina/",
+        "resumen": "Iberia ratificó en Madrid su plan de inversión hasta 2030, con expansión de flota, nuevas rutas y América Latina como uno de sus mercados clave.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Iberia se prepara para su siglo de vida con inversiones de 6.000 millones de euros y expansión en América Latina",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
+      {
+        "titulo": "Concejo distrital define hoy la tributaria de Galán: estos serían los cambios en gravámenes y estímulos",
+        "url": "https://www.valoraanalitik.com/concejo-de-bogota-vota-hoy-la-reforma-tributaria-de-galan-esto-es-lo-que-cambiaria-en-impuestos-e-incentivos/",
+        "resumen": "Galán salió a defender el alcance social de la reforma y a despejar la idea de que se trata de un alza generalizada de impuestos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Concejo de Bogotá vota hoy la reforma tributaria de Galán: esto es lo que cambiaría en impuestos e incentivos",
+        "capturado": "2026-09-23T13:33:00-05:00"
+      },
       {
         "titulo": "Entrevista | KLC: la administración de personal y ESG como mecanismos para salvaguardar el valor corporativo",
         "url": "https://www.valoraanalitik.com/entrevista-klc-la-gestion-laboral-y-esg-como-nuevas-herramientas-para-proteger-el-valor-de-las-empresas/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | Megaproyecto eólico de AES Colombia y Ecopetrol entraría en operación en 2029",
         "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Howard hijo reemplazará a Warren Buffett en la presidencia de Berkshire Hathaway tras su salida",
-        "url": "https://www.valoraanalitik.com/warren-buffett-deja-la-presidencia-de-berkshire-hathaway-y-su-hijo-howard-asumira-el-cargo/",
-        "resumen": "La llegada de Howard Buffett a la presidencia forma parte del plan de sucesión que Berkshire Hathaway ha desarrollado durante años.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Warren Buffett deja la presidencia de Berkshire Hathaway y su hijo Howard asumirá el cargo",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Dan inicio a los análisis para levantar Puerto Nuevo proyecto destinado a traer gas del Magdalena",
-        "url": "https://www.valoraanalitik.com/arrancan-estudios-para-construir-puerto-nuevo-proyecto-para-importar-gas-desde-el-magdalena/",
-        "resumen": "La entidad inició trámite para modificar la licencia ambiental y avanzar con un proyecto de importación de petróleo, gas, derivados y otros bienes y productos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Arrancan estudios para construir Puerto Nuevo: iniciativa para importar gas desde el Magdalena",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Destacado El Ejecutivo establece beneficios fiscales para captar capitales en áreas del sismo",
-        "url": "https://www.valoraanalitik.com/relevante-gobierno-crea-incentivos-tributarios-para-atraer-inversion-a-zonas-afectadas-por-terremoto/",
-        "resumen": "El decreto estableció montos mínimos diferentes dependiendo de la actividad económica de la empresa.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Gobierno crea incentivos tributarios para atraer inversión a zonas afectadas por terremoto",
-        "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Entrevista Isagen proveerá al sistema eléctrico nacional electricidad equivalente al gasto de Cali",
-        "url": "https://www.valoraanalitik.com/el-sistema-electrico-colombiano-recibira-de-isagen-una-energia-equivalente-al-consumo-de-cali/",
-        "resumen": "Camilo Marulanda, presidente de Isagen, también reveló que Air-e le debe a la empresa $95.000 millones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | El sistema eléctrico colombiano recibirá de Isagen una energía equivalente al consumo de Cali",
-        "capturado": "2026-09-18T09:54:35-05:00"
       }
     ]
   }
