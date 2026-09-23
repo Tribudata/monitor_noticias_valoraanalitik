@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-23T04:27:50-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-23T09:22:05-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Fernando Isaza Gutiérrez de Piñeres sonaría como presidente entrante del Fondo Nacional de Garantías",
+        "url": "https://www.valoraanalitik.com/fernando-isaza-gutierrez-de-pineres-seria-el-nuevo-presidente-del-fondo-nacional-de-garantias/",
+        "resumen": "Exfuncionario de Barranquilla aterriza en el gobierno de Abelardo de la Espriella. Este es el perfil del nuevo presidente del FNG.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Fernando Isaza Gutiérrez de Piñeres sería el nuevo presidente del Fondo Nacional de Garantías",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
+      {
+        "titulo": "Tasa del dólar en Colombia repunta fuertemente y roza los 3240 pesos",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sube-con-fuerza-y-se-acerca-a-los-3-240/",
+        "resumen": "Esto mueve al dólar en Colombia al inicio de la jornada.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia sube con fuerza y se acerca a los $3.240",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
+      {
+        "titulo": "Expertos elevan proyecciones de inflación y tasas de interés en Colombia para finalizar 2026",
+        "url": "https://www.valoraanalitik.com/analistas-siguen-aumentando-expectativas-de-tasas-de-interes-e-inflacion-en-colombia-para-cierre-de-2026/",
+        "resumen": "Para este mes, los expertos prevén que la tasa de interés se sostenga en 12 %, tal como decidió la Junta Directiva del Banco de la República en julio de 2026.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Analistas siguen aumentando expectativas de tasas de interés e inflación en Colombia para cierre de 2026",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
+      {
+        "titulo": "Sismos continúan en Chocó: entidad registra más de 1500 movimientos e investiga sus causas",
+        "url": "https://www.valoraanalitik.com/choco-sigue-con-actividad-sismica-servicio-geologico-reporta-mas-de-1-500-eventos-y-estudia-su-origen/",
+        "resumen": "¿Por qué sigue temblando en el Chocó? El Sistema Geológico explicó las causas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Chocó sigue con actividad sísmica: Servicio Geológico reporta más de 1.500 eventos y estudia su origen",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
+      {
+        "titulo": "Constructores arrancan obras de 27 casas en Quibdó destinando 4500 millones de pesos",
+        "url": "https://www.valoraanalitik.com/sector-constructor-inicia-reconstruccion-de-27-viviendas-en-quibdo-con-inversion-de-4-500-millones/",
+        "resumen": "La iniciativa se suma a las acciones que se vienen adelantando en Chocó tras el terremoto del 10 de agosto de 2026.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Sector constructor inicia reconstrucción de 27 viviendas en Quibdó con inversión de $4.500 millones",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
+      {
+        "titulo": "Credicorp Capital prevé que Colombia sea su mercado clave hacia 2027 según entrevista",
+        "url": "https://www.valoraanalitik.com/credicorp-capital-investor-conference-2026/",
+        "resumen": "La compañía de asesoría y gestión de inversiones, parte del holding peruano Credicorp, realiza por primera vez su Investor Conference en Bogotá.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Credicorp Capital espera que Colombia se convierta en su principal mercado en 2027",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
+      {
+        "titulo": "Bolsas globales operan con prudencia por conflicto y tasas de interés según premercado",
+        "url": "https://www.valoraanalitik.com/premercado-mercados-globales-operan-con-cautela-ante-tensiones-geopoliticas-y-expectativas-sobre-tasas-de-interes/",
+        "resumen": "Irán rechazó la retórica del presidente Trump en la Asamblea General de la ONU donde planteó la posibilidad de “aniquilar” a la República Islámica.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Mercados globales operan con cautela ante tensiones geopolíticas y expectativas sobre tasas de interés",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
+      {
+        "titulo": "Tasas de interés del Banco de la República alcanzarían picos de más de dos años",
+        "url": "https://www.valoraanalitik.com/banco-de-la-republica-podria-llevar-las-tasas-a-maximos-de-mas-de-dos-anos/",
+        "resumen": "El Banco de la República ya ha mencionado cuáles son los riesgos para las tasas de interés en los próximos meses.",
+        "autor": "",
+        "subseccion": "Banco de la republica",
+        "publicacion": "",
+        "titulo_fuente": "Banco de la República podría llevar las tasas a máximos de más de dos años",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella adoptará estas medidas con la Nueva EPS",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-tomara-estas-decisiones-con-la-nueva-eps/",
+        "resumen": "La Nueva EPS, según el mismo Gobierno, acumula billonarias deudas que deberán ser atendidas.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella tomará estas decisiones con la Nueva EPS",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
       {
         "titulo": "Acipet le expone al Ejecutivo tres iniciativas esenciales para afrontar los desafíos energéticos del país",
         "url": "https://www.valoraanalitik.com/acipet-presenta-propuestas-para-enfrentar-retos-energeticos-de-colombia/",
@@ -513,99 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella cambia requisitos para acceder a subsidios de vivienda",
         "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Aumentaron fuertemente las compras externas de gas en el país durante el fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/se-disparo-la-importacion-de-gas-en-colombia-en-medio-del-fenomeno-de-el-nino/",
-        "resumen": "A causa de la falta de posibilidad de autoabastecimiento a corto plazo, algunos expertos señalaron la necesidad de incentivar la importación.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Se disparó la importación de gas en Colombia en medio del fenómeno de El Niño",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio bordeó los 3.200 pesos y terminó al alza por tercer día consecutivo",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-rozo-los-3-200-y-cerro-al-alza-por-tercera-jornada-consecutiva/",
-        "resumen": "El precio se movió de forma lateral y se mantuvo cerca del nivel de los $3.190, buscando consolidarse por encima del techo técnico previo.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia rozó los $3.200 y cerró al alza por tercera jornada consecutiva",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Administración lanza en Nueva York Misión Crecer para impulsar inversión y elevar PIB al 6 por ciento",
-        "url": "https://www.valoraanalitik.com/gobierno-presenta-en-nueva-york-mision-crecer-para-acelerar-inversion-y-llevar-pib-al-6/",
-        "resumen": "Seguridad jurídica, simplificación del Estado y un portafolio de proyectos, fueron los ejes del encuentro.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno presenta en Nueva York Misión Crecer para acelerar inversión y llevar PIB al 6 %",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Gobierno autoriza a Cajas de Compensación trasladar hasta medio billón para damnificados por sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-habilita-que-cajas-de-compensacion-movilicen-hasta-medio-billon-para-apoyar-a-afectados-por-terremoto/",
-        "resumen": "Hasta $550.000 millones podrán movilizar las Cajas de Compensación Familiar para apoyar la recuperación de las familias.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno habilita que Cajas de Compensación movilicen hasta medio billón para apoyar a afectados por terremoto",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Plata arrancó operaciones en Colombia con CDT, bolsillo rentable y tarjeta débito; duplicará su inversión",
-        "url": "https://www.valoraanalitik.com/plata-operacion-colombia-cdt-rentabilidad/",
-        "resumen": "La fintech, que comenzó a operar la semana pasada, ya lanzó CDT y tarjeta débito; el próximo año prevé ampliar su oferta con financiamiento.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Fintech Plata inició operación en Colombia con CDT, bolsillo con rentabilidad y tarjeta débito; duplicará inversión",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "En julio las importaciones colombianas subieron 22,9 % impulsadas por manufacturas y combustibles",
-        "url": "https://www.valoraanalitik.com/importaciones-de-colombia-crecieron-229-en-julio-manufacturas-y-combustibles-jalonaron-el-resultado/",
-        "resumen": "En el periodo de enero a julio de 2026, las compras externas de Colombia ascendieron a US$46.043,9 millones CIF, lo que representa un repunte del 15,1 %.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Importaciones de Colombia crecieron 22,9 % en julio: Manufacturas y combustibles jalonaron el resultado",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "La ola de calor en Colombia sería la mayor del siglo y afectaría energía, agro y alimentos",
-        "url": "https://www.valoraanalitik.com/ola-de-calor-que-golpeara-colombia-podria-ser-la-mas-fuerte-en-lo-que-va-del-siglo-energia-agro-y-alimentos-serian-los-mas-afectados/",
-        "resumen": "Corficolombiana manifestó que el ahorro de agua y de energía pasó de ser una alternativa para convertirse en una prioridad.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Ola de calor que golpeará Colombia podría ser la más fuerte en lo que va del siglo; energía, agro y alimentos serían los más afectados",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "MinAgricultura busca anular la declaratoria APPA en Córdoba para formular una nueva",
-        "url": "https://www.valoraanalitik.com/minagricultura-quiere-derogar-la-declaratoria-appa-en-cordoba-y-preparar-una-nueva-formulacion/",
-        "resumen": "Una revisión adelantada por la UPRA evidenció fallas en la escala cartográfica e ignorancia de zonas contaminadas con metales pesados.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "MinAgricultura quiere derogar la declaratoria APPA en Córdoba y preparar una nueva formulación",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Dólar inicia jornada en baja a $3.170 pendiente de reunión entre Trump y Xi Jinping",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-a-la-baja-en-3-170-a-la-espera-de-la-cumbre-entre-trump-y-xi-jinping/",
-        "resumen": "A nivel internacional, los elevados precios del crudo y las perspectivas de una Reserva Federal más restrictiva continúan impulsando al dólar.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre a la baja en $3.170 a la espera de la cumbre entre Trump y Xi Jinping",
-        "capturado": "2026-09-21T09:27:57-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | KLC: la administración de personal y ESG como mecanismos para salvaguardar el valor corporativo",
+        "url": "https://www.valoraanalitik.com/entrevista-klc-la-gestion-laboral-y-esg-como-nuevas-herramientas-para-proteger-el-valor-de-las-empresas/",
+        "resumen": "John Karakatsianis, socio fundador, habló con Valora Analitik por qué las empresas necesitan cambiar la manera de gestionar estos riesgos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | KLC: la gestión laboral y ESG como nuevas herramientas para proteger el valor de las empresas",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
+      {
+        "titulo": "Opinión | ¿Madurez? ¿O todavía en la adolescencia? La quinta era de las Fintechs",
+        "url": "https://www.valoraanalitik.com/opinion-adultez-o-aun-en-la-adolescencia-la-quinta-era-de-las-fintechs/",
+        "resumen": "Para las fintechs, crecer con rentabilidad, escala, disciplina operativa y madurez regulatoria se convirtió en la verdadera medida del éxito.",
+        "autor": "",
+        "subseccion": "Especiales",
+        "publicacion": "",
+        "titulo_fuente": "Opinión | ¿Adultez? ¿O aún en la adolescencia? La quinta era de las Fintechs",
+        "capturado": "2026-09-23T09:22:05-05:00"
+      },
       {
         "titulo": "Pei adquiere activos de Terranum para expandir uno de los principales portafolios de bienes raíces",
         "url": "https://www.valoraanalitik.com/pei-avanza-en-compra-de-activos-de-terranum-asi-crecera-uno-de-los-grandes-portafolios-inmobiliarios-del-pais/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | El sistema eléctrico colombiano recibirá de Isagen una energía equivalente al consumo de Cali",
         "capturado": "2026-09-18T09:54:35-05:00"
-      },
-      {
-        "titulo": "Colombia Fintech informa que sus asociados destinan 4,3 billones para financiar empresas y crecer",
-        "url": "https://www.valoraanalitik.com/relevante-colombia-fintech-anuncia-43-billones-de-sus-miembros-para-fondear-empresas-y-jalonar-crecimiento/",
-        "resumen": "Así lo confirmó el presidente de Colombia Fintech al cierre de la primera jornada del Latam Fintech Market 2026.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Colombia Fintech anuncia $4,3 billones de sus miembros para fondear empresas y jalonar crecimiento",
-        "capturado": "2026-09-17T19:42:03-05:00"
-      },
-      {
-        "titulo": "Ecopetrol revela la conformación y los nombres de los integrantes de sus nuevos comités directivos",
-        "url": "https://www.valoraanalitik.com/ecopetrol-confirma-como-quedaron-los-nuevos-comites-de-su-junta-directiva-estos-son-sus-integrantes/",
-        "resumen": "Ecopetrol definió cómo quedarán conformados los seis comités que respaldan las decisiones de la Junta. Lea los detalles.",
-        "autor": "",
-        "subseccion": "Petróleo",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol confirma cómo quedaron los nuevos comités de su Junta Directiva: estos son sus integrantes",
-        "capturado": "2026-09-17T19:42:03-05:00"
       }
     ]
   }
