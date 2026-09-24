@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-23T19:46:29-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-24T00:58:48-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
       {
@@ -607,6 +607,26 @@
     ],
     "Empresariales": [
       {
+        "titulo": "Usos de la IA en el sector petrolero enfocados en eficiencia y seguridad",
+        "url": "https://www.valoraanalitik.com/las-aplicaciones-que-esta-tomando-la-ia-en-la-industria-de-hidrocarburos/",
+        "resumen": "Desde la detección de fugas hasta los gemelos digitales, la tecnología permite monitorear activos y anticipar posibles fallas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Seguridad y eficiencia: las aplicaciones que está tomando la IA en la industria de hidrocarburos",
+        "capturado": "2026-09-24T00:58:48-05:00"
+      },
+      {
+        "titulo": "Expansión de IKEA en Colombia tras tres años: cobertura supera 300 municipios",
+        "url": "https://www.valoraanalitik.com/asi-ha-crecido-ikea-a-tres-anos-de-su-llegada-a-colombia-ya-llega-a-mas-de-300-municipios/",
+        "resumen": "IKEA cumple tres años en Colombia y revela cifras que muestran cómo ha evolucionado el interés de los consumidores por la marca.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Así ha crecido IKEA a tres años de su llegada a Colombia: ya llega a más de 300 municipios",
+        "capturado": "2026-09-24T00:58:48-05:00"
+      },
+      {
         "titulo": "Isagen traspasa infraestructura de energía solar y de agua a una alianza entre EDF y BTG Pactual",
         "url": "https://www.valoraanalitik.com/isagen-vende-activos-hidroelectricos-y-solares-a-grupo-empresarial-conformado-por-edf-y-btg-pactual-asi-es-la-operacion/",
         "resumen": "Isagen acordó la venta de varios activos de generación a EDF y BTG Pactual, en una operación que hace parte de su estrategia de crecimiento.",
@@ -1184,26 +1204,6 @@
         "subseccion": "Política",
         "publicacion": "",
         "titulo_fuente": "Gobierno crea subsidio de $700.362 por trabajador para empresas afectadas por terremoto",
-        "capturado": "2026-09-18T16:09:25-05:00"
-      },
-      {
-        "titulo": "Bipro se convertirá en la proteína global inicial con certificación Café de Colombia",
-        "url": "https://www.valoraanalitik.com/bipro-sera-la-primera-proteina-del-mundo-con-el-sello-cafe-de-colombia/",
-        "resumen": "Su incorporación a esta nueva categoría también representa el trabajo de más de 540.000 familias caficultoras.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bipro será la primera proteína del mundo con el sello Café de Colombia",
-        "capturado": "2026-09-18T16:09:25-05:00"
-      },
-      {
-        "titulo": "El Aguardiente Amarillo de Manzanares recibió el Gran Effie por eficacia en publicidad y marketing",
-        "url": "https://www.valoraanalitik.com/aguardiente-amarillo-de-manzanares-fue-premiado-con-el-gran-effie-en-la-efectividad-del-marketing-y-la-publicidad/",
-        "resumen": "Este galardón es conocido como “el oro de los oros”, reconocimiento por el que solo compiten los casos que reciben oro en cada categoría.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Aguardiente Amarillo de Manzanares fue premiado con el Gran Effie en la efectividad del marketing y la publicidad",
         "capturado": "2026-09-18T16:09:25-05:00"
       }
     ]
