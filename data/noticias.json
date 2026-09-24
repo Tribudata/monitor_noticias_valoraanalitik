@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-23T17:09:11-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-09-23T19:46:29-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Isagen cede centrales hídricas y solares a alianza entre EDF y BTG Pactual y se conocen detalles",
+        "url": "https://www.valoraanalitik.com/isagen-vende-activos-hidroelectricos-y-solares-a-grupo-empresarial-conformado-por-edf-y-btg-pactual-asi-es-la-operacion/",
+        "resumen": "Isagen acordó la venta de varios activos de generación a EDF y BTG Pactual, en una operación que hace parte de su estrategia de crecimiento.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Isagen vende activos hidroeléctricos y solares a grupo empresarial conformado por EDF y BTG Pactual: así es la operación",
+        "capturado": "2026-09-23T19:46:29-05:00"
+      },
+      {
+        "titulo": "Reforma pensional: modificaciones si la Corte avala la solicitud de Colpensiones de diferirla a 2028",
+        "url": "https://www.valoraanalitik.com/reforma-pensional-esto-cambiaria-si-la-corte-acepta-la-peticion-de-colpensiones-de-aplazarla-hasta-2028/",
+        "resumen": "Colpensiones pidió más tiempo para implementar la reforma pensional y un abogado explica qué podría cambiar si la Corte acepta la solicitud.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Reforma pensional: esto cambiaría si la Corte acepta la petición de Colpensiones de aplazarla hasta 2028",
+        "capturado": "2026-09-23T19:46:29-05:00"
+      },
+      {
+        "titulo": "Andesco advierte racionamientos eléctricos planeados y aumento de tarifas por Fenómeno del Niño",
+        "url": "https://www.valoraanalitik.com/en-colombia-ya-se-presentan-cortes-de-energia-programados-y-ahora-alza-de-tarifas-por-el-nino-andesco/",
+        "resumen": "Camilo Sánchez, presidente de la organización, se refirió a los principales desafíos del sector energético y de los servicios públicos.",
+        "autor": "",
+        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
+        "publicacion": "",
+        "titulo_fuente": "En Colombia ya se presentan cortes de energía programados y ahora alza de tarifas por el Niño: Andesco",
+        "capturado": "2026-09-23T19:46:29-05:00"
+      },
+      {
+        "titulo": "Asofondos señala que el país requeriría otra reforma pensional para garantizar la sostenibilidad",
+        "url": "https://www.valoraanalitik.com/asofondos-otra-reforma-pensional-colombia/",
+        "resumen": "Andrés Velasco señaló los tres retos para implementar la actual ley pensional: Colpensiones, Banco de la República y petición de MinHacienda a la Corte.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Asofondos advierte que Colombia necesitaría otra reforma pensional para hacer sostenible el sistema",
+        "capturado": "2026-09-23T19:46:29-05:00"
+      },
+      {
+        "titulo": "BanRep expone contradicciones de la Corte en sentencia sobre la reforma pensional y pide claridad",
+        "url": "https://www.valoraanalitik.com/primicia-banrep-senala-contradicciones-de-la-corte-en-fallo-que-avalo-parte-de-la-reforma-pensional-pide-aclaracion/",
+        "resumen": "El banco central le planteó a la Corte Constitucional la necesidad de resolver contradicciones entre la parte motiva y la parte resolutiva del fallo.",
+        "autor": "",
+        "subseccion": "Banco de la republica",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | BanRep señala contradicciones de la Corte en fallo que avaló parte de la reforma pensional; pide aclaración",
+        "capturado": "2026-09-23T19:46:29-05:00"
+      },
       {
         "titulo": "En directo | Comisiones económicas congresionales arrancan debate para avalar Presupuesto 2027 en primer debate",
         "url": "https://www.valoraanalitik.com/en-vivo-comisiones-economicas-del-congreso-inician-discusion-para-aprobar-presupuesto-2027-en-primer-debate/",
@@ -553,59 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Dólar en Colombia sube este martes por cuarto día consecutivo: mercado está atento a la FED y al Presupuesto de 2027",
         "capturado": "2026-09-22T12:43:08-05:00"
-      },
-      {
-        "titulo": "Patria Investments y Ashmore Colombia consiguieron los recursos para la granja solar Puertos de Santander",
-        "url": "https://www.valoraanalitik.com/patria-investment-y-ashmore-colombia-aseguraron-la-financiacion-para-el-proyecto-de-energia-solar-puertos-de-santander/",
-        "resumen": "Esto se da en una coyuntura en la que Patria vendió su participación del proyecto Puerta de Oro a Isagen.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Patria Investments y Ashmore Colombia aseguraron la financiación para el proyecto de energía solar Puertos de Santander",
-        "capturado": "2026-09-22T08:16:30-05:00"
-      },
-      {
-        "titulo": "Más de 130 temblores en más de 48 horas de actividad telúrica en Chaparral, Tolima",
-        "url": "https://www.valoraanalitik.com/chaparral-tolima-completa-mas-de-48-horas-de-actividad-sismica-van-mas-de-130-movimientos-teluricos/",
-        "resumen": "Hasta el momento, ni el SGC ni las autoridades locales han reportado personas heridas o daños materiales asociados.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Chaparral, Tolima, completa más de 48 horas de actividad sísmica: van más de 130 movimientos telúricos",
-        "capturado": "2026-09-22T08:16:30-05:00"
-      },
-      {
-        "titulo": "Bolsas al alza en el premercado por baja del petróleo, líos fiscales en París y cumbre Trump-Xi",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-suben-entre-caida-del-petroleo-tensiones-fiscales-en-paris-y-expectativas-sobre-cumbre-trump-xi/",
-        "resumen": "La atención de los inversores se centra ahora en la reunión de Trump con Xi el 24 de septiembre.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas suben entre caída del petróleo, tensiones fiscales en París y expectativas sobre cumbre Trump-Xi",
-        "capturado": "2026-09-22T08:16:30-05:00"
-      },
-      {
-        "titulo": "El gobierno De la Espriella fijará el porvenir de la Nueva EPS antes de dicho plazo",
-        "url": "https://www.valoraanalitik.com/antes-de-esta-fecha-el-gobierno-de-la-espriella-definiria-el-futuro-de-la-nueva-eps/",
-        "resumen": "El gobierno De la Espriella tiene un plan de rescate financiero para el sistema de salud colombiano.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Antes de esta fecha el gobierno De la Espriella definiría el futuro de la Nueva EPS",
-        "capturado": "2026-09-22T08:16:30-05:00"
-      },
-      {
-        "titulo": "Presidente de Andesco advierte en entrevista que el país se apagará sin ahorro de energía",
-        "url": "https://www.valoraanalitik.com/si-no-ahorramos-energia-se-va-a-apagar-el-pais-presidente-de-andesco/",
-        "resumen": "Camilo Sánchez, presidente de Andesco, habló del marco tarifario y del sector energético previo al desarrollo del congreso del gremio.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | “Si no ahorramos energía, se va a apagar el país”, presidente de Andesco",
-        "capturado": "2026-09-22T08:16:30-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Isagen traspasa infraestructura de energía solar y de agua a una alianza entre EDF y BTG Pactual",
+        "url": "https://www.valoraanalitik.com/isagen-vende-activos-hidroelectricos-y-solares-a-grupo-empresarial-conformado-por-edf-y-btg-pactual-asi-es-la-operacion/",
+        "resumen": "Isagen acordó la venta de varios activos de generación a EDF y BTG Pactual, en una operación que hace parte de su estrategia de crecimiento.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Isagen vende activos hidroeléctricos y solares a grupo empresarial conformado por EDF y BTG Pactual: así es la operación",
+        "capturado": "2026-09-23T19:46:29-05:00"
+      },
+      {
+        "titulo": "Andesco advierte sobre racionamientos de luz programados y mayores cobros en el país por El Niño",
+        "url": "https://www.valoraanalitik.com/en-colombia-ya-se-presentan-cortes-de-energia-programados-y-ahora-alza-de-tarifas-por-el-nino-andesco/",
+        "resumen": "Camilo Sánchez, presidente de la organización, se refirió a los principales desafíos del sector energético y de los servicios públicos.",
+        "autor": "",
+        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
+        "publicacion": "",
+        "titulo_fuente": "En Colombia ya se presentan cortes de energía programados y ahora alza de tarifas por el Niño: Andesco",
+        "capturado": "2026-09-23T19:46:29-05:00"
+      },
       {
         "titulo": "A corte de septiembre, el sistema eléctrico colombiano recibió menos del 25 % de la energía prevista para 2026",
         "url": "https://www.valoraanalitik.com/al-sistema-electrico-colombiano-ha-entrado-menos-de-25-de-la-energia-esperada-en-2026-a-corte-de-septiembre/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Aguardiente Amarillo de Manzanares fue premiado con el Gran Effie en la efectividad del marketing y la publicidad",
         "capturado": "2026-09-18T16:09:25-05:00"
-      },
-      {
-        "titulo": "El colorido lanzamiento de Pandora Minis es mostrado por Danna",
-        "url": "https://www.valoraanalitik.com/evolucion-de-pandora-minis-es-presentada-por-danna-a-traves-del-color/",
-        "resumen": "Con esta propuesta, Pandora reinterpreta la relevancia de los charms y busca acercar este universo a nuevas audiencias.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Evolución de Pandora Minis es presentada por Danna a través del color",
-        "capturado": "2026-09-18T13:13:54-05:00"
-      },
-      {
-        "titulo": "Nu inyectará 5 billones de pesos en Colombia a cinco años tras rebasar seis millones de usuarios",
-        "url": "https://www.valoraanalitik.com/nu-5-billones-colombia-cinco-anos/",
-        "resumen": "Marcela Torres, gerente general de Nu Colombia, destacó el crecimiento del neobanco en el país.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Nu invertirá $5 billones en Colombia en próximos cinco años; superó seis millones de clientes",
-        "capturado": "2026-09-18T13:13:54-05:00"
       }
     ]
   }
