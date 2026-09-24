@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-24T06:36:19-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-24T15:19:31-05:00",
+  "nuevos_en_esta_corrida": 19,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Es oficial que Joaquín Gutiérrez asume la presidencia de Ecopetrol",
+        "url": "https://www.valoraanalitik.com/joaquin-gutierrez-es-el-nuevo-presidente-de-ecopetrol/",
+        "resumen": "Pese a que no tiene trayectoria en petróleo y gas, es cercano al Gobierno y tiene experiencia en el sector corporativo.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Confirmado: Joaquín Gutiérrez es el nuevo presidente de Ecopetrol",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "El fuerte clima caluroso elevará los precios de la luz, advierte el gerente de la Empresa de Energía de Pereira",
+        "url": "https://www.valoraanalitik.com/la-ola-de-calor-en-colombia-va-a-llevar-a-un-alza-en-las-tarifas-de-energia-gerente-de-la-empresa-de-energia-de-pereira/",
+        "resumen": "Yulieth Porras, gerente de la Empresa de Energía de Pereira, habló sobre los retos en el sistema energético y el estado del sistema en Pereira.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | La ola de calor en Colombia va a llevar a un alza en las tarifas de energía: gerente de la Empresa de Energía de Pereira",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "La divisa estadounidense sigue al alza en el país y cerró por encima de los $3.350",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-no-para-de-subir-termino-al-alza-y-supero-los-3-350/",
+        "resumen": "La tasa de cambio abrió al alza en $3.280 y escaló de forma acelerada hasta perforar la barrera de los $3.350 y marcar un techo de $3.361.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia no para de subir: Terminó al alza y superó los $3.350",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Ejecutivo giró $20.200 millones a Dispac para cubrir pagos de salarios y compromisos del mercado eléctrico",
+        "url": "https://www.valoraanalitik.com/gobierno-brindo-20-200-millones-a-dispac-la-empresa-espera-atender-obligaciones-de-nomina-y-ante-el-mercado-mayorista-de-energia/",
+        "resumen": "Andrés Horta, gerente de la empresa, habló sobre los principales retos que enfrenta la compañía, que actualmente atiende a más de 110.000 usuarios.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Gobierno brindó $20.200 millones a Dispac; la empresa espera atender obligaciones de nómina y ante el mercado mayorista de energía",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "ISA Energía sugiere integrar las redes de transmisión regional del país para nivelar los costos tarifarios",
+        "url": "https://www.valoraanalitik.com/isa-energia-propone-unir-los-sistemas-de-transmision-regional-en-colombia-para-estabilizar-tarifas/",
+        "resumen": "Carlos Mario Caro, gerente de ISA Energía, lanzó nuevas propuestas para la industria eléctrica colombiana.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | ISA Energía propone unir los sistemas de transmisión regional en Colombia para estabilizar tarifas",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Patria, Acciones & Valores y trii habilitan opción de inversión desde $500.000 en renta fija regional",
+        "url": "https://www.valoraanalitik.com/alternativa-invertir-renta-fija-latam/",
+        "resumen": "Se trata del fondo MLCC · Renta Fija LatAm by Patria Investments, en el que los interesados podrán acceder con importantes rendimientos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Patria, Acciones & Valores y trii lanzan alternativa para invertir desde $500.000 en renta fija latinoamericana",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella descarta subastas energéticas en 2026 y alista el terreno para 2027",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-no-hara-subastas-de-energia-en-2026/",
+        "resumen": "La ministra de Energía también declaró que el fenómeno de El Niño no es solo un asunto del sector energético.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella no hará subastas de energía en 2026: prepara terreno para 2027",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Turismo nacional afianza su momento clave: divisas superan los US$5.600 millones a mitad de año",
+        "url": "https://www.valoraanalitik.com/turismo-en-colombia-consolida-su-auge-ingreso-de-dolares-supera-los-us5-600-millones-en-el-primer-semestre/",
+        "resumen": "La exportación de servicios turísticos se consolida como uno de los motores de generación de dólares más importantes para la economía.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Turismo en Colombia consolida su auge: ingreso de dólares supera los US$5.600 millones en el primer semestre",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Nuevos sectores piden postergar la puesta en marcha de la reforma pensional",
+        "url": "https://www.valoraanalitik.com/mas-voces-se-suman-para-aplazar-entrada-en-vigor-de-la-reforma-pensional/",
+        "resumen": "Gobierno, Colpensiones, Banco de la República y Asfondos piden claridades sobre la reforma pensional",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Más voces se suman para aplazar entrada en vigor de la reforma pensional",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Sanciones viales suman $8 billones y el SIMIT evalúa reembolsos por fotomultas",
+        "url": "https://www.valoraanalitik.com/multas-de-transito-acumulan-8-billones-y-simit-revisa-devolucion-por-fotocomparendos/",
+        "resumen": "El SIMIT reveló el monto de la cartera por multas de tránsito y entregó detalles sobre la revisión de los fotocomparendos.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Multas de tránsito acumulan $8 billones y SIMIT revisa devolución por fotocomparendos",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "El futuro escenario de El Campín alcanzaría el top 10 de los mayores en América Latina",
+        "url": "https://www.valoraanalitik.com/nuevo-estadio-el-campin-podria-ser-top-10-de-los-mas-grandes-en-america-latina/",
+        "resumen": "El nuevo estadio El Campín moverá su ubicación y ya no quedará sobre la avenida 30.",
+        "autor": "",
+        "subseccion": "Futbol colombiano",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo estadio El Campín podría ser top 10 de los más grandes en América Latina",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia trepa a $3.284 al superar techos técnicos y afianzar su racha al alza",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-salta-a-3-284-tras-romper-resistencias-clave-y-consolidar-su-tendencia-alcista/",
+        "resumen": "Para los expertos, la divisa gana un momentum significativo respaldada por una sólida liquidez compradora.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia salta a $3.284 tras romper resistencias clave y consolidar su tendencia alcista",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
       {
         "titulo": "Premercado | Inversores miran cumbre Trump-Xi: trepan bonos y el Brent pasa de US$100",
         "url": "https://www.valoraanalitik.com/premercado-inversores-centran-atencion-en-la-cumbre-trump-xi-aumentan-rendimientos-de-bonos-y-brent-supera-los-us100/",
@@ -483,129 +603,79 @@
         "publicacion": "",
         "titulo_fuente": "Relevante | Global66 recibe aprobación clave en su proceso para ofrecer acceso a inversiones en Wall Street",
         "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Dimayor y Sencia explican el futuro de El Campín tras fijarse la final femenina en Tunja",
-        "url": "https://www.valoraanalitik.com/dimayor-y-sencia-chocan-por-el-campin-tras-confirmarse-que-la-final-del-futbol-femenino-se-jugara-en-tunja/",
-        "resumen": "El cambio de estadio para la final de la Liga Femenina abrió una disputa entre Dimayor y Sencia por la disponibilidad de El Campín y la programación de eventos.",
-        "autor": "",
-        "subseccion": "Valorasports",
-        "publicacion": "",
-        "titulo_fuente": "Dimayor y Sencia aclaran lo que viene para El Campín tras confirmarse que la final del fútbol femenino se jugará en Tunja",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Cajas de compensación darán nuevo auxilio de vivienda en alquiler en el país y así operará",
-        "url": "https://www.valoraanalitik.com/cajas-de-compensacion-entregaran-nuevo-subsidio-de-arriendo-en-colombia-asi-funcionara/",
-        "resumen": "Un nuevo subsidio de arriendo en Colombia tendrá condiciones especiales y será entregado a través de las cajas de compensación.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Cajas de compensación entregarán nuevo subsidio de arriendo en Colombia: así funcionará",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Gobierno da aval a ISA para crédito interno por 31.908 millones de pesos",
-        "url": "https://www.valoraanalitik.com/gobierno-autoriza-a-isa-operacion-de-deuda-interna-por-31-908-millones/",
-        "resumen": "ISA podrá formalizar la modificación del contrato bajo las condiciones financieras previamente aprobadas por el Ministerio de Hacienda.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno autoriza a ISA operación de deuda interna por $31.908 millones",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Dólar superó los 3.200 pesos tras semanas por declaraciones de Trump ante la ONU",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-cerro-sobre-3-200-por-primera-vez-en-semanas-mercado-se-mueve-por-anuncios-de-trump-en-la-onu/",
-        "resumen": "Durante la sesión se transaron US$1.180,15 millones en un total de 1.644 operaciones a través de la plataforma SET-FX.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia cerró sobre $3.200 por primera vez en semanas; mercado se mueve por anuncios de Trump en la ONU",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Visa y Nequi finalizan traslado de más de 6 millones de usuarios al sistema Pismo",
-        "url": "https://www.valoraanalitik.com/visa-y-nequi-completan-migracion-de-mas-de-6-millones-de-cuentas-a-plataforma-pismo/",
-        "resumen": "La nueva plataforma permitirá a Nequi contar con mayor agilidad para ampliar su capacidad operativa y responder al crecimiento.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Visa y Nequi completan migración de más de 6 millones de cuentas a plataforma Pismo",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Iniciativa de De La Espriella sobre Código de Tránsito disminuirá costo de multas, cursos, pases, patios y grúas",
-        "url": "https://www.valoraanalitik.com/reforma-de-de-la-espriella-a-codigo-de-transito-rebajara-valor-de-multas-cursos-licencias-patios-y-gruas-en-colombia/",
-        "resumen": "Elsa Noguera, ministra de Transporte, sostuvo que el proyecto atenderá una directriz presidencial orientada a la desregulación de cobros excesivos.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Reforma de De La Espriella a Código de Tránsito rebajará valor de multas, cursos, licencias, patios y grúas en Colombia",
-        "capturado": "2026-09-22T12:43:08-05:00"
-      },
-      {
-        "titulo": "Arranca Asamblea General de la ONU con alta delegación colombiana: estos serán los temas centrales",
-        "url": "https://www.valoraanalitik.com/inicia-asamblea-general-de-la-onu-con-delegacion-colombiana-de-alto-nivel-estos-seran-los-focos-claves/",
-        "resumen": "La presencia colombiana quedó registrada en una publicación de Mauricio Gaona en X, quien compartió una fotografía desde el recinto de Naciones Unidas.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Inicia Asamblea General de la ONU con delegación colombiana de alto nivel: estos serán los focos claves",
-        "capturado": "2026-09-22T12:43:08-05:00"
-      },
-      {
-        "titulo": "Visa prepara nueva tecnología para enlazar billeteras colombianas con pagos globales",
-        "url": "https://www.valoraanalitik.com/visa-alista-nueva-tecnologia-para-conectar-billeteras-colombianas-con-pagos-internacionales/",
-        "resumen": "La compañía avanza en interoperabilidad de manera internacional con su nueva solución.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Visa alista nueva tecnología para conectar billeteras colombianas con pagos internacionales",
-        "capturado": "2026-09-22T12:43:08-05:00"
-      },
-      {
-        "titulo": "Contraloría intensifica supervisión y control del metro de Bogotá debido a demoras en trabajos",
-        "url": "https://www.valoraanalitik.com/contraloria-refuerza-vigilancia-y-control-sobre-metro-de-bogota-por-retrasos-en-obras/",
-        "resumen": "De acuerdo con el cronograma del proyecto, la construcción está prevista para finalizar en septiembre de 2027.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Contraloría refuerza vigilancia y control sobre metro de Bogotá por retrasos en obras",
-        "capturado": "2026-09-22T12:43:08-05:00"
-      },
-      {
-        "titulo": "Entrevista | Banco de Occidente: el reto es que la incertidumbre no se convierta en parálisis empresarial",
-        "url": "https://www.valoraanalitik.com/banco-de-occidente-el-reto-es-que-la-incertidumbre-no-se-convierta-en-paralisis-para-las-empresas/",
-        "resumen": "Banco de Occidente destaca que la fortaleza reciente del peso puede ser aprovechada para importar maquinaria, tecnología e insumos a un menor costo.",
-        "autor": "",
-        "subseccion": "Grupo aval",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Banco de Occidente: “el reto es que la incertidumbre no se convierta en parálisis para las empresas”",
-        "capturado": "2026-09-22T12:43:08-05:00"
-      },
-      {
-        "titulo": "Juan Valdez ingresa a Canadá con más de 400 puntos de venta en su proceso de expansión global",
-        "url": "https://www.valoraanalitik.com/juan-valdez-llega-a-canada-400-puntos/",
-        "resumen": "La marca colombiana de café inició su operación en Canadá a través de cadenas de supermercados, tiendas independientes y comercio electrónico.",
-        "autor": "",
-        "subseccion": "Cafe en colombia",
-        "publicacion": "",
-        "titulo_fuente": "Juan Valdez llega a Canadá y estará disponible en más de 400 puntos de venta; avanza en expansión internacional",
-        "capturado": "2026-09-22T12:43:08-05:00"
-      },
-      {
-        "titulo": "En diciembre, Adriana Cárdenas culminará su labor como gerente general de Visa Colombia",
-        "url": "https://www.valoraanalitik.com/adriana-cardenas-dejara-la-gerencia-general-de-visa-colombia-en-diciembre/",
-        "resumen": "Luego de cinco años, Cárdenas se despide de la dirección de Visa desde el Payments Day 2026.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Adriana Cárdenas dejará la gerencia general de Visa Colombia en diciembre",
-        "capturado": "2026-09-22T12:43:08-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Joaquín Gutiérrez asume oficialmente la presidencia de Ecopetrol",
+        "url": "https://www.valoraanalitik.com/joaquin-gutierrez-es-el-nuevo-presidente-de-ecopetrol/",
+        "resumen": "Pese a que no tiene trayectoria en petróleo y gas, es cercano al Gobierno y tiene experiencia en el sector corporativo.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Confirmado: Joaquín Gutiérrez es el nuevo presidente de Ecopetrol",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Gerente de la Empresa de Energía de Pereira anuncia que el calor elevará las tarifas en el país",
+        "url": "https://www.valoraanalitik.com/la-ola-de-calor-en-colombia-va-a-llevar-a-un-alza-en-las-tarifas-de-energia-gerente-de-la-empresa-de-energia-de-pereira/",
+        "resumen": "Yulieth Porras, gerente de la Empresa de Energía de Pereira, habló sobre los retos en el sistema energético y el estado del sistema en Pereira.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | La ola de calor en Colombia va a llevar a un alza en las tarifas de energía: gerente de la Empresa de Energía de Pereira",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Grupo Argos y Nicky Jam entregan en Antioquia la primera casa del programa Adopta un Hogar",
+        "url": "https://www.valoraanalitik.com/adopta-un-hogar-iniciativa-de-grupo-argos-y-nicky-jam-entrego-la-primera-vivienda-en-antioquia/",
+        "resumen": "La iniciativa de Grupo Argos y Nicky Jam comprometió 1.000 viviendas a familias afectadas por el terremoto del 10 de agosto.",
+        "autor": "",
+        "subseccion": "Grupo argos",
+        "publicacion": "",
+        "titulo_fuente": "Adopta un Hogar, iniciativa de Grupo Argos y Nicky Jam, entregó la primera vivienda en Antioquia",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Ocho expositores participan en Mentes que Transforman en la primera edición de TEDxRionegro ante cien asistentes",
+        "url": "https://www.valoraanalitik.com/ocho-voces-llegan-al-escenario-de-mentes-que-transforman-donde-100-personas-viviran-la-primera-edicion-de-tedxrionegro/",
+        "resumen": "La convocatoria despertó el interés de más de 700 personas, que se postularon para asistir a esta primera edición.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ocho voces llegan al escenario de “Mentes que Transforman”, donde 100 personas vivirán la primera edición de TEDxRionegro",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Gobierno giró 20.200 millones a Dispac para cubrir deudas de nómina y con el mercado mayorista",
+        "url": "https://www.valoraanalitik.com/gobierno-brindo-20-200-millones-a-dispac-la-empresa-espera-atender-obligaciones-de-nomina-y-ante-el-mercado-mayorista-de-energia/",
+        "resumen": "Andrés Horta, gerente de la empresa, habló sobre los principales retos que enfrenta la compañía, que actualmente atiende a más de 110.000 usuarios.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Gobierno brindó $20.200 millones a Dispac; la empresa espera atender obligaciones de nómina y ante el mercado mayorista de energía",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Entrevista | ISA Energía sugiere integrar las redes de transmisión regional en Colombia para nivelar tarifas",
+        "url": "https://www.valoraanalitik.com/isa-energia-propone-unir-los-sistemas-de-transmision-regional-en-colombia-para-estabilizar-tarifas/",
+        "resumen": "Carlos Mario Caro, gerente de ISA Energía, lanzó nuevas propuestas para la industria eléctrica colombiana.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | ISA Energía propone unir los sistemas de transmisión regional en Colombia para estabilizar tarifas",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
+      {
+        "titulo": "Podcast GEB | Sequía en Colombia por El Niño: estado de preparación del sistema eléctrico nacional",
+        "url": "https://www.valoraanalitik.com/que-tan-preparado-esta-el-sistema-electrico-para-el-nino/",
+        "resumen": "El nuevo episodio del podcast de GEB analiza los retos que enfrenta el país ante la disminución de lluvias, el estado de los embalses y el consumo de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Podcast GEB | El Niño en Colombia: ¿qué tan preparado está el sistema eléctrico para enfrentar la sequía?",
+        "capturado": "2026-09-24T15:19:31-05:00"
+      },
       {
         "titulo": "Usos de la IA en el sector petrolero enfocados en eficiencia y seguridad",
         "url": "https://www.valoraanalitik.com/las-aplicaciones-que-esta-tomando-la-ia-en-la-industria-de-hidrocarburos/",
@@ -1135,76 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | DiDi Food cumple cinco años en Colombia: ya suma 9 millones de usuarios y 15.000 restaurantes",
         "capturado": "2026-09-19T14:14:50-05:00"
-      },
-      {
-        "titulo": "Entrevista | A finales de 2026, Colombia compraría en el exterior entre el 35 % y el 40 % de su gas",
-        "url": "https://www.valoraanalitik.com/colombia-llegaria-a-importar-35-a-40-del-gas-que-consume-para-finales-de-2026/",
-        "resumen": "Óscar Rincón, presidente de Acipet, manifestó que Colombia tiene un gran potencial en yacimientos no convencionales o fracking.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Colombia llegaría a importar 35 % a 40 % del gas que consume para finales de 2026",
-        "capturado": "2026-09-19T08:01:21-05:00"
-      },
-      {
-        "titulo": "Estudio muestra que las microfinanzas llegaron a un menor número de empresarios en el Valle de Aburrá",
-        "url": "https://www.valoraanalitik.com/informe-revela-que-clientes-activos-de-microcredito-en-el-valle-de-aburra-disminuyeron-118-en-2025/",
-        "resumen": "Desembolsó operaciones por sumas de dinero más elevadas, consolidando una cartera vigente que alcanzó los $10 billones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Informe revela que el sistema microfinanciero atendió a menos empresarios del Valle de Aburrá en 2025",
-        "capturado": "2026-09-18T23:06:07-05:00"
-      },
-      {
-        "titulo": "Manuel Fernández Ariza fue nombrado como presidente de Bancóldex por su Junta Directiva",
-        "url": "https://www.valoraanalitik.com/manuel-fernandez-ariza-llega-a-la-presidencia-de-bancoldex/",
-        "resumen": "El directivo cuenta con 24 años de experiencia en el sector público y privado en diferentes cargos de gerencia y diseño de proyectos.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Junta Directiva de Bancóldex designó a Manuel Fernández Ariza como nuevo presidente de la entidad",
-        "capturado": "2026-09-18T18:31:21-05:00"
-      },
-      {
-        "titulo": "Cámaras de comercio destinarán fondos para asistir a negocios damnificados por sismo y fijan ayudas",
-        "url": "https://www.valoraanalitik.com/camaras-de-comercio-podran-usar-recursos-para-ayudar-a-empresas-afectadas-por-terremoto/",
-        "resumen": "El Gobierno también estableció beneficios societarios para las compañías damnificadas, como fusiones abreviadas, venta de activos y reducción de capital.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cámaras de comercio podrán usar recursos para ayudar a empresas afectadas por terremoto; decretan otros beneficios",
-        "capturado": "2026-09-18T16:09:25-05:00"
-      },
-      {
-        "titulo": "Iniciativa de calidad educativa para 145.000 jóvenes colombianos arriba al territorio antioqueño",
-        "url": "https://www.valoraanalitik.com/proyecto-de-mejoramiento-de-la-calidad-educativa-llega-al-departamento-de-antioquia/",
-        "resumen": "La primera fase del proyecto contempla una inversión cercana a $330 millones y desarrollará acciones en liderazgo educativo, formación docente y aprendizaje.",
-        "autor": "",
-        "subseccion": "Uncategorized",
-        "publicacion": "",
-        "titulo_fuente": "Proyecto de Mejoramiento de la Calidad Educativa que beneficia a 145.000 jóvenes del país llega al departamento de Antioquia",
-        "capturado": "2026-09-18T16:09:25-05:00"
-      },
-      {
-        "titulo": "Primicia | Administración De La Espriella prepara estrategia para destrabar vía Suba Cota de 1,3 billones",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-comienza-plan-destrabar-megavia-suba-cota-de-13-billones/",
-        "resumen": "El Ministerio de Cultura alista una resolución clave que permitirá habilitar la construcción de esta obra en el noroccidente de Bogotá.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Gobierno De La Espriella alista plan para destrabar la megavía Suba – Cota de $1,3 billones",
-        "capturado": "2026-09-18T16:09:25-05:00"
-      },
-      {
-        "titulo": "Ejecutivo otorga ayuda de 700.362 pesos por empleado a compañías damnificadas por sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-crea-subsidio-de-700-362-por-trabajador-para-empresas-afectadas-por-terremoto/",
-        "resumen": "El decreto también contempla un subsidio para los trabajadores dependientes o independientes que hayan quedado desempleados.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno crea subsidio de $700.362 por trabajador para empresas afectadas por terremoto",
-        "capturado": "2026-09-18T16:09:25-05:00"
       }
     ]
   }
