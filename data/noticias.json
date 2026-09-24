@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-24T15:19:31-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-09-24T18:20:29-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El Gobierno De la Espriella explica los motivos para romper lazos diplomáticos con Irán",
+        "url": "https://www.valoraanalitik.com/colombia-rompe-relaciones-diplomaticas-con-iran-estas-son-las-razones-del-gobierno-de-la-espriella/",
+        "resumen": "Colombia hizo efectiva la ruptura de relaciones diplomáticas con Irán el 19 de septiembre, aunque la decisión fue anunciada oficialmente este 24 de septiembre.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Colombia rompe relaciones diplomáticas con Irán: estas son las razones del Gobierno De la Espriella",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Por falta de rigor técnico, De la Espriella exigió la dimisión del director de Colpensiones",
+        "url": "https://www.valoraanalitik.com/atencion-sale-carlos-montoya-como-presidente-de-colpensiones-tras-peticion-del-presidente-de-la-espriella/",
+        "resumen": "El presidente De la Espriella explicó las razones para pedir la renuncia del presidente de Colpensiones.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Atención | De la Espriella le pidió la renuncia al presidente de Colpensiones por no demostrar “rigor técnico”",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Obras del nuevo estadio El Campín por 2,4 billones de pesos: qué falta para comenzar",
+        "url": "https://www.valoraanalitik.com/nuevo-estadio-el-campin-que-falta-para-iniciar-las-obras-del-megaproyecto-de-24-billones/",
+        "resumen": "El nuevo estadio El Campín entra en una etapa clave mientras se define el trámite que permitirá avanzar con las obras del megaproyecto en Bogotá.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo estadio El Campín: ¿qué falta para iniciar las obras del megaproyecto de $2,4 billones?",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Claro Pay surge de la alianza entre Claro Colombia y Grupo Aval: detalles y ventajas",
+        "url": "https://www.valoraanalitik.com/claro-colombia-se-une-a-grupo-aval-para-un-nuevo-lanzamiento-de-claro-pay-estos-son-los-detalles-y-beneficios/",
+        "resumen": "Con esta alianza, lo que se busca es ampliar el acceso de los colombianos a servicios financieros digitales.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Claro Colombia se une a Grupo Aval para un nuevo lanzamiento de Claro Pay: estos son los detalles y beneficios",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Goldman Sachs proyecta un alza de 68,9 % en la acción de Nu por su expansión en EE UU",
+        "url": "https://www.valoraanalitik.com/goldman-sachs-pone-la-lupa-sobre-nu-ve-una-subida-de-689-en-su-accion-tras-su-llegada-a-estados-unidos/",
+        "resumen": "Goldman Sachs analizó el desembarco de Nu en Estados Unidos y señaló el tamaño del mercado que la compañía busca conquistar.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Goldman Sachs pone la lupa sobre Nu: ve una subida de 68,9 % en su acción tras su llegada a Estados Unidos",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Corte Constitucional evaluará iniciativa de postergar el arranque de la reforma pensional",
+        "url": "https://www.valoraanalitik.com/corte-constitucional-estudiara-propuesta-de-aplazar-inicio-de-la-reforma-pensional/",
+        "resumen": "La reforma pensional, de momento, entra a regir desde el 1 de abril del próximo año.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Corte Constitucional estudiará propuesta de aplazar inicio de la reforma pensional",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Titularizadora Colombiana llega a 90 emisiones locales tras titularizar cartera de Finanzauto",
+        "url": "https://www.valoraanalitik.com/titularizadora-colombiana-90-emisiones/",
+        "resumen": "La compañía titularizó cerca de $28,4 billones en 25 años de historia. En cartera de vehículos ha hecho 17 titularizaciones por más de $2 billones emitidos.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Titularizadora Colombiana alcanza 90 emisiones en el mercado colombiano: titularizó cartera de Finanzauto",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado define al responsable del pago del impuesto predial en propiedad horizontal",
+        "url": "https://www.valoraanalitik.com/impuesto-predial-en-propiedad-horizontal-consejo-de-estado-aclara-quien-debe-pagarlo/",
+        "resumen": "El Consejo de Estado aclaró cómo se distribuye el impuesto predial en una propiedad horizontal y qué ocurre con los bienes comunes",
+        "autor": "",
+        "subseccion": "Impuesto predial",
+        "publicacion": "",
+        "titulo_fuente": "Impuesto predial en propiedad horizontal: Consejo de Estado aclara quién debe pagarlo",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "BBVA indica que construcción e inversión encabezarán la expansión de Colombia hacia 2028",
+        "url": "https://www.valoraanalitik.com/inversion-y-construccion-lideraran-el-crecimiento-de-colombia-hacia-2028-segun-el-bbva/",
+        "resumen": "El centro de estudios elevó su previsión para 2027 por cuenta del dinamismo del sector privado mientras se ve un menor impulso del Gobierno.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Inversión y construcción liderarán el crecimiento de Colombia hacia 2028, según el BBVA",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
       {
         "titulo": "Es oficial que Joaquín Gutiérrez asume la presidencia de Ecopetrol",
         "url": "https://www.valoraanalitik.com/joaquin-gutierrez-es-el-nuevo-presidente-de-ecopetrol/",
@@ -513,99 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "GeoPark está listo para desarrollar proyectos de ‘fracking’ en Colombia: Felipe Bayón, CEO de la compañía",
         "capturado": "2026-09-22T23:16:08-05:00"
-      },
-      {
-        "titulo": "Inician trabajos de megaproyecto de 1,6 billones para aliviar movilidad del sur bogotano",
-        "url": "https://www.valoraanalitik.com/arrancan-obras-de-megaproyecto-de-16-billones-que-busca-descongestionar-el-sur-de-bogota-asi-sera/",
-        "resumen": "El sur de Bogotá recibirá una millonaria inversión en infraestructura vial, con nuevas conexiones, puentes y soluciones para la movilidad.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Arrancan obras de megaproyecto de $1,6 billones que busca descongestionar el sur de Bogotá: así será",
-        "capturado": "2026-09-22T18:44:35-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado define límites al incremento del impuesto predial y factores a considerar",
-        "url": "https://www.valoraanalitik.com/consejo-de-estado-aclara-cuanto-puede-subir-el-impuesto-predial/",
-        "resumen": "El impuesto predial tiene límites que deben respetar alcaldías y concejos. Una decisión del Consejo de Estado vuelve a ponerlos bajo la lupa.",
-        "autor": "",
-        "subseccion": "Impuesto predial",
-        "publicacion": "",
-        "titulo_fuente": "Consejo de Estado aclara cuánto puede subir el impuesto predial y qué se debe tener en cuenta",
-        "capturado": "2026-09-22T18:44:35-05:00"
-      },
-      {
-        "titulo": "Acuerdo entre Gobierno y Congreso para bajar fondos a la JEP y aprobar presupuesto 2027",
-        "url": "https://www.valoraanalitik.com/presupuesto-2027-hay-acuerdo-de-gobierno-y-congreso-para-reducir-recursos-de-la-jep-y-aprobar-el-proyecto-esta-semana/",
-        "resumen": "La discusión de reducir recursos a la JEP también cuenta con el respaldo público del presidente Abelardo De la Espriella",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Presupuesto 2027: hay acuerdo de Gobierno y Congreso para reducir recursos de la JEP y aprobar el proyecto esta semana",
-        "capturado": "2026-09-22T18:44:35-05:00"
-      },
-      {
-        "titulo": "Colombia solicita a Costa Rica suprimir visa a nacionales y lograr reciprocidad migratoria",
-        "url": "https://www.valoraanalitik.com/colombia-pide-a-costa-rica-eliminar-visa-para-colombianos-y-avanzar-hacia-reciprocidad-migratoria/",
-        "resumen": "El Gobierno de Colombia pidió a Costa Rica igualar las condiciones de ingreso entre ciudadanos de ambos países.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Colombia pide a Costa Rica eliminar visa para colombianos y avanzar hacia reciprocidad migratoria",
-        "capturado": "2026-09-22T18:44:35-05:00"
-      },
-      {
-        "titulo": "De la Espriella dispone militarizar Santa Marta por intimidaciones de bandas delincuenciales",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-ordena-militarizar-santa-marta-tras-amenazas-de-grupos-criminales-estas-son-las-medidas/",
-        "resumen": "El presidente anunció nuevas medidas de seguridad en Santa Marta tras las amenazas de las ACSN, mientras comerciantes mantienen cerrados sus negocios.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella ordena militarizar Santa Marta tras amenazas de grupos criminales: estas son las medidas",
-        "capturado": "2026-09-22T18:44:35-05:00"
-      },
-      {
-        "titulo": "ANH revela nuevo plan para fomentar la búsqueda de crudo y gas en el país",
-        "url": "https://www.valoraanalitik.com/anh-anuncia-nueva-estrategia-para-impulsar-la-exploracion-de-petroleo-y-gas-en-colombia/",
-        "resumen": "La entidad presentó Oportunidades Exploratorias 2026 y advirtió sobre los riesgos para el abastecimiento futuro por la baja actividad exploratoria.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "ANH anuncia nueva estrategia para impulsar la exploración de petróleo y gas en Colombia",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Administración De La Espriella declarará emergencia por el fenómeno climático",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-decretara-emergencia-por-el-fenomeno-de-el-nino/",
-        "resumen": "Esta medida sería expedida el próximo lunes, 28 de septiembre.",
-        "autor": "",
-        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella decretará emergencia por el fenómeno de El Niño",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "MinTransporte informa medidas para terminal aérea de Rionegro y su segunda pista",
-        "url": "https://www.valoraanalitik.com/mintransporte-hace-anuncios-clave-para-el-aeropuerto-de-rionegro-habra-nueva-terminal-y-tramites-para-segunda-pista/",
-        "resumen": "La ministra Noguera confirmó que el contrato vigente con Airplan tiene el margen para asumir la obra.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "MinTransporte hace anuncios clave para el aeropuerto de Rionegro: habrá nueva terminal y trámites para segunda pista",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Destacado | Global66 obtiene aval vital para brindar acceso a inversión extranjera",
-        "url": "https://www.valoraanalitik.com/global66-aprobacion-inversiones-wall-street/",
-        "resumen": "La fintech destinó más de US$1 millón y 19 meses al proceso regulatorio; su operación en Estados Unidos también quedó registrada ante la SEC.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Global66 recibe aprobación clave en su proceso para ofrecer acceso a inversiones en Wall Street",
-        "capturado": "2026-09-22T16:06:49-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Exploración no convencional: lecciones para Colombia desde el Permian y Vaca Muerta",
+        "url": "https://www.valoraanalitik.com/que-puede-aprender-colombia-de-los-proyectos-del-permian-y-vaca-muerta/",
+        "resumen": "Expertos destacaron el papel de la tecnología, la logística, la escala y la inversión para desarrollar estos proyectos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "‘Fracking’ en Colombia: ¿qué puede aprender el país del Permian y Vaca Muerta?",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Famiempresario Interactuar 2026: nueva edición galardonará al sector microempresarial",
+        "url": "https://www.valoraanalitik.com/famiempresario-interactuar-2026-el-evento-que-reconoce-a-la-microempresa-tendra-una-nueva-edicion/",
+        "resumen": "La gala central del FamiEmpresario tendrá lugar el jueves 1 de octubre en el Teatro Metropolitano José Gutiérrez Gómez de Medellín.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Famiempresario Interactuar 2026: el evento que reconoce a la microempresa tendrá una nueva edición",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Luz María Sierra sale de la dirección de El Colombiano tras cinco años y ya buscan relevo",
+        "url": "https://www.valoraanalitik.com/luz-maria-sierra-deja-la-direccion-de-el-colombiano-tras-mas-de-cinco-anos-quien-la-reemplazara/",
+        "resumen": "Luz María Sierra llegó a la dirección de El Colombiano el 9 de agosto de 2021 y ahora cierra una etapa marcada por la transformación digital del medio.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Luz María Sierra deja la dirección de El Colombiano tras más de cinco años: quién la reemplazará",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Claro Colombia y Grupo Aval lanzan nuevo Claro Pay: conozca detalles y ventajas",
+        "url": "https://www.valoraanalitik.com/claro-colombia-se-une-a-grupo-aval-para-un-nuevo-lanzamiento-de-claro-pay-estos-son-los-detalles-y-beneficios/",
+        "resumen": "Con esta alianza, lo que se busca es ampliar el acceso de los colombianos a servicios financieros digitales.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Claro Colombia se une a Grupo Aval para un nuevo lanzamiento de Claro Pay: estos son los detalles y beneficios",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Goldman Sachs analiza a Nu y proyecta alza del 68,9 % en su título al entrar a EE. UU.",
+        "url": "https://www.valoraanalitik.com/goldman-sachs-pone-la-lupa-sobre-nu-ve-una-subida-de-689-en-su-accion-tras-su-llegada-a-estados-unidos/",
+        "resumen": "Goldman Sachs analizó el desembarco de Nu en Estados Unidos y señaló el tamaño del mercado que la compañía busca conquistar.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Goldman Sachs pone la lupa sobre Nu: ve una subida de 68,9 % en su acción tras su llegada a Estados Unidos",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
+      {
+        "titulo": "Las labores de Claro para recuperar la red y la conectividad tras el sismo en Colombia",
+        "url": "https://www.valoraanalitik.com/las-acciones-de-claro-para-restablecer-la-infraestructura-y-servicio-tras-el-terremoto-en-colombia/",
+        "resumen": "Rodrigo de Gusmao, presidente de Claro Colombia, resaltó la frase: “confianza para creer, capacidad para responder”.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Las acciones de Claro para restablecer la infraestructura y servicio tras el terremoto en Colombia",
+        "capturado": "2026-09-24T18:20:29-05:00"
+      },
       {
         "titulo": "Joaquín Gutiérrez asume oficialmente la presidencia de Ecopetrol",
         "url": "https://www.valoraanalitik.com/joaquin-gutierrez-es-el-nuevo-presidente-de-ecopetrol/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Más de 3.800 empresas colombianas ya venden en EE.UU. y la demanda crece en tecnología, logística y salud",
         "capturado": "2026-09-20T18:06:09-05:00"
-      },
-      {
-        "titulo": "Colplast proyecta expansión regional con nuevos productos y metas de crecimiento",
-        "url": "https://www.valoraanalitik.com/entrevista-colplast-espera-llegar-a-mas-paises-de-latinoamerica-prepara-nuevos-lanzamientos-y-revela-proyecciones-de-crecimiento/",
-        "resumen": "La operación de Colplast está constituida por 34 máquinas inyectoras, 16 robots, 8 bandas transportadoras y 2 peletizadoras propias.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Colplast espera llegar a más países de Latinoamérica: prepara nuevos lanzamientos y revela proyecciones de crecimiento",
-        "capturado": "2026-09-20T15:36:00-05:00"
-      },
-      {
-        "titulo": "Mayor oferta de trayectos y rutas inéditas: la estrategia de crecimiento de Arajet en el país con pasajes baratos",
-        "url": "https://www.valoraanalitik.com/mas-vuelos-y-nuevos-destinos-el-plan-de-expansion-de-arajet-en-colombia-con-tiquetes-economicos/",
-        "resumen": "Para 2026, Arajet prevé transportar entre 300.000 y 350.000 pasajeros entre Colombia y República Dominicana.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Más vuelos y nuevos destinos: el plan de expansión de Arajet en Colombia con tiquetes económicos",
-        "capturado": "2026-09-20T12:36:22-05:00"
-      },
-      {
-        "titulo": "American Airlines lanzó descuentos en trayectos a Miami y la promoción tendrá restricciones",
-        "url": "https://www.valoraanalitik.com/american-airlines-saco-promociones-en-vuelos-a-miami-oferta-sera-limitada/",
-        "resumen": "American Airlines también informó que durante la temporada alta de invierno tendrá una programación de hasta 91 vuelos semanales.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "American Airlines sacó promociones en vuelos a Miami: Oferta será limitada",
-        "capturado": "2026-09-19T18:59:13-05:00"
-      },
-      {
-        "titulo": "Cifras y analistas señalan que el turismo y la vivienda turística impulsan el crecimiento de Medellín",
-        "url": "https://www.valoraanalitik.com/desarrollo-de-medellin-impulsado-por-el-turismo-y-la-derrama-economica-de-la-vivienda-turistica-esto-dicen-cifras-y-expertos/",
-        "resumen": "Expertos hacen énfasis en que la vivienda turística se ha convertido en un motor para Medellín.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Desarrollo de Medellín, impulsado por el turismo y la derrama económica de la vivienda turística: esto dicen cifras y expertos",
-        "capturado": "2026-09-19T16:38:49-05:00"
-      },
-      {
-        "titulo": "Firmas creativas del país enlazadas con clientes en Chile, España y México mediante Econexia de Corferias",
-        "url": "https://www.valoraanalitik.com/econexia-corferias-resultados-rueda-industrias-creativas/",
-        "resumen": "La demanda se concentró en los sectores tecnológico, editorial, artesanal y didáctico, con oferentes de Bogotá, Antioquia, Cundinamarca y Atlántico.",
-        "autor": "",
-        "subseccion": "Pymes en colombia",
-        "publicacion": "",
-        "titulo_fuente": "Econexia de Corferias conectó a empresas creativas colombianas con compradores de México, España y Chile",
-        "capturado": "2026-09-19T14:14:50-05:00"
-      },
-      {
-        "titulo": "DiDi Food alcanza un lustro en el país con 15.000 locales y 9 millones de usuarios según su entrevista",
-        "url": "https://www.valoraanalitik.com/didi-food-cumple-cinco-anos-en-colombia-ya-suma-9-millones-de-usuarios-y-15-000-restaurantes/",
-        "resumen": "Catalina Arteaga, directora de Desarrollo de Negocios para DiDi Food Hispanoamérica, explicó a Valora Analitik, cómo ha crecido la app en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | DiDi Food cumple cinco años en Colombia: ya suma 9 millones de usuarios y 15.000 restaurantes",
-        "capturado": "2026-09-19T14:14:50-05:00"
       }
     ]
   }
