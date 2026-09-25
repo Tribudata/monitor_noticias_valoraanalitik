@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-25T07:56:07-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-25T12:53:21-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Multas de tránsito en Colombia costaron cerca de $1 billón: el cobro subió 43 % en 2025",
+        "url": "https://www.valoraanalitik.com/colombianos-pagaron-casi-1-billon-en-multas-de-transito-el-recaudo-crecio-43-en-2025/",
+        "resumen": "SIMIT reportó recaudo nacional de $962.232 millones en 2025 y presentó balance de su gestión financiera.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Colombianos pagaron casi $1 billón en multas de tránsito: el recaudo creció 43 % en 2025",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "Inicia corte transitorio de gas industrial en Colombia por daño en planta de regasificación",
+        "url": "https://www.valoraanalitik.com/arranca-racionamiento-temporal-de-gas-para-industrias-en-colombia-por-falla-en-terminal-de-regasifacion/",
+        "resumen": "Esta medida se extenderá hasta que se declaren superadas las causas que originaron la falla.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Arranca racionamiento temporal de gas para industrias en Colombia por falla en terminal de regasificación",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "Colombia habilita un nuevo método para fondear grandes obras: sumará casi US$40.000 millones",
+        "url": "https://www.valoraanalitik.com/colombia-abre-una-nueva-via-para-financiar-grandes-proyectos-tendra-acceso-a-casi-us40-000-millones/",
+        "resumen": "Colombia dio un nuevo paso que podría abrirle la puerta a recursos para financiar proyectos estratégicos de largo plazo. Estos son los detalles.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Colombia abre una nueva vía para financiar grandes proyectos: tendrá acceso a casi US$40.000 millones",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "BNP Paribas estima inflación de 6 % y tipos de 12,50 % en Colombia para finalizar 2026",
+        "url": "https://www.valoraanalitik.com/bnp-paribas-preve-inflacion-de-6-y-tasas-de-1250-para-colombia-al-cierre-de-2026/",
+        "resumen": "El banco anticipa un enfriamiento paulatino del crecimiento económico y presiones en los precios de los alimentos que luego se moderarían.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "BNP Paribas prevé inflación de 6 % y tasas de 12,50 % para Colombia al cierre de 2026",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "Cúpula directiva que estará con el CEO de Ecopetrol será clave para los retos de la firma: BTG Pactual",
+        "url": "https://www.valoraanalitik.com/equipo-ceo-ecopetrol-desafios-btg-pactual/",
+        "resumen": "Para la firma, la atención estará en los nombramientos ejecutivos de Gutiérrez para convertir la agenda de recuperación en acciones concretas.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Equipo ejecutivo que acompañará al CEO de Ecopetrol será fundamental para los desafíos de la petrolera: BTG Pactual",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "Olibia presentó herramienta de inteligencia artificial para buscar información energética",
+        "url": "https://www.valoraanalitik.com/olibia-lanzo-plataforma-con-inteligencia-artificial-para-consultar-datos-del-sector-energetico/",
+        "resumen": "La compañía presentó una herramienta para acceder a datos sobre embalses, precios de energía, generación y otros indicadores.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Olibia lanzó plataforma con inteligencia artificial para consultar datos del sector energético",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "Fedemunicipios descarta devolución de recursos a afectados por fotomultas erradas",
+        "url": "https://www.valoraanalitik.com/fedemunicipios-niega-que-se-vaya-a-devolver-dinero-a-todos-los-colombianos-que-recibieron-fotomultas-por-error/",
+        "resumen": "Continúa el debate y la revisión jurídica de las fotomultas en Colombia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Fedemunicipios niega que se vaya a devolver dinero a todos los colombianos que recibieron fotomultas por error",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "SPEC ratifica labores de mantenimiento en planta de regasificación cartagenera",
+        "url": "https://www.valoraanalitik.com/spec-confirma-trabajos-correctivos-en-terminal-de-regasificacion-de-cartagena/",
+        "resumen": "La organización señaló que continuará con una capacidad de 400 millones de pies cúbicos diarios de gas hasta el 1 de octubre.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "SPEC confirma trabajos correctivos en terminal de regasificación de Cartagena",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "Dólar arranca en $3.340 luego de fuerte alza y analizando el quiebre con Irán",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-en-3-340-tras-potente-rally-mientras-el-mercado-evalua-la-ruptura-de-relaciones-con-iran/",
+        "resumen": "Los analistas de JP Tactical Trading anticipan que, después de un impulso en el precio del dólar, será normal observar una fase de corrección.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre en $3.340 tras potente rally, mientras el mercado evalúa la ruptura de relaciones con Irán",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "Bank of America incrementa su apuesta por Colombia y prevé vuelta de la confianza global",
+        "url": "https://www.valoraanalitik.com/bank-of-america-eleva-la-apuesta-por-colombia-y-anticipa-retorno-de-la-confianza-internacional/",
+        "resumen": "Un cambio de rumbo en la estrategia de financiamiento del Gobierno y disciplina en el gasto público impulsan la recomendación de la deuda del país.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Bank of America eleva la apuesta por Colombia y anticipa retorno de la confianza internacional",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
       {
         "titulo": "Premercado | Mercados globales diversos: Asia baja y Europa sube por venta de deuda y descenso del crudo",
         "url": "https://www.valoraanalitik.com/premercado-bolsas-globales-mixtas-asia-cae-y-europa-rebota-en-medio-de-venta-de-bonos-y-caida-del-petroleo/",
@@ -503,109 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Caja en pesos del Gobierno cayó a $15,1 billones en agosto y se ubica por debajo del promedio histórico: CARF",
         "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "Nuevos megaproyectos viales en Bogotá y la Sabana para optimizar la entrada al aeropuerto El Dorado",
-        "url": "https://www.valoraanalitik.com/las-nuevas-megaobras-que-tendra-bogota-y-la-sabana-para-mejorar-el-acceso-al-aeropuerto-el-dorado/",
-        "resumen": "El convenio tendrá vigencia hasta el 31 de diciembre de 2027 e incluye la contratación de consultorías e interventorías para desarrollar los estudios.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Las nuevas megaobras que tendrá Bogotá y la Sabana para mejorar el acceso al aeropuerto El Dorado",
-        "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "Credicorp Capital advierte que El Niño restaría un punto al PIB colombiano y elevaría la inflación",
-        "url": "https://www.valoraanalitik.com/el-nino-economia-colombia-credicorp-capital/",
-        "resumen": "En Colombia, la firma estima que el principal impacto se vería sobre la inflación, mientras Chile y Perú enfrentarían otros efectos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "El Niño podría restar un punto a la economía de Colombia en escenario pesimista, inflación subiría: Credicorp Capital",
-        "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "Anif advierte que Fenómeno de El Niño presionará comida, inflación y tasas en Colombia",
-        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-agregara-presion-a-los-alimentos-la-inflacion-y-las-tasas-de-interes/",
-        "resumen": "El centro de estudios ha tenido que revisar al alza varias veces este año su proyección de inflación para fin de año, que hoy se ubica en 6,6 %.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Anif: Fenómeno de El Niño agregará presión a los alimentos, la inflación y las tasas de interés en Colombia",
-        "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "MinHacienda urge a la Corte Constitucional evaluar costo fiscal de reforma pensional",
-        "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-pide-con-urgencia-a-la-corte-constitucional-revisar-el-impacto-fiscal-de-la-reforma-pensional/",
-        "resumen": "Según el Gobierno, la reforma pensional en Colombia genera billonarias presiones fiscales.",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "Ministerio de Hacienda pide, con urgencia, a la Corte Constitucional revisar el impacto fiscal de la reforma pensional",
-        "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "Concejo de Bogotá vota hoy tributaria de Galán: así cambiarán gravámenes e incentivos",
-        "url": "https://www.valoraanalitik.com/concejo-de-bogota-vota-hoy-la-reforma-tributaria-de-galan-esto-es-lo-que-cambiaria-en-impuestos-e-incentivos/",
-        "resumen": "Galán salió a defender el alcance social de la reforma y a despejar la idea de que se trata de un alza generalizada de impuestos.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Concejo de Bogotá vota hoy la reforma tributaria de Galán: esto es lo que cambiaría en impuestos e incentivos",
-        "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "Fernando Isaza Gutiérrez de Piñeres sonaría como presidente entrante del Fondo Nacional de Garantías",
-        "url": "https://www.valoraanalitik.com/fernando-isaza-gutierrez-de-pineres-seria-el-nuevo-presidente-del-fondo-nacional-de-garantias/",
-        "resumen": "Exfuncionario de Barranquilla aterriza en el gobierno de Abelardo de la Espriella. Este es el perfil del nuevo presidente del FNG.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Fernando Isaza Gutiérrez de Piñeres sería el nuevo presidente del Fondo Nacional de Garantías",
-        "capturado": "2026-09-23T09:22:05-05:00"
-      },
-      {
-        "titulo": "Tasa del dólar en Colombia repunta fuertemente y roza los 3240 pesos",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sube-con-fuerza-y-se-acerca-a-los-3-240/",
-        "resumen": "Esto mueve al dólar en Colombia al inicio de la jornada.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia sube con fuerza y se acerca a los $3.240",
-        "capturado": "2026-09-23T09:22:05-05:00"
-      },
-      {
-        "titulo": "Expertos elevan proyecciones de inflación y tasas de interés en Colombia para finalizar 2026",
-        "url": "https://www.valoraanalitik.com/analistas-siguen-aumentando-expectativas-de-tasas-de-interes-e-inflacion-en-colombia-para-cierre-de-2026/",
-        "resumen": "Para este mes, los expertos prevén que la tasa de interés se sostenga en 12 %, tal como decidió la Junta Directiva del Banco de la República en julio de 2026.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Analistas siguen aumentando expectativas de tasas de interés e inflación en Colombia para cierre de 2026",
-        "capturado": "2026-09-23T09:22:05-05:00"
-      },
-      {
-        "titulo": "Sismos continúan en Chocó: entidad registra más de 1500 movimientos e investiga sus causas",
-        "url": "https://www.valoraanalitik.com/choco-sigue-con-actividad-sismica-servicio-geologico-reporta-mas-de-1-500-eventos-y-estudia-su-origen/",
-        "resumen": "¿Por qué sigue temblando en el Chocó? El Sistema Geológico explicó las causas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Chocó sigue con actividad sísmica: Servicio Geológico reporta más de 1.500 eventos y estudia su origen",
-        "capturado": "2026-09-23T09:22:05-05:00"
-      },
-      {
-        "titulo": "Constructores arrancan obras de 27 casas en Quibdó destinando 4500 millones de pesos",
-        "url": "https://www.valoraanalitik.com/sector-constructor-inicia-reconstruccion-de-27-viviendas-en-quibdo-con-inversion-de-4-500-millones/",
-        "resumen": "La iniciativa se suma a las acciones que se vienen adelantando en Chocó tras el terremoto del 10 de agosto de 2026.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Sector constructor inicia reconstrucción de 27 viviendas en Quibdó con inversión de $4.500 millones",
-        "capturado": "2026-09-23T09:22:05-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Inicia suspensión transitoria de gas industrial en Colombia a raíz de avería en planta regasificadora",
+        "url": "https://www.valoraanalitik.com/arranca-racionamiento-temporal-de-gas-para-industrias-en-colombia-por-falla-en-terminal-de-regasifacion/",
+        "resumen": "Esta medida se extenderá hasta que se declaren superadas las causas que originaron la falla.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Arranca racionamiento temporal de gas para industrias en Colombia por falla en terminal de regasificación",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "Descanso de año nuevo: fechas de compra, presupuesto estimado y lugares predilectos de los colombianos",
+        "url": "https://www.valoraanalitik.com/vacaciones-de-fin-de-ano-cuando-comprar-cuanto-presupuestar-y-que-destinos-buscan-los-colombianos/",
+        "resumen": "Los viajeros colombianos están realizando sus reservas, en promedio, siete meses antes de la fecha de salida.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Vacaciones de fin de año: cuándo comprar, cuánto presupuestar y qué destinos buscan los colombianos",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "Olibia presentó herramienta de inteligencia artificial para buscar información del mercado energético",
+        "url": "https://www.valoraanalitik.com/olibia-lanzo-plataforma-con-inteligencia-artificial-para-consultar-datos-del-sector-energetico/",
+        "resumen": "La compañía presentó una herramienta para acceder a datos sobre embalses, precios de energía, generación y otros indicadores.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Olibia lanzó plataforma con inteligencia artificial para consultar datos del sector energético",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
+      {
+        "titulo": "SPEC ratifica labores de reparación en la planta de regasificación ubicada en Cartagena",
+        "url": "https://www.valoraanalitik.com/spec-confirma-trabajos-correctivos-en-terminal-de-regasificacion-de-cartagena/",
+        "resumen": "La organización señaló que continuará con una capacidad de 400 millones de pies cúbicos diarios de gas hasta el 1 de octubre.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "SPEC confirma trabajos correctivos en terminal de regasificación de Cartagena",
+        "capturado": "2026-09-25T12:53:21-05:00"
+      },
       {
         "titulo": "Los desafíos del entrante líder de Ecopetrol: fracking, reservas de crudo, gas y autonomía empresarial",
         "url": "https://www.valoraanalitik.com/aumento-en-reservas-de-petroleo-produccion-de-gas-fracking-e-independencia-corporativa-los-retos-del-nuevo-presidente-de-ecopetrol/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Exclusivo | Patria Investments vendió participación en el parque solar más grande de Colombia: ¿Quién fue el comprador?",
         "capturado": "2026-09-21T09:27:57-05:00"
-      },
-      {
-        "titulo": "Hidroituango tendrá capacidad para guardar energía por quince días de consumo en Medellín",
-        "url": "https://www.valoraanalitik.com/hidroituango-podra-almacenar-una-energia-equivalente-a-15-dias-del-consumo-electrico-de-medellin/",
-        "resumen": "Autoridades dieron permiso para que se aumente el nivel del embalse, lo que permitirá el almacenamiento de 187 gigavatios hora de energía.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "Hidroituango podrá almacenar una energía equivalente a 15 días del consumo eléctrico de Medellín",
-        "capturado": "2026-09-21T09:27:57-05:00"
-      },
-      {
-        "titulo": "Isagen crea opciones para un cambio hacia energías limpias mediante estos proyectos",
-        "url": "https://www.valoraanalitik.com/isagen-genera-oportunidades-para-una-transicion-renovable-estos-son-sus-proyectos/",
-        "resumen": "Isagen acelera la entrada de nueva capacidad limpia para el sistema eléctrico, apalancada en proyectos solares, optimización de activos y acuerdos.",
-        "autor": "",
-        "subseccion": "Especial petroleo gas mineria y renovables",
-        "publicacion": "",
-        "titulo_fuente": "Isagen genera oportunidades para una transición renovable: estos son sus proyectos",
-        "capturado": "2026-09-21T09:27:57-05:00"
-      },
-      {
-        "titulo": "Antioquia Gold planea elevar su extracción y tener un tercer yacimiento en Colombia",
-        "url": "https://www.valoraanalitik.com/antioquia-gold-proyecta-ampliar-su-produccion-y-sumar-una-tercera-mina-en-colombia/",
-        "resumen": "Diego Heilbrunn, CEO de Antioquia Gold, explicó que la compañía espera avanzar con la ampliación de su planta y desarrollar el proyecto La Palma.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Antioquia Gold proyecta ampliar su producción y sumar una tercera mina en Colombia",
-        "capturado": "2026-09-21T09:27:57-05:00"
-      },
-      {
-        "titulo": "Fundación Citi invertirá US$25 millones para fomentar trabajo juvenil usando inteligencia artificial",
-        "url": "https://www.valoraanalitik.com/fundacion-citi-destinara-us25-millones-para-impulsar-empleo-juvenil-con-inteligencia-artificial/",
-        "resumen": "La convocatoria también contempla iniciativas que conecten a los jóvenes con oportunidades de empleo mediante centros comunitarios.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fundación Citi destinará US$25 millones para impulsar empleo juvenil con inteligencia artificial",
-        "capturado": "2026-09-20T18:06:09-05:00"
       }
     ]
   }
