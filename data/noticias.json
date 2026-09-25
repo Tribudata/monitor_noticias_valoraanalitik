@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-24T20:47:25-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-25T02:28:47-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Las ideas centrales de la intervención de De la Espriella frente a la ONU según el Ejecutivo",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-ante-la-onu-estas-fueron-las-claves-del-discurso/",
+        "resumen": "El Gobierno De la Espriella cuestionó a la ONU durante su intervención y dejó varios planteamientos sobre el papel de Colombia ante el mundo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella ante la ONU: estas fueron las claves del discurso",
+        "capturado": "2026-09-25T02:28:47-05:00"
+      },
       {
         "titulo": "Corte Constitucional fijó condiciones al Gobierno De la Espriella para fijar la UPC de 2027",
         "url": "https://www.valoraanalitik.com/corte-constitucional-le-puso-estas-condiciones-al-gobierno-de-la-espriella-para-definir-la-upc-de-2027/",
@@ -593,16 +603,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella tomará estas decisiones con la Nueva EPS",
         "capturado": "2026-09-23T09:22:05-05:00"
-      },
-      {
-        "titulo": "Acipet le expone al Ejecutivo tres iniciativas esenciales para afrontar los desafíos energéticos del país",
-        "url": "https://www.valoraanalitik.com/acipet-presenta-propuestas-para-enfrentar-retos-energeticos-de-colombia/",
-        "resumen": "El gremio plantea acelerar la exploración, optimizar yacimientos existentes y aprovechar el petróleo y gas en la transición.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Acipet presenta al Gobierno sus tres propuestas clave para enfrentar retos energéticos de Colombia",
-        "capturado": "2026-09-22T23:16:08-05:00"
       }
     ],
     "Empresariales": [
