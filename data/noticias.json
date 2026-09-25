@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-24T18:20:29-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-09-24T20:47:25-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Corte Constitucional fijó condiciones al Gobierno De la Espriella para fijar la UPC de 2027",
+        "url": "https://www.valoraanalitik.com/corte-constitucional-le-puso-estas-condiciones-al-gobierno-de-la-espriella-para-definir-la-upc-de-2027/",
+        "resumen": "La Corte fijó nuevos parámetros para la UPC de 2027 y ordenó a las autoridades cumplir varios pasos antes de definir cuánto recibirá el sistema de salud.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Corte Constitucional le puso estas condiciones al Gobierno De la Espriella para definir la UPC de 2027",
+        "capturado": "2026-09-24T20:47:25-05:00"
+      },
+      {
+        "titulo": "Pomelo resalta su avance en Colombia y expande plataforma con cuentas de ahorro y tarjetas",
+        "url": "https://www.valoraanalitik.com/pomelo-crecimiento-colombia/",
+        "resumen": "La fintech de infraestructura financiera señala al país como uno de sus mercados de mayor crecimiento y prepara nuevos servicios para sus clientes.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Pomelo destaca su crecimiento de Colombia y amplía plataforma con cuentas de ahorro, además de tarjetas",
+        "capturado": "2026-09-24T20:47:25-05:00"
+      },
+      {
+        "titulo": "Alcalde de Soacha apoya fotomultas en Autopista Sur y avisa megaplan de semaforización",
+        "url": "https://www.valoraanalitik.com/alcalde-de-soacha-respalda-fotomultas-en-autopista-sur-y-anuncia-megaplan-de-semaforizacion/",
+        "resumen": "El mandatario reveló qué acciones vienen para Soacha en materia de seguridad víal.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Alcalde de Soacha respalda fotomultas en Autopista Sur y anuncia megaplan de semaforización",
+        "capturado": "2026-09-24T20:47:25-05:00"
+      },
       {
         "titulo": "El Gobierno De la Espriella explica los motivos para romper lazos diplomáticos con Irán",
         "url": "https://www.valoraanalitik.com/colombia-rompe-relaciones-diplomaticas-con-iran-estas-son-las-razones-del-gobierno-de-la-espriella/",
@@ -572,36 +602,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Acipet presenta al Gobierno sus tres propuestas clave para enfrentar retos energéticos de Colombia",
-        "capturado": "2026-09-22T23:16:08-05:00"
-      },
-      {
-        "titulo": "Colpensiones solicita a la Corte Constitucional posponer la reforma pensional señalando fecha y motivo",
-        "url": "https://www.valoraanalitik.com/colpensiones-pidio-a-la-corte-constitucional-aplazar-la-reforma-pensional-esta-es-la-fecha-y-la-razon/",
-        "resumen": "Colpensiones llevó a la Corte una solicitud que podría modificar el calendario previsto para la entrada en operación de la reforma pensional.",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "Colpensiones pidió a la Corte Constitucional aplazar la reforma pensional: esta es la fecha y la razón",
-        "capturado": "2026-09-22T23:16:08-05:00"
-      },
-      {
-        "titulo": "Pei progresa en adquisición de bienes de Terranum para expandir uno de los principales fondos de inmuebles",
-        "url": "https://www.valoraanalitik.com/pei-avanza-en-compra-de-activos-de-terranum-asi-crecera-uno-de-los-grandes-portafolios-inmobiliarios-del-pais/",
-        "resumen": "Pei dio un nuevo paso en una operación que incorporará activos corporativos y logísticos y modificará el tamaño de su portafolio inmobiliario.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pei avanza en compra de activos de Terranum: así crecerá uno de los grandes portafolios inmobiliarios del país",
-        "capturado": "2026-09-22T23:16:08-05:00"
-      },
-      {
-        "titulo": "GeoPark se halla preparado para ejecutar proyectos de fracturación hidráulica en Colombia, según Felipe Bayón",
-        "url": "https://www.valoraanalitik.com/geopark-estaria-listo-para-desarrollar-proyectos-de-fracking-en-colombia/",
-        "resumen": "El directivo destacó el potencial de los yacimientos no convencionales y señaló que el país necesita recuperar conocimiento y capacidades para aprovecharlo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark está listo para desarrollar proyectos de ‘fracking’ en Colombia: Felipe Bayón, CEO de la compañía",
         "capturado": "2026-09-22T23:16:08-05:00"
       }
     ],
