@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-25T12:53:21-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-09-25T16:22:08-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Sharjah será el Invitado de Honor de la FILBo 2027 con la llegada de Emiratos Árabes Unidos",
+        "url": "https://www.valoraanalitik.com/emiratos-arabes-unidos-sharjah-filbo-2027/",
+        "resumen": "Es la primera vez que el emirato participa en la FilBo, que se hará del 20 de abril al 3 de mayo de 2027.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Emiratos Árabes Unidos llega a la FILBo: Sharjah será el Invitado de Honor en 2027",
+        "capturado": "2026-09-25T16:22:08-05:00"
+      },
+      {
+        "titulo": "Fechas y beneficiarios del subsidio que Bogotá comienza a pagar a miles de hogares",
+        "url": "https://www.valoraanalitik.com/bogota-inicia-pago-de-subsidio-para-miles-de-familias-estas-son-las-fechas-y-beneficiarios/",
+        "resumen": "Bogotá activó un nuevo ciclo de subsidios y ya hay fechas definidas para que los beneficiarios hagan efectivo el apoyo económico.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá inicia pago de subsidio para miles de familias: estas son las fechas y beneficiarios",
+        "capturado": "2026-09-25T16:22:08-05:00"
+      },
+      {
+        "titulo": "Alerta sobre el impuesto predial para estratos uno, dos y tres en la reforma tributaria bogotana",
+        "url": "https://www.valoraanalitik.com/reforma-tributaria-de-bogota-esta-es-la-alerta-por-el-impuesto-predial-para-estratos-1-2-y-3/",
+        "resumen": "Un concejal alertó que hogares de estratos 1, 2 y 3 podrían pagar más predial por un cambio que propone la reforma tributaria de Bogotá.",
+        "autor": "",
+        "subseccion": "Impuesto predial",
+        "publicacion": "",
+        "titulo_fuente": "Reforma tributaria de Bogotá: esta es la alerta por el impuesto predial para estratos 1, 2 y 3",
+        "capturado": "2026-09-25T16:22:08-05:00"
+      },
+      {
+        "titulo": "Por toma de ganancias, el dólar en Colombia detiene su ascenso y baja a $3.312",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-frena-su-racha-alcista-y-cae-hasta-3-312-por-toma-de-utilidades/",
+        "resumen": "La divisa abrió con impulso comprador y tocó un nuevo máximo intradiario de $3.377,80, antes de retroceder cerca de $100.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia frena su racha alcista y cae hasta $3.312 por toma de utilidades",
+        "capturado": "2026-09-25T16:22:08-05:00"
+      },
+      {
+        "titulo": "Primicia: Addi amplía su oferta a negocios del exterior para cancelar en Netflix, Amazon y Temu",
+        "url": "https://www.valoraanalitik.com/addi-pagos-comercios-netflix-temu-amazon/",
+        "resumen": "Esta nueva función de la plataforma de pagos “compre ahora, pague después” colombiana estará habilitada gracias a la alianza con dLocal.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Addi expande sus servicios a comercios internacionales y permitirá pagar Netflix, Amazon, Temu, entre otras",
+        "capturado": "2026-09-25T16:22:08-05:00"
+      },
+      {
+        "titulo": "José Camilo Manzur dejó su cargo como presidente de Asocodis",
+        "url": "https://www.valoraanalitik.com/jose-camilo-manzur-renuncio-a-la-presidencia-de-asocodis/",
+        "resumen": "El ejecutivo presentó su carta de renuncia ante la Junta Directiva, con el fin de emprender nuevos retos profesionales.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "José Camilo Manzur renunció a la presidencia de Asocodis",
+        "capturado": "2026-09-25T16:22:08-05:00"
+      },
+      {
+        "titulo": "Entrevista | El director del Ideam advierte que el fenómeno de El Niño en Colombia iría hasta agosto de 2027",
+        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-en-colombia-podria-extenderse-incluso-hasta-agosto-de-2027-director-del-ideam/",
+        "resumen": "El director de la entidad también reveló que no ha habido aumentos presupuestales y que gestionan $121.000 millones al año.",
+        "autor": "",
+        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Fenómeno de El Niño en Colombia podría extenderse incluso hasta agosto de 2027: director del Ideam",
+        "capturado": "2026-09-25T16:22:08-05:00"
+      },
       {
         "titulo": "Multas de tránsito en Colombia costaron cerca de $1 billón: el cobro subió 43 % en 2025",
         "url": "https://www.valoraanalitik.com/colombianos-pagaron-casi-1-billon-en-multas-de-transito-el-recaudo-crecio-43-en-2025/",
@@ -533,79 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "DIAN da más plazo para pagar deudas y obligaciones tributarias: estos ciudadanos podrán acceder al beneficio",
         "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "Presupuesto Colombia 2027: Salud obtiene $2 billones extra tras recorte al sector Hacienda",
-        "url": "https://www.valoraanalitik.com/presupuesto-colombia-2027-salud-recibe-2-billones-adicionales-tras-recorte-al-sector-hacienda/",
-        "resumen": "La ponencia oficial estableció una reconfiguración interna del gasto asignado a la JEP, los sectores de salud, deporte y la rama Judicial.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Presupuesto Colombia 2027: Salud recibe $2 billones adicionales tras recorte al sector Hacienda",
-        "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "Ejecutivo contempla elevar tarifas del diésel a futuro y expone los requisitos necesarios",
-        "url": "https://www.valoraanalitik.com/gobierno-no-descarta-subir-precios-del-diesel-a-largo-plazo-revela-condiciones-que-deberian-cumplirse/",
-        "resumen": "Si se aplica esta medida, sería de una manera “muy delicada y paulatina”, teniendo en cuenta el impacto que causaría en el bolsillo de los colombianos.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno no descarta subir precios del diésel a largo plazo: revela condiciones que deberían cumplirse",
-        "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en el país subió con intensidad, terminó al alza y rebasó los 3300 pesos",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-disparo-cerro-con-fuerza-al-alza-y-supero-los-3-300/",
-        "resumen": "La tasa de cambio abrió en el mínimo del día de $3.215; más tarde superó la barrera de los $3.300, cifra que no se veía desde el 9 de julio.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia se disparó, cerró con fuerza al alza y superó los $3.300",
-        "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "Inicia Uber Mujeres en el país: pasajeras podrán optar por viajes con conductoras",
-        "url": "https://www.valoraanalitik.com/uber-mujeres-colombia-bogota-medellin-cali/",
-        "resumen": "La opción está disponible inicialmente en Bogotá, Medellín y Cali.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Llega Uber Mujeres a Colombia: las usuarias podrán decidir hacer trayectos con conductoras",
-        "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "Demandas al Estado por grandes obras rebasan los $100 billones y se avecinan nuevas APP viales",
-        "url": "https://www.valoraanalitik.com/litigios-contra-el-estado-colombiano-por-megaobras-superan-100-billones/",
-        "resumen": "El presidente de la ANI, Ricardo Ayerbe, confirmó que la entidad alista nuevos proyectos para las vías que han reversado al Invías.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Reclamaciones y litigios contra el Estado colombiano por megaobras ya superan los $100 billones; se vienen nuevas APP en vías clave",
-        "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "Bancolombia prevé que Colombia demorará diez años en retornar al objetivo inflacionario del 3 % en 2028",
-        "url": "https://www.valoraanalitik.com/colombia-tardaria-una-decada-en-volver-a-la-meta-de-inflacion-del-3-y-solo-lo-lograria-hasta-2028-bancolombia/",
-        "resumen": "Bancolombia revisó al alza sus expectativas de cierre de inflación para 2026 hasta el 6,7 % y para 2027 anticipa un 5,5 %.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Colombia tardaría una década en volver a la meta de inflación del 3 % y solo lo lograría hasta 2028: Bancolombia",
-        "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "CARF indica que la liquidez estatal en pesos bajó a $15,1 billones en agosto, bajo el nivel histórico",
-        "url": "https://www.valoraanalitik.com/caja-en-pesos-del-gobierno-cayo-a-151-billones-en-agosto-y-se-ubica-por-debajo-del-promedio-historico-carf/",
-        "resumen": "El informe del CARF detalló el balance fiscal consolidado al cierre de julio, que ayuda a contextualizar la presión financiera observada en agosto.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Caja en pesos del Gobierno cayó a $15,1 billones en agosto y se ubica por debajo del promedio histórico: CARF",
-        "capturado": "2026-09-23T13:33:00-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entregaron subsidios de vivienda a recicladores tradicionales vinculados al programa Faro Postobón",
+        "url": "https://www.valoraanalitik.com/recicladores-de-oficio-del-programa-faro-postobon-recibieron-bonos-para-mejoramiento-de-vivienda/",
+        "resumen": "40 recicladores de Medellín, Copacabana, Bello, Itagüí, Envigado y Caldas fueron los primeros beneficiarios.",
+        "autor": "",
+        "subseccion": "Sostenibilidad",
+        "publicacion": "",
+        "titulo_fuente": "Recicladores de oficio del programa Faro Postobón recibieron bonos para mejoramiento de vivienda",
+        "capturado": "2026-09-25T16:22:08-05:00"
+      },
+      {
+        "titulo": "Mauricio Reina de Fedesarrollo afirmó que el Ejecutivo debe disminuir el gasto y potenciar los privados",
+        "url": "https://www.valoraanalitik.com/el-gobierno-tiene-que-hacer-una-caida-del-gasto-publico-y-expandir-el-sector-privado-mauricio-reina-de-fedesarrollo/",
+        "resumen": "Si las cosas salen como el Gobierno de Abelardo de la Espriella está planteando, el crecimiento potencial debería duplicarse frente al que hoy se tiene.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "“El Gobierno tiene que hacer una caída del gasto público y expandir el sector privado”: Mauricio Reina de Fedesarrollo",
+        "capturado": "2026-09-25T16:22:08-05:00"
+      },
+      {
+        "titulo": "José Camilo Manzur se apartó de la dirección de Asocodis",
+        "url": "https://www.valoraanalitik.com/jose-camilo-manzur-renuncio-a-la-presidencia-de-asocodis/",
+        "resumen": "El ejecutivo presentó su carta de renuncia ante la Junta Directiva, con el fin de emprender nuevos retos profesionales.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "José Camilo Manzur renunció a la presidencia de Asocodis",
+        "capturado": "2026-09-25T16:22:08-05:00"
+      },
       {
         "titulo": "Inicia suspensión transitoria de gas industrial en Colombia a raíz de avería en planta regasificadora",
         "url": "https://www.valoraanalitik.com/arranca-racionamiento-temporal-de-gas-para-industrias-en-colombia-por-falla-en-terminal-de-regasifacion/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Empresas de Envigado podrán acceder gratuitamente a diagnósticos y acompañamiento en sostenibilidad",
         "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Cali se prepara para albergar Smart City Expo Cali 2026, la primera gran cita de su reactivación",
-        "url": "https://www.valoraanalitik.com/cali-esta-lista-para-recibir-smart-city-expo-cali-2026/",
-        "resumen": "El 96,5 % de la hotelería se encuentra lista y las estructuras de los centros comerciales evaluados están habilitadas para recibir visitantes.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cali está lista para recibir Smart City Expo Cali 2026, el primer gran evento de su etapa de recuperación",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Temperaturas extremas en Colombia alcanzarían récord del siglo y impactarían energía, agro y comida",
-        "url": "https://www.valoraanalitik.com/ola-de-calor-que-golpeara-colombia-podria-ser-la-mas-fuerte-en-lo-que-va-del-siglo-energia-agro-y-alimentos-serian-los-mas-afectados/",
-        "resumen": "Corficolombiana manifestó que el ahorro de agua y de energía pasó de ser una alternativa para convertirse en una prioridad.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Ola de calor que golpeará Colombia podría ser la más fuerte en lo que va del siglo; energía, agro y alimentos serían los más afectados",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Patria Investments vendió su parte en el parque solar mayor de Colombia y se conoce el comprador",
-        "url": "https://www.valoraanalitik.com/exclusivo-patria-investments-vendio-participacion-en-el-parque-solar-mas-grande-de-colombia-quien-fue-el-comprador/",
-        "resumen": "Patria había conseguido $1 billón para financiar el proyecto ubicado en el departamento de Cundinamarca.",
-        "autor": "",
-        "subseccion": "Especial petroleo gas mineria y renovables",
-        "publicacion": "",
-        "titulo_fuente": "Exclusivo | Patria Investments vendió participación en el parque solar más grande de Colombia: ¿Quién fue el comprador?",
-        "capturado": "2026-09-21T09:27:57-05:00"
       }
     ]
   }
