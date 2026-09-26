@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-26T05:07:32-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-26T09:40:38-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Falla de SPEC amenaza el gas industrial local y el gremio pide buscar más opciones de abastecimiento",
+        "url": "https://www.valoraanalitik.com/incidente-de-spec-pone-en-riesgo-el-gas-para-industriales-en-colombia-sector-insiste-en-diversificar-fuentes/",
+        "resumen": "Analistas y gremios coincidieron en que avanzar en puntos de regasificación y mejorar la eficiencia en el transporte son aspectos esenciales para el futuro.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Incidente de SPEC pone en riesgo el gas para industriales en Colombia; sector insiste en diversificar fuentes",
+        "capturado": "2026-09-26T09:40:38-05:00"
+      },
+      {
+        "titulo": "Alimentos más costosos en el país: sin perspectivas de reducción en sus valores actuales",
+        "url": "https://www.valoraanalitik.com/estos-son-los-alimentos-en-colombia-que-mas-se-pusieron-caros-no-hay-esperanza-de-que-bajen-de-precio/",
+        "resumen": "Algunos alimentos en Colombia siguen subiendo de precio y presionan el bolsillo de los hogares.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los alimentos en Colombia que más se pusieron caros: No hay esperanza de que bajen de precio",
+        "capturado": "2026-09-26T09:40:38-05:00"
+      },
+      {
+        "titulo": "Entrevista a Tomás Restrepo de Cementos Argos sobre sus futuros proyectos en EE UU, Colombia y más",
+        "url": "https://www.valoraanalitik.com/entrevista-tomas-restrepo-de-cementos-argos-habla-sobre-los-prometedores-planes-que-vienen-en-ee-uu-colombia-y-otros-mercados/",
+        "resumen": "Argos trabaja en una nueva plataforma de crecimiento en EE. UU., con la meta de construir negocio de entre US$200 millones y US$300 millones de Ebitda.",
+        "autor": "",
+        "subseccion": "Grupo argos",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Tomás Restrepo de Cementos Argos habla sobre los prometedores planes que vienen en EE. UU., Colombia y otros mercados",
+        "capturado": "2026-09-26T09:40:38-05:00"
+      },
       {
         "titulo": "Joaquín Gutiérrez asume presidencia de Ecopetrol para reactivarla con fracking y buscar récord histórico de valor",
         "url": "https://www.valoraanalitik.com/joaquin-gutierrez-nuevo-presidente-ecopetrol-va-por-renacer-de-la-empresa/",
@@ -573,39 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Credicorp Capital Corporación Financiera ofrecerá créditos corporativos y CDT para inversionistas profesionales",
         "capturado": "2026-09-24T06:36:19-05:00"
-      },
-      {
-        "titulo": "Isagen cede centrales hídricas y solares a alianza entre EDF y BTG Pactual y se conocen detalles",
-        "url": "https://www.valoraanalitik.com/isagen-vende-activos-hidroelectricos-y-solares-a-grupo-empresarial-conformado-por-edf-y-btg-pactual-asi-es-la-operacion/",
-        "resumen": "Isagen acordó la venta de varios activos de generación a EDF y BTG Pactual, en una operación que hace parte de su estrategia de crecimiento.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Isagen vende activos hidroeléctricos y solares a grupo empresarial conformado por EDF y BTG Pactual: así es la operación",
-        "capturado": "2026-09-23T19:46:29-05:00"
-      },
-      {
-        "titulo": "Reforma pensional: modificaciones si la Corte avala la solicitud de Colpensiones de diferirla a 2028",
-        "url": "https://www.valoraanalitik.com/reforma-pensional-esto-cambiaria-si-la-corte-acepta-la-peticion-de-colpensiones-de-aplazarla-hasta-2028/",
-        "resumen": "Colpensiones pidió más tiempo para implementar la reforma pensional y un abogado explica qué podría cambiar si la Corte acepta la solicitud.",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "Reforma pensional: esto cambiaría si la Corte acepta la petición de Colpensiones de aplazarla hasta 2028",
-        "capturado": "2026-09-23T19:46:29-05:00"
-      },
-      {
-        "titulo": "Andesco advierte racionamientos eléctricos planeados y aumento de tarifas por Fenómeno del Niño",
-        "url": "https://www.valoraanalitik.com/en-colombia-ya-se-presentan-cortes-de-energia-programados-y-ahora-alza-de-tarifas-por-el-nino-andesco/",
-        "resumen": "Camilo Sánchez, presidente de la organización, se refirió a los principales desafíos del sector energético y de los servicios públicos.",
-        "autor": "",
-        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
-        "publicacion": "",
-        "titulo_fuente": "En Colombia ya se presentan cortes de energía programados y ahora alza de tarifas por el Niño: Andesco",
-        "capturado": "2026-09-23T19:46:29-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Alerta en la industria colombiana por gas tras problema en SPEC y piden buscar nuevas fuentes",
+        "url": "https://www.valoraanalitik.com/incidente-de-spec-pone-en-riesgo-el-gas-para-industriales-en-colombia-sector-insiste-en-diversificar-fuentes/",
+        "resumen": "Analistas y gremios coincidieron en que avanzar en puntos de regasificación y mejorar la eficiencia en el transporte son aspectos esenciales para el futuro.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Incidente de SPEC pone en riesgo el gas para industriales en Colombia; sector insiste en diversificar fuentes",
+        "capturado": "2026-09-26T09:40:38-05:00"
+      },
+      {
+        "titulo": "Entrevista a Tomás Restrepo de Cementos Argos sobre sus futuros proyectos en EE UU y Colombia",
+        "url": "https://www.valoraanalitik.com/entrevista-tomas-restrepo-de-cementos-argos-habla-sobre-los-prometedores-planes-que-vienen-en-ee-uu-colombia-y-otros-mercados/",
+        "resumen": "Argos trabaja en una nueva plataforma de crecimiento en EE. UU., con la meta de construir negocio de entre US$200 millones y US$300 millones de Ebitda.",
+        "autor": "",
+        "subseccion": "Grupo argos",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Tomás Restrepo de Cementos Argos habla sobre los prometedores planes que vienen en EE. UU., Colombia y otros mercados",
+        "capturado": "2026-09-26T09:40:38-05:00"
+      },
       {
         "titulo": "El nuevo presidente de Ecopetrol, Joaquín Gutiérrez, busca el renacer de la firma con fracking y récord histórico",
         "url": "https://www.valoraanalitik.com/joaquin-gutierrez-nuevo-presidente-ecopetrol-va-por-renacer-de-la-empresa/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Especial petroleo gas mineria y renovables",
         "publicacion": "",
         "titulo_fuente": "ISA Energía invierte US$670 millones para 35 proyectos en Colombia; la mayoría son en la Costa Atlántica",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Despegar sube 50 % en el país por compras móviles y alianzas bancarias y proyecta triplicarse",
-        "url": "https://www.valoraanalitik.com/despegar-crece-50-en-colombia-jalonado-por-ventas-por-celular-y-alianzas-con-entidades-financieras/",
-        "resumen": "Más de 2.500 agencias de viajes en Colombia compran hoy a través de la plataforma de Despegar para vender a sus propios clientes.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Despegar crece 50 % en Colombia jalonado por ventas por celular y alianzas con entidades financieras: prevé triplicar su tamaño",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Ejecutivo permite que Cajas de Compensación trasladen hasta medio billón para damnificados por sismo",
-        "url": "https://www.valoraanalitik.com/gobierno-habilita-que-cajas-de-compensacion-movilicen-hasta-medio-billon-para-apoyar-a-afectados-por-terremoto/",
-        "resumen": "Hasta $550.000 millones podrán movilizar las Cajas de Compensación Familiar para apoyar la recuperación de las familias.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno habilita que Cajas de Compensación movilicen hasta medio billón para apoyar a afectados por terremoto",
         "capturado": "2026-09-21T14:41:40-05:00"
       }
     ]
