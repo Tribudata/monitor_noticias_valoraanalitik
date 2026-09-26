@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-26T16:26:32-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-26T18:48:08-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
       {
@@ -607,6 +607,16 @@
     ],
     "Empresariales": [
       {
+        "titulo": "Estación de carga para carros eléctricos en Bogotá: operación del nuevo sitio",
+        "url": "https://www.valoraanalitik.com/asi-funciona-el-nuevo-punto-de-carga-para-vehiculos-electricos-en-bogota/",
+        "resumen": "La estación está ubicada en el Centro Comercial Bima y cuenta con un cargador rápido y tres puntos de 7 kW.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Electrolinera en Bogotá: así funciona el nuevo punto de carga para vehículos eléctricos",
+        "capturado": "2026-09-26T18:48:08-05:00"
+      },
+      {
         "titulo": "Nubank llega a OXXO y Farmatodo con nuevo beneficio para clientes de Nu Colombia",
         "url": "https://www.valoraanalitik.com/nubank-nu-colombia-lleva-sus-servicios-a-oxxo-y-farmatodo-este-es-el-nuevo-beneficio-para-sus-clientes/",
         "resumen": "Nu amplía las opciones para manejar efectivo en Colombia con nuevas alianzas y una red física que busca facilitar las transacciones de sus clientes.",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Ola de calor golpeará con la mayor intensidad a finales de 2026, pero disminuirá a mediados de 2027",
         "capturado": "2026-09-21T18:06:09-05:00"
-      },
-      {
-        "titulo": "Aumentaron las compras externas de gas en el país durante el fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/se-disparo-la-importacion-de-gas-en-colombia-en-medio-del-fenomeno-de-el-nino/",
-        "resumen": "A causa de la falta de posibilidad de autoabastecimiento a corto plazo, algunos expertos señalaron la necesidad de incentivar la importación.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Se disparó la importación de gas en Colombia en medio del fenómeno de El Niño",
-        "capturado": "2026-09-21T14:41:40-05:00"
       }
     ]
   }
