@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-25T19:04:24-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-26T00:20:22-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Joaquín Gutiérrez asume presidencia de Ecopetrol para reactivarla con fracking y buscar récord histórico de valor",
+        "url": "https://www.valoraanalitik.com/joaquin-gutierrez-nuevo-presidente-ecopetrol-va-por-renacer-de-la-empresa/",
+        "resumen": "El directivo asumirá la presidencia el 28 de septiembre y tendrá entre sus desafíos aumentar reservas, impulsar el gas y avanzar en ‘fracking’.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Joaquín Gutiérrez, nuevo presidente de Ecopetrol, va por ‘renacer’ de la empresa: hará fracking y promete alcanzar valor más alto de la historia",
+        "capturado": "2026-09-26T00:20:22-05:00"
+      },
+      {
+        "titulo": "Gobierno de Venezuela dispone liberar sitios web y apps, mas organizaciones civiles señalan escasos desbloqueos",
+        "url": "https://www.valoraanalitik.com/venezuela-ordena-desbloquear-portales-y-plataformas/",
+        "resumen": "El Gobierno aseguró que la decisión busca garantizar el acceso a información y anunció el desbloqueo “inmediato” de estos sitios.",
+        "autor": "",
+        "subseccion": "Insidevenezuela",
+        "publicacion": "",
+        "titulo_fuente": "Venezuela ordena desbloquear portales y plataformas, pero ONG reportan que pocos fueron liberados",
+        "capturado": "2026-09-26T00:20:22-05:00"
+      },
       {
         "titulo": "Gobierno dio a conocer nuevo presidente de Ecopetrol y estrategia de seguridad 360° para Santa Marta",
         "url": "https://www.valoraanalitik.com/gobierno-presento-nuevo-presidente-de-ecopetrol-y-estrategia-de-seguridad-360-para-santa-marta/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "En Colombia ya se presentan cortes de energía programados y ahora alza de tarifas por el Niño: Andesco",
         "capturado": "2026-09-23T19:46:29-05:00"
-      },
-      {
-        "titulo": "Asofondos señala que el país requeriría otra reforma pensional para garantizar la sostenibilidad",
-        "url": "https://www.valoraanalitik.com/asofondos-otra-reforma-pensional-colombia/",
-        "resumen": "Andrés Velasco señaló los tres retos para implementar la actual ley pensional: Colpensiones, Banco de la República y petición de MinHacienda a la Corte.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Asofondos advierte que Colombia necesitaría otra reforma pensional para hacer sostenible el sistema",
-        "capturado": "2026-09-23T19:46:29-05:00"
-      },
-      {
-        "titulo": "BanRep expone contradicciones de la Corte en sentencia sobre la reforma pensional y pide claridad",
-        "url": "https://www.valoraanalitik.com/primicia-banrep-senala-contradicciones-de-la-corte-en-fallo-que-avalo-parte-de-la-reforma-pensional-pide-aclaracion/",
-        "resumen": "El banco central le planteó a la Corte Constitucional la necesidad de resolver contradicciones entre la parte motiva y la parte resolutiva del fallo.",
-        "autor": "",
-        "subseccion": "Banco de la republica",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | BanRep señala contradicciones de la Corte en fallo que avaló parte de la reforma pensional; pide aclaración",
-        "capturado": "2026-09-23T19:46:29-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El nuevo presidente de Ecopetrol, Joaquín Gutiérrez, busca el renacer de la firma con fracking y récord histórico",
+        "url": "https://www.valoraanalitik.com/joaquin-gutierrez-nuevo-presidente-ecopetrol-va-por-renacer-de-la-empresa/",
+        "resumen": "El directivo asumirá la presidencia el 28 de septiembre y tendrá entre sus desafíos aumentar reservas, impulsar el gas y avanzar en ‘fracking’.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Joaquín Gutiérrez, nuevo presidente de Ecopetrol, va por ‘renacer’ de la empresa: hará fracking y promete alcanzar valor más alto de la historia",
+        "capturado": "2026-09-26T00:20:22-05:00"
+      },
       {
         "titulo": "Alcaldía de Bogotá y Claro Colombia se alían para ofrecer capacitación digital gratis en la capital",
         "url": "https://www.valoraanalitik.com/alcaldia-de-bogota-y-claro-colombia-se-unen-para-llevar-formacion-digital-gratuita-a-las-personas-que-viven-en-la-capital/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Política",
         "publicacion": "",
         "titulo_fuente": "Gobierno habilita que Cajas de Compensación movilicen hasta medio billón para apoyar a afectados por terremoto",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Este es el escalafón de rentabilidad de fondos de cesantías en Colombia: el plazo largo importa",
-        "url": "https://www.valoraanalitik.com/este-es-el-ranking-de-rentabilidad-de-fondos-de-cesantias-en-colombia-vision-en-el-largo-plazo-es-clave/",
-        "resumen": "Colfondos registra la mayor rentabilidad entre los principales fondos de cesantías tanto en el portafolio de largo plazo como en el de corto plazo.",
-        "autor": "",
-        "subseccion": "Especiales",
-        "publicacion": "",
-        "titulo_fuente": "Este es el ranking de rentabilidad de fondos de cesantías en Colombia: visión en el largo plazo es clave",
         "capturado": "2026-09-21T14:41:40-05:00"
       }
     ]
