@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-25T16:22:08-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-25T19:04:24-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno dio a conocer nuevo presidente de Ecopetrol y estrategia de seguridad 360° para Santa Marta",
+        "url": "https://www.valoraanalitik.com/gobierno-presento-nuevo-presidente-de-ecopetrol-y-estrategia-de-seguridad-360-para-santa-marta/",
+        "resumen": "El presidente Abelardo de La Espriella también anunció medidas para acelerar proyectos de infraestructura, vivienda, agua, salud y turismo.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno presentó nuevo presidente de Ecopetrol y estrategia de seguridad 360° para Santa Marta",
+        "capturado": "2026-09-25T19:04:24-05:00"
+      },
+      {
+        "titulo": "nuam incorpora alianza tecnológica para dinamizar la integración de las bolsas de Colombia, Chile y Perú",
+        "url": "https://www.valoraanalitik.com/nuam-alianza-vantek-acelerar-integracion/",
+        "resumen": "El acuerdo con Vantek busca facilitar la adaptación de bancos, corredoras y gestoras a la infraestructura regional que desarrolla nuam.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "nuam suma alianza tecnológica para acelerar la integración de los mercados de Colombia, Chile y Perú",
+        "capturado": "2026-09-25T19:04:24-05:00"
+      },
+      {
+        "titulo": "Ciertos empleados podrían cotizar más a seguridad social en pocos meses",
+        "url": "https://www.valoraanalitik.com/estos-trabajadores-podrian-pagar-mas-por-seguridad-social-en-solo-unos-meses/",
+        "resumen": "Una modificación en la forma de calcular los aportes a seguridad social podría tener un impacto directo en el bolsillo de algunos trabajadores.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Estos trabajadores podrían pagar más por seguridad social en solo unos meses",
+        "capturado": "2026-09-25T19:04:24-05:00"
+      },
+      {
+        "titulo": "Magnar capta US$8 millones para crecer en Colombia y más países latinoamericanos y prevé gran expansión",
+        "url": "https://www.valoraanalitik.com/magnar-levanta-us8-millones-expansion/",
+        "resumen": "La firma de inteligencia artificial para abogados ya opera en nueve países y cuenta con cerca de 30.000 usuarios en la región.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Magnar levanta US$8 millones para expandirse en Colombia y otros mercados de Latinoamérica; espera fuerte crecimiento",
+        "capturado": "2026-09-25T19:04:24-05:00"
+      },
       {
         "titulo": "Sharjah será el Invitado de Honor de la FILBo 2027 con la llegada de Emiratos Árabes Unidos",
         "url": "https://www.valoraanalitik.com/emiratos-arabes-unidos-sharjah-filbo-2027/",
@@ -563,49 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Primicia | BanRep señala contradicciones de la Corte en fallo que avaló parte de la reforma pensional; pide aclaración",
         "capturado": "2026-09-23T19:46:29-05:00"
-      },
-      {
-        "titulo": "En directo | Comisiones económicas congresionales arrancan debate para avalar Presupuesto 2027 en primer debate",
-        "url": "https://www.valoraanalitik.com/en-vivo-comisiones-economicas-del-congreso-inician-discusion-para-aprobar-presupuesto-2027-en-primer-debate/",
-        "resumen": "Por el momento solo se ha avanzado con el llamado a lista y verificación del cuórum de una de las cuatro corporaciones citadas.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "En vivo | Comisiones económicas del Congreso inician discusión para aprobar Presupuesto 2027 en primer debate",
-        "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "Al sistema eléctrico colombiano ha entrado menos del 25 % de la energía prevista en 2026 a corte de septiembre",
-        "url": "https://www.valoraanalitik.com/al-sistema-electrico-colombiano-ha-entrado-menos-de-25-de-la-energia-esperada-en-2026-a-corte-de-septiembre/",
-        "resumen": "Air-e es una de las compañías más expuestas a la volatilidad en los precios de la bolsa de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Al sistema eléctrico colombiano ha entrado menos de 25 % de la energía esperada en 2026 a corte de septiembre",
-        "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella alista relevante disposición para frenar llamadas estafa desde los establecimientos carcelarios",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-prepara-importante-medida-para-frenar-llamadas-estafa-desde-las-carceles/",
-        "resumen": "El Gobierno De La Espriella anunció una modificación al esquema que se utiliza para restringir las comunicaciones no autorizadas desde las cárceles.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella prepara importante medida para frenar llamadas estafa desde las cárceles",
-        "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "DIAN otorga mayor plazo para cancelar pasivos y compromisos fiscales: estos ciudadanos podrán acceder al beneficio",
-        "url": "https://www.valoraanalitik.com/dian-da-mas-plazo-para-pagar-deudas-y-obligaciones-tributarias-estos-ciudadanos-podran-acceder-al-beneficio/",
-        "resumen": "La DIAN estableció nuevas condiciones para facilitar el pago de obligaciones tributarias de ciertos contribuyentes en Colombia.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "DIAN da más plazo para pagar deudas y obligaciones tributarias: estos ciudadanos podrán acceder al beneficio",
-        "capturado": "2026-09-23T17:09:11-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Alcaldía de Bogotá y Claro Colombia se alían para ofrecer capacitación digital gratis en la capital",
+        "url": "https://www.valoraanalitik.com/alcaldia-de-bogota-y-claro-colombia-se-unen-para-llevar-formacion-digital-gratuita-a-las-personas-que-viven-en-la-capital/",
+        "resumen": "Los programas de formación están diseñados con un enfoque inclusivo, orientado a cerrar la brecha tecnológica en grupos poblacionales prioritarios.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Alcaldía de Bogotá y Claro Colombia se unen para llevar formación digital gratuita a las personas que viven en la capital",
+        "capturado": "2026-09-25T19:04:24-05:00"
+      },
+      {
+        "titulo": "Smurfit Westrock informa pacto para comprar la división de papel y corrugado de CMPC en Chile",
+        "url": "https://www.valoraanalitik.com/smurfit-westrock-anuncia-acuerdo-para-adquirir-el-negocio-de-papel-y-corrugado-de-cmpc-en-chile/",
+        "resumen": "Smurfit Westrock prevé que el cierre tenga lugar durante el primer semestre de 2027.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Smurfit Westrock anuncia acuerdo para adquirir el negocio de papel y corrugado de CMPC en Chile",
+        "capturado": "2026-09-25T19:04:24-05:00"
+      },
       {
         "titulo": "Entregaron subsidios de vivienda a recicladores tradicionales vinculados al programa Faro Postobón",
         "url": "https://www.valoraanalitik.com/recicladores-de-oficio-del-programa-faro-postobon-recibieron-bonos-para-mejoramiento-de-vivienda/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Especiales",
         "publicacion": "",
         "titulo_fuente": "Este es el ranking de rentabilidad de fondos de cesantías en Colombia: visión en el largo plazo es clave",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Julio César Henríquez asume la Subdirección Nacional Académica de la ESAP",
-        "url": "https://www.valoraanalitik.com/julio-cesar-henriquez-llega-a-la-subdireccion-nacional-academica-de-la-esap/",
-        "resumen": "Es abogado, especialista en ‘Los orígenes del cristianismo’, magíster en Teología y doctor en Ciencias Políticas.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Julio César Henríquez llega a la Subdirección Nacional Académica de la ESAP",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Compañías de Envigado tendrán acceso sin costo a asesorías y diagnósticos en sostenibilidad",
-        "url": "https://www.valoraanalitik.com/empresas-de-envigado-podran-acceder-gratuitamente-a-diagnosticos-y-acompanamiento-en-sostenibilidad/",
-        "resumen": "Se busca que las empresas incorporen prácticas sostenibles que les permitan ser más competitivas, optimizar recursos y prepararse para nuevos retos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Empresas de Envigado podrán acceder gratuitamente a diagnósticos y acompañamiento en sostenibilidad",
         "capturado": "2026-09-21T14:41:40-05:00"
       }
     ]
