@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-26T13:27:20-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-26T16:26:32-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Desacelera la producción industrial colombiana y expertos descartan repunte a corto plazo",
+        "url": "https://www.valoraanalitik.com/industria-manufacturera-en-colombia-frena-su-ritmo-analistas-no-ven-posibilidades-de-recuperacion-inmediata/",
+        "resumen": "El Banco de Bogotá mantiene un balance de corto plazo bajista para el sector, mientras proyecta un crecimiento del 2,5 % en el PIB de 2026.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Industria manufacturera en Colombia frena su ritmo; analistas no ven posibilidades de recuperación inmediata",
+        "capturado": "2026-09-26T16:26:32-05:00"
+      },
+      {
+        "titulo": "Nuevos puntos de atención para usuarios de Nubank en Colombia mediante OXXO y Farmatodo",
+        "url": "https://www.valoraanalitik.com/nubank-nu-colombia-lleva-sus-servicios-a-oxxo-y-farmatodo-este-es-el-nuevo-beneficio-para-sus-clientes/",
+        "resumen": "Nu amplía las opciones para manejar efectivo en Colombia con nuevas alianzas y una red física que busca facilitar las transacciones de sus clientes.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Nubank (Nu Colombia) lleva sus servicios a OXXO y Farmatodo: este es el nuevo beneficio para sus clientes",
+        "capturado": "2026-09-26T16:26:32-05:00"
+      },
+      {
+        "titulo": "Beatriz Eugenia Vélez asume la presidencia de Colpensiones tras designación de De la Espriella",
+        "url": "https://www.valoraanalitik.com/colpensiones-ya-tiene-nueva-presidenta-de-la-espriella-designo-a-beatriz-eugenia-velez/",
+        "resumen": "El cambio en Colpensiones se produce después de la renuncia de Carlos René Montoya por cuestionamientos sobre su manejo técnico de la entidad.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Colpensiones ya tiene nueva presidenta: De la Espriella designó a Beatriz Eugenia Vélez",
+        "capturado": "2026-09-26T16:26:32-05:00"
+      },
       {
         "titulo": "Gobierno De la Espriella, Enel y AES logran pacto para prevenir racionamientos por fenómeno de El Niño",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-enel-y-aes-llegan-a-importante-acuerdo-para-evitar-apagones-por-el-nino/",
@@ -573,39 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Más voces se suman para aplazar entrada en vigor de la reforma pensional",
         "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "Sanciones viales suman $8 billones y el SIMIT evalúa reembolsos por fotomultas",
-        "url": "https://www.valoraanalitik.com/multas-de-transito-acumulan-8-billones-y-simit-revisa-devolucion-por-fotocomparendos/",
-        "resumen": "El SIMIT reveló el monto de la cartera por multas de tránsito y entregó detalles sobre la revisión de los fotocomparendos.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Multas de tránsito acumulan $8 billones y SIMIT revisa devolución por fotocomparendos",
-        "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "El futuro escenario de El Campín alcanzaría el top 10 de los mayores en América Latina",
-        "url": "https://www.valoraanalitik.com/nuevo-estadio-el-campin-podria-ser-top-10-de-los-mas-grandes-en-america-latina/",
-        "resumen": "El nuevo estadio El Campín moverá su ubicación y ya no quedará sobre la avenida 30.",
-        "autor": "",
-        "subseccion": "Futbol colombiano",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo estadio El Campín podría ser top 10 de los más grandes en América Latina",
-        "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia trepa a $3.284 al superar techos técnicos y afianzar su racha al alza",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-salta-a-3-284-tras-romper-resistencias-clave-y-consolidar-su-tendencia-alcista/",
-        "resumen": "Para los expertos, la divisa gana un momentum significativo respaldada por una sólida liquidez compradora.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia salta a $3.284 tras romper resistencias clave y consolidar su tendencia alcista",
-        "capturado": "2026-09-24T15:19:31-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Nubank llega a OXXO y Farmatodo con nuevo beneficio para clientes de Nu Colombia",
+        "url": "https://www.valoraanalitik.com/nubank-nu-colombia-lleva-sus-servicios-a-oxxo-y-farmatodo-este-es-el-nuevo-beneficio-para-sus-clientes/",
+        "resumen": "Nu amplía las opciones para manejar efectivo en Colombia con nuevas alianzas y una red física que busca facilitar las transacciones de sus clientes.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Nubank (Nu Colombia) lleva sus servicios a OXXO y Farmatodo: este es el nuevo beneficio para sus clientes",
+        "capturado": "2026-09-26T16:26:32-05:00"
+      },
+      {
+        "titulo": "Claro suma más de 300 iniciativas en transformación digital y el 30 por ciento de antenas son 5G",
+        "url": "https://www.valoraanalitik.com/claro-tiene-mas-de-300-iniciativas-tras-su-transformacion-digital-el-30-de-las-antenas-estan-en-5g/",
+        "resumen": "Claro llega al 100 % de la cobertura en las cabeceras de municipios.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Claro tiene más de 300 iniciativas tras su transformación digital: el 30 % de las antenas están en 5G",
+        "capturado": "2026-09-26T16:26:32-05:00"
+      },
       {
         "titulo": "Las ganancias empresariales en Colombia bajan frente a un bono estatal y el pasivo financiero supera la renta",
         "url": "https://www.valoraanalitik.com/rentabilidad-empresas-colombianas-tes/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Se disparó la importación de gas en Colombia en medio del fenómeno de El Niño",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Inteligencia artificial sumaría hasta US$13.600 millones al PIB nacional, según Blend360",
-        "url": "https://www.valoraanalitik.com/ia-aporte-pib-colombia-desafios-resultados/",
-        "resumen": "La firma advierte que muchas empresas todavía no cuentan con una metodología para determinar el retorno de sus proyectos de inteligencia artificial.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "IA podría aportar hasta US$13.600 millones al PIB de Colombia, pero hay desafíos para medir resultados: Blend360",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "Tendencias y lugares de viaje de los antioqueños en 2026 de acuerdo con un estudio",
-        "url": "https://www.valoraanalitik.com/asi-estan-viajando-los-antioquenos-en-2026-destinos-y-nuevas-tendencias/",
-        "resumen": "Las reservas desde Medellín crecieron 80 % en un año, con mayor interés por viajes internacionales, paquetes turísticos y experiencias en pareja.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Así están viajando los antioqueños en 2026: destinos y nuevas tendencias, según estudio",
         "capturado": "2026-09-21T14:41:40-05:00"
       }
     ]
