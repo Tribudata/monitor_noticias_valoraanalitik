@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-26T09:40:38-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-26T13:27:20-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De la Espriella, Enel y AES logran pacto para prevenir racionamientos por fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-enel-y-aes-llegan-a-importante-acuerdo-para-evitar-apagones-por-el-nino/",
+        "resumen": "Colombia se prepara para meses de alta exigencia energética y el Gobierno acordó una medida para reforzar la disponibilidad del sistema.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella, Enel y AES llegan a importante acuerdo para evitar apagones por El Niño",
+        "capturado": "2026-09-26T13:27:20-05:00"
+      },
+      {
+        "titulo": "Ganancias empresariales en Colombia bajan frente a bonos estatales; deuda supera la rentabilidad",
+        "url": "https://www.valoraanalitik.com/rentabilidad-empresas-colombianas-tes/",
+        "resumen": "Un análisis de Capitalia.ai muestra que el ROE empresarial se mantuvo cerca de 5 %, mientras los TES a 10 años llegó a 12,44 %.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Rentabilidad de las empresas colombianas es menor que un título del Gobierno; costo de deuda supera retornos",
+        "capturado": "2026-09-26T13:27:20-05:00"
+      },
+      {
+        "titulo": "Novedosa medida vial en la carrera Séptima para salir de Bogotá opera desde este fin de semana",
+        "url": "https://www.valoraanalitik.com/carrera-septima-estrena-cambio-clave-para-salir-de-bogota-asi-funciona-desde-este-fin-de-semana/",
+        "resumen": "La Carrera Séptima tendrá una modificación que cambiará la movilidad en uno de los principales accesos y salidas de Bogotá.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Carrera Séptima estrena cambio clave para salir de Bogotá: así funciona desde este fin de semana",
+        "capturado": "2026-09-26T13:27:20-05:00"
+      },
+      {
+        "titulo": "Credicorp Capital proyecta mayor inversión en Colombia, Chile y Perú con El Niño como amenaza central",
+        "url": "https://www.valoraanalitik.com/credicorp-capital-repunte-inversion-colombi/",
+        "resumen": "Daniel Velandia, economista jefe de Credicorp, calcula que el fenómeno climático le restaría dos puntos de crecimiento a Perú entre 2026 y 2027.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Credicorp Capital prevé un repunte de la inversión en Colombia, Chile y Perú, con El Niño como principal riesgo",
+        "capturado": "2026-09-26T13:27:20-05:00"
+      },
+      {
+        "titulo": "Mesadas pensionales de 2026: administración De la Espriella ratifica medidas sobre los giros decembrinos",
+        "url": "https://www.valoraanalitik.com/mesadas-pensionales-de-2026-gobierno-de-la-espriella-confirma-que-pasara-con-los-pagos-de-fin-de-ano/",
+        "resumen": "Los pensionados siguen con atención las alertas sobre los recursos para las mesadas de 2026 y el Gobierno ya definió una ruta para atender la situación.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Mesadas pensionales de 2026: Gobierno De la Espriella confirma qué pasará con los pagos de fin de año",
+        "capturado": "2026-09-26T13:27:20-05:00"
+      },
       {
         "titulo": "Falla de SPEC amenaza el gas industrial local y el gremio pide buscar más opciones de abastecimiento",
         "url": "https://www.valoraanalitik.com/incidente-de-spec-pone-en-riesgo-el-gas-para-industriales-en-colombia-sector-insiste-en-diversificar-fuentes/",
@@ -553,59 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Dólar en Colombia salta a $3.284 tras romper resistencias clave y consolidar su tendencia alcista",
         "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "Premercado | Inversores miran cumbre Trump-Xi: trepan bonos y el Brent pasa de US$100",
-        "url": "https://www.valoraanalitik.com/premercado-inversores-centran-atencion-en-la-cumbre-trump-xi-aumentan-rendimientos-de-bonos-y-brent-supera-los-us100/",
-        "resumen": "Los inversores mantuvieron elevadas reservas de liquidez mientras los presidentes se preparan para una reunión bilateral de alto nivel en Washington.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Inversores centran atención en la cumbre Trump-Xi: aumentan rendimientos de bonos y Brent supera los US$100",
-        "capturado": "2026-09-24T06:36:19-05:00"
-      },
-      {
-        "titulo": "Joaquín Gutiérrez asumirá este jueves como presidente de Ecopetrol: así fue la designación",
-        "url": "https://www.valoraanalitik.com/joaquin-gutierrez-sera-elegido-este-jueves-como-nuevo-presidente-de-ecopetrol-asi-se-definio-el-nombramiento/",
-        "resumen": "Este jueves 24 de septiembre está prevista la elección de Joaquín Gutiérrez como nuevo presidente de la petrolera.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Joaquín Gutiérrez será elegido este jueves como nuevo presidente de Ecopetrol: así se definió el nombramiento",
-        "capturado": "2026-09-24T06:36:19-05:00"
-      },
-      {
-        "titulo": "Seguridad y eficiencia: usos de la IA en el sector de hidrocarburos",
-        "url": "https://www.valoraanalitik.com/las-aplicaciones-que-esta-tomando-la-ia-en-la-industria-de-hidrocarburos/",
-        "resumen": "Desde la detección de fugas hasta los gemelos digitales, la tecnología permite monitorear activos y anticipar posibles fallas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Seguridad y eficiencia: las aplicaciones que está tomando la IA en la industria de hidrocarburos",
-        "capturado": "2026-09-24T06:36:19-05:00"
-      },
-      {
-        "titulo": "Evolución de IKEA a tres años de su arribo al país: cobertura superior a 300 municipios",
-        "url": "https://www.valoraanalitik.com/asi-ha-crecido-ikea-a-tres-anos-de-su-llegada-a-colombia-ya-llega-a-mas-de-300-municipios/",
-        "resumen": "IKEA cumple tres años en Colombia y revela cifras que muestran cómo ha evolucionado el interés de los consumidores por la marca.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Así ha crecido IKEA a tres años de su llegada a Colombia: ya llega a más de 300 municipios",
-        "capturado": "2026-09-24T06:36:19-05:00"
-      },
-      {
-        "titulo": "Credicorp Capital Corporación Financiera brindará préstamos corporativos y CDT a inversionistas calificados",
-        "url": "https://www.valoraanalitik.com/credicorp-capital-corporacion-financiera-ofrecera-creditos-corporativos-y-cdt-para-inversionistas-profesionales/",
-        "resumen": "La entidad ya tiene cerca de 200 clientes y opera unos US$500 millones mensuales en derivados. No descarta hacer emisión de bonos en el futuro.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Credicorp Capital Corporación Financiera ofrecerá créditos corporativos y CDT para inversionistas profesionales",
-        "capturado": "2026-09-24T06:36:19-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Las ganancias empresariales en Colombia bajan frente a un bono estatal y el pasivo financiero supera la renta",
+        "url": "https://www.valoraanalitik.com/rentabilidad-empresas-colombianas-tes/",
+        "resumen": "Un análisis de Capitalia.ai muestra que el ROE empresarial se mantuvo cerca de 5 %, mientras los TES a 10 años llegó a 12,44 %.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Rentabilidad de las empresas colombianas es menor que un título del Gobierno; costo de deuda supera retornos",
+        "capturado": "2026-09-26T13:27:20-05:00"
+      },
       {
         "titulo": "Alerta en la industria colombiana por gas tras problema en SPEC y piden buscar nuevas fuentes",
         "url": "https://www.valoraanalitik.com/incidente-de-spec-pone-en-riesgo-el-gas-para-industriales-en-colombia-sector-insiste-en-diversificar-fuentes/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Turismo",
         "publicacion": "",
         "titulo_fuente": "Así están viajando los antioqueños en 2026: destinos y nuevas tendencias, según estudio",
-        "capturado": "2026-09-21T14:41:40-05:00"
-      },
-      {
-        "titulo": "ISA Energía destina US$670 millones a 35 iniciativas nacionales, sobre todo en la Costa Atlántica",
-        "url": "https://www.valoraanalitik.com/isa-energia-invierte-us670-millones-para-35-proyectos-en-colombia-la-mayoria-son-en-la-costa-atlantica/",
-        "resumen": "ISA Energía Colombia, específicamente, es el principal transmisor de energía a alto voltaje del país.",
-        "autor": "",
-        "subseccion": "Especial petroleo gas mineria y renovables",
-        "publicacion": "",
-        "titulo_fuente": "ISA Energía invierte US$670 millones para 35 proyectos en Colombia; la mayoría son en la Costa Atlántica",
         "capturado": "2026-09-21T14:41:40-05:00"
       }
     ]
