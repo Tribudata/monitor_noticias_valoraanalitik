@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-27T10:15:28-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-27T14:12:02-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Encuentro Trump-Xi: los acuerdos, los temas pendientes y el futuro de las relaciones bilaterales",
+        "url": "https://www.valoraanalitik.com/reunion-entre-trump-y-xi-que-acordaron-que-quedo-pendiente-y-que-viene-ahora-para-china-y-estados-unidos/",
+        "resumen": "Trump y Xi cerraron su reunión en Washington con acuerdos económicos y un canal para discutir inteligencia artificial, pero varios asuntos siguen abiertos.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Reunión entre Trump y Xi: ¿qué acordaron, qué quedó pendiente y qué viene ahora para China y Estados Unidos?",
+        "capturado": "2026-09-27T14:12:02-05:00"
+      },
+      {
+        "titulo": "Obras monumentales proyectadas en Soacha para aliviar el tráfico de la Autopista Sur",
+        "url": "https://www.valoraanalitik.com/las-megaobras-que-prepara-soacha-para-descongestionar-la-autopista-sur/",
+        "resumen": "Detalles y cronogramas de las principales obras de infraestructura de Soacha.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Las megaobras que prepara Soacha para descongestionar la Autopista Sur",
+        "capturado": "2026-09-27T14:12:02-05:00"
+      },
+      {
+        "titulo": "DIAN explica el responsable de cancelar la retención al adquirir bienes raíces o vivienda",
+        "url": "https://www.valoraanalitik.com/dian-aclara-quien-debe-pagar-una-retencion-al-comprar-vivienda-o-inmuebles/",
+        "resumen": "La DIAN precisó quién debe practicar la retención en la compra de inmuebles y qué tarifa aplica según el destino que tenga el bien.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "DIAN aclara quién debe pagar una retención al comprar vivienda o inmuebles",
+        "capturado": "2026-09-27T14:12:02-05:00"
+      },
       {
         "titulo": "El Tiempo reduce tamaño y traslada su redacción mientras El Colombiano designa nueva dirección",
         "url": "https://www.valoraanalitik.com/cambios-en-medios-de-comunicacion-el-tiempo-achica-su-formato-y-muda-su-redaccion-el-colombiano-cambia-de-mando/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Dólar en Colombia no para de subir: Terminó al alza y superó los $3.350",
         "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "Ejecutivo giró $20.200 millones a Dispac para cubrir pagos de salarios y compromisos del mercado eléctrico",
-        "url": "https://www.valoraanalitik.com/gobierno-brindo-20-200-millones-a-dispac-la-empresa-espera-atender-obligaciones-de-nomina-y-ante-el-mercado-mayorista-de-energia/",
-        "resumen": "Andrés Horta, gerente de la empresa, habló sobre los principales retos que enfrenta la compañía, que actualmente atiende a más de 110.000 usuarios.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Gobierno brindó $20.200 millones a Dispac; la empresa espera atender obligaciones de nómina y ante el mercado mayorista de energía",
-        "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "ISA Energía sugiere integrar las redes de transmisión regional del país para nivelar los costos tarifarios",
-        "url": "https://www.valoraanalitik.com/isa-energia-propone-unir-los-sistemas-de-transmision-regional-en-colombia-para-estabilizar-tarifas/",
-        "resumen": "Carlos Mario Caro, gerente de ISA Energía, lanzó nuevas propuestas para la industria eléctrica colombiana.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | ISA Energía propone unir los sistemas de transmisión regional en Colombia para estabilizar tarifas",
-        "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "Patria, Acciones & Valores y trii habilitan opción de inversión desde $500.000 en renta fija regional",
-        "url": "https://www.valoraanalitik.com/alternativa-invertir-renta-fija-latam/",
-        "resumen": "Se trata del fondo MLCC · Renta Fija LatAm by Patria Investments, en el que los interesados podrán acceder con importantes rendimientos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Patria, Acciones & Valores y trii lanzan alternativa para invertir desde $500.000 en renta fija latinoamericana",
-        "capturado": "2026-09-24T15:19:31-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista: Colombia es el segundo mercado clave de Buchanan’s y Diageo trae su whisky de piña",
+        "url": "https://www.valoraanalitik.com/colombia-mercado-clave-buchanans-pinnaple/",
+        "resumen": "Las ventas de Diageo en Colombia crecieron cerca de 22 % en su último año fiscal. La marca presentó una nueva en el Festival Cordillera.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Colombia, segundo mercado clave para Buchanan’s: Diageo lanza su whisky de piña en el país",
+        "capturado": "2026-09-27T14:12:02-05:00"
+      },
       {
         "titulo": "Despegar sube hasta 40 % en Colombia y apunta a 2027: dará ventajas a viajeros este fin de año",
         "url": "https://www.valoraanalitik.com/despegar-crece-hasta-40-en-colombia-y-tiene-una-fuerte-apuesta-para-2027-dara-beneficios-a-viajeros-para-fin-de-ano/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Federación de Cafeteros sube el precio del café pasilla para proteger ingresos por El Niño",
         "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Patria Investments y Ashmore Colombia consiguieron los recursos para el parque solar Puertos de Santander",
-        "url": "https://www.valoraanalitik.com/patria-investment-y-ashmore-colombia-aseguraron-la-financiacion-para-el-proyecto-de-energia-solar-puertos-de-santander/",
-        "resumen": "Esto se da en una coyuntura en la que Patria vendió su participación del proyecto Puerta de Oro a Isagen.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Patria Investments y Ashmore Colombia aseguraron la financiación para el proyecto de energía solar Puertos de Santander",
-        "capturado": "2026-09-22T08:16:30-05:00"
       }
     ]
   }
