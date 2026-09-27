@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-27T14:12:02-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-27T17:29:58-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "De la Espriella anuncia inversión de US$1.000 millones de PepsiCo en Colombia y detalla su destino",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-confirma-us1-000-millones-de-pepsico-para-colombia-asi-se-movera-la-inversion/",
+        "resumen": "PepsiCo anunció nuevos planes para Colombia y el Gobierno destacó el impacto que tendría la inversión en producción, empleo y proveedores.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella confirma US$1.000 millones de PepsiCo para Colombia: así se moverá la inversión",
+        "capturado": "2026-09-27T17:29:58-05:00"
+      },
+      {
+        "titulo": "Corte Suprema define cuándo procede indemnización por traslado de fondo de pensiones",
+        "url": "https://www.valoraanalitik.com/se-cambio-de-fondo-de-pensiones-corte-suprema-aclara-cuando-podria-recibir-una-indemnizacion/",
+        "resumen": "La Corte Suprema precisó qué debe demostrarse para que un pensionado pueda reclamar una indemnización por cambio de fondo.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "¿Se cambió de fondo de pensiones? Corte Suprema aclara cuándo podría recibir una indemnización",
+        "capturado": "2026-09-27T17:29:58-05:00"
+      },
+      {
+        "titulo": "Inteligencia artificial impulsa inversiones mientras surgen nuevos interrogantes en los mercados",
+        "url": "https://www.valoraanalitik.com/que-pasa-con-las-inversiones-en-ia-cuando-aumentan-las-alertas-sobre-sus-riesgos/",
+        "resumen": "La tecnología concentra cada vez más capital y uso empresarial, al tiempo que crece el debate sobre sus riesgos y los recursos que demanda.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "IA: la carrera que mueve inversiones y ahora enfrenta nuevas dudas entre los mercados",
+        "capturado": "2026-09-27T17:29:58-05:00"
+      },
+      {
+        "titulo": "Plan Marshall para el Chocó destina $1 billón a megaproyectos y a una terminal aérea",
+        "url": "https://www.valoraanalitik.com/plan-marshall-para-el-choco-estos-son-los-megaproyectos-y-el-aeropuerto-que-recibiran-1-billon/",
+        "resumen": "El Plan Marshall para el Chocó avanza con una bolsa de recursos que busca transformar la conectividad del departamento tras el terremoto de agosto.",
+        "autor": "",
+        "subseccion": "Infraestructura en colombia proyectos y claves para 2025",
+        "publicacion": "",
+        "titulo_fuente": "Plan Marshall para el Chocó: estos son los megaproyectos y el aeropuerto que recibirán $1 billón",
+        "capturado": "2026-09-27T17:29:58-05:00"
+      },
       {
         "titulo": "Encuentro Trump-Xi: los acuerdos, los temas pendientes y el futuro de las relaciones bilaterales",
         "url": "https://www.valoraanalitik.com/reunion-entre-trump-y-xi-que-acordaron-que-quedo-pendiente-y-que-viene-ahora-para-china-y-estados-unidos/",
@@ -563,49 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Impuesto predial en propiedad horizontal: Consejo de Estado aclara quién debe pagarlo",
         "capturado": "2026-09-24T18:20:29-05:00"
-      },
-      {
-        "titulo": "BBVA indica que construcción e inversión encabezarán la expansión de Colombia hacia 2028",
-        "url": "https://www.valoraanalitik.com/inversion-y-construccion-lideraran-el-crecimiento-de-colombia-hacia-2028-segun-el-bbva/",
-        "resumen": "El centro de estudios elevó su previsión para 2027 por cuenta del dinamismo del sector privado mientras se ve un menor impulso del Gobierno.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Inversión y construcción liderarán el crecimiento de Colombia hacia 2028, según el BBVA",
-        "capturado": "2026-09-24T18:20:29-05:00"
-      },
-      {
-        "titulo": "Es oficial que Joaquín Gutiérrez asume la presidencia de Ecopetrol",
-        "url": "https://www.valoraanalitik.com/joaquin-gutierrez-es-el-nuevo-presidente-de-ecopetrol/",
-        "resumen": "Pese a que no tiene trayectoria en petróleo y gas, es cercano al Gobierno y tiene experiencia en el sector corporativo.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Confirmado: Joaquín Gutiérrez es el nuevo presidente de Ecopetrol",
-        "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "El fuerte clima caluroso elevará los precios de la luz, advierte el gerente de la Empresa de Energía de Pereira",
-        "url": "https://www.valoraanalitik.com/la-ola-de-calor-en-colombia-va-a-llevar-a-un-alza-en-las-tarifas-de-energia-gerente-de-la-empresa-de-energia-de-pereira/",
-        "resumen": "Yulieth Porras, gerente de la Empresa de Energía de Pereira, habló sobre los retos en el sistema energético y el estado del sistema en Pereira.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | La ola de calor en Colombia va a llevar a un alza en las tarifas de energía: gerente de la Empresa de Energía de Pereira",
-        "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense sigue al alza en el país y cerró por encima de los $3.350",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-no-para-de-subir-termino-al-alza-y-supero-los-3-350/",
-        "resumen": "La tasa de cambio abrió al alza en $3.280 y escaló de forma acelerada hasta perforar la barrera de los $3.350 y marcar un techo de $3.361.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia no para de subir: Terminó al alza y superó los $3.350",
-        "capturado": "2026-09-24T15:19:31-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "De la Espriella confirma US$1.000 millones de PepsiCo para Colombia y detalla su destinación",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-confirma-us1-000-millones-de-pepsico-para-colombia-asi-se-movera-la-inversion/",
+        "resumen": "PepsiCo anunció nuevos planes para Colombia y el Gobierno destacó el impacto que tendría la inversión en producción, empleo y proveedores.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella confirma US$1.000 millones de PepsiCo para Colombia: así se moverá la inversión",
+        "capturado": "2026-09-27T17:29:58-05:00"
+      },
+      {
+        "titulo": "IA: la disputa que impulsa capitales y hoy genera nuevos interrogantes en las bolsas",
+        "url": "https://www.valoraanalitik.com/que-pasa-con-las-inversiones-en-ia-cuando-aumentan-las-alertas-sobre-sus-riesgos/",
+        "resumen": "La tecnología concentra cada vez más capital y uso empresarial, al tiempo que crece el debate sobre sus riesgos y los recursos que demanda.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "IA: la carrera que mueve inversiones y ahora enfrenta nuevas dudas entre los mercados",
+        "capturado": "2026-09-27T17:29:58-05:00"
+      },
       {
         "titulo": "Entrevista: Colombia es el segundo mercado clave de Buchanan’s y Diageo trae su whisky de piña",
         "url": "https://www.valoraanalitik.com/colombia-mercado-clave-buchanans-pinnaple/",
@@ -1184,26 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Adriana Cárdenas dejará la gerencia general de Visa Colombia en diciembre",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Entrevista | Patria Investments alista parque solar en Santander y ve opciones en baterías",
-        "url": "https://www.valoraanalitik.com/entrevista-patria-investments-avanza-en-nuevo-parque-solar-en-santander-tras-venta-de-puerta-de-oro-ve-oportunidades-en-negocio-de-baterias/",
-        "resumen": "Pablo Cano, Managing Director de Patria Investments, expresó que el mercado eléctrico colombiano necesita ajustes regulatorios en baterías.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Patria Investments avanza en nuevo parque solar en Santander tras venta de Puerta de Oro; ve oportunidades en negocio de baterías",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Federación de Cafeteros incrementa tarifa del café pasilla para resguardar entradas por El Niño",
-        "url": "https://www.valoraanalitik.com/federacion-de-cafeteros-sube-el-precio-del-cafe-pasilla-para-proteger-ingresos-por-el-nino/",
-        "resumen": "La pasilla de café tiene una participación importante en el mercado interno.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Federación de Cafeteros sube el precio del café pasilla para proteger ingresos por El Niño",
         "capturado": "2026-09-22T16:06:49-05:00"
       }
     ]
