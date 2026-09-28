@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-27T20:08:13-05:00",
+  "actualizado": "2026-09-28T02:28:08-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Alerta | De la Espriella ordenó al MinHacienda entablar diálogos con el FMI para hallar salida al bache fiscal",
+        "url": "https://www.valoraanalitik.com/atencion-de-la-espriella-ordeno-a-minhacienda-iniciar-conversaciones-con-el-fmi-para-buscar-salida-a-crisis-fiscal/",
+        "resumen": "El presidente dijo que esa negociación buscará buscar una salida a la crisis fiscal que, asegura, heredó el Gobierno Petro.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Atención | De la Espriella ordenó a MinHacienda iniciar conversaciones con el FMI para buscar salida a crisis fiscal",
+        "capturado": "2026-09-28T02:28:08-05:00"
+      },
       {
         "titulo": "De la Espriella anuncia inversión de US$1.000 millones de PepsiCo en Colombia y detalla su destino",
         "url": "https://www.valoraanalitik.com/de-la-espriella-confirma-us1-000-millones-de-pepsico-para-colombia-asi-se-movera-la-inversion/",
@@ -592,16 +602,6 @@
         "subseccion": "Bolsa de valores",
         "publicacion": "",
         "titulo_fuente": "Titularizadora Colombiana alcanza 90 emisiones en el mercado colombiano: titularizó cartera de Finanzauto",
-        "capturado": "2026-09-24T18:20:29-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado define al responsable del pago del impuesto predial en propiedad horizontal",
-        "url": "https://www.valoraanalitik.com/impuesto-predial-en-propiedad-horizontal-consejo-de-estado-aclara-quien-debe-pagarlo/",
-        "resumen": "El Consejo de Estado aclaró cómo se distribuye el impuesto predial en una propiedad horizontal y qué ocurre con los bienes comunes",
-        "autor": "",
-        "subseccion": "Impuesto predial",
-        "publicacion": "",
-        "titulo_fuente": "Impuesto predial en propiedad horizontal: Consejo de Estado aclara quién debe pagarlo",
         "capturado": "2026-09-24T18:20:29-05:00"
       }
     ],
