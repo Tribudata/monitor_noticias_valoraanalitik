@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-27T17:29:58-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-27T20:08:13-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
       {
@@ -607,6 +607,16 @@
     ],
     "Empresariales": [
       {
+        "titulo": "El esquema de recorridos virtuales que llega a más de 24.000 trabajadores de la salud en la región",
+        "url": "https://www.valoraanalitik.com/el-modelo-de-visitas-digitales-que-impacta-a-mas-24-000-profesionales-en-america-latina/",
+        "resumen": "El programa, denominado EuroJuntos, nació en Brasil en 2021 como un proyecto piloto y desde 2022 inició su expansión regional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "El modelo de visitas digitales que impacta a más 24.000 profesionales de la salud en América Latina",
+        "capturado": "2026-09-27T20:08:13-05:00"
+      },
+      {
         "titulo": "De la Espriella confirma US$1.000 millones de PepsiCo para Colombia y detalla su destinación",
         "url": "https://www.valoraanalitik.com/de-la-espriella-confirma-us1-000-millones-de-pepsico-para-colombia-asi-se-movera-la-inversion/",
         "resumen": "PepsiCo anunció nuevos planes para Colombia y el Gobierno destacó el impacto que tendría la inversión en producción, empleo y proveedores.",
@@ -1194,16 +1204,6 @@
         "subseccion": "Grupo aval",
         "publicacion": "",
         "titulo_fuente": "Entrevista | Banco de Occidente: “el reto es que la incertidumbre no se convierta en parálisis para las empresas”",
-        "capturado": "2026-09-22T16:06:49-05:00"
-      },
-      {
-        "titulo": "Adriana Cárdenas saldrá de la gerencia general de Visa Colombia en diciembre",
-        "url": "https://www.valoraanalitik.com/adriana-cardenas-dejara-la-gerencia-general-de-visa-colombia-en-diciembre/",
-        "resumen": "Luego de cinco años, Cárdenas se despide de la dirección de Visa desde el Payments Day 2026.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Adriana Cárdenas dejará la gerencia general de Visa Colombia en diciembre",
         "capturado": "2026-09-22T16:06:49-05:00"
       }
     ]
