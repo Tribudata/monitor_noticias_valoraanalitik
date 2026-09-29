@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-29T03:13:04-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-29T10:01:18-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Exitosa planea destinar US$850 millones al sector inmobiliario y expandirse en vivienda",
+        "url": "https://www.valoraanalitik.com/grupo-exito-planea-invertir-inmobiliario/",
+        "resumen": "La mayor inversión estará en Colombia con US$520 millones. También se buscará elevar a 20 % la participación de las ventas digitales.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Grupo Éxito planea invertir US$850 millones en el sector inmobiliario; crecerá en vivienda",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia inicia estable por poder global del dólar y conflicto EE UU Irán",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-estable-ante-fortaleza-global-de-la-divisa-y-tension-entre-ee-uu-e-iran/",
+        "resumen": "Los mercados siguen incorporando los efectos de la tensión geopolítica entre EE. UU. e Irán y las expectativas sobre inflación y tasas de interés en EE. UU.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre estable ante fortaleza global de la divisa y tensión entre EE. UU. e Irán",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "De esta manera subirán predial e ICA en Bogotá tras aprobarse tributaria de Galán con auxilios",
+        "url": "https://www.valoraanalitik.com/asi-aumentaran-el-predial-y-el-ica-en-bogota-con-la-reforma-tributaria-de-galan-que-se-aprobo-habra-alivios-para-morosos/",
+        "resumen": "La reforma tributaria busca aumentar el recaudo del Distrito y financiar el alumbrado público.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Así aumentarán el predial y el ICA en Bogotá con la reforma tributaria de Galán que se aprobó; habrá alivios para morosos",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "Juan Sebastián Uribe es nombrado nuevo country manager de inDrive en Colombia",
+        "url": "https://www.valoraanalitik.com/juan-sebastian-uribe-asume-como-nuevo-country-manager-de-indrive-en-colombia/",
+        "resumen": "El ejecutivo cuenta con más de 13 años de experiencia en e-commerce y sectores como automotriz y aviación.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Juan Sebastián Uribe asume como nuevo country manager de inDrive en Colombia",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "Títulos de Nu registran fuertes descensos en el Mercado Global Colombiano",
+        "url": "https://www.valoraanalitik.com/acciones-de-nu-caen-con-fuerza-en-mercado-global-colombiano/",
+        "resumen": "El Mercado Global Colombiano registra que las acciones de Nubank bajaron 6,93 %",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Acciones de Nu caen con fuerza en Mercado Global Colombiano",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "Premercado | Mercados dispares por alza de bonos, retroceso del crudo y tecnológicas; esperan datos europeos",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-mixtas-por-repunte-de-bonos-caida-del-petroleo-y-tecnologicas-mercado-espera-datos-de-la-eurozona/",
+        "resumen": "El mercado ha entrado en un frustrante punto muerto tras el torrente de dura retórica entre EE. UU. e Irán en torno al estrecho de Ormuz.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas mixtas por repunte de bonos, caída del petróleo y tecnológicas; mercado espera datos de la eurozona",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "Desde esta fecha tendría que empezar la discusión del salario mínimo en Colombia para 2027",
+        "url": "https://www.valoraanalitik.com/desde-esta-fecha-deberia-iniciar-la-negociacion-del-salario-minimo-en-colombia-para-2027/",
+        "resumen": "Desde esta fecha debería iniciar la negociación del salario mínimo en Colombia para 2027",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Desde esta fecha debería iniciar la negociación del salario mínimo en Colombia para 2027",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "Entrevista | Ciudad Limpia procesa hasta 800 toneladas mensuales para sustituir carbón y gas",
+        "url": "https://www.valoraanalitik.com/empresa-de-gestion-de-residuos-ciudad-limpia-procesa-hasta-800-toneladas-mensuales-para-reemplazar-carbon-y-gas/",
+        "resumen": "El gerente regional de Ciudad Limpia, Manuel Guillermo Vallecilla, habló sobre los retos y procesos que enfrenta la compañía en la gestión de residuos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Empresa de gestión de residuos Ciudad Limpia procesa hasta 800 toneladas mensuales para reemplazar carbón y gas",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "A la inflación colombiana se aúna este peligro: Para 2027 se daría una nueva subida",
+        "url": "https://www.valoraanalitik.com/a-la-inflacion-en-colombia-se-le-suma-este-riesgo-para-2027-habria-nuevo-aumento/",
+        "resumen": "La inflación en Colombia depende también de lo que se defina sobre el aumento del salario mínimo, entre otros.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "A la inflación en Colombia se le suma este riesgo: Para 2027 habría nuevo aumento",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
       {
         "titulo": "Comitiva nacional irá a Washington la semana próxima para gestionar recursos del FMI",
         "url": "https://www.valoraanalitik.com/delegacion-colombiana-viajara-a-washington-la-proxima-semana-en-busqueda-de-financiamiento-del-fmi/",
@@ -513,99 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "José Camilo Manzur renunció a la presidencia de Asocodis",
         "capturado": "2026-09-25T16:22:08-05:00"
-      },
-      {
-        "titulo": "Entrevista | El director del Ideam advierte que el fenómeno de El Niño en Colombia iría hasta agosto de 2027",
-        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-en-colombia-podria-extenderse-incluso-hasta-agosto-de-2027-director-del-ideam/",
-        "resumen": "El director de la entidad también reveló que no ha habido aumentos presupuestales y que gestionan $121.000 millones al año.",
-        "autor": "",
-        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Fenómeno de El Niño en Colombia podría extenderse incluso hasta agosto de 2027: director del Ideam",
-        "capturado": "2026-09-25T16:22:08-05:00"
-      },
-      {
-        "titulo": "Multas de tránsito en Colombia costaron cerca de $1 billón: el cobro subió 43 % en 2025",
-        "url": "https://www.valoraanalitik.com/colombianos-pagaron-casi-1-billon-en-multas-de-transito-el-recaudo-crecio-43-en-2025/",
-        "resumen": "SIMIT reportó recaudo nacional de $962.232 millones en 2025 y presentó balance de su gestión financiera.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Colombianos pagaron casi $1 billón en multas de tránsito: el recaudo creció 43 % en 2025",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Inicia corte transitorio de gas industrial en Colombia por daño en planta de regasificación",
-        "url": "https://www.valoraanalitik.com/arranca-racionamiento-temporal-de-gas-para-industrias-en-colombia-por-falla-en-terminal-de-regasifacion/",
-        "resumen": "Esta medida se extenderá hasta que se declaren superadas las causas que originaron la falla.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Arranca racionamiento temporal de gas para industrias en Colombia por falla en terminal de regasificación",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Colombia habilita un nuevo método para fondear grandes obras: sumará casi US$40.000 millones",
-        "url": "https://www.valoraanalitik.com/colombia-abre-una-nueva-via-para-financiar-grandes-proyectos-tendra-acceso-a-casi-us40-000-millones/",
-        "resumen": "Colombia dio un nuevo paso que podría abrirle la puerta a recursos para financiar proyectos estratégicos de largo plazo. Estos son los detalles.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Colombia abre una nueva vía para financiar grandes proyectos: tendrá acceso a casi US$40.000 millones",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "BNP Paribas estima inflación de 6 % y tipos de 12,50 % en Colombia para finalizar 2026",
-        "url": "https://www.valoraanalitik.com/bnp-paribas-preve-inflacion-de-6-y-tasas-de-1250-para-colombia-al-cierre-de-2026/",
-        "resumen": "El banco anticipa un enfriamiento paulatino del crecimiento económico y presiones en los precios de los alimentos que luego se moderarían.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "BNP Paribas prevé inflación de 6 % y tasas de 12,50 % para Colombia al cierre de 2026",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Cúpula directiva que estará con el CEO de Ecopetrol será clave para los retos de la firma: BTG Pactual",
-        "url": "https://www.valoraanalitik.com/equipo-ceo-ecopetrol-desafios-btg-pactual/",
-        "resumen": "Para la firma, la atención estará en los nombramientos ejecutivos de Gutiérrez para convertir la agenda de recuperación en acciones concretas.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Equipo ejecutivo que acompañará al CEO de Ecopetrol será fundamental para los desafíos de la petrolera: BTG Pactual",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Olibia presentó herramienta de inteligencia artificial para buscar información energética",
-        "url": "https://www.valoraanalitik.com/olibia-lanzo-plataforma-con-inteligencia-artificial-para-consultar-datos-del-sector-energetico/",
-        "resumen": "La compañía presentó una herramienta para acceder a datos sobre embalses, precios de energía, generación y otros indicadores.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Olibia lanzó plataforma con inteligencia artificial para consultar datos del sector energético",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Fedemunicipios descarta devolución de recursos a afectados por fotomultas erradas",
-        "url": "https://www.valoraanalitik.com/fedemunicipios-niega-que-se-vaya-a-devolver-dinero-a-todos-los-colombianos-que-recibieron-fotomultas-por-error/",
-        "resumen": "Continúa el debate y la revisión jurídica de las fotomultas en Colombia.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Fedemunicipios niega que se vaya a devolver dinero a todos los colombianos que recibieron fotomultas por error",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "SPEC ratifica labores de mantenimiento en planta de regasificación cartagenera",
-        "url": "https://www.valoraanalitik.com/spec-confirma-trabajos-correctivos-en-terminal-de-regasificacion-de-cartagena/",
-        "resumen": "La organización señaló que continuará con una capacidad de 400 millones de pies cúbicos diarios de gas hasta el 1 de octubre.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "SPEC confirma trabajos correctivos en terminal de regasificación de Cartagena",
-        "capturado": "2026-09-25T12:53:21-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Primicia | Grupo Éxito invertirá US$850 millones en finca raíz y ampliará su presencia en vivienda",
+        "url": "https://www.valoraanalitik.com/grupo-exito-planea-invertir-inmobiliario/",
+        "resumen": "La mayor inversión estará en Colombia con US$520 millones. También se buscará elevar a 20 % la participación de las ventas digitales.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Grupo Éxito planea invertir US$850 millones en el sector inmobiliario; crecerá en vivienda",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "Piscilago de Colsubsidio logra el nivel Oro dentro del reconocimiento Basura Cero",
+        "url": "https://www.valoraanalitik.com/piscilago-de-colsubsidio-alcanza-la-categoria-oro-en-la-certificacion-basura-cero/",
+        "resumen": "Colsubsidio lleva su estrategia de sostenibilidad a acciones concretas para gestionar los recursos y contribuir a la conservación de los territorios.",
+        "autor": "",
+        "subseccion": "Valorasostenible",
+        "publicacion": "",
+        "titulo_fuente": "Piscilago de Colsubsidio alcanza la categoría Oro en la certificación Basura Cero",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "Vélez inaugura en Panamá su tienda insignia más grande regional y apunta a Estados Unidos",
+        "url": "https://www.valoraanalitik.com/velez-abre-en-panama-su-flagship-mas-grande-de-latinoamerica-proyecta-a-estados-unidos-como-proximo-mercado/",
+        "resumen": "En el proceso de expansión de Vélez, EE. UU. aparece como uno de los mercados con mayor relevancia para la siguiente etapa de internacionalización.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Vélez abre en Panamá su flagship más grande de Latinoamérica: proyecta a Estados Unidos como próximo mercado",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "Juan Sebastián Uribe se convierte en el nuevo director para Colombia de inDrive",
+        "url": "https://www.valoraanalitik.com/juan-sebastian-uribe-asume-como-nuevo-country-manager-de-indrive-en-colombia/",
+        "resumen": "El ejecutivo cuenta con más de 13 años de experiencia en e-commerce y sectores como automotriz y aviación.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Juan Sebastián Uribe asume como nuevo country manager de inDrive en Colombia",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
+      {
+        "titulo": "Entrevista | Ciudad Limpia trata hasta 800 toneladas mensuales de desechos para sustituir gas y carbón",
+        "url": "https://www.valoraanalitik.com/empresa-de-gestion-de-residuos-ciudad-limpia-procesa-hasta-800-toneladas-mensuales-para-reemplazar-carbon-y-gas/",
+        "resumen": "El gerente regional de Ciudad Limpia, Manuel Guillermo Vallecilla, habló sobre los retos y procesos que enfrenta la compañía en la gestión de residuos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Empresa de gestión de residuos Ciudad Limpia procesa hasta 800 toneladas mensuales para reemplazar carbón y gas",
+        "capturado": "2026-09-29T10:01:18-05:00"
+      },
       {
         "titulo": "Estos campos aportaron la mayor cantidad de gas a Colombia durante agosto de 2026",
         "url": "https://www.valoraanalitik.com/estos-fueron-los-campos-que-le-suministraron-mas-gas-a-colombia-en-agosto-de-2026/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Iberia se prepara para su siglo de vida con inversiones de 6.000 millones de euros y expansión en América Latina",
         "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "Concejo distrital define hoy la tributaria de Galán: estos serían los cambios en gravámenes y estímulos",
-        "url": "https://www.valoraanalitik.com/concejo-de-bogota-vota-hoy-la-reforma-tributaria-de-galan-esto-es-lo-que-cambiaria-en-impuestos-e-incentivos/",
-        "resumen": "Galán salió a defender el alcance social de la reforma y a despejar la idea de que se trata de un alza generalizada de impuestos.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Concejo de Bogotá vota hoy la reforma tributaria de Galán: esto es lo que cambiaría en impuestos e incentivos",
-        "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "Entrevista | KLC: la administración de personal y ESG como mecanismos para salvaguardar el valor corporativo",
-        "url": "https://www.valoraanalitik.com/entrevista-klc-la-gestion-laboral-y-esg-como-nuevas-herramientas-para-proteger-el-valor-de-las-empresas/",
-        "resumen": "John Karakatsianis, socio fundador, habló con Valora Analitik por qué las empresas necesitan cambiar la manera de gestionar estos riesgos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | KLC: la gestión laboral y ESG como nuevas herramientas para proteger el valor de las empresas",
-        "capturado": "2026-09-23T09:22:05-05:00"
-      },
-      {
-        "titulo": "Opinión | ¿Madurez? ¿O todavía en la adolescencia? La quinta era de las Fintechs",
-        "url": "https://www.valoraanalitik.com/opinion-adultez-o-aun-en-la-adolescencia-la-quinta-era-de-las-fintechs/",
-        "resumen": "Para las fintechs, crecer con rentabilidad, escala, disciplina operativa y madurez regulatoria se convirtió en la verdadera medida del éxito.",
-        "autor": "",
-        "subseccion": "Especiales",
-        "publicacion": "",
-        "titulo_fuente": "Opinión | ¿Adultez? ¿O aún en la adolescencia? La quinta era de las Fintechs",
-        "capturado": "2026-09-23T09:22:05-05:00"
-      },
-      {
-        "titulo": "Pei adquiere activos de Terranum para expandir uno de los principales portafolios de bienes raíces",
-        "url": "https://www.valoraanalitik.com/pei-avanza-en-compra-de-activos-de-terranum-asi-crecera-uno-de-los-grandes-portafolios-inmobiliarios-del-pais/",
-        "resumen": "Pei dio un nuevo paso en una operación que incorporará activos corporativos y logísticos y modificará el tamaño de su portafolio inmobiliario.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pei avanza en compra de activos de Terranum: así crecerá uno de los grandes portafolios inmobiliarios del país",
-        "capturado": "2026-09-22T23:16:08-05:00"
-      },
-      {
-        "titulo": "Felipe Bayón, CEO de GeoPark, afirma que la empresa está preparada para hacer fracking en Colombia",
-        "url": "https://www.valoraanalitik.com/geopark-estaria-listo-para-desarrollar-proyectos-de-fracking-en-colombia/",
-        "resumen": "El directivo destacó el potencial de los yacimientos no convencionales y señaló que el país necesita recuperar conocimiento y capacidades para aprovecharlo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark está listo para desarrollar proyectos de ‘fracking’ en Colombia: Felipe Bayón, CEO de la compañía",
-        "capturado": "2026-09-22T23:16:08-05:00"
       }
     ]
   }
