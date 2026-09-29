@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-29T10:01:18-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-09-29T15:10:08-05:00",
+  "nuevos_en_esta_corrida": 21,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Producción del sector gasífero nacional arrojó saldo en contra, bajaron las ventas y repuntó la compra externa",
+        "url": "https://www.valoraanalitik.com/industria-del-gas-en-colombia-reporto-cifras-rojas-en-produccion-comercializacion-cayo-y-la-importacion-se-disparo/",
+        "resumen": "Campetrol advirtió que a esto se suma la intensa ola de calor que presionaría la demanda de gas para la generación eléctrica.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Industria del gas en Colombia reportó cifras rojas en producción; comercialización cayó y la importación se disparó",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Familias tienen aviso por gasto de luz en el recibo: así operará el recargo",
+        "url": "https://www.valoraanalitik.com/hogares-ya-reciben-advertencia-por-consumo-en-la-factura-de-energia-asi-funcionara-el-cobro-adicional/",
+        "resumen": "La factura de energía ya muestra una advertencia sobre el consumo y el nuevo esquema de ahorro. Así funcionará el cobro que podría aparecer después.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Hogares ya reciben advertencia por consumo en la factura de energía: así funcionará el cobro adicional",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Luego de falla en un vagón, la Planta Regasificadora de Cartagena retomó su rendimiento total",
+        "url": "https://www.valoraanalitik.com/tras-el-incidente-en-uno-de-sus-trenes-la-regasificadora-de-cartagena-volvio-a-operar-a-plena-capacidad/",
+        "resumen": "Esta terminal expresó que está operando nuevamente con 475 millones de pies cúbicos diarios y que resolvió el inconveniente antes del plazo estimado.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Tras el incidente en uno de sus trenes, la Regasificadora de Cartagena volvió a operar a plena capacidad",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Extracción de crudo en el país bajó otra vez en agosto: Meta aglutinó gran parte de la labor",
+        "url": "https://www.valoraanalitik.com/produccion-de-petroleo-en-colombia-cayo-nuevamente-en-agosto-meta-concentro-buena-parte-de-la-actividad/",
+        "resumen": "Ecopetrol, SierraCol Energy, Frontera Energy, GeoPark y Parex fueron las compañías con la mayor representatividad en esta actividad.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Producción petrolera en Colombia cayó nuevamente en agosto: Meta concentró buena parte de la actividad",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Ministerio de Transporte expide norma para proyectos portuarios esenciales y menciona megainversiones",
+        "url": "https://www.valoraanalitik.com/mintransporte-anuncia-decreto-para-obras-clave-en-puertos-de-colombia-habla-de-nuevos-megaproyectos/",
+        "resumen": "MinTransporte anuncia decreto para acelerar inversiones en puertos de Colombia y otras medidas para mejorar la navegabilidad.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "MinTransporte anuncia decreto para obras clave en puertos de Colombia; habla de nuevos megaproyectos",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Puntored planea integrar servicios financieros en 700 locales de OXXO para el año 2027",
+        "url": "https://www.valoraanalitik.com/puntored-servicios-financieros-oxxo-2027/",
+        "resumen": "La compañía busca superar 2 millones de transacciones el próximo año, tras acumular 1,14 millones de operaciones por $156.300 millones desde enero de 2025.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Puntored proyecta llevar servicios financieros a 700 tiendas OXXO en 2027",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia baja y termina en $3.330 debido a menor riesgo país y toma de ganancias",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-y-cierra-en-3-330-por-alivio-en-riesgo-pais-y-toma-de-utilidades/",
+        "resumen": "La divisa abrió en el precio máximo de la sesión en $3.365 y retrocedió paulatinamente hasta marcar un piso intradiario de $3.326,20.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia retrocede y cierra en $3.330 por alivio en riesgo país y toma de utilidades",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Davivienda estima un alza del PIB de 2,3 % para Colombia en 2027 con retos fiscales y de inversión",
+        "url": "https://www.valoraanalitik.com/davivienda-proyecta-un-crecimiento-del-pib-de-23-para-colombia-en-2027-en-medio-de-desafios-fiscales-y-de-inversion/",
+        "resumen": "Un análisis de Visión Davivienda advierte que el país enfrenta tres desbalances estructurales en finanzas públicas, inflación y cuenta externa.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Davivienda proyecta un crecimiento del PIB de 2,3 % para Colombia en 2027 en medio de desafíos fiscales y de inversión",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Carlos José González asume la presidencia de Asoportuaria y sustituye a Lucas Ariza, hoy en Indumil",
+        "url": "https://www.valoraanalitik.com/carlos-jose-gonzalez-es-el-nuevo-presidente-de-asoportuaria-reemplaza-a-lucas-ariza-quien-ahora-dirige-indumil/",
+        "resumen": "Así se mueve la dirección de Asoportuaria e Indumil con nuevos nombres para sus presidencias.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Carlos José González es el nuevo presidente de Asoportuaria: reemplaza a Lucas Ariza, quien ahora dirige Indumil",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Impuesto predial: conozca la forma de identificar cobros excesivos",
+        "url": "https://www.valoraanalitik.com/impuesto-predial-asi-puede-saber-si-le-cobran-de-mas/",
+        "resumen": "El aumento del impuesto predial no tiene un único tope y depende de la razón del cobro. Un experto explica qué revisar y cómo reclamar.",
+        "autor": "",
+        "subseccion": "Impuesto predial",
+        "publicacion": "",
+        "titulo_fuente": "Impuesto predial: así puede saber si le están cobrando de más",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Alianza entre Claro, Valora Analitik y la Alcaldía de Medellín dota sala de tecnología en Hogares San José",
+        "url": "https://www.valoraanalitik.com/claro-valora-analitik-y-la-alcaldia-de-medellin-se-unen-para-entregar-nueva-sala-de-tecnologia-en-hogares-san-jose/",
+        "resumen": "Se estima que esta nueva sala impactará positivamente a 175 estudiantes de bachillerato y al personal docente.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Claro, Valora Analitik y la Alcaldía de Medellín se unen para entregar nueva sala de tecnología en Hogares San José",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Nuevos proyectos de Cusezar en Bogotá: edificará 639 viviendas en el sector de La Felicidad",
+        "url": "https://www.valoraanalitik.com/cusezar-construira-639-viviendas-en-bogota-asi-seran-sus-nuevos-proyectos-en-la-felicidad/",
+        "resumen": "Para el primer trimestre de 2027 está previsto el inicio de trabajos destinados a fortalecer la conectividad del sector.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Cusezar construirá 639 viviendas en Bogotá: así serán sus nuevos proyectos en La Felicidad",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
       {
         "titulo": "Exitosa planea destinar US$850 millones al sector inmobiliario y expandirse en vivienda",
         "url": "https://www.valoraanalitik.com/grupo-exito-planea-invertir-inmobiliario/",
@@ -483,129 +603,99 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | Tomás Restrepo de Cementos Argos habla sobre los prometedores planes que vienen en EE. UU., Colombia y otros mercados",
         "capturado": "2026-09-26T09:40:38-05:00"
-      },
-      {
-        "titulo": "Joaquín Gutiérrez asume presidencia de Ecopetrol para reactivarla con fracking y buscar récord histórico de valor",
-        "url": "https://www.valoraanalitik.com/joaquin-gutierrez-nuevo-presidente-ecopetrol-va-por-renacer-de-la-empresa/",
-        "resumen": "El directivo asumirá la presidencia el 28 de septiembre y tendrá entre sus desafíos aumentar reservas, impulsar el gas y avanzar en ‘fracking’.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Joaquín Gutiérrez, nuevo presidente de Ecopetrol, va por ‘renacer’ de la empresa: hará fracking y promete alcanzar valor más alto de la historia",
-        "capturado": "2026-09-26T00:20:22-05:00"
-      },
-      {
-        "titulo": "Gobierno de Venezuela dispone liberar sitios web y apps, mas organizaciones civiles señalan escasos desbloqueos",
-        "url": "https://www.valoraanalitik.com/venezuela-ordena-desbloquear-portales-y-plataformas/",
-        "resumen": "El Gobierno aseguró que la decisión busca garantizar el acceso a información y anunció el desbloqueo “inmediato” de estos sitios.",
-        "autor": "",
-        "subseccion": "Insidevenezuela",
-        "publicacion": "",
-        "titulo_fuente": "Venezuela ordena desbloquear portales y plataformas, pero ONG reportan que pocos fueron liberados",
-        "capturado": "2026-09-26T00:20:22-05:00"
-      },
-      {
-        "titulo": "Gobierno dio a conocer nuevo presidente de Ecopetrol y estrategia de seguridad 360° para Santa Marta",
-        "url": "https://www.valoraanalitik.com/gobierno-presento-nuevo-presidente-de-ecopetrol-y-estrategia-de-seguridad-360-para-santa-marta/",
-        "resumen": "El presidente Abelardo de La Espriella también anunció medidas para acelerar proyectos de infraestructura, vivienda, agua, salud y turismo.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno presentó nuevo presidente de Ecopetrol y estrategia de seguridad 360° para Santa Marta",
-        "capturado": "2026-09-25T19:04:24-05:00"
-      },
-      {
-        "titulo": "nuam incorpora alianza tecnológica para dinamizar la integración de las bolsas de Colombia, Chile y Perú",
-        "url": "https://www.valoraanalitik.com/nuam-alianza-vantek-acelerar-integracion/",
-        "resumen": "El acuerdo con Vantek busca facilitar la adaptación de bancos, corredoras y gestoras a la infraestructura regional que desarrolla nuam.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "nuam suma alianza tecnológica para acelerar la integración de los mercados de Colombia, Chile y Perú",
-        "capturado": "2026-09-25T19:04:24-05:00"
-      },
-      {
-        "titulo": "Ciertos empleados podrían cotizar más a seguridad social en pocos meses",
-        "url": "https://www.valoraanalitik.com/estos-trabajadores-podrian-pagar-mas-por-seguridad-social-en-solo-unos-meses/",
-        "resumen": "Una modificación en la forma de calcular los aportes a seguridad social podría tener un impacto directo en el bolsillo de algunos trabajadores.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Estos trabajadores podrían pagar más por seguridad social en solo unos meses",
-        "capturado": "2026-09-25T19:04:24-05:00"
-      },
-      {
-        "titulo": "Magnar capta US$8 millones para crecer en Colombia y más países latinoamericanos y prevé gran expansión",
-        "url": "https://www.valoraanalitik.com/magnar-levanta-us8-millones-expansion/",
-        "resumen": "La firma de inteligencia artificial para abogados ya opera en nueve países y cuenta con cerca de 30.000 usuarios en la región.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Magnar levanta US$8 millones para expandirse en Colombia y otros mercados de Latinoamérica; espera fuerte crecimiento",
-        "capturado": "2026-09-25T19:04:24-05:00"
-      },
-      {
-        "titulo": "Sharjah será el Invitado de Honor de la FILBo 2027 con la llegada de Emiratos Árabes Unidos",
-        "url": "https://www.valoraanalitik.com/emiratos-arabes-unidos-sharjah-filbo-2027/",
-        "resumen": "Es la primera vez que el emirato participa en la FilBo, que se hará del 20 de abril al 3 de mayo de 2027.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Emiratos Árabes Unidos llega a la FILBo: Sharjah será el Invitado de Honor en 2027",
-        "capturado": "2026-09-25T16:22:08-05:00"
-      },
-      {
-        "titulo": "Fechas y beneficiarios del subsidio que Bogotá comienza a pagar a miles de hogares",
-        "url": "https://www.valoraanalitik.com/bogota-inicia-pago-de-subsidio-para-miles-de-familias-estas-son-las-fechas-y-beneficiarios/",
-        "resumen": "Bogotá activó un nuevo ciclo de subsidios y ya hay fechas definidas para que los beneficiarios hagan efectivo el apoyo económico.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá inicia pago de subsidio para miles de familias: estas son las fechas y beneficiarios",
-        "capturado": "2026-09-25T16:22:08-05:00"
-      },
-      {
-        "titulo": "Alerta sobre el impuesto predial para estratos uno, dos y tres en la reforma tributaria bogotana",
-        "url": "https://www.valoraanalitik.com/reforma-tributaria-de-bogota-esta-es-la-alerta-por-el-impuesto-predial-para-estratos-1-2-y-3/",
-        "resumen": "Un concejal alertó que hogares de estratos 1, 2 y 3 podrían pagar más predial por un cambio que propone la reforma tributaria de Bogotá.",
-        "autor": "",
-        "subseccion": "Impuesto predial",
-        "publicacion": "",
-        "titulo_fuente": "Reforma tributaria de Bogotá: esta es la alerta por el impuesto predial para estratos 1, 2 y 3",
-        "capturado": "2026-09-25T16:22:08-05:00"
-      },
-      {
-        "titulo": "Por toma de ganancias, el dólar en Colombia detiene su ascenso y baja a $3.312",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-frena-su-racha-alcista-y-cae-hasta-3-312-por-toma-de-utilidades/",
-        "resumen": "La divisa abrió con impulso comprador y tocó un nuevo máximo intradiario de $3.377,80, antes de retroceder cerca de $100.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia frena su racha alcista y cae hasta $3.312 por toma de utilidades",
-        "capturado": "2026-09-25T16:22:08-05:00"
-      },
-      {
-        "titulo": "Primicia: Addi amplía su oferta a negocios del exterior para cancelar en Netflix, Amazon y Temu",
-        "url": "https://www.valoraanalitik.com/addi-pagos-comercios-netflix-temu-amazon/",
-        "resumen": "Esta nueva función de la plataforma de pagos “compre ahora, pague después” colombiana estará habilitada gracias a la alianza con dLocal.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Addi expande sus servicios a comercios internacionales y permitirá pagar Netflix, Amazon, Temu, entre otras",
-        "capturado": "2026-09-25T16:22:08-05:00"
-      },
-      {
-        "titulo": "José Camilo Manzur dejó su cargo como presidente de Asocodis",
-        "url": "https://www.valoraanalitik.com/jose-camilo-manzur-renuncio-a-la-presidencia-de-asocodis/",
-        "resumen": "El ejecutivo presentó su carta de renuncia ante la Junta Directiva, con el fin de emprender nuevos retos profesionales.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "José Camilo Manzur renunció a la presidencia de Asocodis",
-        "capturado": "2026-09-25T16:22:08-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Producción de gas en Colombia registró pérdidas, bajó la venta y trepó la compra del exterior",
+        "url": "https://www.valoraanalitik.com/industria-del-gas-en-colombia-reporto-cifras-rojas-en-produccion-comercializacion-cayo-y-la-importacion-se-disparo/",
+        "resumen": "Campetrol advirtió que a esto se suma la intensa ola de calor que presionaría la demanda de gas para la generación eléctrica.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Industria del gas en Colombia reportó cifras rojas en producción; comercialización cayó y la importación se disparó",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Regasificadora de Cartagena retomó operación total tras falla en uno de sus trenes",
+        "url": "https://www.valoraanalitik.com/tras-el-incidente-en-uno-de-sus-trenes-la-regasificadora-de-cartagena-volvio-a-operar-a-plena-capacidad/",
+        "resumen": "Esta terminal expresó que está operando nuevamente con 475 millones de pies cúbicos diarios y que resolvió el inconveniente antes del plazo estimado.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Tras el incidente en uno de sus trenes, la Regasificadora de Cartagena volvió a operar a plena capacidad",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Extracción de petróleo en Colombia descendió otra vez en agosto y Meta lideró la labor",
+        "url": "https://www.valoraanalitik.com/produccion-de-petroleo-en-colombia-cayo-nuevamente-en-agosto-meta-concentro-buena-parte-de-la-actividad/",
+        "resumen": "Ecopetrol, SierraCol Energy, Frontera Energy, GeoPark y Parex fueron las compañías con la mayor representatividad en esta actividad.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Producción petrolera en Colombia cayó nuevamente en agosto: Meta concentró buena parte de la actividad",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Barranquilla acoge por vez inicial en el país a jefes del Intercambio de Competitividad de la OEA",
+        "url": "https://www.valoraanalitik.com/barranquilla-recibe-por-primera-vez-en-colombia-a-lideres-del-intercambio-de-competitividad-de-las-americas-de-la-oea/",
+        "resumen": "El encuentro busca acercar a líderes de diferentes sectores para que puedan generar oportunidades de cooperación, inversión, negocios, etc.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Barranquilla recibe por primera vez en Colombia a líderes del Intercambio de Competitividad de las Américas de la OEA",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Carlos José González asume la presidencia de Asoportuaria en relevo de Lucas Ariza, hoy en Indumil",
+        "url": "https://www.valoraanalitik.com/carlos-jose-gonzalez-es-el-nuevo-presidente-de-asoportuaria-reemplaza-a-lucas-ariza-quien-ahora-dirige-indumil/",
+        "resumen": "Así se mueve la dirección de Asoportuaria e Indumil con nuevos nombres para sus presidencias.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Carlos José González es el nuevo presidente de Asoportuaria: reemplaza a Lucas Ariza, quien ahora dirige Indumil",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Nueva campaña en a2censo de la Bolsa de Colombia busca financiación para cancha de tejo y detalla inversión",
+        "url": "https://www.valoraanalitik.com/tejo-turmeque-bolsa-colombia-a2censo/",
+        "resumen": "Tejo Turmequé quiere recaudar hasta $2.700 millones mediante una emisión de acciones para financiar nuevas sedes y ampliar su negocio.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "La cancha de tejo que busca recursos a través de la Bolsa de Colombia con nueva campaña de a2censo; así puede invertir",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Alcaldía de Medellín, Claro y Valora Analitik se asocian para inaugurar sala tecnológica en Hogares San José",
+        "url": "https://www.valoraanalitik.com/claro-valora-analitik-y-la-alcaldia-de-medellin-se-unen-para-entregar-nueva-sala-de-tecnologia-en-hogares-san-jose/",
+        "resumen": "Se estima que esta nueva sala impactará positivamente a 175 estudiantes de bachillerato y al personal docente.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Claro, Valora Analitik y la Alcaldía de Medellín se unen para entregar nueva sala de tecnología en Hogares San José",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Nuevos proyectos de Cusezar en La Felicidad contemplan la edificación de 639 viviendas en Bogotá",
+        "url": "https://www.valoraanalitik.com/cusezar-construira-639-viviendas-en-bogota-asi-seran-sus-nuevos-proyectos-en-la-felicidad/",
+        "resumen": "Para el primer trimestre de 2027 está previsto el inicio de trabajos destinados a fortalecer la conectividad del sector.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Cusezar construirá 639 viviendas en Bogotá: así serán sus nuevos proyectos en La Felicidad",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
+      {
+        "titulo": "Diferencias entre las experiencias premium de Avianca llamadas Insignia y Business Class Américas",
+        "url": "https://www.valoraanalitik.com/insignia-y-business-class-americas-asi-se-diferencian-las-experiencias-premium-de-avianca/",
+        "resumen": "Las experiencias responden a necesidades distintas según la duración del vuelo, el tipo de aeronave y el mercado en el que opera Avianca.",
+        "autor": "",
+        "subseccion": "Aerolineas colombia",
+        "publicacion": "",
+        "titulo_fuente": "Insignia y Business Class Américas: así se diferencian las experiencias premium de Avianca",
+        "capturado": "2026-09-29T15:10:08-05:00"
+      },
       {
         "titulo": "Primicia | Grupo Éxito invertirá US$850 millones en finca raíz y ampliará su presencia en vivienda",
         "url": "https://www.valoraanalitik.com/grupo-exito-planea-invertir-inmobiliario/",
@@ -1115,96 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Seguridad y eficiencia: las aplicaciones que está tomando la IA en la industria de hidrocarburos",
         "capturado": "2026-09-24T00:58:48-05:00"
-      },
-      {
-        "titulo": "Expansión de IKEA en Colombia tras tres años: cobertura supera 300 municipios",
-        "url": "https://www.valoraanalitik.com/asi-ha-crecido-ikea-a-tres-anos-de-su-llegada-a-colombia-ya-llega-a-mas-de-300-municipios/",
-        "resumen": "IKEA cumple tres años en Colombia y revela cifras que muestran cómo ha evolucionado el interés de los consumidores por la marca.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Así ha crecido IKEA a tres años de su llegada a Colombia: ya llega a más de 300 municipios",
-        "capturado": "2026-09-24T00:58:48-05:00"
-      },
-      {
-        "titulo": "Isagen traspasa infraestructura de energía solar y de agua a una alianza entre EDF y BTG Pactual",
-        "url": "https://www.valoraanalitik.com/isagen-vende-activos-hidroelectricos-y-solares-a-grupo-empresarial-conformado-por-edf-y-btg-pactual-asi-es-la-operacion/",
-        "resumen": "Isagen acordó la venta de varios activos de generación a EDF y BTG Pactual, en una operación que hace parte de su estrategia de crecimiento.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Isagen vende activos hidroeléctricos y solares a grupo empresarial conformado por EDF y BTG Pactual: así es la operación",
-        "capturado": "2026-09-23T19:46:29-05:00"
-      },
-      {
-        "titulo": "Andesco advierte sobre racionamientos de luz programados y mayores cobros en el país por El Niño",
-        "url": "https://www.valoraanalitik.com/en-colombia-ya-se-presentan-cortes-de-energia-programados-y-ahora-alza-de-tarifas-por-el-nino-andesco/",
-        "resumen": "Camilo Sánchez, presidente de la organización, se refirió a los principales desafíos del sector energético y de los servicios públicos.",
-        "autor": "",
-        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
-        "publicacion": "",
-        "titulo_fuente": "En Colombia ya se presentan cortes de energía programados y ahora alza de tarifas por el Niño: Andesco",
-        "capturado": "2026-09-23T19:46:29-05:00"
-      },
-      {
-        "titulo": "A corte de septiembre, el sistema eléctrico colombiano recibió menos del 25 % de la energía prevista para 2026",
-        "url": "https://www.valoraanalitik.com/al-sistema-electrico-colombiano-ha-entrado-menos-de-25-de-la-energia-esperada-en-2026-a-corte-de-septiembre/",
-        "resumen": "Air-e es una de las compañías más expuestas a la volatilidad en los precios de la bolsa de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Al sistema eléctrico colombiano ha entrado menos de 25 % de la energía esperada en 2026 a corte de septiembre",
-        "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "Multinsa innova desde Barrancabermeja con inteligencia artificial y nanotecnología para los hidrocarburos",
-        "url": "https://www.valoraanalitik.com/multinsa-innova-en-hidrocarburos-con-nanotecnologia-e-inteligencia-artificial/",
-        "resumen": "La empresa desarrolla soluciones para optimizar procesos, reducir el manejo de agua y ampliar su portafolio de productos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Nanotecnología e inteligencia artificial para el sector hidrocarburos: así innova Multinsa desde Barrancabermeja",
-        "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "Uber Mujeres aterriza en Colombia: usuarias tendrán la opción de elegir viajes conducidos por mujeres",
-        "url": "https://www.valoraanalitik.com/uber-mujeres-colombia-bogota-medellin-cali/",
-        "resumen": "La opción está disponible inicialmente en Bogotá, Medellín y Cali.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Llega Uber Mujeres a Colombia: las usuarias podrán decidir hacer trayectos con conductoras",
-        "capturado": "2026-09-23T17:09:11-05:00"
-      },
-      {
-        "titulo": "Minsait presenta propuesta de redes inteligentes para disminuir apagones y pérdidas eléctricas en Colombia",
-        "url": "https://www.valoraanalitik.com/minsait-impulsa-redes-inteligentes-para-reducir-interrupciones-y-perdidas-de-energia-en-colombia-esta-es-su-propuesta/",
-        "resumen": "Y es que según cifras, la continuidad del servicio sigue siendo un reto para el país.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Minsait impulsa redes inteligentes para reducir interrupciones y pérdidas de energía en Colombia: esta es su propuesta",
-        "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "Demandas contra la nación por megaproyectos pasan de $100 billones y preparan nuevas APP viales",
-        "url": "https://www.valoraanalitik.com/litigios-contra-el-estado-colombiano-por-megaobras-superan-100-billones/",
-        "resumen": "El presidente de la ANI, Ricardo Ayerbe, confirmó que la entidad alista nuevos proyectos para las vías que han reversado al Invías.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Reclamaciones y litigios contra el Estado colombiano por megaobras ya superan los $100 billones; se vienen nuevas APP en vías clave",
-        "capturado": "2026-09-23T13:33:00-05:00"
-      },
-      {
-        "titulo": "Iberia alista su centenario con desembolsos de 6.000 millones de euros y crecimiento en Latinoamérica",
-        "url": "https://www.valoraanalitik.com/iberia-se-prepara-para-su-siglo-de-vida-con-inversiones-de-6-000-millones-de-euros-y-expansion-en-america-latina/",
-        "resumen": "Iberia ratificó en Madrid su plan de inversión hasta 2030, con expansión de flota, nuevas rutas y América Latina como uno de sus mercados clave.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Iberia se prepara para su siglo de vida con inversiones de 6.000 millones de euros y expansión en América Latina",
-        "capturado": "2026-09-23T13:33:00-05:00"
       }
     ]
   }
