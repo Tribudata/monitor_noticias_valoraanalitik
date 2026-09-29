@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-29T15:10:08-05:00",
-  "nuevos_en_esta_corrida": 21,
+  "actualizado": "2026-09-29T18:55:01-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El Gobierno declara insubsistente al exdirector y nombra a Karen Ayos como nueva directora de la UGPP",
+        "url": "https://www.valoraanalitik.com/karen-ayos-es-la-nueva-directora-de-la-ugpp-gobierno-declara-insubsistente-a-exdirector/",
+        "resumen": "Karen Patricia Ayos Vargas tiene una trayectoria de varios años dentro de la UGPP, especialmente en el área pensional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Karen Ayos es la nueva directora de la UGPP; Gobierno declara insubsistente a exdirector",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
+      {
+        "titulo": "En agosto de 2026 subió 1,8 % la actividad de taladros de gas y petróleo",
+        "url": "https://www.valoraanalitik.com/actividad-de-taladros-de-petroleo-y-gas-aumento-18-en-agosto-de-2026/",
+        "resumen": "Meta, Casanare y La Guajira concentraron los equipos en actividades de perforación.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Actividad de taladros de petróleo y gas aumentó 1,8 % en agosto de 2026",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
+      {
+        "titulo": "Así funciona el subsidio en la factura de energía y quiénes tienen acceso a él",
+        "url": "https://www.valoraanalitik.com/subsidio-en-la-factura-de-energia-asi-funciona-y-quienes-pueden-recibirlo/",
+        "resumen": "El subsidio de energía tiene un límite de consumo y cambia según el estrato y el clima de la zona. Esto debe saber para entender su factura.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Subsidio en la factura de energía: así funciona y quiénes pueden recibirlo",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
+      {
+        "titulo": "Los mercados se tranquilizan y se abre paso a un crédito más económico con el acercamiento de Colombia al FMI",
+        "url": "https://www.valoraanalitik.com/el-acercamiento-de-colombia-al-fmi-calma-a-los-mercados-y-abre-la-puerta-a-financiamiento-mas-barato/",
+        "resumen": "La aproximación con el organismo busca otorgar liquidez preventiva, abrir puertas a financiamiento internacional y aliviar la carga de intereses del país.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "El acercamiento de Colombia al FMI calma a los mercados y abre la puerta a financiamiento más barato",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
+      {
+        "titulo": "Para mejorar las vías, el Ejecutivo buscará apoderarse de parte del recaudo de la sobretasa a la gasolina y el impuesto vehicular",
+        "url": "https://www.valoraanalitik.com/gobierno-buscara-tomar-parte-del-recaudo-del-impuesto-vehicular-y-la-sobretasa-a-la-gasolina-para-mejorar-vias/",
+        "resumen": "Estas medidas hacen parte de un paquete que tiene el Gobierno en el radar para enfrentar la crisis fiscal por la que atraviesa el país.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno buscará tomar parte del recaudo del impuesto vehicular y la sobretasa a la gasolina para mejorar vías",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
+      {
+        "titulo": "Robots con forma humana arriban al país: su costo equivale al de un apartamento",
+        "url": "https://www.valoraanalitik.com/robots-humanoides-llegan-a-colombia-pueden-valer-lo-mismo-que-un-apartamento/",
+        "resumen": "Robots humanoides programables llegan al mercado colombiano con usos en educación, seguridad y comercio, y precios que varían según la solución.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Robots humanoides llegan a Colombia: pueden valer lo mismo que un apartamento",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
+      {
+        "titulo": "Corficolombiana estima que la inversión superará al gasto público en la expansión de la economía nacional",
+        "url": "https://www.valoraanalitik.com/corficolombiana-proyecciones-2027/",
+        "resumen": "Para el próximo año, se espera que el gasto público reduciría significativamente su ritmo de expansión",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Corficolombiana prevé que la inversión desplace al gasto público en el crecimiento económico de Colombia",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
       {
         "titulo": "Producción del sector gasífero nacional arrojó saldo en contra, bajaron las ventas y repuntó la compra externa",
         "url": "https://www.valoraanalitik.com/industria-del-gas-en-colombia-reporto-cifras-rojas-en-produccion-comercializacion-cayo-y-la-importacion-se-disparo/",
@@ -533,79 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella, Enel y AES llegan a importante acuerdo para evitar apagones por El Niño",
         "capturado": "2026-09-26T13:27:20-05:00"
-      },
-      {
-        "titulo": "Ganancias empresariales en Colombia bajan frente a bonos estatales; deuda supera la rentabilidad",
-        "url": "https://www.valoraanalitik.com/rentabilidad-empresas-colombianas-tes/",
-        "resumen": "Un análisis de Capitalia.ai muestra que el ROE empresarial se mantuvo cerca de 5 %, mientras los TES a 10 años llegó a 12,44 %.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Rentabilidad de las empresas colombianas es menor que un título del Gobierno; costo de deuda supera retornos",
-        "capturado": "2026-09-26T13:27:20-05:00"
-      },
-      {
-        "titulo": "Novedosa medida vial en la carrera Séptima para salir de Bogotá opera desde este fin de semana",
-        "url": "https://www.valoraanalitik.com/carrera-septima-estrena-cambio-clave-para-salir-de-bogota-asi-funciona-desde-este-fin-de-semana/",
-        "resumen": "La Carrera Séptima tendrá una modificación que cambiará la movilidad en uno de los principales accesos y salidas de Bogotá.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Carrera Séptima estrena cambio clave para salir de Bogotá: así funciona desde este fin de semana",
-        "capturado": "2026-09-26T13:27:20-05:00"
-      },
-      {
-        "titulo": "Credicorp Capital proyecta mayor inversión en Colombia, Chile y Perú con El Niño como amenaza central",
-        "url": "https://www.valoraanalitik.com/credicorp-capital-repunte-inversion-colombi/",
-        "resumen": "Daniel Velandia, economista jefe de Credicorp, calcula que el fenómeno climático le restaría dos puntos de crecimiento a Perú entre 2026 y 2027.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Credicorp Capital prevé un repunte de la inversión en Colombia, Chile y Perú, con El Niño como principal riesgo",
-        "capturado": "2026-09-26T13:27:20-05:00"
-      },
-      {
-        "titulo": "Mesadas pensionales de 2026: administración De la Espriella ratifica medidas sobre los giros decembrinos",
-        "url": "https://www.valoraanalitik.com/mesadas-pensionales-de-2026-gobierno-de-la-espriella-confirma-que-pasara-con-los-pagos-de-fin-de-ano/",
-        "resumen": "Los pensionados siguen con atención las alertas sobre los recursos para las mesadas de 2026 y el Gobierno ya definió una ruta para atender la situación.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Mesadas pensionales de 2026: Gobierno De la Espriella confirma qué pasará con los pagos de fin de año",
-        "capturado": "2026-09-26T13:27:20-05:00"
-      },
-      {
-        "titulo": "Falla de SPEC amenaza el gas industrial local y el gremio pide buscar más opciones de abastecimiento",
-        "url": "https://www.valoraanalitik.com/incidente-de-spec-pone-en-riesgo-el-gas-para-industriales-en-colombia-sector-insiste-en-diversificar-fuentes/",
-        "resumen": "Analistas y gremios coincidieron en que avanzar en puntos de regasificación y mejorar la eficiencia en el transporte son aspectos esenciales para el futuro.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Incidente de SPEC pone en riesgo el gas para industriales en Colombia; sector insiste en diversificar fuentes",
-        "capturado": "2026-09-26T09:40:38-05:00"
-      },
-      {
-        "titulo": "Alimentos más costosos en el país: sin perspectivas de reducción en sus valores actuales",
-        "url": "https://www.valoraanalitik.com/estos-son-los-alimentos-en-colombia-que-mas-se-pusieron-caros-no-hay-esperanza-de-que-bajen-de-precio/",
-        "resumen": "Algunos alimentos en Colombia siguen subiendo de precio y presionan el bolsillo de los hogares.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los alimentos en Colombia que más se pusieron caros: No hay esperanza de que bajen de precio",
-        "capturado": "2026-09-26T09:40:38-05:00"
-      },
-      {
-        "titulo": "Entrevista a Tomás Restrepo de Cementos Argos sobre sus futuros proyectos en EE UU, Colombia y más",
-        "url": "https://www.valoraanalitik.com/entrevista-tomas-restrepo-de-cementos-argos-habla-sobre-los-prometedores-planes-que-vienen-en-ee-uu-colombia-y-otros-mercados/",
-        "resumen": "Argos trabaja en una nueva plataforma de crecimiento en EE. UU., con la meta de construir negocio de entre US$200 millones y US$300 millones de Ebitda.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Tomás Restrepo de Cementos Argos habla sobre los prometedores planes que vienen en EE. UU., Colombia y otros mercados",
-        "capturado": "2026-09-26T09:40:38-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Gobierno nombra a Karen Ayos como directora de la UGPP y declara insubsistente al exdirector",
+        "url": "https://www.valoraanalitik.com/karen-ayos-es-la-nueva-directora-de-la-ugpp-gobierno-declara-insubsistente-a-exdirector/",
+        "resumen": "Karen Patricia Ayos Vargas tiene una trayectoria de varios años dentro de la UGPP, especialmente en el área pensional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Karen Ayos es la nueva directora de la UGPP; Gobierno declara insubsistente a exdirector",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
+      {
+        "titulo": "En agosto de 2026 subió 1,8 % la operación de taladros de gas y petróleo",
+        "url": "https://www.valoraanalitik.com/actividad-de-taladros-de-petroleo-y-gas-aumento-18-en-agosto-de-2026/",
+        "resumen": "Meta, Casanare y La Guajira concentraron los equipos en actividades de perforación.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Actividad de taladros de petróleo y gas aumentó 1,8 % en agosto de 2026",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
+      {
+        "titulo": "La iniciativa de Bancolombia para prevenir el impacto financiero del Fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/la-propuesta-de-bancolombia-para-anticipar-el-bolsillo-ante-el-fenomeno-de-el-nino/",
+        "resumen": "Bancolombia presenta iniciativa de educación y sensibilización sobre los efectos económicos y sociales del Fenómeno de El Niño.",
+        "autor": "",
+        "subseccion": "Especial petroleo gas mineria y renovables",
+        "publicacion": "",
+        "titulo_fuente": "La propuesta de Bancolombia para anticipar el bolsillo ante el Fenómeno de El Niño",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
+      {
+        "titulo": "Tecnoglass se vincula a Adopta un Hogar y donará la ventanería de las mil casas",
+        "url": "https://www.valoraanalitik.com/tecnoglass-se-suma-a-adopta-un-hogar-aportara-las-ventanas-para-las-1-000-viviendas/",
+        "resumen": "Tecnoglass aportará la totalidad de las ventanas requeridas por las 1.000 viviendas que Grupo Argos y Nicky Jam se comprometieron a construir.",
+        "autor": "",
+        "subseccion": "Adopta un hogar",
+        "publicacion": "",
+        "titulo_fuente": "Tecnoglass se suma a Adopta un Hogar: aportará las ventanas para las 1.000 viviendas",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
+      {
+        "titulo": "Llegan robots humanoides a Colombia con precios similares a los de un inmueble",
+        "url": "https://www.valoraanalitik.com/robots-humanoides-llegan-a-colombia-pueden-valer-lo-mismo-que-un-apartamento/",
+        "resumen": "Robots humanoides programables llegan al mercado colombiano con usos en educación, seguridad y comercio, y precios que varían según la solución.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Robots humanoides llegan a Colombia: pueden valer lo mismo que un apartamento",
+        "capturado": "2026-09-29T18:55:01-05:00"
+      },
       {
         "titulo": "Producción de gas en Colombia registró pérdidas, bajó la venta y trepó la compra del exterior",
         "url": "https://www.valoraanalitik.com/industria-del-gas-en-colombia-reporto-cifras-rojas-en-produccion-comercializacion-cayo-y-la-importacion-se-disparo/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Adopta un Hogar, iniciativa de Grupo Argos y Nicky Jam, entregó la primera vivienda en Antioquia",
         "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "Ocho expositores participan en Mentes que Transforman en la primera edición de TEDxRionegro ante cien asistentes",
-        "url": "https://www.valoraanalitik.com/ocho-voces-llegan-al-escenario-de-mentes-que-transforman-donde-100-personas-viviran-la-primera-edicion-de-tedxrionegro/",
-        "resumen": "La convocatoria despertó el interés de más de 700 personas, que se postularon para asistir a esta primera edición.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ocho voces llegan al escenario de “Mentes que Transforman”, donde 100 personas vivirán la primera edición de TEDxRionegro",
-        "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "Gobierno giró 20.200 millones a Dispac para cubrir deudas de nómina y con el mercado mayorista",
-        "url": "https://www.valoraanalitik.com/gobierno-brindo-20-200-millones-a-dispac-la-empresa-espera-atender-obligaciones-de-nomina-y-ante-el-mercado-mayorista-de-energia/",
-        "resumen": "Andrés Horta, gerente de la empresa, habló sobre los principales retos que enfrenta la compañía, que actualmente atiende a más de 110.000 usuarios.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Gobierno brindó $20.200 millones a Dispac; la empresa espera atender obligaciones de nómina y ante el mercado mayorista de energía",
-        "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "Entrevista | ISA Energía sugiere integrar las redes de transmisión regional en Colombia para nivelar tarifas",
-        "url": "https://www.valoraanalitik.com/isa-energia-propone-unir-los-sistemas-de-transmision-regional-en-colombia-para-estabilizar-tarifas/",
-        "resumen": "Carlos Mario Caro, gerente de ISA Energía, lanzó nuevas propuestas para la industria eléctrica colombiana.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | ISA Energía propone unir los sistemas de transmisión regional en Colombia para estabilizar tarifas",
-        "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "Podcast GEB | Sequía en Colombia por El Niño: estado de preparación del sistema eléctrico nacional",
-        "url": "https://www.valoraanalitik.com/que-tan-preparado-esta-el-sistema-electrico-para-el-nino/",
-        "resumen": "El nuevo episodio del podcast de GEB analiza los retos que enfrenta el país ante la disminución de lluvias, el estado de los embalses y el consumo de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Podcast GEB | El Niño en Colombia: ¿qué tan preparado está el sistema eléctrico para enfrentar la sequía?",
-        "capturado": "2026-09-24T15:19:31-05:00"
-      },
-      {
-        "titulo": "Usos de la IA en el sector petrolero enfocados en eficiencia y seguridad",
-        "url": "https://www.valoraanalitik.com/las-aplicaciones-que-esta-tomando-la-ia-en-la-industria-de-hidrocarburos/",
-        "resumen": "Desde la detección de fugas hasta los gemelos digitales, la tecnología permite monitorear activos y anticipar posibles fallas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Seguridad y eficiencia: las aplicaciones que está tomando la IA en la industria de hidrocarburos",
-        "capturado": "2026-09-24T00:58:48-05:00"
       }
     ]
   }
