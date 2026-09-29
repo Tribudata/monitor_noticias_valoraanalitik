@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-28T16:45:21-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-09-28T20:41:11-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Comitiva nacional irá a Washington la semana próxima para gestionar recursos del FMI",
+        "url": "https://www.valoraanalitik.com/delegacion-colombiana-viajara-a-washington-la-proxima-semana-en-busqueda-de-financiamiento-del-fmi/",
+        "resumen": "Por su parte, el subdirector del organismo manifestó que debe haber reformas para disminuir el déficit fiscal e incentivar la inversión privada.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Delegación colombiana viajará a Washington la próxima semana en búsqueda de financiamiento del FMI",
+        "capturado": "2026-09-28T20:41:11-05:00"
+      },
+      {
+        "titulo": "Estos resultaron ser los yacimientos que más gas aportaron al país en agosto de 2026",
+        "url": "https://www.valoraanalitik.com/estos-fueron-los-campos-que-le-suministraron-mas-gas-a-colombia-en-agosto-de-2026/",
+        "resumen": "El gas fue el energético que más se utilizó para la generación de electricidad en las térmicas durante agosto.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Estos fueron los campos que le suministraron más gas a Colombia en agosto de 2026",
+        "capturado": "2026-09-28T20:41:11-05:00"
+      },
+      {
+        "titulo": "Administración de la Espriella solicitó al FMI revisar las finanzas nacionales por crisis",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-ya-pidio-al-fmi-evaluar-economia-de-colombia-para-buscar-salida-a-crisis-fiscal/",
+        "resumen": "Según el Ministerio de Hacienda, la herencia fiscal del gobierno Petro fue un gasto de $40 billones mensuales, mientras se recibían $29 billones.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno de la Espriella ya pidió al FMI evaluar economía de Colombia para buscar salida a crisis fiscal",
+        "capturado": "2026-09-28T20:41:11-05:00"
+      },
+      {
+        "titulo": "Celulares en colegios bogotanos: así se modificarán las normas y lo que espera a alumnos",
+        "url": "https://www.valoraanalitik.com/celulares-en-colegios-de-bogota-asi-cambiaran-las-reglas-y-lo-que-viene-para-estudiantes/",
+        "resumen": "La nueva regulación de celulares en colegios de Bogotá abre una etapa de cambios que involucrará a estudiantes, docentes y familias.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Celulares en colegios de Bogotá: así cambiarán las reglas y lo que viene para estudiantes",
+        "capturado": "2026-09-28T20:41:11-05:00"
+      },
+      {
+        "titulo": "Trump divulga proyecto para siderúrgica de US$15.000 millones; sería la mayor en EE. UU.",
+        "url": "https://www.valoraanalitik.com/trump-anuncia-plan-para-una-planta-siderurgica-de-us15-000-millones-seria-la-mas-grande-de-ee-uu/",
+        "resumen": "La planta siderúrgica está prevista para construirse en Iowa y busca comenzar a producir en 2030.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Trump anuncia plan para una planta siderúrgica de US$15.000 millones; sería la más grande de EE. UU.",
+        "capturado": "2026-09-28T20:41:11-05:00"
+      },
       {
         "titulo": "Colombia inicia gestión para que EE. UU. quite aranceles por trabajo forzoso",
         "url": "https://www.valoraanalitik.com/colombia-da-primer-paso-para-que-ee-uu-levante-aranceles-por-medidas-de-trabajo-forzoso/",
@@ -553,59 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "SPEC confirma trabajos correctivos en terminal de regasificación de Cartagena",
         "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Dólar arranca en $3.340 luego de fuerte alza y analizando el quiebre con Irán",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-en-3-340-tras-potente-rally-mientras-el-mercado-evalua-la-ruptura-de-relaciones-con-iran/",
-        "resumen": "Los analistas de JP Tactical Trading anticipan que, después de un impulso en el precio del dólar, será normal observar una fase de corrección.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre en $3.340 tras potente rally, mientras el mercado evalúa la ruptura de relaciones con Irán",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Bank of America incrementa su apuesta por Colombia y prevé vuelta de la confianza global",
-        "url": "https://www.valoraanalitik.com/bank-of-america-eleva-la-apuesta-por-colombia-y-anticipa-retorno-de-la-confianza-internacional/",
-        "resumen": "Un cambio de rumbo en la estrategia de financiamiento del Gobierno y disciplina en el gasto público impulsan la recomendación de la deuda del país.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Bank of America eleva la apuesta por Colombia y anticipa retorno de la confianza internacional",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados globales diversos: Asia baja y Europa sube por venta de deuda y descenso del crudo",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-globales-mixtas-asia-cae-y-europa-rebota-en-medio-de-venta-de-bonos-y-caida-del-petroleo/",
-        "resumen": "Informes señalaron que Estados Unidos e Irán estaban explorando un acuerdo por fases para reabrir el estrecho de Ormuz.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas globales mixtas: Asia cae y Europa rebota en medio de venta de bonos y caída del petróleo",
-        "capturado": "2026-09-25T07:56:07-05:00"
-      },
-      {
-        "titulo": "De este modo afectaría una inflación colombiana del 7 % el incremento del costo de los alquileres en 2027",
-        "url": "https://www.valoraanalitik.com/asi-impactaria-una-inflacion-en-colombia-del-7-el-aumento-del-precio-de-los-arriendos-en-2027/",
-        "resumen": "Las proyecciones señalan que la inflación en Colombia podrían bajar del 5 % para el año entrante.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Así impactaría una inflación en Colombia del 7 % el aumento del precio de los arriendos en 2027",
-        "capturado": "2026-09-25T07:56:07-05:00"
-      },
-      {
-        "titulo": "Subida de reservas de crudo, extracción de gas, fracking y autonomía empresarial: los desafíos del nuevo presidente de Ecopetrol",
-        "url": "https://www.valoraanalitik.com/aumento-en-reservas-de-petroleo-produccion-de-gas-fracking-e-independencia-corporativa-los-retos-del-nuevo-presidente-de-ecopetrol/",
-        "resumen": "Tras el nombramiento del presidente de la compañía, son múltiples los retos que tendrá al frente de la principal empresa de Colombia.",
-        "autor": "",
-        "subseccion": "Acciones ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Aumento en reservas de petróleo, producción de gas, fracking e independencia corporativa: los retos del nuevo presidente de Ecopetrol",
-        "capturado": "2026-09-25T07:56:07-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Estos campos aportaron la mayor cantidad de gas a Colombia durante agosto de 2026",
+        "url": "https://www.valoraanalitik.com/estos-fueron-los-campos-que-le-suministraron-mas-gas-a-colombia-en-agosto-de-2026/",
+        "resumen": "El gas fue el energético que más se utilizó para la generación de electricidad en las térmicas durante agosto.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Estos fueron los campos que le suministraron más gas a Colombia en agosto de 2026",
+        "capturado": "2026-09-28T20:41:11-05:00"
+      },
       {
         "titulo": "Colombia inicia gestión para que EE. UU. elimine aranceles por trabajo forzoso",
         "url": "https://www.valoraanalitik.com/colombia-da-primer-paso-para-que-ee-uu-levante-aranceles-por-medidas-de-trabajo-forzoso/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "GeoPark está listo para desarrollar proyectos de ‘fracking’ en Colombia: Felipe Bayón, CEO de la compañía",
         "capturado": "2026-09-22T23:16:08-05:00"
-      },
-      {
-        "titulo": "Cartagena acogerá el Congreso Colombiano de la Construcción 2026: ejes temáticos y panelistas principales",
-        "url": "https://www.valoraanalitik.com/el-congreso-colombiano-de-la-construccion-2026-se-toma-cartagena-estos-seran-los-temas-y-panelistas-clave-de-esta-edicion/",
-        "resumen": "El evento busca trascender su agenda tradicional y convertirse en un espacio de conversación sobre el presente y el futuro del país.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "El Congreso Colombiano de la Construcción 2026 se toma Cartagena: estos serán los temas y panelistas clave de esta edición",
-        "capturado": "2026-09-22T16:06:49-05:00"
       }
     ]
   }
