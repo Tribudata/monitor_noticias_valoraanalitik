@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-30T06:18:43-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-30T11:57:41-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Aprobado el aumento de aforo para el estadio El Campín y se conoce su nueva fecha de entrega",
+        "url": "https://www.valoraanalitik.com/nuevo-estadio-el-campin-tendra-mas-capacidad-de-asistentes-y-esta-sera-su-nueva-fecha-de-entrega/",
+        "resumen": "El alcalde Carlos Fernando Galán entregó nuevos detalles de la obra de infraestructura",
+        "autor": "",
+        "subseccion": "Futbol colombiano",
+        "publicacion": "",
+        "titulo_fuente": "Confirmado | Nuevo estadio El Campín tendrá más capacidad de asistentes y esta será su nueva fecha de entrega",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Julio César Aldana Bula sería el nuevo presidente de Positiva Compañía de Seguros",
+        "url": "https://www.valoraanalitik.com/julio-cesar-aldana-bula-llegaria-a-la-presidencia-de-positiva-compania-de-seguros/",
+        "resumen": "Julio César Aldana Bula, exdirector del Invima, llegaría a la presidencia de Positiva Compañía de Seguros.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Julio César Aldana Bula llegaría a la presidencia de Positiva Compañía de Seguros",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Inició el retiro de la marca Movistar Arena y esta será su nueva etapa desde octubre",
+        "url": "https://www.valoraanalitik.com/ya-comenzo-el-desmonte-del-nombre-del-movistar-arena-asi-sera-su-nueva-etapa-desde-octubre/",
+        "resumen": "El Movistar Arena confirmó el cierre de una etapa de ocho años y prepara cambios mientras mantiene su agenda de eventos en Bogotá.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ya comenzó el desmonte del nombre del Movistar Arena: así será su nueva etapa desde octubre",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella designa vicecanciller y embajadores en Bolivia y El Salvador",
+        "url": "https://www.valoraanalitik.com/gobierno-confirma-vicecanciller-y-embajadores-para-bolivia-y-el-salvador/",
+        "resumen": "Los nuevos cargos que anunció el gobierno de Abelardo de la Espriella en la política exterior.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella confirma vicecanciller y embajadores para Bolivia y El Salvador",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Finalizó la megaobra que une el Valle de Aburrá, el Suroeste antioqueño y el suroccidente",
+        "url": "https://www.valoraanalitik.com/megaobra-que-conecta-el-valle-de-aburra-con-el-suroeste-antioqueno-y-el-suroccidente-del-pais-quedo-lista/",
+        "resumen": "La megaobra estuvo a cargo de Covipacífico y se extendió durante 14 meses. Así fue el proyecto.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Megaobra que conecta el Valle de Aburrá con el Suroeste antioqueño y el suroccidente del país quedó lista",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Banco de Bogotá impulsa finanzas abiertas y apunta a un billón de pesos en operaciones mediante API",
+        "url": "https://www.valoraanalitik.com/banco-de-bogota-finanzas-abiertas-api/",
+        "resumen": "La entidad está construyendo una solución para tarjeta de crédito que permitirá emitir, evaluar y aprobar el producto desde plataformas de terceros.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Banco de Bogotá avanza en estrategia para aprovechar finanzas abiertas; busca $1 billón en transacciones desde API",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Desempleo en Colombia aumentó por primera vez en dos años y se situó en 9,4 % en agosto de 2026",
+        "url": "https://www.valoraanalitik.com/desempleo-en-colombia-subio-por-primera-vez-en-dos-anos-llego-al-94-en-agosto-de-2026/",
+        "resumen": "En el octavo mes del año, la población ocupada en el total nacional se ubicó en 23,6 millones de personas.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Desempleo en Colombia subió por primera vez en dos años; llegó al 9,4 % en agosto de 2026",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Baja la confianza comercial e industrial en Colombia debido a la incertidumbre sobre la economía",
+        "url": "https://www.valoraanalitik.com/confianza-comercial-e-industrial-en-colombia-caen-por-incertidumbre-de-la-situacion-economica/",
+        "resumen": "La confianza comercial cae por cuenta de los riesgos e incertidumbres por el futuro económico del país",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Confianza comercial e industrial en Colombia cae por incertidumbre de la situación económica",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Grupo Cibest, de Bancolombia, apuesta por corresponsalía digital tras comprar nueva fintech",
+        "url": "https://www.valoraanalitik.com/grupo-cibest-bancolombia-adquisicion-ptm/",
+        "resumen": "Estrategias Cibest, sociedad controlada por Grupo Cibest, proyecta adquirir el 100 % de PTM, compañía que administra redes de corresponsales bancarios.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Cibest (Bancolombia) apuesta por la corresponsalía digital con adquisición de nueva fintech",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Dólar arranca con fuerte retroceso en Colombia y el mercado aguarda postura del Banco de la República",
+        "url": "https://www.valoraanalitik.com/dolar-abrio-con-fuerte-caida-en-colombia-mercado-espera-decision-del-banco-de-la-republica/",
+        "resumen": "El mercado colombiano inicia la última jornada de septiembre con un dólar $36,23 por debajo de la TRM, mientras se conoce la decisión del Banco de la República.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar abrió con fuerte caída en Colombia; mercado espera decisión del Banco de la República",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Nuevas normas para multas de conductores en Uber, DiDi y Cabify modificarían los controles actuales",
+        "url": "https://www.valoraanalitik.com/conductores-de-uber-didi-cabify-y-otras-plataformas-tendrian-nuevas-reglas-frente-a-comparendos-asi-cambiarian-los-controles/",
+        "resumen": "Una propuesta busca cambiar los controles a conductores de plataformas y establecer nuevas garantías cuando se impongan ciertas multas y comparendos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Conductores de Uber, DiDi, Cabify y otras plataformas tendrían nuevas reglas frente a comparendos: así cambiarían los controles",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Entrevista | CCI Norte detecta enormes oportunidades para invertir en megaproyectos del Caribe nacional",
+        "url": "https://www.valoraanalitik.com/entrevista-cci-norte-ve-grandes-oportunidades-de-inversion-para-megaproyectos-en-el-caribe-colombiano/",
+        "resumen": "Estas son las obras de infraestructura que marcarán la agenda en el Caribe colombiano.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | CCI Norte ve grandes oportunidades de inversión para megaproyectos en el Caribe colombiano",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
       {
         "titulo": "Incauca desarrollará cinco nuevos proyectos energéticos y prevé que este negocio aporte el 14 % de sus ventas en 2027",
         "url": "https://www.valoraanalitik.com/incauca-avanzara-con-cinco-nuevos-proyectos-de-energia-espera-que-este-segmento-represente-hasta-14-de-sus-ingresos-en-2027/",
@@ -483,129 +603,89 @@
         "publicacion": "",
         "titulo_fuente": "Se viene el fin de las APPA creadas por Petro en 19 municipios del Suroeste antioqueño",
         "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Conversaciones de De La Espriella con el FMI: condiciones y efectos para el país",
-        "url": "https://www.valoraanalitik.com/dialogos-de-de-la-espriella-con-el-fmi-estas-serian-las-condiciones-y-efectos-para-colombia/",
-        "resumen": "¿Qué ganaría Colombia con un acuerdo con el FMI? Esto explican los expertos.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Diálogos de De La Espriella con el FMI: estas serían las condiciones y efectos para Colombia",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Alerta | De la Espriella ordenó al MinHacienda entablar diálogos con el FMI para hallar salida al bache fiscal",
-        "url": "https://www.valoraanalitik.com/atencion-de-la-espriella-ordeno-a-minhacienda-iniciar-conversaciones-con-el-fmi-para-buscar-salida-a-crisis-fiscal/",
-        "resumen": "El presidente dijo que esa negociación buscará buscar una salida a la crisis fiscal que, asegura, heredó el Gobierno Petro.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Atención | De la Espriella ordenó a MinHacienda iniciar conversaciones con el FMI para buscar salida a crisis fiscal",
-        "capturado": "2026-09-28T02:28:08-05:00"
-      },
-      {
-        "titulo": "De la Espriella anuncia inversión de US$1.000 millones de PepsiCo en Colombia y detalla su destino",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-confirma-us1-000-millones-de-pepsico-para-colombia-asi-se-movera-la-inversion/",
-        "resumen": "PepsiCo anunció nuevos planes para Colombia y el Gobierno destacó el impacto que tendría la inversión en producción, empleo y proveedores.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella confirma US$1.000 millones de PepsiCo para Colombia: así se moverá la inversión",
-        "capturado": "2026-09-27T17:29:58-05:00"
-      },
-      {
-        "titulo": "Corte Suprema define cuándo procede indemnización por traslado de fondo de pensiones",
-        "url": "https://www.valoraanalitik.com/se-cambio-de-fondo-de-pensiones-corte-suprema-aclara-cuando-podria-recibir-una-indemnizacion/",
-        "resumen": "La Corte Suprema precisó qué debe demostrarse para que un pensionado pueda reclamar una indemnización por cambio de fondo.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "¿Se cambió de fondo de pensiones? Corte Suprema aclara cuándo podría recibir una indemnización",
-        "capturado": "2026-09-27T17:29:58-05:00"
-      },
-      {
-        "titulo": "Inteligencia artificial impulsa inversiones mientras surgen nuevos interrogantes en los mercados",
-        "url": "https://www.valoraanalitik.com/que-pasa-con-las-inversiones-en-ia-cuando-aumentan-las-alertas-sobre-sus-riesgos/",
-        "resumen": "La tecnología concentra cada vez más capital y uso empresarial, al tiempo que crece el debate sobre sus riesgos y los recursos que demanda.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "IA: la carrera que mueve inversiones y ahora enfrenta nuevas dudas entre los mercados",
-        "capturado": "2026-09-27T17:29:58-05:00"
-      },
-      {
-        "titulo": "Plan Marshall para el Chocó destina $1 billón a megaproyectos y a una terminal aérea",
-        "url": "https://www.valoraanalitik.com/plan-marshall-para-el-choco-estos-son-los-megaproyectos-y-el-aeropuerto-que-recibiran-1-billon/",
-        "resumen": "El Plan Marshall para el Chocó avanza con una bolsa de recursos que busca transformar la conectividad del departamento tras el terremoto de agosto.",
-        "autor": "",
-        "subseccion": "Infraestructura en colombia proyectos y claves para 2025",
-        "publicacion": "",
-        "titulo_fuente": "Plan Marshall para el Chocó: estos son los megaproyectos y el aeropuerto que recibirán $1 billón",
-        "capturado": "2026-09-27T17:29:58-05:00"
-      },
-      {
-        "titulo": "Encuentro Trump-Xi: los acuerdos, los temas pendientes y el futuro de las relaciones bilaterales",
-        "url": "https://www.valoraanalitik.com/reunion-entre-trump-y-xi-que-acordaron-que-quedo-pendiente-y-que-viene-ahora-para-china-y-estados-unidos/",
-        "resumen": "Trump y Xi cerraron su reunión en Washington con acuerdos económicos y un canal para discutir inteligencia artificial, pero varios asuntos siguen abiertos.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Reunión entre Trump y Xi: ¿qué acordaron, qué quedó pendiente y qué viene ahora para China y Estados Unidos?",
-        "capturado": "2026-09-27T14:12:02-05:00"
-      },
-      {
-        "titulo": "Obras monumentales proyectadas en Soacha para aliviar el tráfico de la Autopista Sur",
-        "url": "https://www.valoraanalitik.com/las-megaobras-que-prepara-soacha-para-descongestionar-la-autopista-sur/",
-        "resumen": "Detalles y cronogramas de las principales obras de infraestructura de Soacha.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Las megaobras que prepara Soacha para descongestionar la Autopista Sur",
-        "capturado": "2026-09-27T14:12:02-05:00"
-      },
-      {
-        "titulo": "DIAN explica el responsable de cancelar la retención al adquirir bienes raíces o vivienda",
-        "url": "https://www.valoraanalitik.com/dian-aclara-quien-debe-pagar-una-retencion-al-comprar-vivienda-o-inmuebles/",
-        "resumen": "La DIAN precisó quién debe practicar la retención en la compra de inmuebles y qué tarifa aplica según el destino que tenga el bien.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "DIAN aclara quién debe pagar una retención al comprar vivienda o inmuebles",
-        "capturado": "2026-09-27T14:12:02-05:00"
-      },
-      {
-        "titulo": "El Tiempo reduce tamaño y traslada su redacción mientras El Colombiano designa nueva dirección",
-        "url": "https://www.valoraanalitik.com/cambios-en-medios-de-comunicacion-el-tiempo-achica-su-formato-y-muda-su-redaccion-el-colombiano-cambia-de-mando/",
-        "resumen": "Estos son los cambios que tendrán dos medios de comunicación en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cambios en medios de comunicación: El Tiempo achica su formato y muda su redacción; El Colombiano cambia de mando",
-        "capturado": "2026-09-27T10:15:28-05:00"
-      },
-      {
-        "titulo": "Cerrejón alerta por sabotajes y cierres en su operación y prevé retomar exportaciones hacia Israel",
-        "url": "https://www.valoraanalitik.com/cerrejon-advierte-de-bloqueos-y-atentados-en-sus-operaciones-espera-reactivar-envios-a-israel/",
-        "resumen": "El presidente de Cerrejón, Edgar Alfonso, abordó las principales problemáticas que enfrenta la compañía en materia de seguridad.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Cerrejón advierte de bloqueos y atentados en sus operaciones; espera reactivar envíos a Israel",
-        "capturado": "2026-09-27T10:15:28-05:00"
-      },
-      {
-        "titulo": "Dudas analistas sobre fuerte ajuste de gasto estatal en Colombia y estiman precisa mayor recaudación",
-        "url": "https://www.valoraanalitik.com/encrucijada-fiscal-en-colombia-analistas-dudan-de-un-gran-recorte-de-gastos-y-ven-necesario-buscar-nuevos-ingresos/",
-        "resumen": "Ante un recaudo tributario débil y un explosivo costo de la deuda, el Estado se verá inevitablemente abocado a buscar nuevas fuentes de ingresos.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Encrucijada fiscal en Colombia: analistas dudan de un gran recorte de gastos y ven necesario buscar nuevos ingresos",
-        "capturado": "2026-09-27T10:15:28-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Grupo Aval afianza su portafolio verde y su foco en transición energética e inclusión financiera",
+        "url": "https://www.valoraanalitik.com/grupo-aval-fortalece-su-cartera-sostenible/",
+        "resumen": "A 2030, el Grupo busca que la cartera verde de sus bancos represente el 11 % de la cartera comercial y reducir en 51 % sus emisiones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Aval fortalece su cartera sostenible y su apuesta por la transición energética y la inclusión financiera",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Inicia el retiro de la marca del Movistar Arena y así funcionará su nueva fase desde octubre",
+        "url": "https://www.valoraanalitik.com/ya-comenzo-el-desmonte-del-nombre-del-movistar-arena-asi-sera-su-nueva-etapa-desde-octubre/",
+        "resumen": "El Movistar Arena confirmó el cierre de una etapa de ocho años y prepara cambios mientras mantiene su agenda de eventos en Bogotá.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ya comenzó el desmonte del nombre del Movistar Arena: así será su nueva etapa desde octubre",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Autogermana y sus empresas impulsan campaña vial para rescatar la empatía en el desplazamiento",
+        "url": "https://www.valoraanalitik.com/seamos-en-la-via-como-en-la-vida-campana-de-autogermana-y-sus-companias-para-recuperar-la-empatia-en-la-movilidad/",
+        "resumen": "La iniciativa se presenta en un contexto en el que los siniestros viales continúan representando un desafío para Colombia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "“Seamos en la vía como en la vida”: campaña de Autogermana y sus compañías para recuperar la empatía en la movilidad",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Grupo Cibest de Bancolombia impulsa la corresponsalía digital tras comprar nueva fintech",
+        "url": "https://www.valoraanalitik.com/grupo-cibest-bancolombia-adquisicion-ptm/",
+        "resumen": "Estrategias Cibest, sociedad controlada por Grupo Cibest, proyecta adquirir el 100 % de PTM, compañía que administra redes de corresponsales bancarios.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Cibest (Bancolombia) apuesta por la corresponsalía digital con adquisición de nueva fintech",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "CCI Norte detecta amplias opciones de inversión para grandes proyectos en el Caribe nacional",
+        "url": "https://www.valoraanalitik.com/entrevista-cci-norte-ve-grandes-oportunidades-de-inversion-para-megaproyectos-en-el-caribe-colombiano/",
+        "resumen": "Estas son las obras de infraestructura que marcarán la agenda en el Caribe colombiano.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | CCI Norte ve grandes oportunidades de inversión para megaproyectos en el Caribe colombiano",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Filipinas valida certificados sanitarios para carne bovina y porcina de Colombia",
+        "url": "https://www.valoraanalitik.com/filipinas-abre-la-puerta-a-la-carne-colombiana-aprueba-certificados-sanitarios-para-bovinos-y-porcinos/",
+        "resumen": "Exportaciones de carne colombiana llegan a un nuevo mercado: Filipinas avanza con permisos.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Filipinas abre la puerta a la carne colombiana: aprueba certificados sanitarios para bovinos y porcinos",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Cuarta edición de Xposible Crecer 2026 contó con la asistencia de más de 500 empresas",
+        "url": "https://www.valoraanalitik.com/mas-de-500-empresas-participaron-en-la-cuarta-edicion-de-xposible-crecer-2026/",
+        "resumen": "Durante la jornada, se reconocieron ocho proyectos empresariales que demuestran que hacer negocios haciendo el bien es una forma de generar valor.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Más de 500 empresas participaron en la cuarta edición de Xposible Crecer 2026",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
+      {
+        "titulo": "Comfandi enajena su red de farmacias para fortalecer iniciativas de crédito, educación y ocio",
+        "url": "https://www.valoraanalitik.com/comfandi-vende-negocio-de-droguerias-para-reforzar-proyectos-en-educacion-credito-y-recreacion/",
+        "resumen": "La decisión no responde a una crisis del negocio, sino a una pregunta más profunda: ¿dónde debe estar Comfandi en los próximos años?",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Comfandi vende negocio de droguerías para reforzar proyectos en educación, crédito y recreación",
+        "capturado": "2026-09-30T11:57:41-05:00"
+      },
       {
         "titulo": "Incauca desarrollará cinco nuevos proyectos energéticos y prevé que esta división aporte hasta el 14 % de sus ventas en 2027",
         "url": "https://www.valoraanalitik.com/incauca-avanzara-con-cinco-nuevos-proyectos-de-energia-espera-que-este-segmento-represente-hasta-14-de-sus-ingresos-en-2027/",
@@ -1125,86 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Vacaciones de fin de año: cuándo comprar, cuánto presupuestar y qué destinos buscan los colombianos",
         "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Olibia presentó herramienta de inteligencia artificial para buscar información del mercado energético",
-        "url": "https://www.valoraanalitik.com/olibia-lanzo-plataforma-con-inteligencia-artificial-para-consultar-datos-del-sector-energetico/",
-        "resumen": "La compañía presentó una herramienta para acceder a datos sobre embalses, precios de energía, generación y otros indicadores.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Olibia lanzó plataforma con inteligencia artificial para consultar datos del sector energético",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "SPEC ratifica labores de reparación en la planta de regasificación ubicada en Cartagena",
-        "url": "https://www.valoraanalitik.com/spec-confirma-trabajos-correctivos-en-terminal-de-regasificacion-de-cartagena/",
-        "resumen": "La organización señaló que continuará con una capacidad de 400 millones de pies cúbicos diarios de gas hasta el 1 de octubre.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "SPEC confirma trabajos correctivos en terminal de regasificación de Cartagena",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Los desafíos del entrante líder de Ecopetrol: fracking, reservas de crudo, gas y autonomía empresarial",
-        "url": "https://www.valoraanalitik.com/aumento-en-reservas-de-petroleo-produccion-de-gas-fracking-e-independencia-corporativa-los-retos-del-nuevo-presidente-de-ecopetrol/",
-        "resumen": "Tras el nombramiento del presidente de la compañía, son múltiples los retos que tendrá al frente de la principal empresa de Colombia.",
-        "autor": "",
-        "subseccion": "Acciones ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Aumento en reservas de petróleo, producción de gas, fracking e independencia corporativa: los retos del nuevo presidente de Ecopetrol",
-        "capturado": "2026-09-25T07:56:07-05:00"
-      },
-      {
-        "titulo": "Exploración no convencional: lecciones para Colombia desde el Permian y Vaca Muerta",
-        "url": "https://www.valoraanalitik.com/que-puede-aprender-colombia-de-los-proyectos-del-permian-y-vaca-muerta/",
-        "resumen": "Expertos destacaron el papel de la tecnología, la logística, la escala y la inversión para desarrollar estos proyectos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "‘Fracking’ en Colombia: ¿qué puede aprender el país del Permian y Vaca Muerta?",
-        "capturado": "2026-09-24T18:20:29-05:00"
-      },
-      {
-        "titulo": "Famiempresario Interactuar 2026: nueva edición galardonará al sector microempresarial",
-        "url": "https://www.valoraanalitik.com/famiempresario-interactuar-2026-el-evento-que-reconoce-a-la-microempresa-tendra-una-nueva-edicion/",
-        "resumen": "La gala central del FamiEmpresario tendrá lugar el jueves 1 de octubre en el Teatro Metropolitano José Gutiérrez Gómez de Medellín.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Famiempresario Interactuar 2026: el evento que reconoce a la microempresa tendrá una nueva edición",
-        "capturado": "2026-09-24T18:20:29-05:00"
-      },
-      {
-        "titulo": "Luz María Sierra sale de la dirección de El Colombiano tras cinco años y ya buscan relevo",
-        "url": "https://www.valoraanalitik.com/luz-maria-sierra-deja-la-direccion-de-el-colombiano-tras-mas-de-cinco-anos-quien-la-reemplazara/",
-        "resumen": "Luz María Sierra llegó a la dirección de El Colombiano el 9 de agosto de 2021 y ahora cierra una etapa marcada por la transformación digital del medio.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Luz María Sierra deja la dirección de El Colombiano tras más de cinco años: quién la reemplazará",
-        "capturado": "2026-09-24T18:20:29-05:00"
-      },
-      {
-        "titulo": "Claro Colombia y Grupo Aval lanzan nuevo Claro Pay: conozca detalles y ventajas",
-        "url": "https://www.valoraanalitik.com/claro-colombia-se-une-a-grupo-aval-para-un-nuevo-lanzamiento-de-claro-pay-estos-son-los-detalles-y-beneficios/",
-        "resumen": "Con esta alianza, lo que se busca es ampliar el acceso de los colombianos a servicios financieros digitales.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Claro Colombia se une a Grupo Aval para un nuevo lanzamiento de Claro Pay: estos son los detalles y beneficios",
-        "capturado": "2026-09-24T18:20:29-05:00"
-      },
-      {
-        "titulo": "Goldman Sachs analiza a Nu y proyecta alza del 68,9 % en su título al entrar a EE. UU.",
-        "url": "https://www.valoraanalitik.com/goldman-sachs-pone-la-lupa-sobre-nu-ve-una-subida-de-689-en-su-accion-tras-su-llegada-a-estados-unidos/",
-        "resumen": "Goldman Sachs analizó el desembarco de Nu en Estados Unidos y señaló el tamaño del mercado que la compañía busca conquistar.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Goldman Sachs pone la lupa sobre Nu: ve una subida de 68,9 % en su acción tras su llegada a Estados Unidos",
-        "capturado": "2026-09-24T18:20:29-05:00"
       }
     ]
   }
