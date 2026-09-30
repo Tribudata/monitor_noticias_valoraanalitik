@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-30T11:57:41-05:00",
+  "actualizado": "2026-09-30T16:23:15-05:00",
   "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Presidenta de la CCI solicita agilizar proyectos y destrabar desembolsos para reactivar el sector vial",
+        "url": "https://www.valoraanalitik.com/presidenta-de-la-cci-pide-acelerar-obras-y-destrabar-pagos-para-reactivar-infraestructura-en-colombia/",
+        "resumen": "Tatyana Orozco de la Cruz, presidenta de la Cámara Colombiana de la Infraestructura (CCI), en entrevista con Valora Analitik.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Presidenta de la CCI pide acelerar obras y destrabar pagos para reactivar infraestructura en Colombia",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Lumon destina $4.000 millones a una fábrica en Barranquilla y planea 10 distribuidoras en el país",
+        "url": "https://www.valoraanalitik.com/lumon-invierte-4-000-millones-en-planta-en-barranquilla-y-proyecta-10-distribuidoras-en-colombia/",
+        "resumen": "La compañía finlandesa Lumon avanza en la construcción de su primera planta de montaje en Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Lumon invierte $4.000 millones en planta en Barranquilla y proyecta 10 distribuidoras en Colombia",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Satena inaugura vuelo directo entre Montería y Ciudad de Panamá desde el mes de octubre",
+        "url": "https://www.valoraanalitik.com/satena-abre-ruta-directa-entre-monteria-y-ciudad-de-panama-a-partir-de-octubre/",
+        "resumen": "Las aeronaves que operarán esta ruta tendrán capacidad para hasta 50 pasajeros.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Satena abre ruta directa entre Montería y Ciudad de Panamá a partir de octubre",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Titularizadora Colombiana realiza nueva emisión y extiende opciones de crédito para Finandina",
+        "url": "https://www.valoraanalitik.com/titularizadora-colombiana-nueva-emision-2/",
+        "resumen": "La firma llegó a 91 titularizaciones en el mercado de capitales colombiano en una operación por $140.000 millones.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Titularizadora Colombiana completó una nueva emisión y amplía alternativas de financiación para Finandina",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Gobierno presentará en Nueva York portafolio de iniciativas por $75 billones en la Milagro Week",
+        "url": "https://www.valoraanalitik.com/gobierno-llevara-a-nueva-york-portafolio-de-proyectos-por-75-billones-en-primera-milagro-week/",
+        "resumen": "El encuentro hace parte de la estrategia para impulsar el crecimiento económico y contempla la presentación del primer portafolio de inversiones.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno llevará a Nueva York portafolio de proyectos por $75 billones en primera Milagro Week",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Sanción de alto valor posible por faltar a estas normas al emplear inteligencia artificial en Colombia",
+        "url": "https://www.valoraanalitik.com/la-millonaria-multa-que-podria-recibir-por-incumplir-estas-reglas-al-usar-inteligencia-artificial-en-colombia/",
+        "resumen": "Una práctica cada vez más común con inteligencia artificial puede generar problemas legales y terminar en una sanción de alto valor.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "La millonaria multa que podría recibir por incumplir estas reglas al usar inteligencia artificial en Colombia",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Alerta | Emisor sorprende al país y sube los tipos de interés en Colombia a 12,25 %",
+        "url": "https://www.valoraanalitik.com/banco-de-la-republica-aumenta-tasas-de-interes-septiembre-2026/",
+        "resumen": "La decisión del banco central es la primera que se toma con el nuevo gobierno del presidente Abelardo de la Espriella.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Banco de la República sorprende al mercado y aumenta las tasas de interés en Colombia a 12,25 %.",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Compañías aseguradoras han desembolsado más de $400.000 millones debido al sismo en Colombia",
+        "url": "https://www.valoraanalitik.com/aseguradoras-han-pagado-mas-de-400-000-millones-por-el-terremoto-en-colombia/",
+        "resumen": "Al 25 de septiembre de 2026, las compañías de seguros en Colombia han recibido un total de 92.336 reclamaciones por el sismo del 10 de agosto.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Aseguradoras han pagado más de $400.000 millones por el terremoto en Colombia",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia rompió de nuevo el piso de los $3.100 previo al fallo del Emisor",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-perforo-otra-vez-el-piso-de-los-3-100-a-la-espera-de-decision-de-tasas-del-banco-de-la-republica/",
+        "resumen": "La tasa de cambio abrió en $3.305, tocó un máximo intradiario que perforó la barrera de los $3.300 para marcar un piso de $3.295.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia perforó otra vez el piso de los $3.100 a la espera de decisión de tasas del Banco de la República",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Ejecutivo designa a Fernando León Losada como nuevo presidente de la Industria Aeronáutica Colombiana",
+        "url": "https://www.valoraanalitik.com/gobierno-nombra-a-fernando-leon-losada-como-nuevo-presidente-de-la-industria-aeronautica-colombiana/",
+        "resumen": "La Corporación es una empresa estatal que se encarga de la industria aeronáutica y el mantenimiento de aeronaves.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno nombra a Fernando León Losada como nuevo presidente de la Industria Aeronáutica Colombiana",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Acciones preferidas para el siguiente año y un posible repunte de hasta 13 % en la BVC para 2027",
+        "url": "https://www.valoraanalitik.com/bolsa-de-colombia-2027-acciones-favoritas/",
+        "resumen": "En el Libro 2027, Visión Davivienda estimó un crecimiento de 23 % en las utilidades de las empresas que hacen parte del MSCI Colcap al cierre de 2026.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Bolsa de Colombia puede crecer hasta 13 % en 2027; estas son las acciones favoritas para invertir el próximo año",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
       {
         "titulo": "Aprobado el aumento de aforo para el estadio El Campín y se conoce su nueva fecha de entrega",
         "url": "https://www.valoraanalitik.com/nuevo-estadio-el-campin-tendra-mas-capacidad-de-asistentes-y-esta-sera-su-nueva-fecha-de-entrega/",
@@ -493,119 +603,99 @@
         "publicacion": "",
         "titulo_fuente": "Trump anuncia plan para una planta siderúrgica de US$15.000 millones; sería la más grande de EE. UU.",
         "capturado": "2026-09-28T20:41:11-05:00"
-      },
-      {
-        "titulo": "Colombia inicia gestión para que EE. UU. quite aranceles por trabajo forzoso",
-        "url": "https://www.valoraanalitik.com/colombia-da-primer-paso-para-que-ee-uu-levante-aranceles-por-medidas-de-trabajo-forzoso/",
-        "resumen": "Esta medida es clave porque EE. UU. impuso aranceles de 10 % a 12,5 % a 60 economías por no tomar acciones sobre el trabajo forzoso.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Colombia da primer paso para que EE. UU. levante aranceles por medidas de trabajo forzoso",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Credicorp Capital estima alza del 2,2 % en Colombia para 2027 y tasa de cambio en $3.600",
-        "url": "https://www.valoraanalitik.com/credicorp-capital-crecimiento-colombia-2027/",
-        "resumen": "La firma espera menor consumo y una recuperación gradual de la inversión, mientras mantiene una visión positiva sobre las acciones colombianas.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Credicorp Capital prevé crecimiento de 2,2 % para Colombia en 2027 y dólar en $3.600",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Nombran primeros ponentes para el segundo y definitivo debate del Presupuesto 2027",
-        "url": "https://www.valoraanalitik.com/estos-son-los-primeros-ponentes-para-el-segundo-y-definitivo-debate-del-presupuesto-2027/",
-        "resumen": "Aún es necesario que las comisiones terceras de Senado y Cámara, así como la Cuarta de Cámara deleguen a los demás ponentes y coordinadores.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los primeros ponentes para el segundo y definitivo debate del Presupuesto 2027",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Dueños de estos iPhone tienen derecho a pedir hasta $316.000 a Apple",
-        "url": "https://www.valoraanalitik.com/usuarios-de-estos-iphone-pueden-reclamar-hasta-316-000-a-apple/",
-        "resumen": "Apple abrió el proceso para reclamar parte de un acuerdo por US$250 millones. Hay modelos, fechas y condiciones específicas para acceder al pago.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Usuarios de estos iPhone pueden reclamar hasta $316.000 a Apple",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Cabildo de Bogotá avala tributaria de Galán y así variarán los gravámenes",
-        "url": "https://www.valoraanalitik.com/atencion-concejo-de-bogota-aprueba-reforma-tributaria-de-galan-asi-cambiaran-los-impuestos/",
-        "resumen": "Reforma tributaria de Galán fue aprobada en Bogotá: ICA, predial, alumbrado y más cambios.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Concejo de Bogotá aprueba reforma tributaria de Galán: así cambiarán los impuestos",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Ministerio de Relaciones Exteriores presenta tres proyectos para expandir mercados colombianos en Asia-Pacífico",
-        "url": "https://www.valoraanalitik.com/cancilleria-radica-tres-proyectos-de-ley-para-abrir-nuevos-mercados-de-colombia-en-asia-pacifico/",
-        "resumen": "Los tres proyectos deberán surtir el trámite correspondiente en el Congreso de la República.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Cancillería radica tres proyectos de ley para abrir nuevos mercados de Colombia en Asia-Pacífico",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Nuevo método sin costo para revisar el historial crediticio en DataCrédito y su funcionamiento",
-        "url": "https://www.valoraanalitik.com/nueva-opcion-para-consultar-gratis-su-historia-de-credito-en-datacredito-asi-funciona/",
-        "resumen": "DataCrédito Experian lanzó una nueva herramienta que permite conocer información clave sobre su perfil financiero y crediticio.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Nueva opción para consultar gratis su historia de crédito en DataCrédito: así funciona",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Meta, Casanare, La Guajira, Santander y Antioquia son estratégicos para elevar la extracción de crudo y gas",
-        "url": "https://www.valoraanalitik.com/meta-casanare-la-guajira-santander-y-antioquia-los-departamentos-clave-para-multiplicar-produccion-de-petroleo-y-gas/",
-        "resumen": "El director del CREE dijo que, si se desea tener aumentos en la década de 2030, deben tomarse decisiones desde este momento.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Meta, Casanare, La Guajira, Santander y Antioquia, los departamentos clave para multiplicar producción de petróleo y gas",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia retoma alza y se aproxima a $3.400 mientras la divisa internacional sube",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-reanuda-su-tendencia-alcista-y-se-acerca-a-3-400-divisa-global-tambien-repunta/",
-        "resumen": "La divisa estadounidense abrió en $3.320, tocó un mínimo intradiario de $3.302 y escaló hasta un techo de $3.368,40.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia reanuda su tendencia alcista y se acerca a $3.400; divisa global también repunta",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Rama Judicial pide a Ministerio de Hacienda adicionar $1,9 billones al presupuesto de 2027 por escasez de fondos",
-        "url": "https://www.valoraanalitik.com/rama-judicial-solicita-a-minhacienda-adicion-de-19-billones-a-su-presupuesto-de-2027-ante-estrechez-fiscal/",
-        "resumen": "En medio de la discusión del Presupuesto para 2027, el sector justicia elevó un pedido formal al MinHacienda para cubrir un déficit crítico.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Rama Judicial solicita a MinHacienda adición de $1,9 billones a su presupuesto de 2027 ante estrechez fiscal",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Terminarían las APPA de Petro en 19 municipios del Suroeste antioqueño",
-        "url": "https://www.valoraanalitik.com/se-viene-el-fin-de-las-appa-creadas-por-petro-en-19-municipios-del-suroeste-antioqueno/",
-        "resumen": "MinAgricultura propone derogar las nueve resoluciones que crearon las APPA en suroeste antioqueño.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Se viene el fin de las APPA creadas por Petro en 19 municipios del Suroeste antioqueño",
-        "capturado": "2026-09-28T16:45:21-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Lumon destina $4.000 millones a fábrica en Barranquilla y planea 10 distribuidoras en el país",
+        "url": "https://www.valoraanalitik.com/lumon-invierte-4-000-millones-en-planta-en-barranquilla-y-proyecta-10-distribuidoras-en-colombia/",
+        "resumen": "La compañía finlandesa Lumon avanza en la construcción de su primera planta de montaje en Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Lumon invierte $4.000 millones en planta en Barranquilla y proyecta 10 distribuidoras en Colombia",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Denarius Metals agranda su iniciativa Toral en España y evalúa reabrir la mina Antonina",
+        "url": "https://www.valoraanalitik.com/denarius-metals-amplia-su-proyecto-toral-en-espana-y-contempla-reabrir-la-mina-antonina/",
+        "resumen": "La compañía recibió una opción preferencial sobre 800 hectáreas y planea incorporar la zona a su programa de exploración de 2027.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Denarius Metals amplía su proyecto Toral en España y contempla reabrir la mina Antonina",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Satena inicia vuelo sin escalas entre Montería y Ciudad de Panamá desde octubre",
+        "url": "https://www.valoraanalitik.com/satena-abre-ruta-directa-entre-monteria-y-ciudad-de-panama-a-partir-de-octubre/",
+        "resumen": "Las aeronaves que operarán esta ruta tendrán capacidad para hasta 50 pasajeros.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Satena abre ruta directa entre Montería y Ciudad de Panamá a partir de octubre",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Gobierno presentará en Nueva York portafolio de proyectos por $75 billones en primera Milagro Week",
+        "url": "https://www.valoraanalitik.com/gobierno-llevara-a-nueva-york-portafolio-de-proyectos-por-75-billones-en-primera-milagro-week/",
+        "resumen": "El encuentro hace parte de la estrategia para impulsar el crecimiento económico y contempla la presentación del primer portafolio de inversiones.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno llevará a Nueva York portafolio de proyectos por $75 billones en primera Milagro Week",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Cali asignará $10.300 millones para recuperar comercios golpeados por el sismo",
+        "url": "https://www.valoraanalitik.com/cali-destinara-10-300-millones-para-reactivar-negocios-afectados-por-el-terremoto/",
+        "resumen": "La alianza entre Alcaldía, Cámara de Comercio y Fundación WWB Colombia busca apoyar a más de 1.200 empresas con recursos en especie.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Cali destinará $10.300 millones para reactivar negocios afectados por el terremoto",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "La cuantiosa sanción por infringir normas de IA en Colombia",
+        "url": "https://www.valoraanalitik.com/la-millonaria-multa-que-podria-recibir-por-incumplir-estas-reglas-al-usar-inteligencia-artificial-en-colombia/",
+        "resumen": "Una práctica cada vez más común con inteligencia artificial puede generar problemas legales y terminar en una sanción de alto valor.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "La millonaria multa que podría recibir por incumplir estas reglas al usar inteligencia artificial en Colombia",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Alianza con Terpel Sunex permitirá a Compensar usar energía solar en ocho centros",
+        "url": "https://www.valoraanalitik.com/compensar-llevara-energia-solar-a-ocho-sedes-tras-alianza-con-terpel-sunex/",
+        "resumen": "La iniciativa contempla 2.633 paneles y busca reducir cerca de 30 % el consumo energético de las instalaciones intervenidas.",
+        "autor": "",
+        "subseccion": "Sostenibilidad",
+        "publicacion": "",
+        "titulo_fuente": "Compensar llevará energía solar a ocho sedes tras alianza con Terpel Sunex",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Banco de la República eleva las tasas de interés al 12,25 % y sorpréndela plaza",
+        "url": "https://www.valoraanalitik.com/banco-de-la-republica-aumenta-tasas-de-interes-septiembre-2026/",
+        "resumen": "La decisión del banco central es la primera que se toma con el nuevo gobierno del presidente Abelardo de la Espriella.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Banco de la República sorprende al mercado y aumenta las tasas de interés en Colombia a 12,25 %.",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
+      {
+        "titulo": "Flypass reafirma su defensa frente a demanda por supuestos cobros extra",
+        "url": "https://www.valoraanalitik.com/flypass-ratifica-defensa-ante-demanda-sobre-presuntos-cobros-adicionales-a-usuarios/",
+        "resumen": "La empresa afirmó que sus planes y cobros cumplen la regulación vigente y anunció que presentará sus argumentos ante la justicia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Flypass ratifica defensa ante demanda sobre presuntos cobros adicionales a usuarios",
+        "capturado": "2026-09-30T16:23:15-05:00"
+      },
       {
         "titulo": "Grupo Aval afianza su portafolio verde y su foco en transición energética e inclusión financiera",
         "url": "https://www.valoraanalitik.com/grupo-aval-fortalece-su-cartera-sostenible/",
@@ -1115,96 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Incidente de SPEC pone en riesgo el gas para industriales en Colombia; sector insiste en diversificar fuentes",
         "capturado": "2026-09-26T09:40:38-05:00"
-      },
-      {
-        "titulo": "Entrevista a Tomás Restrepo de Cementos Argos sobre sus futuros proyectos en EE UU y Colombia",
-        "url": "https://www.valoraanalitik.com/entrevista-tomas-restrepo-de-cementos-argos-habla-sobre-los-prometedores-planes-que-vienen-en-ee-uu-colombia-y-otros-mercados/",
-        "resumen": "Argos trabaja en una nueva plataforma de crecimiento en EE. UU., con la meta de construir negocio de entre US$200 millones y US$300 millones de Ebitda.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Tomás Restrepo de Cementos Argos habla sobre los prometedores planes que vienen en EE. UU., Colombia y otros mercados",
-        "capturado": "2026-09-26T09:40:38-05:00"
-      },
-      {
-        "titulo": "El nuevo presidente de Ecopetrol, Joaquín Gutiérrez, busca el renacer de la firma con fracking y récord histórico",
-        "url": "https://www.valoraanalitik.com/joaquin-gutierrez-nuevo-presidente-ecopetrol-va-por-renacer-de-la-empresa/",
-        "resumen": "El directivo asumirá la presidencia el 28 de septiembre y tendrá entre sus desafíos aumentar reservas, impulsar el gas y avanzar en ‘fracking’.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Joaquín Gutiérrez, nuevo presidente de Ecopetrol, va por ‘renacer’ de la empresa: hará fracking y promete alcanzar valor más alto de la historia",
-        "capturado": "2026-09-26T00:20:22-05:00"
-      },
-      {
-        "titulo": "Alcaldía de Bogotá y Claro Colombia se alían para ofrecer capacitación digital gratis en la capital",
-        "url": "https://www.valoraanalitik.com/alcaldia-de-bogota-y-claro-colombia-se-unen-para-llevar-formacion-digital-gratuita-a-las-personas-que-viven-en-la-capital/",
-        "resumen": "Los programas de formación están diseñados con un enfoque inclusivo, orientado a cerrar la brecha tecnológica en grupos poblacionales prioritarios.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Alcaldía de Bogotá y Claro Colombia se unen para llevar formación digital gratuita a las personas que viven en la capital",
-        "capturado": "2026-09-25T19:04:24-05:00"
-      },
-      {
-        "titulo": "Smurfit Westrock informa pacto para comprar la división de papel y corrugado de CMPC en Chile",
-        "url": "https://www.valoraanalitik.com/smurfit-westrock-anuncia-acuerdo-para-adquirir-el-negocio-de-papel-y-corrugado-de-cmpc-en-chile/",
-        "resumen": "Smurfit Westrock prevé que el cierre tenga lugar durante el primer semestre de 2027.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Smurfit Westrock anuncia acuerdo para adquirir el negocio de papel y corrugado de CMPC en Chile",
-        "capturado": "2026-09-25T19:04:24-05:00"
-      },
-      {
-        "titulo": "Entregaron subsidios de vivienda a recicladores tradicionales vinculados al programa Faro Postobón",
-        "url": "https://www.valoraanalitik.com/recicladores-de-oficio-del-programa-faro-postobon-recibieron-bonos-para-mejoramiento-de-vivienda/",
-        "resumen": "40 recicladores de Medellín, Copacabana, Bello, Itagüí, Envigado y Caldas fueron los primeros beneficiarios.",
-        "autor": "",
-        "subseccion": "Sostenibilidad",
-        "publicacion": "",
-        "titulo_fuente": "Recicladores de oficio del programa Faro Postobón recibieron bonos para mejoramiento de vivienda",
-        "capturado": "2026-09-25T16:22:08-05:00"
-      },
-      {
-        "titulo": "Mauricio Reina de Fedesarrollo afirmó que el Ejecutivo debe disminuir el gasto y potenciar los privados",
-        "url": "https://www.valoraanalitik.com/el-gobierno-tiene-que-hacer-una-caida-del-gasto-publico-y-expandir-el-sector-privado-mauricio-reina-de-fedesarrollo/",
-        "resumen": "Si las cosas salen como el Gobierno de Abelardo de la Espriella está planteando, el crecimiento potencial debería duplicarse frente al que hoy se tiene.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "“El Gobierno tiene que hacer una caída del gasto público y expandir el sector privado”: Mauricio Reina de Fedesarrollo",
-        "capturado": "2026-09-25T16:22:08-05:00"
-      },
-      {
-        "titulo": "José Camilo Manzur se apartó de la dirección de Asocodis",
-        "url": "https://www.valoraanalitik.com/jose-camilo-manzur-renuncio-a-la-presidencia-de-asocodis/",
-        "resumen": "El ejecutivo presentó su carta de renuncia ante la Junta Directiva, con el fin de emprender nuevos retos profesionales.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "José Camilo Manzur renunció a la presidencia de Asocodis",
-        "capturado": "2026-09-25T16:22:08-05:00"
-      },
-      {
-        "titulo": "Inicia suspensión transitoria de gas industrial en Colombia a raíz de avería en planta regasificadora",
-        "url": "https://www.valoraanalitik.com/arranca-racionamiento-temporal-de-gas-para-industrias-en-colombia-por-falla-en-terminal-de-regasifacion/",
-        "resumen": "Esta medida se extenderá hasta que se declaren superadas las causas que originaron la falla.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Arranca racionamiento temporal de gas para industrias en Colombia por falla en terminal de regasificación",
-        "capturado": "2026-09-25T12:53:21-05:00"
-      },
-      {
-        "titulo": "Descanso de año nuevo: fechas de compra, presupuesto estimado y lugares predilectos de los colombianos",
-        "url": "https://www.valoraanalitik.com/vacaciones-de-fin-de-ano-cuando-comprar-cuanto-presupuestar-y-que-destinos-buscan-los-colombianos/",
-        "resumen": "Los viajeros colombianos están realizando sus reservas, en promedio, siete meses antes de la fecha de salida.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Vacaciones de fin de año: cuándo comprar, cuánto presupuestar y qué destinos buscan los colombianos",
-        "capturado": "2026-09-25T12:53:21-05:00"
       }
     ]
   }
