@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-01T09:42:23-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-10-01T15:15:09-05:00",
+  "nuevos_en_esta_corrida": 19,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Ventas de vehículos en Colombia lograron en septiembre el nivel más alto desde 2014 con récord en híbridos y eléctricos",
+        "url": "https://www.valoraanalitik.com/septiembre-fue-el-mejor-mes-para-ventas-de-carros-en-colombia-desde-2014-electricos-e-hibridos-en-record/",
+        "resumen": "Tesla ya es la quinta marca más vendida en Colombia: 2.435 matrículas en septiembre.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Septiembre fue el mejor mes para ventas de carros en Colombia desde 2014; eléctricos e híbridos en récord",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "La compensación económica a la que tendría derecho si renunció al empleo para atender a sus familiares",
+        "url": "https://www.valoraanalitik.com/la-indemnizacion-que-podria-recibir-si-dejo-de-trabajar-para-cuidar-a-su-familia/",
+        "resumen": "Dejar el trabajo para cuidar a la familia no genera automáticamente un pago, pero la dependencia económica puede dar lugar a una protección durante el divorcio.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "La indemnización que podría recibir si dejó de trabajar para cuidar a su familia",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "URF prepara un marco de inversiones exclusivo para aseguradoras y otras disposiciones",
+        "url": "https://www.valoraanalitik.com/urf-alista-regimen-de-inversiones-propio-para-el-sector-asegurador-y-otras-normas/",
+        "resumen": "La entidad publicará su agenda normativa 2027, la cual incluirá decretos sobre comercialización y un estudio técnico para seguros paramétricos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "URF alista régimen de inversiones propio para el sector asegurador y otras normas",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia sube y termina en 3310 pesos tras fuerte incremento del petróleo",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-repunta-y-cierra-en-3-310-luego-de-que-el-precio-del-petroleo-se-disparara/",
+        "resumen": "La divisa estadounidense abrió a la baja en $3.298 y retrocedió hasta un mínimo intradiario de $3.269 y luego a un máximo de $3.346.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia repunta y cierra en $3.310 luego de que el precio del petróleo se disparara",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Destacado | María Paula Correa gana opciones para asumir la presidencia de la ANDI",
+        "url": "https://www.valoraanalitik.com/maria-paula-correa-toma-fuerza-para-ser-nueva-presidenta-de-la-andi/",
+        "resumen": "La Mesa Directiva de la Asociación Nacional de Empresarios de Colombia podría elegir, por primera vez en su historia, a una mujer como presidenta.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | María Paula Correa toma fuerza para ser la nueva presidenta de la ANDI",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Davivienda Group intensifica enfoque en finanzas personales al buscar alianza con Carvajal en app monetaria",
+        "url": "https://www.valoraanalitik.com/davivienda-group-socio-carvajal-app-dinero/",
+        "resumen": "El holding financiero avanza en la adquisición del 50 % de los derechos de PliP, aplicación de Assenda Inversiones (Carvajal).",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Davivienda Group refuerza apuesta por finanzas personales: busca ser socio de Carvajal en app para gestionar dinero",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado deroga norma de la DIAN sobre autorretención y esta deja de regir para todo pago",
+        "url": "https://www.valoraanalitik.com/consejo-de-estado-anula-regla-de-la-dian-sobre-autorretencion-ya-no-aplica-a-todos-los-pagos/",
+        "resumen": "La decisión del Consejo de Estado cambia la forma de aplicar la autorretención especial que venía aplicando la DIAN.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "Consejo de Estado anula regla de la DIAN sobre autorretención: ya no aplica a todos los pagos",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Bruce Mac Master deja la presidencia de la ANDI luego de más de 13 años en el cargo",
+        "url": "https://www.valoraanalitik.com/atencion-bruce-mac-master-sale-de-la-presidencia-de-la-andi-tras-mas-de-13-anos-estos-son-los-detalles/",
+        "resumen": "Bruce Mac Master dejará la presidencia de la ANDI tras más de una década al frente del principal gremio empresarial del país.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Bruce Mac Master sale de la presidencia de la ANDI tras más de 13 años: estos son los detalles",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "De La Espriella echa marcha atrás al incremento en las tarifas de gasolina previsto para octubre",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-reversa-aumento-de-precios-de-la-gasolina-para-octubre/",
+        "resumen": "El mandatario pidió revisar el alza mientras se buscan soluciones ante el incremento internacional del precio del petróleo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | De La Espriella reversa aumento de precios de la gasolina para octubre",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "IATA reporta contracción del 0,8% en la demanda global de pasajeros aéreos durante agosto de 2026",
+        "url": "https://www.valoraanalitik.com/demanda-mundial-de-pasajeros-aereos-cayo-08-en-agosto-de-2026-segun-iata/",
+        "resumen": "La demanda mundial de pasajeros aéreos cayó 0,8% en agosto de 2026, afectada por la menor actividad en Medio Oriente, según IATA.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Demanda mundial de pasajeros aéreos cayó 0,8% en agosto de 2026, según IATA",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
       {
         "titulo": "Colombia alista Milagro Week con EE. UU. y Venezuela para captar capitales",
         "url": "https://www.valoraanalitik.com/colombia-prepara-milagro-week-con-ee-uu-y-venezuela-para-atraer-inversion/",
@@ -503,109 +603,99 @@
         "publicacion": "",
         "titulo_fuente": "Ministerio de Hacienda autorizó a Bogotá para adquirir un préstamo de $1,3 billones para la Primera Línea del Metro",
         "capturado": "2026-09-30T00:02:09-05:00"
-      },
-      {
-        "titulo": "El Gobierno declara insubsistente al exdirector y nombra a Karen Ayos como nueva directora de la UGPP",
-        "url": "https://www.valoraanalitik.com/karen-ayos-es-la-nueva-directora-de-la-ugpp-gobierno-declara-insubsistente-a-exdirector/",
-        "resumen": "Karen Patricia Ayos Vargas tiene una trayectoria de varios años dentro de la UGPP, especialmente en el área pensional.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Karen Ayos es la nueva directora de la UGPP; Gobierno declara insubsistente a exdirector",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "En agosto de 2026 subió 1,8 % la actividad de taladros de gas y petróleo",
-        "url": "https://www.valoraanalitik.com/actividad-de-taladros-de-petroleo-y-gas-aumento-18-en-agosto-de-2026/",
-        "resumen": "Meta, Casanare y La Guajira concentraron los equipos en actividades de perforación.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Actividad de taladros de petróleo y gas aumentó 1,8 % en agosto de 2026",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "Así funciona el subsidio en la factura de energía y quiénes tienen acceso a él",
-        "url": "https://www.valoraanalitik.com/subsidio-en-la-factura-de-energia-asi-funciona-y-quienes-pueden-recibirlo/",
-        "resumen": "El subsidio de energía tiene un límite de consumo y cambia según el estrato y el clima de la zona. Esto debe saber para entender su factura.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Subsidio en la factura de energía: así funciona y quiénes pueden recibirlo",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "Los mercados se tranquilizan y se abre paso a un crédito más económico con el acercamiento de Colombia al FMI",
-        "url": "https://www.valoraanalitik.com/el-acercamiento-de-colombia-al-fmi-calma-a-los-mercados-y-abre-la-puerta-a-financiamiento-mas-barato/",
-        "resumen": "La aproximación con el organismo busca otorgar liquidez preventiva, abrir puertas a financiamiento internacional y aliviar la carga de intereses del país.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "El acercamiento de Colombia al FMI calma a los mercados y abre la puerta a financiamiento más barato",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "Para mejorar las vías, el Ejecutivo buscará apoderarse de parte del recaudo de la sobretasa a la gasolina y el impuesto vehicular",
-        "url": "https://www.valoraanalitik.com/gobierno-buscara-tomar-parte-del-recaudo-del-impuesto-vehicular-y-la-sobretasa-a-la-gasolina-para-mejorar-vias/",
-        "resumen": "Estas medidas hacen parte de un paquete que tiene el Gobierno en el radar para enfrentar la crisis fiscal por la que atraviesa el país.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno buscará tomar parte del recaudo del impuesto vehicular y la sobretasa a la gasolina para mejorar vías",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "Robots con forma humana arriban al país: su costo equivale al de un apartamento",
-        "url": "https://www.valoraanalitik.com/robots-humanoides-llegan-a-colombia-pueden-valer-lo-mismo-que-un-apartamento/",
-        "resumen": "Robots humanoides programables llegan al mercado colombiano con usos en educación, seguridad y comercio, y precios que varían según la solución.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Robots humanoides llegan a Colombia: pueden valer lo mismo que un apartamento",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "Corficolombiana estima que la inversión superará al gasto público en la expansión de la economía nacional",
-        "url": "https://www.valoraanalitik.com/corficolombiana-proyecciones-2027/",
-        "resumen": "Para el próximo año, se espera que el gasto público reduciría significativamente su ritmo de expansión",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Corficolombiana prevé que la inversión desplace al gasto público en el crecimiento económico de Colombia",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "Producción del sector gasífero nacional arrojó saldo en contra, bajaron las ventas y repuntó la compra externa",
-        "url": "https://www.valoraanalitik.com/industria-del-gas-en-colombia-reporto-cifras-rojas-en-produccion-comercializacion-cayo-y-la-importacion-se-disparo/",
-        "resumen": "Campetrol advirtió que a esto se suma la intensa ola de calor que presionaría la demanda de gas para la generación eléctrica.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Industria del gas en Colombia reportó cifras rojas en producción; comercialización cayó y la importación se disparó",
-        "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Familias tienen aviso por gasto de luz en el recibo: así operará el recargo",
-        "url": "https://www.valoraanalitik.com/hogares-ya-reciben-advertencia-por-consumo-en-la-factura-de-energia-asi-funcionara-el-cobro-adicional/",
-        "resumen": "La factura de energía ya muestra una advertencia sobre el consumo y el nuevo esquema de ahorro. Así funcionará el cobro que podría aparecer después.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Hogares ya reciben advertencia por consumo en la factura de energía: así funcionará el cobro adicional",
-        "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Luego de falla en un vagón, la Planta Regasificadora de Cartagena retomó su rendimiento total",
-        "url": "https://www.valoraanalitik.com/tras-el-incidente-en-uno-de-sus-trenes-la-regasificadora-de-cartagena-volvio-a-operar-a-plena-capacidad/",
-        "resumen": "Esta terminal expresó que está operando nuevamente con 475 millones de pies cúbicos diarios y que resolvió el inconveniente antes del plazo estimado.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Tras el incidente en uno de sus trenes, la Regasificadora de Cartagena volvió a operar a plena capacidad",
-        "capturado": "2026-09-29T15:10:08-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Ventas de vehículos en Colombia lograron en septiembre el nivel más alto desde 2014 con récord en híbridos y eléctricos",
+        "url": "https://www.valoraanalitik.com/septiembre-fue-el-mejor-mes-para-ventas-de-carros-en-colombia-desde-2014-electricos-e-hibridos-en-record/",
+        "resumen": "Tesla ya es la quinta marca más vendida en Colombia: 2.435 matrículas en septiembre.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Septiembre fue el mejor mes para ventas de carros en Colombia desde 2014; eléctricos e híbridos en récord",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "El Premio Piñón de Oro fue otorgado a Negocios Ditu por su contribución al crecimiento empresarial colombiano",
+        "url": "https://www.valoraanalitik.com/negocios-ditu-recibe-el-premio-pinon-de-oro-por-su-aporte-al-desarrollo-empresarial/",
+        "resumen": "Valora Analitik es medio aliado de la plataforma con ‘Análisis con Valora’, espacio que aborda temas de coyuntura.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Negocios Ditu recibe el Premio Piñón de Oro por su aporte al desarrollo empresarial de Colombia",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "María Paula Correa suena con fuerza para asumir la presidencia de la ANDI",
+        "url": "https://www.valoraanalitik.com/maria-paula-correa-toma-fuerza-para-ser-nueva-presidenta-de-la-andi/",
+        "resumen": "La Mesa Directiva de la Asociación Nacional de Empresarios de Colombia podría elegir, por primera vez en su historia, a una mujer como presidenta.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | María Paula Correa toma fuerza para ser la nueva presidenta de la ANDI",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Medellín será sede del LinkU Capital Summit para analizar el movimiento del capital en América Latina",
+        "url": "https://www.valoraanalitik.com/linku-capital-summit-llevara-a-medellin-la-conversacion-sobre-como-se-esta-moviendo-el-capital/",
+        "resumen": "El encuentro se realizará el 5 y 6 de octubre y reunirá a family offices, gestores patrimoniales, fondos de capital privado, inversionistas y corporativos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "LinkU Capital Summit llevará a Medellín la conversación sobre cómo se está moviendo el capital en Latinoamérica",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Colsubsidio obtuvo una distinción en los Gartner’s 2026 Eye on Innovation Awards",
+        "url": "https://www.valoraanalitik.com/colsubsidio-recibe-reconocimiento-en-los-gartners-2026-eye-on-innovation-awards/",
+        "resumen": "Colsubsidio ocupó el segundo puesto entre 467 organizaciones participantes en los Gartner’s 2026 Eye on Innovation Awards, en la categoría Midsize.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colsubsidio recibe reconocimiento en los Gartner’s 2026 Eye on Innovation Awards",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado tumba norma de autorretención de la DIAN y ya no cobijará a todos los pagos",
+        "url": "https://www.valoraanalitik.com/consejo-de-estado-anula-regla-de-la-dian-sobre-autorretencion-ya-no-aplica-a-todos-los-pagos/",
+        "resumen": "La decisión del Consejo de Estado cambia la forma de aplicar la autorretención especial que venía aplicando la DIAN.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "Consejo de Estado anula regla de la DIAN sobre autorretención: ya no aplica a todos los pagos",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Alerta: Bruce Mac Master deja la presidencia de la ANDI tras más de 13 años y estos son los datos",
+        "url": "https://www.valoraanalitik.com/atencion-bruce-mac-master-sale-de-la-presidencia-de-la-andi-tras-mas-de-13-anos-estos-son-los-detalles/",
+        "resumen": "Bruce Mac Master dejará la presidencia de la ANDI tras más de una década al frente del principal gremio empresarial del país.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Bruce Mac Master sale de la presidencia de la ANDI tras más de 13 años: estos son los detalles",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Gopass impulsa su segmento corporativo al unir red de gasolina y peajes para flotas en una app",
+        "url": "https://www.valoraanalitik.com/gopass-acelera-su-negocio-corporativo-integra-la-red-de-combustible-mas-grande-del-pais-y-el-pago-de-peajes-en-una-sola-solucion-para-flotas/",
+        "resumen": "La integración del negocio de combustible impulsó el segmento B2B de Gopass, que alcanzó un crecimiento de 527 % en su volumen transado promedio mensual.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gopass acelera su negocio corporativo: integra la red de combustible más grande del país y el pago de peajes en una sola solución para flotas",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
+      {
+        "titulo": "Qué tiempo permanece una prenda a precio total según informe sobre la moda en el país",
+        "url": "https://www.valoraanalitik.com/cuanto-dura-una-prenda-a-precio-pleno-esto-dice-nuevo-reporte/",
+        "resumen": "FashionAI analiza el ciclo de vida de las referencias y muestra qué categorías mantienen su valor y cuáles terminan en rebaja.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "¿Cuánto dura una prenda a precio pleno? Esto dice un reporte sobre la moda en Colombia",
+        "capturado": "2026-10-01T15:15:09-05:00"
+      },
       {
         "titulo": "Colombia alista Milagro Week con EE. UU. y Venezuela para captar capital",
         "url": "https://www.valoraanalitik.com/colombia-prepara-milagro-week-con-ee-uu-y-venezuela-para-atraer-inversion/",
@@ -1115,96 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Estos fueron los campos que le suministraron más gas a Colombia en agosto de 2026",
         "capturado": "2026-09-28T20:41:11-05:00"
-      },
-      {
-        "titulo": "Colombia inicia gestión para que EE. UU. elimine aranceles por trabajo forzoso",
-        "url": "https://www.valoraanalitik.com/colombia-da-primer-paso-para-que-ee-uu-levante-aranceles-por-medidas-de-trabajo-forzoso/",
-        "resumen": "Esta medida es clave porque EE. UU. impuso aranceles de 10 % a 12,5 % a 60 economías por no tomar acciones sobre el trabajo forzoso.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Colombia da primer paso para que EE. UU. levante aranceles por medidas de trabajo forzoso",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Conozca el funcionamiento de la nueva alternativa gratuita para revisar su historial en DataCrédito",
-        "url": "https://www.valoraanalitik.com/nueva-opcion-para-consultar-gratis-su-historia-de-credito-en-datacredito-asi-funciona/",
-        "resumen": "DataCrédito Experian lanzó una nueva herramienta que permite conocer información clave sobre su perfil financiero y crediticio.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Nueva opción para consultar gratis su historia de crédito en DataCrédito: así funciona",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Meta, Casanare, La Guajira, Santander y Antioquia resultan claves para elevar la extracción petrolera y gasífera",
-        "url": "https://www.valoraanalitik.com/meta-casanare-la-guajira-santander-y-antioquia-los-departamentos-clave-para-multiplicar-produccion-de-petroleo-y-gas/",
-        "resumen": "El director del CREE dijo que, si se desea tener aumentos en la década de 2030, deben tomarse decisiones desde este momento.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Meta, Casanare, La Guajira, Santander y Antioquia, los departamentos clave para multiplicar producción de petróleo y gas",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Importante: Accionistas del Grupo Energía Bogotá avalan comenzar trámite para listar en la Bolsa de Nueva York",
-        "url": "https://www.valoraanalitik.com/accionistas-grupo-energia-bogota-nueva-york/",
-        "resumen": "Será la Junta Directiva la que determine cuál será la bolsa en la que se listarán los ADR del Grupo Energía Bogotá.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Accionistas del Grupo Energía Bogotá aprobaron iniciar proceso para cotizar en la Bolsa de Nueva York",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Usuarios de DaviPlata contarán con una nueva alternativa para sacar efectivo en establecimientos Olímpica",
-        "url": "https://www.valoraanalitik.com/davivienda-daviplata-retiro-dinero-olimpica/",
-        "resumen": "Serán 403 tiendas Olímpica y más de 2.800 cajas las que quedarán habilitadas como corresponsales del banco y su neobanco.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Clientes de DaviPlata tendrán nueva opción para retirar dinero en tiendas Olímpica",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Ola de calor colombiana continuará hasta junio de 2027 y Goldman Sachs prevé mayor alza de precios",
-        "url": "https://www.valoraanalitik.com/oleada-de-calor-en-colombia-iria-hasta-junio-de-2027-goldman-sachs-anticipa-mas-inflacion/",
-        "resumen": "Aparte de las previsiones del Ideam, se sumaron las de la Universidad de Columbia y la evaluación de impacto de Goldman Sachs.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Oleada de calor en Colombia iría hasta junio de 2027; Goldman Sachs anticipa más inflación",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "Centelsa by Nexans inicia diálogo sobre retos eléctricos frente a la próxima administración colombiana",
-        "url": "https://www.valoraanalitik.com/centelsa-by-nexans-abre-conversacion-sobre-desafios-del-sector-electrico-de-cara-al-nuevo-gobierno-de-colombia/",
-        "resumen": "El encuentro reunirá a representantes de la industria, gremios y técnicos para analizar retos de la infraestructura eléctrica que requiere Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Centelsa by Nexans abre conversación sobre desafíos del sector eléctrico de cara al nuevo Gobierno de Colombia",
-        "capturado": "2026-09-28T16:45:21-05:00"
-      },
-      {
-        "titulo": "El esquema de recorridos virtuales que llega a más de 24.000 trabajadores de la salud en la región",
-        "url": "https://www.valoraanalitik.com/el-modelo-de-visitas-digitales-que-impacta-a-mas-24-000-profesionales-en-america-latina/",
-        "resumen": "El programa, denominado EuroJuntos, nació en Brasil en 2021 como un proyecto piloto y desde 2022 inició su expansión regional.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "El modelo de visitas digitales que impacta a más 24.000 profesionales de la salud en América Latina",
-        "capturado": "2026-09-27T20:08:13-05:00"
-      },
-      {
-        "titulo": "De la Espriella confirma US$1.000 millones de PepsiCo para Colombia y detalla su destinación",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-confirma-us1-000-millones-de-pepsico-para-colombia-asi-se-movera-la-inversion/",
-        "resumen": "PepsiCo anunció nuevos planes para Colombia y el Gobierno destacó el impacto que tendría la inversión en producción, empleo y proveedores.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella confirma US$1.000 millones de PepsiCo para Colombia: así se moverá la inversión",
-        "capturado": "2026-09-27T17:29:58-05:00"
       }
     ]
   }
