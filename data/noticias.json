@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-30T19:46:19-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-10-01T02:03:24-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Ecopetrol obtuvo $683.990 millones por cobrar del Fondo de Estabilización de Combustibles y nombró directivos",
+        "url": "https://www.valoraanalitik.com/ecopetrol-recibio-683-990-millones-por-cuentas-por-cobrar-del-fondo-de-estabilizacion-de-combustibles-la-compania-tuvo-nuevos-nombramientos/",
+        "resumen": "Los montos fueron transferidos por los ministerios de Hacienda y de Minas. Apuntan a la reducción del déficit en la bolsa para estabilizar precio del diésel.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol recibió $683.990 millones en cuentas por cobrar del Fondo de Estabilización de Combustibles; la compañía tuvo nuevos nombramientos",
+        "capturado": "2026-10-01T02:03:24-05:00"
+      },
+      {
+        "titulo": "El Consejo Privado de Competitividad pasa a llamarse Colombia Compite y aconseja al Gobierno De la Espriella",
+        "url": "https://www.valoraanalitik.com/consejo-privado-de-competitividad-evoluciona-a-colombia-compite-deja-recomendaciones-a-gobierno-de-la-espriella/",
+        "resumen": "La organización identificó cuatro frentes urgentes para 2026-2030: ajuste fiscal, salud, energía y una revisión de trámites y regulaciones.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Consejo Privado de Competitividad evoluciona a Colombia Compite; deja recomendaciones a Gobierno De la Espriella",
+        "capturado": "2026-10-01T02:03:24-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella sube el costo de la gasolina corriente en octubre y congela el valor del ACPM",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-aumenta-el-precio-de-la-gasolina-corriente-para-octubre-mantiene-precio-del-acpm/",
+        "resumen": "La diferencia del precio del diésel local e internacional es una de las presiones en la política fiscal en Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella aumenta el precio de la gasolina corriente para octubre: mantiene precio del ACPM",
+        "capturado": "2026-10-01T02:03:24-05:00"
+      },
       {
         "titulo": "Congreso, Educación y Minas y Energía registraron la mayor ejecución presupuestal en agosto",
         "url": "https://www.valoraanalitik.com/congreso-educacion-y-minas-y-energia-fueron-los-sectores-con-mayores-niveles-de-ejecucion-presupuestal-en-agosto/",
@@ -573,39 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Así aumentarán el predial y el ICA en Bogotá con la reforma tributaria de Galán que se aprobó; habrá alivios para morosos",
         "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Juan Sebastián Uribe es nombrado nuevo country manager de inDrive en Colombia",
-        "url": "https://www.valoraanalitik.com/juan-sebastian-uribe-asume-como-nuevo-country-manager-de-indrive-en-colombia/",
-        "resumen": "El ejecutivo cuenta con más de 13 años de experiencia en e-commerce y sectores como automotriz y aviación.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Juan Sebastián Uribe asume como nuevo country manager de inDrive en Colombia",
-        "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Títulos de Nu registran fuertes descensos en el Mercado Global Colombiano",
-        "url": "https://www.valoraanalitik.com/acciones-de-nu-caen-con-fuerza-en-mercado-global-colombiano/",
-        "resumen": "El Mercado Global Colombiano registra que las acciones de Nubank bajaron 6,93 %",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Acciones de Nu caen con fuerza en Mercado Global Colombiano",
-        "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados dispares por alza de bonos, retroceso del crudo y tecnológicas; esperan datos europeos",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-mixtas-por-repunte-de-bonos-caida-del-petroleo-y-tecnologicas-mercado-espera-datos-de-la-eurozona/",
-        "resumen": "El mercado ha entrado en un frustrante punto muerto tras el torrente de dura retórica entre EE. UU. e Irán en torno al estrecho de Ormuz.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas mixtas por repunte de bonos, caída del petróleo y tecnológicas; mercado espera datos de la eurozona",
-        "capturado": "2026-09-29T10:01:18-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Ecopetrol obtuvo $683.990 millones por cobrar del FEPC y efectuó nuevos nombramientos",
+        "url": "https://www.valoraanalitik.com/ecopetrol-recibio-683-990-millones-por-cuentas-por-cobrar-del-fondo-de-estabilizacion-de-combustibles-la-compania-tuvo-nuevos-nombramientos/",
+        "resumen": "Los montos fueron transferidos por los ministerios de Hacienda y de Minas. Apuntan a la reducción del déficit en la bolsa para estabilizar precio del diésel.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol recibió $683.990 millones en cuentas por cobrar del Fondo de Estabilización de Combustibles; la compañía tuvo nuevos nombramientos",
+        "capturado": "2026-10-01T02:03:24-05:00"
+      },
+      {
+        "titulo": "Consejo Privado de Competitividad pasa a ser Colombia Compite y aconseja al gobierno De la Espriella",
+        "url": "https://www.valoraanalitik.com/consejo-privado-de-competitividad-evoluciona-a-colombia-compite-deja-recomendaciones-a-gobierno-de-la-espriella/",
+        "resumen": "La organización identificó cuatro frentes urgentes para 2026-2030: ajuste fiscal, salud, energía y una revisión de trámites y regulaciones.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Consejo Privado de Competitividad evoluciona a Colombia Compite; deja recomendaciones a Gobierno De la Espriella",
+        "capturado": "2026-10-01T02:03:24-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella sube el valor de la gasolina para octubre y deja intacto el ACPM",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-aumenta-el-precio-de-la-gasolina-corriente-para-octubre-mantiene-precio-del-acpm/",
+        "resumen": "La diferencia del precio del diésel local e internacional es una de las presiones en la política fiscal en Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella aumenta el precio de la gasolina corriente para octubre: mantiene precio del ACPM",
+        "capturado": "2026-10-01T02:03:24-05:00"
+      },
+      {
+        "titulo": "TD SYNNEX aumenta a doble dígito en el país y alista nueva ampliación en IA y centros de datos",
+        "url": "https://www.valoraanalitik.com/td-synnex-crece-a-doble-digito-en-colombia-y-prepara-nueva-expansion-en-ia-y-centros-de-datos/",
+        "resumen": "La compañía fortalece su negocio en inteligencia artificial, nube, ciberseguridad y centros de datos ante el aumento de la demanda empresarial.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "TD SYNNEX crece a doble dígito en Colombia y prepara nueva expansión en IA y centros de datos",
+        "capturado": "2026-10-01T02:03:24-05:00"
+      },
       {
         "titulo": "Grupo Argos emprende transacciones financieras en concesiones de Odinsa dentro de ACE 1.0",
         "url": "https://www.valoraanalitik.com/grupo-argos-operaciones-financieras-odinsa/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Despegar crece hasta 40 % en Colombia y tiene una fuerte apuesta para 2027: Dará beneficios a viajeros para fin de año",
         "capturado": "2026-09-27T10:15:28-05:00"
-      },
-      {
-        "titulo": "Novedades en medios: El Tiempo reduce su tamaño y cambia sede; El Colombiano designa nueva dirección",
-        "url": "https://www.valoraanalitik.com/cambios-en-medios-de-comunicacion-el-tiempo-achica-su-formato-y-muda-su-redaccion-el-colombiano-cambia-de-mando/",
-        "resumen": "Estos son los cambios que tendrán dos medios de comunicación en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cambios en medios de comunicación: El Tiempo achica su formato y muda su redacción; El Colombiano cambia de mando",
-        "capturado": "2026-09-27T10:15:28-05:00"
-      },
-      {
-        "titulo": "Entrevista | Cerrejón avisa de bloqueos y ataques en su labor; prevé retomar despachos a Israel",
-        "url": "https://www.valoraanalitik.com/cerrejon-advierte-de-bloqueos-y-atentados-en-sus-operaciones-espera-reactivar-envios-a-israel/",
-        "resumen": "El presidente de Cerrejón, Edgar Alfonso, abordó las principales problemáticas que enfrenta la compañía en materia de seguridad.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Cerrejón advierte de bloqueos y atentados en sus operaciones; espera reactivar envíos a Israel",
-        "capturado": "2026-09-27T10:15:28-05:00"
-      },
-      {
-        "titulo": "Estación de carga para carros eléctricos en Bogotá: operación del nuevo sitio",
-        "url": "https://www.valoraanalitik.com/asi-funciona-el-nuevo-punto-de-carga-para-vehiculos-electricos-en-bogota/",
-        "resumen": "La estación está ubicada en el Centro Comercial Bima y cuenta con un cargador rápido y tres puntos de 7 kW.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Electrolinera en Bogotá: así funciona el nuevo punto de carga para vehículos eléctricos",
-        "capturado": "2026-09-26T18:48:08-05:00"
-      },
-      {
-        "titulo": "Nubank llega a OXXO y Farmatodo con nuevo beneficio para clientes de Nu Colombia",
-        "url": "https://www.valoraanalitik.com/nubank-nu-colombia-lleva-sus-servicios-a-oxxo-y-farmatodo-este-es-el-nuevo-beneficio-para-sus-clientes/",
-        "resumen": "Nu amplía las opciones para manejar efectivo en Colombia con nuevas alianzas y una red física que busca facilitar las transacciones de sus clientes.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Nubank (Nu Colombia) lleva sus servicios a OXXO y Farmatodo: este es el nuevo beneficio para sus clientes",
-        "capturado": "2026-09-26T16:26:32-05:00"
       }
     ]
   }
