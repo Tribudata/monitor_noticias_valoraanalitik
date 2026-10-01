@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-09-30T16:23:15-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-09-30T19:46:19-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Congreso, Educación y Minas y Energía registraron la mayor ejecución presupuestal en agosto",
+        "url": "https://www.valoraanalitik.com/congreso-educacion-y-minas-y-energia-fueron-los-sectores-con-mayores-niveles-de-ejecucion-presupuestal-en-agosto/",
+        "resumen": "El rezago en el Presupuesto para 2025 fue de $48,4 billones, que equivalen a 2,4 % del PIB.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Congreso, Educación y Minas y Energía fueron los sectores con mayores niveles de ejecución presupuestal en agosto",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
+      {
+        "titulo": "CARF estimó un avance económico del 2,5 % en 2026 y un déficit fiscal del 7,8 % del PIB al finalizar el año",
+        "url": "https://www.valoraanalitik.com/carf-proyecto-un-crecimiento-economico-en-2026-de-25-y-un-deficit-fiscal-de-78-del-pib-para-el-cierre-del-ano/",
+        "resumen": "La entidad manifestó que a mediano plazo, si se continúa con esta senda, la deuda es insostenible.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "CARF proyectó un crecimiento económico en 2026 de 2,5 % y un déficit fiscal de 7,8 % del PIB para el cierre del año",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
+      {
+        "titulo": "Superfinanciero resalta que el sismo no impactó al sector asegurador colombiano",
+        "url": "https://www.valoraanalitik.com/superfinanciero-destaca-que-el-terremoto-no-afecto-a-la-industria-aseguradora-en-colombia/",
+        "resumen": "El superintendente financiero, Pablo Andrés Rivas, trazó la hoja de ruta del sector frente al impacto de los desastres naturales.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Superfinanciero destaca que el terremoto no afectó a la industria aseguradora en Colombia",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
+      {
+        "titulo": "La Bolsa de Colombia subió 23,2 % de enero a septiembre y es la segunda de mayor valorización regional",
+        "url": "https://www.valoraanalitik.com/bolsa-de-colombia-septiembre-2026-ranking/",
+        "resumen": "El mercado local tiene mejor desempeño que la mayoría de los mercados regionales y que el índice S&P y Nasdaq, de la Bolsa de nueva York.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "La Bolsa de Colombia ha crecido 23,2 % entre enero y septiembre; es la segunda más valorizada de la región",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
+      {
+        "titulo": "Nubank niega versión sobre adquisición del banco Monzo en Inglaterra y sus títulos repuntan",
+        "url": "https://www.valoraanalitik.com/nubank-desmiente-rumor-de-compra-del-banco-monzo-en-inglaterra-y-sus-acciones-suben/",
+        "resumen": "La compañía manifestó que su foco sigue estando en Brasil, Colombia, México y EE. UU.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Nubank desmiente rumor de compra del banco Monzo en Inglaterra y sus acciones suben",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
+      {
+        "titulo": "Grupo Argos confirma transacciones financieras en concesiones de Odinsa bajo el esquema ACE 1.0",
+        "url": "https://www.valoraanalitik.com/grupo-argos-operaciones-financieras-odinsa/",
+        "resumen": "Estas operaciones se dan en el marco del programa ACE 1.0, que contempla la gestión del portafolio para anticipar la generación y distribución de caja.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos anuncia operaciones financieras en concesiones de Odinsa como parte de ACE 1.0",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
+      {
+        "titulo": "Industria de seguros en Colombia aumentó 18 % en un cuatrienio y duplicó el paso de la economía",
+        "url": "https://www.valoraanalitik.com/sector-asegurador-colombiano-crecio-18-en-cuatro-anos-y-duplico-el-ritmo-de-expansion-de-la-economia/",
+        "resumen": "En el marco de la Convención Internacional de Seguros, Fasecolda reveló que las primas reales del sector aumentaron más del doble que el PIB.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Sector asegurador colombiano creció 18 % en cuatro años y duplicó el ritmo de expansión de la economía",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
+      {
+        "titulo": "Ponen en marcha obra de $22.000 millones para mitigar congestiones viales al occidente de Bogotá",
+        "url": "https://www.valoraanalitik.com/inauguran-obra-de-22-000-millones-que-ayudara-a-acabar-trancones-en-el-occidente-de-bogota/",
+        "resumen": "La obra completa un tramo de la avenida Mutis y cambia la conexión vial en Engativá, donde conductores enfrentaban un punto crítico de congestión.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Inauguran obra de $22.000 millones que ayudará a acabar trancones en el occidente de Bogotá",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
       {
         "titulo": "Presidenta de la CCI solicita agilizar proyectos y destrabar desembolsos para reactivar el sector vial",
         "url": "https://www.valoraanalitik.com/presidenta-de-la-cci-pide-acelerar-obras-y-destrabar-pagos-para-reactivar-infraestructura-en-colombia/",
@@ -523,89 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Premercado | Bolsas mixtas por repunte de bonos, caída del petróleo y tecnológicas; mercado espera datos de la eurozona",
         "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Desde esta fecha tendría que empezar la discusión del salario mínimo en Colombia para 2027",
-        "url": "https://www.valoraanalitik.com/desde-esta-fecha-deberia-iniciar-la-negociacion-del-salario-minimo-en-colombia-para-2027/",
-        "resumen": "Desde esta fecha debería iniciar la negociación del salario mínimo en Colombia para 2027",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Desde esta fecha debería iniciar la negociación del salario mínimo en Colombia para 2027",
-        "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Entrevista | Ciudad Limpia procesa hasta 800 toneladas mensuales para sustituir carbón y gas",
-        "url": "https://www.valoraanalitik.com/empresa-de-gestion-de-residuos-ciudad-limpia-procesa-hasta-800-toneladas-mensuales-para-reemplazar-carbon-y-gas/",
-        "resumen": "El gerente regional de Ciudad Limpia, Manuel Guillermo Vallecilla, habló sobre los retos y procesos que enfrenta la compañía en la gestión de residuos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Empresa de gestión de residuos Ciudad Limpia procesa hasta 800 toneladas mensuales para reemplazar carbón y gas",
-        "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "A la inflación colombiana se aúna este peligro: Para 2027 se daría una nueva subida",
-        "url": "https://www.valoraanalitik.com/a-la-inflacion-en-colombia-se-le-suma-este-riesgo-para-2027-habria-nuevo-aumento/",
-        "resumen": "La inflación en Colombia depende también de lo que se defina sobre el aumento del salario mínimo, entre otros.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "A la inflación en Colombia se le suma este riesgo: Para 2027 habría nuevo aumento",
-        "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Comitiva nacional irá a Washington la semana próxima para gestionar recursos del FMI",
-        "url": "https://www.valoraanalitik.com/delegacion-colombiana-viajara-a-washington-la-proxima-semana-en-busqueda-de-financiamiento-del-fmi/",
-        "resumen": "Por su parte, el subdirector del organismo manifestó que debe haber reformas para disminuir el déficit fiscal e incentivar la inversión privada.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Delegación colombiana viajará a Washington la próxima semana en búsqueda de financiamiento del FMI",
-        "capturado": "2026-09-28T20:41:11-05:00"
-      },
-      {
-        "titulo": "Estos resultaron ser los yacimientos que más gas aportaron al país en agosto de 2026",
-        "url": "https://www.valoraanalitik.com/estos-fueron-los-campos-que-le-suministraron-mas-gas-a-colombia-en-agosto-de-2026/",
-        "resumen": "El gas fue el energético que más se utilizó para la generación de electricidad en las térmicas durante agosto.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Estos fueron los campos que le suministraron más gas a Colombia en agosto de 2026",
-        "capturado": "2026-09-28T20:41:11-05:00"
-      },
-      {
-        "titulo": "Administración de la Espriella solicitó al FMI revisar las finanzas nacionales por crisis",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-ya-pidio-al-fmi-evaluar-economia-de-colombia-para-buscar-salida-a-crisis-fiscal/",
-        "resumen": "Según el Ministerio de Hacienda, la herencia fiscal del gobierno Petro fue un gasto de $40 billones mensuales, mientras se recibían $29 billones.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno de la Espriella ya pidió al FMI evaluar economía de Colombia para buscar salida a crisis fiscal",
-        "capturado": "2026-09-28T20:41:11-05:00"
-      },
-      {
-        "titulo": "Celulares en colegios bogotanos: así se modificarán las normas y lo que espera a alumnos",
-        "url": "https://www.valoraanalitik.com/celulares-en-colegios-de-bogota-asi-cambiaran-las-reglas-y-lo-que-viene-para-estudiantes/",
-        "resumen": "La nueva regulación de celulares en colegios de Bogotá abre una etapa de cambios que involucrará a estudiantes, docentes y familias.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Celulares en colegios de Bogotá: así cambiarán las reglas y lo que viene para estudiantes",
-        "capturado": "2026-09-28T20:41:11-05:00"
-      },
-      {
-        "titulo": "Trump divulga proyecto para siderúrgica de US$15.000 millones; sería la mayor en EE. UU.",
-        "url": "https://www.valoraanalitik.com/trump-anuncia-plan-para-una-planta-siderurgica-de-us15-000-millones-seria-la-mas-grande-de-ee-uu/",
-        "resumen": "La planta siderúrgica está prevista para construirse en Iowa y busca comenzar a producir en 2030.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Trump anuncia plan para una planta siderúrgica de US$15.000 millones; sería la más grande de EE. UU.",
-        "capturado": "2026-09-28T20:41:11-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Grupo Argos emprende transacciones financieras en concesiones de Odinsa dentro de ACE 1.0",
+        "url": "https://www.valoraanalitik.com/grupo-argos-operaciones-financieras-odinsa/",
+        "resumen": "Estas operaciones se dan en el marco del programa ACE 1.0, que contempla la gestión del portafolio para anticipar la generación y distribución de caja.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos anuncia operaciones financieras en concesiones de Odinsa como parte de ACE 1.0",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
+      {
+        "titulo": "JetSmart informa nueva ruta sin escalas entre Medellín y Buenos Aires y muestra interés en Venezuela",
+        "url": "https://www.valoraanalitik.com/jetsmart-anuncia-nueva-ruta-directa-entre-medellin-y-buenos-aires-revela-interes-en-venezuela/",
+        "resumen": "El country manager de JetSmart en Colombia contó los detalles de este anuncio y, a su vez, afirmó que están estudiando la posibilidad de llegar a Venezuela.",
+        "autor": "",
+        "subseccion": "Turismo",
+        "publicacion": "",
+        "titulo_fuente": "JetSmart anuncia nueva ruta directa entre Medellín y Buenos Aires: revela interés en Venezuela",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
+      {
+        "titulo": "El sector asegurador nacional subió 18 % en un cuatrienio y duplicó el paso de crecimiento del país",
+        "url": "https://www.valoraanalitik.com/sector-asegurador-colombiano-crecio-18-en-cuatro-anos-y-duplico-el-ritmo-de-expansion-de-la-economia/",
+        "resumen": "En el marco de la Convención Internacional de Seguros, Fasecolda reveló que las primas reales del sector aumentaron más del doble que el PIB.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Sector asegurador colombiano creció 18 % en cuatro años y duplicó el ritmo de expansión de la economía",
+        "capturado": "2026-09-30T19:46:19-05:00"
+      },
       {
         "titulo": "Lumon destina $4.000 millones a fábrica en Barranquilla y planea 10 distribuidoras en el país",
         "url": "https://www.valoraanalitik.com/lumon-invierte-4-000-millones-en-planta-en-barranquilla-y-proyecta-10-distribuidoras-en-colombia/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Nubank (Nu Colombia) lleva sus servicios a OXXO y Farmatodo: este es el nuevo beneficio para sus clientes",
         "capturado": "2026-09-26T16:26:32-05:00"
-      },
-      {
-        "titulo": "Claro suma más de 300 iniciativas en transformación digital y el 30 por ciento de antenas son 5G",
-        "url": "https://www.valoraanalitik.com/claro-tiene-mas-de-300-iniciativas-tras-su-transformacion-digital-el-30-de-las-antenas-estan-en-5g/",
-        "resumen": "Claro llega al 100 % de la cobertura en las cabeceras de municipios.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Claro tiene más de 300 iniciativas tras su transformación digital: el 30 % de las antenas están en 5G",
-        "capturado": "2026-09-26T16:26:32-05:00"
-      },
-      {
-        "titulo": "Las ganancias empresariales en Colombia bajan frente a un bono estatal y el pasivo financiero supera la renta",
-        "url": "https://www.valoraanalitik.com/rentabilidad-empresas-colombianas-tes/",
-        "resumen": "Un análisis de Capitalia.ai muestra que el ROE empresarial se mantuvo cerca de 5 %, mientras los TES a 10 años llegó a 12,44 %.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Rentabilidad de las empresas colombianas es menor que un título del Gobierno; costo de deuda supera retornos",
-        "capturado": "2026-09-26T13:27:20-05:00"
-      },
-      {
-        "titulo": "Alerta en la industria colombiana por gas tras problema en SPEC y piden buscar nuevas fuentes",
-        "url": "https://www.valoraanalitik.com/incidente-de-spec-pone-en-riesgo-el-gas-para-industriales-en-colombia-sector-insiste-en-diversificar-fuentes/",
-        "resumen": "Analistas y gremios coincidieron en que avanzar en puntos de regasificación y mejorar la eficiencia en el transporte son aspectos esenciales para el futuro.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Incidente de SPEC pone en riesgo el gas para industriales en Colombia; sector insiste en diversificar fuentes",
-        "capturado": "2026-09-26T09:40:38-05:00"
       }
     ]
   }
