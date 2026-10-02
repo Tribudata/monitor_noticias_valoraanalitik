@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-01T15:15:09-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-10-01T19:04:29-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno presenta presupuesto de regalías 2027-2028 con merma de 11 % en entradas",
+        "url": "https://www.valoraanalitik.com/gobierno-radica-presupuesto-de-regalias-para-2027-2028-con-una-caida-de-11-en-ingresos/",
+        "resumen": "Dentro de los planes a los que se destinarían los montos estarían iniciativas para garantizar la seguridad energética de Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno radica presupuesto de regalías para 2027-2028 con una caída de 11 % en ingresos",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "KOA emite titularización por $85.000 millones en la BVC para expandir crédito",
+        "url": "https://www.valoraanalitik.com/koa-cierra-titularizacion-por-85-000-millones-en-la-bolsa-de-valores-de-colombia-para-ampliar-acceso-a-credito/",
+        "resumen": "La compañía espera avanzar en inclusión financiera, particularmente para la población mayor.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "KOA cierra titularización por $85.000 millones en la Bolsa de Valores de Colombia para ampliar acceso a crédito",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "Administración De La Espriella efectúa su primer intercambio de deuda",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-completa-primera-operacion-de-canje-de-deuda/",
+        "resumen": "El MinHacienda recibió TES en UVR con vencimiento al 17 de marzo de 2027 y en pesos con fecha al 3 de noviembre de 2027.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella completa primera operación de canje de deuda",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "UPME asigna al Grupo Energía Bogotá relevante obra para abastecer la Sabana",
+        "url": "https://www.valoraanalitik.com/la-upme-adjudico-al-grupo-energia-bogota-importante-proyecto-para-el-abastecimiento-de-la-sabana-de-bogota/",
+        "resumen": "La entidad manifestó que esta iniciativa hace parte del seguimiento de los planes a largo plazo en energía para satisfacer el consumo eléctrico.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "La UPME adjudicó al Grupo Energía Bogotá importante proyecto para el abastecimiento de la Sabana de Bogotá",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "Gobierno pacta con Barranquilla control del Ernesto Cortissoz y $40.000 millones",
+        "url": "https://www.valoraanalitik.com/gobierno-acuerda-con-barranquilla-manejo-del-aeropuerto-ernesto-cortissoz-y-una-inversion-de-40-000-millones/",
+        "resumen": "De La Espriella explicó que el acuerdo permitirá articular los esfuerzos de la Nación y el Distrito para acelerar las intervenciones pendientes en la terminal.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno acuerda con Barranquilla manejo del aeropuerto Ernesto Cortissoz y una inversión de $40.000 millones",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "Aris Mining logró relevante avance para gran proyecto minero en Santander",
+        "url": "https://www.valoraanalitik.com/aris-mining-alcanzo-importante-hito-para-megaproyecto-minero-en-santander/",
+        "resumen": "Esta mina tiene capacidad no solamente para producir oro, sino también cobre. Su vida útil podría llegar a dos décadas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Aris Mining alcanzó importante hito para megaproyecto minero en Santander",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "Nuevo decreto en Colombia facilita anular o modificar plan de celular libremente",
+        "url": "https://www.valoraanalitik.com/nueva-norma-en-colombia-permite-cancelar-o-cambiar-de-plan-de-celular-sin-trabas/",
+        "resumen": "Desde hoy cambia la forma de cancelar servicios móviles en Colombia, con nuevas condiciones para evitar trabas durante el trámite.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Nueva norma en Colombia permite cancelar o cambiar de plan de celular sin trabas",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "Cali retoma los eventos masivos con Smart City Expo de Corferias tras temblor de agosto",
+        "url": "https://www.valoraanalitik.com/smart-city-expo-cali-corferias-2026/",
+        "resumen": "Alejandro Eder, alcalde de Cali, pidió a los organizadores no cancelar eventos en la ciudad y llamó a las startups a proponer soluciones para la reconstrucción.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Cali reactiva los grandes eventos con Smart City Expo de Corferias tras el sismo de agosto",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
       {
         "titulo": "Ventas de vehículos en Colombia lograron en septiembre el nivel más alto desde 2014 con récord en híbridos y eléctricos",
         "url": "https://www.valoraanalitik.com/septiembre-fue-el-mejor-mes-para-ventas-de-carros-en-colombia-desde-2014-electricos-e-hibridos-en-record/",
@@ -523,89 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Confianza comercial e industrial en Colombia cae por incertidumbre de la situación económica",
         "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Grupo Cibest, de Bancolombia, apuesta por corresponsalía digital tras comprar nueva fintech",
-        "url": "https://www.valoraanalitik.com/grupo-cibest-bancolombia-adquisicion-ptm/",
-        "resumen": "Estrategias Cibest, sociedad controlada por Grupo Cibest, proyecta adquirir el 100 % de PTM, compañía que administra redes de corresponsales bancarios.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Cibest (Bancolombia) apuesta por la corresponsalía digital con adquisición de nueva fintech",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Dólar arranca con fuerte retroceso en Colombia y el mercado aguarda postura del Banco de la República",
-        "url": "https://www.valoraanalitik.com/dolar-abrio-con-fuerte-caida-en-colombia-mercado-espera-decision-del-banco-de-la-republica/",
-        "resumen": "El mercado colombiano inicia la última jornada de septiembre con un dólar $36,23 por debajo de la TRM, mientras se conoce la decisión del Banco de la República.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar abrió con fuerte caída en Colombia; mercado espera decisión del Banco de la República",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Nuevas normas para multas de conductores en Uber, DiDi y Cabify modificarían los controles actuales",
-        "url": "https://www.valoraanalitik.com/conductores-de-uber-didi-cabify-y-otras-plataformas-tendrian-nuevas-reglas-frente-a-comparendos-asi-cambiarian-los-controles/",
-        "resumen": "Una propuesta busca cambiar los controles a conductores de plataformas y establecer nuevas garantías cuando se impongan ciertas multas y comparendos.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Conductores de Uber, DiDi, Cabify y otras plataformas tendrían nuevas reglas frente a comparendos: así cambiarían los controles",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Entrevista | CCI Norte detecta enormes oportunidades para invertir en megaproyectos del Caribe nacional",
-        "url": "https://www.valoraanalitik.com/entrevista-cci-norte-ve-grandes-oportunidades-de-inversion-para-megaproyectos-en-el-caribe-colombiano/",
-        "resumen": "Estas son las obras de infraestructura que marcarán la agenda en el Caribe colombiano.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | CCI Norte ve grandes oportunidades de inversión para megaproyectos en el Caribe colombiano",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Incauca desarrollará cinco nuevos proyectos energéticos y prevé que este negocio aporte el 14 % de sus ventas en 2027",
-        "url": "https://www.valoraanalitik.com/incauca-avanzara-con-cinco-nuevos-proyectos-de-energia-espera-que-este-segmento-represente-hasta-14-de-sus-ingresos-en-2027/",
-        "resumen": "Roberto Klinger, presidente del ingenio azucarero, habló sobre las proyecciones de la compañía y los nuevos proyectos que desarrolla.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Exclusiva | Incauca avanzará con cinco nuevos proyectos de energía; espera que este segmento represente hasta 14 % de sus ingresos en 2027",
-        "capturado": "2026-09-30T06:18:43-05:00"
-      },
-      {
-        "titulo": "Dimite Mariajosé Quiceno, vicepresidente de Reputación y Comunicaciones de Bancolombia",
-        "url": "https://www.valoraanalitik.com/mariajose-quiceno-culmino-su-paso-por-bancolombia-tras-casi-nueve-anos-en-el-cargo/",
-        "resumen": "A partir del 6 de octubre de 2026 comenzará su nueva etapa como profesional e iniciará algunos proyectos personales.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Renuncia Mariajosé Quiceno, vicepresidente de Reputación y Comunicaciones de Bancolombia",
-        "capturado": "2026-09-30T00:02:09-05:00"
-      },
-      {
-        "titulo": "Grupo Nutresa continúa su crecimiento y compra una nueva empresa en Colombia",
-        "url": "https://www.valoraanalitik.com/grupo-nutresa-sigue-en-expansion-y-adquiere-nueva-compania-en-colombia/",
-        "resumen": "Desde que cayó en manos del Grupo Gilinski, Nutresa ha venido implementando un plan de expansión a través de la compra de activos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Nutresa sigue en expansión y adquiere nueva compañía en Colombia",
-        "capturado": "2026-09-30T00:02:09-05:00"
-      },
-      {
-        "titulo": "MinHacienda avaló a Bogotá para tomar un crédito de $1,3 billones destinado a la Primera Línea del Metro",
-        "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-autorizo-a-bogota-para-adquirir-un-prestamo-de-13-billones-para-la-primera-linea-del-metro/",
-        "resumen": "El contrato fue con BNP Paribas New York Branch y tendrá un plazo de diez años. Habrá período de gracia para pago de capital de tres años.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Ministerio de Hacienda autorizó a Bogotá para adquirir un préstamo de $1,3 billones para la Primera Línea del Metro",
-        "capturado": "2026-09-30T00:02:09-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Famoso supermercado sorteará un Tesla entre sus clientes bajo una condición específica",
+        "url": "https://www.valoraanalitik.com/clientes-de-famoso-supermercado-podran-ganar-un-tesla-este-es-el-requisito-para-participar/",
+        "resumen": "Tesla hace parte de la celebración de aniversario de una reconocida cadena en Colombia, que prepara una dinámica especial para sus compradores.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Clientes de famoso supermercado podrán ganar un Tesla: este es el requisito para participar",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "Bolsa de Valores de Colombia registra titularización de KOA por 85.000 millones para dar más créditos",
+        "url": "https://www.valoraanalitik.com/koa-cierra-titularizacion-por-85-000-millones-en-la-bolsa-de-valores-de-colombia-para-ampliar-acceso-a-credito/",
+        "resumen": "La compañía espera avanzar en inclusión financiera, particularmente para la población mayor.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "KOA cierra titularización por $85.000 millones en la Bolsa de Valores de Colombia para ampliar acceso a crédito",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "Grupo Energía Bogotá gana adjudicación de la UPME para abastecer la Sabana de Bogotá",
+        "url": "https://www.valoraanalitik.com/la-upme-adjudico-al-grupo-energia-bogota-importante-proyecto-para-el-abastecimiento-de-la-sabana-de-bogota/",
+        "resumen": "La entidad manifestó que esta iniciativa hace parte del seguimiento de los planes a largo plazo en energía para satisfacer el consumo eléctrico.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "La UPME adjudicó al Grupo Energía Bogotá importante proyecto para el abastecimiento de la Sabana de Bogotá",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "Aris Mining logra meta clave en megaproyecto minero ubicado en Santander",
+        "url": "https://www.valoraanalitik.com/aris-mining-alcanzo-importante-hito-para-megaproyecto-minero-en-santander/",
+        "resumen": "Esta mina tiene capacidad no solamente para producir oro, sino también cobre. Su vida útil podría llegar a dos décadas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Aris Mining alcanzó importante hito para megaproyecto minero en Santander",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "Nueva regulación colombiana facilita anular o modificar planes de telefonía móvil sin obstáculos",
+        "url": "https://www.valoraanalitik.com/nueva-norma-en-colombia-permite-cancelar-o-cambiar-de-plan-de-celular-sin-trabas/",
+        "resumen": "Desde hoy cambia la forma de cancelar servicios móviles en Colombia, con nuevas condiciones para evitar trabas durante el trámite.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Nueva norma en Colombia permite cancelar o cambiar de plan de celular sin trabas",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
+      {
+        "titulo": "Cali retoma los eventos masivos con Smart City Expo de Corferias luego del temblor de agosto",
+        "url": "https://www.valoraanalitik.com/smart-city-expo-cali-corferias-2026/",
+        "resumen": "Alejandro Eder, alcalde de Cali, pidió a los organizadores no cancelar eventos en la ciudad y llamó a las startups a proponer soluciones para la reconstrucción.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Cali reactiva los grandes eventos con Smart City Expo de Corferias tras el sismo de agosto",
+        "capturado": "2026-10-01T19:04:29-05:00"
+      },
       {
         "titulo": "Ventas de vehículos en Colombia lograron en septiembre el nivel más alto desde 2014 con récord en híbridos y eléctricos",
         "url": "https://www.valoraanalitik.com/septiembre-fue-el-mejor-mes-para-ventas-de-carros-en-colombia-desde-2014-electricos-e-hibridos-en-record/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Insignia y Business Class Américas: así se diferencian las experiencias premium de Avianca",
         "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Primicia | Grupo Éxito invertirá US$850 millones en finca raíz y ampliará su presencia en vivienda",
-        "url": "https://www.valoraanalitik.com/grupo-exito-planea-invertir-inmobiliario/",
-        "resumen": "La mayor inversión estará en Colombia con US$520 millones. También se buscará elevar a 20 % la participación de las ventas digitales.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Grupo Éxito planea invertir US$850 millones en el sector inmobiliario; crecerá en vivienda",
-        "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Piscilago de Colsubsidio logra el nivel Oro dentro del reconocimiento Basura Cero",
-        "url": "https://www.valoraanalitik.com/piscilago-de-colsubsidio-alcanza-la-categoria-oro-en-la-certificacion-basura-cero/",
-        "resumen": "Colsubsidio lleva su estrategia de sostenibilidad a acciones concretas para gestionar los recursos y contribuir a la conservación de los territorios.",
-        "autor": "",
-        "subseccion": "Valorasostenible",
-        "publicacion": "",
-        "titulo_fuente": "Piscilago de Colsubsidio alcanza la categoría Oro en la certificación Basura Cero",
-        "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Vélez inaugura en Panamá su tienda insignia más grande regional y apunta a Estados Unidos",
-        "url": "https://www.valoraanalitik.com/velez-abre-en-panama-su-flagship-mas-grande-de-latinoamerica-proyecta-a-estados-unidos-como-proximo-mercado/",
-        "resumen": "En el proceso de expansión de Vélez, EE. UU. aparece como uno de los mercados con mayor relevancia para la siguiente etapa de internacionalización.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Vélez abre en Panamá su flagship más grande de Latinoamérica: proyecta a Estados Unidos como próximo mercado",
-        "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Juan Sebastián Uribe se convierte en el nuevo director para Colombia de inDrive",
-        "url": "https://www.valoraanalitik.com/juan-sebastian-uribe-asume-como-nuevo-country-manager-de-indrive-en-colombia/",
-        "resumen": "El ejecutivo cuenta con más de 13 años de experiencia en e-commerce y sectores como automotriz y aviación.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Juan Sebastián Uribe asume como nuevo country manager de inDrive en Colombia",
-        "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Entrevista | Ciudad Limpia trata hasta 800 toneladas mensuales de desechos para sustituir gas y carbón",
-        "url": "https://www.valoraanalitik.com/empresa-de-gestion-de-residuos-ciudad-limpia-procesa-hasta-800-toneladas-mensuales-para-reemplazar-carbon-y-gas/",
-        "resumen": "El gerente regional de Ciudad Limpia, Manuel Guillermo Vallecilla, habló sobre los retos y procesos que enfrenta la compañía en la gestión de residuos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Empresa de gestión de residuos Ciudad Limpia procesa hasta 800 toneladas mensuales para reemplazar carbón y gas",
-        "capturado": "2026-09-29T10:01:18-05:00"
-      },
-      {
-        "titulo": "Estos campos aportaron la mayor cantidad de gas a Colombia durante agosto de 2026",
-        "url": "https://www.valoraanalitik.com/estos-fueron-los-campos-que-le-suministraron-mas-gas-a-colombia-en-agosto-de-2026/",
-        "resumen": "El gas fue el energético que más se utilizó para la generación de electricidad en las térmicas durante agosto.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Estos fueron los campos que le suministraron más gas a Colombia en agosto de 2026",
-        "capturado": "2026-09-28T20:41:11-05:00"
       }
     ]
   }
