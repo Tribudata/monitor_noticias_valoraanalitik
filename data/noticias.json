@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-01T19:04:29-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-10-02T01:04:36-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Arranca edificación de proyecto vial hacia Buenaventura y será fundamental para el Valle del Cauca",
+        "url": "https://www.valoraanalitik.com/inicia-construccion-de-obra-clave-en-la-via-alterna-a-buenaventura-plan-sera-clave-para-el-valle-del-cauca/",
+        "resumen": "Este proyecto presenta un avance de 32,59 %, y según la ANI, beneficiaría a cerca de tres millones de personas en Valle del Cauca.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inicia construcción de obra clave en la vía alterna a Buenaventura: plan será clave para el Valle del Cauca",
+        "capturado": "2026-10-02T01:04:36-05:00"
+      },
+      {
+        "titulo": "Empiezan encuentros preliminares para concertar el salario mínimo entre gremios, Ejecutivo y sindicatos",
+        "url": "https://www.valoraanalitik.com/comienzan-reuniones-previas-a-la-discusion-del-salario-minimo-entre-empresarios-gobierno-y-trabajadores/",
+        "resumen": "Los actores van a construir sus comentarios hasta el 9 de octubre y se reunirán nuevamente el 13 de octubre.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Comienzan reuniones previas a la discusión del salario mínimo entre empresarios, Gobierno y trabajadores",
+        "capturado": "2026-10-02T01:04:36-05:00"
+      },
       {
         "titulo": "Gobierno presenta presupuesto de regalías 2027-2028 con merma de 11 % en entradas",
         "url": "https://www.valoraanalitik.com/gobierno-radica-presupuesto-de-regalias-para-2027-2028-con-una-caida-de-11-en-ingresos/",
@@ -583,29 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Banco de Bogotá avanza en estrategia para aprovechar finanzas abiertas; busca $1 billón en transacciones desde API",
         "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Desempleo en Colombia aumentó por primera vez en dos años y se situó en 9,4 % en agosto de 2026",
-        "url": "https://www.valoraanalitik.com/desempleo-en-colombia-subio-por-primera-vez-en-dos-anos-llego-al-94-en-agosto-de-2026/",
-        "resumen": "En el octavo mes del año, la población ocupada en el total nacional se ubicó en 23,6 millones de personas.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Desempleo en Colombia subió por primera vez en dos años; llegó al 9,4 % en agosto de 2026",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Baja la confianza comercial e industrial en Colombia debido a la incertidumbre sobre la economía",
-        "url": "https://www.valoraanalitik.com/confianza-comercial-e-industrial-en-colombia-caen-por-incertidumbre-de-la-situacion-economica/",
-        "resumen": "La confianza comercial cae por cuenta de los riesgos e incertidumbres por el futuro económico del país",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Confianza comercial e industrial en Colombia cae por incertidumbre de la situación económica",
-        "capturado": "2026-09-30T11:57:41-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Arranca edificación de proyecto vial hacia Buenaventura y será fundamental para el Valle del Cauca",
+        "url": "https://www.valoraanalitik.com/inicia-construccion-de-obra-clave-en-la-via-alterna-a-buenaventura-plan-sera-clave-para-el-valle-del-cauca/",
+        "resumen": "Este proyecto presenta un avance de 32,59 %, y según la ANI, beneficiaría a cerca de tres millones de personas en Valle del Cauca.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inicia construcción de obra clave en la vía alterna a Buenaventura: plan será clave para el Valle del Cauca",
+        "capturado": "2026-10-02T01:04:36-05:00"
+      },
+      {
+        "titulo": "Empiezan los encuentros preparatorios para debatir el salario mínimo entre gremios, Gobierno y empleados",
+        "url": "https://www.valoraanalitik.com/comienzan-reuniones-previas-a-la-discusion-del-salario-minimo-entre-empresarios-gobierno-y-trabajadores/",
+        "resumen": "Los actores van a construir sus comentarios hasta el 9 de octubre y se reunirán nuevamente el 13 de octubre.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Comienzan reuniones previas a la discusión del salario mínimo entre empresarios, Gobierno y trabajadores",
+        "capturado": "2026-10-02T01:04:36-05:00"
+      },
       {
         "titulo": "Famoso supermercado sorteará un Tesla entre sus clientes bajo una condición específica",
         "url": "https://www.valoraanalitik.com/clientes-de-famoso-supermercado-podran-ganar-un-tesla-este-es-el-requisito-para-participar/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Ultimas tecnologia",
         "publicacion": "",
         "titulo_fuente": "Claro, Valora Analitik y la Alcaldía de Medellín se unen para entregar nueva sala de tecnología en Hogares San José",
-        "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Nuevos proyectos de Cusezar en La Felicidad contemplan la edificación de 639 viviendas en Bogotá",
-        "url": "https://www.valoraanalitik.com/cusezar-construira-639-viviendas-en-bogota-asi-seran-sus-nuevos-proyectos-en-la-felicidad/",
-        "resumen": "Para el primer trimestre de 2027 está previsto el inicio de trabajos destinados a fortalecer la conectividad del sector.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Cusezar construirá 639 viviendas en Bogotá: así serán sus nuevos proyectos en La Felicidad",
-        "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Diferencias entre las experiencias premium de Avianca llamadas Insignia y Business Class Américas",
-        "url": "https://www.valoraanalitik.com/insignia-y-business-class-americas-asi-se-diferencian-las-experiencias-premium-de-avianca/",
-        "resumen": "Las experiencias responden a necesidades distintas según la duración del vuelo, el tipo de aeronave y el mercado en el que opera Avianca.",
-        "autor": "",
-        "subseccion": "Aerolineas colombia",
-        "publicacion": "",
-        "titulo_fuente": "Insignia y Business Class Américas: así se diferencian las experiencias premium de Avianca",
         "capturado": "2026-09-29T15:10:08-05:00"
       }
     ]
