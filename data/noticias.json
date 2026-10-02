@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-02T08:03:04-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-02T13:38:21-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Tasa de cambio en Colombia elimina alza semanal y finaliza en tres mil doscientos sesenta y cuatro pesos",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-borra-las-ganancias-de-la-semana-y-cierra-en-3-264/",
+        "resumen": "El billete verde inició a la baja en $3.286 y extendió las pérdidas hasta marcar un piso intradiario de $3.258.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia borra las ganancias de la semana y cierra en $3.264",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
+      {
+        "titulo": "Gerente del Banco de la República señala que la historia reciente dificulta sostener la meta de inflación",
+        "url": "https://www.valoraanalitik.com/la-historia-reciente-ha-hecho-muy-dificil-mantener-una-credibilidad-fuerte-en-la-meta-de-inflacion-gerente-banrep/",
+        "resumen": "La entidad proyecta un déficit en la balanza comercial de bienes cercano a los US$18.000 millones, el más alto en la historia del país.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "“La historia reciente ha hecho muy difícil mantener una credibilidad fuerte en la meta de inflación”: gerente BanRep",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
+      {
+        "titulo": "Iván Duque sugiere ampliar base del impuesto de renta y solicita examinar excepciones del IVA",
+        "url": "https://www.valoraanalitik.com/ivan-duque-propone-que-mas-colombianos-paguen-impuesto-de-renta-pide-revisar-exenciones-del-iva/",
+        "resumen": "El expresidente propuso revisar los bienes y servicios exentos y excluidos, así como los beneficios tributarios asociados a este impuesto.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Iván Duque propone que más colombianos paguen impuesto de renta; pide revisar exenciones del IVA",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
+      {
+        "titulo": "Banco Interamericano de Desarrollo financia millonario proyecto para mejorar atención oncológica",
+        "url": "https://www.valoraanalitik.com/millonaria-inversion-del-bid-impulsa-megaproyecto-para-ampliar-la-atencion-del-cancer-en-colombia/",
+        "resumen": "El BID avanza en la estructuración de un megaproyecto que busca ampliar la capacidad del Instituto Nacional de Cancerología.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Millonaria inversión del BID impulsa megaproyecto para ampliar la atención del cáncer en Colombia",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
+      {
+        "titulo": "Mapfre proyecta liderar el mercado asegurador colombiano en 2027 impulsada por el sector automotor",
+        "url": "https://www.valoraanalitik.com/mapfre-busca-ser-la-aseguradora-mas-grande-de-colombia-para-2027-mercado-automovilistico-sera-clave/",
+        "resumen": "Óscar García-Serrano, CEO de Mapfre Colombia, analizó el panorama del sector y la penetración del seguro en las regiones.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Mapfre busca ser la aseguradora más grande de Colombia para 2027; mercado automovilístico será clave",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
+      {
+        "titulo": "Intereses suben a 12,25 %: ganadores y perdedores por la medida del Banco de la República",
+        "url": "https://www.valoraanalitik.com/tasas-de-interes-llegan-a-1225-quienes-salen-ganando-y-quienes-pierden-con-la-decision-del-banco-de-la-republica/",
+        "resumen": "La decisión del Banco de la República sobre las tasas de interés tendrá efectos distintos sobre el bolsillo de los colombianos durante los próximos meses.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Tasas de interés llegan a 12,25 %: ¿Quiénes salen ganando y quiénes pierden con la decisión del Banco de la República?",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
+      {
+        "titulo": "Indra urge más tecnología en obras colombianas y ve opciones de inversión en el Caribe",
+        "url": "https://www.valoraanalitik.com/indra-pide-acelerar-tecnologia-en-infraestructura-de-colombia-busca-oportunidades-de-inversion-en-el-caribe/",
+        "resumen": "Quintero manifestó que existe optimismo sobre la posibilidad de retomar proyectos estratégicos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Indra pide acelerar tecnología en infraestructura de Colombia; busca oportunidades de inversión en el Caribe",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
+      {
+        "titulo": "Dólar baja a $3.275 por ajuste petrolero y enfriamiento del mercado laboral en EE. UU.",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-a-3-275-ante-correccion-del-petroleo-y-en-medio-del-enfriamiento-laboral-en-ee-uu/",
+        "resumen": "El dólar abrió en $3.275 y se negocia actualmente alrededor de los $3.275,01, profundizando su corrección.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia retrocede a $3.275 ante corrección del petróleo y en medio del enfriamiento laboral en EE. UU.",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
       {
         "titulo": "Video | Los títulos de Ecopetrol encabezan el monto de operaciones del día",
         "url": "https://www.valoraanalitik.com/acciones-de-ecopetrol-lideran-el-volumen-de-transacciones-de-la-jornada/",
@@ -523,89 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Satena abre ruta directa entre Montería y Ciudad de Panamá a partir de octubre",
         "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Titularizadora Colombiana realiza nueva emisión y extiende opciones de crédito para Finandina",
-        "url": "https://www.valoraanalitik.com/titularizadora-colombiana-nueva-emision-2/",
-        "resumen": "La firma llegó a 91 titularizaciones en el mercado de capitales colombiano en una operación por $140.000 millones.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Titularizadora Colombiana completó una nueva emisión y amplía alternativas de financiación para Finandina",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Gobierno presentará en Nueva York portafolio de iniciativas por $75 billones en la Milagro Week",
-        "url": "https://www.valoraanalitik.com/gobierno-llevara-a-nueva-york-portafolio-de-proyectos-por-75-billones-en-primera-milagro-week/",
-        "resumen": "El encuentro hace parte de la estrategia para impulsar el crecimiento económico y contempla la presentación del primer portafolio de inversiones.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno llevará a Nueva York portafolio de proyectos por $75 billones en primera Milagro Week",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Sanción de alto valor posible por faltar a estas normas al emplear inteligencia artificial en Colombia",
-        "url": "https://www.valoraanalitik.com/la-millonaria-multa-que-podria-recibir-por-incumplir-estas-reglas-al-usar-inteligencia-artificial-en-colombia/",
-        "resumen": "Una práctica cada vez más común con inteligencia artificial puede generar problemas legales y terminar en una sanción de alto valor.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "La millonaria multa que podría recibir por incumplir estas reglas al usar inteligencia artificial en Colombia",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Alerta | Emisor sorprende al país y sube los tipos de interés en Colombia a 12,25 %",
-        "url": "https://www.valoraanalitik.com/banco-de-la-republica-aumenta-tasas-de-interes-septiembre-2026/",
-        "resumen": "La decisión del banco central es la primera que se toma con el nuevo gobierno del presidente Abelardo de la Espriella.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Banco de la República sorprende al mercado y aumenta las tasas de interés en Colombia a 12,25 %.",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Compañías aseguradoras han desembolsado más de $400.000 millones debido al sismo en Colombia",
-        "url": "https://www.valoraanalitik.com/aseguradoras-han-pagado-mas-de-400-000-millones-por-el-terremoto-en-colombia/",
-        "resumen": "Al 25 de septiembre de 2026, las compañías de seguros en Colombia han recibido un total de 92.336 reclamaciones por el sismo del 10 de agosto.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Aseguradoras han pagado más de $400.000 millones por el terremoto en Colombia",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia rompió de nuevo el piso de los $3.100 previo al fallo del Emisor",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-perforo-otra-vez-el-piso-de-los-3-100-a-la-espera-de-decision-de-tasas-del-banco-de-la-republica/",
-        "resumen": "La tasa de cambio abrió en $3.305, tocó un máximo intradiario que perforó la barrera de los $3.300 para marcar un piso de $3.295.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia perforó otra vez el piso de los $3.100 a la espera de decisión de tasas del Banco de la República",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Ejecutivo designa a Fernando León Losada como nuevo presidente de la Industria Aeronáutica Colombiana",
-        "url": "https://www.valoraanalitik.com/gobierno-nombra-a-fernando-leon-losada-como-nuevo-presidente-de-la-industria-aeronautica-colombiana/",
-        "resumen": "La Corporación es una empresa estatal que se encarga de la industria aeronáutica y el mantenimiento de aeronaves.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno nombra a Fernando León Losada como nuevo presidente de la Industria Aeronáutica Colombiana",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Acciones preferidas para el siguiente año y un posible repunte de hasta 13 % en la BVC para 2027",
-        "url": "https://www.valoraanalitik.com/bolsa-de-colombia-2027-acciones-favoritas/",
-        "resumen": "En el Libro 2027, Visión Davivienda estimó un crecimiento de 23 % en las utilidades de las empresas que hacen parte del MSCI Colcap al cierre de 2026.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Bolsa de Colombia puede crecer hasta 13 % en 2027; estas son las acciones favoritas para invertir el próximo año",
-        "capturado": "2026-09-30T16:23:15-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Mapfre proyecta liderar el mercado asegurador colombiano en 2027 impulsada por el sector de vehículos",
+        "url": "https://www.valoraanalitik.com/mapfre-busca-ser-la-aseguradora-mas-grande-de-colombia-para-2027-mercado-automovilistico-sera-clave/",
+        "resumen": "Óscar García-Serrano, CEO de Mapfre Colombia, analizó el panorama del sector y la penetración del seguro en las regiones.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Mapfre busca ser la aseguradora más grande de Colombia para 2027; mercado automovilístico será clave",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
+      {
+        "titulo": "Indra solicita mayor rapidez tecnológica en obras colombianas y analiza capitalizar al Caribe",
+        "url": "https://www.valoraanalitik.com/indra-pide-acelerar-tecnologia-en-infraestructura-de-colombia-busca-oportunidades-de-inversion-en-el-caribe/",
+        "resumen": "Quintero manifestó que existe optimismo sobre la posibilidad de retomar proyectos estratégicos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Indra pide acelerar tecnología en infraestructura de Colombia; busca oportunidades de inversión en el Caribe",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
+      {
+        "titulo": "Dos grandes obras se ejecutarán en el Gran Malecón de Barranquilla con más de un billón de pesos",
+        "url": "https://www.valoraanalitik.com/los-dos-megaproyectos-que-se-construiran-en-el-gran-malecon-de-barranquilla-inversion-supera-el-billon-de-pesos/",
+        "resumen": "Arquitectura y Concreto busca aprovechar la transformación del sector y ampliar la oferta de comercio, entretenimiento y vivienda alrededor del río Magdalena.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Los dos megaproyectos que se construirán en el Gran Malecón de Barranquilla: inversión supera el billón de pesos",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
+      {
+        "titulo": "FamiEmpresario Interactuar 2026 reconoció el impacto de las microempresas en la economía nacional",
+        "url": "https://www.valoraanalitik.com/famiempresario-interactuar-2026-exalto-la-fuerza-de-la-microempresa-que-mueve-a-colombia/",
+        "resumen": "Bajo el concepto “Imparables”, la gala reconoció a 16 empresarios de Antioquia, Tolima y Córdoba.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "FamiEmpresario Interactuar 2026 exaltó la fuerza de la microempresa que mueve a Colombia",
+        "capturado": "2026-10-02T13:38:21-05:00"
+      },
       {
         "titulo": "Kurrant destinará 50.000 millones de pesos a un club social bogotano que operaría en 2028",
         "url": "https://www.valoraanalitik.com/kurrant-invertira-50-000-millones-en-nuevo-club-social-en-bogota-abriria-en-2028/",
@@ -1164,46 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Industria del gas en Colombia reportó cifras rojas en producción; comercialización cayó y la importación se disparó",
-        "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Regasificadora de Cartagena retomó operación total tras falla en uno de sus trenes",
-        "url": "https://www.valoraanalitik.com/tras-el-incidente-en-uno-de-sus-trenes-la-regasificadora-de-cartagena-volvio-a-operar-a-plena-capacidad/",
-        "resumen": "Esta terminal expresó que está operando nuevamente con 475 millones de pies cúbicos diarios y que resolvió el inconveniente antes del plazo estimado.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Tras el incidente en uno de sus trenes, la Regasificadora de Cartagena volvió a operar a plena capacidad",
-        "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Extracción de petróleo en Colombia descendió otra vez en agosto y Meta lideró la labor",
-        "url": "https://www.valoraanalitik.com/produccion-de-petroleo-en-colombia-cayo-nuevamente-en-agosto-meta-concentro-buena-parte-de-la-actividad/",
-        "resumen": "Ecopetrol, SierraCol Energy, Frontera Energy, GeoPark y Parex fueron las compañías con la mayor representatividad en esta actividad.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Producción petrolera en Colombia cayó nuevamente en agosto: Meta concentró buena parte de la actividad",
-        "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Barranquilla acoge por vez inicial en el país a jefes del Intercambio de Competitividad de la OEA",
-        "url": "https://www.valoraanalitik.com/barranquilla-recibe-por-primera-vez-en-colombia-a-lideres-del-intercambio-de-competitividad-de-las-americas-de-la-oea/",
-        "resumen": "El encuentro busca acercar a líderes de diferentes sectores para que puedan generar oportunidades de cooperación, inversión, negocios, etc.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Barranquilla recibe por primera vez en Colombia a líderes del Intercambio de Competitividad de las Américas de la OEA",
-        "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Carlos José González asume la presidencia de Asoportuaria en relevo de Lucas Ariza, hoy en Indumil",
-        "url": "https://www.valoraanalitik.com/carlos-jose-gonzalez-es-el-nuevo-presidente-de-asoportuaria-reemplaza-a-lucas-ariza-quien-ahora-dirige-indumil/",
-        "resumen": "Así se mueve la dirección de Asoportuaria e Indumil con nuevos nombres para sus presidencias.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Carlos José González es el nuevo presidente de Asoportuaria: reemplaza a Lucas Ariza, quien ahora dirige Indumil",
         "capturado": "2026-09-29T15:10:08-05:00"
       }
     ]
