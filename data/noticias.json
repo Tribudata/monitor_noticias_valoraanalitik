@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-02T13:38:21-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-02T17:52:34-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "MinTransporte indica que vía alterna a Buenaventura finalizaría en dos años y detalla los avances",
+        "url": "https://www.valoraanalitik.com/via-alterna-de-buenaventura-estaria-lista-en-dos-anos-segun-mintransporte/",
+        "resumen": "Las obras incluyen 12 kilómetros de doble calzada, un patio para vehículos de carga y una zona de servicio para facilitar el acceso al puerto.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Vía alterna de Buenaventura estaría lista en dos años, según MinTransporte: así avanzan las obras",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "MinHacienda inició plan para reperfilar TES por 19,8 billones de pesos",
+        "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-comenzo-con-un-programa-de-reperfilamiento-de-tes-por-198-billones/",
+        "resumen": "La cartera ministerial adicionó que con dicha operación la vida media de la deuda interna en pesos incrementó en 0,2 años, llegando a 10,17 años.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Ministerio de Hacienda comenzó con un programa de reperfilamiento de TES por $19,8 billones",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "Presidente de reaseguros de Swiss Re afirma que Colombia se consolida como centro asegurador regional",
+        "url": "https://www.valoraanalitik.com/colombia-se-esta-consolidando-como-un-hub-asegurador-regional-presidente-de-reaseguros-de-swiss-re/",
+        "resumen": "En el país hay una brecha de protección considerable donde la pérdida económica total supera por mucho la cobertura efectivamente asegurada.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "“Colombia se está consolidando como un hub asegurador regional”: presidente de reaseguros de Swiss Re",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "CAF dispondrá de 1.000 millones de dólares para mitigar ola de calor en 2026 y 2027",
+        "url": "https://www.valoraanalitik.com/caf-pondra-a-disposicion-us1-000-millones-para-responder-ante-la-oleada-de-calor-en-2026-y-2027/",
+        "resumen": "Sergio Díaz-Granados, presidente del organismo, señaló que este podría ser el fenómeno más fuerte del último siglo.",
+        "autor": "",
+        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
+        "publicacion": "",
+        "titulo_fuente": "CAF pondrá a disposición US$1.000 millones para responder ante la oleada de calor en 2026 y 2027",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella alista reforma a Ley APP para modificar tiempos de concesiones",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-prepara-reforma-a-la-ley-app-para-ajustar-plazos-de-concesiones/",
+        "resumen": "La iniciativa contempla cambios para puertos, aeropuertos y corredores viales. También se preparan modificaciones para atender los bloqueos en carreteras.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella prepara reforma a la Ley APP para ajustar plazos de concesiones",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "Entrevista al nuevo Country Manager de inDrive sobre su operación de $7,45 billones y metas de expansión",
+        "url": "https://www.valoraanalitik.com/entrevista-nuevo-country-manager-de-indrive-explica-como-la-plataforma-mueve-745-billones-en-colombia-y-sus-planes-de-crecimiento/",
+        "resumen": "El nuevo Country Manager de inDrive, Juan Sebastián Uribe, explicó a Valora Analitik el impacto de la plataforma en Colombia y sus apuestas de crecimiento.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Nuevo Country Manager de inDrive explica cómo la plataforma mueve $7,45 billones en Colombia y sus planes de crecimiento",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "Ecopetrol recibe licencia ambiental de la ANLA para iniciativa petrolera en el Meta",
+        "url": "https://www.valoraanalitik.com/anla-otorga-licencia-a-proyecto-de-petroleo-de-ecopetrol-en-meta/",
+        "resumen": "El proyecto no solo integra la construcción de pozos, sino también la de infraestructura energética, como plantas solares.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "ANLA otorga licencia a proyecto de petróleo de Ecopetrol en Meta",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "El 81 % de la minería aluvial ilegal de oro se concentra en Chocó, Antioquia y Bolívar",
+        "url": "https://www.valoraanalitik.com/choco-antioquia-y-bolivar-concentran-81-de-la-extraccion-ilicita-o-no-autorizada-del-oro-de-aluvion/",
+        "resumen": "Esta economía ilegal también se combina en buena medida con zonas con cultivos de coca a causa de la débil presencia del Estado.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Chocó, Antioquia y Bolívar concentran 81 % de la extracción ilícita o no autorizada del oro de aluvión",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella lanza Plan de Choque en Salud para resolver más de un millón de quejas",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-pone-en-marcha-plan-de-choque-en-salud-para-atender-mas-de-un-millon-de-reclamos/",
+        "resumen": "El Gobierno informó que la estrategia contempla cuatro etapas y contará con una mesa especial para su vigilancia.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella pone en marcha Plan de Choque en Salud para atender más de un millón de reclamos",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
       {
         "titulo": "Tasa de cambio en Colombia elimina alza semanal y finaliza en tres mil doscientos sesenta y cuatro pesos",
         "url": "https://www.valoraanalitik.com/dolar-en-colombia-borra-las-ganancias-de-la-semana-y-cierra-en-3-264/",
@@ -513,99 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "CARF proyectó un crecimiento económico en 2026 de 2,5 % y un déficit fiscal de 7,8 % del PIB para el cierre del año",
         "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "Superfinanciero resalta que el sismo no impactó al sector asegurador colombiano",
-        "url": "https://www.valoraanalitik.com/superfinanciero-destaca-que-el-terremoto-no-afecto-a-la-industria-aseguradora-en-colombia/",
-        "resumen": "El superintendente financiero, Pablo Andrés Rivas, trazó la hoja de ruta del sector frente al impacto de los desastres naturales.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Superfinanciero destaca que el terremoto no afectó a la industria aseguradora en Colombia",
-        "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "La Bolsa de Colombia subió 23,2 % de enero a septiembre y es la segunda de mayor valorización regional",
-        "url": "https://www.valoraanalitik.com/bolsa-de-colombia-septiembre-2026-ranking/",
-        "resumen": "El mercado local tiene mejor desempeño que la mayoría de los mercados regionales y que el índice S&P y Nasdaq, de la Bolsa de nueva York.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "La Bolsa de Colombia ha crecido 23,2 % entre enero y septiembre; es la segunda más valorizada de la región",
-        "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "Nubank niega versión sobre adquisición del banco Monzo en Inglaterra y sus títulos repuntan",
-        "url": "https://www.valoraanalitik.com/nubank-desmiente-rumor-de-compra-del-banco-monzo-en-inglaterra-y-sus-acciones-suben/",
-        "resumen": "La compañía manifestó que su foco sigue estando en Brasil, Colombia, México y EE. UU.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Nubank desmiente rumor de compra del banco Monzo en Inglaterra y sus acciones suben",
-        "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "Grupo Argos confirma transacciones financieras en concesiones de Odinsa bajo el esquema ACE 1.0",
-        "url": "https://www.valoraanalitik.com/grupo-argos-operaciones-financieras-odinsa/",
-        "resumen": "Estas operaciones se dan en el marco del programa ACE 1.0, que contempla la gestión del portafolio para anticipar la generación y distribución de caja.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos anuncia operaciones financieras en concesiones de Odinsa como parte de ACE 1.0",
-        "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "Industria de seguros en Colombia aumentó 18 % en un cuatrienio y duplicó el paso de la economía",
-        "url": "https://www.valoraanalitik.com/sector-asegurador-colombiano-crecio-18-en-cuatro-anos-y-duplico-el-ritmo-de-expansion-de-la-economia/",
-        "resumen": "En el marco de la Convención Internacional de Seguros, Fasecolda reveló que las primas reales del sector aumentaron más del doble que el PIB.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Sector asegurador colombiano creció 18 % en cuatro años y duplicó el ritmo de expansión de la economía",
-        "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "Ponen en marcha obra de $22.000 millones para mitigar congestiones viales al occidente de Bogotá",
-        "url": "https://www.valoraanalitik.com/inauguran-obra-de-22-000-millones-que-ayudara-a-acabar-trancones-en-el-occidente-de-bogota/",
-        "resumen": "La obra completa un tramo de la avenida Mutis y cambia la conexión vial en Engativá, donde conductores enfrentaban un punto crítico de congestión.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Inauguran obra de $22.000 millones que ayudará a acabar trancones en el occidente de Bogotá",
-        "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "Presidenta de la CCI solicita agilizar proyectos y destrabar desembolsos para reactivar el sector vial",
-        "url": "https://www.valoraanalitik.com/presidenta-de-la-cci-pide-acelerar-obras-y-destrabar-pagos-para-reactivar-infraestructura-en-colombia/",
-        "resumen": "Tatyana Orozco de la Cruz, presidenta de la Cámara Colombiana de la Infraestructura (CCI), en entrevista con Valora Analitik.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Presidenta de la CCI pide acelerar obras y destrabar pagos para reactivar infraestructura en Colombia",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Lumon destina $4.000 millones a una fábrica en Barranquilla y planea 10 distribuidoras en el país",
-        "url": "https://www.valoraanalitik.com/lumon-invierte-4-000-millones-en-planta-en-barranquilla-y-proyecta-10-distribuidoras-en-colombia/",
-        "resumen": "La compañía finlandesa Lumon avanza en la construcción de su primera planta de montaje en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Lumon invierte $4.000 millones en planta en Barranquilla y proyecta 10 distribuidoras en Colombia",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Satena inaugura vuelo directo entre Montería y Ciudad de Panamá desde el mes de octubre",
-        "url": "https://www.valoraanalitik.com/satena-abre-ruta-directa-entre-monteria-y-ciudad-de-panama-a-partir-de-octubre/",
-        "resumen": "Las aeronaves que operarán esta ruta tendrán capacidad para hasta 50 pasajeros.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Satena abre ruta directa entre Montería y Ciudad de Panamá a partir de octubre",
-        "capturado": "2026-09-30T16:23:15-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El líder de reaseguros de Swiss Re afirma que Colombia se afianza como un centro asegurador zonal",
+        "url": "https://www.valoraanalitik.com/colombia-se-esta-consolidando-como-un-hub-asegurador-regional-presidente-de-reaseguros-de-swiss-re/",
+        "resumen": "En el país hay una brecha de protección considerable donde la pérdida económica total supera por mucho la cobertura efectivamente asegurada.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "“Colombia se está consolidando como un hub asegurador regional”: presidente de reaseguros de Swiss Re",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "CAF destinará US$1.000 millones para afrontar la ola de calor durante 2026 y 2027",
+        "url": "https://www.valoraanalitik.com/caf-pondra-a-disposicion-us1-000-millones-para-responder-ante-la-oleada-de-calor-en-2026-y-2027/",
+        "resumen": "Sergio Díaz-Granados, presidente del organismo, señaló que este podría ser el fenómeno más fuerte del último siglo.",
+        "autor": "",
+        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
+        "publicacion": "",
+        "titulo_fuente": "CAF pondrá a disposición US$1.000 millones para responder ante la oleada de calor en 2026 y 2027",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "Entrevista al nuevo Country Manager de inDrive sobre los $7,45 billones que mueve en Colombia y su expansión",
+        "url": "https://www.valoraanalitik.com/entrevista-nuevo-country-manager-de-indrive-explica-como-la-plataforma-mueve-745-billones-en-colombia-y-sus-planes-de-crecimiento/",
+        "resumen": "El nuevo Country Manager de inDrive, Juan Sebastián Uribe, explicó a Valora Analitik el impacto de la plataforma en Colombia y sus apuestas de crecimiento.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Nuevo Country Manager de inDrive explica cómo la plataforma mueve $7,45 billones en Colombia y sus planes de crecimiento",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "ANLA concede licencia para iniciativa petrolera de Ecopetrol en el departamento del Meta",
+        "url": "https://www.valoraanalitik.com/anla-otorga-licencia-a-proyecto-de-petroleo-de-ecopetrol-en-meta/",
+        "resumen": "El proyecto no solo integra la construcción de pozos, sino también la de infraestructura energética, como plantas solares.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "ANLA otorga licencia a proyecto de petróleo de Ecopetrol en Meta",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "Chocó, Antioquia y Bolívar reúnen el 81 % de la explotación aurífera aluvial ilegal o sin autorización",
+        "url": "https://www.valoraanalitik.com/choco-antioquia-y-bolivar-concentran-81-de-la-extraccion-ilicita-o-no-autorizada-del-oro-de-aluvion/",
+        "resumen": "Esta economía ilegal también se combina en buena medida con zonas con cultivos de coca a causa de la débil presencia del Estado.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Chocó, Antioquia y Bolívar concentran 81 % de la extracción ilícita o no autorizada del oro de aluvión",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
+      {
+        "titulo": "El sector de asistencias al viajero sube en Colombia pero sigue sin lograr una masificación",
+        "url": "https://www.valoraanalitik.com/mercado-de-asistencias-al-viajero-crece-en-colombia-pero-aun-no-logra-masificarse/",
+        "resumen": "Universal Assistance en Colombia analiza cómo cambió la mentalidad del viajero tras la pandemia y las exigencias internacionales.",
+        "autor": "",
+        "subseccion": "Financieras",
+        "publicacion": "",
+        "titulo_fuente": "Mercado de asistencias al viajero crece en Colombia, pero aún no logra masificarse",
+        "capturado": "2026-10-02T17:52:34-05:00"
+      },
       {
         "titulo": "Mapfre proyecta liderar el mercado asegurador colombiano en 2027 impulsada por el sector de vehículos",
         "url": "https://www.valoraanalitik.com/mapfre-busca-ser-la-aseguradora-mas-grande-de-colombia-para-2027-mercado-automovilistico-sera-clave/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Ministerio de Hacienda autorizó a Bogotá para adquirir un préstamo de $1,3 billones para la Primera Línea del Metro",
         "capturado": "2026-09-30T00:02:09-05:00"
-      },
-      {
-        "titulo": "Gobierno nombra a Karen Ayos como directora de la UGPP y declara insubsistente al exdirector",
-        "url": "https://www.valoraanalitik.com/karen-ayos-es-la-nueva-directora-de-la-ugpp-gobierno-declara-insubsistente-a-exdirector/",
-        "resumen": "Karen Patricia Ayos Vargas tiene una trayectoria de varios años dentro de la UGPP, especialmente en el área pensional.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Karen Ayos es la nueva directora de la UGPP; Gobierno declara insubsistente a exdirector",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "En agosto de 2026 subió 1,8 % la operación de taladros de gas y petróleo",
-        "url": "https://www.valoraanalitik.com/actividad-de-taladros-de-petroleo-y-gas-aumento-18-en-agosto-de-2026/",
-        "resumen": "Meta, Casanare y La Guajira concentraron los equipos en actividades de perforación.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Actividad de taladros de petróleo y gas aumentó 1,8 % en agosto de 2026",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "La iniciativa de Bancolombia para prevenir el impacto financiero del Fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/la-propuesta-de-bancolombia-para-anticipar-el-bolsillo-ante-el-fenomeno-de-el-nino/",
-        "resumen": "Bancolombia presenta iniciativa de educación y sensibilización sobre los efectos económicos y sociales del Fenómeno de El Niño.",
-        "autor": "",
-        "subseccion": "Especial petroleo gas mineria y renovables",
-        "publicacion": "",
-        "titulo_fuente": "La propuesta de Bancolombia para anticipar el bolsillo ante el Fenómeno de El Niño",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "Tecnoglass se vincula a Adopta un Hogar y donará la ventanería de las mil casas",
-        "url": "https://www.valoraanalitik.com/tecnoglass-se-suma-a-adopta-un-hogar-aportara-las-ventanas-para-las-1-000-viviendas/",
-        "resumen": "Tecnoglass aportará la totalidad de las ventanas requeridas por las 1.000 viviendas que Grupo Argos y Nicky Jam se comprometieron a construir.",
-        "autor": "",
-        "subseccion": "Adopta un hogar",
-        "publicacion": "",
-        "titulo_fuente": "Tecnoglass se suma a Adopta un Hogar: aportará las ventanas para las 1.000 viviendas",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "Llegan robots humanoides a Colombia con precios similares a los de un inmueble",
-        "url": "https://www.valoraanalitik.com/robots-humanoides-llegan-a-colombia-pueden-valer-lo-mismo-que-un-apartamento/",
-        "resumen": "Robots humanoides programables llegan al mercado colombiano con usos en educación, seguridad y comercio, y precios que varían según la solución.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Robots humanoides llegan a Colombia: pueden valer lo mismo que un apartamento",
-        "capturado": "2026-09-29T18:55:01-05:00"
-      },
-      {
-        "titulo": "Producción de gas en Colombia registró pérdidas, bajó la venta y trepó la compra del exterior",
-        "url": "https://www.valoraanalitik.com/industria-del-gas-en-colombia-reporto-cifras-rojas-en-produccion-comercializacion-cayo-y-la-importacion-se-disparo/",
-        "resumen": "Campetrol advirtió que a esto se suma la intensa ola de calor que presionaría la demanda de gas para la generación eléctrica.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Industria del gas en Colombia reportó cifras rojas en producción; comercialización cayó y la importación se disparó",
-        "capturado": "2026-09-29T15:10:08-05:00"
       }
     ]
   }
