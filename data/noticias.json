@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-02T01:04:36-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-02T08:03:04-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Video | Los títulos de Ecopetrol encabezan el monto de operaciones del día",
+        "url": "https://www.valoraanalitik.com/acciones-de-ecopetrol-lideran-el-volumen-de-transacciones-de-la-jornada/",
+        "resumen": "Ecopetrol movilizó $41.999 millones al finalizar el día.",
+        "autor": "",
+        "subseccion": "Acciones ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Video | Acciones de Ecopetrol lideran el volumen de transacciones de la jornada",
+        "capturado": "2026-10-02T08:03:04-05:00"
+      },
+      {
+        "titulo": "Primicia | Pei sumará un segundo formador de liquidez para sus títulos; busca atraer más foráneos",
+        "url": "https://www.valoraanalitik.com/pei-segundo-formador-liquidez-extranjeros/",
+        "resumen": "Jairo Corrales, presidente de Pei, reveló la firma que ayudará a fortalecer la negociación en bolsa; dio detalles sobre la compra de activos de Terranum.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Pei sumará un segundo formador de liquidez para sus títulos; quiere más inversionistas extranjeros",
+        "capturado": "2026-10-02T08:03:04-05:00"
+      },
+      {
+        "titulo": "Colombia registrará un gran desplazamiento de viajeros en la semana de receso",
+        "url": "https://www.valoraanalitik.com/colombia-tendra-importante-movilizacion-de-turistas-para-la-semana-de-receso/",
+        "resumen": "Las autoridades señalan un importante tránsito de turistas por distintas ciudades de Colombia",
+        "autor": "",
+        "subseccion": "Turismo",
+        "publicacion": "",
+        "titulo_fuente": "Colombia tendrá importante movilización de turistas para la semana de receso",
+        "capturado": "2026-10-02T08:03:04-05:00"
+      },
+      {
+        "titulo": "Congelar precios del diésel pondría más presión en gastos del Gobierno: en casi dos años el combustible aumentó menos de $1.000",
+        "url": "https://www.valoraanalitik.com/congelar-precios-del-diesel-pondria-mas-presion-en-gastos-del-gobierno-en-casi-dos-anos-el-combustible-aumento-menos-de-1-000/",
+        "resumen": "La presión fiscal por el congelamiento del diésel se podría ver reflejada en los recursos que se destinan a través del Fondo de Estabilización de Combustibles.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Congelar precios del diésel pondría más presión en gastos del Gobierno: en casi dos años el combustible aumentó menos de $1.000",
+        "capturado": "2026-10-02T08:03:04-05:00"
+      },
+      {
+        "titulo": "Esto pagará el gobierno De la Espriella en la prima de Navidad de Colpensiones",
+        "url": "https://www.valoraanalitik.com/esto-pagara-el-gobierno-de-la-espriella-en-la-prima-de-navidad-de-colpensiones/",
+        "resumen": "El gobierno dijo que el dinero para las mesadas de final de este año está completamente garantizado.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Esto pagará el gobierno De la Espriella en la prima de Navidad de Colpensiones",
+        "capturado": "2026-10-02T08:03:04-05:00"
+      },
+      {
+        "titulo": "Premercado | Mercados variados a la espera de cifras de empleo estadounidense e inflación europea: cae el crudo",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-mixtas-mientras-inversores-esperan-datos-de-empleo-en-ee-uu-e-inflacion-en-eurozona-petroleo-baja/",
+        "resumen": "La atención se centra ahora en las nóminas no agrícolas de EE. UU., previstas para más tarde este viernes.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas mixtas mientras inversores esperan datos de empleo en EE. UU. e inflación en eurozona: petróleo baja",
+        "capturado": "2026-10-02T08:03:04-05:00"
+      },
       {
         "titulo": "Arranca edificación de proyecto vial hacia Buenaventura y será fundamental para el Valle del Cauca",
         "url": "https://www.valoraanalitik.com/inicia-construccion-de-obra-clave-en-la-via-alterna-a-buenaventura-plan-sera-clave-para-el-valle-del-cauca/",
@@ -543,69 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Bolsa de Colombia puede crecer hasta 13 % en 2027; estas son las acciones favoritas para invertir el próximo año",
         "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Aprobado el aumento de aforo para el estadio El Campín y se conoce su nueva fecha de entrega",
-        "url": "https://www.valoraanalitik.com/nuevo-estadio-el-campin-tendra-mas-capacidad-de-asistentes-y-esta-sera-su-nueva-fecha-de-entrega/",
-        "resumen": "El alcalde Carlos Fernando Galán entregó nuevos detalles de la obra de infraestructura",
-        "autor": "",
-        "subseccion": "Futbol colombiano",
-        "publicacion": "",
-        "titulo_fuente": "Confirmado | Nuevo estadio El Campín tendrá más capacidad de asistentes y esta será su nueva fecha de entrega",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Julio César Aldana Bula sería el nuevo presidente de Positiva Compañía de Seguros",
-        "url": "https://www.valoraanalitik.com/julio-cesar-aldana-bula-llegaria-a-la-presidencia-de-positiva-compania-de-seguros/",
-        "resumen": "Julio César Aldana Bula, exdirector del Invima, llegaría a la presidencia de Positiva Compañía de Seguros.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Julio César Aldana Bula llegaría a la presidencia de Positiva Compañía de Seguros",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Inició el retiro de la marca Movistar Arena y esta será su nueva etapa desde octubre",
-        "url": "https://www.valoraanalitik.com/ya-comenzo-el-desmonte-del-nombre-del-movistar-arena-asi-sera-su-nueva-etapa-desde-octubre/",
-        "resumen": "El Movistar Arena confirmó el cierre de una etapa de ocho años y prepara cambios mientras mantiene su agenda de eventos en Bogotá.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ya comenzó el desmonte del nombre del Movistar Arena: así será su nueva etapa desde octubre",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella designa vicecanciller y embajadores en Bolivia y El Salvador",
-        "url": "https://www.valoraanalitik.com/gobierno-confirma-vicecanciller-y-embajadores-para-bolivia-y-el-salvador/",
-        "resumen": "Los nuevos cargos que anunció el gobierno de Abelardo de la Espriella en la política exterior.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella confirma vicecanciller y embajadores para Bolivia y El Salvador",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Finalizó la megaobra que une el Valle de Aburrá, el Suroeste antioqueño y el suroccidente",
-        "url": "https://www.valoraanalitik.com/megaobra-que-conecta-el-valle-de-aburra-con-el-suroeste-antioqueno-y-el-suroccidente-del-pais-quedo-lista/",
-        "resumen": "La megaobra estuvo a cargo de Covipacífico y se extendió durante 14 meses. Así fue el proyecto.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Megaobra que conecta el Valle de Aburrá con el Suroeste antioqueño y el suroccidente del país quedó lista",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá impulsa finanzas abiertas y apunta a un billón de pesos en operaciones mediante API",
-        "url": "https://www.valoraanalitik.com/banco-de-bogota-finanzas-abiertas-api/",
-        "resumen": "La entidad está construyendo una solución para tarjeta de crédito que permitirá emitir, evaluar y aprobar el producto desde plataformas de terceros.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Banco de Bogotá avanza en estrategia para aprovechar finanzas abiertas; busca $1 billón en transacciones desde API",
-        "capturado": "2026-09-30T11:57:41-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Kurrant destinará 50.000 millones de pesos a un club social bogotano que operaría en 2028",
+        "url": "https://www.valoraanalitik.com/kurrant-invertira-50-000-millones-en-nuevo-club-social-en-bogota-abriria-en-2028/",
+        "resumen": "La primera sede de Kurrant tendrá aproximadamente 6.500 metros cuadrados de construcción, distribuidos en seis pisos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Kurrant invertirá $50.000 millones en nuevo club social en Bogotá: abriría en 2028",
+        "capturado": "2026-10-02T08:03:04-05:00"
+      },
+      {
+        "titulo": "Congelar el valor del diésel presionaría el gasto fiscal y el combustible subió poco en dos años",
+        "url": "https://www.valoraanalitik.com/congelar-precios-del-diesel-pondria-mas-presion-en-gastos-del-gobierno-en-casi-dos-anos-el-combustible-aumento-menos-de-1-000/",
+        "resumen": "La presión fiscal por el congelamiento del diésel se podría ver reflejada en los recursos que se destinan a través del Fondo de Estabilización de Combustibles.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Congelar precios del diésel pondría más presión en gastos del Gobierno: en casi dos años el combustible aumentó menos de $1.000",
+        "capturado": "2026-10-02T08:03:04-05:00"
+      },
       {
         "titulo": "Arranca edificación de proyecto vial hacia Buenaventura y será fundamental para el Valle del Cauca",
         "url": "https://www.valoraanalitik.com/inicia-construccion-de-obra-clave-en-la-via-alterna-a-buenaventura-plan-sera-clave-para-el-valle-del-cauca/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Nombramientos",
         "publicacion": "",
         "titulo_fuente": "Carlos José González es el nuevo presidente de Asoportuaria: reemplaza a Lucas Ariza, quien ahora dirige Indumil",
-        "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Nueva campaña en a2censo de la Bolsa de Colombia busca financiación para cancha de tejo y detalla inversión",
-        "url": "https://www.valoraanalitik.com/tejo-turmeque-bolsa-colombia-a2censo/",
-        "resumen": "Tejo Turmequé quiere recaudar hasta $2.700 millones mediante una emisión de acciones para financiar nuevas sedes y ampliar su negocio.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "La cancha de tejo que busca recursos a través de la Bolsa de Colombia con nueva campaña de a2censo; así puede invertir",
-        "capturado": "2026-09-29T15:10:08-05:00"
-      },
-      {
-        "titulo": "Alcaldía de Medellín, Claro y Valora Analitik se asocian para inaugurar sala tecnológica en Hogares San José",
-        "url": "https://www.valoraanalitik.com/claro-valora-analitik-y-la-alcaldia-de-medellin-se-unen-para-entregar-nueva-sala-de-tecnologia-en-hogares-san-jose/",
-        "resumen": "Se estima que esta nueva sala impactará positivamente a 175 estudiantes de bachillerato y al personal docente.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Claro, Valora Analitik y la Alcaldía de Medellín se unen para entregar nueva sala de tecnología en Hogares San José",
         "capturado": "2026-09-29T15:10:08-05:00"
       }
     ]
