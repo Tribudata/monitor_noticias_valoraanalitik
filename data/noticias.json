@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-03T15:51:59-05:00",
+  "actualizado": "2026-10-03T18:41:05-05:00",
   "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Pago ASAP vincula Bre-B con la plataforma de pagos venezolana para agilizar transacciones bilaterales",
+        "url": "https://www.valoraanalitik.com/pago-asap-bre-b-pagos-venezuela/",
+        "resumen": "La fintech venezolana ya conecta los pagos inmediatos colombianos con Pago Móvil en Venezuela; movió US$158 millones en el primer semestre.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Pago ASAP conecta Bre-B con el sistema de pagos de Venezuela para acelerar operaciones binacionales",
+        "capturado": "2026-10-03T18:41:05-05:00"
+      },
+      {
+        "titulo": "BMW lanza auto eléctrico en Colombia con autonomía para ir y volver de Bogotá a Medellín: costo y detalles",
+        "url": "https://www.valoraanalitik.com/bmw-estrena-nuevo-carro-electrico-en-colombia-que-puede-ir-y-volver-de-bogota-a-medellin-con-una-sola-carga-precio-y-caracteristicas/",
+        "resumen": "BMW lanzó en Colombia un nuevo eléctrico con autonomía para viajes largos, en un mercado que acelera sus ventas y enfrenta el reto de ampliar la carga.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "BMW estrena carro eléctrico en Colombia que puede ir y volver de Bogotá a Medellín con una sola carga: precio y características",
+        "capturado": "2026-10-03T18:41:05-05:00"
+      },
       {
         "titulo": "Jeeves recauda US$110 millones e impulsa pagos internacionales corporativos en Colombia mediante criptomonedas",
         "url": "https://www.valoraanalitik.com/jeeves-acelera-pagos-stablecoins-colombia/",
@@ -583,29 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Demanda mundial de pasajeros aéreos cayó 0,8% en agosto de 2026, según IATA",
         "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Colombia alista Milagro Week con EE. UU. y Venezuela para captar capitales",
-        "url": "https://www.valoraanalitik.com/colombia-prepara-milagro-week-con-ee-uu-y-venezuela-para-atraer-inversion/",
-        "resumen": "El Ministerio de Minas y ProColombia liderarán los frentes priorizados: energía e insumos como alimentos y medicamentos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia prepara Milagro Week con EE. UU. y Venezuela para atraer inversión",
-        "capturado": "2026-10-01T09:42:23-05:00"
-      },
-      {
-        "titulo": "Protección estrena opción para colocar fondos en títulos locales asegurando el principal",
-        "url": "https://www.valoraanalitik.com/proteccion-alternativa-acciones-colombianas/",
-        "resumen": "Se podrá invertir desde $5 millones y un plazo aproximado de tres años, con exposición al desempeño del ETF Global X MSCI Colombia.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Protección lanza alternativa para invertir en acciones colombianas con garantías al capital",
-        "capturado": "2026-10-01T09:42:23-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Colgas y socios conectan gas domiciliario a casi 1.000 clientes en Tierralta para reducir brecha energética",
+        "url": "https://www.valoraanalitik.com/colgas-y-aliados-llevan-gas-por-red-a-cerca-de-1-000-usuarios-en-tierralta-cordoba-buscan-cerrar-brecha-energetica/",
+        "resumen": "La red funciona con gas natural sintético (GNS), una mezcla de propano y aire que se comporta como el gas natural.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colgas y aliados llevan gas por red a cerca de 1.000 usuarios en Tierralta, Córdoba: buscan cerrar brecha energética",
+        "capturado": "2026-10-03T18:41:05-05:00"
+      },
+      {
+        "titulo": "BMW lanza en Colombia un auto eléctrico con autonomía para ir y volver entre Bogotá y Medellín: costo y detalles",
+        "url": "https://www.valoraanalitik.com/bmw-estrena-nuevo-carro-electrico-en-colombia-que-puede-ir-y-volver-de-bogota-a-medellin-con-una-sola-carga-precio-y-caracteristicas/",
+        "resumen": "BMW lanzó en Colombia un nuevo eléctrico con autonomía para viajes largos, en un mercado que acelera sus ventas y enfrenta el reto de ampliar la carga.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "BMW estrena carro eléctrico en Colombia que puede ir y volver de Bogotá a Medellín con una sola carga: precio y características",
+        "capturado": "2026-10-03T18:41:05-05:00"
+      },
       {
         "titulo": "En septiembre el registro de motos subió un 23,6 % en el país y pasó de 127.000 unidades",
         "url": "https://www.valoraanalitik.com/matriculas-de-motos-en-colombia-crecieron-236-en-septiembre-y-superaron-las-127-000-unidades/",
@@ -1184,26 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Ya comenzó el desmonte del nombre del Movistar Arena: así será su nueva etapa desde octubre",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Autogermana y sus empresas impulsan campaña vial para rescatar la empatía en el desplazamiento",
-        "url": "https://www.valoraanalitik.com/seamos-en-la-via-como-en-la-vida-campana-de-autogermana-y-sus-companias-para-recuperar-la-empatia-en-la-movilidad/",
-        "resumen": "La iniciativa se presenta en un contexto en el que los siniestros viales continúan representando un desafío para Colombia.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "“Seamos en la vía como en la vida”: campaña de Autogermana y sus compañías para recuperar la empatía en la movilidad",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Grupo Cibest de Bancolombia impulsa la corresponsalía digital tras comprar nueva fintech",
-        "url": "https://www.valoraanalitik.com/grupo-cibest-bancolombia-adquisicion-ptm/",
-        "resumen": "Estrategias Cibest, sociedad controlada por Grupo Cibest, proyecta adquirir el 100 % de PTM, compañía que administra redes de corresponsales bancarios.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Cibest (Bancolombia) apuesta por la corresponsalía digital con adquisición de nueva fintech",
         "capturado": "2026-09-30T11:57:41-05:00"
       }
     ]
