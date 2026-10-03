@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-03T02:51:54-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-03T08:12:30-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Vocero de la concesión Bogotá-Girardot detalla recomendaciones para viajeros en esta semana de receso",
+        "url": "https://www.valoraanalitik.com/directivo-de-la-concesion-bogota-girardot-explica-que-deben-tener-en-cuenta-quienes-viajen-en-esta-semana-de-receso/",
+        "resumen": "La vía Bogotá-Girardot tendrá una operación reforzada durante la semana de receso. Estas son las recomendaciones para quienes viajarán por el corredor.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Directivo de la concesión Bogotá-Girardot explica qué deben tener en cuenta quienes viajen en esta semana de receso",
+        "capturado": "2026-10-03T08:12:30-05:00"
+      },
       {
         "titulo": "Ministerio de Transporte, ANI y ANLA promoverán la expansión del terminal aéreo cartagenero",
         "url": "https://www.valoraanalitik.com/la-anla-la-ani-y-el-ministerio-de-transporte-impulsaran-la-ampliacion-del-aeropuerto-de-cartagena/",
@@ -592,16 +602,6 @@
         "subseccion": "Gobierno de la espriella",
         "publicacion": "",
         "titulo_fuente": "Estos son los riesgos más grandes que ve el gobierno De la Espriella para la inflación en Colombia: ¿Tomará medidas?",
-        "capturado": "2026-10-01T09:42:23-05:00"
-      },
-      {
-        "titulo": "Solicitan al gobierno De la Espriella quitar aranceles claves para mitigar impacto de El Niño",
-        "url": "https://www.valoraanalitik.com/piden-al-gobierno-de-la-espriella-eliminar-importantes-aranceles-suavizaria-golpe-del-fenomeno-de-el-nino/",
-        "resumen": "El gobierno De la Espriella ha asegurado que tendrá planes de cuidado para los exportadores",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Piden al gobierno De la Espriella eliminar importantes aranceles: Suavizaría golpe del fenómeno de El Niño",
         "capturado": "2026-10-01T09:42:23-05:00"
       }
     ],
