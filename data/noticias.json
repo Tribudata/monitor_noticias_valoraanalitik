@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-02T17:52:34-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-10-02T20:49:26-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Ministerio de Transporte, ANI y ANLA promoverán la expansión del terminal aéreo cartagenero",
+        "url": "https://www.valoraanalitik.com/la-anla-la-ani-y-el-ministerio-de-transporte-impulsaran-la-ampliacion-del-aeropuerto-de-cartagena/",
+        "resumen": "La ministra de Transporte expresó que esta ciudad necesita un aeropuerto que responda a las necesidades de los millones de viajeros.",
+        "autor": "",
+        "subseccion": "Ministerio de transporte",
+        "publicacion": "",
+        "titulo_fuente": "La ANLA, la ANI y el Ministerio de Transporte impulsarán la ampliación del aeropuerto de Cartagena",
+        "capturado": "2026-10-02T20:49:26-05:00"
+      },
+      {
+        "titulo": "Administración de la Espriella retomó pacto con Colfuturo y aportará US$25 millones",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-reactivo-alianza-con-colfuturo-y-la-respaldara-con-us25-millones/",
+        "resumen": "Colfuturo espera que estos recursos vayan para las cohortes de 2026 y 2027 y proyectó seleccionar hasta 3.000 profesionales, una cifra que triplica la de 2026.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno de la Espriella reactivó alianza con Colfuturo y la respaldará con US$25 millones",
+        "capturado": "2026-10-02T20:49:26-05:00"
+      },
+      {
+        "titulo": "Empresarios y vicepresidente Restrepo discuten establecer el Día sin IVA en el Valle del Cauca",
+        "url": "https://www.valoraanalitik.com/vicepresidente-restrepo-y-empresarios-ponen-sobre-la-mesa-aplicar-el-dia-sin-iva-en-el-valle-del-cauca/",
+        "resumen": "Esta iniciativa se aplicaría con la finalidad de dinamizar la región luego de los desastres causados por el terremoto.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Vicepresidente Restrepo y empresarios ponen sobre la mesa aplicar el Día sin IVA en el Valle del Cauca",
+        "capturado": "2026-10-02T20:49:26-05:00"
+      },
+      {
+        "titulo": "Minhacienda designó a Jaime Vives como el nuevo director de Coljuegos",
+        "url": "https://www.valoraanalitik.com/el-ministerio-de-hacienda-presento-a-jaime-vives-como-nuevo-presidente-de-coljuegos/",
+        "resumen": "Esta organización es clave para brindar recursos al sistema de salud colombiano, y a su vez, está adscrita al Ministerio de Hacienda.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "El Ministerio de Hacienda presentó a Jaime Vives como nuevo presidente de Coljuegos",
+        "capturado": "2026-10-02T20:49:26-05:00"
+      },
+      {
+        "titulo": "Oracle designó a Juan Carlos Vega como nuevo gerente en Colombia, Centroamérica y el Caribe",
+        "url": "https://www.valoraanalitik.com/oracle-nombro-a-juan-carlos-vega-como-nuevo-gerente-para-colombia-centroamerica-y-el-caribe/",
+        "resumen": "Entre sus prioridades estarán la inteligencia artificial, infraestructura de nube y ciberseguridad.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Oracle nombró a Juan Carlos Vega como nuevo gerente para Colombia, Centroamérica y el Caribe",
+        "capturado": "2026-10-02T20:49:26-05:00"
+      },
       {
         "titulo": "MinTransporte indica que vía alterna a Buenaventura finalizaría en dos años y detalla los avances",
         "url": "https://www.valoraanalitik.com/via-alterna-de-buenaventura-estaria-lista-en-dos-anos-segun-mintransporte/",
@@ -553,59 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Piden al gobierno De la Espriella eliminar importantes aranceles: Suavizaría golpe del fenómeno de El Niño",
         "capturado": "2026-10-01T09:42:23-05:00"
-      },
-      {
-        "titulo": "Ecopetrol obtuvo $683.990 millones por cobrar del Fondo de Estabilización de Combustibles y nombró directivos",
-        "url": "https://www.valoraanalitik.com/ecopetrol-recibio-683-990-millones-por-cuentas-por-cobrar-del-fondo-de-estabilizacion-de-combustibles-la-compania-tuvo-nuevos-nombramientos/",
-        "resumen": "Los montos fueron transferidos por los ministerios de Hacienda y de Minas. Apuntan a la reducción del déficit en la bolsa para estabilizar precio del diésel.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol recibió $683.990 millones en cuentas por cobrar del Fondo de Estabilización de Combustibles; la compañía tuvo nuevos nombramientos",
-        "capturado": "2026-10-01T02:03:24-05:00"
-      },
-      {
-        "titulo": "El Consejo Privado de Competitividad pasa a llamarse Colombia Compite y aconseja al Gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/consejo-privado-de-competitividad-evoluciona-a-colombia-compite-deja-recomendaciones-a-gobierno-de-la-espriella/",
-        "resumen": "La organización identificó cuatro frentes urgentes para 2026-2030: ajuste fiscal, salud, energía y una revisión de trámites y regulaciones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Consejo Privado de Competitividad evoluciona a Colombia Compite; deja recomendaciones a Gobierno De la Espriella",
-        "capturado": "2026-10-01T02:03:24-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella sube el costo de la gasolina corriente en octubre y congela el valor del ACPM",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-aumenta-el-precio-de-la-gasolina-corriente-para-octubre-mantiene-precio-del-acpm/",
-        "resumen": "La diferencia del precio del diésel local e internacional es una de las presiones en la política fiscal en Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella aumenta el precio de la gasolina corriente para octubre: mantiene precio del ACPM",
-        "capturado": "2026-10-01T02:03:24-05:00"
-      },
-      {
-        "titulo": "Congreso, Educación y Minas y Energía registraron la mayor ejecución presupuestal en agosto",
-        "url": "https://www.valoraanalitik.com/congreso-educacion-y-minas-y-energia-fueron-los-sectores-con-mayores-niveles-de-ejecucion-presupuestal-en-agosto/",
-        "resumen": "El rezago en el Presupuesto para 2025 fue de $48,4 billones, que equivalen a 2,4 % del PIB.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Congreso, Educación y Minas y Energía fueron los sectores con mayores niveles de ejecución presupuestal en agosto",
-        "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "CARF estimó un avance económico del 2,5 % en 2026 y un déficit fiscal del 7,8 % del PIB al finalizar el año",
-        "url": "https://www.valoraanalitik.com/carf-proyecto-un-crecimiento-economico-en-2026-de-25-y-un-deficit-fiscal-de-78-del-pib-para-el-cierre-del-ano/",
-        "resumen": "La entidad manifestó que a mediano plazo, si se continúa con esta senda, la deuda es insostenible.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "CARF proyectó un crecimiento económico en 2026 de 2,5 % y un déficit fiscal de 7,8 % del PIB para el cierre del año",
-        "capturado": "2026-09-30T19:46:19-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Gobierno de la Espriella retomó alianza con Colfuturo y aportará US$25 millones",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-reactivo-alianza-con-colfuturo-y-la-respaldara-con-us25-millones/",
+        "resumen": "Colfuturo espera que estos recursos vayan para las cohortes de 2026 y 2027 y proyectó seleccionar hasta 3.000 profesionales, una cifra que triplica la de 2026.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno de la Espriella reactivó alianza con Colfuturo y la respaldará con US$25 millones",
+        "capturado": "2026-10-02T20:49:26-05:00"
+      },
+      {
+        "titulo": "Vicepresidente Restrepo y empresarios discuten establecer el Día sin IVA en el Valle del Cauca",
+        "url": "https://www.valoraanalitik.com/vicepresidente-restrepo-y-empresarios-ponen-sobre-la-mesa-aplicar-el-dia-sin-iva-en-el-valle-del-cauca/",
+        "resumen": "Esta iniciativa se aplicaría con la finalidad de dinamizar la región luego de los desastres causados por el terremoto.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Vicepresidente Restrepo y empresarios ponen sobre la mesa aplicar el Día sin IVA en el Valle del Cauca",
+        "capturado": "2026-10-02T20:49:26-05:00"
+      },
+      {
+        "titulo": "Ministerio de Hacienda designó a Jaime Vives como el nuevo presidente de Coljuegos",
+        "url": "https://www.valoraanalitik.com/el-ministerio-de-hacienda-presento-a-jaime-vives-como-nuevo-presidente-de-coljuegos/",
+        "resumen": "Esta organización es clave para brindar recursos al sistema de salud colombiano, y a su vez, está adscrita al Ministerio de Hacienda.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "El Ministerio de Hacienda presentó a Jaime Vives como nuevo presidente de Coljuegos",
+        "capturado": "2026-10-02T20:49:26-05:00"
+      },
+      {
+        "titulo": "Oracle designó a Juan Carlos Vega como nuevo gerente en Colombia, Centroamérica y el Caribe",
+        "url": "https://www.valoraanalitik.com/oracle-nombro-a-juan-carlos-vega-como-nuevo-gerente-para-colombia-centroamerica-y-el-caribe/",
+        "resumen": "Entre sus prioridades estarán la inteligencia artificial, infraestructura de nube y ciberseguridad.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Oracle nombró a Juan Carlos Vega como nuevo gerente para Colombia, Centroamérica y el Caribe",
+        "capturado": "2026-10-02T20:49:26-05:00"
+      },
       {
         "titulo": "El líder de reaseguros de Swiss Re afirma que Colombia se afianza como un centro asegurador zonal",
         "url": "https://www.valoraanalitik.com/colombia-se-esta-consolidando-como-un-hub-asegurador-regional-presidente-de-reaseguros-de-swiss-re/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Comfandi vende negocio de droguerías para reforzar proyectos en educación, crédito y recreación",
         "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Incauca desarrollará cinco nuevos proyectos energéticos y prevé que esta división aporte hasta el 14 % de sus ventas en 2027",
-        "url": "https://www.valoraanalitik.com/incauca-avanzara-con-cinco-nuevos-proyectos-de-energia-espera-que-este-segmento-represente-hasta-14-de-sus-ingresos-en-2027/",
-        "resumen": "Roberto Klinger, presidente del ingenio azucarero, habló sobre las proyecciones de la compañía y los nuevos proyectos que desarrolla.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Exclusiva | Incauca avanzará con cinco nuevos proyectos de energía; espera que este segmento represente hasta 14 % de sus ingresos en 2027",
-        "capturado": "2026-09-30T06:18:43-05:00"
-      },
-      {
-        "titulo": "Dimite Mariajosé Quiceno, vicepresidente de Reputación y Comunicaciones de Bancolombia",
-        "url": "https://www.valoraanalitik.com/mariajose-quiceno-culmino-su-paso-por-bancolombia-tras-casi-nueve-anos-en-el-cargo/",
-        "resumen": "A partir del 6 de octubre de 2026 comenzará su nueva etapa como profesional e iniciará algunos proyectos personales.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Renuncia Mariajosé Quiceno, vicepresidente de Reputación y Comunicaciones de Bancolombia",
-        "capturado": "2026-09-30T00:02:09-05:00"
-      },
-      {
-        "titulo": "Grupo Nutresa avanza en su crecimiento y compra otra empresa en el país",
-        "url": "https://www.valoraanalitik.com/grupo-nutresa-sigue-en-expansion-y-adquiere-nueva-compania-en-colombia/",
-        "resumen": "Desde que cayó en manos del Grupo Gilinski, Nutresa ha venido implementando un plan de expansión a través de la compra de activos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Nutresa sigue en expansión y adquiere nueva compañía en Colombia",
-        "capturado": "2026-09-30T00:02:09-05:00"
-      },
-      {
-        "titulo": "Minhacienda dio luz verde a Bogotá para un crédito por 1,3 billones de pesos para el Metro",
-        "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-autorizo-a-bogota-para-adquirir-un-prestamo-de-13-billones-para-la-primera-linea-del-metro/",
-        "resumen": "El contrato fue con BNP Paribas New York Branch y tendrá un plazo de diez años. Habrá período de gracia para pago de capital de tres años.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Ministerio de Hacienda autorizó a Bogotá para adquirir un préstamo de $1,3 billones para la Primera Línea del Metro",
-        "capturado": "2026-09-30T00:02:09-05:00"
       }
     ]
   }
