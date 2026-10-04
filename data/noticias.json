@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-04T14:30:21-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-04T17:55:43-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "En directo | Flávio Bolsonaro encabeza los comicios presidenciales en Brasil superando el 47 % de los sufragios",
+        "url": "https://www.valoraanalitik.com/en-vivo-elecciones-brasil-lula-bolsonaro/",
+        "resumen": "En caso de que ninguno de los candidatos obtenga la mayor votación, será necesaria una segunda vuelta el 25 de octubre.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "En vivo | Flávio Bolsonaro lidera las elecciones presidenciales en Brasil con más del 47 % de los votos",
+        "capturado": "2026-10-04T17:55:43-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella alargará por 14 meses el tiempo para aplicar el RUI como único focalizador de ayudas",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-extendera-14-meses-el-plazo-para-implementar-el-rui-como-unico-focalizador-de-subsidios/",
+        "resumen": "El RUI será la herramienta que utilizará el Gobierno para definir qué hogares cumplen las condiciones para acceder a subsidios.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella extenderá 14 meses el plazo para implementar el RUI como único focalizador de subsidios",
+        "capturado": "2026-10-04T17:55:43-05:00"
+      },
       {
         "titulo": "Apenas 0,9 por ciento de bodegas en Bogotá y la Sabana desocupadas y alquileres aumentan 17 por ciento",
         "url": "https://www.valoraanalitik.com/bodegas-bogota-2026-arriendos-vacancia/",
@@ -583,26 +603,6 @@
         "publicacion": "",
         "titulo_fuente": "Cali reactiva los grandes eventos con Smart City Expo de Corferias tras el sismo de agosto",
         "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Ventas de vehículos en Colombia lograron en septiembre el nivel más alto desde 2014 con récord en híbridos y eléctricos",
-        "url": "https://www.valoraanalitik.com/septiembre-fue-el-mejor-mes-para-ventas-de-carros-en-colombia-desde-2014-electricos-e-hibridos-en-record/",
-        "resumen": "Tesla ya es la quinta marca más vendida en Colombia: 2.435 matrículas en septiembre.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Septiembre fue el mejor mes para ventas de carros en Colombia desde 2014; eléctricos e híbridos en récord",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "La compensación económica a la que tendría derecho si renunció al empleo para atender a sus familiares",
-        "url": "https://www.valoraanalitik.com/la-indemnizacion-que-podria-recibir-si-dejo-de-trabajar-para-cuidar-a-su-familia/",
-        "resumen": "Dejar el trabajo para cuidar a la familia no genera automáticamente un pago, pero la dependencia económica puede dar lugar a una protección durante el divorcio.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "La indemnización que podría recibir si dejó de trabajar para cuidar a su familia",
-        "capturado": "2026-10-01T15:15:09-05:00"
       }
     ],
     "Empresariales": [
