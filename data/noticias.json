@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-04T06:14:36-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-04T10:56:41-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Acierto del Baloto en Nobsa, Boyacá: afortunado gana acumulado de $61.600 millones",
+        "url": "https://www.valoraanalitik.com/baloto-cayo-en-nobsa-boyaca-61-600-millones/",
+        "resumen": "Es la primera vez que cae el acumulado en 2026 y corresponde al mayor premio de Baloto desde 2017 y al cuarto más alto en la historia del juego.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Baloto cayó en Nobsa, Boyacá: ganador se lleva premio de $61.600 millones",
+        "capturado": "2026-10-04T10:56:41-05:00"
+      },
+      {
+        "titulo": "Sismo en Colombia dispara solicitudes a aseguradoras, mas solo el 14,5 % de las pérdidas posee cobertura",
+        "url": "https://www.valoraanalitik.com/terremoto-en-colombia-las-aseguradoras-cubrieron-apenas-el-145-de-los-danos-economicos-totalesterremoto-en-colombia-eleva-reclamaciones-a-aseguradoras-pero-solo-el-145-de-los-danos-economicos-estan-c/",
+        "resumen": "Con corte al 25 de septiembre, las compañías de seguros habían recibido 92.336 reclamaciones por parte de los afectados.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Terremoto en Colombia eleva reclamaciones a aseguradoras, pero solo el 14,5 % de los daños económicos están cubiertos",
+        "capturado": "2026-10-04T10:56:41-05:00"
+      },
+      {
+        "titulo": "Colombia dejaría de recaudar cerca de $1 billón por IVA en compras mínimas extranjeras tipo Temu y Shein",
+        "url": "https://www.valoraanalitik.com/colombia-iva-importaciones-temu-shein/",
+        "resumen": "La Cámara de Comercio Electrónico pide revisar la interpretación del TLC con Estados Unidos que permite el ingreso sin IVA de paquetes inferiores a US$200.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia estaría dejando de percibir cerca de $1 billón en IVA por importaciones de bajo monto, como Temu y Shein",
+        "capturado": "2026-10-04T10:56:41-05:00"
+      },
+      {
+        "titulo": "Grupo Argos y Nicky Jam regalarán 100 casas para levantar Caldas y la Gobernación pondrá la mano de obra",
+        "url": "https://www.valoraanalitik.com/grupo-argos-y-nicky-jam-donaran-100-viviendas-para-la-reconstruccion-de-caldas-gobernacion-aportara-la-mano-de-obra/",
+        "resumen": "Adopta un Hogar comprometió 1.000 viviendas para familias afectadas por el terremoto del 10 de agosto. Ya entregó las dos primeras casas en Chocó y Antioquia.",
+        "autor": "",
+        "subseccion": "Adopta un hogar",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos y Nicky Jam donarán 100 viviendas para la reconstrucción de Caldas: Gobernación aportará la mano de obra",
+        "capturado": "2026-10-04T10:56:41-05:00"
+      },
       {
         "titulo": "Pago ASAP vincula Bre-B con la plataforma de pagos venezolana para agilizar transacciones bilaterales",
         "url": "https://www.valoraanalitik.com/pago-asap-bre-b-pagos-venezuela/",
@@ -563,49 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Davivienda Group refuerza apuesta por finanzas personales: busca ser socio de Carvajal en app para gestionar dinero",
         "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado deroga norma de la DIAN sobre autorretención y esta deja de regir para todo pago",
-        "url": "https://www.valoraanalitik.com/consejo-de-estado-anula-regla-de-la-dian-sobre-autorretencion-ya-no-aplica-a-todos-los-pagos/",
-        "resumen": "La decisión del Consejo de Estado cambia la forma de aplicar la autorretención especial que venía aplicando la DIAN.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "Consejo de Estado anula regla de la DIAN sobre autorretención: ya no aplica a todos los pagos",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master deja la presidencia de la ANDI luego de más de 13 años en el cargo",
-        "url": "https://www.valoraanalitik.com/atencion-bruce-mac-master-sale-de-la-presidencia-de-la-andi-tras-mas-de-13-anos-estos-son-los-detalles/",
-        "resumen": "Bruce Mac Master dejará la presidencia de la ANDI tras más de una década al frente del principal gremio empresarial del país.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Bruce Mac Master sale de la presidencia de la ANDI tras más de 13 años: estos son los detalles",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "De La Espriella echa marcha atrás al incremento en las tarifas de gasolina previsto para octubre",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-reversa-aumento-de-precios-de-la-gasolina-para-octubre/",
-        "resumen": "El mandatario pidió revisar el alza mientras se buscan soluciones ante el incremento internacional del precio del petróleo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | De La Espriella reversa aumento de precios de la gasolina para octubre",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "IATA reporta contracción del 0,8% en la demanda global de pasajeros aéreos durante agosto de 2026",
-        "url": "https://www.valoraanalitik.com/demanda-mundial-de-pasajeros-aereos-cayo-08-en-agosto-de-2026-segun-iata/",
-        "resumen": "La demanda mundial de pasajeros aéreos cayó 0,8% en agosto de 2026, afectada por la menor actividad en Medio Oriente, según IATA.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Demanda mundial de pasajeros aéreos cayó 0,8% en agosto de 2026, según IATA",
-        "capturado": "2026-10-01T15:15:09-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Por compras mínimas de apps como Temu y Shein, el país dejaría de recaudar casi un billón en IVA",
+        "url": "https://www.valoraanalitik.com/colombia-iva-importaciones-temu-shein/",
+        "resumen": "La Cámara de Comercio Electrónico pide revisar la interpretación del TLC con Estados Unidos que permite el ingreso sin IVA de paquetes inferiores a US$200.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia estaría dejando de percibir cerca de $1 billón en IVA por importaciones de bajo monto, como Temu y Shein",
+        "capturado": "2026-10-04T10:56:41-05:00"
+      },
+      {
+        "titulo": "Nicky Jam y Grupo Argos regalarán 100 casas para levantar Caldas y la Gobernación pondrá la obra",
+        "url": "https://www.valoraanalitik.com/grupo-argos-y-nicky-jam-donaran-100-viviendas-para-la-reconstruccion-de-caldas-gobernacion-aportara-la-mano-de-obra/",
+        "resumen": "Adopta un Hogar comprometió 1.000 viviendas para familias afectadas por el terremoto del 10 de agosto. Ya entregó las dos primeras casas en Chocó y Antioquia.",
+        "autor": "",
+        "subseccion": "Adopta un hogar",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos y Nicky Jam donarán 100 viviendas para la reconstrucción de Caldas: Gobernación aportará la mano de obra",
+        "capturado": "2026-10-04T10:56:41-05:00"
+      },
       {
         "titulo": "Colgas y socios conectan gas domiciliario a casi 1.000 clientes en Tierralta para reducir brecha energética",
         "url": "https://www.valoraanalitik.com/colgas-y-aliados-llevan-gas-por-red-a-cerca-de-1-000-usuarios-en-tierralta-cordoba-buscan-cerrar-brecha-energetica/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Flypass ratifica defensa ante demanda sobre presuntos cobros adicionales a usuarios",
         "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Grupo Aval afianza su portafolio verde y su foco en transición energética e inclusión financiera",
-        "url": "https://www.valoraanalitik.com/grupo-aval-fortalece-su-cartera-sostenible/",
-        "resumen": "A 2030, el Grupo busca que la cartera verde de sus bancos represente el 11 % de la cartera comercial y reducir en 51 % sus emisiones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Aval fortalece su cartera sostenible y su apuesta por la transición energética y la inclusión financiera",
-        "capturado": "2026-09-30T11:57:41-05:00"
-      },
-      {
-        "titulo": "Inicia el retiro de la marca del Movistar Arena y así funcionará su nueva fase desde octubre",
-        "url": "https://www.valoraanalitik.com/ya-comenzo-el-desmonte-del-nombre-del-movistar-arena-asi-sera-su-nueva-etapa-desde-octubre/",
-        "resumen": "El Movistar Arena confirmó el cierre de una etapa de ocho años y prepara cambios mientras mantiene su agenda de eventos en Bogotá.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ya comenzó el desmonte del nombre del Movistar Arena: así será su nueva etapa desde octubre",
-        "capturado": "2026-09-30T11:57:41-05:00"
       }
     ]
   }
