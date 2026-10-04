@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-04T10:56:41-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-04T14:30:21-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Apenas 0,9 por ciento de bodegas en Bogotá y la Sabana desocupadas y alquileres aumentan 17 por ciento",
+        "url": "https://www.valoraanalitik.com/bodegas-bogota-2026-arriendos-vacancia/",
+        "resumen": "Cushman & Wakefield reporta que las empresas arriendan bodegas antes de su entrega. Hay unos 146.000 m² en obra y más de 1,3 millones en proyecto.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Solo 0,9 % de las bodegas en Bogotá y la Sabana está disponible mientras arriendos suben 17 %",
+        "capturado": "2026-10-04T14:30:21-05:00"
+      },
+      {
+        "titulo": "StoneX pacta adquisición de Integra Trading y robustece su operación cafetera en Colombia",
+        "url": "https://www.valoraanalitik.com/stonex-compra-integra-trading-cafe-colombia/",
+        "resumen": "La operación le permitirá a la compañía estadounidense ampliar su presencia directa en el mercado de café y conectar con su red global de clientes.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "StoneX acuerda compra de Integra Trading y fortalece su negocio de café en Colombia",
+        "capturado": "2026-10-04T14:30:21-05:00"
+      },
+      {
+        "titulo": "Sector plástico proyecta expandirse sobre 5 por ciento en 2027 y subir ventas externas",
+        "url": "https://www.valoraanalitik.com/entrevista-industria-plastica-apunta-a-crecer-mas-de-5-en-2027-y-elevar-exportaciones-anticipa-comportamiento-y-revela-desafios/",
+        "resumen": "El presidente Ejecutivo del gremio resaltó que es un sector que enfrenta condiciones importantes para su competitividad.",
+        "autor": "",
+        "subseccion": "Valorasostenible",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Industria plástica apunta a crecer más de 5 % en 2027 y elevar exportaciones: anticipa comportamiento y revela desafíos",
+        "capturado": "2026-10-04T14:30:21-05:00"
+      },
+      {
+        "titulo": "Prosegur incursiona en el sector asegurador con plan para ampliar su portafolio",
+        "url": "https://www.valoraanalitik.com/prosegur-apuesta-por-el-mercado-de-seguros/",
+        "resumen": "A través de una nueva unidad busca complementar su oferta con pólizas diseñadas para sus clientes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Prosegur apuesta por el mercado de seguros: esta es su estrategia para complementar sus servicios",
+        "capturado": "2026-10-04T14:30:21-05:00"
+      },
       {
         "titulo": "Acierto del Baloto en Nobsa, Boyacá: afortunado gana acumulado de $61.600 millones",
         "url": "https://www.valoraanalitik.com/baloto-cayo-en-nobsa-boyaca-61-600-millones/",
@@ -563,49 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "La indemnización que podría recibir si dejó de trabajar para cuidar a su familia",
         "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "URF prepara un marco de inversiones exclusivo para aseguradoras y otras disposiciones",
-        "url": "https://www.valoraanalitik.com/urf-alista-regimen-de-inversiones-propio-para-el-sector-asegurador-y-otras-normas/",
-        "resumen": "La entidad publicará su agenda normativa 2027, la cual incluirá decretos sobre comercialización y un estudio técnico para seguros paramétricos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "URF alista régimen de inversiones propio para el sector asegurador y otras normas",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia sube y termina en 3310 pesos tras fuerte incremento del petróleo",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-repunta-y-cierra-en-3-310-luego-de-que-el-precio-del-petroleo-se-disparara/",
-        "resumen": "La divisa estadounidense abrió a la baja en $3.298 y retrocedió hasta un mínimo intradiario de $3.269 y luego a un máximo de $3.346.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia repunta y cierra en $3.310 luego de que el precio del petróleo se disparara",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Destacado | María Paula Correa gana opciones para asumir la presidencia de la ANDI",
-        "url": "https://www.valoraanalitik.com/maria-paula-correa-toma-fuerza-para-ser-nueva-presidenta-de-la-andi/",
-        "resumen": "La Mesa Directiva de la Asociación Nacional de Empresarios de Colombia podría elegir, por primera vez en su historia, a una mujer como presidenta.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | María Paula Correa toma fuerza para ser la nueva presidenta de la ANDI",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Davivienda Group intensifica enfoque en finanzas personales al buscar alianza con Carvajal en app monetaria",
-        "url": "https://www.valoraanalitik.com/davivienda-group-socio-carvajal-app-dinero/",
-        "resumen": "El holding financiero avanza en la adquisición del 50 % de los derechos de PliP, aplicación de Assenda Inversiones (Carvajal).",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Davivienda Group refuerza apuesta por finanzas personales: busca ser socio de Carvajal en app para gestionar dinero",
-        "capturado": "2026-10-01T15:15:09-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Apenas 0,9 % de bodegas en Bogotá y Sabana está libre a la vez que arriendos trepan 17 %",
+        "url": "https://www.valoraanalitik.com/bodegas-bogota-2026-arriendos-vacancia/",
+        "resumen": "Cushman & Wakefield reporta que las empresas arriendan bodegas antes de su entrega. Hay unos 146.000 m² en obra y más de 1,3 millones en proyecto.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Solo 0,9 % de las bodegas en Bogotá y la Sabana está disponible mientras arriendos suben 17 %",
+        "capturado": "2026-10-04T14:30:21-05:00"
+      },
+      {
+        "titulo": "Sector plástico busca alzar ventas más de 5 % en 2027 y subir ventas externas",
+        "url": "https://www.valoraanalitik.com/entrevista-industria-plastica-apunta-a-crecer-mas-de-5-en-2027-y-elevar-exportaciones-anticipa-comportamiento-y-revela-desafios/",
+        "resumen": "El presidente Ejecutivo del gremio resaltó que es un sector que enfrenta condiciones importantes para su competitividad.",
+        "autor": "",
+        "subseccion": "Valorasostenible",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Industria plástica apunta a crecer más de 5 % en 2027 y elevar exportaciones: anticipa comportamiento y revela desafíos",
+        "capturado": "2026-10-04T14:30:21-05:00"
+      },
+      {
+        "titulo": "Prosegur incursiona en el mercado de seguros con plan para sumar servicios",
+        "url": "https://www.valoraanalitik.com/prosegur-apuesta-por-el-mercado-de-seguros/",
+        "resumen": "A través de una nueva unidad busca complementar su oferta con pólizas diseñadas para sus clientes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Prosegur apuesta por el mercado de seguros: esta es su estrategia para complementar sus servicios",
+        "capturado": "2026-10-04T14:30:21-05:00"
+      },
       {
         "titulo": "Por compras mínimas de apps como Temu y Shein, el país dejaría de recaudar casi un billón en IVA",
         "url": "https://www.valoraanalitik.com/colombia-iva-importaciones-temu-shein/",
@@ -1174,36 +1204,6 @@
         "subseccion": "Ultimas tecnologia",
         "publicacion": "",
         "titulo_fuente": "La millonaria multa que podría recibir por incumplir estas reglas al usar inteligencia artificial en Colombia",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Alianza con Terpel Sunex permitirá a Compensar usar energía solar en ocho centros",
-        "url": "https://www.valoraanalitik.com/compensar-llevara-energia-solar-a-ocho-sedes-tras-alianza-con-terpel-sunex/",
-        "resumen": "La iniciativa contempla 2.633 paneles y busca reducir cerca de 30 % el consumo energético de las instalaciones intervenidas.",
-        "autor": "",
-        "subseccion": "Sostenibilidad",
-        "publicacion": "",
-        "titulo_fuente": "Compensar llevará energía solar a ocho sedes tras alianza con Terpel Sunex",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Banco de la República eleva las tasas de interés al 12,25 % y sorpréndela plaza",
-        "url": "https://www.valoraanalitik.com/banco-de-la-republica-aumenta-tasas-de-interes-septiembre-2026/",
-        "resumen": "La decisión del banco central es la primera que se toma con el nuevo gobierno del presidente Abelardo de la Espriella.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Banco de la República sorprende al mercado y aumenta las tasas de interés en Colombia a 12,25 %.",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Flypass reafirma su defensa frente a demanda por supuestos cobros extra",
-        "url": "https://www.valoraanalitik.com/flypass-ratifica-defensa-ante-demanda-sobre-presuntos-cobros-adicionales-a-usuarios/",
-        "resumen": "La empresa afirmó que sus planes y cobros cumplen la regulación vigente y anunció que presentará sus argumentos ante la justicia.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Flypass ratifica defensa ante demanda sobre presuntos cobros adicionales a usuarios",
         "capturado": "2026-09-30T16:23:15-05:00"
       }
     ]
