@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-04T17:55:43-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-04T20:47:07-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Brasil: La colectividad de Flávio Bolsonaro lidera el Senado y la Cámara baja",
+        "url": "https://www.valoraanalitik.com/brasil-partido-liberal-de-flavio-bolsonaro-se-consolida-como-primera-fuerza-en-senado-y-camara-de-diputados/",
+        "resumen": "Con 91 % del escrutinio reportado, el PL de Bolsonaro aparece con 29 escaños en el Senado y 121 en la Cámara de Diputados en elecciones Brasil.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Brasil: Partido Liberal de Flávio Bolsonaro se consolida como primera fuerza en Senado y Cámara de Diputados",
+        "capturado": "2026-10-04T20:47:07-05:00"
+      },
       {
         "titulo": "En directo | Flávio Bolsonaro encabeza los comicios presidenciales en Brasil superando el 47 % de los sufragios",
         "url": "https://www.valoraanalitik.com/en-vivo-elecciones-brasil-lula-bolsonaro/",
@@ -592,16 +602,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Nueva norma en Colombia permite cancelar o cambiar de plan de celular sin trabas",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Cali retoma los eventos masivos con Smart City Expo de Corferias tras temblor de agosto",
-        "url": "https://www.valoraanalitik.com/smart-city-expo-cali-corferias-2026/",
-        "resumen": "Alejandro Eder, alcalde de Cali, pidió a los organizadores no cancelar eventos en la ciudad y llamó a las startups a proponer soluciones para la reconstrucción.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Cali reactiva los grandes eventos con Smart City Expo de Corferias tras el sismo de agosto",
         "capturado": "2026-10-01T19:04:29-05:00"
       }
     ],
