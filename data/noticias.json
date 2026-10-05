@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-05T03:44:25-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-05T13:11:56-05:00",
+  "nuevos_en_esta_corrida": 22,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Cajas de compensación colombianas: sismos, medidas de control y expansión de afiliados",
+        "url": "https://www.valoraanalitik.com/cajas-de-compensacion-asocajas-revela-sus-retos-en-subsidios-vivienda-y-supervision/",
+        "resumen": "Adriana Guillén, presidenta de Asocajas, habló de los retos del sistema, la focalización de ayudas, la vivienda social y la reconstrucción tras el terremoto.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cajas de compensación en Colombia: entre intervenciones, efectos del terremoto y mayor cobertura",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Ejecutivo avanza en retirar subsidio al diésel a vehículos particulares, oficiales y diplomáticos",
+        "url": "https://www.valoraanalitik.com/gobierno-da-pasos-en-eliminar-subsidio-al-diesel-para-camionetas-carros-oficiales-y-diplomaticos/",
+        "resumen": "La medida no está en vigencia, pero ya fue revisada por la Superintendencia de Industria y Comercio, que brindó recomendaciones al Gobierno.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno da pasos en eliminar subsidio al diésel para camionetas, carros oficiales y diplomáticos",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Plazo límite ante la DIAN para solicitar la devolución del IVA de automotores híbridos y eléctricos",
+        "url": "https://www.valoraanalitik.com/devolucion-del-iva-de-carros-hibridos-y-electricos-este-es-el-plazo-maximo-para-pedir-el-dinero-a-la-dian/",
+        "resumen": "La devolución del IVA de carros híbridos y eléctricos tiene una fecha clave que los compradores deben revisar antes de iniciar el trámite ante la DIAN.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "Devolución del IVA de carros híbridos y eléctricos: este es el plazo máximo para pedir el dinero a la DIAN",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Colombia, con baja participación femenina en lista Merco y sin repunte desde 2019",
+        "url": "https://www.valoraanalitik.com/colombia-entre-los-paises-con-menor-presencia-de-mujeres-en-ranking-merco/",
+        "resumen": "Colombia pasó de tener una mujer en el Top 10 de Merco Líderes en 2019 a contar con dos en 2025.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia, entre los países con menor presencia de mujeres en ranking Merco: crecimiento sigue estancado desde 2019",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Alza en ventas externas de petróleo, minerales y combustibles impulsó exportaciones en agosto",
+        "url": "https://www.valoraanalitik.com/mayores-ventas-de-combustibles-petroleo-y-minerales-aumentaron-exportaciones-de-colombia-en-agosto/",
+        "resumen": "En el total entre enero y agosto de 2026, las exportaciones ascendieron a US$36.880,7 millones FOB.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Mayores ventas de combustibles, petróleo y minerales aumentaron exportaciones de Colombia en agosto",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Destacada cadena veterinaria destinará $6.000 millones para abrir sucursales en Colombia y Antioquia destacará",
+        "url": "https://www.valoraanalitik.com/importante-red-veterinaria-invertira-6-000-millones-para-abrir-nuevas-sedes-en-colombia-antioquia-sera-clave/",
+        "resumen": "El mercado de mascotas gana espacio en los hogares colombianos y una reconocida red veterinaria prepara nuevas aperturas para ampliar su cobertura.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Importante red veterinaria invertirá $6.000 millones para abrir nuevas sedes en Colombia: Antioquia será clave",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella anuncia drástica medida sobre el porvenir del aeropuerto Ernesto Cortissoz y habrá cambios",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confirma-radical-decision-para-el-futuro-del-aeropuerto-internacional-ernesto-cortissoz-esto-cambiara/",
+        "resumen": "El gobierno De la Espriella confirmó los importantes cambios que se vienen para el aeropuerto de Barranquilla",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella confirma radical decisión para el futuro del aeropuerto Internacional Ernesto Cortissoz: Esto cambiará",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Terminó la campaña exploratoria de Ecopetrol y Petrobras en el Caribe con cinco pozos y US$1.000 millones",
+        "url": "https://www.valoraanalitik.com/con-cinco-pozos-y-us1-000-millones-concluyo-campana-exploratoria-de-ecopetrol-y-petrobras-en-el-caribe/",
+        "resumen": "Las dos organizaciones no hicieron mención en el comunicado de las cantidades de gas halladas o de la cantidad exacta de recursos que podría haber.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Con cinco pozos y US$1.000 millones concluyó campaña exploratoria de Ecopetrol y Petrobras en el Caribe",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Bancolombia adquiere a Logistic Properties of the Americas un parque logístico situado en Bogotá",
+        "url": "https://www.valoraanalitik.com/relevante-bancolombia-compra-parque-logistico-en-bogota-a-la-firma-logistic-properties-of-the-americas/",
+        "resumen": "Se trata de un portafolio de instalaciones en el Parque Logístico Calle 80, cuya transacción se pactó por un monto en efectivo de $500.000 millones.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Bancolombia compra parque logístico en Bogotá a la firma Logistic Properties of the Americas",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "La divisa estadounidense desciende fuertemente en Colombia y se acerca a los $3.230",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-vuelve-a-caer-con-fuerza-y-roza-los-3-230/",
+        "resumen": "Esto mueve al dólar en Colombia al arranque de la jornada",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia vuelve a caer con fuerza y roza los $3.230",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Fedesarrollo indica que salud gira en torno a UPC, deudas, regulación y sostenibilidad fiscal",
+        "url": "https://www.valoraanalitik.com/upc-deudas-regulacion-y-sostenibilidad-fiscal-son-los-puntos-clave-en-salud-fedesarrollo/",
+        "resumen": "Iniciativas deben ser lideradas por la Adres, la Superintendencia, el Ministerio de Hacienda, Planeación, el Ministerio de Salud, junto con actores del sistema.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "UPC, deudas, regulación y sostenibilidad fiscal son los puntos clave en salud: Fedesarrollo",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Pedro Sánchez llama a votaciones en noviembre: España tendrá comicios adelantados",
+        "url": "https://www.valoraanalitik.com/espana-ira-a-elecciones-anticipadas-en-noviembre/",
+        "resumen": "El anuncio se da en medio de la crisis de vivienda que atraviesa el país europeo.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "España irá a elecciones anticipadas: Pedro Sánchez convoca comicios para noviembre",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
       {
         "titulo": "Brasil: La colectividad de Flávio Bolsonaro lidera el Senado y la Cámara baja",
         "url": "https://www.valoraanalitik.com/brasil-partido-liberal-de-flavio-bolsonaro-se-consolida-como-primera-fuerza-en-senado-y-camara-de-diputados/",
@@ -483,129 +603,109 @@
         "publicacion": "",
         "titulo_fuente": "Colombia tendrá importante movilización de turistas para la semana de receso",
         "capturado": "2026-10-02T08:03:04-05:00"
-      },
-      {
-        "titulo": "Congelar precios del diésel pondría más presión en gastos del Gobierno: en casi dos años el combustible aumentó menos de $1.000",
-        "url": "https://www.valoraanalitik.com/congelar-precios-del-diesel-pondria-mas-presion-en-gastos-del-gobierno-en-casi-dos-anos-el-combustible-aumento-menos-de-1-000/",
-        "resumen": "La presión fiscal por el congelamiento del diésel se podría ver reflejada en los recursos que se destinan a través del Fondo de Estabilización de Combustibles.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Congelar precios del diésel pondría más presión en gastos del Gobierno: en casi dos años el combustible aumentó menos de $1.000",
-        "capturado": "2026-10-02T08:03:04-05:00"
-      },
-      {
-        "titulo": "Esto pagará el gobierno De la Espriella en la prima de Navidad de Colpensiones",
-        "url": "https://www.valoraanalitik.com/esto-pagara-el-gobierno-de-la-espriella-en-la-prima-de-navidad-de-colpensiones/",
-        "resumen": "El gobierno dijo que el dinero para las mesadas de final de este año está completamente garantizado.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Esto pagará el gobierno De la Espriella en la prima de Navidad de Colpensiones",
-        "capturado": "2026-10-02T08:03:04-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados variados a la espera de cifras de empleo estadounidense e inflación europea: cae el crudo",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-mixtas-mientras-inversores-esperan-datos-de-empleo-en-ee-uu-e-inflacion-en-eurozona-petroleo-baja/",
-        "resumen": "La atención se centra ahora en las nóminas no agrícolas de EE. UU., previstas para más tarde este viernes.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas mixtas mientras inversores esperan datos de empleo en EE. UU. e inflación en eurozona: petróleo baja",
-        "capturado": "2026-10-02T08:03:04-05:00"
-      },
-      {
-        "titulo": "Arranca edificación de proyecto vial hacia Buenaventura y será fundamental para el Valle del Cauca",
-        "url": "https://www.valoraanalitik.com/inicia-construccion-de-obra-clave-en-la-via-alterna-a-buenaventura-plan-sera-clave-para-el-valle-del-cauca/",
-        "resumen": "Este proyecto presenta un avance de 32,59 %, y según la ANI, beneficiaría a cerca de tres millones de personas en Valle del Cauca.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inicia construcción de obra clave en la vía alterna a Buenaventura: plan será clave para el Valle del Cauca",
-        "capturado": "2026-10-02T01:04:36-05:00"
-      },
-      {
-        "titulo": "Empiezan encuentros preliminares para concertar el salario mínimo entre gremios, Ejecutivo y sindicatos",
-        "url": "https://www.valoraanalitik.com/comienzan-reuniones-previas-a-la-discusion-del-salario-minimo-entre-empresarios-gobierno-y-trabajadores/",
-        "resumen": "Los actores van a construir sus comentarios hasta el 9 de octubre y se reunirán nuevamente el 13 de octubre.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Comienzan reuniones previas a la discusión del salario mínimo entre empresarios, Gobierno y trabajadores",
-        "capturado": "2026-10-02T01:04:36-05:00"
-      },
-      {
-        "titulo": "Gobierno presenta presupuesto de regalías 2027-2028 con merma de 11 % en entradas",
-        "url": "https://www.valoraanalitik.com/gobierno-radica-presupuesto-de-regalias-para-2027-2028-con-una-caida-de-11-en-ingresos/",
-        "resumen": "Dentro de los planes a los que se destinarían los montos estarían iniciativas para garantizar la seguridad energética de Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno radica presupuesto de regalías para 2027-2028 con una caída de 11 % en ingresos",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "KOA emite titularización por $85.000 millones en la BVC para expandir crédito",
-        "url": "https://www.valoraanalitik.com/koa-cierra-titularizacion-por-85-000-millones-en-la-bolsa-de-valores-de-colombia-para-ampliar-acceso-a-credito/",
-        "resumen": "La compañía espera avanzar en inclusión financiera, particularmente para la población mayor.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "KOA cierra titularización por $85.000 millones en la Bolsa de Valores de Colombia para ampliar acceso a crédito",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Administración De La Espriella efectúa su primer intercambio de deuda",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-completa-primera-operacion-de-canje-de-deuda/",
-        "resumen": "El MinHacienda recibió TES en UVR con vencimiento al 17 de marzo de 2027 y en pesos con fecha al 3 de noviembre de 2027.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella completa primera operación de canje de deuda",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "UPME asigna al Grupo Energía Bogotá relevante obra para abastecer la Sabana",
-        "url": "https://www.valoraanalitik.com/la-upme-adjudico-al-grupo-energia-bogota-importante-proyecto-para-el-abastecimiento-de-la-sabana-de-bogota/",
-        "resumen": "La entidad manifestó que esta iniciativa hace parte del seguimiento de los planes a largo plazo en energía para satisfacer el consumo eléctrico.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "La UPME adjudicó al Grupo Energía Bogotá importante proyecto para el abastecimiento de la Sabana de Bogotá",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Gobierno pacta con Barranquilla control del Ernesto Cortissoz y $40.000 millones",
-        "url": "https://www.valoraanalitik.com/gobierno-acuerda-con-barranquilla-manejo-del-aeropuerto-ernesto-cortissoz-y-una-inversion-de-40-000-millones/",
-        "resumen": "De La Espriella explicó que el acuerdo permitirá articular los esfuerzos de la Nación y el Distrito para acelerar las intervenciones pendientes en la terminal.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno acuerda con Barranquilla manejo del aeropuerto Ernesto Cortissoz y una inversión de $40.000 millones",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Aris Mining logró relevante avance para gran proyecto minero en Santander",
-        "url": "https://www.valoraanalitik.com/aris-mining-alcanzo-importante-hito-para-megaproyecto-minero-en-santander/",
-        "resumen": "Esta mina tiene capacidad no solamente para producir oro, sino también cobre. Su vida útil podría llegar a dos décadas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Aris Mining alcanzó importante hito para megaproyecto minero en Santander",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Nuevo decreto en Colombia facilita anular o modificar plan de celular libremente",
-        "url": "https://www.valoraanalitik.com/nueva-norma-en-colombia-permite-cancelar-o-cambiar-de-plan-de-celular-sin-trabas/",
-        "resumen": "Desde hoy cambia la forma de cancelar servicios móviles en Colombia, con nuevas condiciones para evitar trabas durante el trámite.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Nueva norma en Colombia permite cancelar o cambiar de plan de celular sin trabas",
-        "capturado": "2026-10-01T19:04:29-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Cajas de compensación colombianas afrontan supervisiones, impacto sísmico y mayor alcance",
+        "url": "https://www.valoraanalitik.com/cajas-de-compensacion-asocajas-revela-sus-retos-en-subsidios-vivienda-y-supervision/",
+        "resumen": "Adriana Guillén, presidenta de Asocajas, habló de los retos del sistema, la focalización de ayudas, la vivienda social y la reconstrucción tras el terremoto.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cajas de compensación en Colombia: entre intervenciones, efectos del terremoto y mayor cobertura",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Administración avanza en retirar ayuda al diésel para vehículos particulares, estatales y diplomáticos",
+        "url": "https://www.valoraanalitik.com/gobierno-da-pasos-en-eliminar-subsidio-al-diesel-para-camionetas-carros-oficiales-y-diplomaticos/",
+        "resumen": "La medida no está en vigencia, pero ya fue revisada por la Superintendencia de Industria y Comercio, que brindó recomendaciones al Gobierno.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno da pasos en eliminar subsidio al diésel para camionetas, carros oficiales y diplomáticos",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Colombia figura entre las naciones con menos mujeres en lista Merco y su avance sigue quieto desde 2019",
+        "url": "https://www.valoraanalitik.com/colombia-entre-los-paises-con-menor-presencia-de-mujeres-en-ranking-merco/",
+        "resumen": "Colombia pasó de tener una mujer en el Top 10 de Merco Líderes en 2019 a contar con dos en 2025.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia, entre los países con menor presencia de mujeres en ranking Merco: crecimiento sigue estancado desde 2019",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Tini encabeza Pandora Talisman zodiac y los 12 signos arriban a la línea",
+        "url": "https://www.valoraanalitik.com/tini-protagoniza-pandora-talisman-zodiac-los-12-signos-llegan-a-la-coleccion/",
+        "resumen": "Tras su lanzamiento en 2025, Pandora Talisman continúa expandiendo su universo con la llegada de los 12 signos del zodiaco.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Tini protagoniza Pandora Talisman zodiac: los 12 signos llegan a la colección",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Alzas en despachos de carburantes, crudo y minerales elevaron las ventas externas colombianas en agosto",
+        "url": "https://www.valoraanalitik.com/mayores-ventas-de-combustibles-petroleo-y-minerales-aumentaron-exportaciones-de-colombia-en-agosto/",
+        "resumen": "En el total entre enero y agosto de 2026, las exportaciones ascendieron a US$36.880,7 millones FOB.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Mayores ventas de combustibles, petróleo y minerales aumentaron exportaciones de Colombia en agosto",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Destacada red veterinaria destinará $6.000 millones para abrir sedes en Colombia y Antioquia será clave",
+        "url": "https://www.valoraanalitik.com/importante-red-veterinaria-invertira-6-000-millones-para-abrir-nuevas-sedes-en-colombia-antioquia-sera-clave/",
+        "resumen": "El mercado de mascotas gana espacio en los hogares colombianos y una reconocida red veterinaria prepara nuevas aperturas para ampliar su cobertura.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Importante red veterinaria invertirá $6.000 millones para abrir nuevas sedes en Colombia: Antioquia será clave",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Con cinco pozos y US$1.000 millones finalizó campaña exploratoria de Ecopetrol y Petrobras en el Caribe",
+        "url": "https://www.valoraanalitik.com/con-cinco-pozos-y-us1-000-millones-concluyo-campana-exploratoria-de-ecopetrol-y-petrobras-en-el-caribe/",
+        "resumen": "Las dos organizaciones no hicieron mención en el comunicado de las cantidades de gas halladas o de la cantidad exacta de recursos que podría haber.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Con cinco pozos y US$1.000 millones concluyó campaña exploratoria de Ecopetrol y Petrobras en el Caribe",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "Bancolombia adquiere parque logístico en Bogotá a la compañía Logistic Properties of the Americas",
+        "url": "https://www.valoraanalitik.com/relevante-bancolombia-compra-parque-logistico-en-bogota-a-la-firma-logistic-properties-of-the-americas/",
+        "resumen": "Se trata de un portafolio de instalaciones en el Parque Logístico Calle 80, cuya transacción se pactó por un monto en efectivo de $500.000 millones.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Bancolombia compra parque logístico en Bogotá a la firma Logistic Properties of the Americas",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "UPC, pasivos, regulación y sostenibilidad fiscal son los aspectos clave en salud según Fedesarrollo",
+        "url": "https://www.valoraanalitik.com/upc-deudas-regulacion-y-sostenibilidad-fiscal-son-los-puntos-clave-en-salud-fedesarrollo/",
+        "resumen": "Iniciativas deben ser lideradas por la Adres, la Superintendencia, el Ministerio de Hacienda, Planeación, el Ministerio de Salud, junto con actores del sistema.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "UPC, deudas, regulación y sostenibilidad fiscal son los puntos clave en salud: Fedesarrollo",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
+      {
+        "titulo": "La soya sostenible adquiere relevancia en la cría de pollo, cerdo y pescado en Latinoamérica",
+        "url": "https://www.valoraanalitik.com/la-soya-sostenible-gana-protagonismo-en-la-produccion-de-pollo-cerdo-y-pescado-en-latinoamerica/",
+        "resumen": "La soya sostenible se considera como un insumo estratégico para las industrias avícola, porcícola y acuícola de Latinoamérica.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "La soya sostenible gana protagonismo en la producción de pollo, cerdo y pescado en Latinoamérica",
+        "capturado": "2026-10-05T13:11:56-05:00"
+      },
       {
         "titulo": "Apenas 0,9 % de bodegas en Bogotá y Sabana está libre a la vez que arriendos trepan 17 %",
         "url": "https://www.valoraanalitik.com/bodegas-bogota-2026-arriendos-vacancia/",
@@ -1105,106 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella aumenta el precio de la gasolina corriente para octubre: mantiene precio del ACPM",
         "capturado": "2026-10-01T02:03:24-05:00"
-      },
-      {
-        "titulo": "TD SYNNEX aumenta a doble dígito en el país y alista nueva ampliación en IA y centros de datos",
-        "url": "https://www.valoraanalitik.com/td-synnex-crece-a-doble-digito-en-colombia-y-prepara-nueva-expansion-en-ia-y-centros-de-datos/",
-        "resumen": "La compañía fortalece su negocio en inteligencia artificial, nube, ciberseguridad y centros de datos ante el aumento de la demanda empresarial.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "TD SYNNEX crece a doble dígito en Colombia y prepara nueva expansión en IA y centros de datos",
-        "capturado": "2026-10-01T02:03:24-05:00"
-      },
-      {
-        "titulo": "Grupo Argos emprende transacciones financieras en concesiones de Odinsa dentro de ACE 1.0",
-        "url": "https://www.valoraanalitik.com/grupo-argos-operaciones-financieras-odinsa/",
-        "resumen": "Estas operaciones se dan en el marco del programa ACE 1.0, que contempla la gestión del portafolio para anticipar la generación y distribución de caja.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos anuncia operaciones financieras en concesiones de Odinsa como parte de ACE 1.0",
-        "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "JetSmart informa nueva ruta sin escalas entre Medellín y Buenos Aires y muestra interés en Venezuela",
-        "url": "https://www.valoraanalitik.com/jetsmart-anuncia-nueva-ruta-directa-entre-medellin-y-buenos-aires-revela-interes-en-venezuela/",
-        "resumen": "El country manager de JetSmart en Colombia contó los detalles de este anuncio y, a su vez, afirmó que están estudiando la posibilidad de llegar a Venezuela.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "JetSmart anuncia nueva ruta directa entre Medellín y Buenos Aires: revela interés en Venezuela",
-        "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "El sector asegurador nacional subió 18 % en un cuatrienio y duplicó el paso de crecimiento del país",
-        "url": "https://www.valoraanalitik.com/sector-asegurador-colombiano-crecio-18-en-cuatro-anos-y-duplico-el-ritmo-de-expansion-de-la-economia/",
-        "resumen": "En el marco de la Convención Internacional de Seguros, Fasecolda reveló que las primas reales del sector aumentaron más del doble que el PIB.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Sector asegurador colombiano creció 18 % en cuatro años y duplicó el ritmo de expansión de la economía",
-        "capturado": "2026-09-30T19:46:19-05:00"
-      },
-      {
-        "titulo": "Lumon destina $4.000 millones a fábrica en Barranquilla y planea 10 distribuidoras en el país",
-        "url": "https://www.valoraanalitik.com/lumon-invierte-4-000-millones-en-planta-en-barranquilla-y-proyecta-10-distribuidoras-en-colombia/",
-        "resumen": "La compañía finlandesa Lumon avanza en la construcción de su primera planta de montaje en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Lumon invierte $4.000 millones en planta en Barranquilla y proyecta 10 distribuidoras en Colombia",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Denarius Metals agranda su iniciativa Toral en España y evalúa reabrir la mina Antonina",
-        "url": "https://www.valoraanalitik.com/denarius-metals-amplia-su-proyecto-toral-en-espana-y-contempla-reabrir-la-mina-antonina/",
-        "resumen": "La compañía recibió una opción preferencial sobre 800 hectáreas y planea incorporar la zona a su programa de exploración de 2027.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Denarius Metals amplía su proyecto Toral en España y contempla reabrir la mina Antonina",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Satena inicia vuelo sin escalas entre Montería y Ciudad de Panamá desde octubre",
-        "url": "https://www.valoraanalitik.com/satena-abre-ruta-directa-entre-monteria-y-ciudad-de-panama-a-partir-de-octubre/",
-        "resumen": "Las aeronaves que operarán esta ruta tendrán capacidad para hasta 50 pasajeros.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Satena abre ruta directa entre Montería y Ciudad de Panamá a partir de octubre",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Gobierno presentará en Nueva York portafolio de proyectos por $75 billones en primera Milagro Week",
-        "url": "https://www.valoraanalitik.com/gobierno-llevara-a-nueva-york-portafolio-de-proyectos-por-75-billones-en-primera-milagro-week/",
-        "resumen": "El encuentro hace parte de la estrategia para impulsar el crecimiento económico y contempla la presentación del primer portafolio de inversiones.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno llevará a Nueva York portafolio de proyectos por $75 billones en primera Milagro Week",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "Cali asignará $10.300 millones para recuperar comercios golpeados por el sismo",
-        "url": "https://www.valoraanalitik.com/cali-destinara-10-300-millones-para-reactivar-negocios-afectados-por-el-terremoto/",
-        "resumen": "La alianza entre Alcaldía, Cámara de Comercio y Fundación WWB Colombia busca apoyar a más de 1.200 empresas con recursos en especie.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Cali destinará $10.300 millones para reactivar negocios afectados por el terremoto",
-        "capturado": "2026-09-30T16:23:15-05:00"
-      },
-      {
-        "titulo": "La cuantiosa sanción por infringir normas de IA en Colombia",
-        "url": "https://www.valoraanalitik.com/la-millonaria-multa-que-podria-recibir-por-incumplir-estas-reglas-al-usar-inteligencia-artificial-en-colombia/",
-        "resumen": "Una práctica cada vez más común con inteligencia artificial puede generar problemas legales y terminar en una sanción de alto valor.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "La millonaria multa que podría recibir por incumplir estas reglas al usar inteligencia artificial en Colombia",
-        "capturado": "2026-09-30T16:23:15-05:00"
       }
     ]
   }
