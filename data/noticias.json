@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-06T09:03:27-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-06T14:44:53-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Para Citi, el arribo de Gutiérrez a Ecopetrol es desperdiciar una ocasión y resalta fracking y Venezuela",
+        "url": "https://www.valoraanalitik.com/citi-califica-de-oportunidad-perdida-la-llegada-de-gutierrez-a-ecopetrol-destaca-fracking-y-posible-negocio-en-venezuela/",
+        "resumen": "Para la organización, Ecopetrol oportunidades en Venezuela, a pesar de las sanciones norteamericanas.",
+        "autor": "",
+        "subseccion": "Acciones ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Citi califica de «oportunidad perdida» la llegada de Gutiérrez a Ecopetrol; destaca fracking y posible negocio en Venezuela",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Sentencia precisa en qué momento el arriendo de canchas de fútbol tributa en Bogotá",
+        "url": "https://www.valoraanalitik.com/fallo-clave-aclara-cuando-el-alquiler-de-canchas-de-futbol-debe-pagar-impuesto-en-bogota/",
+        "resumen": "El alquiler de canchas de fútbol llegó a los tribunales por una discusión sobre el impuesto que deben pagar estos negocios en Bogotá.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Fallo clave aclara cuándo el alquiler de canchas de fútbol debe pagar impuesto en Bogotá",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Aumento de compradores elevó la cotización del dólar en el país hasta un pico de 3244 pesos",
+        "url": "https://www.valoraanalitik.com/entrada-masiva-de-compradores-impulso-el-precio-del-dolar-en-colombia-a-un-maximo-de-3-244/",
+        "resumen": "La divisa arrancó con sesgo bajista en $3.176 y descendió rápidamente hasta marcar un piso intradiario de $3.172.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Entrada masiva de compradores impulsó el precio del dólar en Colombia a un máximo de $3.244",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Homecenter compra el control accionario de Sumatec y progresa en su expansión por Colombia",
+        "url": "https://www.valoraanalitik.com/homecenter-adquiere-mayoria-sumatec/",
+        "resumen": "La operación combina la compra de acciones a Grupotec, accionista de Sumatec, con un aporte de capital directo a la compañía.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Homecenter adquiere participación mayoritaria en Sumatec y avanza en su estrategia de crecimiento en Colombia",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Allianz prefiere acciones sobre renta fija y halla alternativas ajenas a las grandes tecnológicas",
+        "url": "https://www.valoraanalitik.com/allianz-atractivo-acciones-oportunidades-ia/",
+        "resumen": "La firma mantiene una visión favorable sobre la renta variable y destaca el potencial de compañías pequeñas, China y los mercados emergentes.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Allianz ve más atractivo en acciones que en renta fija y encuentra oportunidades fuera de las grandes tecnológicas",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Aumentan los tipos de interés en Colombia, no obstante dichos préstamos abarataron su costo",
+        "url": "https://www.valoraanalitik.com/tasas-de-interes-suben-en-colombia-pero-estos-creditos-se-hicieron-mas-baratos/",
+        "resumen": "Mientras el Banco de la República elevó las tasas de interés, un estudio encontró un comportamiento distinto en ciertos créditos.",
+        "autor": "",
+        "subseccion": "Tasas de interes en colombia",
+        "publicacion": "",
+        "titulo_fuente": "Tasas de interés suben en Colombia, pero estos créditos se hicieron más baratos",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Bre-B supera a PIX y se afianza como la red de pagos inmediatos con mayor adopción regional",
+        "url": "https://www.valoraanalitik.com/bre-b-supera-a-pix-en-adopcion-tras-su-primer-ano/",
+        "resumen": "El sistema colombiano ya llega al 83 % de los adultos del país tras un año de operación y suma 36 millones de usuarios activos.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Bre-B supera a PIX y se consolida como el sistema de pagos instantáneos de mayor adopción en la región",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Entrevista | Unergy proyecta más de 200 minigranjas al 2028; inversiones rondarán US$200 millones",
+        "url": "https://www.valoraanalitik.com/unergy-espera-tener-mas-de-200-minigranjas-para-2028-las-inversiones-estarian-en-cerca-de-us200-millones/",
+        "resumen": "Eduardo Ospina, cofundador y CEO de Unergy, expresó que la empresa tiene activos en La Guajira, Santander, Cundinamarca, entre otros departamentos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Unergy espera tener más de 200 minigranjas para 2028; las inversiones estarían en cerca de US$200 millones",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Subsidio de hasta $122 millones para edificar casa en terreno propio: así se puede postular",
+        "url": "https://www.valoraanalitik.com/subsidio-de-hasta-122-millones-para-construir-vivienda-en-lote-propio-asi-puede-acceder/",
+        "resumen": "Este subsidio está dirigido a hogares que cuentan con un terreno y buscan convertirlo en una vivienda nueva. Así se puede utilizar.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Subsidio de hasta $122 millones para construir vivienda en lote propio: así puede acceder",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella usará un nuevo método con las EPS para suministrar fármacos en Colombia",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-aplicara-nuevo-mecanismo-con-las-eps-para-la-entrega-de-medicamentos-en-colombia/",
+        "resumen": "El Ministerio de Salud liderará soluciones financieras para garantizar la entrega de medicamentos a los usuarios de las EPS.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella aplicará nuevo mecanismo con las EPS para la entrega de medicamentos en Colombia",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio cae en el país a la espera de cifra inflacionaria y cita de De la Espriella con el FMI",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sigue-a-la-baja-a-la-espera-de-dato-de-inflacion-y-reunion-del-gobierno-de-la-espriella-con-el-fmi/",
+        "resumen": "Esto es lo que mueve a la baja al dólar en Colombia en el inicio de sesiones del 6 de octubre.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia sigue a la baja a la espera de dato de inflación y reunión del gobierno De la Espriella con el FMI",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Este habría sido el comportamiento de la inflación en el país en septiembre de 2027",
+        "url": "https://www.valoraanalitik.com/asi-le-habria-ido-a-la-inflacion-en-colombia-durante-septiembre-de-2027/",
+        "resumen": "La inflación en Colombia sigue al alza y se espera termine muy cerca del 7 % al cierre de este año",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Así le habría ido a la inflación en Colombia durante septiembre de 2027",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
       {
         "titulo": "Camila Vásquez es designada nueva Chief Financial Officer del Banco Santander Colombia",
         "url": "https://www.valoraanalitik.com/banco-santander-colombia-nombra-a-camila-vasquez-como-nueva-chief-financial-officer/",
@@ -483,129 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Estas son las compañías que operan en Colombia y que más han exportado carbón en lo que va de 2026",
         "capturado": "2026-10-03T12:32:22-05:00"
-      },
-      {
-        "titulo": "Proyecciones financieras por comicios en Brasil y propuestas tributarias de Lula y Bolsonaro",
-        "url": "https://www.valoraanalitik.com/expectativas-del-mercado-ante-elecciones-en-brasil-asi-esta-el-panorama-y-las-propuestas-fiscales-de-lula-y-bolsonaro/",
-        "resumen": "¿Giro a la derecha en Brasil?: lo que cambiaría en el mapa político y económico de América Latina.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Expectativas del mercado ante elecciones en Brasil: así está el panorama y las propuestas fiscales de Lula y Bolsonaro",
-        "capturado": "2026-10-03T12:32:22-05:00"
-      },
-      {
-        "titulo": "BBVA Seguros proyecta un cierre de año récord en Colombia tras alcanzar 2,5 millones de clientes y crecer 22 %",
-        "url": "https://www.valoraanalitik.com/llegamos-a-25-millones-de-clientes-y-crecemos-al-22-bbva-seguros-preve-un-cierre-de-ano-exponencial-en-colombia/",
-        "resumen": "Marco Arenas, presidente de BBVA Seguros proyecta una dinámica de expansión exponencial para el cierre del año.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "“Llegamos a 2,5 millones de clientes y crecemos al 22 %”: BBVA Seguros prevé un cierre de año exponencial en Colombia",
-        "capturado": "2026-10-03T12:32:22-05:00"
-      },
-      {
-        "titulo": "Vocero de la concesión Bogotá-Girardot detalla recomendaciones para viajeros en esta semana de receso",
-        "url": "https://www.valoraanalitik.com/directivo-de-la-concesion-bogota-girardot-explica-que-deben-tener-en-cuenta-quienes-viajen-en-esta-semana-de-receso/",
-        "resumen": "La vía Bogotá-Girardot tendrá una operación reforzada durante la semana de receso. Estas son las recomendaciones para quienes viajarán por el corredor.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Directivo de la concesión Bogotá-Girardot explica qué deben tener en cuenta quienes viajen en esta semana de receso",
-        "capturado": "2026-10-03T08:12:30-05:00"
-      },
-      {
-        "titulo": "Ministerio de Transporte, ANI y ANLA promoverán la expansión del terminal aéreo cartagenero",
-        "url": "https://www.valoraanalitik.com/la-anla-la-ani-y-el-ministerio-de-transporte-impulsaran-la-ampliacion-del-aeropuerto-de-cartagena/",
-        "resumen": "La ministra de Transporte expresó que esta ciudad necesita un aeropuerto que responda a las necesidades de los millones de viajeros.",
-        "autor": "",
-        "subseccion": "Ministerio de transporte",
-        "publicacion": "",
-        "titulo_fuente": "La ANLA, la ANI y el Ministerio de Transporte impulsarán la ampliación del aeropuerto de Cartagena",
-        "capturado": "2026-10-02T20:49:26-05:00"
-      },
-      {
-        "titulo": "Administración de la Espriella retomó pacto con Colfuturo y aportará US$25 millones",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-reactivo-alianza-con-colfuturo-y-la-respaldara-con-us25-millones/",
-        "resumen": "Colfuturo espera que estos recursos vayan para las cohortes de 2026 y 2027 y proyectó seleccionar hasta 3.000 profesionales, una cifra que triplica la de 2026.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno de la Espriella reactivó alianza con Colfuturo y la respaldará con US$25 millones",
-        "capturado": "2026-10-02T20:49:26-05:00"
-      },
-      {
-        "titulo": "Empresarios y vicepresidente Restrepo discuten establecer el Día sin IVA en el Valle del Cauca",
-        "url": "https://www.valoraanalitik.com/vicepresidente-restrepo-y-empresarios-ponen-sobre-la-mesa-aplicar-el-dia-sin-iva-en-el-valle-del-cauca/",
-        "resumen": "Esta iniciativa se aplicaría con la finalidad de dinamizar la región luego de los desastres causados por el terremoto.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Vicepresidente Restrepo y empresarios ponen sobre la mesa aplicar el Día sin IVA en el Valle del Cauca",
-        "capturado": "2026-10-02T20:49:26-05:00"
-      },
-      {
-        "titulo": "Minhacienda designó a Jaime Vives como el nuevo director de Coljuegos",
-        "url": "https://www.valoraanalitik.com/el-ministerio-de-hacienda-presento-a-jaime-vives-como-nuevo-presidente-de-coljuegos/",
-        "resumen": "Esta organización es clave para brindar recursos al sistema de salud colombiano, y a su vez, está adscrita al Ministerio de Hacienda.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "El Ministerio de Hacienda presentó a Jaime Vives como nuevo presidente de Coljuegos",
-        "capturado": "2026-10-02T20:49:26-05:00"
-      },
-      {
-        "titulo": "Oracle designó a Juan Carlos Vega como nuevo gerente en Colombia, Centroamérica y el Caribe",
-        "url": "https://www.valoraanalitik.com/oracle-nombro-a-juan-carlos-vega-como-nuevo-gerente-para-colombia-centroamerica-y-el-caribe/",
-        "resumen": "Entre sus prioridades estarán la inteligencia artificial, infraestructura de nube y ciberseguridad.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Oracle nombró a Juan Carlos Vega como nuevo gerente para Colombia, Centroamérica y el Caribe",
-        "capturado": "2026-10-02T20:49:26-05:00"
-      },
-      {
-        "titulo": "MinTransporte indica que vía alterna a Buenaventura finalizaría en dos años y detalla los avances",
-        "url": "https://www.valoraanalitik.com/via-alterna-de-buenaventura-estaria-lista-en-dos-anos-segun-mintransporte/",
-        "resumen": "Las obras incluyen 12 kilómetros de doble calzada, un patio para vehículos de carga y una zona de servicio para facilitar el acceso al puerto.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Vía alterna de Buenaventura estaría lista en dos años, según MinTransporte: así avanzan las obras",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "MinHacienda inició plan para reperfilar TES por 19,8 billones de pesos",
-        "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-comenzo-con-un-programa-de-reperfilamiento-de-tes-por-198-billones/",
-        "resumen": "La cartera ministerial adicionó que con dicha operación la vida media de la deuda interna en pesos incrementó en 0,2 años, llegando a 10,17 años.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Ministerio de Hacienda comenzó con un programa de reperfilamiento de TES por $19,8 billones",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "Presidente de reaseguros de Swiss Re afirma que Colombia se consolida como centro asegurador regional",
-        "url": "https://www.valoraanalitik.com/colombia-se-esta-consolidando-como-un-hub-asegurador-regional-presidente-de-reaseguros-de-swiss-re/",
-        "resumen": "En el país hay una brecha de protección considerable donde la pérdida económica total supera por mucho la cobertura efectivamente asegurada.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "“Colombia se está consolidando como un hub asegurador regional”: presidente de reaseguros de Swiss Re",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "CAF dispondrá de 1.000 millones de dólares para mitigar ola de calor en 2026 y 2027",
-        "url": "https://www.valoraanalitik.com/caf-pondra-a-disposicion-us1-000-millones-para-responder-ante-la-oleada-de-calor-en-2026-y-2027/",
-        "resumen": "Sergio Díaz-Granados, presidente del organismo, señaló que este podría ser el fenómeno más fuerte del último siglo.",
-        "autor": "",
-        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
-        "publicacion": "",
-        "titulo_fuente": "CAF pondrá a disposición US$1.000 millones para responder ante la oleada de calor en 2026 y 2027",
-        "capturado": "2026-10-02T17:52:34-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "AXE introduce al mercado colombiano un par de aromas nuevos basados en alta perfumería",
+        "url": "https://www.valoraanalitik.com/axe-lanza-en-colombia-dos-nuevas-fragancias-inspiradas-en-perfumeria/",
+        "resumen": "Cherry Spritz y Peach Infusion combinan protección contra el mal olor con perfiles olfativos que incorporan ingredientes de la perfumería.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "AXE lanza en Colombia dos nuevas fragancias inspiradas en perfumería",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Homecenter compra la mayoría accionaria de Sumatec y progresa en su expansión local",
+        "url": "https://www.valoraanalitik.com/homecenter-adquiere-mayoria-sumatec/",
+        "resumen": "La operación combina la compra de acciones a Grupotec, accionista de Sumatec, con un aporte de capital directo a la compañía.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Homecenter adquiere participación mayoritaria en Sumatec y avanza en su estrategia de crecimiento en Colombia",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "La propuesta de J.P. Morgan en el LinkU Capital Summit para invertir mejor: separar liquidez, riesgo y metas",
+        "url": "https://www.valoraanalitik.com/la-estrategia-que-deja-j-p-morgan-en-el-linku-capital-summit-para-invertir-mejor-separar-liquidez-riesgo-y-objetivos/",
+        "resumen": "Uno de los principales errores de los inversionistas es intentar clasificar todo su patrimonio bajo un único perfil de riesgo.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "La estrategia que deja J.P. Morgan en el LinkU Capital Summit para invertir mejor: separar liquidez, riesgo y objetivos",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Bre-B supera a PIX y se afianza como la red de pagos inmediatos con más adopción regional",
+        "url": "https://www.valoraanalitik.com/bre-b-supera-a-pix-en-adopcion-tras-su-primer-ano/",
+        "resumen": "El sistema colombiano ya llega al 83 % de los adultos del país tras un año de operación y suma 36 millones de usuarios activos.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Bre-B supera a PIX y se consolida como el sistema de pagos instantáneos de mayor adopción en la región",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
+      {
+        "titulo": "Entrevista | Unergy proyecta más de 200 minigranjas al 2028 con inversiones cercanas a US$200 millones",
+        "url": "https://www.valoraanalitik.com/unergy-espera-tener-mas-de-200-minigranjas-para-2028-las-inversiones-estarian-en-cerca-de-us200-millones/",
+        "resumen": "Eduardo Ospina, cofundador y CEO de Unergy, expresó que la empresa tiene activos en La Guajira, Santander, Cundinamarca, entre otros departamentos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Unergy espera tener más de 200 minigranjas para 2028; las inversiones estarían en cerca de US$200 millones",
+        "capturado": "2026-10-06T14:44:53-05:00"
+      },
       {
         "titulo": "Gobierno de la Espriella expone estrategia para agilizar consultas previas con digitalización, control y cierre",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-presenta-plan-de-destrabe-para-consultas-previas-digitalizacion-control-y-cierre-de-decisiones-seran-clave/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "La UPME adjudicó al Grupo Energía Bogotá importante proyecto para el abastecimiento de la Sabana de Bogotá",
         "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Aris Mining logra meta clave en megaproyecto minero ubicado en Santander",
-        "url": "https://www.valoraanalitik.com/aris-mining-alcanzo-importante-hito-para-megaproyecto-minero-en-santander/",
-        "resumen": "Esta mina tiene capacidad no solamente para producir oro, sino también cobre. Su vida útil podría llegar a dos décadas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Aris Mining alcanzó importante hito para megaproyecto minero en Santander",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Nueva regulación colombiana facilita anular o modificar planes de telefonía móvil sin obstáculos",
-        "url": "https://www.valoraanalitik.com/nueva-norma-en-colombia-permite-cancelar-o-cambiar-de-plan-de-celular-sin-trabas/",
-        "resumen": "Desde hoy cambia la forma de cancelar servicios móviles en Colombia, con nuevas condiciones para evitar trabas durante el trámite.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Nueva norma en Colombia permite cancelar o cambiar de plan de celular sin trabas",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Cali retoma los eventos masivos con Smart City Expo de Corferias luego del temblor de agosto",
-        "url": "https://www.valoraanalitik.com/smart-city-expo-cali-corferias-2026/",
-        "resumen": "Alejandro Eder, alcalde de Cali, pidió a los organizadores no cancelar eventos en la ciudad y llamó a las startups a proponer soluciones para la reconstrucción.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Cali reactiva los grandes eventos con Smart City Expo de Corferias tras el sismo de agosto",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Ventas de vehículos en Colombia lograron en septiembre el nivel más alto desde 2014 con récord en híbridos y eléctricos",
-        "url": "https://www.valoraanalitik.com/septiembre-fue-el-mejor-mes-para-ventas-de-carros-en-colombia-desde-2014-electricos-e-hibridos-en-record/",
-        "resumen": "Tesla ya es la quinta marca más vendida en Colombia: 2.435 matrículas en septiembre.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Septiembre fue el mejor mes para ventas de carros en Colombia desde 2014; eléctricos e híbridos en récord",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "El Premio Piñón de Oro fue otorgado a Negocios Ditu por su contribución al crecimiento empresarial colombiano",
-        "url": "https://www.valoraanalitik.com/negocios-ditu-recibe-el-premio-pinon-de-oro-por-su-aporte-al-desarrollo-empresarial/",
-        "resumen": "Valora Analitik es medio aliado de la plataforma con ‘Análisis con Valora’, espacio que aborda temas de coyuntura.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Negocios Ditu recibe el Premio Piñón de Oro por su aporte al desarrollo empresarial de Colombia",
-        "capturado": "2026-10-01T15:15:09-05:00"
       }
     ]
   }
