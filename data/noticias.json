@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-05T13:11:56-05:00",
-  "nuevos_en_esta_corrida": 22,
+  "actualizado": "2026-10-05T19:15:13-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Minutas BanRep: el repunte de la inflación forzó al emisor a subir su tasa hasta el 12,25 %",
+        "url": "https://www.valoraanalitik.com/minutas-banrep-el-regreso-de-las-presiones-inflacionarias-obligo-al-emisor-a-endurecer-su-postura-al-1225/",
+        "resumen": "Los directores de la mayoría enfatizaron que las expectativas de inflación de los analistas para finales de año se reajustaron al alza.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Minutas BanRep: El regreso de las presiones inflacionarias obligó al emisor a endurecer su postura al 12,25 %",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Un pacto con el FMI bajaría los intereses de deuda externa de Colombia del 6,6 % al 3,7 %",
+        "url": "https://www.valoraanalitik.com/un-acuerdo-con-el-fmi-le-permitiria-a-colombia-reducir-los-intereses-de-deuda-del-66-que-cobra-el-mercado-al-37/",
+        "resumen": "Dada la magnitud de las necesidades externas, recurrir al FMI se plantea como un complemento para diversificar las fuentes de capital.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Un acuerdo con el FMI le permitiría a Colombia reducir los intereses de deuda del 6,6 % que cobra el mercado al 3,7 %",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Plástico o datáfono: líder de Mastercard detalla en qué momento utilizar cada alternativa",
+        "url": "https://www.valoraanalitik.com/tarjeta-de-credito-o-debito-presidente-de-mastercard-explica-cuando-conviene-usar-cada-una/",
+        "resumen": "Federico Martínez, presidente de Mastercard para Colombia, explicó a Valora Analitik cómo elegir entre tarjeta de crédito y débito según cada tipo de compra.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Tarjeta de crédito o débito: presidente de Mastercard explica cuándo conviene usar cada una",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Predial: Consejo de Estado anula norma que autorizaba alzas exageradas en cobros",
+        "url": "https://www.valoraanalitik.com/impuesto-predial-consejo-de-estado-tumba-regla-que-permitia-aumentos-desmesurados/",
+        "resumen": "El Consejo de Estado anuló una regla sobre el impuesto predial que generaba dudas sobre cuánto podía aumentar el cobro de un año a otro.",
+        "autor": "",
+        "subseccion": "Impuesto predial",
+        "publicacion": "",
+        "titulo_fuente": "Impuesto predial: Consejo de Estado tumba regla que permitía aumentos desmesurados",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Terminal aérea El Dorado reactiva vuelos luego de la pausa por fuerte tormenta",
+        "url": "https://www.valoraanalitik.com/aeropuerto-el-dorado-reanuda-operaciones-tras-suspension-por-tormenta/",
+        "resumen": "Las operaciones se normalizan de manera progresiva luego de las afectaciones ocasionadas por el clima, baja visibilidad y fallas en las comunicaciones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aeropuerto El Dorado reanuda operaciones tras suspensión por tormenta",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Cuántos enchufes requiere Colombia para abastecer el crecimiento de los carros eléctricos",
+        "url": "https://www.valoraanalitik.com/cuantos-cargadores-necesita-colombia-para-atender-el-auge-de-los-vehiculos-electricos/",
+        "resumen": "El crecimiento de los vehículos eléctricos e híbridos acelera la demanda de carga y plantea un reto de infraestructura para Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "¿Cuántos cargadores necesita Colombia para atender el auge de los vehículos eléctricos?",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Atención | Gobierno De La Espriella aparta cerca de 20 millones de hectáreas para nuevos tratos petroleros y gasíferos",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-asigna-casi-20-millones-de-hectareas-para-nuevos-contratos-de-petroleo-y-gas/",
+        "resumen": "Desde 2024 Colombia perdió su autosuficiencia en gas, por lo cual el país ha tenido que recurrir cada vez más a importaciones.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Gobierno De La Espriella reserva casi 20 millones de hectáreas para nuevos contratos de petróleo y gas",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Los títulos de la Bolsa de Colombia aconsejados por Cibest Capital para colocar capital en octubre",
+        "url": "https://www.valoraanalitik.com/las-acciones-de-la-bolsa-de-colombia-que-recomienda-cibest-capital/",
+        "resumen": "La firma de inversión modificó su perspectiva sobre la renta variable local a neutral; mercado habría llegado a su precio objetivo.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Las acciones de la Bolsa de Colombia que recomienda Cibest Capital para invertir en octubre",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "CARF: Colombia precisa acciones correctivas prontas para asegurar la firmeza económica futura",
+        "url": "https://www.valoraanalitik.com/carf-colombia-requiere-medidas-correctivas-urgentes-para-garantizar-la-estabilidad-economica-a-largo-plazo/",
+        "resumen": "Daniel Wills, director técnico del CARF, señaló que gastar más de lo que ingresa no es sostenible y exige decisiones inmediatas.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "CARF: Colombia requiere medidas correctivas urgentes para garantizar la estabilidad económica a largo plazo",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Factura eléctrica podría elevarse más de $50.000 por efecto climático: estas familias sufrirían más",
+        "url": "https://www.valoraanalitik.com/recibo-de-luz-podria-subir-mas-de-50-000-por-el-fenomeno-de-el-nino-estos-hogares-serian-los-mas-afectados/",
+        "resumen": "Un nuevo estudio advierte cuánto podría aumentar el recibo de luz si el fenómeno de El Niño eleva las tarifas y el consumo de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Recibo de luz podría subir más de $50.000 por el fenómeno de El Niño: estos hogares serían los más afectados",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Cerca del 40 % del gas que consume Colombia es importado, al tiempo que el GLP avanza",
+        "url": "https://www.valoraanalitik.com/colombia-importa-casi-40-del-gas-para-abastecer-su-propia-demanda-mientras-el-glp-gana-terreno/",
+        "resumen": "GasPaís expresó que el mercado debe estar diversificado y que la actual coyuntura del gas permite que haya más fuentes de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia importa casi 40 % del gas para abastecer su propia demanda, mientras el GLP gana terreno",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en Colombia cae por debajo de los $3.200 tras alta venta de divisas",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-rompe-el-piso-de-los-3-200-tras-una-jornada-de-fuerte-oferta-de-divisas/",
+        "resumen": "La divisa estadounidense abrió en $3.250, que marcó a su vez el precio máximo. A partir de allí, una firme e intensa presión vendedora dominó el mercado.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia rompe el piso de los $3.200 tras una jornada de fuerte oferta de divisas",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
       {
         "titulo": "Cajas de compensación colombianas: sismos, medidas de control y expansión de afiliados",
         "url": "https://www.valoraanalitik.com/cajas-de-compensacion-asocajas-revela-sus-retos-en-subsidios-vivienda-y-supervision/",
@@ -483,129 +603,89 @@
         "publicacion": "",
         "titulo_fuente": "Chocó, Antioquia y Bolívar concentran 81 % de la extracción ilícita o no autorizada del oro de aluvión",
         "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella lanza Plan de Choque en Salud para resolver más de un millón de quejas",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-pone-en-marcha-plan-de-choque-en-salud-para-atender-mas-de-un-millon-de-reclamos/",
-        "resumen": "El Gobierno informó que la estrategia contempla cuatro etapas y contará con una mesa especial para su vigilancia.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella pone en marcha Plan de Choque en Salud para atender más de un millón de reclamos",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia elimina alza semanal y finaliza en tres mil doscientos sesenta y cuatro pesos",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-borra-las-ganancias-de-la-semana-y-cierra-en-3-264/",
-        "resumen": "El billete verde inició a la baja en $3.286 y extendió las pérdidas hasta marcar un piso intradiario de $3.258.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia borra las ganancias de la semana y cierra en $3.264",
-        "capturado": "2026-10-02T13:38:21-05:00"
-      },
-      {
-        "titulo": "Gerente del Banco de la República señala que la historia reciente dificulta sostener la meta de inflación",
-        "url": "https://www.valoraanalitik.com/la-historia-reciente-ha-hecho-muy-dificil-mantener-una-credibilidad-fuerte-en-la-meta-de-inflacion-gerente-banrep/",
-        "resumen": "La entidad proyecta un déficit en la balanza comercial de bienes cercano a los US$18.000 millones, el más alto en la historia del país.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "“La historia reciente ha hecho muy difícil mantener una credibilidad fuerte en la meta de inflación”: gerente BanRep",
-        "capturado": "2026-10-02T13:38:21-05:00"
-      },
-      {
-        "titulo": "Iván Duque sugiere ampliar base del impuesto de renta y solicita examinar excepciones del IVA",
-        "url": "https://www.valoraanalitik.com/ivan-duque-propone-que-mas-colombianos-paguen-impuesto-de-renta-pide-revisar-exenciones-del-iva/",
-        "resumen": "El expresidente propuso revisar los bienes y servicios exentos y excluidos, así como los beneficios tributarios asociados a este impuesto.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Iván Duque propone que más colombianos paguen impuesto de renta; pide revisar exenciones del IVA",
-        "capturado": "2026-10-02T13:38:21-05:00"
-      },
-      {
-        "titulo": "Banco Interamericano de Desarrollo financia millonario proyecto para mejorar atención oncológica",
-        "url": "https://www.valoraanalitik.com/millonaria-inversion-del-bid-impulsa-megaproyecto-para-ampliar-la-atencion-del-cancer-en-colombia/",
-        "resumen": "El BID avanza en la estructuración de un megaproyecto que busca ampliar la capacidad del Instituto Nacional de Cancerología.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Millonaria inversión del BID impulsa megaproyecto para ampliar la atención del cáncer en Colombia",
-        "capturado": "2026-10-02T13:38:21-05:00"
-      },
-      {
-        "titulo": "Mapfre proyecta liderar el mercado asegurador colombiano en 2027 impulsada por el sector automotor",
-        "url": "https://www.valoraanalitik.com/mapfre-busca-ser-la-aseguradora-mas-grande-de-colombia-para-2027-mercado-automovilistico-sera-clave/",
-        "resumen": "Óscar García-Serrano, CEO de Mapfre Colombia, analizó el panorama del sector y la penetración del seguro en las regiones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Mapfre busca ser la aseguradora más grande de Colombia para 2027; mercado automovilístico será clave",
-        "capturado": "2026-10-02T13:38:21-05:00"
-      },
-      {
-        "titulo": "Intereses suben a 12,25 %: ganadores y perdedores por la medida del Banco de la República",
-        "url": "https://www.valoraanalitik.com/tasas-de-interes-llegan-a-1225-quienes-salen-ganando-y-quienes-pierden-con-la-decision-del-banco-de-la-republica/",
-        "resumen": "La decisión del Banco de la República sobre las tasas de interés tendrá efectos distintos sobre el bolsillo de los colombianos durante los próximos meses.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Tasas de interés llegan a 12,25 %: ¿Quiénes salen ganando y quiénes pierden con la decisión del Banco de la República?",
-        "capturado": "2026-10-02T13:38:21-05:00"
-      },
-      {
-        "titulo": "Indra urge más tecnología en obras colombianas y ve opciones de inversión en el Caribe",
-        "url": "https://www.valoraanalitik.com/indra-pide-acelerar-tecnologia-en-infraestructura-de-colombia-busca-oportunidades-de-inversion-en-el-caribe/",
-        "resumen": "Quintero manifestó que existe optimismo sobre la posibilidad de retomar proyectos estratégicos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Indra pide acelerar tecnología en infraestructura de Colombia; busca oportunidades de inversión en el Caribe",
-        "capturado": "2026-10-02T13:38:21-05:00"
-      },
-      {
-        "titulo": "Dólar baja a $3.275 por ajuste petrolero y enfriamiento del mercado laboral en EE. UU.",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-a-3-275-ante-correccion-del-petroleo-y-en-medio-del-enfriamiento-laboral-en-ee-uu/",
-        "resumen": "El dólar abrió en $3.275 y se negocia actualmente alrededor de los $3.275,01, profundizando su corrección.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia retrocede a $3.275 ante corrección del petróleo y en medio del enfriamiento laboral en EE. UU.",
-        "capturado": "2026-10-02T13:38:21-05:00"
-      },
-      {
-        "titulo": "Video | Los títulos de Ecopetrol encabezan el monto de operaciones del día",
-        "url": "https://www.valoraanalitik.com/acciones-de-ecopetrol-lideran-el-volumen-de-transacciones-de-la-jornada/",
-        "resumen": "Ecopetrol movilizó $41.999 millones al finalizar el día.",
-        "autor": "",
-        "subseccion": "Acciones ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Video | Acciones de Ecopetrol lideran el volumen de transacciones de la jornada",
-        "capturado": "2026-10-02T08:03:04-05:00"
-      },
-      {
-        "titulo": "Primicia | Pei sumará un segundo formador de liquidez para sus títulos; busca atraer más foráneos",
-        "url": "https://www.valoraanalitik.com/pei-segundo-formador-liquidez-extranjeros/",
-        "resumen": "Jairo Corrales, presidente de Pei, reveló la firma que ayudará a fortalecer la negociación en bolsa; dio detalles sobre la compra de activos de Terranum.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Pei sumará un segundo formador de liquidez para sus títulos; quiere más inversionistas extranjeros",
-        "capturado": "2026-10-02T08:03:04-05:00"
-      },
-      {
-        "titulo": "Colombia registrará un gran desplazamiento de viajeros en la semana de receso",
-        "url": "https://www.valoraanalitik.com/colombia-tendra-importante-movilizacion-de-turistas-para-la-semana-de-receso/",
-        "resumen": "Las autoridades señalan un importante tránsito de turistas por distintas ciudades de Colombia",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Colombia tendrá importante movilización de turistas para la semana de receso",
-        "capturado": "2026-10-02T08:03:04-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Sempli ofrece créditos hasta por $300 millones por compañía para proyectos de energía solar",
+        "url": "https://www.valoraanalitik.com/sempli-lanza-linea-de-credito-de-hasta-300-millones-por-empresa-para-financiar-energia-solar/",
+        "resumen": "La alianza con Ímpetu Energía y EnerBit busca financiar proyectos solares en más de 5.000 pymes durante los próximos cinco años.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Sempli lanza línea de crédito de hasta $300 millones por empresa para financiar energía solar",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Efraín Cepeda Tarud asume la presidencia de la Cámara de Comercio de Barranquilla",
+        "url": "https://www.valoraanalitik.com/efrain-cepeda-tarud-nuevo-presidente-de-la-camara-de-comercio-de-barranquilla/",
+        "resumen": "El empresario llega al cargo tras la salida de Manuel Fernández Ariza, quien asumió la presidencia de Bancóldex.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Efraín Cepeda Tarud es el nuevo presidente de la Cámara de Comercio de Barranquilla",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Terminal aérea El Dorado retoma actividades luego de la paralización por tormenta",
+        "url": "https://www.valoraanalitik.com/aeropuerto-el-dorado-reanuda-operaciones-tras-suspension-por-tormenta/",
+        "resumen": "Las operaciones se normalizan de manera progresiva luego de las afectaciones ocasionadas por el clima, baja visibilidad y fallas en las comunicaciones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aeropuerto El Dorado reanuda operaciones tras suspensión por tormenta",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella aparta cerca de 20 millones de hectáreas para nuevos contratos petroleros y gasíferos",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-asigna-casi-20-millones-de-hectareas-para-nuevos-contratos-de-petroleo-y-gas/",
+        "resumen": "Desde 2024 Colombia perdió su autosuficiencia en gas, por lo cual el país ha tenido que recurrir cada vez más a importaciones.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Gobierno De La Espriella reserva casi 20 millones de hectáreas para nuevos contratos de petróleo y gas",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Títulos de la Bolsa de Colombia sugeridos por Cibest Capital para invertir en octubre",
+        "url": "https://www.valoraanalitik.com/las-acciones-de-la-bolsa-de-colombia-que-recomienda-cibest-capital/",
+        "resumen": "La firma de inversión modificó su perspectiva sobre la renta variable local a neutral; mercado habría llegado a su precio objetivo.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Las acciones de la Bolsa de Colombia que recomienda Cibest Capital para invertir en octubre",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Cerca de 40 % del gas que consume el país es importado y el GLP avanza",
+        "url": "https://www.valoraanalitik.com/colombia-importa-casi-40-del-gas-para-abastecer-su-propia-demanda-mientras-el-glp-gana-terreno/",
+        "resumen": "GasPaís expresó que el mercado debe estar diversificado y que la actual coyuntura del gas permite que haya más fuentes de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia importa casi 40 % del gas para abastecer su propia demanda, mientras el GLP gana terreno",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Estos son los factores clave para que una mujer figure en el ranking Merco",
+        "url": "https://www.valoraanalitik.com/que-hace-que-una-mujer-entre-al-ranking-merco/",
+        "resumen": "Merco recoge la opinión de los miembros de los comités de dirección de grandes empresas del país, quienes eligen a los diez líderes con mejor reputación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "¿Qué hace que una mujer entre al ranking Merco?: estos son los atributos que más pesan",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
+      {
+        "titulo": "Nuevo gerente para Colombia, Centroamérica y el Caribe en Oracle",
+        "url": "https://www.valoraanalitik.com/juan-carlos-vega-es-el-nuevo-gerente-de-oracle-para-colombia-centroamerica-y-el-caribe/",
+        "resumen": "Juan Carlos Vega estará al frente de la estrategia de crecimiento de la compañía y la adopción de nuevas tecnologías.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Oracle fortalece su operación regional con nuevo gerente para Colombia, Centroamérica y el Caribe",
+        "capturado": "2026-10-05T19:15:13-05:00"
+      },
       {
         "titulo": "Cajas de compensación colombianas afrontan supervisiones, impacto sísmico y mayor alcance",
         "url": "https://www.valoraanalitik.com/cajas-de-compensacion-asocajas-revela-sus-retos-en-subsidios-vivienda-y-supervision/",
@@ -1125,86 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Atención | Bruce Mac Master sale de la presidencia de la ANDI tras más de 13 años: estos son los detalles",
         "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Gopass impulsa su segmento corporativo al unir red de gasolina y peajes para flotas en una app",
-        "url": "https://www.valoraanalitik.com/gopass-acelera-su-negocio-corporativo-integra-la-red-de-combustible-mas-grande-del-pais-y-el-pago-de-peajes-en-una-sola-solucion-para-flotas/",
-        "resumen": "La integración del negocio de combustible impulsó el segmento B2B de Gopass, que alcanzó un crecimiento de 527 % en su volumen transado promedio mensual.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gopass acelera su negocio corporativo: integra la red de combustible más grande del país y el pago de peajes en una sola solución para flotas",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Qué tiempo permanece una prenda a precio total según informe sobre la moda en el país",
-        "url": "https://www.valoraanalitik.com/cuanto-dura-una-prenda-a-precio-pleno-esto-dice-nuevo-reporte/",
-        "resumen": "FashionAI analiza el ciclo de vida de las referencias y muestra qué categorías mantienen su valor y cuáles terminan en rebaja.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "¿Cuánto dura una prenda a precio pleno? Esto dice un reporte sobre la moda en Colombia",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Colombia alista Milagro Week con EE. UU. y Venezuela para captar capital",
-        "url": "https://www.valoraanalitik.com/colombia-prepara-milagro-week-con-ee-uu-y-venezuela-para-atraer-inversion/",
-        "resumen": "El Ministerio de Minas y ProColombia liderarán los frentes priorizados: energía e insumos como alimentos y medicamentos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia prepara Milagro Week con EE. UU. y Venezuela para atraer inversión",
-        "capturado": "2026-10-01T09:42:23-05:00"
-      },
-      {
-        "titulo": "Medellín albergará por vez primera el Foro Gastronómico Internacional de Alimentarte",
-        "url": "https://www.valoraanalitik.com/medellin-sera-sede-por-primera-vez-del-foro-gastronomico-internacional-de-alimentarte/",
-        "resumen": "Chefs, investigadores, académicos y líderes del sector abordarán tecnología, nuevas generaciones, turismo y transformación social.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Medellín será sede por primera vez del Foro Gastronómico Internacional de Alimentarte",
-        "capturado": "2026-10-01T09:42:23-05:00"
-      },
-      {
-        "titulo": "Designan a María Paula Tejada Bustos como nueva presidenta de Findeter",
-        "url": "https://www.valoraanalitik.com/maria-paula-tejada-bustos-es-nombrada-nueva-presidenta-de-findeter/",
-        "resumen": "La Junta Directiva de Findeter aprobó la remoción de Carlos Alberto Saad Llinás y designó a María Paula Tejada.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "María Paula Tejada Bustos es nombrada nueva presidenta de Findeter",
-        "capturado": "2026-10-01T09:42:23-05:00"
-      },
-      {
-        "titulo": "Ecopetrol obtuvo $683.990 millones por cobrar del FEPC y efectuó nuevos nombramientos",
-        "url": "https://www.valoraanalitik.com/ecopetrol-recibio-683-990-millones-por-cuentas-por-cobrar-del-fondo-de-estabilizacion-de-combustibles-la-compania-tuvo-nuevos-nombramientos/",
-        "resumen": "Los montos fueron transferidos por los ministerios de Hacienda y de Minas. Apuntan a la reducción del déficit en la bolsa para estabilizar precio del diésel.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol recibió $683.990 millones en cuentas por cobrar del Fondo de Estabilización de Combustibles; la compañía tuvo nuevos nombramientos",
-        "capturado": "2026-10-01T02:03:24-05:00"
-      },
-      {
-        "titulo": "Consejo Privado de Competitividad pasa a ser Colombia Compite y aconseja al gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/consejo-privado-de-competitividad-evoluciona-a-colombia-compite-deja-recomendaciones-a-gobierno-de-la-espriella/",
-        "resumen": "La organización identificó cuatro frentes urgentes para 2026-2030: ajuste fiscal, salud, energía y una revisión de trámites y regulaciones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Consejo Privado de Competitividad evoluciona a Colombia Compite; deja recomendaciones a Gobierno De la Espriella",
-        "capturado": "2026-10-01T02:03:24-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella sube el valor de la gasolina para octubre y deja intacto el ACPM",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-aumenta-el-precio-de-la-gasolina-corriente-para-octubre-mantiene-precio-del-acpm/",
-        "resumen": "La diferencia del precio del diésel local e internacional es una de las presiones en la política fiscal en Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella aumenta el precio de la gasolina corriente para octubre: mantiene precio del ACPM",
-        "capturado": "2026-10-01T02:03:24-05:00"
       }
     ]
   }
