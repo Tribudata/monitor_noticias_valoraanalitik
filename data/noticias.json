@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-05T19:15:13-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-10-06T01:45:29-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Camila Vásquez es designada nueva Chief Financial Officer del Banco Santander Colombia",
+        "url": "https://www.valoraanalitik.com/banco-santander-colombia-nombra-a-camila-vasquez-como-nueva-chief-financial-officer/",
+        "resumen": "Camila Vásquez cuenta con una trayectoria de más de 20 años de experiencia en el sector financiero.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Banco Santander Colombia nombra a Camila Vásquez como nueva Chief Financial Officer",
+        "capturado": "2026-10-06T01:45:29-05:00"
+      },
+      {
+        "titulo": "Gabriel Sánchez Olea toma la gerencia general del Movistar Arena luego de la salida de Luis Guillermo Quintero",
+        "url": "https://www.valoraanalitik.com/relevo-en-movistar-arena-gabriel-sanchez-olea-asume-la-gerencia-general-tras-la-salida-de-luis-guillermo-quintero/",
+        "resumen": "Gabriel Sánchez Olea se desempeñaba como director de Estrategia de BeatHub Entertainment, firma accionista de CDE.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Relevo en Movistar Arena: Gabriel Sánchez Olea asume la gerencia general tras la salida de Luis Guillermo Quintero",
+        "capturado": "2026-10-06T01:45:29-05:00"
+      },
+      {
+        "titulo": "Luis Guillermo Quintero toma la dirección general de Procafecol, operadora de Juan Valdez",
+        "url": "https://www.valoraanalitik.com/luis-guillermo-quintero-asume-la-gerencia-general-de-procafecol-administradora-de-juan-valdez/",
+        "resumen": "El nuevo directivo es administrador de empresas de la Universidad EAFIT y especialista en mercadeo estratégico del CESA.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Luis Guillermo Quintero asume la gerencia general de Procafecol, administradora de Juan Valdez",
+        "capturado": "2026-10-06T01:45:29-05:00"
+      },
+      {
+        "titulo": "La ANDI prepara comité de sucesión tras la salida de Bruce Mac Master de la presidencia del gremio",
+        "url": "https://www.valoraanalitik.com/la-andi-alista-comite-de-sucesion-tras-la-salida-de-bruce-mac-master-de-la-presidencia-del-gremio/",
+        "resumen": "El consejo directivo conformará un comité especial que asumirá la tarea de liderar la búsqueda del sucesor del presidente saliente.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "La ANDI alista comité de sucesión tras la salida de Bruce Mac Master de la presidencia del gremio",
+        "capturado": "2026-10-06T01:45:29-05:00"
+      },
       {
         "titulo": "Minutas BanRep: el repunte de la inflación forzó al emisor a subir su tasa hasta el 12,25 %",
         "url": "https://www.valoraanalitik.com/minutas-banrep-el-regreso-de-las-presiones-inflacionarias-obligo-al-emisor-a-endurecer-su-postura-al-1225/",
@@ -563,49 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "CAF pondrá a disposición US$1.000 millones para responder ante la oleada de calor en 2026 y 2027",
         "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella alista reforma a Ley APP para modificar tiempos de concesiones",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-prepara-reforma-a-la-ley-app-para-ajustar-plazos-de-concesiones/",
-        "resumen": "La iniciativa contempla cambios para puertos, aeropuertos y corredores viales. También se preparan modificaciones para atender los bloqueos en carreteras.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella prepara reforma a la Ley APP para ajustar plazos de concesiones",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "Entrevista al nuevo Country Manager de inDrive sobre su operación de $7,45 billones y metas de expansión",
-        "url": "https://www.valoraanalitik.com/entrevista-nuevo-country-manager-de-indrive-explica-como-la-plataforma-mueve-745-billones-en-colombia-y-sus-planes-de-crecimiento/",
-        "resumen": "El nuevo Country Manager de inDrive, Juan Sebastián Uribe, explicó a Valora Analitik el impacto de la plataforma en Colombia y sus apuestas de crecimiento.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Nuevo Country Manager de inDrive explica cómo la plataforma mueve $7,45 billones en Colombia y sus planes de crecimiento",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "Ecopetrol recibe licencia ambiental de la ANLA para iniciativa petrolera en el Meta",
-        "url": "https://www.valoraanalitik.com/anla-otorga-licencia-a-proyecto-de-petroleo-de-ecopetrol-en-meta/",
-        "resumen": "El proyecto no solo integra la construcción de pozos, sino también la de infraestructura energética, como plantas solares.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "ANLA otorga licencia a proyecto de petróleo de Ecopetrol en Meta",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "El 81 % de la minería aluvial ilegal de oro se concentra en Chocó, Antioquia y Bolívar",
-        "url": "https://www.valoraanalitik.com/choco-antioquia-y-bolivar-concentran-81-de-la-extraccion-ilicita-o-no-autorizada-del-oro-de-aluvion/",
-        "resumen": "Esta economía ilegal también se combina en buena medida con zonas con cultivos de coca a causa de la débil presencia del Estado.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Chocó, Antioquia y Bolívar concentran 81 % de la extracción ilícita o no autorizada del oro de aluvión",
-        "capturado": "2026-10-02T17:52:34-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Camila Vásquez es la nueva directora financiera del Banco Santander Colombia",
+        "url": "https://www.valoraanalitik.com/banco-santander-colombia-nombra-a-camila-vasquez-como-nueva-chief-financial-officer/",
+        "resumen": "Camila Vásquez cuenta con una trayectoria de más de 20 años de experiencia en el sector financiero.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Banco Santander Colombia nombra a Camila Vásquez como nueva Chief Financial Officer",
+        "capturado": "2026-10-06T01:45:29-05:00"
+      },
+      {
+        "titulo": "Gabriel Sánchez Olea toma la gerencia general del Movistar Arena tras la salida de Luis Guillermo Quintero",
+        "url": "https://www.valoraanalitik.com/relevo-en-movistar-arena-gabriel-sanchez-olea-asume-la-gerencia-general-tras-la-salida-de-luis-guillermo-quintero/",
+        "resumen": "Gabriel Sánchez Olea se desempeñaba como director de Estrategia de BeatHub Entertainment, firma accionista de CDE.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Relevo en Movistar Arena: Gabriel Sánchez Olea asume la gerencia general tras la salida de Luis Guillermo Quintero",
+        "capturado": "2026-10-06T01:45:29-05:00"
+      },
+      {
+        "titulo": "Luis Guillermo Quintero toma la gerencia general de Procafecol, operadora de Juan Valdez",
+        "url": "https://www.valoraanalitik.com/luis-guillermo-quintero-asume-la-gerencia-general-de-procafecol-administradora-de-juan-valdez/",
+        "resumen": "El nuevo directivo es administrador de empresas de la Universidad EAFIT y especialista en mercadeo estratégico del CESA.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Luis Guillermo Quintero asume la gerencia general de Procafecol, administradora de Juan Valdez",
+        "capturado": "2026-10-06T01:45:29-05:00"
+      },
+      {
+        "titulo": "La ANDI prepara comité de sucesión tras la salida de Bruce Mac Master de la presidencia",
+        "url": "https://www.valoraanalitik.com/la-andi-alista-comite-de-sucesion-tras-la-salida-de-bruce-mac-master-de-la-presidencia-del-gremio/",
+        "resumen": "El consejo directivo conformará un comité especial que asumirá la tarea de liderar la búsqueda del sucesor del presidente saliente.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "La ANDI alista comité de sucesión tras la salida de Bruce Mac Master de la presidencia del gremio",
+        "capturado": "2026-10-06T01:45:29-05:00"
+      },
       {
         "titulo": "Sempli ofrece créditos hasta por $300 millones por compañía para proyectos de energía solar",
         "url": "https://www.valoraanalitik.com/sempli-lanza-linea-de-credito-de-hasta-300-millones-por-empresa-para-financiar-energia-solar/",
@@ -1164,46 +1204,6 @@
         "subseccion": "Política",
         "publicacion": "",
         "titulo_fuente": "Relevante | María Paula Correa toma fuerza para ser la nueva presidenta de la ANDI",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Medellín será sede del LinkU Capital Summit para analizar el movimiento del capital en América Latina",
-        "url": "https://www.valoraanalitik.com/linku-capital-summit-llevara-a-medellin-la-conversacion-sobre-como-se-esta-moviendo-el-capital/",
-        "resumen": "El encuentro se realizará el 5 y 6 de octubre y reunirá a family offices, gestores patrimoniales, fondos de capital privado, inversionistas y corporativos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "LinkU Capital Summit llevará a Medellín la conversación sobre cómo se está moviendo el capital en Latinoamérica",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Colsubsidio obtuvo una distinción en los Gartner’s 2026 Eye on Innovation Awards",
-        "url": "https://www.valoraanalitik.com/colsubsidio-recibe-reconocimiento-en-los-gartners-2026-eye-on-innovation-awards/",
-        "resumen": "Colsubsidio ocupó el segundo puesto entre 467 organizaciones participantes en los Gartner’s 2026 Eye on Innovation Awards, en la categoría Midsize.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colsubsidio recibe reconocimiento en los Gartner’s 2026 Eye on Innovation Awards",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado tumba norma de autorretención de la DIAN y ya no cobijará a todos los pagos",
-        "url": "https://www.valoraanalitik.com/consejo-de-estado-anula-regla-de-la-dian-sobre-autorretencion-ya-no-aplica-a-todos-los-pagos/",
-        "resumen": "La decisión del Consejo de Estado cambia la forma de aplicar la autorretención especial que venía aplicando la DIAN.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "Consejo de Estado anula regla de la DIAN sobre autorretención: ya no aplica a todos los pagos",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "Alerta: Bruce Mac Master deja la presidencia de la ANDI tras más de 13 años y estos son los datos",
-        "url": "https://www.valoraanalitik.com/atencion-bruce-mac-master-sale-de-la-presidencia-de-la-andi-tras-mas-de-13-anos-estos-son-los-detalles/",
-        "resumen": "Bruce Mac Master dejará la presidencia de la ANDI tras más de una década al frente del principal gremio empresarial del país.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Bruce Mac Master sale de la presidencia de la ANDI tras más de 13 años: estos son los detalles",
         "capturado": "2026-10-01T15:15:09-05:00"
       }
     ]
