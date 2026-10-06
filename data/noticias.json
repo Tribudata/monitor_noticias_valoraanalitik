@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-06T14:44:53-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-10-06T18:41:37-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Pasajes económicos para cierre de año y 2027: trayectos desde $69.300 y rebajas de hasta 64 %",
+        "url": "https://www.valoraanalitik.com/vuelos-baratos-para-fin-de-ano-y-2027-hay-tiquetes-desde-69-300-y-descuentos-de-hasta-64/",
+        "resumen": "Quienes buscan vuelos baratos para fin de año y 2027 podrán encontrar tarifas promocionales hacia destinos nacionales e internacionales.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Vuelos baratos para fin de año y 2027: hay tiquetes desde $69.300 y descuentos de hasta 64 %",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
+      {
+        "titulo": "Termina período de Juan Carlos Castro en la dirección de Invest Pacific tras tres años; empieza empalme",
+        "url": "https://www.valoraanalitik.com/juan-carlos-castro-concluye-su-ciclo-al-frente-de-invest-pacific-tras-tres-anos-de-gestion-inicia-proceso-de-relevo/",
+        "resumen": "Mauricio Concha Rivera, actual director de inversiones de la entidad, asumirá de manera temporal la dirección ejecutiva.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Juan Carlos Castro concluye su ciclo al frente de Invest Pacific tras tres años de gestión; inicia proceso de relevo",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
+      {
+        "titulo": "De La Espriella anuncia guía de grandes obras, inversión y empleo en Colombia dentro de Plan de Desarrollo",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-promete-hoja-de-ruta-de-megaobras-inversion-y-empleo-para-colombia-en-plan-de-desarrollo/",
+        "resumen": "Planeación Nacional ha identificado hasta ahora un portafolio de 334 grandes proyectos, cuyo valor asciende a $535,1 billones.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "De La Espriella promete hoja de ruta de megaobras, inversión y empleo para Colombia en Plan de Desarrollo",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
+      {
+        "titulo": "BBVA Colombia volvió al mercado interno tras 12 años mediante emisión de bonos verdes en Bolsa de Colombia",
+        "url": "https://www.valoraanalitik.com/bbva-colombia-emision-bonos-bolsa-colombia/",
+        "resumen": "La emisión se realizó mediante el mecanismo de lotes sucesivos en el mercado local, que permite agilizar los tiempos de salida de cara a los inversionistas.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "BBVA Colombia regresó al mercado local luego de 12 años con emisión de bonos sostenibles en Bolsa de Colombia",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
+      {
+        "titulo": "Alza en costo de alimentos superaría las previsiones en Colombia: estos son los que más empujan las tarifas",
+        "url": "https://www.valoraanalitik.com/inflacion-de-alimentos-subiria-mas-de-lo-esperado-en-colombia-estos-son-los-que-mas-presionan-los-precios/",
+        "resumen": "La inflación de alimentos enfrenta nuevas presiones en Colombia, con varios productos de la canasta básica entre los que más están encareciendo.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Inflación de alimentos subiría más de lo esperado en Colombia: estos son los que más presionan los precios",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
+      {
+        "titulo": "El PIB regional crecería US$700.000 millones en 25 años con más inversión en salud latinoamericana",
+        "url": "https://www.valoraanalitik.com/inversiones-salud-america-latina-pib/",
+        "resumen": "En Costa Rica se celebra en Roche Press Day, que tiene como eje temático la inversión en salud para impulsar el desarrollo económico.",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "Mayores inversiones en salud en América Latina podrían sumar US$700.000 millones al PIB de la región en 25 años",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
+      {
+        "titulo": "En su primer año, Bre-B alcanzó más de 1.700 millones de operaciones y movilizó $262 billones",
+        "url": "https://www.valoraanalitik.com/bre-b-registro-mas-de-1-700-millones-de-transacciones-y-movio-262-billones-en-su-primer-ano/",
+        "resumen": "El sistema pasó de promedios iniciales de 1,5 millones de operaciones diarias en sus primeros meses a 5 millones de transacciones diarias.",
+        "autor": "",
+        "subseccion": "Banco de la republica",
+        "publicacion": "",
+        "titulo_fuente": "Bre-B registró más de 1.700 millones de transacciones y movió $262 billones en su primer año",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
+      {
+        "titulo": "En septiembre subieron los precios del productor y un indicador inflacionario clave volvió a ser positivo",
+        "url": "https://www.valoraanalitik.com/dato-clave-para-la-inflacion-en-colombia-volvio-a-terreno-positivo-precios-del-productor-subieron-en-septiembre/",
+        "resumen": "La variación anual del IPP se ubicó en 2,20 %. Esta cifra es inferior por 1,47 puntos porcentuales a la del año anterior.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Dato clave para la inflación en Colombia volvió a terreno positivo: Precios del productor subieron en septiembre",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
       {
         "titulo": "Para Citi, el arribo de Gutiérrez a Ecopetrol es desperdiciar una ocasión y resalta fracking y Venezuela",
         "url": "https://www.valoraanalitik.com/citi-califica-de-oportunidad-perdida-la-llegada-de-gutierrez-a-ecopetrol-destaca-fracking-y-posible-negocio-en-venezuela/",
@@ -523,89 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Pago ASAP conecta Bre-B con el sistema de pagos de Venezuela para acelerar operaciones binacionales",
         "capturado": "2026-10-03T18:41:05-05:00"
-      },
-      {
-        "titulo": "BMW lanza auto eléctrico en Colombia con autonomía para ir y volver de Bogotá a Medellín: costo y detalles",
-        "url": "https://www.valoraanalitik.com/bmw-estrena-nuevo-carro-electrico-en-colombia-que-puede-ir-y-volver-de-bogota-a-medellin-con-una-sola-carga-precio-y-caracteristicas/",
-        "resumen": "BMW lanzó en Colombia un nuevo eléctrico con autonomía para viajes largos, en un mercado que acelera sus ventas y enfrenta el reto de ampliar la carga.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "BMW estrena carro eléctrico en Colombia que puede ir y volver de Bogotá a Medellín con una sola carga: precio y características",
-        "capturado": "2026-10-03T18:41:05-05:00"
-      },
-      {
-        "titulo": "Jeeves recauda US$110 millones e impulsa pagos internacionales corporativos en Colombia mediante criptomonedas",
-        "url": "https://www.valoraanalitik.com/jeeves-acelera-pagos-stablecoins-colombia/",
-        "resumen": "El volumen anualizado de Jeeves en stablecoins alcanzó US$1.500 millones en ocho meses.",
-        "autor": "",
-        "subseccion": "Criptomonedas",
-        "publicacion": "",
-        "titulo_fuente": "Jeeves capta US$110 millones y acelera pagos internacionales de empresas en Colombia con stablecoins",
-        "capturado": "2026-10-03T15:51:59-05:00"
-      },
-      {
-        "titulo": "Registros de motocicletas en Colombia aumentaron 23,6 % en septiembre al sobrepasar 127.000 unidades",
-        "url": "https://www.valoraanalitik.com/matriculas-de-motos-en-colombia-crecieron-236-en-septiembre-y-superaron-las-127-000-unidades/",
-        "resumen": "El mercado acumula un crecimiento de 28,26 % en lo corrido de 2026; Suzuki, Bajaj y Honda lideraron los registros del mes.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Matrículas de motos en Colombia crecieron 23,6 % en septiembre y superaron las 127.000 unidades",
-        "capturado": "2026-10-03T15:51:59-05:00"
-      },
-      {
-        "titulo": "Entrevista | La cadena hotelera mundial con más de 640 establecimientos que pretende expandirse en Colombia",
-        "url": "https://www.valoraanalitik.com/entrevista-gigante-hotelero-colombia/",
-        "resumen": "El grupo tailandés tiene 14 hoteles en el país, nueve de ellos en Bogotá, y prevé crecer con contratos de operación y franquicias.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | El gigante hotelero con más de 640 propiedades en el mundo que busca crecer en Colombia",
-        "capturado": "2026-10-03T15:51:59-05:00"
-      },
-      {
-        "titulo": "Nueva ruta aérea entre Montería y Panamá y mandatario De La Espriella anuncia vuelo directo a Miami",
-        "url": "https://www.valoraanalitik.com/monteria-ruta-aerea-a-panama-satena-miami/",
-        "resumen": "La nueva conexión de Satena busca acercar a Córdoba con mercados internacionales y facilitar el flujo de turistas, empresarios e inversionistas.",
-        "autor": "",
-        "subseccion": "Aerolineas colombia",
-        "publicacion": "",
-        "titulo_fuente": "Montería estrena ruta aérea a Panamá y presidente De La Espriella anticipa conexión directa de Córdoba con Miami",
-        "capturado": "2026-10-03T12:32:22-05:00"
-      },
-      {
-        "titulo": "Messi, Cristiano y Mbappé suman ingresos empresariales al adquirir equipos de fútbol profesional",
-        "url": "https://www.valoraanalitik.com/messi-cristiano-y-mbappe-ya-no-solo-ganan-millones-jugando-ahora-compran-clubes-de-futbol/",
-        "resumen": "Messi, Cristiano Ronaldo, Mbappé, Vinícius y otras figuras están entrando como propietarios de clubes mientras todavía siguen vinculados al fútbol.",
-        "autor": "",
-        "subseccion": "Futbol internacional",
-        "publicacion": "",
-        "titulo_fuente": "Messi, Cristiano y Mbappé ya no solo ganan millones jugando: ahora compran clubes de fútbol",
-        "capturado": "2026-10-03T12:32:22-05:00"
-      },
-      {
-        "titulo": "Director de Bomberos en Colombia dejará su puesto a solicitud del presidente De la Espriella",
-        "url": "https://www.valoraanalitik.com/director-de-bomberos-en-colombia-saldra-del-cargo-por-peticion-del-presidente-de-la-espriella-esto-se-sabe/",
-        "resumen": "La decisión para declarar insubsistente a Germán Miranda se da en medio de una serie de incendios forestales que ha atravesado el país.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Director de Bomberos en Colombia saldrá del cargo por petición del presidente De la Espriella; esto se sabe",
-        "capturado": "2026-10-03T12:32:22-05:00"
-      },
-      {
-        "titulo": "Empresas carboneras con mayores exportaciones en el territorio colombiano durante el año 2026",
-        "url": "https://www.valoraanalitik.com/estas-son-las-companias-que-operan-en-colombia-y-que-mas-han-exportado-carbon-en-lo-que-va-de-2026/",
-        "resumen": "Dos de las principales organizaciones esperan ganar terreno en el mercado de Israel tras el veto implementado por gobiernos anteriores.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Estas son las compañías que operan en Colombia y que más han exportado carbón en lo que va de 2026",
-        "capturado": "2026-10-03T12:32:22-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Juan Carlos Castro termina su periodo en Invest Pacific tras tres años y empieza el empalme",
+        "url": "https://www.valoraanalitik.com/juan-carlos-castro-concluye-su-ciclo-al-frente-de-invest-pacific-tras-tres-anos-de-gestion-inicia-proceso-de-relevo/",
+        "resumen": "Mauricio Concha Rivera, actual director de inversiones de la entidad, asumirá de manera temporal la dirección ejecutiva.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Juan Carlos Castro concluye su ciclo al frente de Invest Pacific tras tres años de gestión; inicia proceso de relevo",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
+      {
+        "titulo": "El sector microfinanciero nacional se prepara para definir la agenda país 2026-2030",
+        "url": "https://www.valoraanalitik.com/sector-microfinanciero-colombiano-se-alista-para-trazar-la-agenda-pais-2026-2030/",
+        "resumen": "El Congreso de Asomicrofinanzas reunirá al sector en Bogotá para definir compromisos frente a microempresas, digitalización, sostenibilidad y el gota a gota.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Sector microfinanciero colombiano se alista para trazar la agenda país 2026-2030",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
+      {
+        "titulo": "Más inversión en salud latinoamericana añadiría US$700.000 millones al PIB regional en 25 años",
+        "url": "https://www.valoraanalitik.com/inversiones-salud-america-latina-pib/",
+        "resumen": "En Costa Rica se celebra en Roche Press Day, que tiene como eje temático la inversión en salud para impulsar el desarrollo económico.",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "Mayores inversiones en salud en América Latina podrían sumar US$700.000 millones al PIB de la región en 25 años",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
+      {
+        "titulo": "Pagos abiertos, el sistema para unir mercados financieros y cambiar el flujo de dinero en Colombia",
+        "url": "https://www.valoraanalitik.com/pagos-abiertos-el-modelo-que-busca-conectar-los-sistemas-financieros-y-transformar-el-movimiento-del-dinero-en-colombia/",
+        "resumen": "Interledger Foundation realizará dos encuentros para explorar cómo avanzar del acceso financiero hacia la adopción y el uso efectivo de los servicios digitales.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Pagos abiertos, el modelo que busca conectar los sistemas financieros y transformar el movimiento del dinero en Colombia",
+        "capturado": "2026-10-06T18:41:37-05:00"
+      },
       {
         "titulo": "AXE introduce al mercado colombiano un par de aromas nuevos basados en alta perfumería",
         "url": "https://www.valoraanalitik.com/axe-lanza-en-colombia-dos-nuevas-fragancias-inspiradas-en-perfumeria/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Inicia construcción de obra clave en la vía alterna a Buenaventura: plan será clave para el Valle del Cauca",
         "capturado": "2026-10-02T01:04:36-05:00"
-      },
-      {
-        "titulo": "Empiezan los encuentros preparatorios para debatir el salario mínimo entre gremios, Gobierno y empleados",
-        "url": "https://www.valoraanalitik.com/comienzan-reuniones-previas-a-la-discusion-del-salario-minimo-entre-empresarios-gobierno-y-trabajadores/",
-        "resumen": "Los actores van a construir sus comentarios hasta el 9 de octubre y se reunirán nuevamente el 13 de octubre.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Comienzan reuniones previas a la discusión del salario mínimo entre empresarios, Gobierno y trabajadores",
-        "capturado": "2026-10-02T01:04:36-05:00"
-      },
-      {
-        "titulo": "Famoso supermercado sorteará un Tesla entre sus clientes bajo una condición específica",
-        "url": "https://www.valoraanalitik.com/clientes-de-famoso-supermercado-podran-ganar-un-tesla-este-es-el-requisito-para-participar/",
-        "resumen": "Tesla hace parte de la celebración de aniversario de una reconocida cadena en Colombia, que prepara una dinámica especial para sus compradores.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Clientes de famoso supermercado podrán ganar un Tesla: este es el requisito para participar",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Bolsa de Valores de Colombia registra titularización de KOA por 85.000 millones para dar más créditos",
-        "url": "https://www.valoraanalitik.com/koa-cierra-titularizacion-por-85-000-millones-en-la-bolsa-de-valores-de-colombia-para-ampliar-acceso-a-credito/",
-        "resumen": "La compañía espera avanzar en inclusión financiera, particularmente para la población mayor.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "KOA cierra titularización por $85.000 millones en la Bolsa de Valores de Colombia para ampliar acceso a crédito",
-        "capturado": "2026-10-01T19:04:29-05:00"
-      },
-      {
-        "titulo": "Grupo Energía Bogotá gana adjudicación de la UPME para abastecer la Sabana de Bogotá",
-        "url": "https://www.valoraanalitik.com/la-upme-adjudico-al-grupo-energia-bogota-importante-proyecto-para-el-abastecimiento-de-la-sabana-de-bogota/",
-        "resumen": "La entidad manifestó que esta iniciativa hace parte del seguimiento de los planes a largo plazo en energía para satisfacer el consumo eléctrico.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "La UPME adjudicó al Grupo Energía Bogotá importante proyecto para el abastecimiento de la Sabana de Bogotá",
-        "capturado": "2026-10-01T19:04:29-05:00"
       }
     ]
   }
