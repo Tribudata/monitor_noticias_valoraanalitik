@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-06T01:45:29-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-06T09:03:27-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
       {
@@ -607,6 +607,16 @@
     ],
     "Empresariales": [
       {
+        "titulo": "Gobierno de la Espriella expone estrategia para agilizar consultas previas con digitalización, control y cierre",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-presenta-plan-de-destrabe-para-consultas-previas-digitalizacion-control-y-cierre-de-decisiones-seran-clave/",
+        "resumen": "El ministro del Interior dijo manifestó que hay una falta de sistematización de este proceso, que es clave para que avancen los proyectos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno de la Espriella presenta “plan de destrabe” para consultas previas: digitalización, control y cierre de decisiones serán clave",
+        "capturado": "2026-10-06T09:03:27-05:00"
+      },
+      {
         "titulo": "Camila Vásquez es la nueva directora financiera del Banco Santander Colombia",
         "url": "https://www.valoraanalitik.com/banco-santander-colombia-nombra-a-camila-vasquez-como-nueva-chief-financial-officer/",
         "resumen": "Camila Vásquez cuenta con una trayectoria de más de 20 años de experiencia en el sector financiero.",
@@ -1194,16 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Negocios Ditu recibe el Premio Piñón de Oro por su aporte al desarrollo empresarial de Colombia",
-        "capturado": "2026-10-01T15:15:09-05:00"
-      },
-      {
-        "titulo": "María Paula Correa suena con fuerza para asumir la presidencia de la ANDI",
-        "url": "https://www.valoraanalitik.com/maria-paula-correa-toma-fuerza-para-ser-nueva-presidenta-de-la-andi/",
-        "resumen": "La Mesa Directiva de la Asociación Nacional de Empresarios de Colombia podría elegir, por primera vez en su historia, a una mujer como presidenta.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | María Paula Correa toma fuerza para ser la nueva presidenta de la ANDI",
         "capturado": "2026-10-01T15:15:09-05:00"
       }
     ]
