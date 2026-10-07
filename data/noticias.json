@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-07T13:49:12-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-07T18:31:01-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno intenta destrabar iniciativas energéticas en La Guajira por US$2.500 millones",
+        "url": "https://www.valoraanalitik.com/gobierno-busca-destrabar-proyectos-de-energia-en-la-guajira-que-llegarian-a-us2-500-millones/",
+        "resumen": "El funcionario se reunió con varios miembros del sector energético y la ministra de Minas y Energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno busca destrabar proyectos de energía en La Guajira que llegarían a US$2.500 millones",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Vía al Llano: conozca los motivos de las fallas que persisten en esta gran obra",
+        "url": "https://www.valoraanalitik.com/via-al-llano-estas-son-las-razones-detras-de-los-problemas-que-siguen-afectando-este-megaproyecto/",
+        "resumen": "Alberto Mariño Samper, presidente de Proindesa, explica a Valora Analitik, uno de los grandes retos de la concesión de la vía al Llano.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Vía al Llano: estas son las razones detrás de los problemas que siguen afectando este megaproyecto",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Entrevista | Roche invierte más de $16.200 millones en innovación local y prevé alza en ventas para 2026",
+        "url": "https://www.valoraanalitik.com/roche-innovacion-colombia-ventas-2026/",
+        "resumen": "La compañía, que cumplirá 70 años de operación en el país, avanza en investigación clínica; espera mayor agilidad regulatoria para ampliar su portafolio.",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Roche destina más de $16.200 millones en innovación en Colombia; espera aumentar ventas en 2026",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado frena decreto que habilitaba la formación de megasindicatos en el país",
+        "url": "https://www.valoraanalitik.com/consejo-de-estado-suspende-decreto-que-permitia-crear-megasindicatos/",
+        "resumen": "La decisión es provisional y se tomó ante la posible falta de sustento legal para que el Gobierno definiera las reglas del modelo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Consejo de Estado suspende decreto que permitía crear megasindicatos en Colombia",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Santiago Pardo Salguero reemplazará a Javier Díaz en la presidencia de Analdex tras su retiro",
+        "url": "https://www.valoraanalitik.com/javier-diaz-sale-de-la-presidencia-de-analdex-por-jubilacion-santiago-pardo-salguero-asumira-el-liderazgo/",
+        "resumen": "Su retiro obedece a una decisión personal concertada para disfrutar de su jubilación, la cual se había postergado durante algunos años.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Javier Díaz sale de la presidencia de Analdex por jubilación; Santiago Pardo Salguero asumirá el liderazgo",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Fechas y descuentos disponibles para los compradores en el Hot Sale 2026",
+        "url": "https://www.valoraanalitik.com/hot-sale-2026-estas-son-las-fechas-y-ofertas-que-podran-encontrar-los-compradores/",
+        "resumen": "El Hot Sale 2026 reunirá a comercios de varias categorías y tendrá una nueva modalidad de ofertas para los compradores en Colombia.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Hot Sale 2026: estas son las fechas y ofertas que podrán encontrar los compradores",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia detiene su tendencia al alza y se ubica en $3.239 a la espera de inflación",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-frena-su-racha-alcista-y-se-estabiliza-en-3-239-a-la-espera-del-dato-de-inflacion/",
+        "resumen": "La divisa abrió prácticamente plana en $3.240 y descendió en la primera parte del día hasta un mínimo intradiario de $3.215,25.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia frena su racha alcista y se estabiliza en $3.239 a la espera del dato de inflación",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Nuevo gravamen a transportadores portuarios en Buenaventura preocupa a gremios por alzas",
+        "url": "https://www.valoraanalitik.com/buenaventura-impone-nuevo-cobro-a-transportadores-que-entren-y-salgan-a-puertos/",
+        "resumen": "Defencarga estima que la tarifa de $4.235 por tonelada representaría un impacto cercano a $7.000 millones mensuales para el sector.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Buenaventura impone nuevo cobro a transportadores que entren y salgan a puertos; gremios alertan por mayores costos",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Formas de invertir en una gran fintech colombiana desde un monto de $5 millones",
+        "url": "https://www.valoraanalitik.com/ser-accionista-importante-fintech-colombia/",
+        "resumen": "El vehículo permite invertir indirectamente en acciones de la fintech, con un horizonte hasta 2030 y una rentabilidad de referencia de 18 %.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Así puede ser accionista de una importante fintech en Colombia desde solo $5 millones",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Factores por los que el salario mínimo de 2027 presentaría un incremento superior al previsto",
+        "url": "https://www.valoraanalitik.com/salario-minimo-2027-podria-subir-mas-de-lo-esperado-estas-son-las-razones/",
+        "resumen": "Uno de los primeros elementos que entrará en la discusión para definir el salario mínimo de 2027 será la inflación con la que Colombia cierre 2026.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Salario mínimo 2027 podría subir más de lo esperado: estas son las razones",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Entrevista | Banco de Occidente subió 23 % en el primer semestre de 2026 y busca la digitalización",
+        "url": "https://www.valoraanalitik.com/entrevista-banco-de-occidente-crecio-23-en-el-primer-semestre-de-2026-y-apuesta-por-la-digitalizacion/",
+        "resumen": "La entidad mantuvo indicadores favorables en rentabilidad, calidad de cartera, posicionamiento de marca y clima laboral.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Banco de Occidente creció 23 % en el primer semestre de 2026 y apuesta por la digitalización",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Fitch avisa menor caja y presión por costos de financiación en empresas colombianas",
+        "url": "https://www.valoraanalitik.com/fitch-menor-flujo-de-caja-empresas-colombia/",
+        "resumen": "La calificadora señala un deterioro en los márgenes y la cobertura de intereses, mientras el apalancamiento se mantiene relativamente estable.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fitch advierte menor flujo de caja y presión por costos de financiamiento en empresas colombianas",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
       {
         "titulo": "Premercado | Mercados globales miran actas de la FED: petróleo sube al crecer ataques en Ormuz",
         "url": "https://www.valoraanalitik.com/premercado-mercados-globales-atentos-a-las-actas-de-la-fed-petroleo-sube-mientras-aumentan-ataques-en-ormuz/",
@@ -483,129 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Importante red veterinaria invertirá $6.000 millones para abrir nuevas sedes en Colombia: Antioquia será clave",
         "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella anuncia drástica medida sobre el porvenir del aeropuerto Ernesto Cortissoz y habrá cambios",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confirma-radical-decision-para-el-futuro-del-aeropuerto-internacional-ernesto-cortissoz-esto-cambiara/",
-        "resumen": "El gobierno De la Espriella confirmó los importantes cambios que se vienen para el aeropuerto de Barranquilla",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella confirma radical decisión para el futuro del aeropuerto Internacional Ernesto Cortissoz: Esto cambiará",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Terminó la campaña exploratoria de Ecopetrol y Petrobras en el Caribe con cinco pozos y US$1.000 millones",
-        "url": "https://www.valoraanalitik.com/con-cinco-pozos-y-us1-000-millones-concluyo-campana-exploratoria-de-ecopetrol-y-petrobras-en-el-caribe/",
-        "resumen": "Las dos organizaciones no hicieron mención en el comunicado de las cantidades de gas halladas o de la cantidad exacta de recursos que podría haber.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Con cinco pozos y US$1.000 millones concluyó campaña exploratoria de Ecopetrol y Petrobras en el Caribe",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Bancolombia adquiere a Logistic Properties of the Americas un parque logístico situado en Bogotá",
-        "url": "https://www.valoraanalitik.com/relevante-bancolombia-compra-parque-logistico-en-bogota-a-la-firma-logistic-properties-of-the-americas/",
-        "resumen": "Se trata de un portafolio de instalaciones en el Parque Logístico Calle 80, cuya transacción se pactó por un monto en efectivo de $500.000 millones.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Bancolombia compra parque logístico en Bogotá a la firma Logistic Properties of the Americas",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense desciende fuertemente en Colombia y se acerca a los $3.230",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-vuelve-a-caer-con-fuerza-y-roza-los-3-230/",
-        "resumen": "Esto mueve al dólar en Colombia al arranque de la jornada",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia vuelve a caer con fuerza y roza los $3.230",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Fedesarrollo indica que salud gira en torno a UPC, deudas, regulación y sostenibilidad fiscal",
-        "url": "https://www.valoraanalitik.com/upc-deudas-regulacion-y-sostenibilidad-fiscal-son-los-puntos-clave-en-salud-fedesarrollo/",
-        "resumen": "Iniciativas deben ser lideradas por la Adres, la Superintendencia, el Ministerio de Hacienda, Planeación, el Ministerio de Salud, junto con actores del sistema.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "UPC, deudas, regulación y sostenibilidad fiscal son los puntos clave en salud: Fedesarrollo",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Pedro Sánchez llama a votaciones en noviembre: España tendrá comicios adelantados",
-        "url": "https://www.valoraanalitik.com/espana-ira-a-elecciones-anticipadas-en-noviembre/",
-        "resumen": "El anuncio se da en medio de la crisis de vivienda que atraviesa el país europeo.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "España irá a elecciones anticipadas: Pedro Sánchez convoca comicios para noviembre",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Brasil: La colectividad de Flávio Bolsonaro lidera el Senado y la Cámara baja",
-        "url": "https://www.valoraanalitik.com/brasil-partido-liberal-de-flavio-bolsonaro-se-consolida-como-primera-fuerza-en-senado-y-camara-de-diputados/",
-        "resumen": "Con 91 % del escrutinio reportado, el PL de Bolsonaro aparece con 29 escaños en el Senado y 121 en la Cámara de Diputados en elecciones Brasil.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Brasil: Partido Liberal de Flávio Bolsonaro se consolida como primera fuerza en Senado y Cámara de Diputados",
-        "capturado": "2026-10-04T20:47:07-05:00"
-      },
-      {
-        "titulo": "En directo | Flávio Bolsonaro encabeza los comicios presidenciales en Brasil superando el 47 % de los sufragios",
-        "url": "https://www.valoraanalitik.com/en-vivo-elecciones-brasil-lula-bolsonaro/",
-        "resumen": "En caso de que ninguno de los candidatos obtenga la mayor votación, será necesaria una segunda vuelta el 25 de octubre.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "En vivo | Flávio Bolsonaro lidera las elecciones presidenciales en Brasil con más del 47 % de los votos",
-        "capturado": "2026-10-04T17:55:43-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella alargará por 14 meses el tiempo para aplicar el RUI como único focalizador de ayudas",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-extendera-14-meses-el-plazo-para-implementar-el-rui-como-unico-focalizador-de-subsidios/",
-        "resumen": "El RUI será la herramienta que utilizará el Gobierno para definir qué hogares cumplen las condiciones para acceder a subsidios.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella extenderá 14 meses el plazo para implementar el RUI como único focalizador de subsidios",
-        "capturado": "2026-10-04T17:55:43-05:00"
-      },
-      {
-        "titulo": "Apenas 0,9 por ciento de bodegas en Bogotá y la Sabana desocupadas y alquileres aumentan 17 por ciento",
-        "url": "https://www.valoraanalitik.com/bodegas-bogota-2026-arriendos-vacancia/",
-        "resumen": "Cushman & Wakefield reporta que las empresas arriendan bodegas antes de su entrega. Hay unos 146.000 m² en obra y más de 1,3 millones en proyecto.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Solo 0,9 % de las bodegas en Bogotá y la Sabana está disponible mientras arriendos suben 17 %",
-        "capturado": "2026-10-04T14:30:21-05:00"
-      },
-      {
-        "titulo": "StoneX pacta adquisición de Integra Trading y robustece su operación cafetera en Colombia",
-        "url": "https://www.valoraanalitik.com/stonex-compra-integra-trading-cafe-colombia/",
-        "resumen": "La operación le permitirá a la compañía estadounidense ampliar su presencia directa en el mercado de café y conectar con su red global de clientes.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "StoneX acuerda compra de Integra Trading y fortalece su negocio de café en Colombia",
-        "capturado": "2026-10-04T14:30:21-05:00"
-      },
-      {
-        "titulo": "Sector plástico proyecta expandirse sobre 5 por ciento en 2027 y subir ventas externas",
-        "url": "https://www.valoraanalitik.com/entrevista-industria-plastica-apunta-a-crecer-mas-de-5-en-2027-y-elevar-exportaciones-anticipa-comportamiento-y-revela-desafios/",
-        "resumen": "El presidente Ejecutivo del gremio resaltó que es un sector que enfrenta condiciones importantes para su competitividad.",
-        "autor": "",
-        "subseccion": "Valorasostenible",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Industria plástica apunta a crecer más de 5 % en 2027 y elevar exportaciones: anticipa comportamiento y revela desafíos",
-        "capturado": "2026-10-04T14:30:21-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Mike Bahía y Greeicy incursionan en la industria alimentaria con un emprendimiento presente en 193 municipios",
+        "url": "https://www.valoraanalitik.com/mike-bahia-y-greeicy-debutan-como-empresarios-de-alimentos-asi-es-su-negocio/",
+        "resumen": "Mike Bahía y Greeicy sorprendieron con una nueva apuesta empresarial que ya comenzó a ganar espacio en diferentes regiones de Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Mike Bahía y Greeicy debutan como empresarios de alimentos: así es su negocio que ya llega a 193 municipios de Colombia",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Administración nacional pretende destancar iniciativas energéticas guajiras por US$2.500 millones",
+        "url": "https://www.valoraanalitik.com/gobierno-busca-destrabar-proyectos-de-energia-en-la-guajira-que-llegarian-a-us2-500-millones/",
+        "resumen": "El funcionario se reunió con varios miembros del sector energético y la ministra de Minas y Energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno busca destrabar proyectos de energía en La Guajira que llegarían a US$2.500 millones",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Roche invierte más de $16.200 millones en innovación local y proyecta mayores ventas para 2026",
+        "url": "https://www.valoraanalitik.com/roche-innovacion-colombia-ventas-2026/",
+        "resumen": "La compañía, que cumplirá 70 años de operación en el país, avanza en investigación clínica; espera mayor agilidad regulatoria para ampliar su portafolio.",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Roche destina más de $16.200 millones en innovación en Colombia; espera aumentar ventas en 2026",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado frena norma que autorizaba la formación de megasindicatos en el país",
+        "url": "https://www.valoraanalitik.com/consejo-de-estado-suspende-decreto-que-permitia-crear-megasindicatos/",
+        "resumen": "La decisión es provisional y se tomó ante la posible falta de sustento legal para que el Gobierno definiera las reglas del modelo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Consejo de Estado suspende decreto que permitía crear megasindicatos en Colombia",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "Santiago Pardo Salguero reemplaza a Javier Díaz en la dirección de Analdex tras su retiro",
+        "url": "https://www.valoraanalitik.com/javier-diaz-sale-de-la-presidencia-de-analdex-por-jubilacion-santiago-pardo-salguero-asumira-el-liderazgo/",
+        "resumen": "Su retiro obedece a una decisión personal concertada para disfrutar de su jubilación, la cual se había postergado durante algunos años.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Javier Díaz sale de la presidencia de Analdex por jubilación; Santiago Pardo Salguero asumirá el liderazgo",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
+      {
+        "titulo": "El evento People Day congregará a especialistas para analizar los cambios que transforman el porvenir laboral",
+        "url": "https://www.valoraanalitik.com/la-atractiva-agenda-de-people-day-que-reunira-a-expertos-para-debatir-las-tendencias-que-estan-cambiando-el-futuro-del-trabajo/",
+        "resumen": "El evento, presentado como el primer y único festival de gestión en personas en la región, es organizado por Buk, software integral de Recursos Humanos.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "La atractiva agenda de People Day que reunirá a expertos para debatir las tendencias que están cambiando el futuro del trabajo",
+        "capturado": "2026-10-07T18:31:01-05:00"
+      },
       {
         "titulo": "Llega a Medellín Multifamily, una novedosa alternativa habitacional acorde a la evolución inmobiliaria",
         "url": "https://www.valoraanalitik.com/multifamily-la-nueva-forma-de-habitar-que-responde-a-la-transformacion-del-mercado-de-vivienda-llega-con-propuesta-a-medellin/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Oracle nombró a Juan Carlos Vega como nuevo gerente para Colombia, Centroamérica y el Caribe",
         "capturado": "2026-10-02T20:49:26-05:00"
-      },
-      {
-        "titulo": "El líder de reaseguros de Swiss Re afirma que Colombia se afianza como un centro asegurador zonal",
-        "url": "https://www.valoraanalitik.com/colombia-se-esta-consolidando-como-un-hub-asegurador-regional-presidente-de-reaseguros-de-swiss-re/",
-        "resumen": "En el país hay una brecha de protección considerable donde la pérdida económica total supera por mucho la cobertura efectivamente asegurada.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "“Colombia se está consolidando como un hub asegurador regional”: presidente de reaseguros de Swiss Re",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "CAF destinará US$1.000 millones para afrontar la ola de calor durante 2026 y 2027",
-        "url": "https://www.valoraanalitik.com/caf-pondra-a-disposicion-us1-000-millones-para-responder-ante-la-oleada-de-calor-en-2026-y-2027/",
-        "resumen": "Sergio Díaz-Granados, presidente del organismo, señaló que este podría ser el fenómeno más fuerte del último siglo.",
-        "autor": "",
-        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
-        "publicacion": "",
-        "titulo_fuente": "CAF pondrá a disposición US$1.000 millones para responder ante la oleada de calor en 2026 y 2027",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "Entrevista al nuevo Country Manager de inDrive sobre los $7,45 billones que mueve en Colombia y su expansión",
-        "url": "https://www.valoraanalitik.com/entrevista-nuevo-country-manager-de-indrive-explica-como-la-plataforma-mueve-745-billones-en-colombia-y-sus-planes-de-crecimiento/",
-        "resumen": "El nuevo Country Manager de inDrive, Juan Sebastián Uribe, explicó a Valora Analitik el impacto de la plataforma en Colombia y sus apuestas de crecimiento.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Nuevo Country Manager de inDrive explica cómo la plataforma mueve $7,45 billones en Colombia y sus planes de crecimiento",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "ANLA concede licencia para iniciativa petrolera de Ecopetrol en el departamento del Meta",
-        "url": "https://www.valoraanalitik.com/anla-otorga-licencia-a-proyecto-de-petroleo-de-ecopetrol-en-meta/",
-        "resumen": "El proyecto no solo integra la construcción de pozos, sino también la de infraestructura energética, como plantas solares.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "ANLA otorga licencia a proyecto de petróleo de Ecopetrol en Meta",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "Chocó, Antioquia y Bolívar reúnen el 81 % de la explotación aurífera aluvial ilegal o sin autorización",
-        "url": "https://www.valoraanalitik.com/choco-antioquia-y-bolivar-concentran-81-de-la-extraccion-ilicita-o-no-autorizada-del-oro-de-aluvion/",
-        "resumen": "Esta economía ilegal también se combina en buena medida con zonas con cultivos de coca a causa de la débil presencia del Estado.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Chocó, Antioquia y Bolívar concentran 81 % de la extracción ilícita o no autorizada del oro de aluvión",
-        "capturado": "2026-10-02T17:52:34-05:00"
-      },
-      {
-        "titulo": "El sector de asistencias al viajero sube en Colombia pero sigue sin lograr una masificación",
-        "url": "https://www.valoraanalitik.com/mercado-de-asistencias-al-viajero-crece-en-colombia-pero-aun-no-logra-masificarse/",
-        "resumen": "Universal Assistance en Colombia analiza cómo cambió la mentalidad del viajero tras la pandemia y las exigencias internacionales.",
-        "autor": "",
-        "subseccion": "Financieras",
-        "publicacion": "",
-        "titulo_fuente": "Mercado de asistencias al viajero crece en Colombia, pero aún no logra masificarse",
-        "capturado": "2026-10-02T17:52:34-05:00"
       }
     ]
   }
