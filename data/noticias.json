@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-06T18:41:37-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-07T00:22:52-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Elementos externos elevaron la cotización del dólar en el país y lo llevarían este mes cerca a 3200 pesos",
+        "url": "https://www.valoraanalitik.com/factores-internacionales-aumentaron-el-precio-del-dolar-en-colombia-y-podrian-ubicarlo-este-mes-alrededor-de-3-200/",
+        "resumen": "El tipo de cambio cerró el mes en $3.307,5 impulsado por la fortaleza global del dólar. El el BanRep hizo contrapeso con su decisión de tasas.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Factores internacionales aumentaron el precio del dólar en Colombia y podrían ubicarlo este mes alrededor de $3.200",
+        "capturado": "2026-10-07T00:22:52-05:00"
+      },
+      {
+        "titulo": "Latinoamérica explora vías alternas para fondear la sanidad debido al restringido margen presupuestal",
+        "url": "https://www.valoraanalitik.com/america-latina-busca-nuevos-mecanismos-para-financiar-la-salud-ante-el-limitado-espacio-fiscal/",
+        "resumen": "Expertos en salud plantean medir el retorno del gasto, ampliar esquemas de aseguramiento y avanzar en compras conjuntas.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "América Latina busca nuevos mecanismos para financiar la salud ante el limitado espacio fiscal",
+        "capturado": "2026-10-07T00:22:52-05:00"
+      },
+      {
+        "titulo": "La nación cubana obtiene parte de su electricidad del aliado menos imprevisto pues EE UU le vende paneles",
+        "url": "https://www.valoraanalitik.com/cuba-recibe-parte-de-su-energia-del-socio-menos-pensado-ee-uu-vende-modulos-solares-a-ese-pais/",
+        "resumen": "La isla no solamente recibe equipos solares fabricados en China, sino también de los puertos de Luisiana, Florida y Texas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Cuba recibe parte de su energía del socio menos pensado: EE. UU. vende módulos solares a ese país",
+        "capturado": "2026-10-07T00:22:52-05:00"
+      },
       {
         "titulo": "Pasajes económicos para cierre de año y 2027: trayectos desde $69.300 y rebajas de hasta 64 %",
         "url": "https://www.valoraanalitik.com/vuelos-baratos-para-fin-de-ano-y-2027-hay-tiquetes-desde-69-300-y-descuentos-de-hasta-64/",
@@ -573,36 +603,6 @@
         "publicacion": "",
         "titulo_fuente": "Terremoto en Colombia eleva reclamaciones a aseguradoras, pero solo el 14,5 % de los daños económicos están cubiertos",
         "capturado": "2026-10-04T10:56:41-05:00"
-      },
-      {
-        "titulo": "Colombia dejaría de recaudar cerca de $1 billón por IVA en compras mínimas extranjeras tipo Temu y Shein",
-        "url": "https://www.valoraanalitik.com/colombia-iva-importaciones-temu-shein/",
-        "resumen": "La Cámara de Comercio Electrónico pide revisar la interpretación del TLC con Estados Unidos que permite el ingreso sin IVA de paquetes inferiores a US$200.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia estaría dejando de percibir cerca de $1 billón en IVA por importaciones de bajo monto, como Temu y Shein",
-        "capturado": "2026-10-04T10:56:41-05:00"
-      },
-      {
-        "titulo": "Grupo Argos y Nicky Jam regalarán 100 casas para levantar Caldas y la Gobernación pondrá la mano de obra",
-        "url": "https://www.valoraanalitik.com/grupo-argos-y-nicky-jam-donaran-100-viviendas-para-la-reconstruccion-de-caldas-gobernacion-aportara-la-mano-de-obra/",
-        "resumen": "Adopta un Hogar comprometió 1.000 viviendas para familias afectadas por el terremoto del 10 de agosto. Ya entregó las dos primeras casas en Chocó y Antioquia.",
-        "autor": "",
-        "subseccion": "Adopta un hogar",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos y Nicky Jam donarán 100 viviendas para la reconstrucción de Caldas: Gobernación aportará la mano de obra",
-        "capturado": "2026-10-04T10:56:41-05:00"
-      },
-      {
-        "titulo": "Pago ASAP vincula Bre-B con la plataforma de pagos venezolana para agilizar transacciones bilaterales",
-        "url": "https://www.valoraanalitik.com/pago-asap-bre-b-pagos-venezuela/",
-        "resumen": "La fintech venezolana ya conecta los pagos inmediatos colombianos con Pago Móvil en Venezuela; movió US$158 millones en el primer semestre.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Pago ASAP conecta Bre-B con el sistema de pagos de Venezuela para acelerar operaciones binacionales",
-        "capturado": "2026-10-03T18:41:05-05:00"
       }
     ],
     "Empresariales": [
