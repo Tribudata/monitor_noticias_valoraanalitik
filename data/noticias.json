@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-07T00:22:52-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-07T06:56:37-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Premercado | Mercados globales miran actas de la FED: petróleo sube al crecer ataques en Ormuz",
+        "url": "https://www.valoraanalitik.com/premercado-mercados-globales-atentos-a-las-actas-de-la-fed-petroleo-sube-mientras-aumentan-ataques-en-ormuz/",
+        "resumen": "Los operadores analizan el texto en busca de indicios sobre el consenso entre los responsables de política monetaria.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Mercados globales atentos a las actas de la FED: petróleo sube mientras aumentan ataques en Ormuz",
+        "capturado": "2026-10-07T06:56:37-05:00"
+      },
+      {
+        "titulo": "Entrevista | Las energías limpias ya cubren una población superior a la de Bogotá",
+        "url": "https://www.valoraanalitik.com/las-energias-renovables-ya-abastecen-a-una-poblacion-mayor-a-la-de-bogota/",
+        "resumen": "Alexandra Hernández, presidente del gremio de energías renovables, habló sobre el potencial y la inversión en esta fuente de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Las energías renovables ya abastecen a una población mayor a la de Bogotá",
+        "capturado": "2026-10-07T06:56:37-05:00"
+      },
+      {
+        "titulo": "La historia detrás del quiebre en la CUT que llevó a las mayorías a retirar su respaldo a Petro",
+        "url": "https://www.valoraanalitik.com/la-historia-detras-de-la-ruptura-en-la-cut-que-llevo-a-las-mayorias-a-retirar-su-apoyo-a-petro-y-al-pacto-historico/",
+        "resumen": "Valora Analitik habló con Diógenes Orjuela para conocer las razones detrás de esta reorganización.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "La historia detrás de la ruptura en la CUT que llevó a las mayorías a retirar su apoyo a Petro y al Pacto Histórico",
+        "capturado": "2026-10-07T06:56:37-05:00"
+      },
       {
         "titulo": "Elementos externos elevaron la cotización del dólar en el país y lo llevarían este mes cerca a 3200 pesos",
         "url": "https://www.valoraanalitik.com/factores-internacionales-aumentaron-el-precio-del-dolar-en-colombia-y-podrian-ubicarlo-este-mes-alrededor-de-3-200/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | Industria plástica apunta a crecer más de 5 % en 2027 y elevar exportaciones: anticipa comportamiento y revela desafíos",
         "capturado": "2026-10-04T14:30:21-05:00"
-      },
-      {
-        "titulo": "Prosegur incursiona en el sector asegurador con plan para ampliar su portafolio",
-        "url": "https://www.valoraanalitik.com/prosegur-apuesta-por-el-mercado-de-seguros/",
-        "resumen": "A través de una nueva unidad busca complementar su oferta con pólizas diseñadas para sus clientes.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Prosegur apuesta por el mercado de seguros: esta es su estrategia para complementar sus servicios",
-        "capturado": "2026-10-04T14:30:21-05:00"
-      },
-      {
-        "titulo": "Acierto del Baloto en Nobsa, Boyacá: afortunado gana acumulado de $61.600 millones",
-        "url": "https://www.valoraanalitik.com/baloto-cayo-en-nobsa-boyaca-61-600-millones/",
-        "resumen": "Es la primera vez que cae el acumulado en 2026 y corresponde al mayor premio de Baloto desde 2017 y al cuarto más alto en la historia del juego.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Baloto cayó en Nobsa, Boyacá: ganador se lleva premio de $61.600 millones",
-        "capturado": "2026-10-04T10:56:41-05:00"
-      },
-      {
-        "titulo": "Sismo en Colombia dispara solicitudes a aseguradoras, mas solo el 14,5 % de las pérdidas posee cobertura",
-        "url": "https://www.valoraanalitik.com/terremoto-en-colombia-las-aseguradoras-cubrieron-apenas-el-145-de-los-danos-economicos-totalesterremoto-en-colombia-eleva-reclamaciones-a-aseguradoras-pero-solo-el-145-de-los-danos-economicos-estan-c/",
-        "resumen": "Con corte al 25 de septiembre, las compañías de seguros habían recibido 92.336 reclamaciones por parte de los afectados.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Terremoto en Colombia eleva reclamaciones a aseguradoras, pero solo el 14,5 % de los daños económicos están cubiertos",
-        "capturado": "2026-10-04T10:56:41-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | Las fuentes renovables ya cubren más habitantes que los de Bogotá",
+        "url": "https://www.valoraanalitik.com/las-energias-renovables-ya-abastecen-a-una-poblacion-mayor-a-la-de-bogota/",
+        "resumen": "Alexandra Hernández, presidente del gremio de energías renovables, habló sobre el potencial y la inversión en esta fuente de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Las energías renovables ya abastecen a una población mayor a la de Bogotá",
+        "capturado": "2026-10-07T06:56:37-05:00"
+      },
       {
         "titulo": "Juan Carlos Castro termina su periodo en Invest Pacific tras tres años y empieza el empalme",
         "url": "https://www.valoraanalitik.com/juan-carlos-castro-concluye-su-ciclo-al-frente-de-invest-pacific-tras-tres-anos-de-gestion-inicia-proceso-de-relevo/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Congelar precios del diésel pondría más presión en gastos del Gobierno: en casi dos años el combustible aumentó menos de $1.000",
         "capturado": "2026-10-02T08:03:04-05:00"
-      },
-      {
-        "titulo": "Arranca edificación de proyecto vial hacia Buenaventura y será fundamental para el Valle del Cauca",
-        "url": "https://www.valoraanalitik.com/inicia-construccion-de-obra-clave-en-la-via-alterna-a-buenaventura-plan-sera-clave-para-el-valle-del-cauca/",
-        "resumen": "Este proyecto presenta un avance de 32,59 %, y según la ANI, beneficiaría a cerca de tres millones de personas en Valle del Cauca.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inicia construcción de obra clave en la vía alterna a Buenaventura: plan será clave para el Valle del Cauca",
-        "capturado": "2026-10-02T01:04:36-05:00"
       }
     ]
   }
