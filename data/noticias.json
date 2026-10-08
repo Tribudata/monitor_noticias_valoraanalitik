@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-08T08:09:45-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-08T14:22:17-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Tasa de cambio del dólar cae y finaliza en $3.217 en sesión con poca actividad",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-y-cierra-en-3-217-en-una-jornada-de-bajo-volumen/",
+        "resumen": "La divisa abrió en $3.241,50 y tocó de inmediato un techo de $3.248. Al mismo tiempo, la cotización hasta un mínimo intradiario de $3.208,50.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia retrocede y cierra en $3.217 en una jornada de bajo volumen",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Día sin IVA o menor ICA: qué estrategia beneficiaría más el comercio nacional",
+        "url": "https://www.valoraanalitik.com/dia-sin-iva-o-menos-ica-que-medida-le-ayudaria-mas-la-economia-y-el-comercio-en-colombia/",
+        "resumen": "Día sin IVA o menos ICA: las dos alternativas generarían efectos diferentes para consumidores y empresas en Colombia.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Día sin IVA o menos ICA: ¿qué medida le ayudaría más la economía y el comercio en Colombia?",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Aris Mining incrementa 16 % extracción aurífera a septiembre y conserva su meta",
+        "url": "https://www.valoraanalitik.com/aris-mining-aumenta-16-su-produccion-de-oro-a-septiembre/",
+        "resumen": "La minera acumuló 217.300 onzas en los primeros nueve meses del año y espera cerrar 2026 con entre 300.000 y 350.000 onzas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Aris Mining aumenta 16 % su producción de oro a septiembre y mantiene meta para 2026",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Fenalco solicitó revocar incremento del 23 % del salario básico del 2026",
+        "url": "https://www.valoraanalitik.com/anular-aumento-del-23-del-salario-minimo-en-colombia-del-2026-que-pasaria-con-salarios-ya-pagados/",
+        "resumen": "El ajuste del salario mínimo, dicen empresarios, fue desproporcionado para este año.",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Fenalco pidió anular el aumento del 23 % del salario mínimo en Colombia del 2026: ¿qué pasaría con los salarios ya pagados?",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "De la Espriella intensifica vigilancia en contratos y fondos estatales hoy",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-refuerza-control-sobre-contratos-estatales-y-recursos-publicos-estas-son-las-nuevas-medidas/",
+        "resumen": "Los supervisores deberán comprobar que las obligaciones y actividades contratadas realmente se hayan ejecutado y contar con evidencia verificable.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella refuerza control sobre contratos estatales y recursos públicos: estas son las nuevas medidas",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Nueva obra unirá a Bogotá y Soacha para reducir congestión",
+        "url": "https://www.valoraanalitik.com/bogota-y-soacha-tendran-nueva-conexion-asi-es-el-megaproyecto-que-busca-aliviar-los-trancones/",
+        "resumen": "Bogotá y Soacha avanzan en una nueva obra de movilidad que busca ofrecer una alternativa para miles de viajeros del sur de la región.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá y Soacha tendrán nueva conexión: así es el megaproyecto que busca aliviar los trancones",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Gobierno anula controvertido decreto de Petro de bonos de carbono y prepara nueva norma",
+        "url": "https://www.valoraanalitik.com/gobierno-deroga-polemico-decreto-de-petro-sobre-mercados-de-carbono/",
+        "resumen": "La decisión deja sin efecto los cambios al mercado de carbono y obliga al Gobierno a iniciar un nuevo proceso regulatorio con participación de los sectores.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno deroga polémico decreto de Petro sobre mercados de carbono y alista nueva reglamentación",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Corte Constitucional anula las Asociaciones Público - Populares hechas por el Gobierno Petro",
+        "url": "https://www.valoraanalitik.com/corte-constitucional-tumba-las-asociaciones-publico-populares-creadas-durante-el-gobierno-petro/",
+        "resumen": "La Corte consideró que los artículos 100 y 101 regulaban aspectos esenciales de la contratación estatal que deben estar definidos por el Congreso.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Corte Constitucional tumba las Asociaciones Público – Populares creadas durante el Gobierno Petro",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Altia adquiere cinco iniciativas renovables de Isagen en Colombia para crecer en energía solar",
+        "url": "https://www.valoraanalitik.com/altia-le-compra-a-isagen-cinco-proyectos-renovables-en-colombia-busca-expandirse-en-energia-solar/",
+        "resumen": "La adquisición suma 219 megavatios de capacidad renovable, de los cuales 119 corresponden a generación hídrica y 100 a generación solar.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Altia le compra a Isagen cinco proyectos renovables en Colombia; busca expandirse en energía solar",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia inicia al alza en $3.241,50 por crudo, tensiones geopolíticas y alta inflación",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-al-alza-en-3-24150-impulsado-por-petroleo-tensiones-geopoliticas-y-mayor-inflacion/",
+        "resumen": "El comportamiento de la divisa se da en medio de un sentimiento global negativo y presiones cruzadas en los mercados financieros.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre al alza en $3.241,50 impulsado por petróleo, tensiones geopolíticas y mayor inflación",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
       {
         "titulo": "Grandes compañías muestran interés en adquirir la Regasificadora del Pacífico frente a una eventual venta",
         "url": "https://www.valoraanalitik.com/poderosas-empresas-ya-estan-interesadas-en-comprar-la-regasificadora-del-pacifico-ante-posible-venta-del-proyecto/",
@@ -503,109 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Luis Guillermo Quintero asume la gerencia general de Procafecol, administradora de Juan Valdez",
         "capturado": "2026-10-06T01:45:29-05:00"
-      },
-      {
-        "titulo": "La ANDI prepara comité de sucesión tras la salida de Bruce Mac Master de la presidencia del gremio",
-        "url": "https://www.valoraanalitik.com/la-andi-alista-comite-de-sucesion-tras-la-salida-de-bruce-mac-master-de-la-presidencia-del-gremio/",
-        "resumen": "El consejo directivo conformará un comité especial que asumirá la tarea de liderar la búsqueda del sucesor del presidente saliente.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "La ANDI alista comité de sucesión tras la salida de Bruce Mac Master de la presidencia del gremio",
-        "capturado": "2026-10-06T01:45:29-05:00"
-      },
-      {
-        "titulo": "Minutas BanRep: el repunte de la inflación forzó al emisor a subir su tasa hasta el 12,25 %",
-        "url": "https://www.valoraanalitik.com/minutas-banrep-el-regreso-de-las-presiones-inflacionarias-obligo-al-emisor-a-endurecer-su-postura-al-1225/",
-        "resumen": "Los directores de la mayoría enfatizaron que las expectativas de inflación de los analistas para finales de año se reajustaron al alza.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Minutas BanRep: El regreso de las presiones inflacionarias obligó al emisor a endurecer su postura al 12,25 %",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Un pacto con el FMI bajaría los intereses de deuda externa de Colombia del 6,6 % al 3,7 %",
-        "url": "https://www.valoraanalitik.com/un-acuerdo-con-el-fmi-le-permitiria-a-colombia-reducir-los-intereses-de-deuda-del-66-que-cobra-el-mercado-al-37/",
-        "resumen": "Dada la magnitud de las necesidades externas, recurrir al FMI se plantea como un complemento para diversificar las fuentes de capital.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Un acuerdo con el FMI le permitiría a Colombia reducir los intereses de deuda del 6,6 % que cobra el mercado al 3,7 %",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Plástico o datáfono: líder de Mastercard detalla en qué momento utilizar cada alternativa",
-        "url": "https://www.valoraanalitik.com/tarjeta-de-credito-o-debito-presidente-de-mastercard-explica-cuando-conviene-usar-cada-una/",
-        "resumen": "Federico Martínez, presidente de Mastercard para Colombia, explicó a Valora Analitik cómo elegir entre tarjeta de crédito y débito según cada tipo de compra.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Tarjeta de crédito o débito: presidente de Mastercard explica cuándo conviene usar cada una",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Predial: Consejo de Estado anula norma que autorizaba alzas exageradas en cobros",
-        "url": "https://www.valoraanalitik.com/impuesto-predial-consejo-de-estado-tumba-regla-que-permitia-aumentos-desmesurados/",
-        "resumen": "El Consejo de Estado anuló una regla sobre el impuesto predial que generaba dudas sobre cuánto podía aumentar el cobro de un año a otro.",
-        "autor": "",
-        "subseccion": "Impuesto predial",
-        "publicacion": "",
-        "titulo_fuente": "Impuesto predial: Consejo de Estado tumba regla que permitía aumentos desmesurados",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Terminal aérea El Dorado reactiva vuelos luego de la pausa por fuerte tormenta",
-        "url": "https://www.valoraanalitik.com/aeropuerto-el-dorado-reanuda-operaciones-tras-suspension-por-tormenta/",
-        "resumen": "Las operaciones se normalizan de manera progresiva luego de las afectaciones ocasionadas por el clima, baja visibilidad y fallas en las comunicaciones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Aeropuerto El Dorado reanuda operaciones tras suspensión por tormenta",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Cuántos enchufes requiere Colombia para abastecer el crecimiento de los carros eléctricos",
-        "url": "https://www.valoraanalitik.com/cuantos-cargadores-necesita-colombia-para-atender-el-auge-de-los-vehiculos-electricos/",
-        "resumen": "El crecimiento de los vehículos eléctricos e híbridos acelera la demanda de carga y plantea un reto de infraestructura para Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "¿Cuántos cargadores necesita Colombia para atender el auge de los vehículos eléctricos?",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Atención | Gobierno De La Espriella aparta cerca de 20 millones de hectáreas para nuevos tratos petroleros y gasíferos",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-asigna-casi-20-millones-de-hectareas-para-nuevos-contratos-de-petroleo-y-gas/",
-        "resumen": "Desde 2024 Colombia perdió su autosuficiencia en gas, por lo cual el país ha tenido que recurrir cada vez más a importaciones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Gobierno De La Espriella reserva casi 20 millones de hectáreas para nuevos contratos de petróleo y gas",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Los títulos de la Bolsa de Colombia aconsejados por Cibest Capital para colocar capital en octubre",
-        "url": "https://www.valoraanalitik.com/las-acciones-de-la-bolsa-de-colombia-que-recomienda-cibest-capital/",
-        "resumen": "La firma de inversión modificó su perspectiva sobre la renta variable local a neutral; mercado habría llegado a su precio objetivo.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Las acciones de la Bolsa de Colombia que recomienda Cibest Capital para invertir en octubre",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "CARF: Colombia precisa acciones correctivas prontas para asegurar la firmeza económica futura",
-        "url": "https://www.valoraanalitik.com/carf-colombia-requiere-medidas-correctivas-urgentes-para-garantizar-la-estabilidad-economica-a-largo-plazo/",
-        "resumen": "Daniel Wills, director técnico del CARF, señaló que gastar más de lo que ingresa no es sostenible y exige decisiones inmediatas.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "CARF: Colombia requiere medidas correctivas urgentes para garantizar la estabilidad económica a largo plazo",
-        "capturado": "2026-10-05T19:15:13-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Edgard Nunes asume la gerencia general del clúster ANCAC en el Grupo Servier",
+        "url": "https://www.valoraanalitik.com/edgard-nunes-llega-a-la-gerencia-general-del-cluster-ancac/",
+        "resumen": "El directivo adopta este nuevo rol tras su paso como director regional de operaciones de la línea de oncología para Latinoamérica.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Edgard Nunes llega a la gerencia general del clúster ANCAC del Grupo Servier",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Marlen Quiñones es la FamiEmpresaria 2026 que generó empleo flexible para madres en Medellín con Maintegral",
+        "url": "https://www.valoraanalitik.com/marlen-quinones-la-famiempresaria-2026-que-creo-empleo-flexible-para-madres-en-medellin-con-maintegral/",
+        "resumen": "Para Quiñones, el premio representa no solo un reconocimiento a su empresa, sino también a las mujeres que hacen parte de ella.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Marlen Quiñones, la FamiEmpresaria 2026 que creó empleo flexible para madres en Medellín con Maintegral",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Aris Mining eleva su producción aurífera 16 % a septiembre y conserva su meta para 2026",
+        "url": "https://www.valoraanalitik.com/aris-mining-aumenta-16-su-produccion-de-oro-a-septiembre/",
+        "resumen": "La minera acumuló 217.300 onzas en los primeros nueve meses del año y espera cerrar 2026 con entre 300.000 y 350.000 onzas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Aris Mining aumenta 16 % su producción de oro a septiembre y mantiene meta para 2026",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Estas son las fechas que dinamizarán las ventas de los comercios colombianos a fin de año",
+        "url": "https://www.valoraanalitik.com/estos-son-los-dias-que-moveran-las-ventas-en-las-tiendas-de-colombia/",
+        "resumen": "Sensormatic Solutions identifica las jornadas con mayor tráfico esperado y señala los aspectos que los comercios deberán reforzar.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los días que moverán las ventas en las tiendas de Colombia durante fin de año",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Alrededor de 173 tazas de Sello Rojo se toman cada segundo en territorio colombiano",
+        "url": "https://www.valoraanalitik.com/cada-segundo-se-consumen-cerca-de-173-tazas-de-sello-rojo-en-colombia/",
+        "resumen": "Sello Rojo nació en Cali en 1931 y hoy es la marca #1 de café molido en Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cada segundo se consumen cerca de 173 tazas de Sello Rojo en Colombia",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
+      {
+        "titulo": "Altia adquiere cinco iniciativas verdes a Isagen en el país para crecer en energía solar",
+        "url": "https://www.valoraanalitik.com/altia-le-compra-a-isagen-cinco-proyectos-renovables-en-colombia-busca-expandirse-en-energia-solar/",
+        "resumen": "La adquisición suma 219 megavatios de capacidad renovable, de los cuales 119 corresponden a generación hídrica y 100 a generación solar.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Altia le compra a Isagen cinco proyectos renovables en Colombia; busca expandirse en energía solar",
+        "capturado": "2026-10-08T14:22:17-05:00"
+      },
       {
         "titulo": "Grandes firmas muestran interés en adquirir la Regasificadora del Pacífico frente a una eventual venta",
         "url": "https://www.valoraanalitik.com/poderosas-empresas-ya-estan-interesadas-en-comprar-la-regasificadora-del-pacifico-ante-posible-venta-del-proyecto/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "BMW estrena carro eléctrico en Colombia que puede ir y volver de Bogotá a Medellín con una sola carga: precio y características",
         "capturado": "2026-10-03T18:41:05-05:00"
-      },
-      {
-        "titulo": "En septiembre el registro de motos subió un 23,6 % en el país y pasó de 127.000 unidades",
-        "url": "https://www.valoraanalitik.com/matriculas-de-motos-en-colombia-crecieron-236-en-septiembre-y-superaron-las-127-000-unidades/",
-        "resumen": "El mercado acumula un crecimiento de 28,26 % en lo corrido de 2026; Suzuki, Bajaj y Honda lideraron los registros del mes.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Matrículas de motos en Colombia crecieron 23,6 % en septiembre y superaron las 127.000 unidades",
-        "capturado": "2026-10-03T15:51:59-05:00"
-      },
-      {
-        "titulo": "Nueva ruta aérea entre Montería y Panamá con anuncio de conexión directa de Córdoba a Miami por De La Espriella",
-        "url": "https://www.valoraanalitik.com/monteria-ruta-aerea-a-panama-satena-miami/",
-        "resumen": "La nueva conexión de Satena busca acercar a Córdoba con mercados internacionales y facilitar el flujo de turistas, empresarios e inversionistas.",
-        "autor": "",
-        "subseccion": "Aerolineas colombia",
-        "publicacion": "",
-        "titulo_fuente": "Montería estrena ruta aérea a Panamá y presidente De La Espriella anticipa conexión directa de Córdoba con Miami",
-        "capturado": "2026-10-03T12:32:22-05:00"
-      },
-      {
-        "titulo": "Empresas exportadoras de carbón con mayor actividad en Colombia durante el transcurso del año 2026",
-        "url": "https://www.valoraanalitik.com/estas-son-las-companias-que-operan-en-colombia-y-que-mas-han-exportado-carbon-en-lo-que-va-de-2026/",
-        "resumen": "Dos de las principales organizaciones esperan ganar terreno en el mercado de Israel tras el veto implementado por gobiernos anteriores.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Estas son las compañías que operan en Colombia y que más han exportado carbón en lo que va de 2026",
-        "capturado": "2026-10-03T12:32:22-05:00"
-      },
-      {
-        "titulo": "BBVA Seguros alcanza 2,5 millones de clientes, crece un 22 por ciento y proyecta un cierre de año exponencial en Colombia",
-        "url": "https://www.valoraanalitik.com/llegamos-a-25-millones-de-clientes-y-crecemos-al-22-bbva-seguros-preve-un-cierre-de-ano-exponencial-en-colombia/",
-        "resumen": "Marco Arenas, presidente de BBVA Seguros proyecta una dinámica de expansión exponencial para el cierre del año.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "“Llegamos a 2,5 millones de clientes y crecemos al 22 %”: BBVA Seguros prevé un cierre de año exponencial en Colombia",
-        "capturado": "2026-10-03T12:32:22-05:00"
-      },
-      {
-        "titulo": "Gobierno de la Espriella retomó alianza con Colfuturo y aportará US$25 millones",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-reactivo-alianza-con-colfuturo-y-la-respaldara-con-us25-millones/",
-        "resumen": "Colfuturo espera que estos recursos vayan para las cohortes de 2026 y 2027 y proyectó seleccionar hasta 3.000 profesionales, una cifra que triplica la de 2026.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno de la Espriella reactivó alianza con Colfuturo y la respaldará con US$25 millones",
-        "capturado": "2026-10-02T20:49:26-05:00"
-      },
-      {
-        "titulo": "Vicepresidente Restrepo y empresarios discuten establecer el Día sin IVA en el Valle del Cauca",
-        "url": "https://www.valoraanalitik.com/vicepresidente-restrepo-y-empresarios-ponen-sobre-la-mesa-aplicar-el-dia-sin-iva-en-el-valle-del-cauca/",
-        "resumen": "Esta iniciativa se aplicaría con la finalidad de dinamizar la región luego de los desastres causados por el terremoto.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Vicepresidente Restrepo y empresarios ponen sobre la mesa aplicar el Día sin IVA en el Valle del Cauca",
-        "capturado": "2026-10-02T20:49:26-05:00"
       }
     ]
   }
