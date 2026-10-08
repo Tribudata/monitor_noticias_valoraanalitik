@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-08T14:22:17-05:00",
-  "nuevos_en_esta_corrida": 16,
+  "actualizado": "2026-10-08T18:52:00-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Sacyr proyecta asegurar recursos del Canal del Dique en diciembre y empezar trabajos en 2027",
+        "url": "https://www.valoraanalitik.com/canal-del-dique-obras-comenzarian-en-2027/",
+        "resumen": "El proyecto contempla 40 meses de trabajos y la generación de cerca de 60.000 empleos en 18 municipios de Atlántico, Bolívar y Sucre.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Sacyr prevé cerrar financiación del Canal del Dique en diciembre y arrancar obras en 2027",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Analdex avisa sobrecosto cercano a $100.000 millones anuales por sobretasa a la carga en Buenaventura",
+        "url": "https://www.valoraanalitik.com/analdex-advierte-sobrecosto-de-casi-100-000-millones-al-ano-por-sobretasa-a-la-carga-en-buenaventura/",
+        "resumen": "La tarifa equivale a un pago adicional de $127.050 por un tractocamión con 30 toneladas, según cálculos del gremio.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Analdex advierte sobrecosto de casi $100.000 millones al año por sobretasa a la carga en Buenaventura",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Cesar experimenta auge solar: inversiones alcanzarían más de US$500 millones",
+        "url": "https://www.valoraanalitik.com/cesar-vive-un-boom-de-proyectos-solares-inversiones-podrian-superar-los-us500-millones/",
+        "resumen": "SER Colombia reveló que este departamento colombiano es el segundo más importante para la generación solar, tan solo detrás de Atlántico.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Cesar vive un ‘boom’ de proyectos solares: inversiones podrían superar los US$500 millones",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Pensiones alcanzaron compras históricas de TES en Colombia durante septiembre",
+        "url": "https://www.valoraanalitik.com/fondos-de-pensiones-tuvieron-compras-record-de-tes-en-colombia-en-septiembre/",
+        "resumen": "Los Fondos de pensiones lideraron la demanda de deuda pública interna en un mes marcado por el repunte de tasas y tensiones fiscales globales.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fondos de pensiones tuvieron compras récord de TES en Colombia en septiembre",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Comestibles Ricos, dueña de Todo Rico, Tajamiel y Súper Ricas, llega a 65 años y alista expansión",
+        "url": "https://www.valoraanalitik.com/comestibles-ricos-que-tiene-marcas-como-todo-rico-tajamiel-y-super-ricas-cumple-65-anos-y-prepara-su-expansion-esta-es-su-nueva-apuesta/",
+        "resumen": "Comestibles Ricos celebra 65 años mientras ajusta su estrategia para crecer en Colombia y fortalecer sus exportaciones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Comestibles Ricos, que tiene marcas como Todo Rico, Tajamiel y Súper Ricas, cumple 65 años y prepara su expansión: esta es su nueva apuesta",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Las troncales del Magdalena llegan a casi el 50 por ciento de avance luego de dos años de trabajos",
+        "url": "https://www.valoraanalitik.com/troncales-del-magdalena-se-acercan-al-50-de-ejecucion-tras-dos-anos-de-obras/",
+        "resumen": "Contempla la construcción de 9 variantes, que contribuirán a mejorar la movilidad, fortalecer la seguridad vial y facilitar la conexión entre los municipios.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Troncales del Magdalena se acercan al 50 % de ejecución tras dos años de obras",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Fondos de pensiones: ¿invertir más en el exterior puede mejorar la rentabilidad de su ahorro?",
+        "url": "https://www.valoraanalitik.com/fondos-de-pensiones-invertir-mas-en-el-exterior-puede-mejorar-la-rentabilidad-de-su-ahorro/",
+        "resumen": "Los fondos de pensiones tendrán mayor margen para diversificar sus inversiones; expertos explican qué puede cambiar para el ahorro de los afiliados.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Fondos de pensiones: ¿invertir más en el exterior puede mejorar la rentabilidad de su ahorro?",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "La inflación básica en Colombia se desacelera en septiembre y da un respiro al mercado",
+        "url": "https://www.valoraanalitik.com/inflaciones-basicas-en-colombia-se-moderan-en-septiembre-y-dan-un-respiro-al-mercado/",
+        "resumen": "Las inflaciones básicas o subyacentes, que calcula el Banco de la República, registraron una moderación generalizada tras el alza observada en el mes anterior.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Inflaciones básicas en Colombia se moderan en septiembre y dan un respiro al mercado",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
       {
         "titulo": "Tasa de cambio del dólar cae y finaliza en $3.217 en sesión con poca actividad",
         "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-y-cierra-en-3-217-en-una-jornada-de-bajo-volumen/",
@@ -523,89 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Bre-B supera a PIX y se consolida como el sistema de pagos instantáneos de mayor adopción en la región",
         "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Entrevista | Unergy proyecta más de 200 minigranjas al 2028; inversiones rondarán US$200 millones",
-        "url": "https://www.valoraanalitik.com/unergy-espera-tener-mas-de-200-minigranjas-para-2028-las-inversiones-estarian-en-cerca-de-us200-millones/",
-        "resumen": "Eduardo Ospina, cofundador y CEO de Unergy, expresó que la empresa tiene activos en La Guajira, Santander, Cundinamarca, entre otros departamentos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Unergy espera tener más de 200 minigranjas para 2028; las inversiones estarían en cerca de US$200 millones",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Subsidio de hasta $122 millones para edificar casa en terreno propio: así se puede postular",
-        "url": "https://www.valoraanalitik.com/subsidio-de-hasta-122-millones-para-construir-vivienda-en-lote-propio-asi-puede-acceder/",
-        "resumen": "Este subsidio está dirigido a hogares que cuentan con un terreno y buscan convertirlo en una vivienda nueva. Así se puede utilizar.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Subsidio de hasta $122 millones para construir vivienda en lote propio: así puede acceder",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella usará un nuevo método con las EPS para suministrar fármacos en Colombia",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-aplicara-nuevo-mecanismo-con-las-eps-para-la-entrega-de-medicamentos-en-colombia/",
-        "resumen": "El Ministerio de Salud liderará soluciones financieras para garantizar la entrega de medicamentos a los usuarios de las EPS.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella aplicará nuevo mecanismo con las EPS para la entrega de medicamentos en Colombia",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio cae en el país a la espera de cifra inflacionaria y cita de De la Espriella con el FMI",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sigue-a-la-baja-a-la-espera-de-dato-de-inflacion-y-reunion-del-gobierno-de-la-espriella-con-el-fmi/",
-        "resumen": "Esto es lo que mueve a la baja al dólar en Colombia en el inicio de sesiones del 6 de octubre.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia sigue a la baja a la espera de dato de inflación y reunión del gobierno De la Espriella con el FMI",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Este habría sido el comportamiento de la inflación en el país en septiembre de 2027",
-        "url": "https://www.valoraanalitik.com/asi-le-habria-ido-a-la-inflacion-en-colombia-durante-septiembre-de-2027/",
-        "resumen": "La inflación en Colombia sigue al alza y se espera termine muy cerca del 7 % al cierre de este año",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Así le habría ido a la inflación en Colombia durante septiembre de 2027",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Camila Vásquez es designada nueva Chief Financial Officer del Banco Santander Colombia",
-        "url": "https://www.valoraanalitik.com/banco-santander-colombia-nombra-a-camila-vasquez-como-nueva-chief-financial-officer/",
-        "resumen": "Camila Vásquez cuenta con una trayectoria de más de 20 años de experiencia en el sector financiero.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Banco Santander Colombia nombra a Camila Vásquez como nueva Chief Financial Officer",
-        "capturado": "2026-10-06T01:45:29-05:00"
-      },
-      {
-        "titulo": "Gabriel Sánchez Olea toma la gerencia general del Movistar Arena luego de la salida de Luis Guillermo Quintero",
-        "url": "https://www.valoraanalitik.com/relevo-en-movistar-arena-gabriel-sanchez-olea-asume-la-gerencia-general-tras-la-salida-de-luis-guillermo-quintero/",
-        "resumen": "Gabriel Sánchez Olea se desempeñaba como director de Estrategia de BeatHub Entertainment, firma accionista de CDE.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Relevo en Movistar Arena: Gabriel Sánchez Olea asume la gerencia general tras la salida de Luis Guillermo Quintero",
-        "capturado": "2026-10-06T01:45:29-05:00"
-      },
-      {
-        "titulo": "Luis Guillermo Quintero toma la dirección general de Procafecol, operadora de Juan Valdez",
-        "url": "https://www.valoraanalitik.com/luis-guillermo-quintero-asume-la-gerencia-general-de-procafecol-administradora-de-juan-valdez/",
-        "resumen": "El nuevo directivo es administrador de empresas de la Universidad EAFIT y especialista en mercadeo estratégico del CESA.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Luis Guillermo Quintero asume la gerencia general de Procafecol, administradora de Juan Valdez",
-        "capturado": "2026-10-06T01:45:29-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Sacyr proyecta asegurar recursos del Canal del Dique en diciembre y empezar trabajos en 2027",
+        "url": "https://www.valoraanalitik.com/canal-del-dique-obras-comenzarian-en-2027/",
+        "resumen": "El proyecto contempla 40 meses de trabajos y la generación de cerca de 60.000 empleos en 18 municipios de Atlántico, Bolívar y Sucre.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Sacyr prevé cerrar financiación del Canal del Dique en diciembre y arrancar obras en 2027",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Cesar registra auge solar y los recursos superarían los US$500 millones",
+        "url": "https://www.valoraanalitik.com/cesar-vive-un-boom-de-proyectos-solares-inversiones-podrian-superar-los-us500-millones/",
+        "resumen": "SER Colombia reveló que este departamento colombiano es el segundo más importante para la generación solar, tan solo detrás de Atlántico.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Cesar vive un ‘boom’ de proyectos solares: inversiones podrían superar los US$500 millones",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Nueva alianza de Bon Bon Bum y J Balvin busca exportar 55 millones de dulces a 15 naciones",
+        "url": "https://www.valoraanalitik.com/nueva-colaboracion-entre-bon-bon-bum-y-j-balvin-proyecta-llevar-55-millones-de-bombones-a-15-paises/",
+        "resumen": "Bon Bon Bum concentra el 78 % de participación de mercado y una distribución superior al 80 % del territorio colombiano.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Nueva colaboración entre Bon Bon Bum y J Balvin proyecta llevar 55 millones de bombones a 15 países",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Comestibles Ricos, fabricante de Todo Rico, Tajamiel y Súper Ricas, llega a 65 años y planea expansión",
+        "url": "https://www.valoraanalitik.com/comestibles-ricos-que-tiene-marcas-como-todo-rico-tajamiel-y-super-ricas-cumple-65-anos-y-prepara-su-expansion-esta-es-su-nueva-apuesta/",
+        "resumen": "Comestibles Ricos celebra 65 años mientras ajusta su estrategia para crecer en Colombia y fortalecer sus exportaciones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Comestibles Ricos, que tiene marcas como Todo Rico, Tajamiel y Súper Ricas, cumple 65 años y prepara su expansión: esta es su nueva apuesta",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Aspectos esenciales del informe mensual de factura electrónica de la DIAN: qué verificar",
+        "url": "https://www.valoraanalitik.com/claves-del-reporte-mensual-de-facturacion-electronica-que-envia-la-dian-que-se-debe-revisar/",
+        "resumen": "De acuerdo con Saphety, el reporte presenta información tanto de los documentos electrónicos generados como de aquellos recibidos por el facturador.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Claves del reporte mensual de facturación electrónica que envía la DIAN: ¿qué se debe revisar?",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
+      {
+        "titulo": "Las Troncales del Magdalena llegan a casi el 50 por ciento de avance luego de dos años de trabajos",
+        "url": "https://www.valoraanalitik.com/troncales-del-magdalena-se-acercan-al-50-de-ejecucion-tras-dos-anos-de-obras/",
+        "resumen": "Contempla la construcción de 9 variantes, que contribuirán a mejorar la movilidad, fortalecer la seguridad vial y facilitar la conexión entre los municipios.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Troncales del Magdalena se acercan al 50 % de ejecución tras dos años de obras",
+        "capturado": "2026-10-08T18:52:00-05:00"
+      },
       {
         "titulo": "Edgard Nunes asume la gerencia general del clúster ANCAC en el Grupo Servier",
         "url": "https://www.valoraanalitik.com/edgard-nunes-llega-a-la-gerencia-general-del-cluster-ancac/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Solo 0,9 % de las bodegas en Bogotá y la Sabana está disponible mientras arriendos suben 17 %",
         "capturado": "2026-10-04T14:30:21-05:00"
-      },
-      {
-        "titulo": "Sector plástico busca alzar ventas más de 5 % en 2027 y subir ventas externas",
-        "url": "https://www.valoraanalitik.com/entrevista-industria-plastica-apunta-a-crecer-mas-de-5-en-2027-y-elevar-exportaciones-anticipa-comportamiento-y-revela-desafios/",
-        "resumen": "El presidente Ejecutivo del gremio resaltó que es un sector que enfrenta condiciones importantes para su competitividad.",
-        "autor": "",
-        "subseccion": "Valorasostenible",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Industria plástica apunta a crecer más de 5 % en 2027 y elevar exportaciones: anticipa comportamiento y revela desafíos",
-        "capturado": "2026-10-04T14:30:21-05:00"
-      },
-      {
-        "titulo": "Prosegur incursiona en el mercado de seguros con plan para sumar servicios",
-        "url": "https://www.valoraanalitik.com/prosegur-apuesta-por-el-mercado-de-seguros/",
-        "resumen": "A través de una nueva unidad busca complementar su oferta con pólizas diseñadas para sus clientes.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Prosegur apuesta por el mercado de seguros: esta es su estrategia para complementar sus servicios",
-        "capturado": "2026-10-04T14:30:21-05:00"
-      },
-      {
-        "titulo": "Por compras mínimas de apps como Temu y Shein, el país dejaría de recaudar casi un billón en IVA",
-        "url": "https://www.valoraanalitik.com/colombia-iva-importaciones-temu-shein/",
-        "resumen": "La Cámara de Comercio Electrónico pide revisar la interpretación del TLC con Estados Unidos que permite el ingreso sin IVA de paquetes inferiores a US$200.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia estaría dejando de percibir cerca de $1 billón en IVA por importaciones de bajo monto, como Temu y Shein",
-        "capturado": "2026-10-04T10:56:41-05:00"
-      },
-      {
-        "titulo": "Nicky Jam y Grupo Argos regalarán 100 casas para levantar Caldas y la Gobernación pondrá la obra",
-        "url": "https://www.valoraanalitik.com/grupo-argos-y-nicky-jam-donaran-100-viviendas-para-la-reconstruccion-de-caldas-gobernacion-aportara-la-mano-de-obra/",
-        "resumen": "Adopta un Hogar comprometió 1.000 viviendas para familias afectadas por el terremoto del 10 de agosto. Ya entregó las dos primeras casas en Chocó y Antioquia.",
-        "autor": "",
-        "subseccion": "Adopta un hogar",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos y Nicky Jam donarán 100 viviendas para la reconstrucción de Caldas: Gobernación aportará la mano de obra",
-        "capturado": "2026-10-04T10:56:41-05:00"
-      },
-      {
-        "titulo": "Colgas y socios conectan gas domiciliario a casi 1.000 clientes en Tierralta para reducir brecha energética",
-        "url": "https://www.valoraanalitik.com/colgas-y-aliados-llevan-gas-por-red-a-cerca-de-1-000-usuarios-en-tierralta-cordoba-buscan-cerrar-brecha-energetica/",
-        "resumen": "La red funciona con gas natural sintético (GNS), una mezcla de propano y aire que se comporta como el gas natural.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colgas y aliados llevan gas por red a cerca de 1.000 usuarios en Tierralta, Córdoba: buscan cerrar brecha energética",
-        "capturado": "2026-10-03T18:41:05-05:00"
-      },
-      {
-        "titulo": "BMW lanza en Colombia un auto eléctrico con autonomía para ir y volver entre Bogotá y Medellín: costo y detalles",
-        "url": "https://www.valoraanalitik.com/bmw-estrena-nuevo-carro-electrico-en-colombia-que-puede-ir-y-volver-de-bogota-a-medellin-con-una-sola-carga-precio-y-caracteristicas/",
-        "resumen": "BMW lanzó en Colombia un nuevo eléctrico con autonomía para viajes largos, en un mercado que acelera sus ventas y enfrenta el reto de ampliar la carga.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "BMW estrena carro eléctrico en Colombia que puede ir y volver de Bogotá a Medellín con una sola carga: precio y características",
-        "capturado": "2026-10-03T18:41:05-05:00"
       }
     ]
   }
