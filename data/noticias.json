@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-08T00:32:08-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-08T08:09:45-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Grandes compañías muestran interés en adquirir la Regasificadora del Pacífico frente a una eventual venta",
+        "url": "https://www.valoraanalitik.com/poderosas-empresas-ya-estan-interesadas-en-comprar-la-regasificadora-del-pacifico-ante-posible-venta-del-proyecto/",
+        "resumen": "Fuentes con conocimiento del tema la dijeron a este medio que el negocio ya está siendo analizado por una fila de compradores de primer nivel.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Poderosas empresas ya están interesadas en comprar la Regasificadora del Pacífico ante posible venta del proyecto",
+        "capturado": "2026-10-08T08:09:45-05:00"
+      },
+      {
+        "titulo": "Solicitan modificación inmediata para incrementar la edad de jubilación en Colombia",
+        "url": "https://www.valoraanalitik.com/cuanto-deberia-subir-la-edad-de-pension-en-colombia-piden-ajuste-urgente/",
+        "resumen": "La edad de pensión en Colombia deberá cambiar en los próximos años, alertan expertos locales.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "¿Cuánto debería subir la edad de pensión en Colombia?: Piden ajuste urgente",
+        "capturado": "2026-10-08T08:09:45-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella se opone a nueva tarifa por tonelada establecida en el Puerto de Buenaventura",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-rechaza-nuevo-cobro-por-tonelada-decretado-en-el-puerto-de-buenaventura/",
+        "resumen": "La medida para el Puerto de Buenaventura también fue rechazada por algunos gremios del país.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella rechaza nuevo cobro por tonelada decretado en el Puerto de Buenaventura",
+        "capturado": "2026-10-08T08:09:45-05:00"
+      },
+      {
+        "titulo": "Premercado | Mercados globales descienden debido a temores inflacionarios, deuda estadounidense y petróleo caro",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-mundiales-caen-por-riesgos-de-inflacion-bonos-de-ee-uu-y-elevados-precios-del-petroleo/",
+        "resumen": "La mayoría de los responsables de la política monetaria de la FED consideran probable otra subida de los tipos de interés antes de que acabe el año.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas mundiales caen por riesgos de inflación, bonos de EE. UU. y elevados precios del petróleo",
+        "capturado": "2026-10-08T08:09:45-05:00"
+      },
+      {
+        "titulo": "Enel junto a Krelo Energy encabezan las iniciativas solares de mayor magnitud en Cesar",
+        "url": "https://www.valoraanalitik.com/enel-y-krelo-energy-son-las-companias-que-lideran-los-proyectos-mas-grandes-de-energia-solar-en-cesar/",
+        "resumen": "El departamento tiene 443 megavatios de capacidad instalada en 53 proyectos que ya entregan energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Enel y Krelo Energy son las compañías que lideran los proyectos más grandes de energía solar en Cesar",
+        "capturado": "2026-10-08T08:09:45-05:00"
+      },
       {
         "titulo": "Habrá cierres viales por fracciones en Las Areneras debido a trabajos en la Autopista Conexión Pacífico 1",
         "url": "https://www.valoraanalitik.com/anuncian-cierres-viales-intermitentes-en-las-areneras-por-obras-de-la-autopista-conexion-pacifico-1/",
@@ -553,59 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "CARF: Colombia requiere medidas correctivas urgentes para garantizar la estabilidad económica a largo plazo",
         "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Factura eléctrica podría elevarse más de $50.000 por efecto climático: estas familias sufrirían más",
-        "url": "https://www.valoraanalitik.com/recibo-de-luz-podria-subir-mas-de-50-000-por-el-fenomeno-de-el-nino-estos-hogares-serian-los-mas-afectados/",
-        "resumen": "Un nuevo estudio advierte cuánto podría aumentar el recibo de luz si el fenómeno de El Niño eleva las tarifas y el consumo de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Recibo de luz podría subir más de $50.000 por el fenómeno de El Niño: estos hogares serían los más afectados",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Cerca del 40 % del gas que consume Colombia es importado, al tiempo que el GLP avanza",
-        "url": "https://www.valoraanalitik.com/colombia-importa-casi-40-del-gas-para-abastecer-su-propia-demanda-mientras-el-glp-gana-terreno/",
-        "resumen": "GasPaís expresó que el mercado debe estar diversificado y que la actual coyuntura del gas permite que haya más fuentes de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia importa casi 40 % del gas para abastecer su propia demanda, mientras el GLP gana terreno",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar en Colombia cae por debajo de los $3.200 tras alta venta de divisas",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-rompe-el-piso-de-los-3-200-tras-una-jornada-de-fuerte-oferta-de-divisas/",
-        "resumen": "La divisa estadounidense abrió en $3.250, que marcó a su vez el precio máximo. A partir de allí, una firme e intensa presión vendedora dominó el mercado.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia rompe el piso de los $3.200 tras una jornada de fuerte oferta de divisas",
-        "capturado": "2026-10-05T19:15:13-05:00"
-      },
-      {
-        "titulo": "Cajas de compensación colombianas: sismos, medidas de control y expansión de afiliados",
-        "url": "https://www.valoraanalitik.com/cajas-de-compensacion-asocajas-revela-sus-retos-en-subsidios-vivienda-y-supervision/",
-        "resumen": "Adriana Guillén, presidenta de Asocajas, habló de los retos del sistema, la focalización de ayudas, la vivienda social y la reconstrucción tras el terremoto.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cajas de compensación en Colombia: entre intervenciones, efectos del terremoto y mayor cobertura",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Ejecutivo avanza en retirar subsidio al diésel a vehículos particulares, oficiales y diplomáticos",
-        "url": "https://www.valoraanalitik.com/gobierno-da-pasos-en-eliminar-subsidio-al-diesel-para-camionetas-carros-oficiales-y-diplomaticos/",
-        "resumen": "La medida no está en vigencia, pero ya fue revisada por la Superintendencia de Industria y Comercio, que brindó recomendaciones al Gobierno.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno da pasos en eliminar subsidio al diésel para camionetas, carros oficiales y diplomáticos",
-        "capturado": "2026-10-05T13:11:56-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Grandes firmas muestran interés en adquirir la Regasificadora del Pacífico frente a una eventual venta",
+        "url": "https://www.valoraanalitik.com/poderosas-empresas-ya-estan-interesadas-en-comprar-la-regasificadora-del-pacifico-ante-posible-venta-del-proyecto/",
+        "resumen": "Fuentes con conocimiento del tema la dijeron a este medio que el negocio ya está siendo analizado por una fila de compradores de primer nivel.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Poderosas empresas ya están interesadas en comprar la Regasificadora del Pacífico ante posible venta del proyecto",
+        "capturado": "2026-10-08T08:09:45-05:00"
+      },
+      {
+        "titulo": "Enel y Krelo Energy encabezan las iniciativas fotovoltaicas de mayor envergadura en el departamento del Cesar",
+        "url": "https://www.valoraanalitik.com/enel-y-krelo-energy-son-las-companias-que-lideran-los-proyectos-mas-grandes-de-energia-solar-en-cesar/",
+        "resumen": "El departamento tiene 443 megavatios de capacidad instalada en 53 proyectos que ya entregan energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Enel y Krelo Energy son las compañías que lideran los proyectos más grandes de energía solar en Cesar",
+        "capturado": "2026-10-08T08:09:45-05:00"
+      },
       {
         "titulo": "Mike Bahía y Greeicy incursionan en la industria alimentaria con un emprendimiento presente en 193 municipios",
         "url": "https://www.valoraanalitik.com/mike-bahia-y-greeicy-debutan-como-empresarios-de-alimentos-asi-es-su-negocio/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Vicepresidente Restrepo y empresarios ponen sobre la mesa aplicar el Día sin IVA en el Valle del Cauca",
-        "capturado": "2026-10-02T20:49:26-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda designó a Jaime Vives como el nuevo presidente de Coljuegos",
-        "url": "https://www.valoraanalitik.com/el-ministerio-de-hacienda-presento-a-jaime-vives-como-nuevo-presidente-de-coljuegos/",
-        "resumen": "Esta organización es clave para brindar recursos al sistema de salud colombiano, y a su vez, está adscrita al Ministerio de Hacienda.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "El Ministerio de Hacienda presentó a Jaime Vives como nuevo presidente de Coljuegos",
-        "capturado": "2026-10-02T20:49:26-05:00"
-      },
-      {
-        "titulo": "Oracle designó a Juan Carlos Vega como nuevo gerente en Colombia, Centroamérica y el Caribe",
-        "url": "https://www.valoraanalitik.com/oracle-nombro-a-juan-carlos-vega-como-nuevo-gerente-para-colombia-centroamerica-y-el-caribe/",
-        "resumen": "Entre sus prioridades estarán la inteligencia artificial, infraestructura de nube y ciberseguridad.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Oracle nombró a Juan Carlos Vega como nuevo gerente para Colombia, Centroamérica y el Caribe",
         "capturado": "2026-10-02T20:49:26-05:00"
       }
     ]
