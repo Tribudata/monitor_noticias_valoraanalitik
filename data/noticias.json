@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-07T18:31:01-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-10-08T00:32:08-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Habrá cierres viales por fracciones en Las Areneras debido a trabajos en la Autopista Conexión Pacífico 1",
+        "url": "https://www.valoraanalitik.com/anuncian-cierres-viales-intermitentes-en-las-areneras-por-obras-de-la-autopista-conexion-pacifico-1/",
+        "resumen": "La Concesionaria Vial del Pacífico (Covipacífico) aplicará restricciones controladas del tránsito en la jurisdicción de Amagá para avanzar en obras.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Anuncian cierres viales intermitentes en Las Areneras por obras de la Autopista Conexión Pacífico 1",
+        "capturado": "2026-10-08T00:32:08-05:00"
+      },
+      {
+        "titulo": "Crédito Público avaló créditos por 497 millones de euros para Colombia desde la Comisión Interparlamentaria",
+        "url": "https://www.valoraanalitik.com/comision-interparlamentaria-de-credito-publico-aprobo-creditos-para-colombia-por-497-millones-de-euros/",
+        "resumen": "Las operaciones de crédito contribuirán a financiar el Presupuesto General de la Nación de 2026.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Comisión Interparlamentaria de Crédito Público aprobó préstamos para Colombia por 497 millones de euros",
+        "capturado": "2026-10-08T00:32:08-05:00"
+      },
+      {
+        "titulo": "Fedesarrollo le dio al Gobierno De la Espriella la guía 2026-2030 con propuesta de ocho reformas estructurales",
+        "url": "https://www.valoraanalitik.com/fedesarrollo-entrego-al-gobierno-de-la-espriella-la-hoja-de-ruta-2026-2030-sugiere-ocho-reformas-estructurales/",
+        "resumen": "El centro de pensamiento presentó al vicepresidente José Manuel Restrepo un paquete de recomendaciones técnicas.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Fedesarrollo entregó al Gobierno De la Espriella la hoja de ruta 2026-2030: sugiere ocho reformas estructurales",
+        "capturado": "2026-10-08T00:32:08-05:00"
+      },
+      {
+        "titulo": "Ampliación | El costo de vida en Colombia creció en septiembre, pero siguió en las proyecciones del mercado",
+        "url": "https://www.valoraanalitik.com/ampliacion-inflacion-en-colombia-volvio-a-acelerarse-a-septiembre-pero-se-mantuvo-dentro-de-expectativas-del-mercado/",
+        "resumen": "La cifra oficial del DANE confirmó que la presión sobre los precios se mantuvo dentro de lo previsto por el consenso financiero.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Ampliación | Inflación en Colombia volvió a acelerarse a septiembre, pero se mantuvo dentro de expectativas del mercado",
+        "capturado": "2026-10-08T00:32:08-05:00"
+      },
       {
         "titulo": "Gobierno intenta destrabar iniciativas energéticas en La Guajira por US$2.500 millones",
         "url": "https://www.valoraanalitik.com/gobierno-busca-destrabar-proyectos-de-energia-en-la-guajira-que-llegarian-a-us2-500-millones/",
@@ -562,46 +602,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Gobierno da pasos en eliminar subsidio al diésel para camionetas, carros oficiales y diplomáticos",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Plazo límite ante la DIAN para solicitar la devolución del IVA de automotores híbridos y eléctricos",
-        "url": "https://www.valoraanalitik.com/devolucion-del-iva-de-carros-hibridos-y-electricos-este-es-el-plazo-maximo-para-pedir-el-dinero-a-la-dian/",
-        "resumen": "La devolución del IVA de carros híbridos y eléctricos tiene una fecha clave que los compradores deben revisar antes de iniciar el trámite ante la DIAN.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "Devolución del IVA de carros híbridos y eléctricos: este es el plazo máximo para pedir el dinero a la DIAN",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Colombia, con baja participación femenina en lista Merco y sin repunte desde 2019",
-        "url": "https://www.valoraanalitik.com/colombia-entre-los-paises-con-menor-presencia-de-mujeres-en-ranking-merco/",
-        "resumen": "Colombia pasó de tener una mujer en el Top 10 de Merco Líderes en 2019 a contar con dos en 2025.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia, entre los países con menor presencia de mujeres en ranking Merco: crecimiento sigue estancado desde 2019",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Alza en ventas externas de petróleo, minerales y combustibles impulsó exportaciones en agosto",
-        "url": "https://www.valoraanalitik.com/mayores-ventas-de-combustibles-petroleo-y-minerales-aumentaron-exportaciones-de-colombia-en-agosto/",
-        "resumen": "En el total entre enero y agosto de 2026, las exportaciones ascendieron a US$36.880,7 millones FOB.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Mayores ventas de combustibles, petróleo y minerales aumentaron exportaciones de Colombia en agosto",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Destacada cadena veterinaria destinará $6.000 millones para abrir sucursales en Colombia y Antioquia destacará",
-        "url": "https://www.valoraanalitik.com/importante-red-veterinaria-invertira-6-000-millones-para-abrir-nuevas-sedes-en-colombia-antioquia-sera-clave/",
-        "resumen": "El mercado de mascotas gana espacio en los hogares colombianos y una reconocida red veterinaria prepara nuevas aperturas para ampliar su cobertura.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Importante red veterinaria invertirá $6.000 millones para abrir nuevas sedes en Colombia: Antioquia será clave",
         "capturado": "2026-10-05T13:11:56-05:00"
       }
     ],
