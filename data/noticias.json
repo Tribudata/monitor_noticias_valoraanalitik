@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-08T18:52:00-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-10-09T00:35:40-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno da inicio formal a diálogos para el retorno de Mazda al país",
+        "url": "https://www.valoraanalitik.com/gobierno-inicia-oficialmente-conversaciones-para-el-regreso-de-mazda-a-colombia/",
+        "resumen": "El MinComercio y ProColombia sostuvieron un encuentro con la multinacional japonesa para evaluar la instalación de una planta de ensamblaje.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno inicia oficialmente conversaciones para el regreso de Mazda a Colombia",
+        "capturado": "2026-10-09T00:35:40-05:00"
+      },
+      {
+        "titulo": "MinInterior anuncia que el Ejecutivo suscribirá un nuevo estatuto de protesta",
+        "url": "https://www.valoraanalitik.com/gobierno-firmara-nuevo-estatuto-para-enfrentar-protestas-sociales-en-colombia-mininterior-revela-detalles/",
+        "resumen": "El nuevo decreto fija cinco niveles de actuación policial y establece causales objetivas para agotar el diálogo.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno firmará nuevo estatuto para manejar protestas sociales en Colombia: MinInterior revela detalles",
+        "capturado": "2026-10-09T00:35:40-05:00"
+      },
+      {
+        "titulo": "Alerta por posible encarecimiento de la energía y el mercado debido a El Niño",
+        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-podria-encarecer-el-mercado-y-los-recibos-de-energia-alerta-por-el-bolsillo-de-los-colombianos/",
+        "resumen": "El fenómeno de El Niño podría encarecer alimentos y servicios públicos en Colombia, con efectos que llegarían al costo de vida y las tasas de interés.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Fenómeno de El Niño podría encarecer el mercado y los recibos de energía: alerta por el bolsillo de los colombianos",
+        "capturado": "2026-10-09T00:35:40-05:00"
+      },
       {
         "titulo": "Sacyr proyecta asegurar recursos del Canal del Dique en diciembre y empezar trabajos en 2027",
         "url": "https://www.valoraanalitik.com/canal-del-dique-obras-comenzarian-en-2027/",
@@ -573,39 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Homecenter adquiere participación mayoritaria en Sumatec y avanza en su estrategia de crecimiento en Colombia",
         "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Allianz prefiere acciones sobre renta fija y halla alternativas ajenas a las grandes tecnológicas",
-        "url": "https://www.valoraanalitik.com/allianz-atractivo-acciones-oportunidades-ia/",
-        "resumen": "La firma mantiene una visión favorable sobre la renta variable y destaca el potencial de compañías pequeñas, China y los mercados emergentes.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Allianz ve más atractivo en acciones que en renta fija y encuentra oportunidades fuera de las grandes tecnológicas",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Aumentan los tipos de interés en Colombia, no obstante dichos préstamos abarataron su costo",
-        "url": "https://www.valoraanalitik.com/tasas-de-interes-suben-en-colombia-pero-estos-creditos-se-hicieron-mas-baratos/",
-        "resumen": "Mientras el Banco de la República elevó las tasas de interés, un estudio encontró un comportamiento distinto en ciertos créditos.",
-        "autor": "",
-        "subseccion": "Tasas de interes en colombia",
-        "publicacion": "",
-        "titulo_fuente": "Tasas de interés suben en Colombia, pero estos créditos se hicieron más baratos",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Bre-B supera a PIX y se afianza como la red de pagos inmediatos con mayor adopción regional",
-        "url": "https://www.valoraanalitik.com/bre-b-supera-a-pix-en-adopcion-tras-su-primer-ano/",
-        "resumen": "El sistema colombiano ya llega al 83 % de los adultos del país tras un año de operación y suma 36 millones de usuarios activos.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Bre-B supera a PIX y se consolida como el sistema de pagos instantáneos de mayor adopción en la región",
-        "capturado": "2026-10-06T14:44:53-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El Gobierno abre de forma oficial diálogos con miras al retorno de Mazda al país",
+        "url": "https://www.valoraanalitik.com/gobierno-inicia-oficialmente-conversaciones-para-el-regreso-de-mazda-a-colombia/",
+        "resumen": "El MinComercio y ProColombia sostuvieron un encuentro con la multinacional japonesa para evaluar la instalación de una planta de ensamblaje.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno inicia oficialmente conversaciones para el regreso de Mazda a Colombia",
+        "capturado": "2026-10-09T00:35:40-05:00"
+      },
+      {
+        "titulo": "Diner en Blanc Cartagena prevé congregar a mil personas con un costo de producción de $650 millones",
+        "url": "https://www.valoraanalitik.com/diner-en-blanc-cartagena-espera-reunir-a-1-000-asistentes-inversion-en-produccion-asciende-a-650-millones/",
+        "resumen": "Se estima que el 60 % de los asistentes serán foráneos, entre nacionales y extranjeros.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Diner en Blanc Cartagena espera reunir a 1.000 asistentes: inversión en producción asciende a $650 millones",
+        "capturado": "2026-10-09T00:35:40-05:00"
+      },
       {
         "titulo": "Sacyr proyecta asegurar recursos del Canal del Dique en diciembre y empezar trabajos en 2027",
         "url": "https://www.valoraanalitik.com/canal-del-dique-obras-comenzarian-en-2027/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "UPC, deudas, regulación y sostenibilidad fiscal son los puntos clave en salud: Fedesarrollo",
         "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "La soya sostenible adquiere relevancia en la cría de pollo, cerdo y pescado en Latinoamérica",
-        "url": "https://www.valoraanalitik.com/la-soya-sostenible-gana-protagonismo-en-la-produccion-de-pollo-cerdo-y-pescado-en-latinoamerica/",
-        "resumen": "La soya sostenible se considera como un insumo estratégico para las industrias avícola, porcícola y acuícola de Latinoamérica.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "La soya sostenible gana protagonismo en la producción de pollo, cerdo y pescado en Latinoamérica",
-        "capturado": "2026-10-05T13:11:56-05:00"
-      },
-      {
-        "titulo": "Apenas 0,9 % de bodegas en Bogotá y Sabana está libre a la vez que arriendos trepan 17 %",
-        "url": "https://www.valoraanalitik.com/bodegas-bogota-2026-arriendos-vacancia/",
-        "resumen": "Cushman & Wakefield reporta que las empresas arriendan bodegas antes de su entrega. Hay unos 146.000 m² en obra y más de 1,3 millones en proyecto.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Solo 0,9 % de las bodegas en Bogotá y la Sabana está disponible mientras arriendos suben 17 %",
-        "capturado": "2026-10-04T14:30:21-05:00"
       }
     ]
   }
