@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-09T00:35:40-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-09T07:56:25-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El costo de la luz impulsó el grupo energético dentro del IPC de septiembre",
+        "url": "https://www.valoraanalitik.com/la-electricidad-fue-la-que-jalo-al-alza-la-canasta-energetica-en-la-inflacion-de-septiembre/",
+        "resumen": "Esto se produce en un contexto en el que Colombia atraviesa un fenómeno de El Niño y registra una creciente importación de gas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "La electricidad fue la que jaló al alza la canasta energética en la inflación de septiembre",
+        "capturado": "2026-10-09T07:56:25-05:00"
+      },
+      {
+        "titulo": "Premercado | Bolsas repuntan por proyecciones de OpenAI y baja petrolera por dichos de Trump",
+        "url": "https://www.valoraanalitik.com/premercado-mercados-se-recuperan-tras-perspectivas-de-ingresos-de-openai-y-caida-del-petroleo-por-anuncios-de-trump/",
+        "resumen": "Trump afirmó que EE. UU. no atacaría a Irán «en ningún momento» antes de las próximas elecciones de mitad de mandato.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Mercados se recuperan tras perspectivas de ingresos de OpenAI y caída del petróleo por anuncios de Trump",
+        "capturado": "2026-10-09T07:56:25-05:00"
+      },
+      {
+        "titulo": "Sondeo Atlas Intel en Brasil: Bolsonaro aventaja a Lula y estira distancia para el balotaje",
+        "url": "https://www.valoraanalitik.com/encuesta-atlas-intel-elecciones-brasil-bolsonaro-supera-a-lula-y-amplia-ventaja-para-segunda-vuelta-presidencial/",
+        "resumen": "La más reciente encuesta de Atlas Intel para Bloomberg, realizada entre el 3 y el 8 de octubre muestra así una diferencia de 5,4 puntos porcentuales.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Encuesta Atlas Intel elecciones Brasil: Bolsonaro supera a Lula y amplía ventaja para segunda vuelta presidencial",
+        "capturado": "2026-10-09T07:56:25-05:00"
+      },
+      {
+        "titulo": "Estudio advierte que fijar el mínimo en Colombia exigirá considerar cuatro factores más",
+        "url": "https://www.valoraanalitik.com/nuevo-analisis-alerta-que-la-definicion-del-salario-minimo-en-colombia-debera-tener-en-cuenta-otras-cuatro-variables/",
+        "resumen": "ANIF dio a conocer algunos puntos determinantes para la discusión del salario mínimo en Colombia.",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo análisis alerta que la definición del salario mínimo en Colombia deberá tener en cuenta otras cuatro variables",
+        "capturado": "2026-10-09T07:56:25-05:00"
+      },
       {
         "titulo": "Gobierno da inicio formal a diálogos para el retorno de Mazda al país",
         "url": "https://www.valoraanalitik.com/gobierno-inicia-oficialmente-conversaciones-para-el-regreso-de-mazda-a-colombia/",
@@ -563,46 +603,6 @@
         "publicacion": "",
         "titulo_fuente": "Dato clave para la inflación en Colombia volvió a terreno positivo: Precios del productor subieron en septiembre",
         "capturado": "2026-10-06T18:41:37-05:00"
-      },
-      {
-        "titulo": "Para Citi, el arribo de Gutiérrez a Ecopetrol es desperdiciar una ocasión y resalta fracking y Venezuela",
-        "url": "https://www.valoraanalitik.com/citi-califica-de-oportunidad-perdida-la-llegada-de-gutierrez-a-ecopetrol-destaca-fracking-y-posible-negocio-en-venezuela/",
-        "resumen": "Para la organización, Ecopetrol oportunidades en Venezuela, a pesar de las sanciones norteamericanas.",
-        "autor": "",
-        "subseccion": "Acciones ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Citi califica de «oportunidad perdida» la llegada de Gutiérrez a Ecopetrol; destaca fracking y posible negocio en Venezuela",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Sentencia precisa en qué momento el arriendo de canchas de fútbol tributa en Bogotá",
-        "url": "https://www.valoraanalitik.com/fallo-clave-aclara-cuando-el-alquiler-de-canchas-de-futbol-debe-pagar-impuesto-en-bogota/",
-        "resumen": "El alquiler de canchas de fútbol llegó a los tribunales por una discusión sobre el impuesto que deben pagar estos negocios en Bogotá.",
-        "autor": "",
-        "subseccion": "Impuestos",
-        "publicacion": "",
-        "titulo_fuente": "Fallo clave aclara cuándo el alquiler de canchas de fútbol debe pagar impuesto en Bogotá",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Aumento de compradores elevó la cotización del dólar en el país hasta un pico de 3244 pesos",
-        "url": "https://www.valoraanalitik.com/entrada-masiva-de-compradores-impulso-el-precio-del-dolar-en-colombia-a-un-maximo-de-3-244/",
-        "resumen": "La divisa arrancó con sesgo bajista en $3.176 y descendió rápidamente hasta marcar un piso intradiario de $3.172.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Entrada masiva de compradores impulsó el precio del dólar en Colombia a un máximo de $3.244",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Homecenter compra el control accionario de Sumatec y progresa en su expansión por Colombia",
-        "url": "https://www.valoraanalitik.com/homecenter-adquiere-mayoria-sumatec/",
-        "resumen": "La operación combina la compra de acciones a Grupotec, accionista de Sumatec, con un aporte de capital directo a la compañía.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Homecenter adquiere participación mayoritaria en Sumatec y avanza en su estrategia de crecimiento en Colombia",
-        "capturado": "2026-10-06T14:44:53-05:00"
       }
     ],
     "Empresariales": [
