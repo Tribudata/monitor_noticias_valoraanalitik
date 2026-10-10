@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-10T14:54:57-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-10T18:22:20-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Copa Airlines ofrece reembolsos y modificaciones sin costo a viajeros por sismo en Panamá y detalla condiciones",
+        "url": "https://www.valoraanalitik.com/copa-airlines-anuncia-cambios-gratis-y-reembolsos-para-pasajeros-afectados-por-terremoto-en-panama-estos-son-los-requisitos/",
+        "resumen": "La aerolínea amplió su política de flexibilidad para permitir que los viajeros afectados puedan cambiar sus planes.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Copa Airlines anuncia cambios gratis y reembolsos para pasajeros afectados por terremoto en Panamá: estos son los requisitos",
+        "capturado": "2026-10-10T18:22:20-05:00"
+      },
+      {
+        "titulo": "Factores detrás de la caída del comercio en Colombia durante julio a su mínimo en dos años",
+        "url": "https://www.valoraanalitik.com/por-que-se-freno-el-comercio-en-colombia-en-julio-estos-factores-llevaron-las-ventas-a-su-nivel-mas-bajo-en-dos-anos/",
+        "resumen": "Un informe del Banco de Bogotá revela una marcada desaceleración en las ventas minoristas y lo atribuye a cuatro factores.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "¿Por qué se frenó el comercio en Colombia en julio? Estos factores llevaron las ventas a su nivel más bajo en dos años",
+        "capturado": "2026-10-10T18:22:20-05:00"
+      },
+      {
+        "titulo": "Licencia ambiental para la megaobra de rescate de El Laguito en Cartagena dada por Gobierno De La Espriella",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-aprueba-licencia-ambiental-de-megaobra-para-recuperar-el-laguito-en-cartagena/",
+        "resumen": "La iniciativa busca mejorar las condiciones ambientales de El Laguito, un ecosistema que mantiene una conexión con el mar Caribe.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella aprueba licencia ambiental de megaobra para recuperar El Laguito en Cartagena",
+        "capturado": "2026-10-10T18:22:20-05:00"
+      },
       {
         "titulo": "Banco Serfinanza otorgará préstamos a artesanos para impulsar y consolidar sus emprendimientos",
         "url": "https://www.valoraanalitik.com/serfinanza-financiara-artesanos-negocios/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella rechaza nuevo cobro por tonelada decretado en el Puerto de Buenaventura",
         "capturado": "2026-10-08T08:09:45-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados globales descienden debido a temores inflacionarios, deuda estadounidense y petróleo caro",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-mundiales-caen-por-riesgos-de-inflacion-bonos-de-ee-uu-y-elevados-precios-del-petroleo/",
-        "resumen": "La mayoría de los responsables de la política monetaria de la FED consideran probable otra subida de los tipos de interés antes de que acabe el año.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas mundiales caen por riesgos de inflación, bonos de EE. UU. y elevados precios del petróleo",
-        "capturado": "2026-10-08T08:09:45-05:00"
-      },
-      {
-        "titulo": "Enel junto a Krelo Energy encabezan las iniciativas solares de mayor magnitud en Cesar",
-        "url": "https://www.valoraanalitik.com/enel-y-krelo-energy-son-las-companias-que-lideran-los-proyectos-mas-grandes-de-energia-solar-en-cesar/",
-        "resumen": "El departamento tiene 443 megavatios de capacidad instalada en 53 proyectos que ya entregan energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Enel y Krelo Energy son las compañías que lideran los proyectos más grandes de energía solar en Cesar",
-        "capturado": "2026-10-08T08:09:45-05:00"
-      },
-      {
-        "titulo": "Habrá cierres viales por fracciones en Las Areneras debido a trabajos en la Autopista Conexión Pacífico 1",
-        "url": "https://www.valoraanalitik.com/anuncian-cierres-viales-intermitentes-en-las-areneras-por-obras-de-la-autopista-conexion-pacifico-1/",
-        "resumen": "La Concesionaria Vial del Pacífico (Covipacífico) aplicará restricciones controladas del tránsito en la jurisdicción de Amagá para avanzar en obras.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Anuncian cierres viales intermitentes en Las Areneras por obras de la Autopista Conexión Pacífico 1",
-        "capturado": "2026-10-08T00:32:08-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Scania resalta el progreso femenino en la movilidad al cumplirse una década de Queen On The Road",
+        "url": "https://www.valoraanalitik.com/scania-destaca-el-avance-de-las-mujeres-en-el-transporte-tras-10-anos-de-queen-on-the-road/",
+        "resumen": "Patrícia Acioli cuenta cómo nació Queen On The Road, el programa que impulsa a las mujeres en el sector de transporte.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Scania destaca el avance de las mujeres en el transporte tras 10 años de Queen On The Road",
+        "capturado": "2026-10-10T18:22:20-05:00"
+      },
       {
         "titulo": "Banco Serfinanza otorgará préstamos a artesanos para impulsar el desarrollo de sus empresas",
         "url": "https://www.valoraanalitik.com/serfinanza-financiara-artesanos-negocios/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | Unergy espera tener más de 200 minigranjas para 2028; las inversiones estarían en cerca de US$200 millones",
         "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Gobierno de la Espriella expone estrategia para agilizar consultas previas con digitalización, control y cierre",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-presenta-plan-de-destrabe-para-consultas-previas-digitalizacion-control-y-cierre-de-decisiones-seran-clave/",
-        "resumen": "El ministro del Interior dijo manifestó que hay una falta de sistematización de este proceso, que es clave para que avancen los proyectos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno de la Espriella presenta “plan de destrabe” para consultas previas: digitalización, control y cierre de decisiones serán clave",
-        "capturado": "2026-10-06T09:03:27-05:00"
       }
     ]
   }
