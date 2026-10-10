@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-10T10:47:51-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-10T14:54:57-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Banco Serfinanza otorgará préstamos a artesanos para impulsar y consolidar sus emprendimientos",
+        "url": "https://www.valoraanalitik.com/serfinanza-financiara-artesanos-negocios/",
+        "resumen": "La alianza con las primeras damas del país incluye formación financiera y acompañamiento de necesidades de capital de trabajo.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Banco Serfinanza financiará artesanos con créditos para el fortalecimiento de sus negocios",
+        "capturado": "2026-10-10T14:54:57-05:00"
+      },
+      {
+        "titulo": "Entrevista | Renault-Sofasa proyecta máximo histórico en matriculas de automotores para 2026",
+        "url": "https://www.valoraanalitik.com/entrevista-renault-sofasa-ventas-2026/",
+        "resumen": "Juan Camilo Vélez, presidente de la compañía, habla de las exportaciones desde Envigado, el pedido de 23.000 Kwid de México y la apuesta por Venezuela.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Renault-Sofasa prevé cifra récord en carros vendidos en Colombia para este 2026",
+        "capturado": "2026-10-10T14:54:57-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella definió futuro de salario mínimo de 2 millones y aguarda fallo del Consejo de Estado",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-definio-que-pasara-con-salario-minimo-de-2-millones-se-espera-decision-importante-del-consejo-de-estado/",
+        "resumen": "En medio de la expectativa que hay por el salario mínimo, el Gobierno De la Espriella tomó postura sobre los valores establecidos en el decreto vigente.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella definió qué pasará con salario mínimo de $2 millones: Se espera decisión importante del Consejo de Estado",
+        "capturado": "2026-10-10T14:54:57-05:00"
+      },
+      {
+        "titulo": "Sismo en Panamá: Reporte registra más de 400 edificaciones dañadas sin víctimas fatales confirmadas",
+        "url": "https://www.valoraanalitik.com/terremoto-en-panama-balance-deja-mas-de-400-edificios-afectados-no-se-reportan-victimas-mortales/",
+        "resumen": "Autoridades en Panamá informaron que el sismo ocasionó daños materiales en viviendas, instituciones educativas, hospitales, edificios y otras infraestructuras.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Terremoto en Panamá: Balance deja más de 400 edificios afectados; no se reportan víctimas mortales",
+        "capturado": "2026-10-10T14:54:57-05:00"
+      },
+      {
+        "titulo": "Entrevista | AKT anuncia dos novedades comerciales y proyecta superar las 220000 unidades colocadas en 2026",
+        "url": "https://www.valoraanalitik.com/entrevista-akt-revela-dos-nuevos-lanzamientos-para-los-proximos-meses-espera-superar-las-220-000-unidades-vendidas-en-2026/",
+        "resumen": "AKT pasó de ensamblar cerca de 50 motos al mes a producir alrededor de 21.000 mensuales.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | AKT revela dos nuevos lanzamientos para los próximos meses: espera superar las 220.000 unidades vendidas en 2026",
+        "capturado": "2026-10-10T14:54:57-05:00"
+      },
       {
         "titulo": "Gobierno De La Espriella prepara decreto clave que eliminaría tardanzas en megaproyectos del país",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-decreto-clave-que-quitaria-demoras-en-megaproyectos-del-pais/",
@@ -553,59 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Anuncian cierres viales intermitentes en Las Areneras por obras de la Autopista Conexión Pacífico 1",
         "capturado": "2026-10-08T00:32:08-05:00"
-      },
-      {
-        "titulo": "Crédito Público avaló créditos por 497 millones de euros para Colombia desde la Comisión Interparlamentaria",
-        "url": "https://www.valoraanalitik.com/comision-interparlamentaria-de-credito-publico-aprobo-creditos-para-colombia-por-497-millones-de-euros/",
-        "resumen": "Las operaciones de crédito contribuirán a financiar el Presupuesto General de la Nación de 2026.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Comisión Interparlamentaria de Crédito Público aprobó préstamos para Colombia por 497 millones de euros",
-        "capturado": "2026-10-08T00:32:08-05:00"
-      },
-      {
-        "titulo": "Fedesarrollo le dio al Gobierno De la Espriella la guía 2026-2030 con propuesta de ocho reformas estructurales",
-        "url": "https://www.valoraanalitik.com/fedesarrollo-entrego-al-gobierno-de-la-espriella-la-hoja-de-ruta-2026-2030-sugiere-ocho-reformas-estructurales/",
-        "resumen": "El centro de pensamiento presentó al vicepresidente José Manuel Restrepo un paquete de recomendaciones técnicas.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Fedesarrollo entregó al Gobierno De la Espriella la hoja de ruta 2026-2030: sugiere ocho reformas estructurales",
-        "capturado": "2026-10-08T00:32:08-05:00"
-      },
-      {
-        "titulo": "Ampliación | El costo de vida en Colombia creció en septiembre, pero siguió en las proyecciones del mercado",
-        "url": "https://www.valoraanalitik.com/ampliacion-inflacion-en-colombia-volvio-a-acelerarse-a-septiembre-pero-se-mantuvo-dentro-de-expectativas-del-mercado/",
-        "resumen": "La cifra oficial del DANE confirmó que la presión sobre los precios se mantuvo dentro de lo previsto por el consenso financiero.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Ampliación | Inflación en Colombia volvió a acelerarse a septiembre, pero se mantuvo dentro de expectativas del mercado",
-        "capturado": "2026-10-08T00:32:08-05:00"
-      },
-      {
-        "titulo": "Gobierno intenta destrabar iniciativas energéticas en La Guajira por US$2.500 millones",
-        "url": "https://www.valoraanalitik.com/gobierno-busca-destrabar-proyectos-de-energia-en-la-guajira-que-llegarian-a-us2-500-millones/",
-        "resumen": "El funcionario se reunió con varios miembros del sector energético y la ministra de Minas y Energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno busca destrabar proyectos de energía en La Guajira que llegarían a US$2.500 millones",
-        "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Vía al Llano: conozca los motivos de las fallas que persisten en esta gran obra",
-        "url": "https://www.valoraanalitik.com/via-al-llano-estas-son-las-razones-detras-de-los-problemas-que-siguen-afectando-este-megaproyecto/",
-        "resumen": "Alberto Mariño Samper, presidente de Proindesa, explica a Valora Analitik, uno de los grandes retos de la concesión de la vía al Llano.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Vía al Llano: estas son las razones detrás de los problemas que siguen afectando este megaproyecto",
-        "capturado": "2026-10-07T18:31:01-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Banco Serfinanza otorgará préstamos a artesanos para impulsar el desarrollo de sus empresas",
+        "url": "https://www.valoraanalitik.com/serfinanza-financiara-artesanos-negocios/",
+        "resumen": "La alianza con las primeras damas del país incluye formación financiera y acompañamiento de necesidades de capital de trabajo.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Banco Serfinanza financiará artesanos con créditos para el fortalecimiento de sus negocios",
+        "capturado": "2026-10-10T14:54:57-05:00"
+      },
+      {
+        "titulo": "Entrevista | AKT anuncia dos novedades para los meses venideros y prevé vender más de 220000 unidades en 2026",
+        "url": "https://www.valoraanalitik.com/entrevista-akt-revela-dos-nuevos-lanzamientos-para-los-proximos-meses-espera-superar-las-220-000-unidades-vendidas-en-2026/",
+        "resumen": "AKT pasó de ensamblar cerca de 50 motos al mes a producir alrededor de 21.000 mensuales.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | AKT revela dos nuevos lanzamientos para los próximos meses: espera superar las 220.000 unidades vendidas en 2026",
+        "capturado": "2026-10-10T14:54:57-05:00"
+      },
       {
         "titulo": "Entrevista | Más colombianos adquieren proyectos en Miami no solo como inversión",
         "url": "https://www.valoraanalitik.com/entrevista-cada-vez-mas-colombianos-le-apuestan-a-comprar-proyectos-en-miami-ya-no-buscan-solo-inversion/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno de la Espriella presenta “plan de destrabe” para consultas previas: digitalización, control y cierre de decisiones serán clave",
         "capturado": "2026-10-06T09:03:27-05:00"
-      },
-      {
-        "titulo": "Camila Vásquez es la nueva directora financiera del Banco Santander Colombia",
-        "url": "https://www.valoraanalitik.com/banco-santander-colombia-nombra-a-camila-vasquez-como-nueva-chief-financial-officer/",
-        "resumen": "Camila Vásquez cuenta con una trayectoria de más de 20 años de experiencia en el sector financiero.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Banco Santander Colombia nombra a Camila Vásquez como nueva Chief Financial Officer",
-        "capturado": "2026-10-06T01:45:29-05:00"
-      },
-      {
-        "titulo": "Gabriel Sánchez Olea toma la gerencia general del Movistar Arena tras la salida de Luis Guillermo Quintero",
-        "url": "https://www.valoraanalitik.com/relevo-en-movistar-arena-gabriel-sanchez-olea-asume-la-gerencia-general-tras-la-salida-de-luis-guillermo-quintero/",
-        "resumen": "Gabriel Sánchez Olea se desempeñaba como director de Estrategia de BeatHub Entertainment, firma accionista de CDE.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Relevo en Movistar Arena: Gabriel Sánchez Olea asume la gerencia general tras la salida de Luis Guillermo Quintero",
-        "capturado": "2026-10-06T01:45:29-05:00"
       }
     ]
   }
