@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-09T18:07:00-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-10-09T21:36:59-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gilinski amarra acuerdo por 25 años para explotar el campo petrolero Bare en Venezuela",
+        "url": "https://www.valoraanalitik.com/gilinski-asegura-contrato-de-25-anos-para-operar-el-yacimiento-petrolero-bare-en-venezuela/",
+        "resumen": "El magnate colombiano obtuvo la concesión de crudo pesado en la Faja del Orinoco y acordó cederla a GeoPark.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Gilinski asegura contrato de 25 años para operar el yacimiento petrolero Bare en Venezuela",
+        "capturado": "2026-10-09T21:36:59-05:00"
+      },
+      {
+        "titulo": "Terminal aérea de Tocumen retoma actividades tras temblor de magnitud 7,7 en Panamá",
+        "url": "https://www.valoraanalitik.com/aeropuerto-internacional-de-tocumen-reanuda-operaciones-tras-sismo-de-magnitud-77-en-panama/",
+        "resumen": "La principal terminal aérea del país restableció sus vuelos, mientras el Canal de Panamá mantiene el tránsito de buques con normalidad.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Aeropuerto Internacional de Tocumen reanuda operaciones tras sismo de magnitud 7,7 en Panamá",
+        "capturado": "2026-10-09T21:36:59-05:00"
+      },
+      {
+        "titulo": "PIB de Colombia frenaría en el tercer trimestre de 2026 al 21 por ciento según NowCast Bancolombia",
+        "url": "https://www.valoraanalitik.com/economia-colombiana-pierde-traccion-en-el-tercer-trimestre-de-2026-nowcast-bancolombia-proyecta-un-pib-de-21/",
+        "resumen": "La tendencia de corto plazo del indicador NowCast de Bancolombia sugiere que la economía ha perdido tracción.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Economía colombiana pierde tracción en el tercer trimestre de 2026: NowCast Bancolombia proyecta un PIB de 2,1 %",
+        "capturado": "2026-10-09T21:36:59-05:00"
+      },
       {
         "titulo": "OxoHotel arranca expansión internacional hacia Perú e inaugurará Hilton Garden Inn en Pereira",
         "url": "https://www.valoraanalitik.com/cadena-hotelera-colombiana-oxohotel-inicia-expansion-en-peru-y-abrira-hilton-garden-inn-en-pereira/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Javier Díaz sale de la presidencia de Analdex por jubilación; Santiago Pardo Salguero asumirá el liderazgo",
         "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Fechas y descuentos disponibles para los compradores en el Hot Sale 2026",
-        "url": "https://www.valoraanalitik.com/hot-sale-2026-estas-son-las-fechas-y-ofertas-que-podran-encontrar-los-compradores/",
-        "resumen": "El Hot Sale 2026 reunirá a comercios de varias categorías y tendrá una nueva modalidad de ofertas para los compradores en Colombia.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Hot Sale 2026: estas son las fechas y ofertas que podrán encontrar los compradores",
-        "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia detiene su tendencia al alza y se ubica en $3.239 a la espera de inflación",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-frena-su-racha-alcista-y-se-estabiliza-en-3-239-a-la-espera-del-dato-de-inflacion/",
-        "resumen": "La divisa abrió prácticamente plana en $3.240 y descendió en la primera parte del día hasta un mínimo intradiario de $3.215,25.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia frena su racha alcista y se estabiliza en $3.239 a la espera del dato de inflación",
-        "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Nuevo gravamen a transportadores portuarios en Buenaventura preocupa a gremios por alzas",
-        "url": "https://www.valoraanalitik.com/buenaventura-impone-nuevo-cobro-a-transportadores-que-entren-y-salgan-a-puertos/",
-        "resumen": "Defencarga estima que la tarifa de $4.235 por tonelada representaría un impacto cercano a $7.000 millones mensuales para el sector.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Buenaventura impone nuevo cobro a transportadores que entren y salgan a puertos; gremios alertan por mayores costos",
-        "capturado": "2026-10-07T18:31:01-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Gilinski firma acuerdo por veinticinco años para administrar el campo petrolero Bare en Venezuela",
+        "url": "https://www.valoraanalitik.com/gilinski-asegura-contrato-de-25-anos-para-operar-el-yacimiento-petrolero-bare-en-venezuela/",
+        "resumen": "El magnate colombiano obtuvo la concesión de crudo pesado en la Faja del Orinoco y acordó cederla a GeoPark.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Gilinski asegura contrato de 25 años para operar el yacimiento petrolero Bare en Venezuela",
+        "capturado": "2026-10-09T21:36:59-05:00"
+      },
       {
         "titulo": "Pepsi y Gatorlit concurrirán al Festival EDC en Medellín con dinámicas y vivencias para el público",
         "url": "https://www.valoraanalitik.com/pepsi-y-gatorlit-estaran-en-el-festival-edc-en-medellin-con-experiencias-y-dinamicas-para-los-asistentes/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "La ANDI alista comité de sucesión tras la salida de Bruce Mac Master de la presidencia del gremio",
         "capturado": "2026-10-06T01:45:29-05:00"
-      },
-      {
-        "titulo": "Sempli ofrece créditos hasta por $300 millones por compañía para proyectos de energía solar",
-        "url": "https://www.valoraanalitik.com/sempli-lanza-linea-de-credito-de-hasta-300-millones-por-empresa-para-financiar-energia-solar/",
-        "resumen": "La alianza con Ímpetu Energía y EnerBit busca financiar proyectos solares en más de 5.000 pymes durante los próximos cinco años.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Sempli lanza línea de crédito de hasta $300 millones por empresa para financiar energía solar",
-        "capturado": "2026-10-05T19:15:13-05:00"
       }
     ]
   }
