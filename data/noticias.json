@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-10T04:38:01-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-10T10:47:51-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De La Espriella prepara decreto clave que eliminaría tardanzas en megaproyectos del país",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-decreto-clave-que-quitaria-demoras-en-megaproyectos-del-pais/",
+        "resumen": "El decreto tiene como objetivo hacer una unificación clave. Según MinInterior, esto aceleraría los procesos para ejecutar los megaproyectos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella alista decreto clave que quitaría demoras en megaproyectos del país",
+        "capturado": "2026-10-10T10:47:51-05:00"
+      },
+      {
+        "titulo": "Entrevista | Creciente número de colombianos compra proyectos en Miami buscando más que inversión",
+        "url": "https://www.valoraanalitik.com/entrevista-cada-vez-mas-colombianos-le-apuestan-a-comprar-proyectos-en-miami-ya-no-buscan-solo-inversion/",
+        "resumen": "Peggy Olin, CEO de OneWorld Properties, explica en entrevista con Valora Analitik cómo está cambiando el perfil del comprador colombiano en Miami.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Cada vez más colombianos le apuestan a comprar proyectos en Miami: ya no buscan solo inversión",
+        "capturado": "2026-10-10T10:47:51-05:00"
+      },
+      {
+        "titulo": "Primicia | Mineras en Colombia duplicarán producción en 2027 proyectando auge de iniciativas",
+        "url": "https://www.valoraanalitik.com/empresas-mineras-en-colombia-duplicaran-su-produccion-en-2027-se-espera-boom-de-proyectos/",
+        "resumen": "Juan Camilo Valencia, presidente de la Agencia Nacional de Minería, señaló que Colombia tiene un enorme potencial en oro.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Empresas mineras en Colombia duplicarán su producción en 2027: se espera ‘boom’ de proyectos",
+        "capturado": "2026-10-10T10:47:51-05:00"
+      },
       {
         "titulo": "Gilinski amarra acuerdo por 25 años para explotar el campo petrolero Bare en Venezuela",
         "url": "https://www.valoraanalitik.com/gilinski-asegura-contrato-de-25-anos-para-operar-el-yacimiento-petrolero-bare-en-venezuela/",
@@ -573,39 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Vía al Llano: estas son las razones detrás de los problemas que siguen afectando este megaproyecto",
         "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Entrevista | Roche invierte más de $16.200 millones en innovación local y prevé alza en ventas para 2026",
-        "url": "https://www.valoraanalitik.com/roche-innovacion-colombia-ventas-2026/",
-        "resumen": "La compañía, que cumplirá 70 años de operación en el país, avanza en investigación clínica; espera mayor agilidad regulatoria para ampliar su portafolio.",
-        "autor": "",
-        "subseccion": "Reforma a la salud colombia",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Roche destina más de $16.200 millones en innovación en Colombia; espera aumentar ventas en 2026",
-        "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado frena decreto que habilitaba la formación de megasindicatos en el país",
-        "url": "https://www.valoraanalitik.com/consejo-de-estado-suspende-decreto-que-permitia-crear-megasindicatos/",
-        "resumen": "La decisión es provisional y se tomó ante la posible falta de sustento legal para que el Gobierno definiera las reglas del modelo.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Consejo de Estado suspende decreto que permitía crear megasindicatos en Colombia",
-        "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Santiago Pardo Salguero reemplazará a Javier Díaz en la presidencia de Analdex tras su retiro",
-        "url": "https://www.valoraanalitik.com/javier-diaz-sale-de-la-presidencia-de-analdex-por-jubilacion-santiago-pardo-salguero-asumira-el-liderazgo/",
-        "resumen": "Su retiro obedece a una decisión personal concertada para disfrutar de su jubilación, la cual se había postergado durante algunos años.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Javier Díaz sale de la presidencia de Analdex por jubilación; Santiago Pardo Salguero asumirá el liderazgo",
-        "capturado": "2026-10-07T18:31:01-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | Más colombianos adquieren proyectos en Miami no solo como inversión",
+        "url": "https://www.valoraanalitik.com/entrevista-cada-vez-mas-colombianos-le-apuestan-a-comprar-proyectos-en-miami-ya-no-buscan-solo-inversion/",
+        "resumen": "Peggy Olin, CEO de OneWorld Properties, explica en entrevista con Valora Analitik cómo está cambiando el perfil del comprador colombiano en Miami.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Cada vez más colombianos le apuestan a comprar proyectos en Miami: ya no buscan solo inversión",
+        "capturado": "2026-10-10T10:47:51-05:00"
+      },
+      {
+        "titulo": "Primicia | Mineras en Colombia doblarán su producción en 2027 ante auge de obras",
+        "url": "https://www.valoraanalitik.com/empresas-mineras-en-colombia-duplicaran-su-produccion-en-2027-se-espera-boom-de-proyectos/",
+        "resumen": "Juan Camilo Valencia, presidente de la Agencia Nacional de Minería, señaló que Colombia tiene un enorme potencial en oro.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Empresas mineras en Colombia duplicarán su producción en 2027: se espera ‘boom’ de proyectos",
+        "capturado": "2026-10-10T10:47:51-05:00"
+      },
       {
         "titulo": "Gilinski firma acuerdo por veinticinco años para administrar el campo petrolero Bare en Venezuela",
         "url": "https://www.valoraanalitik.com/gilinski-asegura-contrato-de-25-anos-para-operar-el-yacimiento-petrolero-bare-en-venezuela/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Nombramientos",
         "publicacion": "",
         "titulo_fuente": "Relevo en Movistar Arena: Gabriel Sánchez Olea asume la gerencia general tras la salida de Luis Guillermo Quintero",
-        "capturado": "2026-10-06T01:45:29-05:00"
-      },
-      {
-        "titulo": "Luis Guillermo Quintero toma la gerencia general de Procafecol, operadora de Juan Valdez",
-        "url": "https://www.valoraanalitik.com/luis-guillermo-quintero-asume-la-gerencia-general-de-procafecol-administradora-de-juan-valdez/",
-        "resumen": "El nuevo directivo es administrador de empresas de la Universidad EAFIT y especialista en mercadeo estratégico del CESA.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Luis Guillermo Quintero asume la gerencia general de Procafecol, administradora de Juan Valdez",
-        "capturado": "2026-10-06T01:45:29-05:00"
-      },
-      {
-        "titulo": "La ANDI prepara comité de sucesión tras la salida de Bruce Mac Master de la presidencia",
-        "url": "https://www.valoraanalitik.com/la-andi-alista-comite-de-sucesion-tras-la-salida-de-bruce-mac-master-de-la-presidencia-del-gremio/",
-        "resumen": "El consejo directivo conformará un comité especial que asumirá la tarea de liderar la búsqueda del sucesor del presidente saliente.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "La ANDI alista comité de sucesión tras la salida de Bruce Mac Master de la presidencia del gremio",
         "capturado": "2026-10-06T01:45:29-05:00"
       }
     ]
