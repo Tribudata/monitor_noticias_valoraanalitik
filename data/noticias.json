@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-11T15:06:06-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-11T18:52:16-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De La Espriella informa vía para sur de Bolívar y obra entra en etapa crucial",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-conexion-vial-para-el-sur-de-bolivar-proyecto-avanzara-en-fase-clave/",
+        "resumen": "Esta intervención busca contribuir a las condiciones de seguridad en el sur del departamento.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella anuncia conexión vial para el sur de Bolívar: Proyecto avanzará en fase clave",
+        "capturado": "2026-10-11T18:52:16-05:00"
+      },
+      {
+        "titulo": "Colombia figura entre las naciones menos favorables para el retiro y este es su puesto global",
+        "url": "https://www.valoraanalitik.com/colombia-entre-los-peores-paises-para-pensionarse-este-es-el-lugar-que-ocupa-en-el-mundo/",
+        "resumen": "El ranking mundial evaluó las condiciones para pensionarse en 44 países y dejó a Colombia entre los últimos, pese a una leve mejora frente a 2025.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Colombia, entre los peores países para pensionarse: este es el lugar que ocupa en el mundo",
+        "capturado": "2026-10-11T18:52:16-05:00"
+      },
       {
         "titulo": "Lluvias provocan deslizamientos que bloquean la circulación en dos vías principales del Valle del Cauca",
         "url": "https://www.valoraanalitik.com/derrumbes-afectan-la-movilidad-en-dos-autopistas-del-valle-del-cauca-por-las-lluvias/",
@@ -582,26 +602,6 @@
         "subseccion": "Salario minimo",
         "publicacion": "",
         "titulo_fuente": "Fenalco pidió anular el aumento del 23 % del salario mínimo en Colombia del 2026: ¿qué pasaría con los salarios ya pagados?",
-        "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "De la Espriella intensifica vigilancia en contratos y fondos estatales hoy",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-refuerza-control-sobre-contratos-estatales-y-recursos-publicos-estas-son-las-nuevas-medidas/",
-        "resumen": "Los supervisores deberán comprobar que las obligaciones y actividades contratadas realmente se hayan ejecutado y contar con evidencia verificable.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella refuerza control sobre contratos estatales y recursos públicos: estas son las nuevas medidas",
-        "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Nueva obra unirá a Bogotá y Soacha para reducir congestión",
-        "url": "https://www.valoraanalitik.com/bogota-y-soacha-tendran-nueva-conexion-asi-es-el-megaproyecto-que-busca-aliviar-los-trancones/",
-        "resumen": "Bogotá y Soacha avanzan en una nueva obra de movilidad que busca ofrecer una alternativa para miles de viajeros del sur de la región.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá y Soacha tendrán nueva conexión: así es el megaproyecto que busca aliviar los trancones",
         "capturado": "2026-10-08T14:22:17-05:00"
       }
     ],
