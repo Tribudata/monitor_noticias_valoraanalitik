@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-11T10:54:05-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-11T15:06:06-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Lluvias provocan deslizamientos que bloquean la circulación en dos vías principales del Valle del Cauca",
+        "url": "https://www.valoraanalitik.com/derrumbes-afectan-la-movilidad-en-dos-autopistas-del-valle-del-cauca-por-las-lluvias/",
+        "resumen": "La concesión Unión Vial Camino del Pacífico, responsable de la operación de este corredor, desarrolla labores de limpieza y remoción del material.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Derrumbes afectan la movilidad en dos autopistas del Valle del Cauca por las lluvias",
+        "capturado": "2026-10-11T15:06:06-05:00"
+      },
+      {
+        "titulo": "Proyecciones sobre el dólar a fin de 2026 oscilan entre apreciación y riesgos fiscales",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-llegaria-a-4-000-a-finales-de-2026-proyecciones-se-mueven-entre-el-alivio-de-la-apreciacion-y-la-sombra-fiscal/",
+        "resumen": "Los principales bancos de inversión y encuestas del mercado ajustaron sus proyecciones para la tasa de cambio en Colombia al cierre de 2026.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "¿Dólar en Colombia llegaría a $4.000 a finales de 2026? Proyecciones se mueven entre el alivio de la apreciación y la sombra fiscal",
+        "capturado": "2026-10-11T15:06:06-05:00"
+      },
+      {
+        "titulo": "Trump informa de un eventual pacto entre Rusia y Ucrania en área estratégica",
+        "url": "https://www.valoraanalitik.com/se-acerca-el-fin-de-la-guerra-trump-anuncia-un-posible-acuerdo-entre-rusia-y-ucrania-en-sector-clave/",
+        "resumen": "El mandatario aseguró que ambos países alcanzaron un entendimiento para suspender las hostilidades en esta área.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "¿Se acerca el fin de la guerra? Trump anuncia un posible acuerdo entre Rusia y Ucrania en sector clave",
+        "capturado": "2026-10-11T15:06:06-05:00"
+      },
+      {
+        "titulo": "Entrevista | BBVA Global Wealth Colombia señala que la planeación patrimonial inicia en la vida laboral",
+        "url": "https://www.valoraanalitik.com/gestion-patrimonial-bbva-colombia/",
+        "resumen": "BBVA Colombia ve mayor interés entre sus clientes premium por diversificar inversiones entre países, monedas y activos.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Gestión y planificación patrimonial deben comenzar con la vida profesional: BBVA Global Wealth Colombia",
+        "capturado": "2026-10-11T15:06:06-05:00"
+      },
       {
         "titulo": "Aumenta la comercialización de vehículos eléctricos e híbridos en el país: Tesla y Toyota están al frente",
         "url": "https://www.valoraanalitik.com/se-dispara-la-venta-de-carros-electricos-e-hibridos-en-colombia-tesla-y-toyota-lideran-estos-mercados/",
@@ -563,49 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Bogotá y Soacha tendrán nueva conexión: así es el megaproyecto que busca aliviar los trancones",
         "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Gobierno anula controvertido decreto de Petro de bonos de carbono y prepara nueva norma",
-        "url": "https://www.valoraanalitik.com/gobierno-deroga-polemico-decreto-de-petro-sobre-mercados-de-carbono/",
-        "resumen": "La decisión deja sin efecto los cambios al mercado de carbono y obliga al Gobierno a iniciar un nuevo proceso regulatorio con participación de los sectores.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno deroga polémico decreto de Petro sobre mercados de carbono y alista nueva reglamentación",
-        "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Corte Constitucional anula las Asociaciones Público - Populares hechas por el Gobierno Petro",
-        "url": "https://www.valoraanalitik.com/corte-constitucional-tumba-las-asociaciones-publico-populares-creadas-durante-el-gobierno-petro/",
-        "resumen": "La Corte consideró que los artículos 100 y 101 regulaban aspectos esenciales de la contratación estatal que deben estar definidos por el Congreso.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Corte Constitucional tumba las Asociaciones Público – Populares creadas durante el Gobierno Petro",
-        "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Altia adquiere cinco iniciativas renovables de Isagen en Colombia para crecer en energía solar",
-        "url": "https://www.valoraanalitik.com/altia-le-compra-a-isagen-cinco-proyectos-renovables-en-colombia-busca-expandirse-en-energia-solar/",
-        "resumen": "La adquisición suma 219 megavatios de capacidad renovable, de los cuales 119 corresponden a generación hídrica y 100 a generación solar.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Altia le compra a Isagen cinco proyectos renovables en Colombia; busca expandirse en energía solar",
-        "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia inicia al alza en $3.241,50 por crudo, tensiones geopolíticas y alta inflación",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-al-alza-en-3-24150-impulsado-por-petroleo-tensiones-geopoliticas-y-mayor-inflacion/",
-        "resumen": "El comportamiento de la divisa se da en medio de un sentimiento global negativo y presiones cruzadas en los mercados financieros.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre al alza en $3.241,50 impulsado por petróleo, tensiones geopolíticas y mayor inflación",
-        "capturado": "2026-10-08T14:22:17-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Metro de Medellín comunica servicio especial en EDC y Festival Altavoz con ampliación en su horario",
+        "url": "https://www.valoraanalitik.com/metro-de-medellin-anuncia-operacion-especial-durante-el-edc-y-festival-altavoz-asi-sera-la-extension-de-horario/",
+        "resumen": "El Metro de Medellín implementará una operación especial los días domingo 11 y lunes 12 de octubre.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Metro de Medellín anuncia operación especial durante el EDC y Festival Altavoz: así será la extensión de horario",
+        "capturado": "2026-10-11T15:06:06-05:00"
+      },
       {
         "titulo": "Este es el top 10 de iniciativas fotovoltaicas mayores en Colombia; Enel e Isagen encabezan el ranking",
         "url": "https://www.valoraanalitik.com/estos-son-los-10-proyectos-de-energia-solar-mas-grandes-de-colombia-enel-e-isagen-lideran-el-listado/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "La estrategia que deja J.P. Morgan en el LinkU Capital Summit para invertir mejor: separar liquidez, riesgo y objetivos",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Bre-B supera a PIX y se afianza como la red de pagos inmediatos con más adopción regional",
-        "url": "https://www.valoraanalitik.com/bre-b-supera-a-pix-en-adopcion-tras-su-primer-ano/",
-        "resumen": "El sistema colombiano ya llega al 83 % de los adultos del país tras un año de operación y suma 36 millones de usuarios activos.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Bre-B supera a PIX y se consolida como el sistema de pagos instantáneos de mayor adopción en la región",
         "capturado": "2026-10-06T14:44:53-05:00"
       }
     ]
