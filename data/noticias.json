@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-11T04:12:41-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-11T10:54:05-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Aumenta la comercialización de vehículos eléctricos e híbridos en el país: Tesla y Toyota están al frente",
+        "url": "https://www.valoraanalitik.com/se-dispara-la-venta-de-carros-electricos-e-hibridos-en-colombia-tesla-y-toyota-lideran-estos-mercados/",
+        "resumen": "Septiembre de este 2026 registró el máximo histórico en ventas de carros eléctricos e híbridos con un margen diferencial bastante amplio.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Se dispara la venta de carros eléctricos e híbridos en Colombia: Tesla y Toyota lideran estos mercados",
+        "capturado": "2026-10-11T10:54:05-05:00"
+      },
+      {
+        "titulo": "Puerto Aguadulce en Buenaventura recibe las grúas de mayor tamaño del país para recibir megabuques",
+        "url": "https://www.valoraanalitik.com/puerto-agua-dulce-buenaventura-2026/",
+        "resumen": "Su gerente, Álvaro Otero, dice que Buenaventura necesita dragar el canal de acceso y mejorar las vías. La terminal prevé invertir US$250 millones más.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Las grúas más grandes de Colombia están en Buenaventura: así se prepara Puerto Aguadulce para los megabuques",
+        "capturado": "2026-10-11T10:54:05-05:00"
+      },
+      {
+        "titulo": "Este es el ranking de las 10 mayores iniciativas solares del país; Enel e Isagen encabezan el registro",
+        "url": "https://www.valoraanalitik.com/estos-son-los-10-proyectos-de-energia-solar-mas-grandes-de-colombia-enel-e-isagen-lideran-el-listado/",
+        "resumen": "Las zonas en las que se concentran las grandes iniciativas son Atlántico, Cundinamarca, Tolima, Cesar, Magdalena, Córdoba y Caldas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los 10 proyectos de energía solar más grandes de Colombia; Enel e Isagen lideran el listado",
+        "capturado": "2026-10-11T10:54:05-05:00"
+      },
       {
         "titulo": "Copa Airlines ofrece reembolsos y modificaciones sin costo a viajeros por sismo en Panamá y detalla condiciones",
         "url": "https://www.valoraanalitik.com/copa-airlines-anuncia-cambios-gratis-y-reembolsos-para-pasajeros-afectados-por-terremoto-en-panama-estos-son-los-requisitos/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Dólar en Colombia abre al alza en $3.241,50 impulsado por petróleo, tensiones geopolíticas y mayor inflación",
         "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Grandes compañías muestran interés en adquirir la Regasificadora del Pacífico frente a una eventual venta",
-        "url": "https://www.valoraanalitik.com/poderosas-empresas-ya-estan-interesadas-en-comprar-la-regasificadora-del-pacifico-ante-posible-venta-del-proyecto/",
-        "resumen": "Fuentes con conocimiento del tema la dijeron a este medio que el negocio ya está siendo analizado por una fila de compradores de primer nivel.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Poderosas empresas ya están interesadas en comprar la Regasificadora del Pacífico ante posible venta del proyecto",
-        "capturado": "2026-10-08T08:09:45-05:00"
-      },
-      {
-        "titulo": "Solicitan modificación inmediata para incrementar la edad de jubilación en Colombia",
-        "url": "https://www.valoraanalitik.com/cuanto-deberia-subir-la-edad-de-pension-en-colombia-piden-ajuste-urgente/",
-        "resumen": "La edad de pensión en Colombia deberá cambiar en los próximos años, alertan expertos locales.",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "¿Cuánto debería subir la edad de pensión en Colombia?: Piden ajuste urgente",
-        "capturado": "2026-10-08T08:09:45-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella se opone a nueva tarifa por tonelada establecida en el Puerto de Buenaventura",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-rechaza-nuevo-cobro-por-tonelada-decretado-en-el-puerto-de-buenaventura/",
-        "resumen": "La medida para el Puerto de Buenaventura también fue rechazada por algunos gremios del país.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella rechaza nuevo cobro por tonelada decretado en el Puerto de Buenaventura",
-        "capturado": "2026-10-08T08:09:45-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Este es el top 10 de iniciativas fotovoltaicas mayores en Colombia; Enel e Isagen encabezan el ranking",
+        "url": "https://www.valoraanalitik.com/estos-son-los-10-proyectos-de-energia-solar-mas-grandes-de-colombia-enel-e-isagen-lideran-el-listado/",
+        "resumen": "Las zonas en las que se concentran las grandes iniciativas son Atlántico, Cundinamarca, Tolima, Cesar, Magdalena, Córdoba y Caldas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los 10 proyectos de energía solar más grandes de Colombia; Enel e Isagen lideran el listado",
+        "capturado": "2026-10-11T10:54:05-05:00"
+      },
       {
         "titulo": "Scania resalta el progreso femenino en la movilidad al cumplirse una década de Queen On The Road",
         "url": "https://www.valoraanalitik.com/scania-destaca-el-avance-de-las-mujeres-en-el-transporte-tras-10-anos-de-queen-on-the-road/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Bancarias",
         "publicacion": "",
         "titulo_fuente": "Bre-B supera a PIX y se consolida como el sistema de pagos instantáneos de mayor adopción en la región",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Entrevista | Unergy proyecta más de 200 minigranjas al 2028 con inversiones cercanas a US$200 millones",
-        "url": "https://www.valoraanalitik.com/unergy-espera-tener-mas-de-200-minigranjas-para-2028-las-inversiones-estarian-en-cerca-de-us200-millones/",
-        "resumen": "Eduardo Ospina, cofundador y CEO de Unergy, expresó que la empresa tiene activos en La Guajira, Santander, Cundinamarca, entre otros departamentos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Unergy espera tener más de 200 minigranjas para 2028; las inversiones estarían en cerca de US$200 millones",
         "capturado": "2026-10-06T14:44:53-05:00"
       }
     ]
