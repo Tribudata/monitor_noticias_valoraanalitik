@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-12T08:26:04-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-12T16:49:58-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Hammack de la FED avisa que Estados Unidos requeriría tipos de interés mayores para frenar la inflación",
+        "url": "https://www.valoraanalitik.com/hammack-de-la-fed-advierte-que-ee-uu-podria-necesitar-tasas-de-interes-mas-altas-para-bajar-la-inflacion/",
+        "resumen": "Las declaraciones se producen después de que el organismo aumentara las tasas de interés en septiembre, por primera vez en tres años.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Hammack de la FED advierte que EE. UU. podría necesitar tasas de interés más altas para bajar la inflación",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella muestra estrategia de seguridad para las marchas del 14 de octubre por decreto",
+        "url": "https://www.valoraanalitik.com/con-nuevo-decreto-gobierno-de-la-espriella-revela-plan-de-seguridad-para-protestas-del-14-de-octubre/",
+        "resumen": "En la reunión participaron representantes de diversos ministerios con el propósito de evaluar los posibles escenarios de protesta.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Con nuevo decreto, Gobierno De la Espriella revela plan de seguridad para protestas del 14 de octubre",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Entrevista | Sucesiones y herencias en Colombia: la falla que pondría en peligro el patrimonio familiar",
+        "url": "https://www.valoraanalitik.com/entrevista-herencias-y-sucesiones-en-colombia-el-error-que-puede-poner-en-riesgo-el-patrimonio-familiar/",
+        "resumen": "Mario Estupiñán, directivo de Aval Asset Management, explica los errores que pueden complicar una sucesión y arriesgar el patrimonio.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Herencias y sucesiones en Colombia: el error que puede poner en riesgo el patrimonio familiar",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Mandatario De La Espriella conversó este lunes con Marco Rubio, secretario de Estado de EE. UU.: los ejes",
+        "url": "https://www.valoraanalitik.com/presidente-de-la-espriella-hablo-este-lunes-con-marco-rubio-secretario-de-estado-de-ee-uu-los-temas-clave-que-trataron/",
+        "resumen": "El Gobierno colombiano reiteró su intención de preservar una alianza con Estados Unidos basada en la confianza y el respeto mutuo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Presidente De La Espriella habló este lunes con Marco Rubio, secretario de Estado de EE. UU.: los temas clave que trataron",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Protestas del 14 de octubre en Colombia: sitio y hora de reunión de los manifestantes",
+        "url": "https://www.valoraanalitik.com/marchas-del-14-de-octubre-en-colombia-lugar-y-hora-en-que-se-concentraran-los-manifestantes/",
+        "resumen": "A la jornada también se sumará el expresidente Gustavo Petro, quien ha anunciado su participación a través de varias publicaciones en sus redes sociales.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Marchas del 14 de octubre en Colombia: Lugar y hora en que se concentrarán los manifestantes",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Mauricio Cárdenas afirma que el país tendrá que mantener la emisión de bonos y créditos multilaterales",
+        "url": "https://www.valoraanalitik.com/colombia-va-a-tener-que-seguir-emitiendo-bonos-y-gestionando-creditos-con-banca-multilateral-mauricio-cardenas/",
+        "resumen": "El exministro de Hacienda Mauricio Cárdenas analizó la determinación del Gobierno nacional de sentarse a negociar con el FMI.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "“Colombia va a tener que seguir emitiendo bonos y gestionando créditos con banca multilateral”: Mauricio Cárdenas",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Entrevista | Royal Enfield Colombia busca comercializar 10000 motocicletas en 2027 según su jefe de mercadeo",
+        "url": "https://www.valoraanalitik.com/entrevista-royal-enfield-ventas-2027/",
+        "resumen": "A agosto, la marca vendió cerca de 4.800 motos y, con la caída del dólar, empezó a ensamblar en Colombia sus modelos de 650 cc a menor precio.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Royal Enfield Colombia apunta a vender 10.000 motos en 2027; esto dice su líder de mercadeo",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella quitó regla de Petro que detenía la expansión urbana en tales zonas de Cundinamarca",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-elimino-medida-de-petro-que-frenaba-desarrollo-urbano-en-estos-municipios-de-cundinamarca/",
+        "resumen": "La medida eliminada por el Gobierno De La Espriella tenía como objetivo proteger los suelos con aptitud agrícola frente a la expansión urbana.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella eliminó medida de Petro que frenaba desarrollo urbano en estos municipios de Cundinamarca",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Robert E. Hall y Michael Woodford obtienen el Nobel de Economía por estudios sobre política monetaria y macroeconomía",
+        "url": "https://www.valoraanalitik.com/robert-e-hall-y-michael-woodford-ganan-nobel-de-economia-con-investigacion-de-politica-monetaria-y-decisiones-macroeconomicas/",
+        "resumen": "Sus estudios contribuyeron al desarrollo de modelos económicos capaces de explicar cómo interactúan las distintas variables de una economía.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Robert E. Hall y Michael Woodford ganan Nobel de Economía con investigación de política monetaria y decisiones macroeconómicas",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Inmuebles en el país alquilados por apps como Airbnb y Booking aumentaron 50 % en treinta meses",
+        "url": "https://www.valoraanalitik.com/viviendas-colombia-se-arriendan-airbnb-booking-duplicaron-dos-anos-medio/",
+        "resumen": "Para el cierre de 2026, las proyecciones de Asohost señalan que el inventario colombiano se ubicará en un rango entre 142.000 y 145.000 anuncios activos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Viviendas en Colombia que se arriendan por ‘apps’ como Airbnb y Booking crecieron 50 % en dos años y medio",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Cinco empleados lesionados y destrozos materiales causó ataque al peaje El Bordo en el departamento del Cauca",
+        "url": "https://www.valoraanalitik.com/atentado-contra-el-peaje-el-bordo-en-cauca-dejo-cinco-trabajadores-heridos-y-danos-en-la-infraestructura/",
+        "resumen": "La situación de seguridad también generó preocupación por la presencia de un elemento sospechoso sobre la carretera.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Atentado contra el peaje El Bordo, en Cauca, dejó cinco trabajadores heridos y daños en la infraestructura",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "De esta manera opera la enorme fábrica de Scania en territorio brasileño que arma un motor cada cinco horas",
+        "url": "https://www.valoraanalitik.com/la-gigantesca-planta-de-scania-en-brasil-produce-motor-cada-cinco-horas/",
+        "resumen": "La fábrica, inaugurada en 1962, tiene capacidad para producir 30.000 vehículos al año y emplea a unos 5.296 trabajadores.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Así funciona la gigantesca planta de Scania en Brasil que produce un motor cada cinco horas",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
       {
         "titulo": "Primicia | El parque de diversiones Salitre Mágico prevé inaugurar en mayo de 2027 su expansión en el Cici Aquapark",
         "url": "https://www.valoraanalitik.com/salitre-magico-abrira-nueva-unidad-en-mayo-de-2027-y-amplia-su-oferta/",
@@ -483,129 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno firmará nuevo estatuto para manejar protestas sociales en Colombia: MinInterior revela detalles",
         "capturado": "2026-10-09T00:35:40-05:00"
-      },
-      {
-        "titulo": "Alerta por posible encarecimiento de la energía y el mercado debido a El Niño",
-        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-podria-encarecer-el-mercado-y-los-recibos-de-energia-alerta-por-el-bolsillo-de-los-colombianos/",
-        "resumen": "El fenómeno de El Niño podría encarecer alimentos y servicios públicos en Colombia, con efectos que llegarían al costo de vida y las tasas de interés.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Fenómeno de El Niño podría encarecer el mercado y los recibos de energía: alerta por el bolsillo de los colombianos",
-        "capturado": "2026-10-09T00:35:40-05:00"
-      },
-      {
-        "titulo": "Sacyr proyecta asegurar recursos del Canal del Dique en diciembre y empezar trabajos en 2027",
-        "url": "https://www.valoraanalitik.com/canal-del-dique-obras-comenzarian-en-2027/",
-        "resumen": "El proyecto contempla 40 meses de trabajos y la generación de cerca de 60.000 empleos en 18 municipios de Atlántico, Bolívar y Sucre.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Sacyr prevé cerrar financiación del Canal del Dique en diciembre y arrancar obras en 2027",
-        "capturado": "2026-10-08T18:52:00-05:00"
-      },
-      {
-        "titulo": "Analdex avisa sobrecosto cercano a $100.000 millones anuales por sobretasa a la carga en Buenaventura",
-        "url": "https://www.valoraanalitik.com/analdex-advierte-sobrecosto-de-casi-100-000-millones-al-ano-por-sobretasa-a-la-carga-en-buenaventura/",
-        "resumen": "La tarifa equivale a un pago adicional de $127.050 por un tractocamión con 30 toneladas, según cálculos del gremio.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Analdex advierte sobrecosto de casi $100.000 millones al año por sobretasa a la carga en Buenaventura",
-        "capturado": "2026-10-08T18:52:00-05:00"
-      },
-      {
-        "titulo": "Cesar experimenta auge solar: inversiones alcanzarían más de US$500 millones",
-        "url": "https://www.valoraanalitik.com/cesar-vive-un-boom-de-proyectos-solares-inversiones-podrian-superar-los-us500-millones/",
-        "resumen": "SER Colombia reveló que este departamento colombiano es el segundo más importante para la generación solar, tan solo detrás de Atlántico.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Cesar vive un ‘boom’ de proyectos solares: inversiones podrían superar los US$500 millones",
-        "capturado": "2026-10-08T18:52:00-05:00"
-      },
-      {
-        "titulo": "Pensiones alcanzaron compras históricas de TES en Colombia durante septiembre",
-        "url": "https://www.valoraanalitik.com/fondos-de-pensiones-tuvieron-compras-record-de-tes-en-colombia-en-septiembre/",
-        "resumen": "Los Fondos de pensiones lideraron la demanda de deuda pública interna en un mes marcado por el repunte de tasas y tensiones fiscales globales.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fondos de pensiones tuvieron compras récord de TES en Colombia en septiembre",
-        "capturado": "2026-10-08T18:52:00-05:00"
-      },
-      {
-        "titulo": "Comestibles Ricos, dueña de Todo Rico, Tajamiel y Súper Ricas, llega a 65 años y alista expansión",
-        "url": "https://www.valoraanalitik.com/comestibles-ricos-que-tiene-marcas-como-todo-rico-tajamiel-y-super-ricas-cumple-65-anos-y-prepara-su-expansion-esta-es-su-nueva-apuesta/",
-        "resumen": "Comestibles Ricos celebra 65 años mientras ajusta su estrategia para crecer en Colombia y fortalecer sus exportaciones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Comestibles Ricos, que tiene marcas como Todo Rico, Tajamiel y Súper Ricas, cumple 65 años y prepara su expansión: esta es su nueva apuesta",
-        "capturado": "2026-10-08T18:52:00-05:00"
-      },
-      {
-        "titulo": "Las troncales del Magdalena llegan a casi el 50 por ciento de avance luego de dos años de trabajos",
-        "url": "https://www.valoraanalitik.com/troncales-del-magdalena-se-acercan-al-50-de-ejecucion-tras-dos-anos-de-obras/",
-        "resumen": "Contempla la construcción de 9 variantes, que contribuirán a mejorar la movilidad, fortalecer la seguridad vial y facilitar la conexión entre los municipios.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Troncales del Magdalena se acercan al 50 % de ejecución tras dos años de obras",
-        "capturado": "2026-10-08T18:52:00-05:00"
-      },
-      {
-        "titulo": "Fondos de pensiones: ¿invertir más en el exterior puede mejorar la rentabilidad de su ahorro?",
-        "url": "https://www.valoraanalitik.com/fondos-de-pensiones-invertir-mas-en-el-exterior-puede-mejorar-la-rentabilidad-de-su-ahorro/",
-        "resumen": "Los fondos de pensiones tendrán mayor margen para diversificar sus inversiones; expertos explican qué puede cambiar para el ahorro de los afiliados.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Fondos de pensiones: ¿invertir más en el exterior puede mejorar la rentabilidad de su ahorro?",
-        "capturado": "2026-10-08T18:52:00-05:00"
-      },
-      {
-        "titulo": "La inflación básica en Colombia se desacelera en septiembre y da un respiro al mercado",
-        "url": "https://www.valoraanalitik.com/inflaciones-basicas-en-colombia-se-moderan-en-septiembre-y-dan-un-respiro-al-mercado/",
-        "resumen": "Las inflaciones básicas o subyacentes, que calcula el Banco de la República, registraron una moderación generalizada tras el alza observada en el mes anterior.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Inflaciones básicas en Colombia se moderan en septiembre y dan un respiro al mercado",
-        "capturado": "2026-10-08T18:52:00-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar cae y finaliza en $3.217 en sesión con poca actividad",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-y-cierra-en-3-217-en-una-jornada-de-bajo-volumen/",
-        "resumen": "La divisa abrió en $3.241,50 y tocó de inmediato un techo de $3.248. Al mismo tiempo, la cotización hasta un mínimo intradiario de $3.208,50.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia retrocede y cierra en $3.217 en una jornada de bajo volumen",
-        "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Día sin IVA o menor ICA: qué estrategia beneficiaría más el comercio nacional",
-        "url": "https://www.valoraanalitik.com/dia-sin-iva-o-menos-ica-que-medida-le-ayudaria-mas-la-economia-y-el-comercio-en-colombia/",
-        "resumen": "Día sin IVA o menos ICA: las dos alternativas generarían efectos diferentes para consumidores y empresas en Colombia.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Día sin IVA o menos ICA: ¿qué medida le ayudaría más la economía y el comercio en Colombia?",
-        "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Aris Mining incrementa 16 % extracción aurífera a septiembre y conserva su meta",
-        "url": "https://www.valoraanalitik.com/aris-mining-aumenta-16-su-produccion-de-oro-a-septiembre/",
-        "resumen": "La minera acumuló 217.300 onzas en los primeros nueve meses del año y espera cerrar 2026 con entre 300.000 y 350.000 onzas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Aris Mining aumenta 16 % su producción de oro a septiembre y mantiene meta para 2026",
-        "capturado": "2026-10-08T14:22:17-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | Herencias y sucesiones en Colombia: la falla que pone en peligro el patrimonio familiar",
+        "url": "https://www.valoraanalitik.com/entrevista-herencias-y-sucesiones-en-colombia-el-error-que-puede-poner-en-riesgo-el-patrimonio-familiar/",
+        "resumen": "Mario Estupiñán, directivo de Aval Asset Management, explica los errores que pueden complicar una sucesión y arriesgar el patrimonio.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Herencias y sucesiones en Colombia: el error que puede poner en riesgo el patrimonio familiar",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Francis Ford Coppola y Carl Lewis asistirán al World Business Forum Bogotá 2026: detalles del evento",
+        "url": "https://www.valoraanalitik.com/francis-ford-coppola-y-carl-lewis-estaran-en-el-world-business-forum-bogota-2026/",
+        "resumen": "Como parte de esa conversación, el evento cuenta con una plantilla de ocho conferencistas de alto nivel.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Francis Ford Coppola y Carl Lewis estarán en el World Business Forum Bogotá 2026: novedades de esta edición",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Firma colombiana de productos para el hogar arranca labores en Estados Unidos y expone su expansión",
+        "url": "https://www.valoraanalitik.com/marca-colombiana-de-articulos-para-el-hogar-inicia-operaciones-en-estados-unidos-revela-planes-de-expansion-en-ese-pais/",
+        "resumen": "El portafolio es diseñado, desarrollado y curado desde Colombia y producido a través de una cadena internacional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Marca colombiana de artículos para el hogar inicia operaciones en Estados Unidos: revela planes de expansión en ese país",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Alojamientos en Colombia mediante apps como Airbnb y Booking aumentaron 50 % en dos años y medio",
+        "url": "https://www.valoraanalitik.com/viviendas-colombia-se-arriendan-airbnb-booking-duplicaron-dos-anos-medio/",
+        "resumen": "Para el cierre de 2026, las proyecciones de Asohost señalan que el inventario colombiano se ubicará en un rango entre 142.000 y 145.000 anuncios activos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Viviendas en Colombia que se arriendan por ‘apps’ como Airbnb y Booking crecieron 50 % en dos años y medio",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
+      {
+        "titulo": "Así opera la enorme fábrica de Scania en Brasil que elabora un motor cada cinco horas",
+        "url": "https://www.valoraanalitik.com/la-gigantesca-planta-de-scania-en-brasil-produce-motor-cada-cinco-horas/",
+        "resumen": "La fábrica, inaugurada en 1962, tiene capacidad para producir 30.000 vehículos al año y emplea a unos 5.296 trabajadores.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Así funciona la gigantesca planta de Scania en Brasil que produce un motor cada cinco horas",
+        "capturado": "2026-10-12T16:49:58-05:00"
+      },
       {
         "titulo": "Primicia | Salitre Mágico abriría su nueva atracción en el Cici Aquapark en mayo de 2027 para su expansión",
         "url": "https://www.valoraanalitik.com/salitre-magico-abrira-nueva-unidad-en-mayo-de-2027-y-amplia-su-oferta/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Juan Carlos Castro concluye su ciclo al frente de Invest Pacific tras tres años de gestión; inicia proceso de relevo",
         "capturado": "2026-10-06T18:41:37-05:00"
-      },
-      {
-        "titulo": "El sector microfinanciero nacional se prepara para definir la agenda país 2026-2030",
-        "url": "https://www.valoraanalitik.com/sector-microfinanciero-colombiano-se-alista-para-trazar-la-agenda-pais-2026-2030/",
-        "resumen": "El Congreso de Asomicrofinanzas reunirá al sector en Bogotá para definir compromisos frente a microempresas, digitalización, sostenibilidad y el gota a gota.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Sector microfinanciero colombiano se alista para trazar la agenda país 2026-2030",
-        "capturado": "2026-10-06T18:41:37-05:00"
-      },
-      {
-        "titulo": "Más inversión en salud latinoamericana añadiría US$700.000 millones al PIB regional en 25 años",
-        "url": "https://www.valoraanalitik.com/inversiones-salud-america-latina-pib/",
-        "resumen": "En Costa Rica se celebra en Roche Press Day, que tiene como eje temático la inversión en salud para impulsar el desarrollo económico.",
-        "autor": "",
-        "subseccion": "Reforma a la salud colombia",
-        "publicacion": "",
-        "titulo_fuente": "Mayores inversiones en salud en América Latina podrían sumar US$700.000 millones al PIB de la región en 25 años",
-        "capturado": "2026-10-06T18:41:37-05:00"
-      },
-      {
-        "titulo": "Pagos abiertos, el sistema para unir mercados financieros y cambiar el flujo de dinero en Colombia",
-        "url": "https://www.valoraanalitik.com/pagos-abiertos-el-modelo-que-busca-conectar-los-sistemas-financieros-y-transformar-el-movimiento-del-dinero-en-colombia/",
-        "resumen": "Interledger Foundation realizará dos encuentros para explorar cómo avanzar del acceso financiero hacia la adopción y el uso efectivo de los servicios digitales.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Pagos abiertos, el modelo que busca conectar los sistemas financieros y transformar el movimiento del dinero en Colombia",
-        "capturado": "2026-10-06T18:41:37-05:00"
-      },
-      {
-        "titulo": "AXE introduce al mercado colombiano un par de aromas nuevos basados en alta perfumería",
-        "url": "https://www.valoraanalitik.com/axe-lanza-en-colombia-dos-nuevas-fragancias-inspiradas-en-perfumeria/",
-        "resumen": "Cherry Spritz y Peach Infusion combinan protección contra el mal olor con perfiles olfativos que incorporan ingredientes de la perfumería.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "AXE lanza en Colombia dos nuevas fragancias inspiradas en perfumería",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "Homecenter compra la mayoría accionaria de Sumatec y progresa en su expansión local",
-        "url": "https://www.valoraanalitik.com/homecenter-adquiere-mayoria-sumatec/",
-        "resumen": "La operación combina la compra de acciones a Grupotec, accionista de Sumatec, con un aporte de capital directo a la compañía.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Homecenter adquiere participación mayoritaria en Sumatec y avanza en su estrategia de crecimiento en Colombia",
-        "capturado": "2026-10-06T14:44:53-05:00"
       }
     ]
   }
