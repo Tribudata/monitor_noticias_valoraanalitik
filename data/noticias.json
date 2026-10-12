@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-12T00:24:32-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-12T08:26:04-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Primicia | El parque de diversiones Salitre Mágico prevé inaugurar en mayo de 2027 su expansión en el Cici Aquapark",
+        "url": "https://www.valoraanalitik.com/salitre-magico-abrira-nueva-unidad-en-mayo-de-2027-y-amplia-su-oferta/",
+        "resumen": "Con inversiones superiores a US$30 millones para renovar y expandir el parque, Salitre Mágico espera recibir 120.000 visitantes en el Festival del Terror.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | El nuevo proyecto de Salitre Mágico en el Cici Aquapark abriría sus puertas en mayo de 2027; así prepara el parque su expansión",
+        "capturado": "2026-10-12T08:26:04-05:00"
+      },
       {
         "titulo": "Gobierno De La Espriella informa vía para sur de Bolívar y obra entra en etapa crucial",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-conexion-vial-para-el-sur-de-bolivar-proyecto-avanzara-en-fase-clave/",
@@ -593,19 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Aris Mining aumenta 16 % su producción de oro a septiembre y mantiene meta para 2026",
         "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Fenalco solicitó revocar incremento del 23 % del salario básico del 2026",
-        "url": "https://www.valoraanalitik.com/anular-aumento-del-23-del-salario-minimo-en-colombia-del-2026-que-pasaria-con-salarios-ya-pagados/",
-        "resumen": "El ajuste del salario mínimo, dicen empresarios, fue desproporcionado para este año.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Fenalco pidió anular el aumento del 23 % del salario mínimo en Colombia del 2026: ¿qué pasaría con los salarios ya pagados?",
-        "capturado": "2026-10-08T14:22:17-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Primicia | Salitre Mágico abriría su nueva atracción en el Cici Aquapark en mayo de 2027 para su expansión",
+        "url": "https://www.valoraanalitik.com/salitre-magico-abrira-nueva-unidad-en-mayo-de-2027-y-amplia-su-oferta/",
+        "resumen": "Con inversiones superiores a US$30 millones para renovar y expandir el parque, Salitre Mágico espera recibir 120.000 visitantes en el Festival del Terror.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | El nuevo proyecto de Salitre Mágico en el Cici Aquapark abriría sus puertas en mayo de 2027; así prepara el parque su expansión",
+        "capturado": "2026-10-12T08:26:04-05:00"
+      },
       {
         "titulo": "Metro de Medellín comunica servicio especial en EDC y Festival Altavoz con ampliación en su horario",
         "url": "https://www.valoraanalitik.com/metro-de-medellin-anuncia-operacion-especial-durante-el-edc-y-festival-altavoz-asi-sera-la-extension-de-horario/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "Homecenter adquiere participación mayoritaria en Sumatec y avanza en su estrategia de crecimiento en Colombia",
-        "capturado": "2026-10-06T14:44:53-05:00"
-      },
-      {
-        "titulo": "La propuesta de J.P. Morgan en el LinkU Capital Summit para invertir mejor: separar liquidez, riesgo y metas",
-        "url": "https://www.valoraanalitik.com/la-estrategia-que-deja-j-p-morgan-en-el-linku-capital-summit-para-invertir-mejor-separar-liquidez-riesgo-y-objetivos/",
-        "resumen": "Uno de los principales errores de los inversionistas es intentar clasificar todo su patrimonio bajo un único perfil de riesgo.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "La estrategia que deja J.P. Morgan en el LinkU Capital Summit para invertir mejor: separar liquidez, riesgo y objetivos",
         "capturado": "2026-10-06T14:44:53-05:00"
       }
     ]
