@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-12T16:49:58-05:00",
-  "nuevos_en_esta_corrida": 17,
+  "actualizado": "2026-10-12T21:55:47-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno anuncia 145 posesiones mediante el Banco de Talentos y prepara nuevos nombramientos",
+        "url": "https://www.valoraanalitik.com/gobierno-reporta-posesion-145-funcionarios-gobierno-por-banco-de-talento/",
+        "resumen": "El sector de agricultura y la Presidencia han recibido la mayor cantidad de nuevos trabajadores estatales, según el presidente.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno reporta posesión de 145 funcionarios en el Gobierno a través del Banco de Talentos; se vienen más nombramientos",
+        "capturado": "2026-10-12T21:55:47-05:00"
+      },
+      {
+        "titulo": "De La Espriella asegura que antes del 31 de diciembre operarán las medidas contra El Niño",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-antes-31-de-diciembre-marcha-todas-las-medidas-el-nino/",
+        "resumen": "El jefe de Estado también le envió un nuevo mensaje al Gobierno para que autorice un traslado de $1,2 billones para enfrentar las oleadas de calor.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "De La Espriella: Antes del 31 de diciembre estarán en marcha todas las medidas para enfrentar El Niño",
+        "capturado": "2026-10-12T21:55:47-05:00"
+      },
+      {
+        "titulo": "Congreso retoma discusión del Presupuesto 2027 y afronta semana crucial para su aprobación",
+        "url": "https://www.valoraanalitik.com/presupuesto-2027-congreso-retoma-debate-y-se-viene-semana-clave-para-su-aprobacion/",
+        "resumen": "El debate en el Congreso se retomorá desde este martes a las 9:00 de la mañana.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto 2027: Congreso retoma debate y se viene semana clave para su aprobación",
+        "capturado": "2026-10-12T21:55:47-05:00"
+      },
+      {
+        "titulo": "Gobierno de la Espriella abrió línea de crédito de Bancóldex por $20.000 millones para Quindío",
+        "url": "https://www.valoraanalitik.com/tras-el-terremoto-gobierno-de-la-espriella-abrio-linea-de-credito-de-20-000-millones-de-bancoldex-para-quindio/",
+        "resumen": "Los recursos buscan respaldar iniciativas asociadas al turismo, el comercio y la reactivación de las cadenas productivas del departamento.",
+        "autor": "",
+        "subseccion": "Turismo",
+        "publicacion": "",
+        "titulo_fuente": "Tras el terremoto, Gobierno de la Espriella abrió línea de crédito de $20.000 millones de Bancóldex para Quindío",
+        "capturado": "2026-10-12T21:55:47-05:00"
+      },
       {
         "titulo": "Hammack de la FED avisa que Estados Unidos requeriría tipos de interés mayores para frenar la inflación",
         "url": "https://www.valoraanalitik.com/hammack-de-la-fed-advierte-que-ee-uu-podria-necesitar-tasas-de-interes-mas-altas-para-bajar-la-inflacion/",
@@ -563,49 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Premercado | Mercados se recuperan tras perspectivas de ingresos de OpenAI y caída del petróleo por anuncios de Trump",
         "capturado": "2026-10-09T07:56:25-05:00"
-      },
-      {
-        "titulo": "Sondeo Atlas Intel en Brasil: Bolsonaro aventaja a Lula y estira distancia para el balotaje",
-        "url": "https://www.valoraanalitik.com/encuesta-atlas-intel-elecciones-brasil-bolsonaro-supera-a-lula-y-amplia-ventaja-para-segunda-vuelta-presidencial/",
-        "resumen": "La más reciente encuesta de Atlas Intel para Bloomberg, realizada entre el 3 y el 8 de octubre muestra así una diferencia de 5,4 puntos porcentuales.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Encuesta Atlas Intel elecciones Brasil: Bolsonaro supera a Lula y amplía ventaja para segunda vuelta presidencial",
-        "capturado": "2026-10-09T07:56:25-05:00"
-      },
-      {
-        "titulo": "Estudio advierte que fijar el mínimo en Colombia exigirá considerar cuatro factores más",
-        "url": "https://www.valoraanalitik.com/nuevo-analisis-alerta-que-la-definicion-del-salario-minimo-en-colombia-debera-tener-en-cuenta-otras-cuatro-variables/",
-        "resumen": "ANIF dio a conocer algunos puntos determinantes para la discusión del salario mínimo en Colombia.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo análisis alerta que la definición del salario mínimo en Colombia deberá tener en cuenta otras cuatro variables",
-        "capturado": "2026-10-09T07:56:25-05:00"
-      },
-      {
-        "titulo": "Gobierno da inicio formal a diálogos para el retorno de Mazda al país",
-        "url": "https://www.valoraanalitik.com/gobierno-inicia-oficialmente-conversaciones-para-el-regreso-de-mazda-a-colombia/",
-        "resumen": "El MinComercio y ProColombia sostuvieron un encuentro con la multinacional japonesa para evaluar la instalación de una planta de ensamblaje.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno inicia oficialmente conversaciones para el regreso de Mazda a Colombia",
-        "capturado": "2026-10-09T00:35:40-05:00"
-      },
-      {
-        "titulo": "MinInterior anuncia que el Ejecutivo suscribirá un nuevo estatuto de protesta",
-        "url": "https://www.valoraanalitik.com/gobierno-firmara-nuevo-estatuto-para-enfrentar-protestas-sociales-en-colombia-mininterior-revela-detalles/",
-        "resumen": "El nuevo decreto fija cinco niveles de actuación policial y establece causales objetivas para agotar el diálogo.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno firmará nuevo estatuto para manejar protestas sociales en Colombia: MinInterior revela detalles",
-        "capturado": "2026-10-09T00:35:40-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "De La Espriella: Todas las acciones frente a El Niño operarán antes del 31 de diciembre",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-antes-31-de-diciembre-marcha-todas-las-medidas-el-nino/",
+        "resumen": "El jefe de Estado también le envió un nuevo mensaje al Gobierno para que autorice un traslado de $1,2 billones para enfrentar las oleadas de calor.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "De La Espriella: Antes del 31 de diciembre estarán en marcha todas las medidas para enfrentar El Niño",
+        "capturado": "2026-10-12T21:55:47-05:00"
+      },
       {
         "titulo": "Entrevista | Herencias y sucesiones en Colombia: la falla que pone en peligro el patrimonio familiar",
         "url": "https://www.valoraanalitik.com/entrevista-herencias-y-sucesiones-en-colombia-el-error-que-puede-poner-en-riesgo-el-patrimonio-familiar/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | Las energías renovables ya abastecen a una población mayor a la de Bogotá",
         "capturado": "2026-10-07T06:56:37-05:00"
-      },
-      {
-        "titulo": "Juan Carlos Castro termina su periodo en Invest Pacific tras tres años y empieza el empalme",
-        "url": "https://www.valoraanalitik.com/juan-carlos-castro-concluye-su-ciclo-al-frente-de-invest-pacific-tras-tres-anos-de-gestion-inicia-proceso-de-relevo/",
-        "resumen": "Mauricio Concha Rivera, actual director de inversiones de la entidad, asumirá de manera temporal la dirección ejecutiva.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Juan Carlos Castro concluye su ciclo al frente de Invest Pacific tras tres años de gestión; inicia proceso de relevo",
-        "capturado": "2026-10-06T18:41:37-05:00"
       }
     ]
   }
