@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-13T12:44:42-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-13T17:29:13-05:00",
+  "nuevos_en_esta_corrida": 22,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De la Espriella prepara Milagro Week para captar $75 billones en diversos sectores",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-milagro-week-los-sectores-donde-buscara-inversiones-por-75-billones/",
+        "resumen": "La Milagro Week llevará a Colombia a una vitrina internacional de inversión en noviembre. El Gobierno ya definió los sectores que quiere presentar.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella alista Milagro Week: los sectores donde buscará inversiones por $75 billones",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Nuevas reglas para arriendos en Colombia sobre aplazar alzas, acordar pagos y prorrogar contratos",
+        "url": "https://www.valoraanalitik.com/arriendos-en-colombia-nuevas-medidas-para-aplazar-aumentos-acordar-pagos-y-extender-contratos/",
+        "resumen": "El mercado de arriendos en Colombia tendrá medidas extraordinarias. Conozca quiénes podrían acceder a los cambios y qué condiciones deben cumplir.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Arriendos en Colombia: nuevas medidas para aplazar aumentos, acordar pagos y extender contratos",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Déficit de cobre sería de 397.000 toneladas en 2026 y conflicto en Irán afectaría alza del oro",
+        "url": "https://www.valoraanalitik.com/deficit-de-cobre-seria-de-397-000-toneladas-en-2026-guerra-en-iran-podria-impactar-tendencia-al-alza-del-oro/",
+        "resumen": "Todo esto se daría con un precio del cobre en US$13.278 por tonelada en 2026 y de US$15.250 por tonelada en 2027.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Déficit de cobre sería de 397.000 toneladas en 2026; guerra en Irán podría impactar tendencia al alza del oro",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Arranca Obras por Impuestos para financiar reconstrucción tras sismo en Colombia",
+        "url": "https://www.valoraanalitik.com/obras-por-impuestos-entra-en-marcha-para-financiar-la-reconstruccion-tras-el-terremoto-en-colombia/",
+        "resumen": "Los recursos podrán destinarse a iniciativas para recuperar, rehabilitar, reconstruir, reforzar, mejorar o reponer infraestructura.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Obras por Impuestos entra en marcha para financiar la reconstrucción tras el terremoto en Colombia",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Primicia | Carlos Casado asume como presidente ejecutivo de Holcim Colombia",
+        "url": "https://www.valoraanalitik.com/primicia-carlos-casado-sera-el-nuevo-presidente-ejecutivo-de-holcim-colombia/",
+        "resumen": "Cuenta con una trayectoria de más de 25 años en Europa, Asia y América Latina, con foco en la industria del cemento.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Carlos Casado será el nuevo presidente ejecutivo de Holcim Colombia",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Precio de aseo en Colombia variaría en 2027: alertan sobre posibles alzas en la factura",
+        "url": "https://www.valoraanalitik.com/tarifa-de-aseo-en-colombia-cambiaria-en-2027-advierten-sobre-posibles-aumentos-en-el-recibo/",
+        "resumen": "La tarifa de aseo tendrá nuevas reglas desde 2027, mientras sigue en discusión una solicitud que podría cambiar el futuro del cobro a los usuarios.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Tarifa de aseo en Colombia cambiaría en 2027: advierten sobre posibles aumentos en el recibo",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Cerro Matoso cumplió dos meses funcionando al cincuenta por ciento por ausencia de gas de Canacol",
+        "url": "https://www.valoraanalitik.com/cerro-matoso-completo-dos-meses-operando-a-media-maquina-por-la-falta-del-gas-de-canacol/",
+        "resumen": "Según lo mencionó, las pérdidas para Colombia ascienden a $90.000 millones y la misma empresa dejó de producir 2.400 toneladas de níquel.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Cerro Matoso completó dos meses operando a media máquina por la falta del gas de Canacol",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia bajó y alcanzó este martes mínimos de 3.170 pesos: razones que alteraron el mercado",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-cerro-a-la-baja-y-llego-este-martes-a-minimos-de-3-170-los-factores-que-movieron-el-mercado/",
+        "resumen": "El gerente del Banco de la República, Leonardo Villar, explicó por qué ha bajado el dólar en Colombia.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia cerró a la baja y llegó este martes a mínimos de $3.170 : los factores que movieron el mercado",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "MinHacienda autoriza al Metro de Bogotá para adquirir seguros de riesgo financiero",
+        "url": "https://www.valoraanalitik.com/metro-de-bogota-recibe-autorizacion-de-minhacienda-para-contratar-coberturas-de-riesgo-financiero/",
+        "resumen": "El Ministerio otorgo permiso para negociar contratos de cambios en las tasas de interés y en la tasa de cambio asociados a sus créditos.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Metro de Bogotá recibe autorización de MinHacienda para contratar coberturas de riesgo financiero",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Director del Banco de la República expone motivo principal por el que el dólar continuaría bajo en Colombia",
+        "url": "https://www.valoraanalitik.com/gerente-banrep-revela-razon-clave-dolar-seguiria-barato-en-colombia/",
+        "resumen": "Leonardo Villar, gerente del emisor, también se refirió al incremento del desempleo en el país y el alza del riesgo país.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Gerente del Banco de la República revela razón clave por la que el dólar seguiría barato en Colombia",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
       {
         "titulo": "Empresa no puede castigar ni rebajar sueldo si se ausenta por esta causa",
         "url": "https://www.valoraanalitik.com/si-falta-al-trabajo-por-esta-razon-su-empresa-podria-no-poder-sancionarlo-ni-descontarle-el-salario/",
@@ -503,109 +603,129 @@
         "publicacion": "",
         "titulo_fuente": "Gilinski asegura contrato de 25 años para operar el yacimiento petrolero Bare en Venezuela",
         "capturado": "2026-10-09T21:36:59-05:00"
-      },
-      {
-        "titulo": "Terminal aérea de Tocumen retoma actividades tras temblor de magnitud 7,7 en Panamá",
-        "url": "https://www.valoraanalitik.com/aeropuerto-internacional-de-tocumen-reanuda-operaciones-tras-sismo-de-magnitud-77-en-panama/",
-        "resumen": "La principal terminal aérea del país restableció sus vuelos, mientras el Canal de Panamá mantiene el tránsito de buques con normalidad.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Aeropuerto Internacional de Tocumen reanuda operaciones tras sismo de magnitud 7,7 en Panamá",
-        "capturado": "2026-10-09T21:36:59-05:00"
-      },
-      {
-        "titulo": "PIB de Colombia frenaría en el tercer trimestre de 2026 al 21 por ciento según NowCast Bancolombia",
-        "url": "https://www.valoraanalitik.com/economia-colombiana-pierde-traccion-en-el-tercer-trimestre-de-2026-nowcast-bancolombia-proyecta-un-pib-de-21/",
-        "resumen": "La tendencia de corto plazo del indicador NowCast de Bancolombia sugiere que la economía ha perdido tracción.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Economía colombiana pierde tracción en el tercer trimestre de 2026: NowCast Bancolombia proyecta un PIB de 2,1 %",
-        "capturado": "2026-10-09T21:36:59-05:00"
-      },
-      {
-        "titulo": "OxoHotel arranca expansión internacional hacia Perú e inaugurará Hilton Garden Inn en Pereira",
-        "url": "https://www.valoraanalitik.com/cadena-hotelera-colombiana-oxohotel-inicia-expansion-en-peru-y-abrira-hilton-garden-inn-en-pereira/",
-        "resumen": "La compañía operará dos hoteles que suman 339 habitaciones. En su primera etapa, las propiedades proyectan 140 empleos directos entre Colombia y Perú.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Cadena hotelera colombiana OxoHotel inicia expansión en Perú y abrirá Hilton Garden Inn en Pereira",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "Funcionamiento previsto de los auxilios salariales y para independientes dados por el Gobierno tras sismo",
-        "url": "https://www.valoraanalitik.com/asi-operarian-los-subsidios-a-la-nomina-y-trabajadores-independientes-que-el-gobierno-entregara-a-afectados-por-terremoto/",
-        "resumen": "Detallan los procedimientos para tramitar las solicitudes, verificar los requisitos, reconocer los apoyos, realizar los pagos y atender posibles reclamaciones.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Así operarían los subsidios a la nómina y trabajadores independientes que el Gobierno entregará a afectados por terremoto",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "Septiembre de 2026 registra el punto máximo anual de confianza en la economía de Colombia",
-        "url": "https://www.valoraanalitik.com/confianza-en-la-economia-colombiana-alcanza-en-septiembre-de-2026-su-nivel-mas-alto-del-ano/",
-        "resumen": "El Indicador de Confianza Davivienda escaló hasta el 3,7 %, respaldado por los anuncios de consolidación fiscal del Gobierno Nacional.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Confianza en la economía colombiana alcanza en septiembre de 2026 su nivel más alto del año",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "María Teresa Uribe se retira de la presidencia de Davivienda Corredores tras 35 años financieros",
-        "url": "https://www.valoraanalitik.com/maria-teresa-uribe-davivienda-corredores/",
-        "resumen": "Su dimisión se hará efectiva 31 de enero de 2027 y, según se informó, comenzará nuevos retos profesionales.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | María Teresa Uribe deja la presidencia de Davivienda Corredores luego de 35 años en el sector financiero",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "BBVA Colombia renueva portafolio para clientes exclusivos e implementará nuevas oficinas especializadas",
-        "url": "https://www.valoraanalitik.com/bbva-colombia-oferta-clientes-premium/",
-        "resumen": "La oferta contempla clientes que comienzan a construir patrimonio hasta grandes familias empresarias, con foco en necesidades de clientes locales.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | BBVA Colombia relanza oferta para clientes premium y ultra premium; abrirá nuevas oficinas especializadas",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "Precio del dólar en Colombia cae fuertemente y baja de $3.200 tras más de quince días",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-desploma-y-vuelve-a-cotizarse-por-debajo-de-3-200-tras-mas-de-dos-semanas/",
-        "resumen": "La divisa abrió a la baja en $3.212 e inmediatamente marcó el máximo de la rueda en $3.220. Luego tocó un mínimo intradiario de $3.184,50.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia se desploma y vuelve a cotizarse por debajo de $3.200 tras más de dos semanas",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "Fuerte sismo de magnitud 8,0 sacude a Panamá: así lo reportan en Colombia",
-        "url": "https://www.valoraanalitik.com/fuerte-sismo-de-magnitud-80-sacude-a-panama-asi-lo-reportan-en-colombia/",
-        "resumen": "El Servicio Geológico Colombiano ubicó el epicentro del sismo en Pitaloza Arriba y reportó una profundidad de 33 kilómetros.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fuerte sismo de magnitud 8,0 sacude a Panamá: así lo reportan en Colombia",
-        "capturado": "2026-10-09T13:44:32-05:00"
-      },
-      {
-        "titulo": "Regasificadora del Pacífico recibe el buque con el que iniciará operaciones en noviembre de 2026",
-        "url": "https://www.valoraanalitik.com/regasificadora-del-pacifico-recibe-el-buque-con-el-que-iniciara-operaciones-en-noviembre-de-2026/",
-        "resumen": "Para los directivos de la regasificadora, el proyecto será clave para fortalecer el abastecimiento de gas natural en el occidente colombiano.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Regasificadora del Pacífico recibe el buque con el que iniciará operaciones en noviembre de 2026",
-        "capturado": "2026-10-09T13:44:32-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Faltarían 397.000 toneladas de cobre en 2026 y conflicto en Irán afectaría alza del oro",
+        "url": "https://www.valoraanalitik.com/deficit-de-cobre-seria-de-397-000-toneladas-en-2026-guerra-en-iran-podria-impactar-tendencia-al-alza-del-oro/",
+        "resumen": "Todo esto se daría con un precio del cobre en US$13.278 por tonelada en 2026 y de US$15.250 por tonelada en 2027.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Déficit de cobre sería de 397.000 toneladas en 2026; guerra en Irán podría impactar tendencia al alza del oro",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Primicia | Carlos Casado asumirá como presidente ejecutivo de Holcim Colombia",
+        "url": "https://www.valoraanalitik.com/primicia-carlos-casado-sera-el-nuevo-presidente-ejecutivo-de-holcim-colombia/",
+        "resumen": "Cuenta con una trayectoria de más de 25 años en Europa, Asia y América Latina, con foco en la industria del cemento.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Carlos Casado será el nuevo presidente ejecutivo de Holcim Colombia",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Cerro Matoso lleva dos meses con producción parcial por desabastecimiento de gas de Canacol",
+        "url": "https://www.valoraanalitik.com/cerro-matoso-completo-dos-meses-operando-a-media-maquina-por-la-falta-del-gas-de-canacol/",
+        "resumen": "Según lo mencionó, las pérdidas para Colombia ascienden a $90.000 millones y la misma empresa dejó de producir 2.400 toneladas de níquel.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Cerro Matoso completó dos meses operando a media máquina por la falta del gas de Canacol",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "MinHacienda autoriza al Metro de Bogotá para adquirir coberturas de riesgo financiero",
+        "url": "https://www.valoraanalitik.com/metro-de-bogota-recibe-autorizacion-de-minhacienda-para-contratar-coberturas-de-riesgo-financiero/",
+        "resumen": "El Ministerio otorgo permiso para negociar contratos de cambios en las tasas de interés y en la tasa de cambio asociados a sus créditos.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Metro de Bogotá recibe autorización de MinHacienda para contratar coberturas de riesgo financiero",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "ABB proveerá el sistema eléctrico para las 1.000 viviendas del proyecto Adopta un Hogar de Grupo Argos y Nicky Jam",
+        "url": "https://www.valoraanalitik.com/abb-suministrara-la-infraestructura-electrica-para-las-1-000-viviendas-que-entregara-adopta-un-hogar-iniciativa-de-grupo-argos-y-nicky-jam/",
+        "resumen": "La multinacional tecnológica aportará tomas, interruptores y breakers con el objetivo de ser parte del proyecto Adopta un Hogar.",
+        "autor": "",
+        "subseccion": "Adopta un hogar",
+        "publicacion": "",
+        "titulo_fuente": "ABB suministrará la infraestructura eléctrica para las 1.000 viviendas que entregará Adopta un Hogar, iniciativa de Grupo Argos y Nicky Jam",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Su empleador no podrá multarlo ni rebajarle el sueldo si falta al trabajo por este motivo",
+        "url": "https://www.valoraanalitik.com/si-falta-al-trabajo-por-esta-razon-su-empresa-podria-no-poder-sancionarlo-ni-descontarle-el-salario/",
+        "resumen": "Faltar al trabajo puede generar consecuencias laborales, pero hay situaciones excepcionales en las que la empresa debe evaluar qué le pasó al trabajador.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Si falta al trabajo por esta razón, su empresa no podría sancionarlo ni descontarle el salario",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Puerto Antioquia inaugura ruta marítima directa con Asia y China y detalla su operación semanal",
+        "url": "https://www.valoraanalitik.com/relevante-puerto-antioquia-estrena-ruta-maritima-directa-con-asia-y-china-asi-operara-el-servicio-semanal/",
+        "resumen": "La conexión también se suma a los servicios que el puerto ha incorporado para atender mercados de Estados Unidos, Europa y América Latina.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Puerto Antioquia estrena ruta marítima directa con Asia y China: así operará el servicio semanal",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado indica el requisito exigido por la DIAN para prevenir cobros de IVA",
+        "url": "https://www.valoraanalitik.com/dian-el-requisito-que-se-debe-cumplir-para-evitar-cobros-de-iva-segun-el-consejo-de-estado/",
+        "resumen": "La DIAN puede desconocer el tratamiento de ciertas ventas como exentas de IVA si las empresas no acreditan una condición clave.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "DIAN: el requisito que se debe cumplir para evitar cobros de IVA, según el Consejo de Estado",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Avanza la fusión de Unilever y marcas como Fruco y Maizena pasarán a manos de nuevos dueños",
+        "url": "https://www.valoraanalitik.com/fusion-negocio-alimentos-unilever-colombia/",
+        "resumen": "La transacción con McCormick ya recibió el visto bueno del regulador de Reino Unido y el trámite ya cursa en la Superintendencia de Industria y Comercio.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fruco, Maizena y otras marcas consumidas por los colombianos cambiarán de dueño: avanza fusión del negocio de Unilever",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Mineros eleva su meta aurífera para 2026 y da a conocer datos centrales del tercer trimestre",
+        "url": "https://www.valoraanalitik.com/mineros-aumenta-proyeccion-de-produccion-de-oro-para-2026-revela-cifras-clave-del-tercer-trimestre/",
+        "resumen": "La compañía revelará sus resultados financieros, junto con las cifras de producción en oro y plata, el 11 de noviembre de 2026.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Mineros aumenta proyección en producción de oro para 2026; revela cifras clave del tercer trimestre",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Así es el escenario: solo 2 de cada 10 compañías en el país venden más de $100 millones anuales",
+        "url": "https://www.valoraanalitik.com/empresas-colombia-factura-100-millones/",
+        "resumen": "Un análisis de la firma Sectorial plantea cambios tributarios y laborales para impulsar el crecimiento de los negocios",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Solo 2 de cada 10 empresas en Colombia factura más de $100 millones al año: así está el panorama",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
+      {
+        "titulo": "Scania expone su estrategia para cortar en 50 % la polución de CO₂ en su trabajo industrial",
+        "url": "https://www.valoraanalitik.com/scania-revela-como-busca-reducir-50-de-las-emisiones-de-co%e2%82%82-de-sus-operaciones-industriales/",
+        "resumen": "Mariana Reis, ingeniera ambiental de Scania, habló con Valora Analitik desde la planta de Brasil sobre los resultados ambientales de Scania.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Scania revela cómo busca reducir 50 % de las emisiones de CO₂ de sus operaciones industriales",
+        "capturado": "2026-10-13T17:29:13-05:00"
+      },
       {
         "titulo": "De La Espriella: Todas las acciones frente a El Niño operarán antes del 31 de diciembre",
         "url": "https://www.valoraanalitik.com/de-la-espriella-antes-31-de-diciembre-marcha-todas-las-medidas-el-nino/",
@@ -1085,126 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Mike Bahía y Greeicy debutan como empresarios de alimentos: así es su negocio que ya llega a 193 municipios de Colombia",
         "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Administración nacional pretende destancar iniciativas energéticas guajiras por US$2.500 millones",
-        "url": "https://www.valoraanalitik.com/gobierno-busca-destrabar-proyectos-de-energia-en-la-guajira-que-llegarian-a-us2-500-millones/",
-        "resumen": "El funcionario se reunió con varios miembros del sector energético y la ministra de Minas y Energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno busca destrabar proyectos de energía en La Guajira que llegarían a US$2.500 millones",
-        "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Roche invierte más de $16.200 millones en innovación local y proyecta mayores ventas para 2026",
-        "url": "https://www.valoraanalitik.com/roche-innovacion-colombia-ventas-2026/",
-        "resumen": "La compañía, que cumplirá 70 años de operación en el país, avanza en investigación clínica; espera mayor agilidad regulatoria para ampliar su portafolio.",
-        "autor": "",
-        "subseccion": "Reforma a la salud colombia",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Roche destina más de $16.200 millones en innovación en Colombia; espera aumentar ventas en 2026",
-        "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado frena norma que autorizaba la formación de megasindicatos en el país",
-        "url": "https://www.valoraanalitik.com/consejo-de-estado-suspende-decreto-que-permitia-crear-megasindicatos/",
-        "resumen": "La decisión es provisional y se tomó ante la posible falta de sustento legal para que el Gobierno definiera las reglas del modelo.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Consejo de Estado suspende decreto que permitía crear megasindicatos en Colombia",
-        "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Santiago Pardo Salguero reemplaza a Javier Díaz en la dirección de Analdex tras su retiro",
-        "url": "https://www.valoraanalitik.com/javier-diaz-sale-de-la-presidencia-de-analdex-por-jubilacion-santiago-pardo-salguero-asumira-el-liderazgo/",
-        "resumen": "Su retiro obedece a una decisión personal concertada para disfrutar de su jubilación, la cual se había postergado durante algunos años.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Javier Díaz sale de la presidencia de Analdex por jubilación; Santiago Pardo Salguero asumirá el liderazgo",
-        "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "El evento People Day congregará a especialistas para analizar los cambios que transforman el porvenir laboral",
-        "url": "https://www.valoraanalitik.com/la-atractiva-agenda-de-people-day-que-reunira-a-expertos-para-debatir-las-tendencias-que-estan-cambiando-el-futuro-del-trabajo/",
-        "resumen": "El evento, presentado como el primer y único festival de gestión en personas en la región, es organizado por Buk, software integral de Recursos Humanos.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "La atractiva agenda de People Day que reunirá a expertos para debatir las tendencias que están cambiando el futuro del trabajo",
-        "capturado": "2026-10-07T18:31:01-05:00"
-      },
-      {
-        "titulo": "Llega a Medellín Multifamily, una novedosa alternativa habitacional acorde a la evolución inmobiliaria",
-        "url": "https://www.valoraanalitik.com/multifamily-la-nueva-forma-de-habitar-que-responde-a-la-transformacion-del-mercado-de-vivienda-llega-con-propuesta-a-medellin/",
-        "resumen": "Parque Arauco y Hasta Capital presentan LiveSpace+ Ciudad del Río, su tercer proyecto de este tipo en el país y el primero en Antioquia.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Multifamily, la nueva forma de habitar que responde a la transformación del mercado de vivienda llega con propuesta a Medellín",
-        "capturado": "2026-10-07T13:49:12-05:00"
-      },
-      {
-        "titulo": "Fitch señala menor liquidez y presión financiera por costos en las compañías nacionales",
-        "url": "https://www.valoraanalitik.com/fitch-menor-flujo-de-caja-empresas-colombia/",
-        "resumen": "La calificadora señala un deterioro en los márgenes y la cobertura de intereses, mientras el apalancamiento se mantiene relativamente estable.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fitch advierte menor flujo de caja y presión por costos de financiamiento en empresas colombianas",
-        "capturado": "2026-10-07T13:49:12-05:00"
-      },
-      {
-        "titulo": "Heinsohn llega a Perú invirtiendo cerca de medio millón de dólares: así funcionará la empresa",
-        "url": "https://www.valoraanalitik.com/heinsohn-aterriza-en-peru-con-inversion-de-casi-medio-millon-de-dolares/",
-        "resumen": "La compañía colombiana inicia operaciones bajo la dirección de Jessy Malca, con servicios de gestión humana y proyectos previos en el mercado peruano.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Heinsohn aterriza en Perú con inversión de casi medio millón de dólares: así operará la firma colombiana en el país vecino",
-        "capturado": "2026-10-07T13:49:12-05:00"
-      },
-      {
-        "titulo": "Gobierno emite decreto para agilizar plantas térmicas ante El Niño",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-expide-decreto-para-facilitar-operacion-de-plantas-termicas-en-medio-del-fenomeno-de-el-nino/",
-        "resumen": "Estas plantas podrán abastecerse de diferentes agentes si así se requiere, y no solo de uno, como ocurre en la actualidad.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno de la Espriella expide decreto para facilitar operación de plantas térmicas en medio del fenómeno de El Niño",
-        "capturado": "2026-10-07T13:49:12-05:00"
-      },
-      {
-        "titulo": "DAVIarena abre paso a grandes conciertos y dinamiza el entretenimiento en Antioquia",
-        "url": "https://www.valoraanalitik.com/daviarena-una-nueva-puerta-para-las-grandes-giras-y-la-economia-del-entretenimiento-en-antioquia/",
-        "resumen": "Antioquia se prepara para DAVIarena, buscando potenciar a Medellín y su área metropolitana en una parada cada vez más atractiva para grandes giras.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "DAVIarena: una nueva puerta para las grandes giras y la economía del entretenimiento en Antioquia",
-        "capturado": "2026-10-07T13:49:12-05:00"
-      },
-      {
-        "titulo": "Grupo Sura inicia un plan de recompra de acciones de hasta $500.000 millones",
-        "url": "https://www.valoraanalitik.com/grupo-sura-pone-en-marcha-un-programa-de-readquisicion-de-acciones-por-hasta-500-000-millones/",
-        "resumen": "La operación, que se extenderá hasta marzo de 2028 a través de la BVC, busca optimizar la asignación de capital y aumentar la liquidez bursátil.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Sura pone en marcha un programa de readquisición de acciones por hasta $500.000 millones",
-        "capturado": "2026-10-07T13:49:12-05:00"
-      },
-      {
-        "titulo": "Entrevista | Las fuentes renovables ya cubren más habitantes que los de Bogotá",
-        "url": "https://www.valoraanalitik.com/las-energias-renovables-ya-abastecen-a-una-poblacion-mayor-a-la-de-bogota/",
-        "resumen": "Alexandra Hernández, presidente del gremio de energías renovables, habló sobre el potencial y la inversión en esta fuente de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Las energías renovables ya abastecen a una población mayor a la de Bogotá",
-        "capturado": "2026-10-07T06:56:37-05:00"
       }
     ]
   }
