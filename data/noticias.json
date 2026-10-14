@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-14T12:53:38-05:00",
+  "actualizado": "2026-10-14T16:28:37-05:00",
   "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno plantea facilitar procesos a compañías mediante iniciativa legislativa de competitividad",
+        "url": "https://www.valoraanalitik.com/gobierno-propone-simplificar-tramites-para-empresas-con-proyecto-de-ley-de-competitividad/",
+        "resumen": "El Gobierno presentó un proyecto de ley que busca simplificar trámites, digitalizar procesos y reducir cargas administrativas para las empresas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno propone simplificar trámites para empresas con proyecto de ley de competitividad",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
+      {
+        "titulo": "Pei designó su segundo creador de mercado para sus papeles en la bolsa nacional",
+        "url": "https://www.valoraanalitik.com/pei-oficializo-segundo-formador-liquidez/",
+        "resumen": "Como lo había revelado Valora Analitik, la comisionista encargada de mejorar la negociación de Pei en la Bolsa de Colombia será LarrainVial.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Pei oficializó su segundo formador de liquidez para sus títulos en el mercado local",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
+      {
+        "titulo": "BMW alista una nueva fase en Colombia con actualización de su oferta y llegada de eléctricos",
+        "url": "https://www.valoraanalitik.com/entrevista-bmw-prepara-una-nueva-etapa-en-colombia-renovara-su-portafolio-y-traera-nuevos-modelos-electricos/",
+        "resumen": "José Guillermo Marín, director de Mercadeo de BMW en Colombia, explica los cambios que vienen para la marca y sus próximos lanzamientos.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | BMW prepara una nueva etapa en Colombia: renovará su portafolio y traerá nuevos modelos eléctricos",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
+      {
+        "titulo": "Cerca de 80 % de firmas petroleras y gasíferas afrontarían mermas productivas hacia 2040",
+        "url": "https://www.valoraanalitik.com/hasta-80-de-las-empresas-de-petroleo-y-gas-podrian-ver-caidas-en-su-produccion-hacia-2040/",
+        "resumen": "Inversiones en exploración, incorporación de tecnología y aprovechar oportunidades a través de socios clave serán vitales para el mercado.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Hasta 80 % de las empresas de petróleo y gas podrían ver caídas en su producción hacia 2040",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia detiene su tendencia a la baja y se fije en tres mil ciento ochenta y tres pesos",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-frena-su-racha-bajista-y-se-estabiliza-en-3-183/",
+        "resumen": "La divisa abrió al alza en $3.200 y trepó rápidamente hasta marcar un máximo intradiario de $3.214.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia frena su racha bajista y se estabiliza en $3.183",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
+      {
+        "titulo": "Ejecutivo buscaría cambiar la Paz Total por un esquema de sometimiento a la justicia",
+        "url": "https://www.valoraanalitik.com/gobierno-buscaria-reemplazar-la-paz-total-con-un-modelo-de-sometimiento-a-la-justicia/",
+        "resumen": "El Gobierno rendiría un informe anual al Congreso, y el Senado publicaría en tres meses un texto unificado de la Ley 418.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno buscaría reemplazar la “Paz Total” con un modelo de sometimiento a la justicia",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
+      {
+        "titulo": "GEB lanzará bonos locales por 400.000 millones de pesos y este será su destino",
+        "url": "https://www.valoraanalitik.com/geb-emitira-titulos-400-000-millones/",
+        "resumen": "La empresa indicó que los recursos serán destinados en 100 % para la financiación de propósitos corporativos generales.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "GEB emitirá títulos en mercado local por $400.000 millones: este será el destino de los recursos",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
       {
         "titulo": "Proyección del sueldo básico en Colombia para 2027 sin el subsidio de transporte según reciente análisis",
         "url": "https://www.valoraanalitik.com/salario-minimo-2027-este-seria-el-sueldo-en-colombia-sin-contar-el-auxilio-de-transporte-segun-nuevo-estudio/",
@@ -533,79 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Robert E. Hall y Michael Woodford ganan Nobel de Economía con investigación de política monetaria y decisiones macroeconómicas",
         "capturado": "2026-10-12T16:49:58-05:00"
-      },
-      {
-        "titulo": "Inmuebles en el país alquilados por apps como Airbnb y Booking aumentaron 50 % en treinta meses",
-        "url": "https://www.valoraanalitik.com/viviendas-colombia-se-arriendan-airbnb-booking-duplicaron-dos-anos-medio/",
-        "resumen": "Para el cierre de 2026, las proyecciones de Asohost señalan que el inventario colombiano se ubicará en un rango entre 142.000 y 145.000 anuncios activos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Viviendas en Colombia que se arriendan por ‘apps’ como Airbnb y Booking crecieron 50 % en dos años y medio",
-        "capturado": "2026-10-12T16:49:58-05:00"
-      },
-      {
-        "titulo": "Cinco empleados lesionados y destrozos materiales causó ataque al peaje El Bordo en el departamento del Cauca",
-        "url": "https://www.valoraanalitik.com/atentado-contra-el-peaje-el-bordo-en-cauca-dejo-cinco-trabajadores-heridos-y-danos-en-la-infraestructura/",
-        "resumen": "La situación de seguridad también generó preocupación por la presencia de un elemento sospechoso sobre la carretera.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Atentado contra el peaje El Bordo, en Cauca, dejó cinco trabajadores heridos y daños en la infraestructura",
-        "capturado": "2026-10-12T16:49:58-05:00"
-      },
-      {
-        "titulo": "De esta manera opera la enorme fábrica de Scania en territorio brasileño que arma un motor cada cinco horas",
-        "url": "https://www.valoraanalitik.com/la-gigantesca-planta-de-scania-en-brasil-produce-motor-cada-cinco-horas/",
-        "resumen": "La fábrica, inaugurada en 1962, tiene capacidad para producir 30.000 vehículos al año y emplea a unos 5.296 trabajadores.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Así funciona la gigantesca planta de Scania en Brasil que produce un motor cada cinco horas",
-        "capturado": "2026-10-12T16:49:58-05:00"
-      },
-      {
-        "titulo": "Primicia | El parque de diversiones Salitre Mágico prevé inaugurar en mayo de 2027 su expansión en el Cici Aquapark",
-        "url": "https://www.valoraanalitik.com/salitre-magico-abrira-nueva-unidad-en-mayo-de-2027-y-amplia-su-oferta/",
-        "resumen": "Con inversiones superiores a US$30 millones para renovar y expandir el parque, Salitre Mágico espera recibir 120.000 visitantes en el Festival del Terror.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | El nuevo proyecto de Salitre Mágico en el Cici Aquapark abriría sus puertas en mayo de 2027; así prepara el parque su expansión",
-        "capturado": "2026-10-12T08:26:04-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella informa vía para sur de Bolívar y obra entra en etapa crucial",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-conexion-vial-para-el-sur-de-bolivar-proyecto-avanzara-en-fase-clave/",
-        "resumen": "Esta intervención busca contribuir a las condiciones de seguridad en el sur del departamento.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella anuncia conexión vial para el sur de Bolívar: Proyecto avanzará en fase clave",
-        "capturado": "2026-10-11T18:52:16-05:00"
-      },
-      {
-        "titulo": "Colombia figura entre las naciones menos favorables para el retiro y este es su puesto global",
-        "url": "https://www.valoraanalitik.com/colombia-entre-los-peores-paises-para-pensionarse-este-es-el-lugar-que-ocupa-en-el-mundo/",
-        "resumen": "El ranking mundial evaluó las condiciones para pensionarse en 44 países y dejó a Colombia entre los últimos, pese a una leve mejora frente a 2025.",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "Colombia, entre los peores países para pensionarse: este es el lugar que ocupa en el mundo",
-        "capturado": "2026-10-11T18:52:16-05:00"
-      },
-      {
-        "titulo": "Lluvias provocan deslizamientos que bloquean la circulación en dos vías principales del Valle del Cauca",
-        "url": "https://www.valoraanalitik.com/derrumbes-afectan-la-movilidad-en-dos-autopistas-del-valle-del-cauca-por-las-lluvias/",
-        "resumen": "La concesión Unión Vial Camino del Pacífico, responsable de la operación de este corredor, desarrolla labores de limpieza y remoción del material.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Derrumbes afectan la movilidad en dos autopistas del Valle del Cauca por las lluvias",
-        "capturado": "2026-10-11T15:06:06-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Gobierno plantea facilitar procesos empresariales mediante iniciativa de competitividad",
+        "url": "https://www.valoraanalitik.com/gobierno-propone-simplificar-tramites-para-empresas-con-proyecto-de-ley-de-competitividad/",
+        "resumen": "El Gobierno presentó un proyecto de ley que busca simplificar trámites, digitalizar procesos y reducir cargas administrativas para las empresas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno propone simplificar trámites para empresas con proyecto de ley de competitividad",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
+      {
+        "titulo": "Entrevista | BMW planea nueva fase en el país: actualizará catálogo y traerá eléctricos",
+        "url": "https://www.valoraanalitik.com/entrevista-bmw-prepara-una-nueva-etapa-en-colombia-renovara-su-portafolio-y-traera-nuevos-modelos-electricos/",
+        "resumen": "José Guillermo Marín, director de Mercadeo de BMW en Colombia, explica los cambios que vienen para la marca y sus próximos lanzamientos.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | BMW prepara una nueva etapa en Colombia: renovará su portafolio y traerá nuevos modelos eléctricos",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
+      {
+        "titulo": "Hasta 80 % de firmas petroleras y gasíferas presentarían reducción de extracción a 2040",
+        "url": "https://www.valoraanalitik.com/hasta-80-de-las-empresas-de-petroleo-y-gas-podrian-ver-caidas-en-su-produccion-hacia-2040/",
+        "resumen": "Inversiones en exploración, incorporación de tecnología y aprovechar oportunidades a través de socios clave serán vitales para el mercado.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Hasta 80 % de las empresas de petróleo y gas podrían ver caídas en su producción hacia 2040",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
+      {
+        "titulo": "Terminal de Transporte de Bogotá suprime efectivo en Tasa de Uso junto a Copiloto Colombia",
+        "url": "https://www.valoraanalitik.com/terminal-de-transporte-de-bogota-elimina-pago-en-efectivo-de-la-tasa-de-uso-y-avanza-hacia-operacion-100-digital-de-la-mano-de-copiloto-colombia/",
+        "resumen": "La transformación busca agilizar los procesos operativos, fortalecer la trazabilidad de los recaudos y reducir el manejo de efectivo en la terminal.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Terminal de Transporte de Bogotá elimina pago en efectivo de la Tasa de Uso y avanza hacia operación 100 % digital de la mano de Copiloto Colombia",
+        "capturado": "2026-10-14T16:28:37-05:00"
+      },
       {
         "titulo": "El mineral regresa al foco de la estabilidad de energía en la Cumbre de Carbón y Coque Colombia 2026",
         "url": "https://www.valoraanalitik.com/el-carbon-vuelve-al-centro-del-debate-sobre-la-seguridad-energetica-en-la-cumbre-colombiana-del-carbon-y-coque-2026/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Troncales del Magdalena se acercan al 50 % de ejecución tras dos años de obras",
         "capturado": "2026-10-08T18:52:00-05:00"
-      },
-      {
-        "titulo": "Edgard Nunes asume la gerencia general del clúster ANCAC en el Grupo Servier",
-        "url": "https://www.valoraanalitik.com/edgard-nunes-llega-a-la-gerencia-general-del-cluster-ancac/",
-        "resumen": "El directivo adopta este nuevo rol tras su paso como director regional de operaciones de la línea de oncología para Latinoamérica.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Edgard Nunes llega a la gerencia general del clúster ANCAC del Grupo Servier",
-        "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Marlen Quiñones es la FamiEmpresaria 2026 que generó empleo flexible para madres en Medellín con Maintegral",
-        "url": "https://www.valoraanalitik.com/marlen-quinones-la-famiempresaria-2026-que-creo-empleo-flexible-para-madres-en-medellin-con-maintegral/",
-        "resumen": "Para Quiñones, el premio representa no solo un reconocimiento a su empresa, sino también a las mujeres que hacen parte de ella.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Marlen Quiñones, la FamiEmpresaria 2026 que creó empleo flexible para madres en Medellín con Maintegral",
-        "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Aris Mining eleva su producción aurífera 16 % a septiembre y conserva su meta para 2026",
-        "url": "https://www.valoraanalitik.com/aris-mining-aumenta-16-su-produccion-de-oro-a-septiembre/",
-        "resumen": "La minera acumuló 217.300 onzas en los primeros nueve meses del año y espera cerrar 2026 con entre 300.000 y 350.000 onzas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Aris Mining aumenta 16 % su producción de oro a septiembre y mantiene meta para 2026",
-        "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Estas son las fechas que dinamizarán las ventas de los comercios colombianos a fin de año",
-        "url": "https://www.valoraanalitik.com/estos-son-los-dias-que-moveran-las-ventas-en-las-tiendas-de-colombia/",
-        "resumen": "Sensormatic Solutions identifica las jornadas con mayor tráfico esperado y señala los aspectos que los comercios deberán reforzar.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los días que moverán las ventas en las tiendas de Colombia durante fin de año",
-        "capturado": "2026-10-08T14:22:17-05:00"
       }
     ]
   }
