@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-14T01:36:03-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-14T07:46:25-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Iniciaciones de vivienda VIS completan 40 meses a la baja en Colombia y caen 11,6 por ciento en agosto",
+        "url": "https://www.valoraanalitik.com/iniciaciones-de-vivienda-vis-en-colombia-completan-40-meses-de-caidas-en-agosto-retrocedieron-116/",
+        "resumen": "Pese al resultado nacional, el comportamiento de las iniciaciones VIS no ha sido uniforme en todas las regiones.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Iniciaciones de vivienda VIS en Colombia completan 40 meses de caídas: en agosto retrocedieron 11,6 %",
+        "capturado": "2026-10-14T07:46:25-05:00"
+      },
+      {
+        "titulo": "Premercado | Mixtas las bolsas por avance tecnológico, crudo sobre 106 dólares y expectativa de inflación en EE. UU.",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-mixtas-por-recuperacion-tecnologica-petroleo-supera-los-us106-y-se-espera-inflacion-de-ee-uu/",
+        "resumen": "Se apunta a una inflación general de 3,6 %, en un contexto en el que el encarecimiento de la energía podría dificultar la moderación de los precios.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas mixtas por recuperación tecnológica; petróleo supera los US$106 y se espera inflación de EE. UU.",
+        "capturado": "2026-10-14T07:46:25-05:00"
+      },
+      {
+        "titulo": "Alcalde Galán solicita abrir proceso a Sencia por gramilla de El Campín tras aplazamiento de juego",
+        "url": "https://www.valoraanalitik.com/alcalde-galan-pide-iniciar-proceso-contra-sencia-por-estado-de-la-grama-de-el-campin-tras-suspension-de-partido/",
+        "resumen": "Sencia había asegurado públicamente que la nueva grama estaría en condiciones aptas para disputar un partido de fútbol profesional.",
+        "autor": "",
+        "subseccion": "Valorasports",
+        "publicacion": "",
+        "titulo_fuente": "Alcalde Galán pide iniciar proceso contra Sencia por estado de la grama de El Campín tras suspensión de partido",
+        "capturado": "2026-10-14T07:46:25-05:00"
+      },
+      {
+        "titulo": "Entrevista | Comité Asesor de Comercialización pide que la SuperServicios ordene y dé viabilidad a Air-e",
+        "url": "https://www.valoraanalitik.com/la-superservicios-debe-organizar-y-darle-viabilidad-a-air-e-comite-asesor-de-comercializacion/",
+        "resumen": "El presidente del Comité Asesor de Comercialización expresó que el fenómeno de El Niño es uno de los temas clave en la agenda del sector.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | La SuperServicios debe organizar y darle viabilidad a Air-e: Comité Asesor de Comercialización",
+        "capturado": "2026-10-14T07:46:25-05:00"
+      },
       {
         "titulo": "Paralizan cobro de transporte de carga en el Puerto de Buenaventura y exigen al Gobierno priorizar obras",
         "url": "https://www.valoraanalitik.com/se-suspende-el-cobro-por-el-transporte-de-carga-en-el-puerto-de-buenaventura-piden-al-gobierno-priorizar-obras/",
@@ -563,49 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De La Espriella aprueba licencia ambiental de megaobra para recuperar El Laguito en Cartagena",
         "capturado": "2026-10-10T18:22:20-05:00"
-      },
-      {
-        "titulo": "Banco Serfinanza otorgará préstamos a artesanos para impulsar y consolidar sus emprendimientos",
-        "url": "https://www.valoraanalitik.com/serfinanza-financiara-artesanos-negocios/",
-        "resumen": "La alianza con las primeras damas del país incluye formación financiera y acompañamiento de necesidades de capital de trabajo.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Banco Serfinanza financiará artesanos con créditos para el fortalecimiento de sus negocios",
-        "capturado": "2026-10-10T14:54:57-05:00"
-      },
-      {
-        "titulo": "Entrevista | Renault-Sofasa proyecta máximo histórico en matriculas de automotores para 2026",
-        "url": "https://www.valoraanalitik.com/entrevista-renault-sofasa-ventas-2026/",
-        "resumen": "Juan Camilo Vélez, presidente de la compañía, habla de las exportaciones desde Envigado, el pedido de 23.000 Kwid de México y la apuesta por Venezuela.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Renault-Sofasa prevé cifra récord en carros vendidos en Colombia para este 2026",
-        "capturado": "2026-10-10T14:54:57-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella definió futuro de salario mínimo de 2 millones y aguarda fallo del Consejo de Estado",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-definio-que-pasara-con-salario-minimo-de-2-millones-se-espera-decision-importante-del-consejo-de-estado/",
-        "resumen": "En medio de la expectativa que hay por el salario mínimo, el Gobierno De la Espriella tomó postura sobre los valores establecidos en el decreto vigente.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella definió qué pasará con salario mínimo de $2 millones: Se espera decisión importante del Consejo de Estado",
-        "capturado": "2026-10-10T14:54:57-05:00"
-      },
-      {
-        "titulo": "Sismo en Panamá: Reporte registra más de 400 edificaciones dañadas sin víctimas fatales confirmadas",
-        "url": "https://www.valoraanalitik.com/terremoto-en-panama-balance-deja-mas-de-400-edificios-afectados-no-se-reportan-victimas-mortales/",
-        "resumen": "Autoridades en Panamá informaron que el sismo ocasionó daños materiales en viviendas, instituciones educativas, hospitales, edificios y otras infraestructuras.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Terremoto en Panamá: Balance deja más de 400 edificios afectados; no se reportan víctimas mortales",
-        "capturado": "2026-10-10T14:54:57-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Galán solicita abrir proceso a Sencia por césped de El Campín tras cancelación de encuentro",
+        "url": "https://www.valoraanalitik.com/alcalde-galan-pide-iniciar-proceso-contra-sencia-por-estado-de-la-grama-de-el-campin-tras-suspension-de-partido/",
+        "resumen": "Sencia había asegurado públicamente que la nueva grama estaría en condiciones aptas para disputar un partido de fútbol profesional.",
+        "autor": "",
+        "subseccion": "Valorasports",
+        "publicacion": "",
+        "titulo_fuente": "Alcalde Galán pide iniciar proceso contra Sencia por estado de la grama de El Campín tras suspensión de partido",
+        "capturado": "2026-10-14T07:46:25-05:00"
+      },
+      {
+        "titulo": "Entrevista | La SuperServicios tiene que ordenar y dar viabilidad a Air-e: Comité Asesor",
+        "url": "https://www.valoraanalitik.com/la-superservicios-debe-organizar-y-darle-viabilidad-a-air-e-comite-asesor-de-comercializacion/",
+        "resumen": "El presidente del Comité Asesor de Comercialización expresó que el fenómeno de El Niño es uno de los temas clave en la agenda del sector.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | La SuperServicios debe organizar y darle viabilidad a Air-e: Comité Asesor de Comercialización",
+        "capturado": "2026-10-14T07:46:25-05:00"
+      },
       {
         "titulo": "El Foro AFE Prosperidad Compartida centrará en Medellín conversaciones de educación, economía y región",
         "url": "https://www.valoraanalitik.com/medellin-sera-epicentro-de-dialogo-sobre-desarrollo-territorial-economico-y-educativo-con-el-foro-afe-prosperidad-compartida/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Altia le compra a Isagen cinco proyectos renovables en Colombia; busca expandirse en energía solar",
         "capturado": "2026-10-08T14:22:17-05:00"
-      },
-      {
-        "titulo": "Grandes firmas muestran interés en adquirir la Regasificadora del Pacífico frente a una eventual venta",
-        "url": "https://www.valoraanalitik.com/poderosas-empresas-ya-estan-interesadas-en-comprar-la-regasificadora-del-pacifico-ante-posible-venta-del-proyecto/",
-        "resumen": "Fuentes con conocimiento del tema la dijeron a este medio que el negocio ya está siendo analizado por una fila de compradores de primer nivel.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Poderosas empresas ya están interesadas en comprar la Regasificadora del Pacífico ante posible venta del proyecto",
-        "capturado": "2026-10-08T08:09:45-05:00"
-      },
-      {
-        "titulo": "Enel y Krelo Energy encabezan las iniciativas fotovoltaicas de mayor envergadura en el departamento del Cesar",
-        "url": "https://www.valoraanalitik.com/enel-y-krelo-energy-son-las-companias-que-lideran-los-proyectos-mas-grandes-de-energia-solar-en-cesar/",
-        "resumen": "El departamento tiene 443 megavatios de capacidad instalada en 53 proyectos que ya entregan energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Enel y Krelo Energy son las compañías que lideran los proyectos más grandes de energía solar en Cesar",
-        "capturado": "2026-10-08T08:09:45-05:00"
       }
     ]
   }
