@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-13T20:21:25-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-14T01:36:03-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Paralizan cobro de transporte de carga en el Puerto de Buenaventura y exigen al Gobierno priorizar obras",
+        "url": "https://www.valoraanalitik.com/se-suspende-el-cobro-por-el-transporte-de-carga-en-el-puerto-de-buenaventura-piden-al-gobierno-priorizar-obras/",
+        "resumen": "La gobernadora solicitó “que nos hagan las obras que se necesiten y que siempre hemos reclamado para Buenaventura».",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Se suspende el cobro por el transporte de carga en el Puerto de Buenaventura: piden al Gobierno priorizar obras",
+        "capturado": "2026-10-14T01:36:03-05:00"
+      },
       {
         "titulo": "Decreto firmado por la administración de la Espriella reglamenta las manifestaciones sociales en el país",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-expide-decreto-que-regula-la-protesta-social-en-colombia/",
@@ -592,16 +602,6 @@
         "subseccion": "Internacional",
         "publicacion": "",
         "titulo_fuente": "Terremoto en Panamá: Balance deja más de 400 edificios afectados; no se reportan víctimas mortales",
-        "capturado": "2026-10-10T14:54:57-05:00"
-      },
-      {
-        "titulo": "Entrevista | AKT anuncia dos novedades comerciales y proyecta superar las 220000 unidades colocadas en 2026",
-        "url": "https://www.valoraanalitik.com/entrevista-akt-revela-dos-nuevos-lanzamientos-para-los-proximos-meses-espera-superar-las-220-000-unidades-vendidas-en-2026/",
-        "resumen": "AKT pasó de ensamblar cerca de 50 motos al mes a producir alrededor de 21.000 mensuales.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | AKT revela dos nuevos lanzamientos para los próximos meses: espera superar las 220.000 unidades vendidas en 2026",
         "capturado": "2026-10-10T14:54:57-05:00"
       }
     ],
