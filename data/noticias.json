@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-13T17:29:13-05:00",
-  "nuevos_en_esta_corrida": 22,
+  "actualizado": "2026-10-13T20:21:25-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Decreto firmado por la administración de la Espriella reglamenta las manifestaciones sociales en el país",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-expide-decreto-que-regula-la-protesta-social-en-colombia/",
+        "resumen": "Llega horas antes de las primeras marchas en contra del Gobierno actual, con la participación de organizaciones sindicales, sectores políticos y agrupaciones.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno de la Espriella expide decreto que regula la protesta social en Colombia",
+        "capturado": "2026-10-13T20:21:25-05:00"
+      },
+      {
+        "titulo": "Jubilaciones y vejez en el país: el dato que genera interrogantes sobre el pago futuro de mesadas",
+        "url": "https://www.valoraanalitik.com/pensiones-y-envejecimiento-en-colombia-la-cifra-que-abre-dudas-sobre-como-se-pagaran-las-mesadas-en-el-futuro/",
+        "resumen": "La carga fiscal de las pensiones en Colombia podría aumentar en las próximas décadas. Un análisis advierte sobre el costo de financiar las mesadas.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Pensiones y envejecimiento en Colombia: la cifra que abre dudas sobre cómo se pagarán las mesadas en el futuro",
+        "capturado": "2026-10-13T20:21:25-05:00"
+      },
+      {
+        "titulo": "Asobancaria apoya iniciativa de de la Espriella para restringir transacciones en efectivo de autos, casas y predios",
+        "url": "https://www.valoraanalitik.com/asobancaria-respalda-propuesta-de-de-la-espriella-para-limitar-pagos-en-efectivo-de-carros-viviendas-y-lotes/",
+        "resumen": "Asobancaria resaltó que seguir la ruta del dinero es “fundamental para combatir el lavado de activos y la financiación del terrorismo”.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Asobancaria respalda propuesta de De la Espriella para limitar pagos en efectivo de carros, viviendas y lotes",
+        "capturado": "2026-10-13T20:21:25-05:00"
+      },
+      {
+        "titulo": "Presupuesto 2027: pactan asignar 6 billones de pesos para levantar a Colombia tras el sismo",
+        "url": "https://www.valoraanalitik.com/presupuesto-2027-hay-acuerdo-para-destinar-6-billones-a-la-reconstruccion-de-colombia-tras-el-terremoto/",
+        "resumen": "Explicó el senador, «un acuerdo para reducir el servicio a la deuda en $6,4 billones, de los cuales $6 billones se invertirán para el terremoto».",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto 2027: hay acuerdo para destinar $6 billones a la reconstrucción de Colombia tras el terremoto",
+        "capturado": "2026-10-13T20:21:25-05:00"
+      },
       {
         "titulo": "Gobierno De la Espriella prepara Milagro Week para captar $75 billones en diversos sectores",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-milagro-week-los-sectores-donde-buscara-inversiones-por-75-billones/",
@@ -563,49 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | AKT revela dos nuevos lanzamientos para los próximos meses: espera superar las 220.000 unidades vendidas en 2026",
         "capturado": "2026-10-10T14:54:57-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella prepara decreto clave que eliminaría tardanzas en megaproyectos del país",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-decreto-clave-que-quitaria-demoras-en-megaproyectos-del-pais/",
-        "resumen": "El decreto tiene como objetivo hacer una unificación clave. Según MinInterior, esto aceleraría los procesos para ejecutar los megaproyectos.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella alista decreto clave que quitaría demoras en megaproyectos del país",
-        "capturado": "2026-10-10T10:47:51-05:00"
-      },
-      {
-        "titulo": "Entrevista | Creciente número de colombianos compra proyectos en Miami buscando más que inversión",
-        "url": "https://www.valoraanalitik.com/entrevista-cada-vez-mas-colombianos-le-apuestan-a-comprar-proyectos-en-miami-ya-no-buscan-solo-inversion/",
-        "resumen": "Peggy Olin, CEO de OneWorld Properties, explica en entrevista con Valora Analitik cómo está cambiando el perfil del comprador colombiano en Miami.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Cada vez más colombianos le apuestan a comprar proyectos en Miami: ya no buscan solo inversión",
-        "capturado": "2026-10-10T10:47:51-05:00"
-      },
-      {
-        "titulo": "Primicia | Mineras en Colombia duplicarán producción en 2027 proyectando auge de iniciativas",
-        "url": "https://www.valoraanalitik.com/empresas-mineras-en-colombia-duplicaran-su-produccion-en-2027-se-espera-boom-de-proyectos/",
-        "resumen": "Juan Camilo Valencia, presidente de la Agencia Nacional de Minería, señaló que Colombia tiene un enorme potencial en oro.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Empresas mineras en Colombia duplicarán su producción en 2027: se espera ‘boom’ de proyectos",
-        "capturado": "2026-10-10T10:47:51-05:00"
-      },
-      {
-        "titulo": "Gilinski amarra acuerdo por 25 años para explotar el campo petrolero Bare en Venezuela",
-        "url": "https://www.valoraanalitik.com/gilinski-asegura-contrato-de-25-anos-para-operar-el-yacimiento-petrolero-bare-en-venezuela/",
-        "resumen": "El magnate colombiano obtuvo la concesión de crudo pesado en la Faja del Orinoco y acordó cederla a GeoPark.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Gilinski asegura contrato de 25 años para operar el yacimiento petrolero Bare en Venezuela",
-        "capturado": "2026-10-09T21:36:59-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El Foro AFE Prosperidad Compartida centrará en Medellín conversaciones de educación, economía y región",
+        "url": "https://www.valoraanalitik.com/medellin-sera-epicentro-de-dialogo-sobre-desarrollo-territorial-economico-y-educativo-con-el-foro-afe-prosperidad-compartida/",
+        "resumen": "La cita reunirá a más de 500 asistentes pertenecientes a más de 250 organizaciones del país y del ámbito internacional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Medellín será epicentro de diálogo sobre desarrollo territorial, económico y educativo con el Foro AFE Prosperidad Compartida",
+        "capturado": "2026-10-13T20:21:25-05:00"
+      },
       {
         "titulo": "Faltarían 397.000 toneladas de cobre en 2026 y conflicto en Irán afectaría alza del oro",
         "url": "https://www.valoraanalitik.com/deficit-de-cobre-seria-de-397-000-toneladas-en-2026-guerra-en-iran-podria-impactar-tendencia-al-alza-del-oro/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Enel y Krelo Energy son las compañías que lideran los proyectos más grandes de energía solar en Cesar",
         "capturado": "2026-10-08T08:09:45-05:00"
-      },
-      {
-        "titulo": "Mike Bahía y Greeicy incursionan en la industria alimentaria con un emprendimiento presente en 193 municipios",
-        "url": "https://www.valoraanalitik.com/mike-bahia-y-greeicy-debutan-como-empresarios-de-alimentos-asi-es-su-negocio/",
-        "resumen": "Mike Bahía y Greeicy sorprendieron con una nueva apuesta empresarial que ya comenzó a ganar espacio en diferentes regiones de Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Mike Bahía y Greeicy debutan como empresarios de alimentos: así es su negocio que ya llega a 193 municipios de Colombia",
-        "capturado": "2026-10-07T18:31:01-05:00"
       }
     ]
   }
