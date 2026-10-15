@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-15T14:20:07-05:00",
-  "nuevos_en_esta_corrida": 16,
+  "actualizado": "2026-10-15T17:36:58-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De la Espriella expone progresos del plan de choque en salud y entrega de medicamentos a pacientes",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-revela-avances-del-plan-de-choque-en-salud-y-cuantos-pacientes-ya-reciben-medicamentos/",
+        "resumen": "El nuevo balance del plan de choque en salud del Gobierno De la Espriella reporta avances importantes en el tratamiento de determinadas patologías.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella revela avances del plan de choque en salud y cuántos pacientes ya reciben medicamentos",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "GeoPark incrementa extracción de hidrocarburos y muestra progresos de iniciativas en Argentina y Venezuela",
+        "url": "https://www.valoraanalitik.com/geopark-aumenta-su-produccion-de-petroleo-y-gas-revela-avances-de-proyectos-en-venezuela-y-argentina/",
+        "resumen": "GeoPark trabaja en colaboración con Petróleos de Venezuela (Pdvsa) para cumplir con los requisitos contractuales, reglamentarios y técnicos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark aumenta su producción de petróleo y gas: revela avances de proyectos en Venezuela y Argentina",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "Factura de luz en copropiedades y conjuntos residenciales podría incluir cobros extra por gasto energético",
+        "url": "https://www.valoraanalitik.com/conjuntos-residenciales-y-copropiedades-podrian-tener-cobros-adicionales-por-consumo-de-energia-ojo-con-la-factura/",
+        "resumen": "Muchos ciudadanos recibieron una advertencia en la factura de energía de este mes. La medida podría afectar el bolsillo de conjuntos residenciales.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Conjuntos residenciales y copropiedades podrían tener cobros adicionales por consumo de energía: ojo con la factura",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "Alex Fabián Cañas asume como viceministro de Energía en sustitución de Armando Cuello, próximo a Ecopetrol",
+        "url": "https://www.valoraanalitik.com/alex-fabian-canas-es-el-nuevo-viceministro-de-energia-reemplaza-a-armando-cuello-que-iria-a-ecopetrol/",
+        "resumen": "Cuello participó en varios escenarios en los que afirmó que la prioridad era garantizar la seguridad energética en Colombia.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Alex Fabián Cañas es el nuevo viceministro de Energía: reemplaza a Armando Cuello que iría a Ecopetrol",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "Mario Fernando Cruz Vargas es designado oficialmente como nuevo director de la Unidad de Regulación Financiera",
+        "url": "https://www.valoraanalitik.com/oficial-mario-fernando-cruz-vargas-asumira-la-direccion-de-la-unidad-de-regulacion-financiera-urf/",
+        "resumen": "El Ejecutivo dio por terminado el encargo en la dirección general que venía ejerciendo Magda Mariana Aya Guerrero.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Oficial: Mario Fernando Cruz Vargas asumirá la dirección de la Unidad de Regulación Financiera (URF)",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "Cali lanzó propuesta decisiva por la hidroeléctrica Salvajina y así funcionaría el negocio",
+        "url": "https://www.valoraanalitik.com/alcaldia-de-cali-hizo-oferta-clave-para-quedarse-con-la-hidroelectrica-salvajina-asi-seria-la-operacion/",
+        "resumen": "La iniciativa se encuentra en una fase previa al cierre definitivo, la cual debe ser aprobado por el Concejo de la ciudad.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Alcaldía de Cali hizo oferta clave para quedarse con la hidroeléctrica Salvajina: Así sería la operación",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "Fecha del Simulacro Nacional en Colombia y guía para alistar al hogar frente a un sismo",
+        "url": "https://www.valoraanalitik.com/simulacro-nacional-en-colombia-cuando-sera-y-como-preparar-a-su-familia-ante-un-terremoto/",
+        "resumen": "El Simulacro Nacional en Colombia será una oportunidad para revisar cómo se comunicaría con sus seres queridos y dónde se reunirían ante otro terremoto.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Simulacro Nacional en Colombia: cuándo será y cómo preparar a su familia ante un terremoto",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "Ejecutivo reglamentó la función de intermediarios en consultas previas: sin vocería comunitaria",
+        "url": "https://www.valoraanalitik.com/gobierno-regulo-el-papel-de-terceros-en-consultas-previas-no-podran-tomar-voceria-de-las-comunidades/",
+        "resumen": "Para el Gobierno De la Espriella, la presencia de terceros no va a modificar los derechos de titularidad de las comunidades.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno reguló el papel de terceros en consultas previas: no podrán tomar vocería de las comunidades",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
       {
         "titulo": "El ochenta por ciento de las camisetas del balompié nacional se vende en tres escuadras",
         "url": "https://www.valoraanalitik.com/tres-equipos-concentran-el-80-de-la-venta-de-camisetas-en-el-futbol-colombiano/",
@@ -523,89 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno de la Espriella expide decreto que regula la protesta social en Colombia",
         "capturado": "2026-10-13T20:21:25-05:00"
-      },
-      {
-        "titulo": "Jubilaciones y vejez en el país: el dato que genera interrogantes sobre el pago futuro de mesadas",
-        "url": "https://www.valoraanalitik.com/pensiones-y-envejecimiento-en-colombia-la-cifra-que-abre-dudas-sobre-como-se-pagaran-las-mesadas-en-el-futuro/",
-        "resumen": "La carga fiscal de las pensiones en Colombia podría aumentar en las próximas décadas. Un análisis advierte sobre el costo de financiar las mesadas.",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "Pensiones y envejecimiento en Colombia: la cifra que abre dudas sobre cómo se pagarán las mesadas en el futuro",
-        "capturado": "2026-10-13T20:21:25-05:00"
-      },
-      {
-        "titulo": "Asobancaria apoya iniciativa de de la Espriella para restringir transacciones en efectivo de autos, casas y predios",
-        "url": "https://www.valoraanalitik.com/asobancaria-respalda-propuesta-de-de-la-espriella-para-limitar-pagos-en-efectivo-de-carros-viviendas-y-lotes/",
-        "resumen": "Asobancaria resaltó que seguir la ruta del dinero es “fundamental para combatir el lavado de activos y la financiación del terrorismo”.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Asobancaria respalda propuesta de De la Espriella para limitar pagos en efectivo de carros, viviendas y lotes",
-        "capturado": "2026-10-13T20:21:25-05:00"
-      },
-      {
-        "titulo": "Presupuesto 2027: pactan asignar 6 billones de pesos para levantar a Colombia tras el sismo",
-        "url": "https://www.valoraanalitik.com/presupuesto-2027-hay-acuerdo-para-destinar-6-billones-a-la-reconstruccion-de-colombia-tras-el-terremoto/",
-        "resumen": "Explicó el senador, «un acuerdo para reducir el servicio a la deuda en $6,4 billones, de los cuales $6 billones se invertirán para el terremoto».",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Presupuesto 2027: hay acuerdo para destinar $6 billones a la reconstrucción de Colombia tras el terremoto",
-        "capturado": "2026-10-13T20:21:25-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella prepara Milagro Week para captar $75 billones en diversos sectores",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-milagro-week-los-sectores-donde-buscara-inversiones-por-75-billones/",
-        "resumen": "La Milagro Week llevará a Colombia a una vitrina internacional de inversión en noviembre. El Gobierno ya definió los sectores que quiere presentar.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella alista Milagro Week: los sectores donde buscará inversiones por $75 billones",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Nuevas reglas para arriendos en Colombia sobre aplazar alzas, acordar pagos y prorrogar contratos",
-        "url": "https://www.valoraanalitik.com/arriendos-en-colombia-nuevas-medidas-para-aplazar-aumentos-acordar-pagos-y-extender-contratos/",
-        "resumen": "El mercado de arriendos en Colombia tendrá medidas extraordinarias. Conozca quiénes podrían acceder a los cambios y qué condiciones deben cumplir.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Arriendos en Colombia: nuevas medidas para aplazar aumentos, acordar pagos y extender contratos",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Déficit de cobre sería de 397.000 toneladas en 2026 y conflicto en Irán afectaría alza del oro",
-        "url": "https://www.valoraanalitik.com/deficit-de-cobre-seria-de-397-000-toneladas-en-2026-guerra-en-iran-podria-impactar-tendencia-al-alza-del-oro/",
-        "resumen": "Todo esto se daría con un precio del cobre en US$13.278 por tonelada en 2026 y de US$15.250 por tonelada en 2027.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Déficit de cobre sería de 397.000 toneladas en 2026; guerra en Irán podría impactar tendencia al alza del oro",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Arranca Obras por Impuestos para financiar reconstrucción tras sismo en Colombia",
-        "url": "https://www.valoraanalitik.com/obras-por-impuestos-entra-en-marcha-para-financiar-la-reconstruccion-tras-el-terremoto-en-colombia/",
-        "resumen": "Los recursos podrán destinarse a iniciativas para recuperar, rehabilitar, reconstruir, reforzar, mejorar o reponer infraestructura.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Obras por Impuestos entra en marcha para financiar la reconstrucción tras el terremoto en Colombia",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Primicia | Carlos Casado asume como presidente ejecutivo de Holcim Colombia",
-        "url": "https://www.valoraanalitik.com/primicia-carlos-casado-sera-el-nuevo-presidente-ejecutivo-de-holcim-colombia/",
-        "resumen": "Cuenta con una trayectoria de más de 25 años en Europa, Asia y América Latina, con foco en la industria del cemento.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Carlos Casado será el nuevo presidente ejecutivo de Holcim Colombia",
-        "capturado": "2026-10-13T17:29:13-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "GeoPark incrementa extracción de crudo y gas e informa progresos en obras de Venezuela y Argentina",
+        "url": "https://www.valoraanalitik.com/geopark-aumenta-su-produccion-de-petroleo-y-gas-revela-avances-de-proyectos-en-venezuela-y-argentina/",
+        "resumen": "GeoPark trabaja en colaboración con Petróleos de Venezuela (Pdvsa) para cumplir con los requisitos contractuales, reglamentarios y técnicos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark aumenta su producción de petróleo y gas: revela avances de proyectos en Venezuela y Argentina",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "Alex Fabián Cañas asume como viceministro de Energía en sustitución de Armando Cuello, quien pasaría a Ecopetrol",
+        "url": "https://www.valoraanalitik.com/alex-fabian-canas-es-el-nuevo-viceministro-de-energia-reemplaza-a-armando-cuello-que-iria-a-ecopetrol/",
+        "resumen": "Cuello participó en varios escenarios en los que afirmó que la prioridad era garantizar la seguridad energética en Colombia.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Alex Fabián Cañas es el nuevo viceministro de Energía: reemplaza a Armando Cuello que iría a Ecopetrol",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "Firma de diseño y muebles reportó un alza del 32 % en facturación gracias al comercio electrónico",
+        "url": "https://www.valoraanalitik.com/empresa-del-sector-de-diseno-y-mobiliario-registro-un-crecimiento-en-sus-ventas-del-32-impulsado-por-el-canal-digital/",
+        "resumen": "Este canal comprende tanto las compras realizadas a través de la página web como las ventas gestionadas mediante asesoría en línea.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Empresa del sector de diseño y mobiliario registró un crecimiento en sus ventas del 32 % impulsado por el canal digital",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "Latam Airlines Colombia conmemora su decimoquinto aniversario ofreciendo artículos de empresarios tolimenses en vuelo",
+        "url": "https://www.valoraanalitik.com/latam-airlines-colombia-inicia-la-celebracion-de-sus-15-anos-con-productos-de-empresarios-del-tolima-a-bordo/",
+        "resumen": "Latam Airlines Colombia y la Cámara de Comercio de Ibagué (CCI) se unieron para llevar a cabo una activación gastronómica a bordo.",
+        "autor": "",
+        "subseccion": "Emprendedores",
+        "publicacion": "",
+        "titulo_fuente": "Latam Airlines Colombia inicia la celebración de sus 15 años con productos de empresarios del Tolima a bordo",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "Ejecutivo reglamentó la labor de intermediarios en consultas previas: carecerán de representación comunitaria",
+        "url": "https://www.valoraanalitik.com/gobierno-regulo-el-papel-de-terceros-en-consultas-previas-no-podran-tomar-voceria-de-las-comunidades/",
+        "resumen": "Para el Gobierno De la Espriella, la presencia de terceros no va a modificar los derechos de titularidad de las comunidades.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno reguló el papel de terceros en consultas previas: no podrán tomar vocería de las comunidades",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
+      {
+        "titulo": "El Foro ComplianceLatam en Bogotá reunirá a firmas y expertos para analizar IA, riesgos de norma y compliance",
+        "url": "https://www.valoraanalitik.com/expertos-y-empresas-se-reuniran-en-bogota-durante-el-foro-compliancelatam-para-debatir-sobre-compliance-ia-y-riesgos-regulatorios/",
+        "resumen": "Uno de los componentes de la agenda estará dedicado a los retos que plantea la inteligencia artificial para los sistemas de cumplimiento y gobierno corporativo.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Expertos y empresas se reunirán en Bogotá durante el Foro ComplianceLatam para debatir sobre compliance, IA y riesgos regulatorios",
+        "capturado": "2026-10-15T17:36:58-05:00"
+      },
       {
         "titulo": "GEB alista su llegada a Wall Street impulsado por dos factores y evalúa emitir acciones",
         "url": "https://www.valoraanalitik.com/detonantes-geb-camino-wall-street-acciones/",
@@ -1144,66 +1204,6 @@
         "subseccion": "Conciertos eventos",
         "publicacion": "",
         "titulo_fuente": "Pepsi y Gatorlit estarán en el Festival EDC en Medellín con experiencias y dinámicas para los asistentes",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "La firma hotelera colombiana OxoHotel arranca expansión en Perú e inaugurará Hilton Garden Inn en Pereira",
-        "url": "https://www.valoraanalitik.com/cadena-hotelera-colombiana-oxohotel-inicia-expansion-en-peru-y-abrira-hilton-garden-inn-en-pereira/",
-        "resumen": "La compañía operará dos hoteles que suman 339 habitaciones. En su primera etapa, las propiedades proyectan 140 empleos directos entre Colombia y Perú.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Cadena hotelera colombiana OxoHotel inicia expansión en Perú y abrirá Hilton Garden Inn en Pereira",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "Así funcionarían los subsidios salariales y a independientes que el Gobierno dará a damnificados por sismo",
-        "url": "https://www.valoraanalitik.com/asi-operarian-los-subsidios-a-la-nomina-y-trabajadores-independientes-que-el-gobierno-entregara-a-afectados-por-terremoto/",
-        "resumen": "Detallan los procedimientos para tramitar las solicitudes, verificar los requisitos, reconocer los apoyos, realizar los pagos y atender posibles reclamaciones.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Así operarían los subsidios a la nómina y trabajadores independientes que el Gobierno entregará a afectados por terremoto",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "Scania busca una cuota de doble dígito en vehículos de carga y actualizar flotas en Colombia",
-        "url": "https://www.valoraanalitik.com/scania-apunta-a-una-participacion-de-dos-digitos-en-camiones/",
-        "resumen": "Roberto Barral habló con Valora Analitik sobre las expectativas del mercado para 2027 y las inversiones que prepara Scania para crecer en Colombia.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Scania apunta a una participación de dos dígitos en camiones y renovar flotas en Colombia",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "Ternium llega a dos décadas en la Bolsa de Nueva York: así evolucionó su negocio en Colombia",
-        "url": "https://www.valoraanalitik.com/ternium-cumple-20-anos-en-la-bolsa-de-nueva-york-asi-ha-crecido-su-operacion-en-colombia/",
-        "resumen": "Ternium es una de las empresas siderúrgicas líderes de América con más de 33.000 colaboradores y 20 centros productivos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ternium cumple 20 años en la Bolsa de Nueva York: así ha crecido su operación en Colombia",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "Cómo opera el portafolio corporativo de Puntos Colombia mediante el manejo de datos y los estímulos",
-        "url": "https://www.valoraanalitik.com/de-la-lealtad-a-los-datos-y-los-incentivos-asi-funciona-el-portafolio-corporativo-de-puntos-colombia/",
-        "resumen": "El portafolio responde a una necesidad cada vez más presente en organizaciones: conocer mejor a sus consumidores y encontrar nuevas formas de relacionarse.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "De la lealtad a los datos y los incentivos: así funciona el portafolio corporativo de Puntos Colombia",
-        "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "Feria inmobiliaria en Antioquia congregará 178 iniciativas y prevé transacciones por $130.000 millones",
-        "url": "https://www.valoraanalitik.com/salon-del-inmueble-en-antioquia-reunira-178-proyectos/",
-        "resumen": "El evento se realizará del 23 al 25 de octubre con la participación de 33 constructoras y promotoras que presentarán opciones de vivienda e inversión.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Salón del Inmueble en Antioquia reunirá 178 proyectos y espera negocios por $130.000 millones",
         "capturado": "2026-10-09T18:07:00-05:00"
       }
     ]
