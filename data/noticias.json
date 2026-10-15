@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-15T10:16:50-05:00",
+  "actualizado": "2026-10-15T14:20:07-05:00",
   "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El ochenta por ciento de las camisetas del balompié nacional se vende en tres escuadras",
+        "url": "https://www.valoraanalitik.com/tres-equipos-concentran-el-80-de-la-venta-de-camisetas-en-el-futbol-colombiano/",
+        "resumen": "La Superintendencia de Sociedades resaltó el estado financiero de los equipos del fútbol colombiano.",
+        "autor": "",
+        "subseccion": "Futbol colombiano",
+        "publicacion": "",
+        "titulo_fuente": "Tres equipos concentran el 80 % de la venta de camisetas en el fútbol colombiano",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio cae de 3180 pesos en Colombia por caída de tasas de los bonos del Tesoro",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-rompe-el-piso-de-los-3-180-impulsado-por-desplome-en-los-rendimientos-del-tesoro/",
+        "resumen": "La divisa abrió a la baja en $3.165 y marcó de inmediato un máximo intradiario de $3.183.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia rompe el piso de los $3.180 impulsado por desplome en los rendimientos del Tesoro",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Exclusiva | Dos factores impulsan al GEB hacia Wall Street y estudia emitir papeles",
+        "url": "https://www.valoraanalitik.com/detonantes-geb-camino-wall-street-acciones/",
+        "resumen": "La compañía calcula que el precio de cada ADR en la Bolsa de Nueva York podría moverse en un rango entre US$20 y US$25, sin ser una decisión en firme.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Exclusiva | Los dos “detonantes” para que el GEB comience su camino a Wall Street; no descarta emisión de acciones",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Compañías de seguros informan el monto del daño por el sismo y los pagos a damnificados",
+        "url": "https://www.valoraanalitik.com/aseguradoras-revelan-a-cuanto-ascienden-las-perdidas-por-el-terremoto-en-colombia-y-cuanto-han-pagado-a-los-afectados/",
+        "resumen": "Fasecolda actualizó el balance de reclamaciones por el terremoto del 10 de agosto y detalló dónde se concentran los daños y las indemnizaciones.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Aseguradoras revelan a cuánto ascienden las pérdidas por el terremoto en Colombia y cuánto han pagado a los afectados",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Termina plan de Petro de Caminos Comunitarios Para la Paz y lanzarán Caminos del Tigre",
+        "url": "https://www.valoraanalitik.com/se-acaba-el-programa-de-petro-de-caminos-comunitarios-para-la-paz/",
+        "resumen": "El programa del Gobierno anterior apenas llegó a 12 % de ejecución, por lo cual se liquidará en las próximas semanas.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Se acaba el programa de Petro de Caminos Comunitarios Para la Paz: Gobierno creará los ‘Caminos del Tigre’",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Regalías y obras por impuestos han dinamizado la reconstrucción posgremblor del gobierno De la Espriella",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-ha-acelerado-la-reconstruccion-tras-el-terremoto-con-regalias-y-obras-por-impuestos/",
+        "resumen": "Ante la Comisión Bicameral para Damnificados, el director del DNP detalló la presentación de proyectos territoriales para la reconstrucción.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella ha acelerado la reconstrucción tras el terremoto con regalías y obras por Impuestos",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "XM reporta más de 360 suspensiones eléctricas programadas en Colombia durante 2026",
+        "url": "https://www.valoraanalitik.com/colombia-ha-tenido-mas-de-360-cortes-de-energia-programados-en-2026-xm/",
+        "resumen": "XM advirtió que, durante siete meses, en medio del fenómeno de El Niño, se va a requerir generación térmica al máximo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia ha tenido más de 360 cortes de energía programados en 2026: XM",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "El gobierno De La Espriella define asuntos cruciales de Aerocafé, Autopistas del Café y grandes obras caldenses",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-toma-decisiones-clave-autopistas-del-cafe-aerocafe-megaobras-caldas/",
+        "resumen": "La ministra Elsa Noguea confirmó que la concesión vial se ampliará unos meses mientras se toman decisiones de fondo.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella toma decisiones clave sobre Autopistas del Café, Aerocafé y otras megaobras de Caldas",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Sugieren crear una entidad para prevenir desabastecimientos de comida en supermercados del país por ciberataques, tal como ocurrió en Francia",
+        "url": "https://www.valoraanalitik.com/proponen-agencia-para-evitar-que-supermercados-colombianos-se-queden-sin-alimentos-por-ciberataques-como-ya-paso-en-francia/",
+        "resumen": "Un ciberataque en supermercados de Francia dañó alimentos y encendió las alertas sobre la seguridad digital de servicios esenciales en Colombia.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Proponen agencia para evitar que supermercados colombianos se queden sin alimentos por ciberataques, como ya pasó en Francia",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
       {
         "titulo": "Inician sesiones de la junta del Fondo Milagro para definir la reconstrucción nacional por el sismo",
         "url": "https://www.valoraanalitik.com/consejo-directivo-del-fondo-milagro-arranca-reuniones-reconstruccion-tras-terremoto/",
@@ -513,99 +603,79 @@
         "publicacion": "",
         "titulo_fuente": "Primicia | Carlos Casado será el nuevo presidente ejecutivo de Holcim Colombia",
         "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Precio de aseo en Colombia variaría en 2027: alertan sobre posibles alzas en la factura",
-        "url": "https://www.valoraanalitik.com/tarifa-de-aseo-en-colombia-cambiaria-en-2027-advierten-sobre-posibles-aumentos-en-el-recibo/",
-        "resumen": "La tarifa de aseo tendrá nuevas reglas desde 2027, mientras sigue en discusión una solicitud que podría cambiar el futuro del cobro a los usuarios.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Tarifa de aseo en Colombia cambiaría en 2027: advierten sobre posibles aumentos en el recibo",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Cerro Matoso cumplió dos meses funcionando al cincuenta por ciento por ausencia de gas de Canacol",
-        "url": "https://www.valoraanalitik.com/cerro-matoso-completo-dos-meses-operando-a-media-maquina-por-la-falta-del-gas-de-canacol/",
-        "resumen": "Según lo mencionó, las pérdidas para Colombia ascienden a $90.000 millones y la misma empresa dejó de producir 2.400 toneladas de níquel.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Cerro Matoso completó dos meses operando a media máquina por la falta del gas de Canacol",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia bajó y alcanzó este martes mínimos de 3.170 pesos: razones que alteraron el mercado",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-cerro-a-la-baja-y-llego-este-martes-a-minimos-de-3-170-los-factores-que-movieron-el-mercado/",
-        "resumen": "El gerente del Banco de la República, Leonardo Villar, explicó por qué ha bajado el dólar en Colombia.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia cerró a la baja y llegó este martes a mínimos de $3.170 : los factores que movieron el mercado",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "MinHacienda autoriza al Metro de Bogotá para adquirir seguros de riesgo financiero",
-        "url": "https://www.valoraanalitik.com/metro-de-bogota-recibe-autorizacion-de-minhacienda-para-contratar-coberturas-de-riesgo-financiero/",
-        "resumen": "El Ministerio otorgo permiso para negociar contratos de cambios en las tasas de interés y en la tasa de cambio asociados a sus créditos.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Metro de Bogotá recibe autorización de MinHacienda para contratar coberturas de riesgo financiero",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Director del Banco de la República expone motivo principal por el que el dólar continuaría bajo en Colombia",
-        "url": "https://www.valoraanalitik.com/gerente-banrep-revela-razon-clave-dolar-seguiria-barato-en-colombia/",
-        "resumen": "Leonardo Villar, gerente del emisor, también se refirió al incremento del desempleo en el país y el alza del riesgo país.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Gerente del Banco de la República revela razón clave por la que el dólar seguiría barato en Colombia",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Empresa no puede castigar ni rebajar sueldo si se ausenta por esta causa",
-        "url": "https://www.valoraanalitik.com/si-falta-al-trabajo-por-esta-razon-su-empresa-podria-no-poder-sancionarlo-ni-descontarle-el-salario/",
-        "resumen": "Faltar al trabajo puede generar consecuencias laborales, pero hay situaciones excepcionales en las que la empresa debe evaluar qué le pasó al trabajador.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Si falta al trabajo por esta razón, su empresa no podría sancionarlo ni descontarle el salario",
-        "capturado": "2026-10-13T12:44:42-05:00"
-      },
-      {
-        "titulo": "Puerto Antioquia inaugura conexión marítima con Asia y China",
-        "url": "https://www.valoraanalitik.com/relevante-puerto-antioquia-estrena-ruta-maritima-directa-con-asia-y-china-asi-operara-el-servicio-semanal/",
-        "resumen": "La conexión también se suma a los servicios que el puerto ha incorporado para atender mercados de Estados Unidos, Europa y América Latina.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Puerto Antioquia estrena ruta marítima directa con Asia y China: así operará el servicio semanal",
-        "capturado": "2026-10-13T12:44:42-05:00"
-      },
-      {
-        "titulo": "Condición de la DIAN para prevenir cobros de IVA avalada por el Consejo de Estado",
-        "url": "https://www.valoraanalitik.com/dian-el-requisito-que-se-debe-cumplir-para-evitar-cobros-de-iva-segun-el-consejo-de-estado/",
-        "resumen": "La DIAN puede desconocer el tratamiento de ciertas ventas como exentas de IVA si las empresas no acreditan una condición clave.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "DIAN: el requisito que se debe cumplir para evitar cobros de IVA, según el Consejo de Estado",
-        "capturado": "2026-10-13T12:44:42-05:00"
-      },
-      {
-        "titulo": "Unilever consolida fusión que traspasará a otros dueños marcas como Fruco y Maizena",
-        "url": "https://www.valoraanalitik.com/fusion-negocio-alimentos-unilever-colombia/",
-        "resumen": "La transacción con McCormick ya recibió el visto bueno del regulador de Reino Unido y el trámite ya cursa en la Superintendencia de Industria y Comercio.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fruco, Maizena y otras marcas consumidas por los colombianos cambiarán de dueño: avanza fusión del negocio de Unilever",
-        "capturado": "2026-10-13T12:44:42-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "GEB alista su llegada a Wall Street impulsado por dos factores y evalúa emitir acciones",
+        "url": "https://www.valoraanalitik.com/detonantes-geb-camino-wall-street-acciones/",
+        "resumen": "La compañía calcula que el precio de cada ADR en la Bolsa de Nueva York podría moverse en un rango entre US$20 y US$25, sin ser una decisión en firme.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Exclusiva | Los dos “detonantes” para que el GEB comience su camino a Wall Street; no descarta emisión de acciones",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Aseguradoras informan el valor de las pérdidas por el sismo en Colombia y los pagos hechos",
+        "url": "https://www.valoraanalitik.com/aseguradoras-revelan-a-cuanto-ascienden-las-perdidas-por-el-terremoto-en-colombia-y-cuanto-han-pagado-a-los-afectados/",
+        "resumen": "Fasecolda actualizó el balance de reclamaciones por el terremoto del 10 de agosto y detalló dónde se concentran los daños y las indemnizaciones.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Aseguradoras revelan a cuánto ascienden las pérdidas por el terremoto en Colombia y cuánto han pagado a los afectados",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Merco 2026 ubica a Alquería entre las cinco principales empresas para la población del país",
+        "url": "https://www.valoraanalitik.com/alqueria-entra-al-top-5-de-las-mejores-empresas-para-la-poblacion-general-colombiana-segun-merco-2026/",
+        "resumen": "Alquería ha evolucionado de una compañía reconocida principalmente por sus productos lácteos a una empresa de alimentos multimarca y multicategoría.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Alquería entra al top 5 de las mejores empresas para la población general colombiana, según Merco 2026",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Termina el programa Caminos Comunitarios Para la Paz de Petro y el Gobierno lanza Caminos del Tigre",
+        "url": "https://www.valoraanalitik.com/se-acaba-el-programa-de-petro-de-caminos-comunitarios-para-la-paz/",
+        "resumen": "El programa del Gobierno anterior apenas llegó a 12 % de ejecución, por lo cual se liquidará en las próximas semanas.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Se acaba el programa de Petro de Caminos Comunitarios Para la Paz: Gobierno creará los ‘Caminos del Tigre’",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "XM reporta que Colombia registra más de 360 suspensiones de energía programadas en 2026",
+        "url": "https://www.valoraanalitik.com/colombia-ha-tenido-mas-de-360-cortes-de-energia-programados-en-2026-xm/",
+        "resumen": "XM advirtió que, durante siete meses, en medio del fenómeno de El Niño, se va a requerir generación térmica al máximo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia ha tenido más de 360 cortes de energía programados en 2026: XM",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Gobierno De La Espriella adopta medidas cruciales frente a Aerocafé, Autopistas del Café y más megaobras caldenses",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-toma-decisiones-clave-autopistas-del-cafe-aerocafe-megaobras-caldas/",
+        "resumen": "La ministra Elsa Noguea confirmó que la concesión vial se ampliará unos meses mientras se toman decisiones de fondo.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella toma decisiones clave sobre Autopistas del Café, Aerocafé y otras megaobras de Caldas",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
+      {
+        "titulo": "Sugieren crear entidad para prevenir desabastecimiento en supermercados colombianos por ciberataques ocurridos en Francia",
+        "url": "https://www.valoraanalitik.com/proponen-agencia-para-evitar-que-supermercados-colombianos-se-queden-sin-alimentos-por-ciberataques-como-ya-paso-en-francia/",
+        "resumen": "Un ciberataque en supermercados de Francia dañó alimentos y encendió las alertas sobre la seguridad digital de servicios esenciales en Colombia.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Proponen agencia para evitar que supermercados colombianos se queden sin alimentos por ciberataques, como ya pasó en Francia",
+        "capturado": "2026-10-15T14:20:07-05:00"
+      },
       {
         "titulo": "Inician los encuentros de la junta del Fondo Milagro para definir la reconstrucción nacional por sismo",
         "url": "https://www.valoraanalitik.com/consejo-directivo-del-fondo-milagro-arranca-reuniones-reconstruccion-tras-terremoto/",
@@ -1135,76 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Salón del Inmueble en Antioquia reunirá 178 proyectos y espera negocios por $130.000 millones",
         "capturado": "2026-10-09T18:07:00-05:00"
-      },
-      {
-        "titulo": "CFI participa en Bolsa Millonaria 2026, el concurso que acerca a Colombia al mercado bursátil",
-        "url": "https://www.valoraanalitik.com/cfi-entra-a-bolsa-millonaria-2026/",
-        "resumen": "La firma patrocinará las ligas bronce y diamante de la competencia, que este año reunirá a participantes durante cinco semanas para invertir de forma simulada.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "CFI entra a Bolsa Millonaria 2026, la competencia que acerca a Colombia al mercado de capitales",
-        "capturado": "2026-10-09T13:44:32-05:00"
-      },
-      {
-        "titulo": "Regasificadora del Pacífico recibe la embarcación con la que empezará labores en noviembre de 2026",
-        "url": "https://www.valoraanalitik.com/regasificadora-del-pacifico-recibe-el-buque-con-el-que-iniciara-operaciones-en-noviembre-de-2026/",
-        "resumen": "Para los directivos de la regasificadora, el proyecto será clave para fortalecer el abastecimiento de gas natural en el occidente colombiano.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Regasificadora del Pacífico recibe el buque con el que iniciará operaciones en noviembre de 2026",
-        "capturado": "2026-10-09T13:44:32-05:00"
-      },
-      {
-        "titulo": "Cosecha cafetera en Colombia bajó 15 % en el periodo 2025-2026: alcanzó 12,65 millones de sacos",
-        "url": "https://www.valoraanalitik.com/produccion-de-cafe-en-colombia-cayo-15-en-el-ano-cafetero-2025-2026/",
-        "resumen": "Las exportaciones también retrocedieron 12 % en el ciclo, aunque en septiembre registraron un repunte del 9 %, según cifras de la FNC.",
-        "autor": "",
-        "subseccion": "Cafe en colombia",
-        "publicacion": "",
-        "titulo_fuente": "Producción de café en Colombia cayó 15 % en el año cafetero 2025-2026: llegó a 12,65 millones de sacos",
-        "capturado": "2026-10-09T13:44:32-05:00"
-      },
-      {
-        "titulo": "El desafío del primer empleo en Colombia: muchachos chocan con obstáculos por carecer de experiencia",
-        "url": "https://www.valoraanalitik.com/jovenes-se-enfrentan-a-barreras-por-falta-de-experiencia-laboral/",
-        "resumen": "Un nuevo informe identifica cinco prioridades para mejorar el acceso al mercado laboral, la calidad del empleo y las oportunidades para los jóvenes.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "El reto del primer empleo en Colombia: jóvenes se enfrentan a barreras por falta de experiencia",
-        "capturado": "2026-10-09T13:44:32-05:00"
-      },
-      {
-        "titulo": "Ahora | Ejecutivo solicita aprobar con prontitud iniciativa para sumar $2,7 billones al Presupuesto 2026",
-        "url": "https://www.valoraanalitik.com/gobierno-urgencia-adicion-presupuesto-2026/",
-        "resumen": "La iniciativa busca incorporar recursos destinados exclusivamente a atender el terremoto del pasado 10 de agosto.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Gobierno pide tramitar con urgencia proyecto para adicionar $2,7 billones al Presupuesto de 2026",
-        "capturado": "2026-10-09T13:44:32-05:00"
-      },
-      {
-        "titulo": "Gobierno suscribe nueve acuerdos de ronda minera para iniciativas de oro, cobre, polimetálicos y fosfatos",
-        "url": "https://www.valoraanalitik.com/gobierno-firma-nueve-contratos-de-ronda-minera-para-proyectos-de-oro-cobro-polimetalicos-y-fosfatos/",
-        "resumen": "Campos de cobre, minerales polimetálicos, oro y minerales asociados se encuentran en Antioquia, Cesar, La Guajira y Tolima; el de fosfatos está en el Huila.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno firma nueve contratos de ronda minera para proyectos de oro, cobro, polimetálicos y fosfatos",
-        "capturado": "2026-10-09T13:44:32-05:00"
-      },
-      {
-        "titulo": "Cox selló pacto de venta de energía a largo plazo con EPM y procura afianzarse en el país y la zona",
-        "url": "https://www.valoraanalitik.com/cox-cerro-contrato-de-venta-de-energia-a-largo-plazo-con-epm-y-busca-fortalecerse-en-colombia-y-la-region/",
-        "resumen": "La compañía gestiona activos de agua y energía solar y tiene una cartera de 20 proyectos fotovoltaicos en Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Cox cerró contrato de venta de energía a largo plazo con EPM y busca fortalecerse en Colombia y la región",
-        "capturado": "2026-10-09T13:44:32-05:00"
       }
     ]
   }
