@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-14T19:02:56-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-10-15T00:02:31-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Millicom confirma inyección de 8,5 billones de pesos en Colombia en cuatro años y detalla su plan",
+        "url": "https://www.valoraanalitik.com/millicom-anuncia-inversion-de-85-billones-en-colombia-para-los-proximos-cuatro-anos-frentes-que-contempla-la-estrategia/",
+        "resumen": "Tigo ejecutará más de 5.000 ampliaciones de capacidad y desplegará más de 1.100 nuevos sitios de cobertura.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Millicom anuncia inversión de $8,5 billones en Colombia para los próximos cuatro años: frentes que contempla la estrategia",
+        "capturado": "2026-10-15T00:02:31-05:00"
+      },
       {
         "titulo": "De la Espriella confirma tratados comerciales con la administración Trump para captar inversión hacia Colombia",
         "url": "https://www.valoraanalitik.com/de-la-espriella-confirma-que-colombia-avanza-en-acuerdos-comerciales-con-el-gobierno-trump-para-atraer-inversion/",
@@ -593,19 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Presupuesto 2027: Congreso retoma debate y se viene semana clave para su aprobación",
         "capturado": "2026-10-12T21:55:47-05:00"
-      },
-      {
-        "titulo": "Gobierno de la Espriella abrió línea de crédito de Bancóldex por $20.000 millones para Quindío",
-        "url": "https://www.valoraanalitik.com/tras-el-terremoto-gobierno-de-la-espriella-abrio-linea-de-credito-de-20-000-millones-de-bancoldex-para-quindio/",
-        "resumen": "Los recursos buscan respaldar iniciativas asociadas al turismo, el comercio y la reactivación de las cadenas productivas del departamento.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Tras el terremoto, Gobierno de la Espriella abrió línea de crédito de $20.000 millones de Bancóldex para Quindío",
-        "capturado": "2026-10-12T21:55:47-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Millicom confirma inyección de 8,5 billones de pesos en Colombia en cuatro años y detalla sus planes",
+        "url": "https://www.valoraanalitik.com/millicom-anuncia-inversion-de-85-billones-en-colombia-para-los-proximos-cuatro-anos-frentes-que-contempla-la-estrategia/",
+        "resumen": "Tigo ejecutará más de 5.000 ampliaciones de capacidad y desplegará más de 1.100 nuevos sitios de cobertura.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Millicom anuncia inversión de $8,5 billones en Colombia para los próximos cuatro años: frentes que contempla la estrategia",
+        "capturado": "2026-10-15T00:02:31-05:00"
+      },
       {
         "titulo": "María Eugenia Tous asume la presidencia del Grupo Petromil",
         "url": "https://www.valoraanalitik.com/maria-eugenia-tous-fue-nombrada-presidenta-del-grupo-petromil/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Infraestructura",
         "publicacion": "",
         "titulo_fuente": "Sacyr prevé cerrar financiación del Canal del Dique en diciembre y arrancar obras en 2027",
-        "capturado": "2026-10-08T18:52:00-05:00"
-      },
-      {
-        "titulo": "Cesar registra auge solar y los recursos superarían los US$500 millones",
-        "url": "https://www.valoraanalitik.com/cesar-vive-un-boom-de-proyectos-solares-inversiones-podrian-superar-los-us500-millones/",
-        "resumen": "SER Colombia reveló que este departamento colombiano es el segundo más importante para la generación solar, tan solo detrás de Atlántico.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Cesar vive un ‘boom’ de proyectos solares: inversiones podrían superar los US$500 millones",
         "capturado": "2026-10-08T18:52:00-05:00"
       }
     ]
