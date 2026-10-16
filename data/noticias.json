@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-16T01:14:48-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-16T06:48:06-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "FMI advierte en relevante reporte que tasa de desocupación nacional retornaría a dos cifras",
+        "url": "https://www.valoraanalitik.com/desempleo-en-colombia-podria-volver-al-doble-digito-alerta-importante-informe-del-fmi/",
+        "resumen": "El desempleo en Colombia volvió a subir, de acuerdo con los recientes datos del DANE.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Desempleo en Colombia podría volver al doble dígito, alerta importante informe del FMI",
+        "capturado": "2026-10-16T06:48:06-05:00"
+      },
+      {
+        "titulo": "Por tales motivos el Emisor solicitó prudencia frente al incremento del sueldo básico",
+        "url": "https://www.valoraanalitik.com/por-estas-razones-el-banco-de-la-republica-ha-pedido-mesura-frente-al-aumento-del-salario-minimo/",
+        "resumen": "Se espera que las discusiones sobre el aumento del salario mínimo en Colombia empiecen formalmente en noviembre",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Por estas razones el Banco de la República ha pedido mesura con el aumento del salario mínimo",
+        "capturado": "2026-10-16T06:48:06-05:00"
+      },
       {
         "titulo": "Gobierno De la Espriella restringe nuevas contrataciones por prestación de servicios en el sector público",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-limita-nuevos-contratos-de-prestacion-de-servicios-en-el-estado/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "La apretada agenda de conciertos que tendrá El Campín en 2027: ¿Millonarios y Santa Fe tendrán que buscar estadio?",
         "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia sube a $3.199,5 en la apertura por dato sorpresivo de inflación en Estados Unidos",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-al-alza-en-3-1995-impulsado-por-sorpresa-inflacionaria-en-estados-unidos/",
-        "resumen": "En el mercado local, la apertura en $3.199,50 anticipa que la tasa de cambio se moverá dentro de los rangos operativos previstos.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre al alza en $3.199,5 impulsado por sorpresa inflacionaria en Estados Unidos",
-        "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "FMI enviará nueva misión a Colombia en noviembre para progresar en estrategia fiscal",
-        "url": "https://www.valoraanalitik.com/fmi-tendra-nueva-mision-a-colombia-avanzar-plan-de-rescate-fiscal/",
-        "resumen": "La nueva visita incluirá la consulta del Artículo IV del Convenio del FMI, con el cual se evalúa la situación económica y financiera de los países.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | FMI tendrá nueva misión a Colombia en noviembre para avanzar en plan de rescate fiscal",
-        "capturado": "2026-10-14T12:53:38-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Air-e superará el límite de pasivos por cuatro billones de pesos a las firmas eléctricas",
+        "url": "https://www.valoraanalitik.com/air-e-rompera-el-techo-de-deudas-por-4-billones-a-las-empresas-del-sector-electrico/",
+        "resumen": "Cálculos del promedio de la deuda revelaron que se ha disparado en cerca de $150.000 millones mensuales en los últimos dos años.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Air-e romperá el techo de deudas por $4 billones a las empresas del sector eléctrico",
+        "capturado": "2026-10-16T06:48:06-05:00"
+      },
       {
         "titulo": "Ignacio Bravo asume como gerente general de Banco Falabella Colombia",
         "url": "https://www.valoraanalitik.com/ignacio-bravo-nuevo-gerente-general-de-banco-falabella-colombia/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Entrevista | Cada vez más colombianos le apuestan a comprar proyectos en Miami: ya no buscan solo inversión",
-        "capturado": "2026-10-10T10:47:51-05:00"
-      },
-      {
-        "titulo": "Primicia | Mineras en Colombia doblarán su producción en 2027 ante auge de obras",
-        "url": "https://www.valoraanalitik.com/empresas-mineras-en-colombia-duplicaran-su-produccion-en-2027-se-espera-boom-de-proyectos/",
-        "resumen": "Juan Camilo Valencia, presidente de la Agencia Nacional de Minería, señaló que Colombia tiene un enorme potencial en oro.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Empresas mineras en Colombia duplicarán su producción en 2027: se espera ‘boom’ de proyectos",
         "capturado": "2026-10-10T10:47:51-05:00"
       }
     ]
