@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-16T06:48:06-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-16T11:25:04-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El impulso comercial compensa la caída industrial de agosto",
+        "url": "https://www.valoraanalitik.com/dinamismo-del-comercio-contrarresta-el-tropiezo-de-la-industria-en-agosto/",
+        "resumen": "En los primeros ocho meses de 2026 en comparación con el año anterior, el comercio mantiene una trayectoria alcista y la industria se desacelera.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Dinamismo del comercio contrarresta el tropiezo de la industria en agosto",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "Fitch reporta baja del 9,2 % en libranzas a junio en el país, pese a seguir con tendencia positiva",
+        "url": "https://www.valoraanalitik.com/fitch-creditos-libranzas-colombia/",
+        "resumen": "La calificadora prevé un desempeño resiliente en las titularizaciones de estos préstamos, respaldado por perfiles de bajo riesgo.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fitch: Créditos de libranzas cayeron 9,2 % en primer semestre en Colombia, pero mantienen tendencia positiva",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "FMI ratifica opción de crédito a Colombia y precisa que dependerá de la administración nacional",
+        "url": "https://www.valoraanalitik.com/fmi-reitera-posibilidad-de-dar-financiamiento-a-colombia-pero-aclara-que-decisiones-dependera-del-gobierno/",
+        "resumen": "El organismo confirmó que a principios de noviembre enviarán una misión técnica a Colombia para dar continuidad a las discusiones con el Gobierno.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "FMI reitera posibilidad de dar financiamiento a Colombia, pero aclara que decisiones dependerá del Gobierno",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "Abonos encarecerían en el país y golpearían la comida por alza global de la urea",
+        "url": "https://www.valoraanalitik.com/fertilizantes-subirian-de-precio-en-colombia-y-afectaria-precios-de-alimentos-por-repunte-internacional-de-la-urea/",
+        "resumen": "El precio internacional de la urea subió 6,9 % en septiembre y podría presionar los costos agrícolas en Colombia durante el cierre de 2026.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Fertilizantes subirían de precio en Colombia y afectaría precios de alimentos por repunte internacional de la urea",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "Diez megaobras nacionales acelerarán trabajos tras destrabar permisos y trámites ecológicos",
+        "url": "https://www.valoraanalitik.com/los-10-megaproyectos-en-colombia-que-aceleraran-sus-obras/",
+        "resumen": "El presidente de la ANI, Ricardo Ayerbe, aseguró que mantendrá mesas de trabajo con la ANLA para destrabar iniciativas en el país.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Los 10 megaproyectos en Colombia que acelerarán sus obras tras destrabe de licencias y trámites ambientales",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "Dólar arranca en $3.165 a la baja al tiempo que el índice DXY prueba el soporte vital de 101 puntos",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-en-3-165-con-leve-caida-mientras-el-indice-dxy-reta-el-soporte-clave-de-los-101-puntos/",
+        "resumen": "El dólar global, medido a través del índice DXY, se encuentra retando de manera directa el piso clave en los 101,70 puntos.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre en $3.165 con leve caída, mientras el índice DXY reta el soporte clave de los 101 puntos",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "Tesla asombra al planeta al revelar su primer auto capaz de volar y estas son las especificaciones",
+        "url": "https://www.valoraanalitik.com/tesla-sorprende-al-mundo-y-presenta-su-primer-carro-que-puede-volar-estos-son-los-detalles/",
+        "resumen": "La compañía anunció tres configuraciones del deportivo: Performance, Thrust y Rocket, con diferencias en su capacidad de aceleración.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tesla sorprende al mundo y presenta su primer carro que puede volar: estos son los detalles",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "MinHacienda reitera déficit fiscal previo y defiende recorte presupuestal ante el Senado",
+        "url": "https://www.valoraanalitik.com/minhacienda-insiste-en-un-hueco-fiscal-heredado-y-defiende-el-ajuste-del-presupuesto-en-el-senado/",
+        "resumen": "Frente a las críticas por el incremento en el servicio de la deuda, el ministro aclaró que responde a compromisos de administraciones pasadas.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda insiste en un «hueco fiscal» heredado y defiende el ajuste del Presupuesto en el Senado",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "Premercado | Mercados mundiales, futuros de Wall Street y crudo: factores para la apertura del 16 de octubre de 2026",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-globales-futuros-de-wall-street-y-petroleo-claves-para-la-apertura-del-16-de-octubre-de-2026/",
+        "resumen": "Los precios internacionales del petróleo se encaminaban a cerrar la semana con ganancias.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas globales, futuros de Wall Street y petróleo: claves para la apertura del 16 de octubre de 2026",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "Bogotá-Región captó 56 iniciativas de inversión foránea por US$456 millones durante 2026",
+        "url": "https://www.valoraanalitik.com/bogota-region-atrajo-56-proyectos-de-inversion-extranjera-por-us456-millones-en-2026/",
+        "resumen": "La diversificación geográfica continúa siendo una característica de la inversión que recibe Bogotá-Región.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá-Región atrajo 56 proyectos de inversión extranjera por US$456 millones en 2026",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
       {
         "titulo": "FMI advierte en relevante reporte que tasa de desocupación nacional retornaría a dos cifras",
         "url": "https://www.valoraanalitik.com/desempleo-en-colombia-podria-volver-al-doble-digito-alerta-importante-informe-del-fmi/",
@@ -503,109 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Pei oficializó su segundo formador de liquidez para sus títulos en el mercado local",
         "capturado": "2026-10-14T16:28:37-05:00"
-      },
-      {
-        "titulo": "BMW alista una nueva fase en Colombia con actualización de su oferta y llegada de eléctricos",
-        "url": "https://www.valoraanalitik.com/entrevista-bmw-prepara-una-nueva-etapa-en-colombia-renovara-su-portafolio-y-traera-nuevos-modelos-electricos/",
-        "resumen": "José Guillermo Marín, director de Mercadeo de BMW en Colombia, explica los cambios que vienen para la marca y sus próximos lanzamientos.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | BMW prepara una nueva etapa en Colombia: renovará su portafolio y traerá nuevos modelos eléctricos",
-        "capturado": "2026-10-14T16:28:37-05:00"
-      },
-      {
-        "titulo": "Cerca de 80 % de firmas petroleras y gasíferas afrontarían mermas productivas hacia 2040",
-        "url": "https://www.valoraanalitik.com/hasta-80-de-las-empresas-de-petroleo-y-gas-podrian-ver-caidas-en-su-produccion-hacia-2040/",
-        "resumen": "Inversiones en exploración, incorporación de tecnología y aprovechar oportunidades a través de socios clave serán vitales para el mercado.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Hasta 80 % de las empresas de petróleo y gas podrían ver caídas en su producción hacia 2040",
-        "capturado": "2026-10-14T16:28:37-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia detiene su tendencia a la baja y se fije en tres mil ciento ochenta y tres pesos",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-frena-su-racha-bajista-y-se-estabiliza-en-3-183/",
-        "resumen": "La divisa abrió al alza en $3.200 y trepó rápidamente hasta marcar un máximo intradiario de $3.214.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia frena su racha bajista y se estabiliza en $3.183",
-        "capturado": "2026-10-14T16:28:37-05:00"
-      },
-      {
-        "titulo": "Ejecutivo buscaría cambiar la Paz Total por un esquema de sometimiento a la justicia",
-        "url": "https://www.valoraanalitik.com/gobierno-buscaria-reemplazar-la-paz-total-con-un-modelo-de-sometimiento-a-la-justicia/",
-        "resumen": "El Gobierno rendiría un informe anual al Congreso, y el Senado publicaría en tres meses un texto unificado de la Ley 418.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno buscaría reemplazar la “Paz Total” con un modelo de sometimiento a la justicia",
-        "capturado": "2026-10-14T16:28:37-05:00"
-      },
-      {
-        "titulo": "GEB lanzará bonos locales por 400.000 millones de pesos y este será su destino",
-        "url": "https://www.valoraanalitik.com/geb-emitira-titulos-400-000-millones/",
-        "resumen": "La empresa indicó que los recursos serán destinados en 100 % para la financiación de propósitos corporativos generales.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "GEB emitirá títulos en mercado local por $400.000 millones: este será el destino de los recursos",
-        "capturado": "2026-10-14T16:28:37-05:00"
-      },
-      {
-        "titulo": "Proyección del sueldo básico en Colombia para 2027 sin el subsidio de transporte según reciente análisis",
-        "url": "https://www.valoraanalitik.com/salario-minimo-2027-este-seria-el-sueldo-en-colombia-sin-contar-el-auxilio-de-transporte-segun-nuevo-estudio/",
-        "resumen": "El salario mínimo de 2027 tendría tres posibles escenarios de aumento, con efectos para el bolsillo de los trabajadores y los costos de las empresas.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Salario mínimo 2027: este sería el sueldo en Colombia sin contar el auxilio de transporte, según nuevo estudio",
-        "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "Ranking Merco Empresas 2026: listado de las 200 firmas con mayor prestigio corporativo en Colombia",
-        "url": "https://www.valoraanalitik.com/estas-son-las-200-companias-con-mejor-reputacion-corporativa-en-colombia-asi-quedo-ranking-merco-empresas-2026/",
-        "resumen": "En el ranking de Merco Empresas 2026, los sectores con mayor número son el financiero y el de alimentos, ambos con 16 firmas, seguidos por el farmacéutico.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Estas son las 200 compañías con mejor reputación corporativa en Colombia: así quedó ranking Merco Empresas 2026",
-        "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "Segundo debate del Presupuesto 2027 en el Congreso con recortes en deuda y aumento de inversión",
-        "url": "https://www.valoraanalitik.com/congreso-votara-presupuesto-2027-en-segundo-debate-con-menos-pagos-de-deuda-y-mayor-inversion/",
-        "resumen": "La nueva ponencia incluye un recorte en el servicio de la deuda pública y un repunte en el rubro de inversión para la reactivación económica.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Congreso votaría Presupuesto 2027 en segundo debate con menos pagos de deuda y mayor inversión",
-        "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "Septiembre trajo un repunte en la confianza del consumidor colombiano tras dos caídas mensuales",
-        "url": "https://www.valoraanalitik.com/o-confianza-del-consumidor-en-colombia-mejoro-en-septiembre-tras-dos-meses-de-retroceso/",
-        "resumen": "Este resultado destaca tras dos meses con registros cada vez inferiores, según el Índice de Confianza del Consumidor de Fedesarrollo.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Confianza del consumidor en Colombia mejoró en septiembre tras dos meses de retrocesos",
-        "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "El calendario de eventos musicales en El Campín para 2027 dejaría a Millonarios y Santa Fe sin sede",
-        "url": "https://www.valoraanalitik.com/la-apretada-agenda-de-conciertos-que-tendra-el-campin-en-2027-millonarios-y-santa-fe-tendran-que-buscar-estadio/",
-        "resumen": "La cancelación de Millonarios vs. Once Caldas desató críticas. Los próximos conciertos reabren la discusión sobre el futuro del fútbol en El Campín.",
-        "autor": "",
-        "subseccion": "Valorasports",
-        "publicacion": "",
-        "titulo_fuente": "La apretada agenda de conciertos que tendrá El Campín en 2027: ¿Millonarios y Santa Fe tendrán que buscar estadio?",
-        "capturado": "2026-10-14T12:53:38-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Firmas de Israel interesan al Gobierno De La Espriella para entablar contactos",
+        "url": "https://www.valoraanalitik.com/empresas-israelies-reuniones-colombia/",
+        "resumen": "El canciller de Colombia sostuvo encuentros con representantes de compañías de ciberseguridad, inteligencia artificial e inteligencia estratégica.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Estas son las empresas israelíes con las que el Gobierno De La Espriella busca acercamientos",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "Diez grandes obras colombianas apresurarán trabajos al destrabarse permisos y trámites ecológicos",
+        "url": "https://www.valoraanalitik.com/los-10-megaproyectos-en-colombia-que-aceleraran-sus-obras/",
+        "resumen": "El presidente de la ANI, Ricardo Ayerbe, aseguró que mantendrá mesas de trabajo con la ANLA para destrabar iniciativas en el país.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Los 10 megaproyectos en Colombia que acelerarán sus obras tras destrabe de licencias y trámites ambientales",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "Tesla asombra al planeta al mostrar su auto volador inicial con estas especificaciones",
+        "url": "https://www.valoraanalitik.com/tesla-sorprende-al-mundo-y-presenta-su-primer-carro-que-puede-volar-estos-son-los-detalles/",
+        "resumen": "La compañía anunció tres configuraciones del deportivo: Performance, Thrust y Rocket, con diferencias en su capacidad de aceleración.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tesla sorprende al mundo y presenta su primer carro que puede volar: estos son los detalles",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
+      {
+        "titulo": "Región Bogotá captó cincuenta y seis iniciativas de capital externo por 456 millones de dólares en 2026",
+        "url": "https://www.valoraanalitik.com/bogota-region-atrajo-56-proyectos-de-inversion-extranjera-por-us456-millones-en-2026/",
+        "resumen": "La diversificación geográfica continúa siendo una característica de la inversión que recibe Bogotá-Región.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá-Región atrajo 56 proyectos de inversión extranjera por US$456 millones en 2026",
+        "capturado": "2026-10-16T11:25:04-05:00"
+      },
       {
         "titulo": "Air-e superará el límite de pasivos por cuatro billones de pesos a las firmas eléctricas",
         "url": "https://www.valoraanalitik.com/air-e-rompera-el-techo-de-deudas-por-4-billones-a-las-empresas-del-sector-electrico/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Estos son los 10 proyectos de energía solar más grandes de Colombia; Enel e Isagen lideran el listado",
         "capturado": "2026-10-11T10:54:05-05:00"
-      },
-      {
-        "titulo": "Scania resalta el progreso femenino en la movilidad al cumplirse una década de Queen On The Road",
-        "url": "https://www.valoraanalitik.com/scania-destaca-el-avance-de-las-mujeres-en-el-transporte-tras-10-anos-de-queen-on-the-road/",
-        "resumen": "Patrícia Acioli cuenta cómo nació Queen On The Road, el programa que impulsa a las mujeres en el sector de transporte.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Scania destaca el avance de las mujeres en el transporte tras 10 años de Queen On The Road",
-        "capturado": "2026-10-10T18:22:20-05:00"
-      },
-      {
-        "titulo": "Banco Serfinanza otorgará préstamos a artesanos para impulsar el desarrollo de sus empresas",
-        "url": "https://www.valoraanalitik.com/serfinanza-financiara-artesanos-negocios/",
-        "resumen": "La alianza con las primeras damas del país incluye formación financiera y acompañamiento de necesidades de capital de trabajo.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Banco Serfinanza financiará artesanos con créditos para el fortalecimiento de sus negocios",
-        "capturado": "2026-10-10T14:54:57-05:00"
-      },
-      {
-        "titulo": "Entrevista | AKT anuncia dos novedades para los meses venideros y prevé vender más de 220000 unidades en 2026",
-        "url": "https://www.valoraanalitik.com/entrevista-akt-revela-dos-nuevos-lanzamientos-para-los-proximos-meses-espera-superar-las-220-000-unidades-vendidas-en-2026/",
-        "resumen": "AKT pasó de ensamblar cerca de 50 motos al mes a producir alrededor de 21.000 mensuales.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | AKT revela dos nuevos lanzamientos para los próximos meses: espera superar las 220.000 unidades vendidas en 2026",
-        "capturado": "2026-10-10T14:54:57-05:00"
-      },
-      {
-        "titulo": "Entrevista | Más colombianos adquieren proyectos en Miami no solo como inversión",
-        "url": "https://www.valoraanalitik.com/entrevista-cada-vez-mas-colombianos-le-apuestan-a-comprar-proyectos-en-miami-ya-no-buscan-solo-inversion/",
-        "resumen": "Peggy Olin, CEO de OneWorld Properties, explica en entrevista con Valora Analitik cómo está cambiando el perfil del comprador colombiano en Miami.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Cada vez más colombianos le apuestan a comprar proyectos en Miami: ya no buscan solo inversión",
-        "capturado": "2026-10-10T10:47:51-05:00"
       }
     ]
   }
