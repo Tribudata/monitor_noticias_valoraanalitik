@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-15T17:36:58-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-10-15T20:05:17-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Ignacio Bravo asume la gerencia general de Banco Falabella Colombia",
+        "url": "https://www.valoraanalitik.com/ignacio-bravo-nuevo-gerente-general-de-banco-falabella-colombia/",
+        "resumen": "Bravo es ingeniero civil industrial de la Pontificia Universidad Católica de Chile y cuenta con un MBA de la Universidad de California, Berkeley.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Ignacio Bravo, nuevo gerente general de Banco Falabella Colombia",
+        "capturado": "2026-10-15T20:05:17-05:00"
+      },
+      {
+        "titulo": "La modernización del mercado mayorista y El Niño son prioridades del regulador energético del país",
+        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-y-modernizacion-del-mercado-mayorista-son-los-focos-del-regulador-del-sector-energetico-colombiano/",
+        "resumen": "La directora de la CREG afirmó que la modernización del mercado mayorista de energía es esencial.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Fenómeno de El Niño y modernización del mercado mayorista son los focos del regulador del sector energético colombiano",
+        "capturado": "2026-10-15T20:05:17-05:00"
+      },
+      {
+        "titulo": "La confianza en Brasil sube con fuerza luego de la victoria de Bolsonaro en la primera vuelta",
+        "url": "https://www.valoraanalitik.com/confianza-en-brasil-se-dispara-tras-triunfo-de-bolsonaro-en-primera-vuelta-presidencial/",
+        "resumen": "Así lo reveló la encuesta Latam Pulse, elaborada por AtlasIntel y Bloomberg.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Confianza en Brasil se dispara tras triunfo de Bolsonaro en primera vuelta presidencial",
+        "capturado": "2026-10-15T20:05:17-05:00"
+      },
+      {
+        "titulo": "De La Espriella dispone examinar los subsidios innecesarios y las exenciones de impuestos",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-ordena-revisar-exenciones-tributarias-y-subsidios-innecesarios/",
+        "resumen": "Puntualizó sobre eso que, cuando corresponda, deben ser reversados.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "De La Espriella ordena revisar exenciones tributarias y subsidios innecesarios",
+        "capturado": "2026-10-15T20:05:17-05:00"
+      },
+      {
+        "titulo": "Un sondeo reciente de Atlas muestra una baja leve en la popularidad de De La Espriella",
+        "url": "https://www.valoraanalitik.com/nueva-encuesta-de-atlas-revela-leve-caida-en-aprobacion-de-de-la-espriella/",
+        "resumen": "El sondeo fue aplicado a 2.893 personas, específicamente de la población adulto mayor entre el 2 de octubre y el 7 del mismo mes de 2026.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Nueva encuesta de Atlas revela leve caída en aprobación de De La Espriella",
+        "capturado": "2026-10-15T20:05:17-05:00"
+      },
+      {
+        "titulo": "Sura Investments conserva proyecciones sobre la Bolsa de Colombia tras buen rendimiento en 2026",
+        "url": "https://www.valoraanalitik.com/sura-investments-bolsa-colombia-2026/",
+        "resumen": "La firma elevó su posición en acciones locales a sobreponderar y conserva su visión favorable sobre la renta fija, pese a los riesgos fiscales e inflacionarios.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Sura Investments mantiene perspectivas para la Bolsa de Colombia tras positivo desempeño en 2026",
+        "capturado": "2026-10-15T20:05:17-05:00"
+      },
+      {
+        "titulo": "Restringir el uso del efectivo en Colombia: sugieren a De la Espriella prohibirlo en peajes y taxis",
+        "url": "https://www.valoraanalitik.com/limitar-el-uso-del-efectivo-en-colombia-proponen-a-de-la-espriella-que-tampoco-se-acepte-para-estos-servicios/",
+        "resumen": "Colombia Fintech respaldó la propuesta del Gobierno para limitar el efectivo y planteó nuevas medidas que cambiarían la forma de pagar servicios cotidianos.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Limitar el uso del efectivo en Colombia: proponen a De la Espriella que tampoco se acepte para pagar peajes, taxis y estos servicios",
+        "capturado": "2026-10-15T20:05:17-05:00"
+      },
       {
         "titulo": "Gobierno De la Espriella expone progresos del plan de choque en salud y entrega de medicamentos a pacientes",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-revela-avances-del-plan-de-choque-en-salud-y-cuantos-pacientes-ya-reciben-medicamentos/",
@@ -533,79 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Marchas del 14 de octubre en Bogotá, Medellín y Cali: puntos, rutas y nuevas reglas de juego para la protesta",
         "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "Títulos ordinarios de Grupo Sura trepan 5,16 % y finalizan en máximos históricos",
-        "url": "https://www.valoraanalitik.com/acciones-ordinarias-de-grupo-sura-suben-516-y-cierran-en-maximos-historicos/",
-        "resumen": "Las acciones de Grupo Sura ordinaria subieron 5,16 %",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Video | Acciones ordinarias de Grupo Sura suben 5,16 % y cierran en máximos históricos",
-        "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "Iniciaciones de vivienda VIS completan 40 meses a la baja en Colombia y caen 11,6 por ciento en agosto",
-        "url": "https://www.valoraanalitik.com/iniciaciones-de-vivienda-vis-en-colombia-completan-40-meses-de-caidas-en-agosto-retrocedieron-116/",
-        "resumen": "Pese al resultado nacional, el comportamiento de las iniciaciones VIS no ha sido uniforme en todas las regiones.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Iniciaciones de vivienda VIS en Colombia completan 40 meses de caídas: en agosto retrocedieron 11,6 %",
-        "capturado": "2026-10-14T07:46:25-05:00"
-      },
-      {
-        "titulo": "Premercado | Mixtas las bolsas por avance tecnológico, crudo sobre 106 dólares y expectativa de inflación en EE. UU.",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-mixtas-por-recuperacion-tecnologica-petroleo-supera-los-us106-y-se-espera-inflacion-de-ee-uu/",
-        "resumen": "Se apunta a una inflación general de 3,6 %, en un contexto en el que el encarecimiento de la energía podría dificultar la moderación de los precios.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas mixtas por recuperación tecnológica; petróleo supera los US$106 y se espera inflación de EE. UU.",
-        "capturado": "2026-10-14T07:46:25-05:00"
-      },
-      {
-        "titulo": "Alcalde Galán solicita abrir proceso a Sencia por gramilla de El Campín tras aplazamiento de juego",
-        "url": "https://www.valoraanalitik.com/alcalde-galan-pide-iniciar-proceso-contra-sencia-por-estado-de-la-grama-de-el-campin-tras-suspension-de-partido/",
-        "resumen": "Sencia había asegurado públicamente que la nueva grama estaría en condiciones aptas para disputar un partido de fútbol profesional.",
-        "autor": "",
-        "subseccion": "Valorasports",
-        "publicacion": "",
-        "titulo_fuente": "Alcalde Galán pide iniciar proceso contra Sencia por estado de la grama de El Campín tras suspensión de partido",
-        "capturado": "2026-10-14T07:46:25-05:00"
-      },
-      {
-        "titulo": "Entrevista | Comité Asesor de Comercialización pide que la SuperServicios ordene y dé viabilidad a Air-e",
-        "url": "https://www.valoraanalitik.com/la-superservicios-debe-organizar-y-darle-viabilidad-a-air-e-comite-asesor-de-comercializacion/",
-        "resumen": "El presidente del Comité Asesor de Comercialización expresó que el fenómeno de El Niño es uno de los temas clave en la agenda del sector.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | La SuperServicios debe organizar y darle viabilidad a Air-e: Comité Asesor de Comercialización",
-        "capturado": "2026-10-14T07:46:25-05:00"
-      },
-      {
-        "titulo": "Paralizan cobro de transporte de carga en el Puerto de Buenaventura y exigen al Gobierno priorizar obras",
-        "url": "https://www.valoraanalitik.com/se-suspende-el-cobro-por-el-transporte-de-carga-en-el-puerto-de-buenaventura-piden-al-gobierno-priorizar-obras/",
-        "resumen": "La gobernadora solicitó “que nos hagan las obras que se necesiten y que siempre hemos reclamado para Buenaventura».",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Se suspende el cobro por el transporte de carga en el Puerto de Buenaventura: piden al Gobierno priorizar obras",
-        "capturado": "2026-10-14T01:36:03-05:00"
-      },
-      {
-        "titulo": "Decreto firmado por la administración de la Espriella reglamenta las manifestaciones sociales en el país",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-expide-decreto-que-regula-la-protesta-social-en-colombia/",
-        "resumen": "Llega horas antes de las primeras marchas en contra del Gobierno actual, con la participación de organizaciones sindicales, sectores políticos y agrupaciones.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno de la Espriella expide decreto que regula la protesta social en Colombia",
-        "capturado": "2026-10-13T20:21:25-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Ignacio Bravo asume como gerente general de Banco Falabella Colombia",
+        "url": "https://www.valoraanalitik.com/ignacio-bravo-nuevo-gerente-general-de-banco-falabella-colombia/",
+        "resumen": "Bravo es ingeniero civil industrial de la Pontificia Universidad Católica de Chile y cuenta con un MBA de la Universidad de California, Berkeley.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Ignacio Bravo, nuevo gerente general de Banco Falabella Colombia",
+        "capturado": "2026-10-15T20:05:17-05:00"
+      },
+      {
+        "titulo": "El regulador energético colombiano enfoca su labor en el Fenómeno de El Niño y la modernización mayorista",
+        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-y-modernizacion-del-mercado-mayorista-son-los-focos-del-regulador-del-sector-energetico-colombiano/",
+        "resumen": "La directora de la CREG afirmó que la modernización del mercado mayorista de energía es esencial.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Fenómeno de El Niño y modernización del mercado mayorista son los focos del regulador del sector energético colombiano",
+        "capturado": "2026-10-15T20:05:17-05:00"
+      },
       {
         "titulo": "GeoPark incrementa extracción de crudo y gas e informa progresos en obras de Venezuela y Argentina",
         "url": "https://www.valoraanalitik.com/geopark-aumenta-su-produccion-de-petroleo-y-gas-revela-avances-de-proyectos-en-venezuela-y-argentina/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Primicia | Empresas mineras en Colombia duplicarán su producción en 2027: se espera ‘boom’ de proyectos",
         "capturado": "2026-10-10T10:47:51-05:00"
-      },
-      {
-        "titulo": "Gilinski firma acuerdo por veinticinco años para administrar el campo petrolero Bare en Venezuela",
-        "url": "https://www.valoraanalitik.com/gilinski-asegura-contrato-de-25-anos-para-operar-el-yacimiento-petrolero-bare-en-venezuela/",
-        "resumen": "El magnate colombiano obtuvo la concesión de crudo pesado en la Faja del Orinoco y acordó cederla a GeoPark.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Gilinski asegura contrato de 25 años para operar el yacimiento petrolero Bare en Venezuela",
-        "capturado": "2026-10-09T21:36:59-05:00"
-      },
-      {
-        "titulo": "Pepsi y Gatorlit concurrirán al Festival EDC en Medellín con dinámicas y vivencias para el público",
-        "url": "https://www.valoraanalitik.com/pepsi-y-gatorlit-estaran-en-el-festival-edc-en-medellin-con-experiencias-y-dinamicas-para-los-asistentes/",
-        "resumen": "Se sumarán al festival con diferentes propuestas distribuidas en varios de sus escenarios y zonas de experiencia.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Pepsi y Gatorlit estarán en el Festival EDC en Medellín con experiencias y dinámicas para los asistentes",
-        "capturado": "2026-10-09T18:07:00-05:00"
       }
     ]
   }
