@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-15T20:05:17-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-10-16T01:14:48-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De la Espriella restringe nuevas contrataciones por prestación de servicios en el sector público",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-limita-nuevos-contratos-de-prestacion-de-servicios-en-el-estado/",
+        "resumen": "Cada entidad deberá demostrar que existe una necesidad funcional.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella limita nuevos contratos de prestación de servicios en el Estado",
+        "capturado": "2026-10-16T01:14:48-05:00"
+      },
       {
         "titulo": "Ignacio Bravo asume la gerencia general de Banco Falabella Colombia",
         "url": "https://www.valoraanalitik.com/ignacio-bravo-nuevo-gerente-general-de-banco-falabella-colombia/",
@@ -592,16 +602,6 @@
         "subseccion": "Monedas",
         "publicacion": "",
         "titulo_fuente": "Ahora | FMI tendrá nueva misión a Colombia en noviembre para avanzar en plan de rescate fiscal",
-        "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "Recorridos, puntos y nuevas normas de las protestas del 14 de octubre en Cali, Medellín y Bogotá",
-        "url": "https://www.valoraanalitik.com/marchas-del-14-de-octubre-en-bogota-medellin-y-cali-puntos-rutas-y-nuevas-reglas-de-juego-para-la-protesta/",
-        "resumen": "El presidente Abelardo de la Espriella dio a conocer el nuevo decreto que busca reglamentar las protestas, horas antes de la marcha de este miércoles.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Marchas del 14 de octubre en Bogotá, Medellín y Cali: puntos, rutas y nuevas reglas de juego para la protesta",
         "capturado": "2026-10-14T12:53:38-05:00"
       }
     ],
