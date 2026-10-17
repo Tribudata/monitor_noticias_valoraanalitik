@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-17T12:28:13-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-17T14:40:14-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El noviembre la inversión extranjera directa subió 44 por ciento pero sigue por debajo de las remesas",
+        "url": "https://www.valoraanalitik.com/inversion-extranjera-directa-en-colombia-crecio-44-en-septiembre-pero-remesas-la-sigue-superando/",
+        "resumen": "Inversión Extranjera Directa alcanzó US$885 millones y creció 44 % en septiembre.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Inversión extranjera directa en Colombia creció 44 % en septiembre, pero remesas la sigue superando",
+        "capturado": "2026-10-17T14:40:14-05:00"
+      },
+      {
+        "titulo": "De la Espriella presenta en el Congreso su agenda final sobre sometimiento, antimermelada y terrorismo",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-lleva-al-congreso-su-agenda-de-cierre-de-ano-sometimiento-antimermelada-y-estatuto-antiterrorista-en-el-centro/",
+        "resumen": "Estos son los proyectos de ley que el gobierno de Abelardo de la Espriella adelanta en su primera legislatura.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella lleva al Congreso su agenda de cierre de año: sometimiento, antimermelada y estatuto antiterrorista, en el centro",
+        "capturado": "2026-10-17T14:40:14-05:00"
+      },
       {
         "titulo": "Escándalo UNGRD: Corte Suprema procesará a seis legisladores por supuesta venta de contratos estatales",
         "url": "https://www.valoraanalitik.com/caso-ungrd-corte-suprema-llevara-a-juicio-a-seis-congresistas-por-presunta-negociacion-de-contratos-publicos/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella ha acelerado la reconstrucción tras el terremoto con regalías y obras por Impuestos",
         "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "XM reporta más de 360 suspensiones eléctricas programadas en Colombia durante 2026",
-        "url": "https://www.valoraanalitik.com/colombia-ha-tenido-mas-de-360-cortes-de-energia-programados-en-2026-xm/",
-        "resumen": "XM advirtió que, durante siete meses, en medio del fenómeno de El Niño, se va a requerir generación térmica al máximo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia ha tenido más de 360 cortes de energía programados en 2026: XM",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "El gobierno De La Espriella define asuntos cruciales de Aerocafé, Autopistas del Café y grandes obras caldenses",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-toma-decisiones-clave-autopistas-del-cafe-aerocafe-megaobras-caldas/",
-        "resumen": "La ministra Elsa Noguea confirmó que la concesión vial se ampliará unos meses mientras se toman decisiones de fondo.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella toma decisiones clave sobre Autopistas del Café, Aerocafé y otras megaobras de Caldas",
-        "capturado": "2026-10-15T14:20:07-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Claro Colombia abre la preventa del iPhone Duo: fecha de disponibilidad en tiendas este octubre",
+        "url": "https://www.valoraanalitik.com/inicia-la-preventa-del-nuevo-iphone-duo-en-claro-colombia-desde-esta-fecha-de-octubre-estara-disponible-en-tiendas/",
+        "resumen": "De acuerdo con Claro, los compradores también tendrán la posibilidad de financiar la adquisición del equipo.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Inicia la preventa del nuevo iPhone Duo en Claro Colombia: desde esta fecha de octubre estará disponible en tiendas",
+        "capturado": "2026-10-17T14:40:14-05:00"
+      },
       {
         "titulo": "Arturo Calle avisa destrucción de 2.000 puestos de trabajo debido al crecimiento de Shein y Temu",
         "url": "https://www.valoraanalitik.com/arturo-calle-advierte-perdida-de-2-000-empleos-por-auge-de-plataformas-como-shein-y-temu/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Adopta un hogar",
         "publicacion": "",
         "titulo_fuente": "ABB suministrará la infraestructura eléctrica para las 1.000 viviendas que entregará Adopta un Hogar, iniciativa de Grupo Argos y Nicky Jam",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Su empleador no podrá multarlo ni rebajarle el sueldo si falta al trabajo por este motivo",
-        "url": "https://www.valoraanalitik.com/si-falta-al-trabajo-por-esta-razon-su-empresa-podria-no-poder-sancionarlo-ni-descontarle-el-salario/",
-        "resumen": "Faltar al trabajo puede generar consecuencias laborales, pero hay situaciones excepcionales en las que la empresa debe evaluar qué le pasó al trabajador.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Si falta al trabajo por esta razón, su empresa no podría sancionarlo ni descontarle el salario",
         "capturado": "2026-10-13T17:29:13-05:00"
       }
     ]
