@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-17T14:40:14-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-17T17:05:51-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno convoca a entregar propuestas para reformar el Código Nacional de Tránsito",
+        "url": "https://www.valoraanalitik.com/codigo-nacional-de-transito-sera-reformado-gobierno-abre-convocatoria-para-recibir-propuestas/",
+        "resumen": "El Ministerio de Transporte programó cuatro jornadas presenciales en diferentes ciudades del país para recibir las propuestas de los actores de la movilidad.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Código Nacional de Tránsito será reformado: Gobierno abre convocatoria para recibir propuestas",
+        "capturado": "2026-10-17T17:05:51-05:00"
+      },
+      {
+        "titulo": "Economía nacional entra en desaceleración y PIB del tercer trimestre caería bajo el 2 por ciento",
+        "url": "https://www.valoraanalitik.com/economia-colombiana-se-adentra-en-una-fase-de-desaceleracion-pib-caeria-por-debajo-del-2-en-el-tercer-trimestre/",
+        "resumen": "Un peso apreciado, la racionalización del gasto público, altas tasas de interés y los estragos del terremoto configuran un panorama de debilidad productiva.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Economía colombiana se adentra en una fase de desaceleración: PIB caería por debajo del 2 % en el tercer trimestre",
+        "capturado": "2026-10-17T17:05:51-05:00"
+      },
       {
         "titulo": "El noviembre la inversión extranjera directa subió 44 por ciento pero sigue por debajo de las remesas",
         "url": "https://www.valoraanalitik.com/inversion-extranjera-directa-en-colombia-crecio-44-en-septiembre-pero-remesas-la-sigue-superando/",
@@ -582,26 +602,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Aseguradoras revelan a cuánto ascienden las pérdidas por el terremoto en Colombia y cuánto han pagado a los afectados",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Termina plan de Petro de Caminos Comunitarios Para la Paz y lanzarán Caminos del Tigre",
-        "url": "https://www.valoraanalitik.com/se-acaba-el-programa-de-petro-de-caminos-comunitarios-para-la-paz/",
-        "resumen": "El programa del Gobierno anterior apenas llegó a 12 % de ejecución, por lo cual se liquidará en las próximas semanas.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Se acaba el programa de Petro de Caminos Comunitarios Para la Paz: Gobierno creará los ‘Caminos del Tigre’",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Regalías y obras por impuestos han dinamizado la reconstrucción posgremblor del gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-ha-acelerado-la-reconstruccion-tras-el-terremoto-con-regalias-y-obras-por-impuestos/",
-        "resumen": "Ante la Comisión Bicameral para Damnificados, el director del DNP detalló la presentación de proyectos territoriales para la reconstrucción.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella ha acelerado la reconstrucción tras el terremoto con regalías y obras por Impuestos",
         "capturado": "2026-10-15T14:20:07-05:00"
       }
     ],
