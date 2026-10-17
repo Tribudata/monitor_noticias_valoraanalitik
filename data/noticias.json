@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-17T05:33:02-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-17T09:07:17-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Entrevista | La solicitud de Latam Airlines al Gobierno De la Espriella para abrir más rutas y frecuencias",
+        "url": "https://www.valoraanalitik.com/entrevista-el-pedido-de-latam-airlines-al-gobierno-de-la-espriella-para-poder-abrir-mas-rutas-y-frecuencias-en-colombia/",
+        "resumen": "En diálogo con Valora Analitik, Érika Zarante, CEO de LATAM Airlines Colombia, explicó qué necesita la aerolínea para abrir más rutas y frecuencias en el país.",
+        "autor": "",
+        "subseccion": "Aerolineas colombia",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | El pedido de Latam Airlines al Gobierno De la Espriella para poder abrir más rutas y frecuencias en Colombia",
+        "capturado": "2026-10-17T09:07:17-05:00"
+      },
       {
         "titulo": "Abelardo de la Espriella revela obras y capital para San Andrés y Providencia y da detalles",
         "url": "https://www.valoraanalitik.com/abelardo-de-la-espriella-anuncia-importantes-inversiones-y-obras-para-san-andres-y-providencia-los-detalles/",
@@ -593,19 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "MinHacienda pide archivar cuatro polémicos artículos del Presupuesto de 2027 que se aprobaron sin aval del Gobierno",
         "capturado": "2026-10-15T10:16:50-05:00"
-      },
-      {
-        "titulo": "Ecopetrol plantea modificaciones en ISA: sugiere cambiar toda la junta y facilitar la elección del presidente",
-        "url": "https://www.valoraanalitik.com/ecopetrol-busca-cambios-en-isa/",
-        "resumen": "La propuesta será discutida en la Asamblea Extraordinaria de Accionistas que tendrá ISA el próximo 28 de octubre.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Ecopetrol busca cambios en ISA: propone renovar toda la Junta y simplificar elección del presidente",
-        "capturado": "2026-10-15T10:16:50-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista: la solicitud de Latam Airlines al Gobierno De la Espriella para operar más rutas y frecuencias",
+        "url": "https://www.valoraanalitik.com/entrevista-el-pedido-de-latam-airlines-al-gobierno-de-la-espriella-para-poder-abrir-mas-rutas-y-frecuencias-en-colombia/",
+        "resumen": "En diálogo con Valora Analitik, Érika Zarante, CEO de LATAM Airlines Colombia, explicó qué necesita la aerolínea para abrir más rutas y frecuencias en el país.",
+        "autor": "",
+        "subseccion": "Aerolineas colombia",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | El pedido de Latam Airlines al Gobierno De la Espriella para poder abrir más rutas y frecuencias en Colombia",
+        "capturado": "2026-10-17T09:07:17-05:00"
+      },
       {
         "titulo": "Gabrica nombró a Nicolás Saade como su nuevo director general",
         "url": "https://www.valoraanalitik.com/nicolas-saade-sera-el-nuevo-director-general-de-gabrica/",
@@ -1194,16 +1204,6 @@
         "subseccion": "DIAN",
         "publicacion": "",
         "titulo_fuente": "DIAN: el requisito que se debe cumplir para evitar cobros de IVA, según el Consejo de Estado",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Avanza la fusión de Unilever y marcas como Fruco y Maizena pasarán a manos de nuevos dueños",
-        "url": "https://www.valoraanalitik.com/fusion-negocio-alimentos-unilever-colombia/",
-        "resumen": "La transacción con McCormick ya recibió el visto bueno del regulador de Reino Unido y el trámite ya cursa en la Superintendencia de Industria y Comercio.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fruco, Maizena y otras marcas consumidas por los colombianos cambiarán de dueño: avanza fusión del negocio de Unilever",
         "capturado": "2026-10-13T17:29:13-05:00"
       }
     ]
