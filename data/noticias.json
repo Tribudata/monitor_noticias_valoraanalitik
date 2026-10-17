@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-16T17:42:23-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-10-16T20:11:26-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Abelardo de la Espriella revela obras y capital para San Andrés y Providencia y da detalles",
+        "url": "https://www.valoraanalitik.com/abelardo-de-la-espriella-anuncia-importantes-inversiones-y-obras-para-san-andres-y-providencia-los-detalles/",
+        "resumen": "Aseguró que regresará en un mes para verificar el avance de los compromisos y pidió a los ministros hacer seguimiento a cada anuncio.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Abelardo de la Espriella anuncia importantes inversiones y obras para San Andrés y Providencia: los detalles",
+        "capturado": "2026-10-16T20:11:26-05:00"
+      },
+      {
+        "titulo": "Presentan referendo para disminuir la cantidad de congresistas, concejales y diputados en el país",
+        "url": "https://www.valoraanalitik.com/radican-referendo-que-busca-reducir-numero-de-congresistas-concejales-y-diputados-en-colombia/",
+        "resumen": "La propuesta pretende reducir el número de integrantes de corporaciones públicas en los niveles nacional, departamental y municipal.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Radican referendo que busca reducir número de congresistas, concejales y diputados en Colombia",
+        "capturado": "2026-10-16T20:11:26-05:00"
+      },
       {
         "titulo": "Cambios para congresistas y sus conflictos de interés según la reforma antimermelada",
         "url": "https://www.valoraanalitik.com/reforma-antimermelada-que-cambiaria-para-los-congresistas-y-sus-conflictos-de-intereses/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Relevante | Ecopetrol busca cambios en ISA: propone renovar toda la Junta y simplificar elección del presidente",
         "capturado": "2026-10-15T10:16:50-05:00"
-      },
-      {
-        "titulo": "Directora de la CREG asegura que se ejecutan todas las acciones para afrontar el fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/estamos-haciendo-todo-para-pasar-este-fenomeno-de-el-nino-directora-de-la-creg/",
-        "resumen": "Adriana Jiménez, directora del organismo que regula la industria energética en Colombia, habló de las medidas que se tomarán frente al fenómeno de El Niño.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Exclusiva | “Estamos haciendo todo para pasar este fenómeno de El Niño”: directora de la CREG",
-        "capturado": "2026-10-15T10:16:50-05:00"
-      },
-      {
-        "titulo": "Grupo Argos y Nicky Jam entregan la primera casa de Adopta un Hogar en Quindío con apoyo oficial y privado",
-        "url": "https://www.valoraanalitik.com/se-entrego-primera-vivienda-de-adopta-un-hogar-de-grupo-argos-y-nicky-jam-en-quindio-minvivienda-federacion-nacional-de-cafeteros-e-isagen-se-sumaron/",
-        "resumen": "Adopta un Hogar contempla 500 viviendas en Chocó, 235 en Valle del Cauca, 100 en Risaralda, 100 en Caldas, 40 en Quindío y 25 en Antioquia.",
-        "autor": "",
-        "subseccion": "Adopta un hogar",
-        "publicacion": "",
-        "titulo_fuente": "Se entregó primera vivienda de Adopta un Hogar de Grupo Argos y Nicky Jam en Quindío; MinVivienda, Federación Nacional de Cafeteros e Isagen se sumaron",
-        "capturado": "2026-10-15T10:16:50-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Gabrica nombró a Nicolás Saade como su nuevo director general",
+        "url": "https://www.valoraanalitik.com/nicolas-saade-sera-el-nuevo-director-general-de-gabrica/",
+        "resumen": "Saade es ingeniero industrial de la Pontificia Universidad Javeriana y cuenta con más de 24 años de experiencia profesional.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Nicolás Saade será el nuevo director general de Gabrica",
+        "capturado": "2026-10-16T20:11:26-05:00"
+      },
       {
         "titulo": "Arribó a Buenaventura embarcación para la importación y almacenamiento de gas natural en Colombia",
         "url": "https://www.valoraanalitik.com/llega-a-buenaventura-buque-que-permitira-importar-y-almacenar-gas-natural-para-colombia/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "Fruco, Maizena y otras marcas consumidas por los colombianos cambiarán de dueño: avanza fusión del negocio de Unilever",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Mineros eleva su meta aurífera para 2026 y da a conocer datos centrales del tercer trimestre",
-        "url": "https://www.valoraanalitik.com/mineros-aumenta-proyeccion-de-produccion-de-oro-para-2026-revela-cifras-clave-del-tercer-trimestre/",
-        "resumen": "La compañía revelará sus resultados financieros, junto con las cifras de producción en oro y plata, el 11 de noviembre de 2026.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Mineros aumenta proyección en producción de oro para 2026; revela cifras clave del tercer trimestre",
         "capturado": "2026-10-13T17:29:13-05:00"
       }
     ]
