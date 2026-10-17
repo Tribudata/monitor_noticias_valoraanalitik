@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-17T09:07:17-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-17T12:28:13-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Escándalo UNGRD: Corte Suprema procesará a seis legisladores por supuesta venta de contratos estatales",
+        "url": "https://www.valoraanalitik.com/caso-ungrd-corte-suprema-llevara-a-juicio-a-seis-congresistas-por-presunta-negociacion-de-contratos-publicos/",
+        "resumen": "La investigación identifica tres contratos que presuntamente se habrían negociado a cambio de los votos de los congresistas.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Caso UNGRD: Corte Suprema llevará a juicio a seis congresistas por presunta negociación de contratos públicos",
+        "capturado": "2026-10-17T12:28:13-05:00"
+      },
+      {
+        "titulo": "Las millonarias apuestas de las fintech en el país buscan mayor cuota en el mercado financiero",
+        "url": "https://www.valoraanalitik.com/billonarias-inversiones-fintechs-colombia/",
+        "resumen": "Colombia Fintech identifica al crédito digital como la principal vertical del sector, con 39,4 % de participación entre las empresas.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "La billonarias inversiones que despliegan las fintechs en Colombia; van por más participación en el sistema financiero",
+        "capturado": "2026-10-17T12:28:13-05:00"
+      },
+      {
+        "titulo": "Arturo Calle pronostica recorte de 2000 puestos de trabajo ante el crecimiento de Shein y Temu",
+        "url": "https://www.valoraanalitik.com/arturo-calle-advierte-perdida-de-2-000-empleos-por-auge-de-plataformas-como-shein-y-temu/",
+        "resumen": "Uno de los puntos señalados por Calle fue la exención del impuesto al valor agregado (IVA) para determinadas compras internacionales.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Arturo Calle advierte pérdida de 2.000 empleos por auge de plataformas como Shein y Temu",
+        "capturado": "2026-10-17T12:28:13-05:00"
+      },
+      {
+        "titulo": "Este es el proyecto de contrarreforma pensional que presentará el Centro Democrático en el Legislativo",
+        "url": "https://www.valoraanalitik.com/asi-sera-la-contrarreforma-pensional-que-radicara-el-centro-democratico-en-el-congreso/",
+        "resumen": "Centro Democrático alista contrarreforma pensional: busca cambios a la ley de Petro y apoyo de De la Espriella.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Así será la contrarreforma pensional que radicará el Centro Democrático en el Congreso",
+        "capturado": "2026-10-17T12:28:13-05:00"
+      },
       {
         "titulo": "Entrevista | La solicitud de Latam Airlines al Gobierno De la Espriella para abrir más rutas y frecuencias",
         "url": "https://www.valoraanalitik.com/entrevista-el-pedido-de-latam-airlines-al-gobierno-de-la-espriella-para-poder-abrir-mas-rutas-y-frecuencias-en-colombia/",
@@ -563,49 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De La Espriella toma decisiones clave sobre Autopistas del Café, Aerocafé y otras megaobras de Caldas",
         "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Sugieren crear una entidad para prevenir desabastecimientos de comida en supermercados del país por ciberataques, tal como ocurrió en Francia",
-        "url": "https://www.valoraanalitik.com/proponen-agencia-para-evitar-que-supermercados-colombianos-se-queden-sin-alimentos-por-ciberataques-como-ya-paso-en-francia/",
-        "resumen": "Un ciberataque en supermercados de Francia dañó alimentos y encendió las alertas sobre la seguridad digital de servicios esenciales en Colombia.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Proponen agencia para evitar que supermercados colombianos se queden sin alimentos por ciberataques, como ya pasó en Francia",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Inician sesiones de la junta del Fondo Milagro para definir la reconstrucción nacional por el sismo",
-        "url": "https://www.valoraanalitik.com/consejo-directivo-del-fondo-milagro-arranca-reuniones-reconstruccion-tras-terremoto/",
-        "resumen": "El patrimonio autónomo canalizará los recursos del Estado para atender la emergencia en todo el país.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Consejo Directivo del Fondo Milagro arranca reuniones para decidir sobre reconstrucción del país tras terremoto",
-        "capturado": "2026-10-15T10:16:50-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio inicia con caída a $3.165 por indicadores de EE. UU. que reviven dudas sobre tasas de la FED",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-a-la-baja-en-3-165-datos-economicos-en-ee-uu-reavivan-temores-de-mas-alzas-en-la-fed/",
-        "resumen": "A escala global, el índice DXY continúa en fase de consolidación lateral, haciendo respetar un piso técnico clave en los 101,70 puntos.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre a la baja en $3.165: datos económicos en EE. UU. reavivan temores de más alzas en la FED",
-        "capturado": "2026-10-15T10:16:50-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda solicita retirar cuatro discutidos artículos del Presupuesto 2027 aprobados sin visto bueno",
-        "url": "https://www.valoraanalitik.com/minhacienda-pide-archivar-cuatro-polemicos-articulos-del-presupuesto-de-2027-que-se-aprobaron-sin-aval-del-gobierno/",
-        "resumen": "El Gobierno solicitó a las plenarias de Senado y Cámara corregir oportunamente el trámite en el segundo debate.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda pide archivar cuatro polémicos artículos del Presupuesto de 2027 que se aprobaron sin aval del Gobierno",
-        "capturado": "2026-10-15T10:16:50-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Arturo Calle avisa destrucción de 2.000 puestos de trabajo debido al crecimiento de Shein y Temu",
+        "url": "https://www.valoraanalitik.com/arturo-calle-advierte-perdida-de-2-000-empleos-por-auge-de-plataformas-como-shein-y-temu/",
+        "resumen": "Uno de los puntos señalados por Calle fue la exención del impuesto al valor agregado (IVA) para determinadas compras internacionales.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Arturo Calle advierte pérdida de 2.000 empleos por auge de plataformas como Shein y Temu",
+        "capturado": "2026-10-17T12:28:13-05:00"
+      },
+      {
+        "titulo": "De esta manera funcionará la contrarreforma pensional que presentará el Centro Democrático en el Congreso",
+        "url": "https://www.valoraanalitik.com/asi-sera-la-contrarreforma-pensional-que-radicara-el-centro-democratico-en-el-congreso/",
+        "resumen": "Centro Democrático alista contrarreforma pensional: busca cambios a la ley de Petro y apoyo de De la Espriella.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Así será la contrarreforma pensional que radicará el Centro Democrático en el Congreso",
+        "capturado": "2026-10-17T12:28:13-05:00"
+      },
       {
         "titulo": "Entrevista: la solicitud de Latam Airlines al Gobierno De la Espriella para operar más rutas y frecuencias",
         "url": "https://www.valoraanalitik.com/entrevista-el-pedido-de-latam-airlines-al-gobierno-de-la-espriella-para-poder-abrir-mas-rutas-y-frecuencias-en-colombia/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Si falta al trabajo por esta razón, su empresa no podría sancionarlo ni descontarle el salario",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Puerto Antioquia inaugura ruta marítima directa con Asia y China y detalla su operación semanal",
-        "url": "https://www.valoraanalitik.com/relevante-puerto-antioquia-estrena-ruta-maritima-directa-con-asia-y-china-asi-operara-el-servicio-semanal/",
-        "resumen": "La conexión también se suma a los servicios que el puerto ha incorporado para atender mercados de Estados Unidos, Europa y América Latina.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Puerto Antioquia estrena ruta marítima directa con Asia y China: así operará el servicio semanal",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado indica el requisito exigido por la DIAN para prevenir cobros de IVA",
-        "url": "https://www.valoraanalitik.com/dian-el-requisito-que-se-debe-cumplir-para-evitar-cobros-de-iva-segun-el-consejo-de-estado/",
-        "resumen": "La DIAN puede desconocer el tratamiento de ciertas ventas como exentas de IVA si las empresas no acreditan una condición clave.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "DIAN: el requisito que se debe cumplir para evitar cobros de IVA, según el Consejo de Estado",
         "capturado": "2026-10-13T17:29:13-05:00"
       }
     ]
