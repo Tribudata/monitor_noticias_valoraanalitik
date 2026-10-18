@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-17T17:05:51-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-17T19:11:54-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Ray-Ban cumple 90 años apostando por Meta, Transitions y festivales en Colombia",
+        "url": "https://www.valoraanalitik.com/ray-ban-colombia-meta-transitions-90-anos/",
+        "resumen": "EssilorLuxottica, dueña de Ray-Ban, atiende más de 5.000 ópticas en Colombia y alista lanzamientos para el aniversario de la marca.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Ray-Ban llega a sus 90 años con Meta, Transitions y festivales como apuestas en Colombia",
+        "capturado": "2026-10-17T19:11:54-05:00"
+      },
+      {
+        "titulo": "Hitachi destinó US$80 millones para crecer en Risaralda y prevé ganancias de US$300 millones en 2026",
+        "url": "https://www.valoraanalitik.com/hitachi-invirtio-us80-millones-para-expandirse-en-risaralda-proyecta-ganancias-por-us300-millones-en-2026/",
+        "resumen": "El gerente de Hitachi, Javier Ricardo Ruiz, habló sobre los objetivos de la compañía tanto a nivel nacional como en los mercados internacionales.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Hitachi invirtió US$80 millones para expandirse en Risaralda; proyecta ganancias por US$300 millones en 2026",
+        "capturado": "2026-10-17T19:11:54-05:00"
+      },
       {
         "titulo": "Gobierno convoca a entregar propuestas para reformar el Código Nacional de Tránsito",
         "url": "https://www.valoraanalitik.com/codigo-nacional-de-transito-sera-reformado-gobierno-abre-convocatoria-para-recibir-propuestas/",
@@ -583,29 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Dólar en Colombia rompe el piso de los $3.180 impulsado por desplome en los rendimientos del Tesoro",
         "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Exclusiva | Dos factores impulsan al GEB hacia Wall Street y estudia emitir papeles",
-        "url": "https://www.valoraanalitik.com/detonantes-geb-camino-wall-street-acciones/",
-        "resumen": "La compañía calcula que el precio de cada ADR en la Bolsa de Nueva York podría moverse en un rango entre US$20 y US$25, sin ser una decisión en firme.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Exclusiva | Los dos “detonantes” para que el GEB comience su camino a Wall Street; no descarta emisión de acciones",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Compañías de seguros informan el monto del daño por el sismo y los pagos a damnificados",
-        "url": "https://www.valoraanalitik.com/aseguradoras-revelan-a-cuanto-ascienden-las-perdidas-por-el-terremoto-en-colombia-y-cuanto-han-pagado-a-los-afectados/",
-        "resumen": "Fasecolda actualizó el balance de reclamaciones por el terremoto del 10 de agosto y detalló dónde se concentran los daños y las indemnizaciones.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Aseguradoras revelan a cuánto ascienden las pérdidas por el terremoto en Colombia y cuánto han pagado a los afectados",
-        "capturado": "2026-10-15T14:20:07-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Ray-Ban cumple 90 años apostándole en Colombia a Meta, Transitions y festivales",
+        "url": "https://www.valoraanalitik.com/ray-ban-colombia-meta-transitions-90-anos/",
+        "resumen": "EssilorLuxottica, dueña de Ray-Ban, atiende más de 5.000 ópticas en Colombia y alista lanzamientos para el aniversario de la marca.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Ray-Ban llega a sus 90 años con Meta, Transitions y festivales como apuestas en Colombia",
+        "capturado": "2026-10-17T19:11:54-05:00"
+      },
+      {
+        "titulo": "Hitachi destinó US$80 millones para crecer en Risaralda y prevé ganancias de US$300 millones en 2026",
+        "url": "https://www.valoraanalitik.com/hitachi-invirtio-us80-millones-para-expandirse-en-risaralda-proyecta-ganancias-por-us300-millones-en-2026/",
+        "resumen": "El gerente de Hitachi, Javier Ricardo Ruiz, habló sobre los objetivos de la compañía tanto a nivel nacional como en los mercados internacionales.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Hitachi invirtió US$80 millones para expandirse en Risaralda; proyecta ganancias por US$300 millones en 2026",
+        "capturado": "2026-10-17T19:11:54-05:00"
+      },
       {
         "titulo": "Claro Colombia abre la preventa del iPhone Duo: fecha de disponibilidad en tiendas este octubre",
         "url": "https://www.valoraanalitik.com/inicia-la-preventa-del-nuevo-iphone-duo-en-claro-colombia-desde-esta-fecha-de-octubre-estara-disponible-en-tiendas/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Cerro Matoso completó dos meses operando a media máquina por la falta del gas de Canacol",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "MinHacienda autoriza al Metro de Bogotá para adquirir coberturas de riesgo financiero",
-        "url": "https://www.valoraanalitik.com/metro-de-bogota-recibe-autorizacion-de-minhacienda-para-contratar-coberturas-de-riesgo-financiero/",
-        "resumen": "El Ministerio otorgo permiso para negociar contratos de cambios en las tasas de interés y en la tasa de cambio asociados a sus créditos.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Metro de Bogotá recibe autorización de MinHacienda para contratar coberturas de riesgo financiero",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "ABB proveerá el sistema eléctrico para las 1.000 viviendas del proyecto Adopta un Hogar de Grupo Argos y Nicky Jam",
-        "url": "https://www.valoraanalitik.com/abb-suministrara-la-infraestructura-electrica-para-las-1-000-viviendas-que-entregara-adopta-un-hogar-iniciativa-de-grupo-argos-y-nicky-jam/",
-        "resumen": "La multinacional tecnológica aportará tomas, interruptores y breakers con el objetivo de ser parte del proyecto Adopta un Hogar.",
-        "autor": "",
-        "subseccion": "Adopta un hogar",
-        "publicacion": "",
-        "titulo_fuente": "ABB suministrará la infraestructura eléctrica para las 1.000 viviendas que entregará Adopta un Hogar, iniciativa de Grupo Argos y Nicky Jam",
         "capturado": "2026-10-13T17:29:13-05:00"
       }
     ]
