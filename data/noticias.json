@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-18T12:11:28-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-18T14:33:27-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Entrevista | JMC proyecta que en 2026 se venderían más de 340.000 vehículos en Colombia",
+        "url": "https://www.valoraanalitik.com/venta-carros-colombia-record-2026-jmc/",
+        "resumen": "El rebote tras dos años de caída, el dólar y el crédito explican el repunte. La marca ya tiene la mitad de las ventas de camiones livianos.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Venta de vehículos en Colombia superaría las 340.000 unidades en 2026: JMC",
+        "capturado": "2026-10-18T14:33:27-05:00"
+      },
+      {
+        "titulo": "Francia: 1.800 arrestos y disturbios tras marchas de Macron por vida y educación",
+        "url": "https://www.valoraanalitik.com/protestas-en-francia-contra-macron-protestas-por-educacion-y-costo-de-vida-terminaron-en-disturbios-y-1-800-detenidos/",
+        "resumen": "Estas son las razones por las que Francia protesta contra el gobierno de Emmanuel Macron.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Protestas en Francia contra Macron: protestas por educación y costo de vida terminaron en disturbios y 1.800 detenidos",
+        "capturado": "2026-10-18T14:33:27-05:00"
+      },
       {
         "titulo": "Herbalife apunta a un crecimiento de dos dígitos en el país y lo califica como un mercado estratégico",
         "url": "https://www.valoraanalitik.com/entrevista-herbalife-busca-lograr-un-crecimiento-de-doble-digito-en-los-proximos-anos-colombia-es-uno-de-sus-mercados-clave/",
@@ -582,26 +602,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Conjuntos residenciales y copropiedades podrían tener cobros adicionales por consumo de energía: ojo con la factura",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "Alex Fabián Cañas asume como viceministro de Energía en sustitución de Armando Cuello, próximo a Ecopetrol",
-        "url": "https://www.valoraanalitik.com/alex-fabian-canas-es-el-nuevo-viceministro-de-energia-reemplaza-a-armando-cuello-que-iria-a-ecopetrol/",
-        "resumen": "Cuello participó en varios escenarios en los que afirmó que la prioridad era garantizar la seguridad energética en Colombia.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Alex Fabián Cañas es el nuevo viceministro de Energía: reemplaza a Armando Cuello que iría a Ecopetrol",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "Mario Fernando Cruz Vargas es designado oficialmente como nuevo director de la Unidad de Regulación Financiera",
-        "url": "https://www.valoraanalitik.com/oficial-mario-fernando-cruz-vargas-asumira-la-direccion-de-la-unidad-de-regulacion-financiera-urf/",
-        "resumen": "El Ejecutivo dio por terminado el encargo en la dirección general que venía ejerciendo Magda Mariana Aya Guerrero.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Oficial: Mario Fernando Cruz Vargas asumirá la dirección de la Unidad de Regulación Financiera (URF)",
         "capturado": "2026-10-15T17:36:58-05:00"
       }
     ],
