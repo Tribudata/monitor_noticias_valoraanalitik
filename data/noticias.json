@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-18T08:31:01-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-18T12:11:28-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Herbalife apunta a un crecimiento de dos dígitos en el país y lo califica como un mercado estratégico",
+        "url": "https://www.valoraanalitik.com/entrevista-herbalife-busca-lograr-un-crecimiento-de-doble-digito-en-los-proximos-anos-colombia-es-uno-de-sus-mercados-clave/",
+        "resumen": "Colombia se consolida como uno de los mercados más importantes de Herbalife en Centro y Sudamérica, con más de 50.000 distribuidores independientes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Herbalife busca crecer a doble dígito en los próximos años: Colombia es uno de sus mercados clave",
+        "capturado": "2026-10-18T12:11:28-05:00"
+      },
+      {
+        "titulo": "FMI calcula que el déficit fiscal colombiano llegará a casi el 7 % del PIB en 2026 y exige corrección",
+        "url": "https://www.valoraanalitik.com/fmi-proyecta-deficit-fiscal-de-colombia-cercano-al-7-del-pib-en-2026-y-pide-ajuste-urgente/",
+        "resumen": "El ajuste fiscal no necesariamente tendría que lograrse mediante aumentos en las tasas de los impuestos, dice el FMI.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "FMI proyecta déficit fiscal de Colombia cercano al 7 % del PIB en 2026 y pide ajuste urgente",
+        "capturado": "2026-10-18T12:11:28-05:00"
+      },
+      {
+        "titulo": "MinAgricultura pacta alianza con Grupo Éxito para cortar intermediarios y potenciar ventas agrarias",
+        "url": "https://www.valoraanalitik.com/minagricultura-anuncia-alianza-con-grupo-exito-para-reducir-intermediarios-y-mejorar-ventas-del-campo/",
+        "resumen": "MinAgricultura y Grupo Éxito sellan alianza para impulsar ventas del campo por $1,2 billones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinAgricultura anuncia alianza con Grupo Éxito para reducir intermediarios y mejorar ventas del campo",
+        "capturado": "2026-10-18T12:11:28-05:00"
+      },
+      {
+        "titulo": "CUT analiza pedir un incremento del 38,5 % para el salario mínimo en Colombia en 2027",
+        "url": "https://www.valoraanalitik.com/cut-propondra-aumento-de-385-del-salario-minimo-de-colombia-para-2027cut-evalua-aumento-de-385-del-salario-minimo-de-colombia-para-2027/",
+        "resumen": "El dirigente sindical Fabio Arias aseguró que los trabajadores buscan recuperar la brecha entre el salario mínimo actual y el denominado salario vital.",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "CUT evalúa aumento de 38,5 % del salario mínimo de Colombia para 2027",
+        "capturado": "2026-10-18T12:11:28-05:00"
+      },
       {
         "titulo": "El costo de vida en el país no cedería con rapidez en 2027 y este sería el panorama",
         "url": "https://www.valoraanalitik.com/inflacion-en-colombia-no-se-desaceleraria-inmediatamente-en-2027-esto-habria-que-esperar/",
@@ -563,49 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Oficial: Mario Fernando Cruz Vargas asumirá la dirección de la Unidad de Regulación Financiera (URF)",
         "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "Cali lanzó propuesta decisiva por la hidroeléctrica Salvajina y así funcionaría el negocio",
-        "url": "https://www.valoraanalitik.com/alcaldia-de-cali-hizo-oferta-clave-para-quedarse-con-la-hidroelectrica-salvajina-asi-seria-la-operacion/",
-        "resumen": "La iniciativa se encuentra en una fase previa al cierre definitivo, la cual debe ser aprobado por el Concejo de la ciudad.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Alcaldía de Cali hizo oferta clave para quedarse con la hidroeléctrica Salvajina: Así sería la operación",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "Fecha del Simulacro Nacional en Colombia y guía para alistar al hogar frente a un sismo",
-        "url": "https://www.valoraanalitik.com/simulacro-nacional-en-colombia-cuando-sera-y-como-preparar-a-su-familia-ante-un-terremoto/",
-        "resumen": "El Simulacro Nacional en Colombia será una oportunidad para revisar cómo se comunicaría con sus seres queridos y dónde se reunirían ante otro terremoto.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Simulacro Nacional en Colombia: cuándo será y cómo preparar a su familia ante un terremoto",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "Ejecutivo reglamentó la función de intermediarios en consultas previas: sin vocería comunitaria",
-        "url": "https://www.valoraanalitik.com/gobierno-regulo-el-papel-de-terceros-en-consultas-previas-no-podran-tomar-voceria-de-las-comunidades/",
-        "resumen": "Para el Gobierno De la Espriella, la presencia de terceros no va a modificar los derechos de titularidad de las comunidades.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno reguló el papel de terceros en consultas previas: no podrán tomar vocería de las comunidades",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "El ochenta por ciento de las camisetas del balompié nacional se vende en tres escuadras",
-        "url": "https://www.valoraanalitik.com/tres-equipos-concentran-el-80-de-la-venta-de-camisetas-en-el-futbol-colombiano/",
-        "resumen": "La Superintendencia de Sociedades resaltó el estado financiero de los equipos del fútbol colombiano.",
-        "autor": "",
-        "subseccion": "Futbol colombiano",
-        "publicacion": "",
-        "titulo_fuente": "Tres equipos concentran el 80 % de la venta de camisetas en el fútbol colombiano",
-        "capturado": "2026-10-15T14:20:07-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista: Herbalife apunta a un crecimiento de dos dígitos a futuro y ve a Colombia como mercado clave",
+        "url": "https://www.valoraanalitik.com/entrevista-herbalife-busca-lograr-un-crecimiento-de-doble-digito-en-los-proximos-anos-colombia-es-uno-de-sus-mercados-clave/",
+        "resumen": "Colombia se consolida como uno de los mercados más importantes de Herbalife en Centro y Sudamérica, con más de 50.000 distribuidores independientes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Herbalife busca crecer a doble dígito en los próximos años: Colombia es uno de sus mercados clave",
+        "capturado": "2026-10-18T12:11:28-05:00"
+      },
+      {
+        "titulo": "MinAgricultura confirma pacto con Grupo Éxito para recortar intermediarios y potenciar ventas rurales",
+        "url": "https://www.valoraanalitik.com/minagricultura-anuncia-alianza-con-grupo-exito-para-reducir-intermediarios-y-mejorar-ventas-del-campo/",
+        "resumen": "MinAgricultura y Grupo Éxito sellan alianza para impulsar ventas del campo por $1,2 billones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinAgricultura anuncia alianza con Grupo Éxito para reducir intermediarios y mejorar ventas del campo",
+        "capturado": "2026-10-18T12:11:28-05:00"
+      },
+      {
+        "titulo": "EDF de Francia, la gigante energética global que puso capital en Colombia",
+        "url": "https://www.valoraanalitik.com/edf-de-francia-una-de-las-empresas-energeticas-mas-grandes-del-mundo-que-invirtio-en-colombia/",
+        "resumen": "Raíssa Cafure Lafranque, CEO de la empresa en Colombia, reveló las razones detrás de la inversión en el país.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "EDF de Francia: una de las empresas energéticas más grandes del mundo que invirtió en Colombia",
+        "capturado": "2026-10-18T12:11:28-05:00"
+      },
       {
         "titulo": "Ray-Ban cumple 90 años apostándole en Colombia a Meta, Transitions y festivales",
         "url": "https://www.valoraanalitik.com/ray-ban-colombia-meta-transitions-90-anos/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Medellín será epicentro de diálogo sobre desarrollo territorial, económico y educativo con el Foro AFE Prosperidad Compartida",
         "capturado": "2026-10-13T20:21:25-05:00"
-      },
-      {
-        "titulo": "Faltarían 397.000 toneladas de cobre en 2026 y conflicto en Irán afectaría alza del oro",
-        "url": "https://www.valoraanalitik.com/deficit-de-cobre-seria-de-397-000-toneladas-en-2026-guerra-en-iran-podria-impactar-tendencia-al-alza-del-oro/",
-        "resumen": "Todo esto se daría con un precio del cobre en US$13.278 por tonelada en 2026 y de US$15.250 por tonelada en 2027.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Déficit de cobre sería de 397.000 toneladas en 2026; guerra en Irán podría impactar tendencia al alza del oro",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Primicia | Carlos Casado asumirá como presidente ejecutivo de Holcim Colombia",
-        "url": "https://www.valoraanalitik.com/primicia-carlos-casado-sera-el-nuevo-presidente-ejecutivo-de-holcim-colombia/",
-        "resumen": "Cuenta con una trayectoria de más de 25 años en Europa, Asia y América Latina, con foco en la industria del cemento.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Carlos Casado será el nuevo presidente ejecutivo de Holcim Colombia",
-        "capturado": "2026-10-13T17:29:13-05:00"
-      },
-      {
-        "titulo": "Cerro Matoso lleva dos meses con producción parcial por desabastecimiento de gas de Canacol",
-        "url": "https://www.valoraanalitik.com/cerro-matoso-completo-dos-meses-operando-a-media-maquina-por-la-falta-del-gas-de-canacol/",
-        "resumen": "Según lo mencionó, las pérdidas para Colombia ascienden a $90.000 millones y la misma empresa dejó de producir 2.400 toneladas de níquel.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Cerro Matoso completó dos meses operando a media máquina por la falta del gas de Canacol",
-        "capturado": "2026-10-13T17:29:13-05:00"
       }
     ]
   }
