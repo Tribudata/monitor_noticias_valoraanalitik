@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-18T14:33:27-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-18T17:19:11-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Aval Casa de Bolsa estima inflación de 6,90 % y tipos de interés en 12,25 % al acabar 2026",
+        "url": "https://www.valoraanalitik.com/aval-casa-de-bolsa-proyecta-inflacion-del-690-y-tasas-de-interes-congeladas-en-1225-para-el-cierre-de-2026/",
+        "resumen": "La entidad anticipa una inflación del 6,90 % a cierre de año, una tasa de interés en 12,25 % hasta mediados de 2027 y una TRM cercana a los $3.279.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Aval Casa de Bolsa proyecta inflación del 6,90 % y tasas de interés congeladas en 12,25 % para el cierre de 2026",
+        "capturado": "2026-10-18T17:19:11-05:00"
+      },
+      {
+        "titulo": "Entrevista | Scania Colombia subió 17 % y prepara capital para talleres y carros eléctricos al 2027",
+        "url": "https://www.valoraanalitik.com/entrevista-scania-colombia-crecio-17-y-alista-inversiones-en-talleres-y-vehiculos-electricos-para-2027/",
+        "resumen": "Scania Colombia revela sus planes de expansión en el país y fija meta de ventas de buses eléctricos para 2027.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Scania Colombia creció 17 % y alista inversiones en talleres y vehículos eléctricos para 2027",
+        "capturado": "2026-10-18T17:19:11-05:00"
+      },
+      {
+        "titulo": "MinAgricultura y Fedepapa pretenden bajar hasta 50 % los gastos de producción de los cultivadores",
+        "url": "https://www.valoraanalitik.com/minagricultura-y-fedepapa-buscan-reducir-hasta-50-los-costos-de-produccion-de-los-paperos/",
+        "resumen": "El Gobierno acordó una agenda con Fedepapa para mejorar la productividad, reducir intermediarios y fortalecer la comercialización.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "MinAgricultura y Fedepapa buscan reducir hasta 50 % los costos de producción de los paperos",
+        "capturado": "2026-10-18T17:19:11-05:00"
+      },
       {
         "titulo": "Entrevista | JMC proyecta que en 2026 se venderían más de 340.000 vehículos en Colombia",
         "url": "https://www.valoraanalitik.com/venta-carros-colombia-record-2026-jmc/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Limitar el uso del efectivo en Colombia: proponen a De la Espriella que tampoco se acepte para pagar peajes, taxis y estos servicios",
         "capturado": "2026-10-15T20:05:17-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella expone progresos del plan de choque en salud y entrega de medicamentos a pacientes",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-revela-avances-del-plan-de-choque-en-salud-y-cuantos-pacientes-ya-reciben-medicamentos/",
-        "resumen": "El nuevo balance del plan de choque en salud del Gobierno De la Espriella reporta avances importantes en el tratamiento de determinadas patologías.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella revela avances del plan de choque en salud y cuántos pacientes ya reciben medicamentos",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "GeoPark incrementa extracción de hidrocarburos y muestra progresos de iniciativas en Argentina y Venezuela",
-        "url": "https://www.valoraanalitik.com/geopark-aumenta-su-produccion-de-petroleo-y-gas-revela-avances-de-proyectos-en-venezuela-y-argentina/",
-        "resumen": "GeoPark trabaja en colaboración con Petróleos de Venezuela (Pdvsa) para cumplir con los requisitos contractuales, reglamentarios y técnicos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark aumenta su producción de petróleo y gas: revela avances de proyectos en Venezuela y Argentina",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "Factura de luz en copropiedades y conjuntos residenciales podría incluir cobros extra por gasto energético",
-        "url": "https://www.valoraanalitik.com/conjuntos-residenciales-y-copropiedades-podrian-tener-cobros-adicionales-por-consumo-de-energia-ojo-con-la-factura/",
-        "resumen": "Muchos ciudadanos recibieron una advertencia en la factura de energía de este mes. La medida podría afectar el bolsillo de conjuntos residenciales.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Conjuntos residenciales y copropiedades podrían tener cobros adicionales por consumo de energía: ojo con la factura",
-        "capturado": "2026-10-15T17:36:58-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Scania Colombia aumentó 17 % y prepara capital para talleres y buses eléctricos a 2027",
+        "url": "https://www.valoraanalitik.com/entrevista-scania-colombia-crecio-17-y-alista-inversiones-en-talleres-y-vehiculos-electricos-para-2027/",
+        "resumen": "Scania Colombia revela sus planes de expansión en el país y fija meta de ventas de buses eléctricos para 2027.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Scania Colombia creció 17 % y alista inversiones en talleres y vehículos eléctricos para 2027",
+        "capturado": "2026-10-18T17:19:11-05:00"
+      },
       {
         "titulo": "Entrevista: Herbalife apunta a un crecimiento de dos dígitos a futuro y ve a Colombia como mercado clave",
         "url": "https://www.valoraanalitik.com/entrevista-herbalife-busca-lograr-un-crecimiento-de-doble-digito-en-los-proximos-anos-colombia-es-uno-de-sus-mercados-clave/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | La SuperServicios debe organizar y darle viabilidad a Air-e: Comité Asesor de Comercialización",
         "capturado": "2026-10-14T07:46:25-05:00"
-      },
-      {
-        "titulo": "El Foro AFE Prosperidad Compartida centrará en Medellín conversaciones de educación, economía y región",
-        "url": "https://www.valoraanalitik.com/medellin-sera-epicentro-de-dialogo-sobre-desarrollo-territorial-economico-y-educativo-con-el-foro-afe-prosperidad-compartida/",
-        "resumen": "La cita reunirá a más de 500 asistentes pertenecientes a más de 250 organizaciones del país y del ámbito internacional.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Medellín será epicentro de diálogo sobre desarrollo territorial, económico y educativo con el Foro AFE Prosperidad Compartida",
-        "capturado": "2026-10-13T20:21:25-05:00"
       }
     ]
   }
