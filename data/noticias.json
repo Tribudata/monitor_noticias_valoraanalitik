@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-18T04:29:41-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-18T08:31:01-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El costo de vida en el país no cedería con rapidez en 2027 y este sería el panorama",
+        "url": "https://www.valoraanalitik.com/inflacion-en-colombia-no-se-desaceleraria-inmediatamente-en-2027-esto-habria-que-esperar/",
+        "resumen": "La inflación en Colombia se espera empiece un proceso importante de desaceleración el año entrante",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Inflación en Colombia no se desaceleraría inmediatamente en 2027: Esto habría que esperar",
+        "capturado": "2026-10-18T08:31:01-05:00"
+      },
       {
         "titulo": "Ray-Ban cumple 90 años apostando por Meta, Transitions y festivales en Colombia",
         "url": "https://www.valoraanalitik.com/ray-ban-colombia-meta-transitions-90-anos/",
@@ -592,16 +602,6 @@
         "subseccion": "Futbol colombiano",
         "publicacion": "",
         "titulo_fuente": "Tres equipos concentran el 80 % de la venta de camisetas en el fútbol colombiano",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio cae de 3180 pesos en Colombia por caída de tasas de los bonos del Tesoro",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-rompe-el-piso-de-los-3-180-impulsado-por-desplome-en-los-rendimientos-del-tesoro/",
-        "resumen": "La divisa abrió a la baja en $3.165 y marcó de inmediato un máximo intradiario de $3.183.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia rompe el piso de los $3.180 impulsado por desplome en los rendimientos del Tesoro",
         "capturado": "2026-10-15T14:20:07-05:00"
       }
     ],
