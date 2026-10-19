@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-19T12:40:44-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-10-19T17:11:50-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "MinHacienda de Colombia admite que los ciudadanos están hartos de tributar",
+        "url": "https://www.valoraanalitik.com/ministro-de-hacienda-de-colombia-reconoce-que-la-gente-se-canso-de-pagar-impuestos/",
+        "resumen": "Según el funcionario, el país cuenta un esquema de muchos impuestos, dado que existen 18 tributos nacionales, y poco recaudo.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Ministro de Hacienda de Colombia reconoce que “la gente se cansó de pagar impuestos”",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
+      {
+        "titulo": "Futuro de J.P. Morgan en Colombia tras dos décadas y más de US$6.000 millones colocados",
+        "url": "https://www.valoraanalitik.com/lo-que-viene-para-jp-morgan-en-colombia/",
+        "resumen": "La operación local de la firma estadounidense cumple 20 años. A futuro busca ampliar sus negocios de dividas y comercio exterior.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Lo que viene para J.P. Morgan en Colombia tras cumplir 20 años; ha desplegado más de US$6.000 millones",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
+      {
+        "titulo": "Plazo final para rebajas de impuestos de la DIAN: rebaja en el pago de hasta 85 %",
+        "url": "https://www.valoraanalitik.com/ultimo-plazo-para-acceder-a-beneficios-tributarios-de-la-dian-podria-reducir-su-pago-hasta-85/",
+        "resumen": "Los beneficios tributarios de la DIAN tienen fecha límite y podrían representar un ahorro para quienes cumplan los requisitos.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "Último plazo para acceder a beneficios tributarios de la DIAN: podría reducir su pago hasta 85 %",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
+      {
+        "titulo": "Credicorp: Colombia encabeza la inclusión financiera regional y crecen las billeteras digitales",
+        "url": "https://www.valoraanalitik.com/credicorp-colombia-inclusion-financiera/",
+        "resumen": "El país aumentó 12 puntos su nivel de inclusión financiera desde 2021, el mayor avance acumulado entre ocho mercados evaluados.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Credicorp: Colombia lidera crecimiento en inclusión financiera en la región y billeteras digitales ganan terreno",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
+      {
+        "titulo": "Marco Rubio irá a India a estrechar lazos energéticos mientras Delhi busca diversificar suministros",
+        "url": "https://www.valoraanalitik.com/marco-rubio-viajara-a-india-para-fortalecer-la-cooperacion-energetica-el-pais-asiatico-busca-diversificar-sus-fuentes/",
+        "resumen": "Tras la intervención estadounidense en Venezuela, barriles de crudo de ese país han llegado a puertos indios.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Marco Rubio viajará a India para fortalecer la cooperación energética; el país asiático busca diversificar sus fuentes",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en el país continúa cayendo: perforó el piso de los 3.150 pesos hoy",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sigue-perdiendo-fuerza-bajo-de-los-3-150-en-la-jornada/",
+        "resumen": "La divisa abrió en el precio máximo de la jornada en $3.178,90 y mostró una paulatina presión bajista hasta perforar la barrera de los $3.150.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia sigue perdiendo fuerza: Bajó de los $3.150 en la jornada",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
+      {
+        "titulo": "De esta manera modificaría De la Espriella las normas de trabajo para apps, prensa y acosados",
+        "url": "https://www.valoraanalitik.com/asi-cambiaria-de-la-espriella-las-reglas-laborales-para-repartidores-de-apps-periodistas-y-victimas-de-acoso/",
+        "resumen": "Cambios en la cotización a pensión de los repartidores, ajustes a las condiciones laborales de los periodistas y nuevas reglas para atender denuncias de acoso.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Así cambiaría De la Espriella las reglas laborales para repartidores de ‘apps’, periodistas y víctimas de acoso",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
       {
         "titulo": "Bogotá regresa a la bolsa con emisión de bonos por hasta $1,5 billones para financiar obras",
         "url": "https://www.valoraanalitik.com/bogota-vuelve-al-mercado-de-capitales/",
@@ -533,79 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "NG Energy revela resultados de pozo Aruchara-6 (La Guajira) y arranca perforación de bloque clave Sinú: estas son las proyecciones",
         "capturado": "2026-10-16T14:39:22-05:00"
-      },
-      {
-        "titulo": "Ingenio Mayagüez se retira de Nicaragua al vender sus acciones en las subsidiarias locales",
-        "url": "https://www.valoraanalitik.com/ingenio-mayaguez-sale-de-nicaragua/",
-        "resumen": "La negociación se hizo por US$13,5 millones, cuyo pago se realizará en un plazo de tres años.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ingenio Mayagüez sale de Nicaragua tras vender participaciones en filiales",
-        "capturado": "2026-10-16T14:39:22-05:00"
-      },
-      {
-        "titulo": "Anulan el decreto del presidente Petro sobre la regulación de la tercerización laboral en Colombia",
-        "url": "https://www.valoraanalitik.com/tumban-decreto-de-petro-que-regulaba-la-tercerizacion-laboral-en-colombia/",
-        "resumen": "El decreto establecía reglas para identificar, corregir y sancionar la tercerización e intermediación laboral ilegal en Colombia.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Tumban decreto de Petro que regulaba la tercerización laboral en Colombia",
-        "capturado": "2026-10-16T14:39:22-05:00"
-      },
-      {
-        "titulo": "El impulso comercial compensa la caída industrial de agosto",
-        "url": "https://www.valoraanalitik.com/dinamismo-del-comercio-contrarresta-el-tropiezo-de-la-industria-en-agosto/",
-        "resumen": "En los primeros ocho meses de 2026 en comparación con el año anterior, el comercio mantiene una trayectoria alcista y la industria se desacelera.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Dinamismo del comercio contrarresta el tropiezo de la industria en agosto",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Fitch reporta baja del 9,2 % en libranzas a junio en el país, pese a seguir con tendencia positiva",
-        "url": "https://www.valoraanalitik.com/fitch-creditos-libranzas-colombia/",
-        "resumen": "La calificadora prevé un desempeño resiliente en las titularizaciones de estos préstamos, respaldado por perfiles de bajo riesgo.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fitch: Créditos de libranzas cayeron 9,2 % en primer semestre en Colombia, pero mantienen tendencia positiva",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "FMI ratifica opción de crédito a Colombia y precisa que dependerá de la administración nacional",
-        "url": "https://www.valoraanalitik.com/fmi-reitera-posibilidad-de-dar-financiamiento-a-colombia-pero-aclara-que-decisiones-dependera-del-gobierno/",
-        "resumen": "El organismo confirmó que a principios de noviembre enviarán una misión técnica a Colombia para dar continuidad a las discusiones con el Gobierno.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "FMI reitera posibilidad de dar financiamiento a Colombia, pero aclara que decisiones dependerá del Gobierno",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Abonos encarecerían en el país y golpearían la comida por alza global de la urea",
-        "url": "https://www.valoraanalitik.com/fertilizantes-subirian-de-precio-en-colombia-y-afectaria-precios-de-alimentos-por-repunte-internacional-de-la-urea/",
-        "resumen": "El precio internacional de la urea subió 6,9 % en septiembre y podría presionar los costos agrícolas en Colombia durante el cierre de 2026.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Fertilizantes subirían de precio en Colombia y afectaría precios de alimentos por repunte internacional de la urea",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Diez megaobras nacionales acelerarán trabajos tras destrabar permisos y trámites ecológicos",
-        "url": "https://www.valoraanalitik.com/los-10-megaproyectos-en-colombia-que-aceleraran-sus-obras/",
-        "resumen": "El presidente de la ANI, Ricardo Ayerbe, aseguró que mantendrá mesas de trabajo con la ANLA para destrabar iniciativas en el país.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Los 10 megaproyectos en Colombia que acelerarán sus obras tras destrabe de licencias y trámites ambientales",
-        "capturado": "2026-10-16T11:25:04-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Asuntos centrales del agro regional a tratar en Expoagrofuturo 2026",
+        "url": "https://www.valoraanalitik.com/temas-que-marcan-la-agenda-del-agro-en-latinoamerica-y-se-discutiran-en-expoagrofuturo-2026/",
+        "resumen": "Bogotá recibe estas conversaciones con 19 años de trayectoria y una muestra comercial de más de 350 empresas expositoras de toda la cadena de valor.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Temas que marcan la agenda del agro en Latinoamérica y se discutirán en Expoagrofuturo 2026",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
+      {
+        "titulo": "Expoagrofuturo 2026 reunirá innovación, capital y agricultura sostenible",
+        "url": "https://www.valoraanalitik.com/expoagrofuturo-2026-el-encuentro-donde-convergen-tecnologia-inversion-y-produccion-sostenible-para-el-agro/",
+        "resumen": "La feria reunirá a productores, empresarios e inversionistas en torno a la muestra comercial, el Ecosistema FIXA, AgroMatch, AgStar, entre otros.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Expoagrofuturo 2026: el encuentro donde convergen tecnología, inversión y producción sostenible para el agro",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
+      {
+        "titulo": "Marco Rubio irá a India para afianzar alianza energética ante su búsqueda de diversificación",
+        "url": "https://www.valoraanalitik.com/marco-rubio-viajara-a-india-para-fortalecer-la-cooperacion-energetica-el-pais-asiatico-busca-diversificar-sus-fuentes/",
+        "resumen": "Tras la intervención estadounidense en Venezuela, barriles de crudo de ese país han llegado a puertos indios.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Marco Rubio viajará a India para fortalecer la cooperación energética; el país asiático busca diversificar sus fuentes",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
+      {
+        "titulo": "Opción para que empresas y ciudadanos recorten gastos de energía y consigan autonomía",
+        "url": "https://www.valoraanalitik.com/alternativa-para-que-personas-y-empresas-reduzcan-costos-de-energia-y-logren-independencia-energetica/",
+        "resumen": "Este mecanismo puede representar ahorros estimados entre un 20 % y 35 % en la factura total de energía.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Alternativa para que personas y empresas reduzcan costos de energía y logren independencia energética",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
+      {
+        "titulo": "Modificaciones de De la Espriella al régimen laboral para 'apps', comunicadores y acosados",
+        "url": "https://www.valoraanalitik.com/asi-cambiaria-de-la-espriella-las-reglas-laborales-para-repartidores-de-apps-periodistas-y-victimas-de-acoso/",
+        "resumen": "Cambios en la cotización a pensión de los repartidores, ajustes a las condiciones laborales de los periodistas y nuevas reglas para atender denuncias de acoso.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Así cambiaría De la Espriella las reglas laborales para repartidores de ‘apps’, periodistas y víctimas de acoso",
+        "capturado": "2026-10-19T17:11:50-05:00"
+      },
       {
         "titulo": "Claro recibió distinción como la red móvil con mayor velocidad y cobertura en Colombia",
         "url": "https://www.valoraanalitik.com/claro-fue-reconocida-como-la-red-movil-mas-rapida-y-de-mejor-cobertura-de-colombia/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Se entregó primera vivienda de Adopta un Hogar de Grupo Argos y Nicky Jam en Quindío; MinVivienda, Federación Nacional de Cafeteros e Isagen se sumaron",
         "capturado": "2026-10-15T10:16:50-05:00"
-      },
-      {
-        "titulo": "El país compra al exterior más del 40 % de su gas; habrá racionamiento si no sube el volumen de importación",
-        "url": "https://www.valoraanalitik.com/colombia-ya-importa-mas-de-40-del-gas-que-consume-el-racionamiento-sera-inevitable-si-no-aumenta-la-capacidad-de-importarlo/",
-        "resumen": "En energía eléctrica, el déficit se ubicó en la vigencia 2025-2026 en 5,6 %. Esta tendencia se agudizaría hasta 2030, llegando a 10,6 %.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia ya importa más de 40 % del gas que consume; el racionamiento será inevitable si no aumenta la capacidad de importarlo",
-        "capturado": "2026-10-15T10:16:50-05:00"
-      },
-      {
-        "titulo": "Millicom confirma inyección de 8,5 billones de pesos en Colombia en cuatro años y detalla sus planes",
-        "url": "https://www.valoraanalitik.com/millicom-anuncia-inversion-de-85-billones-en-colombia-para-los-proximos-cuatro-anos-frentes-que-contempla-la-estrategia/",
-        "resumen": "Tigo ejecutará más de 5.000 ampliaciones de capacidad y desplegará más de 1.100 nuevos sitios de cobertura.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Millicom anuncia inversión de $8,5 billones en Colombia para los próximos cuatro años: frentes que contempla la estrategia",
-        "capturado": "2026-10-15T00:02:31-05:00"
-      },
-      {
-        "titulo": "María Eugenia Tous asume la presidencia del Grupo Petromil",
-        "url": "https://www.valoraanalitik.com/maria-eugenia-tous-fue-nombrada-presidenta-del-grupo-petromil/",
-        "resumen": "Antes de llegar a este nuevo cargo, Tous se desempeñaba como vicepresidenta Ejecutiva del Grupo.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "María Eugenia Tous fue nombrada presidenta del Grupo Petromil",
-        "capturado": "2026-10-14T19:02:56-05:00"
-      },
-      {
-        "titulo": "La siniestralidad vial se afianza como la principal causa de incidentes viales en Colombia en septiembre",
-        "url": "https://www.valoraanalitik.com/la-siniestralidad-vial-se-consolida-como-la-principal-causa-de-afectaciones-viales-en-colombia-durante-septiembre/",
-        "resumen": "Por primera vez en el año, la siniestralidad supera a los bloqueos posicionándose como el factor número uno de las afectaciones.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "La siniestralidad vial se consolida como la principal causa de afectaciones viales en Colombia durante septiembre",
-        "capturado": "2026-10-14T19:02:56-05:00"
-      },
-      {
-        "titulo": "Fundación Grupo Argos y el Negocio de Desarrollo Urbano entregaron filtros de agua a hogares de estos barrios en Barranquilla",
-        "url": "https://www.valoraanalitik.com/fundacion-grupo-argos-y-el-negocio-de-desarrollo-urbano-entregaron-filtros-de-agua-a-familias-de-estos-barrios-en-barranquilla/",
-        "resumen": "Estos sistemas permitirán a las familias contar en sus hogares con agua segura para consumo.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Fundación Grupo Argos y el Negocio de Desarrollo Urbano entregaron filtros de agua a familias de estos barrios en Barranquilla",
-        "capturado": "2026-10-14T19:02:56-05:00"
       }
     ]
   }
