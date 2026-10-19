@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-18T19:23:32-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-19T00:08:30-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "De la Espriella informa acciones para consolidar la autonomía colombiana en San Andrés",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-anuncia-medidas-para-reforzar-la-soberania-de-colombia-en-san-andres/",
+        "resumen": "De la Espriella también anunció que su gobierno buscará convertir a San Andrés en un centro marítimo y logístico del Caribe insular.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella anuncia medidas para reforzar la soberanía de Colombia en San Andrés",
+        "capturado": "2026-10-19T00:08:30-05:00"
+      },
       {
         "titulo": "Adquiera pasajes de avión económicos: hay trayectos desde $47.500 y la oferta termina pronto",
         "url": "https://www.valoraanalitik.com/comprar-tiquetes-aereos-baratos-hay-vuelos-desde-47-500-y-la-promocion-vence-en-pocos-dias/",
@@ -592,16 +602,6 @@
         "subseccion": "Gobierno de la espriella",
         "publicacion": "",
         "titulo_fuente": "Nueva encuesta de Atlas revela leve caída en aprobación de De La Espriella",
-        "capturado": "2026-10-15T20:05:17-05:00"
-      },
-      {
-        "titulo": "Sura Investments conserva proyecciones sobre la Bolsa de Colombia tras buen rendimiento en 2026",
-        "url": "https://www.valoraanalitik.com/sura-investments-bolsa-colombia-2026/",
-        "resumen": "La firma elevó su posición en acciones locales a sobreponderar y conserva su visión favorable sobre la renta fija, pese a los riesgos fiscales e inflacionarios.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Sura Investments mantiene perspectivas para la Bolsa de Colombia tras positivo desempeño en 2026",
         "capturado": "2026-10-15T20:05:17-05:00"
       }
     ],
