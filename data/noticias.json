@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-18T17:19:11-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-18T19:23:32-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Adquiera pasajes de avión económicos: hay trayectos desde $47.500 y la oferta termina pronto",
+        "url": "https://www.valoraanalitik.com/comprar-tiquetes-aereos-baratos-hay-vuelos-desde-47-500-y-la-promocion-vence-en-pocos-dias/",
+        "resumen": "La aerolínea plantea esta promoción de tiquetes como una oportunidad para organizar viajes de fin de año y anticipar planes para 2027.",
+        "autor": "",
+        "subseccion": "Aerolineas colombia",
+        "publicacion": "",
+        "titulo_fuente": "Comprar tiquetes aéreos baratos: hay vuelos desde $47.500 y la promoción vence en pocos días",
+        "capturado": "2026-10-18T19:23:32-05:00"
+      },
       {
         "titulo": "Aval Casa de Bolsa estima inflación de 6,90 % y tipos de interés en 12,25 % al acabar 2026",
         "url": "https://www.valoraanalitik.com/aval-casa-de-bolsa-proyecta-inflacion-del-690-y-tasas-de-interes-congeladas-en-1225-para-el-cierre-de-2026/",
@@ -593,19 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Sura Investments mantiene perspectivas para la Bolsa de Colombia tras positivo desempeño en 2026",
         "capturado": "2026-10-15T20:05:17-05:00"
-      },
-      {
-        "titulo": "Restringir el uso del efectivo en Colombia: sugieren a De la Espriella prohibirlo en peajes y taxis",
-        "url": "https://www.valoraanalitik.com/limitar-el-uso-del-efectivo-en-colombia-proponen-a-de-la-espriella-que-tampoco-se-acepte-para-estos-servicios/",
-        "resumen": "Colombia Fintech respaldó la propuesta del Gobierno para limitar el efectivo y planteó nuevas medidas que cambiarían la forma de pagar servicios cotidianos.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Limitar el uso del efectivo en Colombia: proponen a De la Espriella que tampoco se acepte para pagar peajes, taxis y estos servicios",
-        "capturado": "2026-10-15T20:05:17-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Catalina Rengifo asume la dirección ejecutiva de Actho tras su separación de la Federación Colombiana de Gestión Humana",
+        "url": "https://www.valoraanalitik.com/actho-se-independiza-de-la-federacion-colombiana-de-gestion-humana-y-nombra-a-catalina-rengifo-como-directora-ejecutiva/",
+        "resumen": "Rengifo es abogada de la Pontificia Universidad Javeriana y magíster en Gobierno y Políticas Públicas de la Universidad Externado de Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Actho se independiza de la Federación Colombiana de Gestión Humana y nombra a Catalina Rengifo como directora ejecutiva",
+        "capturado": "2026-10-18T19:23:32-05:00"
+      },
       {
         "titulo": "Scania Colombia aumentó 17 % y prepara capital para talleres y buses eléctricos a 2027",
         "url": "https://www.valoraanalitik.com/entrevista-scania-colombia-crecio-17-y-alista-inversiones-en-talleres-y-vehiculos-electricos-para-2027/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Valorasports",
         "publicacion": "",
         "titulo_fuente": "Alcalde Galán pide iniciar proceso contra Sencia por estado de la grama de El Campín tras suspensión de partido",
-        "capturado": "2026-10-14T07:46:25-05:00"
-      },
-      {
-        "titulo": "Entrevista | La SuperServicios tiene que ordenar y dar viabilidad a Air-e: Comité Asesor",
-        "url": "https://www.valoraanalitik.com/la-superservicios-debe-organizar-y-darle-viabilidad-a-air-e-comite-asesor-de-comercializacion/",
-        "resumen": "El presidente del Comité Asesor de Comercialización expresó que el fenómeno de El Niño es uno de los temas clave en la agenda del sector.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | La SuperServicios debe organizar y darle viabilidad a Air-e: Comité Asesor de Comercialización",
         "capturado": "2026-10-14T07:46:25-05:00"
       }
     ]
