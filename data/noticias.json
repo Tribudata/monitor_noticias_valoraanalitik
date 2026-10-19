@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-19T00:08:30-05:00",
+  "actualizado": "2026-10-19T06:07:15-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Causas por las cuales el incremento del salario básico colombiano será menor en el próximo año",
+        "url": "https://www.valoraanalitik.com/por-que-el-salario-minimo-de-colombia-no-subira-tanto-para-el-ano-entrante/",
+        "resumen": "El salario mínimo de Colombia para el año entrante tendrá como base de negociación el dato de inflación del 2026",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "¿Por qué el salario mínimo de Colombia no subirá tanto para el año entrante?",
+        "capturado": "2026-10-19T06:07:15-05:00"
+      },
       {
         "titulo": "De la Espriella informa acciones para consolidar la autonomía colombiana en San Andrés",
         "url": "https://www.valoraanalitik.com/de-la-espriella-anuncia-medidas-para-reforzar-la-soberania-de-colombia-en-san-andres/",
@@ -592,16 +602,6 @@
         "subseccion": "Gobierno de la espriella",
         "publicacion": "",
         "titulo_fuente": "De La Espriella ordena revisar exenciones tributarias y subsidios innecesarios",
-        "capturado": "2026-10-15T20:05:17-05:00"
-      },
-      {
-        "titulo": "Un sondeo reciente de Atlas muestra una baja leve en la popularidad de De La Espriella",
-        "url": "https://www.valoraanalitik.com/nueva-encuesta-de-atlas-revela-leve-caida-en-aprobacion-de-de-la-espriella/",
-        "resumen": "El sondeo fue aplicado a 2.893 personas, específicamente de la población adulto mayor entre el 2 de octubre y el 7 del mismo mes de 2026.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Nueva encuesta de Atlas revela leve caída en aprobación de De La Espriella",
         "capturado": "2026-10-15T20:05:17-05:00"
       }
     ],
