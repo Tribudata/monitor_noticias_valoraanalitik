@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-19T06:07:15-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-19T12:40:44-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Bogotá regresa a la bolsa con emisión de bonos por hasta $1,5 billones para financiar obras",
+        "url": "https://www.valoraanalitik.com/bogota-vuelve-al-mercado-de-capitales/",
+        "resumen": "En noviembre de 2025, el Distrito realizó la primera colocación dentro de su programa de emisión, por un monto de $510.000 millones.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá vuelve al mercado de capitales: emitirá bonos hasta por $1,5 billones para financiar proyectos",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "En vivo | Senado y Cámara debaten contra el tiempo el Presupuesto de 2027 en plenarias",
+        "url": "https://www.valoraanalitik.com/en-vivo-plenarias-de-senado-y-camara-votan-a-contrarreloj-el-presupuesto-de-2027/",
+        "resumen": "El trámite debe surtirse con urgencia dado que mañana, martes 20 de octubre, vence el plazo constitucional y legal de aprobación.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "En vivo | Plenarias de Senado y Cámara votan a contrarreloj el Presupuesto de 2027",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Airbus calcula una necesidad de 2.720 aviones comerciales nuevos en América Latina",
+        "url": "https://www.valoraanalitik.com/airbus-2720-aviones-america-latina/",
+        "resumen": "El tráfico aéreo en la región crecería 3,7 % al año durante dos décadas. Colombia estaría entre los países con mayor aumento de viajes por persona.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Airbus prevé una demanda de 2.720 nuevos aviones de pasajeros en América Latina",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "De la Espriella anularía decretos de Petro sobre trabajo doméstico y tercerización laboral",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-tumbaria-nuevos-decretos-de-petro-sobre-tercerizacion-laboral-y-trabajo-domestico/",
+        "resumen": "Gobierno De la Espriella propone derogar más decretos del gobierno de Gustavo Petro.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella tumbaría nuevos decretos de Petro sobre tercerización laboral y trabajo doméstico",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Ahora | PIB de Colombia bajó 0,04 % en agosto de 2026 por el agro y la industria",
+        "url": "https://www.valoraanalitik.com/ahora-economia-de-colombia-cayo-004-en-agosto-de-2026-arrastrada-por-el-sector-primario-e-industrial/",
+        "resumen": "En el año corrido (enero-agosto), la actividad económica acumula una variación positiva del 2,27 %, de acuerdo con el ISE del DANE.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Economía de Colombia cayó 0,04 % en agosto de 2026 arrastrada por el sector primario e industrial",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Sugieren cancelar luces navideñas en el país por la escasez energética y el fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/proponen-no-instalar-alumbrados-de-navidad-en-colombia-por-crisis-de-energia-y-fenomeno-de-el-nino/",
+        "resumen": "Entre los argumentos expuestos están el riesgo de apagón y el impacto que tendría el fenómeno de El Niño en 2026 sobre el sector energético.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Proponen no instalar alumbrados de Navidad en Colombia por crisis de energía y fenómeno de El Niño",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Permisos, consumo y rivalidad externa: desafíos eléctricos del cuatrienio según el sector",
+        "url": "https://www.valoraanalitik.com/retos-sector-electrico-licencias-demanda/",
+        "resumen": "Permisos de más de dos años, demanda que crece cerca del 7 % mensual y auge de carros eléctricos, entre los temas del encuentro de Centelsa by Nexans.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Licencias, demanda y competencia con importados: los retos que el sector eléctrico plantea para el próximo cuatrienio",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Nuevas normas para rutas escolares colombianas que colegios y acudientes deben cumplir",
+        "url": "https://www.valoraanalitik.com/rutas-escolares-tendran-importantes-cambios-en-colombia-ya-hay-nuevas-exigencias-que-los-padres-y-colegios-deben-tener-en-cuenta/",
+        "resumen": "Las rutas escolares en Colombia tienen nuevas disposiciones sobre seguridad, conductores y acompañantes. Estas son las obligaciones.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Rutas escolares tendrán importantes cambios en Colombia: ya hay nuevas exigencias que los padres y colegios deben tener en cuenta",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Designados ponentes en el Congreso para debatir adición de cerca de $4 billones al Presupuesto 2026",
+        "url": "https://www.valoraanalitik.com/congreso-designa-ponentes-para-tramitar-la-adicion-de-casi-4-billones-al-presupuesto-de-2026/",
+        "resumen": "Los representantes designados en la Comisión Cuarta cuentan con un plazo de hasta quince días calendario para radicar el informe de ponencia.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Congreso designa ponentes para tramitar la adición de casi $4 billones al Presupuesto de 2026",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Dólar estable a $3.170 en Colombia al bajar el crudo tras quitar sanciones de EE. UU. a energía rusa",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-estable-en-3-170-mientras-el-crudo-cede-tras-el-alivio-de-sanciones-de-ee-uu-a-energia-rusa/",
+        "resumen": "A nivel global, el índice DXY continúa haciendo respetar el piso 101,70 puntos.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre estable en $3.170 mientras el crudo cede tras el alivio de sanciones de EE. UU. a energía rusa",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Corficolombiana sugiere que el alza adecuada para el salario mínimo de 2027 sea del 8 por ciento",
+        "url": "https://www.valoraanalitik.com/corficolombiana-pone-sobre-la-mesa-que-el-incremento-deseable-para-el-salario-minimo-de-2027-sea-de-8/",
+        "resumen": "La corporación señaló que cálculos del CARF estimaron que el aumento de 23 % del salario mínimo elevaría el déficit fiscal en cerca de $5,3 billones en 2026.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Corficolombiana pone sobre la mesa que el incremento deseable para el salario mínimo de 2027 sea de 8 %",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Ecopetrol declara desierto el trámite de adquisición de gas importado para el Pacífico y Puerto Bahía",
+        "url": "https://www.valoraanalitik.com/ecopetrol-declara-desierto-proceso-de-compra-de-gas-importado-para-regasificadoras-del-pacifico-y-puerto-bahia/",
+        "resumen": "La empresa añadió que durante esta administración Petro hubo un declive en la industria por la falta de exploración de nuevos campos.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol declara desierto proceso de compra de gas importado para regasificadoras del Pacífico y Puerto Bahía",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
       {
         "titulo": "Causas por las cuales el incremento del salario básico colombiano será menor en el próximo año",
         "url": "https://www.valoraanalitik.com/por-que-el-salario-minimo-de-colombia-no-subira-tanto-para-el-ano-entrante/",
@@ -483,129 +603,89 @@
         "publicacion": "",
         "titulo_fuente": "Los 10 megaproyectos en Colombia que acelerarán sus obras tras destrabe de licencias y trámites ambientales",
         "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Dólar arranca en $3.165 a la baja al tiempo que el índice DXY prueba el soporte vital de 101 puntos",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-en-3-165-con-leve-caida-mientras-el-indice-dxy-reta-el-soporte-clave-de-los-101-puntos/",
-        "resumen": "El dólar global, medido a través del índice DXY, se encuentra retando de manera directa el piso clave en los 101,70 puntos.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre en $3.165 con leve caída, mientras el índice DXY reta el soporte clave de los 101 puntos",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Tesla asombra al planeta al revelar su primer auto capaz de volar y estas son las especificaciones",
-        "url": "https://www.valoraanalitik.com/tesla-sorprende-al-mundo-y-presenta-su-primer-carro-que-puede-volar-estos-son-los-detalles/",
-        "resumen": "La compañía anunció tres configuraciones del deportivo: Performance, Thrust y Rocket, con diferencias en su capacidad de aceleración.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tesla sorprende al mundo y presenta su primer carro que puede volar: estos son los detalles",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "MinHacienda reitera déficit fiscal previo y defiende recorte presupuestal ante el Senado",
-        "url": "https://www.valoraanalitik.com/minhacienda-insiste-en-un-hueco-fiscal-heredado-y-defiende-el-ajuste-del-presupuesto-en-el-senado/",
-        "resumen": "Frente a las críticas por el incremento en el servicio de la deuda, el ministro aclaró que responde a compromisos de administraciones pasadas.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda insiste en un «hueco fiscal» heredado y defiende el ajuste del Presupuesto en el Senado",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados mundiales, futuros de Wall Street y crudo: factores para la apertura del 16 de octubre de 2026",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-globales-futuros-de-wall-street-y-petroleo-claves-para-la-apertura-del-16-de-octubre-de-2026/",
-        "resumen": "Los precios internacionales del petróleo se encaminaban a cerrar la semana con ganancias.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas globales, futuros de Wall Street y petróleo: claves para la apertura del 16 de octubre de 2026",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Bogotá-Región captó 56 iniciativas de inversión foránea por US$456 millones durante 2026",
-        "url": "https://www.valoraanalitik.com/bogota-region-atrajo-56-proyectos-de-inversion-extranjera-por-us456-millones-en-2026/",
-        "resumen": "La diversificación geográfica continúa siendo una característica de la inversión que recibe Bogotá-Región.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá-Región atrajo 56 proyectos de inversión extranjera por US$456 millones en 2026",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "FMI advierte en relevante reporte que tasa de desocupación nacional retornaría a dos cifras",
-        "url": "https://www.valoraanalitik.com/desempleo-en-colombia-podria-volver-al-doble-digito-alerta-importante-informe-del-fmi/",
-        "resumen": "El desempleo en Colombia volvió a subir, de acuerdo con los recientes datos del DANE.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Desempleo en Colombia podría volver al doble dígito, alerta importante informe del FMI",
-        "capturado": "2026-10-16T06:48:06-05:00"
-      },
-      {
-        "titulo": "Por tales motivos el Emisor solicitó prudencia frente al incremento del sueldo básico",
-        "url": "https://www.valoraanalitik.com/por-estas-razones-el-banco-de-la-republica-ha-pedido-mesura-frente-al-aumento-del-salario-minimo/",
-        "resumen": "Se espera que las discusiones sobre el aumento del salario mínimo en Colombia empiecen formalmente en noviembre",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Por estas razones el Banco de la República ha pedido mesura con el aumento del salario mínimo",
-        "capturado": "2026-10-16T06:48:06-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella restringe nuevas contrataciones por prestación de servicios en el sector público",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-limita-nuevos-contratos-de-prestacion-de-servicios-en-el-estado/",
-        "resumen": "Cada entidad deberá demostrar que existe una necesidad funcional.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella limita nuevos contratos de prestación de servicios en el Estado",
-        "capturado": "2026-10-16T01:14:48-05:00"
-      },
-      {
-        "titulo": "Ignacio Bravo asume la gerencia general de Banco Falabella Colombia",
-        "url": "https://www.valoraanalitik.com/ignacio-bravo-nuevo-gerente-general-de-banco-falabella-colombia/",
-        "resumen": "Bravo es ingeniero civil industrial de la Pontificia Universidad Católica de Chile y cuenta con un MBA de la Universidad de California, Berkeley.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Ignacio Bravo, nuevo gerente general de Banco Falabella Colombia",
-        "capturado": "2026-10-15T20:05:17-05:00"
-      },
-      {
-        "titulo": "La modernización del mercado mayorista y El Niño son prioridades del regulador energético del país",
-        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-y-modernizacion-del-mercado-mayorista-son-los-focos-del-regulador-del-sector-energetico-colombiano/",
-        "resumen": "La directora de la CREG afirmó que la modernización del mercado mayorista de energía es esencial.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Fenómeno de El Niño y modernización del mercado mayorista son los focos del regulador del sector energético colombiano",
-        "capturado": "2026-10-15T20:05:17-05:00"
-      },
-      {
-        "titulo": "La confianza en Brasil sube con fuerza luego de la victoria de Bolsonaro en la primera vuelta",
-        "url": "https://www.valoraanalitik.com/confianza-en-brasil-se-dispara-tras-triunfo-de-bolsonaro-en-primera-vuelta-presidencial/",
-        "resumen": "Así lo reveló la encuesta Latam Pulse, elaborada por AtlasIntel y Bloomberg.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Confianza en Brasil se dispara tras triunfo de Bolsonaro en primera vuelta presidencial",
-        "capturado": "2026-10-15T20:05:17-05:00"
-      },
-      {
-        "titulo": "De La Espriella dispone examinar los subsidios innecesarios y las exenciones de impuestos",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-ordena-revisar-exenciones-tributarias-y-subsidios-innecesarios/",
-        "resumen": "Puntualizó sobre eso que, cuando corresponda, deben ser reversados.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "De La Espriella ordena revisar exenciones tributarias y subsidios innecesarios",
-        "capturado": "2026-10-15T20:05:17-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Claro recibió distinción como la red móvil con mayor velocidad y cobertura en Colombia",
+        "url": "https://www.valoraanalitik.com/claro-fue-reconocida-como-la-red-movil-mas-rapida-y-de-mejor-cobertura-de-colombia/",
+        "resumen": "Claro cuenta hoy con cobertura 4G en el 100 % de las cabeceras municipales y el despliegue de la red 5G en más de 100 ciudades y municipios.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Claro fue reconocida como la red móvil más rápida y de mejor cobertura de Colombia",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Airbus calcula que América Latina requerirá 2720 aeronaves de pasajeros nuevas",
+        "url": "https://www.valoraanalitik.com/airbus-2720-aviones-america-latina/",
+        "resumen": "El tráfico aéreo en la región crecería 3,7 % al año durante dos décadas. Colombia estaría entre los países con mayor aumento de viajes por persona.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Airbus prevé una demanda de 2.720 nuevos aviones de pasajeros en América Latina",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "De la Espriella anularía los recientes decretos petristas de tercerización y empleo doméstico",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-tumbaria-nuevos-decretos-de-petro-sobre-tercerizacion-laboral-y-trabajo-domestico/",
+        "resumen": "Gobierno De la Espriella propone derogar más decretos del gobierno de Gustavo Petro.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella tumbaría nuevos decretos de Petro sobre tercerización laboral y trabajo doméstico",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Sugieren no poner luces navideñas en Colombia debido a la crisis energética y El Niño",
+        "url": "https://www.valoraanalitik.com/proponen-no-instalar-alumbrados-de-navidad-en-colombia-por-crisis-de-energia-y-fenomeno-de-el-nino/",
+        "resumen": "Entre los argumentos expuestos están el riesgo de apagón y el impacto que tendría el fenómeno de El Niño en 2026 sobre el sector energético.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Proponen no instalar alumbrados de Navidad en Colombia por crisis de energía y fenómeno de El Niño",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Corficolombiana sugiere que el alza ideal para el sueldo básico de 2027 llegue al 8 por ciento",
+        "url": "https://www.valoraanalitik.com/corficolombiana-pone-sobre-la-mesa-que-el-incremento-deseable-para-el-salario-minimo-de-2027-sea-de-8/",
+        "resumen": "La corporación señaló que cálculos del CARF estimaron que el aumento de 23 % del salario mínimo elevaría el déficit fiscal en cerca de $5,3 billones en 2026.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Corficolombiana pone sobre la mesa que el incremento deseable para el salario mínimo de 2027 sea de 8 %",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Ecopetrol declara desierto el concurso para adquirir gas importado destinado al Pacífico y Puerto Bahía",
+        "url": "https://www.valoraanalitik.com/ecopetrol-declara-desierto-proceso-de-compra-de-gas-importado-para-regasificadoras-del-pacifico-y-puerto-bahia/",
+        "resumen": "La empresa añadió que durante esta administración Petro hubo un declive en la industria por la falta de exploración de nuevos campos.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol declara desierto proceso de compra de gas importado para regasificadoras del Pacífico y Puerto Bahía",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Entrevista | Asocajas afirma que las Cajas de Compensación Familiar son un gran patrimonio social patrio",
+        "url": "https://www.valoraanalitik.com/entrevista-las-cajas-de-compensacion-familiar-son-uno-de-los-principales-patrimonios-sociales-de-colombia-asocajas/",
+        "resumen": "La presidenta de Asocajas destaca la contribución del Sistema al bienestar de familias y oportunidades para fortalecer su papel frente a transformaciones.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Las Cajas de Compensación Familiar son uno de los principales patrimonios sociales de Colombia: Asocajas",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
+      {
+        "titulo": "Latam y ALTA advierten sobre restricciones en el Aeropuerto El Dorado y congestión aérea regional",
+        "url": "https://www.valoraanalitik.com/latam-alta-limites-aeropuerto-el-dorado/",
+        "resumen": "Las obras previstas en El Dorado complicarán su operación en los próximos meses; ALTA pide planes aeroportuarios de largo plazo.",
+        "autor": "",
+        "subseccion": "Turismo",
+        "publicacion": "",
+        "titulo_fuente": "Latam y ALTA alertan por las limitaciones del Aeropuerto El Dorado y la congestión aérea en la región",
+        "capturado": "2026-10-19T12:40:44-05:00"
+      },
       {
         "titulo": "Catalina Rengifo asume la dirección ejecutiva de Actho tras su separación de la Federación Colombiana de Gestión Humana",
         "url": "https://www.valoraanalitik.com/actho-se-independiza-de-la-federacion-colombiana-de-gestion-humana-y-nombra-a-catalina-rengifo-como-directora-ejecutiva/",
@@ -1125,86 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Fundación Grupo Argos y el Negocio de Desarrollo Urbano entregaron filtros de agua a familias de estos barrios en Barranquilla",
         "capturado": "2026-10-14T19:02:56-05:00"
-      },
-      {
-        "titulo": "Gobierno señala que el déficit de gas en Colombia se profundizará en febrero de 2027 con las reservas actuales",
-        "url": "https://www.valoraanalitik.com/gobierno-dice-que-con-las-reservas-actuales-el-deficit-de-gas-en-colombia-se-agudizara-en-febrero-de-2027/",
-        "resumen": "Frente a las cifras de energía eléctrica, el Gobierno que el déficit de energía firme sería de 8,3 % para la vigencia 2026-2027.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno dice que con las reservas actuales el déficit de gas en Colombia se agudizará en febrero de 2027",
-        "capturado": "2026-10-14T19:02:56-05:00"
-      },
-      {
-        "titulo": "Gobierno plantea facilitar procesos empresariales mediante iniciativa de competitividad",
-        "url": "https://www.valoraanalitik.com/gobierno-propone-simplificar-tramites-para-empresas-con-proyecto-de-ley-de-competitividad/",
-        "resumen": "El Gobierno presentó un proyecto de ley que busca simplificar trámites, digitalizar procesos y reducir cargas administrativas para las empresas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno propone simplificar trámites para empresas con proyecto de ley de competitividad",
-        "capturado": "2026-10-14T16:28:37-05:00"
-      },
-      {
-        "titulo": "Entrevista | BMW planea nueva fase en el país: actualizará catálogo y traerá eléctricos",
-        "url": "https://www.valoraanalitik.com/entrevista-bmw-prepara-una-nueva-etapa-en-colombia-renovara-su-portafolio-y-traera-nuevos-modelos-electricos/",
-        "resumen": "José Guillermo Marín, director de Mercadeo de BMW en Colombia, explica los cambios que vienen para la marca y sus próximos lanzamientos.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | BMW prepara una nueva etapa en Colombia: renovará su portafolio y traerá nuevos modelos eléctricos",
-        "capturado": "2026-10-14T16:28:37-05:00"
-      },
-      {
-        "titulo": "Hasta 80 % de firmas petroleras y gasíferas presentarían reducción de extracción a 2040",
-        "url": "https://www.valoraanalitik.com/hasta-80-de-las-empresas-de-petroleo-y-gas-podrian-ver-caidas-en-su-produccion-hacia-2040/",
-        "resumen": "Inversiones en exploración, incorporación de tecnología y aprovechar oportunidades a través de socios clave serán vitales para el mercado.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Hasta 80 % de las empresas de petróleo y gas podrían ver caídas en su producción hacia 2040",
-        "capturado": "2026-10-14T16:28:37-05:00"
-      },
-      {
-        "titulo": "Terminal de Transporte de Bogotá suprime efectivo en Tasa de Uso junto a Copiloto Colombia",
-        "url": "https://www.valoraanalitik.com/terminal-de-transporte-de-bogota-elimina-pago-en-efectivo-de-la-tasa-de-uso-y-avanza-hacia-operacion-100-digital-de-la-mano-de-copiloto-colombia/",
-        "resumen": "La transformación busca agilizar los procesos operativos, fortalecer la trazabilidad de los recaudos y reducir el manejo de efectivo en la terminal.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Terminal de Transporte de Bogotá elimina pago en efectivo de la Tasa de Uso y avanza hacia operación 100 % digital de la mano de Copiloto Colombia",
-        "capturado": "2026-10-14T16:28:37-05:00"
-      },
-      {
-        "titulo": "El mineral regresa al foco de la estabilidad de energía en la Cumbre de Carbón y Coque Colombia 2026",
-        "url": "https://www.valoraanalitik.com/el-carbon-vuelve-al-centro-del-debate-sobre-la-seguridad-energetica-en-la-cumbre-colombiana-del-carbon-y-coque-2026/",
-        "resumen": "El encuentro reunirá a representantes del Gobierno, empresarios, expertos nacionales e internacionales y actores de la cadena.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "El carbón vuelve al centro del debate sobre la seguridad energética en la Cumbre Colombiana del Carbón y Coque 2026",
-        "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "Estas son las 200 empresas con mayor prestigio en el país según el listado Merco Empresas 2026",
-        "url": "https://www.valoraanalitik.com/estas-son-las-200-companias-con-mejor-reputacion-corporativa-en-colombia-asi-quedo-ranking-merco-empresas-2026/",
-        "resumen": "En el ranking de Merco Empresas 2026, los sectores con mayor número son el financiero y el de alimentos, ambos con 16 firmas, seguidos por el farmacéutico.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Estas son las 200 compañías con mejor reputación corporativa en Colombia: así quedó ranking Merco Empresas 2026",
-        "capturado": "2026-10-14T12:53:38-05:00"
-      },
-      {
-        "titulo": "Galán solicita abrir proceso a Sencia por césped de El Campín tras cancelación de encuentro",
-        "url": "https://www.valoraanalitik.com/alcalde-galan-pide-iniciar-proceso-contra-sencia-por-estado-de-la-grama-de-el-campin-tras-suspension-de-partido/",
-        "resumen": "Sencia había asegurado públicamente que la nueva grama estaría en condiciones aptas para disputar un partido de fútbol profesional.",
-        "autor": "",
-        "subseccion": "Valorasports",
-        "publicacion": "",
-        "titulo_fuente": "Alcalde Galán pide iniciar proceso contra Sencia por estado de la grama de El Campín tras suspensión de partido",
-        "capturado": "2026-10-14T07:46:25-05:00"
       }
     ]
   }
