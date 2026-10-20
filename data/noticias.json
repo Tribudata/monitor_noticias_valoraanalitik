@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-20T01:26:25-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-20T06:59:39-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Premercado | Caen bolsas mundiales por dudas sobre IA y crudo escala ante temor de abastecimiento",
+        "url": "https://www.valoraanalitik.com/premercado-mercados-globales-caen-tras-incertidumbre-sobre-ia-y-petroleo-sube-por-riesgo-de-suministro/",
+        "resumen": "Mientras tanto, SpaceX y Netflix se encuentran entre los protagonistas de los resultados que se publicarán tras el cierre del mercado.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Mercados globales caen tras incertidumbre sobre IA y petróleo sube por riesgo de suministro",
+        "capturado": "2026-10-20T06:59:39-05:00"
+      },
+      {
+        "titulo": "Relevante | Congreso avaló el presupuesto del gobierno De la Espriella por 635 billones para 2027",
+        "url": "https://www.valoraanalitik.com/relevante-congreso-de-la-republica-aprobo-el-presupuesto-del-gobierno-de-la-espriella-por-635-billones-para-2027/",
+        "resumen": "El presupuesto se definió en la madrugada de este martes 20 de octubre.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Congreso de la República aprobó el presupuesto del gobierno De la Espriella por $635 billones para 2027",
+        "capturado": "2026-10-20T06:59:39-05:00"
+      },
+      {
+        "titulo": "Definición del salario mínimo en Colombia del 2027 quedará en manos de estos representantes: ¿Llegarán con posturas muy distanciadas?",
+        "url": "https://www.valoraanalitik.com/definicion-del-salario-minimo-en-colombia-del-2027-quedara-en-manos-de-estos-representantes-llegaran-con-posturas-muy-distanciadas/",
+        "resumen": "El incremento del salario mínimo en Colombia del 2027 empezaría con una discusión del 7 % o el 8 %",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Definición del salario mínimo en Colombia del 2027 quedará en manos de estos representantes: ¿Llegarán con posturas muy distanciadas?",
+        "capturado": "2026-10-20T06:59:39-05:00"
+      },
+      {
+        "titulo": "Escasez de gas pone en riesgo de parálisis al sector industrial y productivo colombiano",
+        "url": "https://www.valoraanalitik.com/crisis-de-gas-amenaza-con-paralizar-parte-del-aparato-productivo-e-industrial-de-colombia/",
+        "resumen": "Ecopetrol declaró desiertos los contratos para comprar el gas del exterior que llegaría a Puerto Bahía (Cartagena) y el Pacífico (Valle del Cauca).",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Crisis de gas amenaza con paralizar parte del aparato productivo e industrial de Colombia",
+        "capturado": "2026-10-20T06:59:39-05:00"
+      },
+      {
+        "titulo": "Tipos de interés en Colombia continuarán elevados en 2027: El crédito seguiría costoso",
+        "url": "https://www.valoraanalitik.com/tasas-de-interes-en-colombia-van-a-seguir-altas-en-2027-credito-podria-seguir-caro/",
+        "resumen": "Las tasas de interés en Colombia van a depender de lo que pase con el proceso de desaceleración de la inflación.",
+        "autor": "",
+        "subseccion": "Tasas de interes en colombia",
+        "publicacion": "",
+        "titulo_fuente": "Tasas de interés en Colombia van a seguir altas en 2027: Crédito podría seguir caro",
+        "capturado": "2026-10-20T06:59:39-05:00"
+      },
       {
         "titulo": "Gobierno De la Espriella busca revertir modificación de Petro en rentas vitalicias de pensiones",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-busca-reversar-cambio-de-petro-en-rentas-vitalicias-para-pensiones/",
@@ -553,59 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Banco de Bogotá vuelve al top 3 de las entidades financieras con mayores utilidades en Colombia: así quedó el ranking",
         "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "Nuevas normas en Colombia para llevar animales de compañía a oficinas tras fallo judicial",
-        "url": "https://www.valoraanalitik.com/llevar-mascotas-al-trabajo-tendra-nuevas-reglas-en-colombia-fallo-fija-parametros-clave/",
-        "resumen": "Llevar mascotas al trabajo tendrá nuevas reglas en Colombia. Un fallo judicial puso plazo a los ministerios y definió qué aspectos deberán regular.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Llevar mascotas al trabajo tendrá nuevas reglas en Colombia: fallo fija parámetros clave",
-        "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "Finalizan obras iniciales en el aeropuerto de Rionegro y pactan acelerar trabajos",
-        "url": "https://www.valoraanalitik.com/listas-primeras-obras-de-ampliacion-del-aeropuerto-de-rionegro-y-hay-acuerdo-para-acelerar-intervenciones/",
-        "resumen": "Los usuarios ya pueden utilizar nuevos módulos de check in y un nuevo filtro de seguridad internacional.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Listas primeras obras de ampliación del aeropuerto de Rionegro y hay acuerdo para acelerar intervenciones",
-        "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "BID Invest asignará fondos para créditos a adultos mayores mediante este banco colombiano",
-        "url": "https://www.valoraanalitik.com/bid-invest-destinara-importantes-recursos-para-ampliar-credito-a-adultos-mayores-lo-hara-con-este-banco/",
-        "resumen": "La operación fortalecerá el capital de Banco Unión y permitirá ampliar su cartera para pensionados mayores de 65 años, un segmento con menor acceso al crédito.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "BID Invest destinará importantes recursos para ampliar crédito a adultos mayores; lo hará con este banco",
-        "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "A agosto, ganancias de usuarios bancarios llegan a $75,8 billones mas disminuyen frente al precedente",
-        "url": "https://www.valoraanalitik.com/rendimientos-a-clientes-del-sistema-financiero-alcanzan-los-758-billones-a-agosto-pero-caen-respecto-al-ano-anterior/",
-        "resumen": "Este desempeño se presenta a pesar de que los activos de terceros gestionados por las entidades financieras alcanzaron los $2.046,6 billones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Rendimientos a clientes del sistema financiero alcanzan los $75,8 billones a agosto, pero caen respecto al año anterior",
-        "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "Empleados solicitarán fuerte alza del salario básico colombiano para 2027: subida pasaría de $600.000",
-        "url": "https://www.valoraanalitik.com/trabajadores-pediran-agresivo-aumento-del-salario-minimo-en-colombia-para-2027/",
-        "resumen": "Las mesas de concertación del salario mínimo en Colombia podrían empezar en noviembre",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Trabajadores pedirán agresivo aumento del salario mínimo en Colombia para 2027: Ajuste sería mayor a $600.000",
-        "capturado": "2026-10-16T17:42:23-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El Congreso avaló el presupuesto gubernamental De la Espriella por 635 billones de pesos para el 2027",
+        "url": "https://www.valoraanalitik.com/relevante-congreso-de-la-republica-aprobo-el-presupuesto-del-gobierno-de-la-espriella-por-635-billones-para-2027/",
+        "resumen": "El presupuesto se definió en la madrugada de este martes 20 de octubre.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Congreso de la República aprobó el presupuesto del gobierno De la Espriella por $635 billones para 2027",
+        "capturado": "2026-10-20T06:59:39-05:00"
+      },
+      {
+        "titulo": "Escasez de gas pone en riesgo de parálisis al sector industrial y productivo colombiano",
+        "url": "https://www.valoraanalitik.com/crisis-de-gas-amenaza-con-paralizar-parte-del-aparato-productivo-e-industrial-de-colombia/",
+        "resumen": "Ecopetrol declaró desiertos los contratos para comprar el gas del exterior que llegaría a Puerto Bahía (Cartagena) y el Pacífico (Valle del Cauca).",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Crisis de gas amenaza con paralizar parte del aparato productivo e industrial de Colombia",
+        "capturado": "2026-10-20T06:59:39-05:00"
+      },
       {
         "titulo": "Las ventas externas de café en Colombia bajan 13,8 % a septiembre debido a la divisa y gastos de operación",
         "url": "https://www.valoraanalitik.com/exportaciones-de-cafe-colombiano-caen-138-a-septiembre-por-efectos-del-dolar-y-costos-operativos/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Infraestructura",
         "publicacion": "",
         "titulo_fuente": "Consejo Directivo del Fondo Milagro arranca reuniones para decidir sobre reconstrucción del país tras terremoto",
-        "capturado": "2026-10-15T10:16:50-05:00"
-      },
-      {
-        "titulo": "Destacado | Ecopetrol plantea transformar ISA cambiando su junta directiva y el método para elegir presidente",
-        "url": "https://www.valoraanalitik.com/ecopetrol-busca-cambios-en-isa/",
-        "resumen": "La propuesta será discutida en la Asamblea Extraordinaria de Accionistas que tendrá ISA el próximo 28 de octubre.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Ecopetrol busca cambios en ISA: propone renovar toda la Junta y simplificar elección del presidente",
-        "capturado": "2026-10-15T10:16:50-05:00"
-      },
-      {
-        "titulo": "Primicia | CREG asegura que se adelantan todas las gestiones para superar el Fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/estamos-haciendo-todo-para-pasar-este-fenomeno-de-el-nino-directora-de-la-creg/",
-        "resumen": "Adriana Jiménez, directora del organismo que regula la industria energética en Colombia, habló de las medidas que se tomarán frente al fenómeno de El Niño.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Exclusiva | “Estamos haciendo todo para pasar este fenómeno de El Niño”: directora de la CREG",
         "capturado": "2026-10-15T10:16:50-05:00"
       }
     ]
