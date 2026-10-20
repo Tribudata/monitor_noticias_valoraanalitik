@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-20T11:51:32-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-10-20T15:21:57-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Medellín progresa en modificación del POT con modificaciones en vivienda, turismo y renovación urbana",
+        "url": "https://www.valoraanalitik.com/medellin-avanza-en-reforma-al-pot-con-cambios-en-vivienda-turismo-y-renovacion-urbana/",
+        "resumen": "Uno de los puntos más debatidos de la propuesta es la regulación de las viviendas turísticas.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Medellín avanza en reforma al POT con cambios en vivienda, turismo y renovación urbana",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Presto busca comprador y SuperSociedades frena disolución por veinte días hábiles",
+        "url": "https://www.valoraanalitik.com/presto-busca-comprador-supersociedades-suspende-liquidacion-por-20-dias-habiles/",
+        "resumen": "La cadena de hamburguesas busca preservar la operación para facilitar su venta. Registra deudas superiores a $45.000 millones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presto busca comprador: SuperSociedades suspende liquidación por 20 días hábiles",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Megaproyecto solar en Santander obtendrá crédito de hasta 200.000 millones y cuándo operará",
+        "url": "https://www.valoraanalitik.com/megaproyecto-solar-en-santander-recibira-financiacion-de-hasta-200-000-millones-cuando-entrara-en-operacion/",
+        "resumen": "La expansión de las energías limpias suma un nuevo megaproyecto solar en Santander, con potencial para ampliar la generación eléctrica de Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Megaproyecto solar en Santander recibirá financiación de hasta $200.000 millones: ¿Cuándo entrará en operación?",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Citi pronostica desaceleración del PIB colombiano al 1,8 % para 2027 por reforma fiscal",
+        "url": "https://www.valoraanalitik.com/citi-proyecta-una-desaceleracion-de-la-economia-de-colombia-al-18-en-2027-tras-el-ajuste-fiscal/",
+        "resumen": "Pese al menor crecimiento en el corto plazo, la firma destacó las fortalezas históricas del país y una inflación que cederá gradualmente al 4,7 %.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Citi proyecta una desaceleración de la economía de Colombia al 1,8 % en 2027 tras el ajuste fiscal",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia supera la baja y finaliza en 3.174 pesos tras aval al Presupuesto de 2027",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-deja-atras-su-tendencia-bajista-y-cierra-en-3-174-tras-aprobacion-del-presupuesto-para-2027/",
+        "resumen": "La divisa arrancó con sesgo bajista en $3.145 y acentuó su caída hasta registrar un mínimo intradiario de $3.130.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia deja atrás su tendencia bajista y cierra en $3.174 tras aprobación del Presupuesto para 2027",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Importante | Gobierno De la Espriella planea drástica modificación a multas viales y cesarían cobros así",
+        "url": "https://www.valoraanalitik.com/relevante-gobierno-de-la-espriella-busca-radical-cambio-a-multas-de-transito-en-colombia-se-acabarian-los-cobros-en-estos-casos/",
+        "resumen": "El anuncio lo entregó la ministra de Transporte del gobierno De la Espriella: Las multas de tránsito en Colombia cambiarían sustancialmente.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Gobierno De la Espriella busca radical cambio a multas de tránsito en Colombia: Se acabarían los cobros en estos casos",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Pactos colectivos en Colombia: impacto empresarial y laboral si Gobierno De la Espriella tumba decreto",
+        "url": "https://www.valoraanalitik.com/pactos-colectivos-en-colombia-que-cambiaria-para-las-empresas-y-los-trabajadores-si-gobierno-de-la-espriella-deroga-el-decreto-laboral/",
+        "resumen": "Los pactos colectivos en Colombia podrían cambiar: empresas y trabajadores deben conocer qué pasará con los controles del Ministerio del Trabajo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Pactos colectivos en Colombia: qué cambiaría para las empresas y los trabajadores si Gobierno De la Espriella deroga el decreto laboral",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Grupo Sura ejecutó 6 por ciento de recompra de acciones y valora su crecimiento post escisión Argos",
+        "url": "https://www.valoraanalitik.com/grupo-sura-ya-ejecuto-6-del-programa-de-recompra-de-acciones-asi-ha-crecido-su-valor-tras-la-escision-con-grupo-argos/",
+        "resumen": "El holding financiero comenzó el pasado 5 de octubre su programa de readquisición, el cual irá hasta marzo de 2028.",
+        "autor": "",
+        "subseccion": "Grupo argos",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Sura ya ejecutó 6 % del programa de recompra de acciones; así ha crecido su valor tras la escisión con Grupo Argos",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Inversión inmobiliaria avanza hacia Dubái con recuperación de precios y vigencia de oportunidades",
+        "url": "https://www.valoraanalitik.com/asi-se-esta-moviendo-inversion-inmobiliaria-hacia-dubai-precios-recuperan-terreno/",
+        "resumen": "En Dubái, más del 70 % de las ventas del sector suele ser de proyectos sobre planos, de acuerdo con datos de la industria.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Así se está moviendo la inversión inmobiliaria hacia Dubái; precios recuperan terreno y siguen las oportunidades",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
       {
         "titulo": "Asignación del Presupuesto 2027: cae servicio de deuda y sube inversión",
         "url": "https://www.valoraanalitik.com/asi-se-distribuira-el-presupuesto-2027-baja-el-pago-de-deuda-y-aumenta-inversion/",
@@ -513,99 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | Herbalife busca crecer a doble dígito en los próximos años: Colombia es uno de sus mercados clave",
         "capturado": "2026-10-18T12:11:28-05:00"
-      },
-      {
-        "titulo": "FMI calcula que el déficit fiscal colombiano llegará a casi el 7 % del PIB en 2026 y exige corrección",
-        "url": "https://www.valoraanalitik.com/fmi-proyecta-deficit-fiscal-de-colombia-cercano-al-7-del-pib-en-2026-y-pide-ajuste-urgente/",
-        "resumen": "El ajuste fiscal no necesariamente tendría que lograrse mediante aumentos en las tasas de los impuestos, dice el FMI.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "FMI proyecta déficit fiscal de Colombia cercano al 7 % del PIB en 2026 y pide ajuste urgente",
-        "capturado": "2026-10-18T12:11:28-05:00"
-      },
-      {
-        "titulo": "MinAgricultura pacta alianza con Grupo Éxito para cortar intermediarios y potenciar ventas agrarias",
-        "url": "https://www.valoraanalitik.com/minagricultura-anuncia-alianza-con-grupo-exito-para-reducir-intermediarios-y-mejorar-ventas-del-campo/",
-        "resumen": "MinAgricultura y Grupo Éxito sellan alianza para impulsar ventas del campo por $1,2 billones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinAgricultura anuncia alianza con Grupo Éxito para reducir intermediarios y mejorar ventas del campo",
-        "capturado": "2026-10-18T12:11:28-05:00"
-      },
-      {
-        "titulo": "CUT analiza pedir un incremento del 38,5 % para el salario mínimo en Colombia en 2027",
-        "url": "https://www.valoraanalitik.com/cut-propondra-aumento-de-385-del-salario-minimo-de-colombia-para-2027cut-evalua-aumento-de-385-del-salario-minimo-de-colombia-para-2027/",
-        "resumen": "El dirigente sindical Fabio Arias aseguró que los trabajadores buscan recuperar la brecha entre el salario mínimo actual y el denominado salario vital.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "CUT evalúa aumento de 38,5 % del salario mínimo de Colombia para 2027",
-        "capturado": "2026-10-18T12:11:28-05:00"
-      },
-      {
-        "titulo": "El costo de vida en el país no cedería con rapidez en 2027 y este sería el panorama",
-        "url": "https://www.valoraanalitik.com/inflacion-en-colombia-no-se-desaceleraria-inmediatamente-en-2027-esto-habria-que-esperar/",
-        "resumen": "La inflación en Colombia se espera empiece un proceso importante de desaceleración el año entrante",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Inflación en Colombia no se desaceleraría inmediatamente en 2027: Esto habría que esperar",
-        "capturado": "2026-10-18T08:31:01-05:00"
-      },
-      {
-        "titulo": "Ray-Ban cumple 90 años apostando por Meta, Transitions y festivales en Colombia",
-        "url": "https://www.valoraanalitik.com/ray-ban-colombia-meta-transitions-90-anos/",
-        "resumen": "EssilorLuxottica, dueña de Ray-Ban, atiende más de 5.000 ópticas en Colombia y alista lanzamientos para el aniversario de la marca.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Ray-Ban llega a sus 90 años con Meta, Transitions y festivales como apuestas en Colombia",
-        "capturado": "2026-10-17T19:11:54-05:00"
-      },
-      {
-        "titulo": "Hitachi destinó US$80 millones para crecer en Risaralda y prevé ganancias de US$300 millones en 2026",
-        "url": "https://www.valoraanalitik.com/hitachi-invirtio-us80-millones-para-expandirse-en-risaralda-proyecta-ganancias-por-us300-millones-en-2026/",
-        "resumen": "El gerente de Hitachi, Javier Ricardo Ruiz, habló sobre los objetivos de la compañía tanto a nivel nacional como en los mercados internacionales.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Hitachi invirtió US$80 millones para expandirse en Risaralda; proyecta ganancias por US$300 millones en 2026",
-        "capturado": "2026-10-17T19:11:54-05:00"
-      },
-      {
-        "titulo": "Gobierno convoca a entregar propuestas para reformar el Código Nacional de Tránsito",
-        "url": "https://www.valoraanalitik.com/codigo-nacional-de-transito-sera-reformado-gobierno-abre-convocatoria-para-recibir-propuestas/",
-        "resumen": "El Ministerio de Transporte programó cuatro jornadas presenciales en diferentes ciudades del país para recibir las propuestas de los actores de la movilidad.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Código Nacional de Tránsito será reformado: Gobierno abre convocatoria para recibir propuestas",
-        "capturado": "2026-10-17T17:05:51-05:00"
-      },
-      {
-        "titulo": "Economía nacional entra en desaceleración y PIB del tercer trimestre caería bajo el 2 por ciento",
-        "url": "https://www.valoraanalitik.com/economia-colombiana-se-adentra-en-una-fase-de-desaceleracion-pib-caeria-por-debajo-del-2-en-el-tercer-trimestre/",
-        "resumen": "Un peso apreciado, la racionalización del gasto público, altas tasas de interés y los estragos del terremoto configuran un panorama de debilidad productiva.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Economía colombiana se adentra en una fase de desaceleración: PIB caería por debajo del 2 % en el tercer trimestre",
-        "capturado": "2026-10-17T17:05:51-05:00"
-      },
-      {
-        "titulo": "El noviembre la inversión extranjera directa subió 44 por ciento pero sigue por debajo de las remesas",
-        "url": "https://www.valoraanalitik.com/inversion-extranjera-directa-en-colombia-crecio-44-en-septiembre-pero-remesas-la-sigue-superando/",
-        "resumen": "Inversión Extranjera Directa alcanzó US$885 millones y creció 44 % en septiembre.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Inversión extranjera directa en Colombia creció 44 % en septiembre, pero remesas la sigue superando",
-        "capturado": "2026-10-17T14:40:14-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "SuperSociedades para la liquidación de Presto por 20 días hábiles ante búsqueda de comprador",
+        "url": "https://www.valoraanalitik.com/presto-busca-comprador-supersociedades-suspende-liquidacion-por-20-dias-habiles/",
+        "resumen": "La cadena de hamburguesas busca preservar la operación para facilitar su venta. Registra deudas superiores a $45.000 millones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presto busca comprador: SuperSociedades suspende liquidación por 20 días hábiles",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "El enfoque sostenible de Colsubsidio aplicado en su hotelera y en Piscilago",
+        "url": "https://www.valoraanalitik.com/la-apuesta-de-sostenibilidad-de-colsubsidio-en-piscilago-y-sus-hoteles/",
+        "resumen": "Detrás de la oferta recreativa y hotelera hay proyectos de conservación, siembra de especies nativas y soluciones solares para reducir el consumo energético.",
+        "autor": "",
+        "subseccion": "Valorasostenible",
+        "publicacion": "",
+        "titulo_fuente": "La apuesta de sostenibilidad de Colsubsidio en Piscilago y sus hoteles",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Medellín llevó a cabo la prueba inicial de envío de carga mediante drones en territorio nacional",
+        "url": "https://www.valoraanalitik.com/medellin-realizo-el-primer-piloto-de-transporte-de-carga-con-drones-en-el-pais/",
+        "resumen": "Los resultados de las pruebas permitirán evaluar los requerimientos para su eventual desarrollo.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Medellín realizó el primer piloto de transporte de carga con drones en el país",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Pactos colectivos en el país: posibles efectos para compañías y empleados si el Gobierno De la Espriella anula la norma",
+        "url": "https://www.valoraanalitik.com/pactos-colectivos-en-colombia-que-cambiaria-para-las-empresas-y-los-trabajadores-si-gobierno-de-la-espriella-deroga-el-decreto-laboral/",
+        "resumen": "Los pactos colectivos en Colombia podrían cambiar: empresas y trabajadores deben conocer qué pasará con los controles del Ministerio del Trabajo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Pactos colectivos en Colombia: qué cambiaría para las empresas y los trabajadores si Gobierno De la Espriella deroga el decreto laboral",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Grupo Sura avanza 6 % en recompra de acciones y detalla su valorización postescisión con Grupo Argos",
+        "url": "https://www.valoraanalitik.com/grupo-sura-ya-ejecuto-6-del-programa-de-recompra-de-acciones-asi-ha-crecido-su-valor-tras-la-escision-con-grupo-argos/",
+        "resumen": "El holding financiero comenzó el pasado 5 de octubre su programa de readquisición, el cual irá hasta marzo de 2028.",
+        "autor": "",
+        "subseccion": "Grupo argos",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Sura ya ejecutó 6 % del programa de recompra de acciones; así ha crecido su valor tras la escisión con Grupo Argos",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
+      {
+        "titulo": "Este es el flujo de capitales hacia el sector de finca raíz en Dubái; valores repuntan y persisten opciones",
+        "url": "https://www.valoraanalitik.com/asi-se-esta-moviendo-inversion-inmobiliaria-hacia-dubai-precios-recuperan-terreno/",
+        "resumen": "En Dubái, más del 70 % de las ventas del sector suele ser de proyectos sobre planos, de acuerdo con datos de la industria.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Así se está moviendo la inversión inmobiliaria hacia Dubái; precios recuperan terreno y siguen las oportunidades",
+        "capturado": "2026-10-20T15:21:57-05:00"
+      },
       {
         "titulo": "Compañía alemana destinará 4 millones de euros a gran iniciativa en Cartagena para triplicar su actividad",
         "url": "https://www.valoraanalitik.com/multinacional-alemana-invertira-4-millones-de-euros-en-megaproyecto-en-cartagena-y-espera-triplicar-su-operacion/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Fenómeno de El Niño y modernización del mercado mayorista son los focos del regulador del sector energético colombiano",
         "capturado": "2026-10-15T20:05:17-05:00"
-      },
-      {
-        "titulo": "GeoPark incrementa extracción de crudo y gas e informa progresos en obras de Venezuela y Argentina",
-        "url": "https://www.valoraanalitik.com/geopark-aumenta-su-produccion-de-petroleo-y-gas-revela-avances-de-proyectos-en-venezuela-y-argentina/",
-        "resumen": "GeoPark trabaja en colaboración con Petróleos de Venezuela (Pdvsa) para cumplir con los requisitos contractuales, reglamentarios y técnicos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark aumenta su producción de petróleo y gas: revela avances de proyectos en Venezuela y Argentina",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "Alex Fabián Cañas asume como viceministro de Energía en sustitución de Armando Cuello, quien pasaría a Ecopetrol",
-        "url": "https://www.valoraanalitik.com/alex-fabian-canas-es-el-nuevo-viceministro-de-energia-reemplaza-a-armando-cuello-que-iria-a-ecopetrol/",
-        "resumen": "Cuello participó en varios escenarios en los que afirmó que la prioridad era garantizar la seguridad energética en Colombia.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Alex Fabián Cañas es el nuevo viceministro de Energía: reemplaza a Armando Cuello que iría a Ecopetrol",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "Firma de diseño y muebles reportó un alza del 32 % en facturación gracias al comercio electrónico",
-        "url": "https://www.valoraanalitik.com/empresa-del-sector-de-diseno-y-mobiliario-registro-un-crecimiento-en-sus-ventas-del-32-impulsado-por-el-canal-digital/",
-        "resumen": "Este canal comprende tanto las compras realizadas a través de la página web como las ventas gestionadas mediante asesoría en línea.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Empresa del sector de diseño y mobiliario registró un crecimiento en sus ventas del 32 % impulsado por el canal digital",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "Latam Airlines Colombia conmemora su decimoquinto aniversario ofreciendo artículos de empresarios tolimenses en vuelo",
-        "url": "https://www.valoraanalitik.com/latam-airlines-colombia-inicia-la-celebracion-de-sus-15-anos-con-productos-de-empresarios-del-tolima-a-bordo/",
-        "resumen": "Latam Airlines Colombia y la Cámara de Comercio de Ibagué (CCI) se unieron para llevar a cabo una activación gastronómica a bordo.",
-        "autor": "",
-        "subseccion": "Emprendedores",
-        "publicacion": "",
-        "titulo_fuente": "Latam Airlines Colombia inicia la celebración de sus 15 años con productos de empresarios del Tolima a bordo",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "Ejecutivo reglamentó la labor de intermediarios en consultas previas: carecerán de representación comunitaria",
-        "url": "https://www.valoraanalitik.com/gobierno-regulo-el-papel-de-terceros-en-consultas-previas-no-podran-tomar-voceria-de-las-comunidades/",
-        "resumen": "Para el Gobierno De la Espriella, la presencia de terceros no va a modificar los derechos de titularidad de las comunidades.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno reguló el papel de terceros en consultas previas: no podrán tomar vocería de las comunidades",
-        "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "El Foro ComplianceLatam en Bogotá reunirá a firmas y expertos para analizar IA, riesgos de norma y compliance",
-        "url": "https://www.valoraanalitik.com/expertos-y-empresas-se-reuniran-en-bogota-durante-el-foro-compliancelatam-para-debatir-sobre-compliance-ia-y-riesgos-regulatorios/",
-        "resumen": "Uno de los componentes de la agenda estará dedicado a los retos que plantea la inteligencia artificial para los sistemas de cumplimiento y gobierno corporativo.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Expertos y empresas se reunirán en Bogotá durante el Foro ComplianceLatam para debatir sobre compliance, IA y riesgos regulatorios",
-        "capturado": "2026-10-15T17:36:58-05:00"
       }
     ]
   }
