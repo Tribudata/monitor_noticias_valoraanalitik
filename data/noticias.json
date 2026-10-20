@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-20T06:59:39-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-20T11:51:32-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Asignación del Presupuesto 2027: cae servicio de deuda y sube inversión",
+        "url": "https://www.valoraanalitik.com/asi-se-distribuira-el-presupuesto-2027-baja-el-pago-de-deuda-y-aumenta-inversion/",
+        "resumen": "Deuda, educación y salud se quedan con la mayor ttajada de los $634,9 billones.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Así se distribuirá el Presupuesto 2027: baja el pago de deuda y aumenta inversión",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Modificaciones al Presupuesto de 2027 en el Congreso; iniciativa va para sanción presidencial",
+        "url": "https://www.valoraanalitik.com/asi-cambio-el-presupuesto-de-2027-tras-los-debates-en-camara-y-senado-proyecto-pasa-a-sancion-presidencial/",
+        "resumen": "El presupuesto definitivo, que es un 14,2 % superior al de 2026, fija las apropiaciones del Estado para el próximo año.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Así cambió el Presupuesto de 2027 tras los debates en Cámara y Senado; proyecto pasa a sanción presidencial",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Firma alemana pondrá 4 millones de euros en proyecto en Cartagena para triplicar su actividad",
+        "url": "https://www.valoraanalitik.com/multinacional-alemana-invertira-4-millones-de-euros-en-megaproyecto-en-cartagena-y-espera-triplicar-su-operacion/",
+        "resumen": "Cartagena atrae nuevas inversiones internacionales y una multinacional alemana prepara un ambicioso plan de expansión.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional alemana invertirá 4 millones de euros en megaproyecto en Cartagena y espera triplicar su operación",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Campetrol sugiere cuatro acciones para fortalecer la industria petrolera y gasífera nacional",
+        "url": "https://www.valoraanalitik.com/campetrol-propone-cuatro-medidas-para-robustecer-el-sector-de-petroleo-y-gas-en-colombia/",
+        "resumen": "También serán necesarios elementos como la seguridad física, social y laboral, más un fortalecimiento institucional.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Campetrol propone cuatro medidas para robustecer el sector de petróleo y gas en Colombia",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Perspectiva de XM frente a la medida de Ecopetrol sobre compras externas de gas",
+        "url": "https://www.valoraanalitik.com/la-vision-de-xm-sobre-la-decision-de-ecopetrol-con-los-contratos-de-importacion-de-gas/",
+        "resumen": "Juan Carlos Morales, gerente encargado de XM, dijo que son necesarias todas las fuentes de energía eléctrica en medio de El Niño.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "La visión de XM sobre la decisión de Ecopetrol con los contratos de importación de gas",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Asociaciones de energía sugieren bajar impuestos y exigen normas estables para impulsar la inversión",
+        "url": "https://www.valoraanalitik.com/gremios-energeticos-proponen-reducir-cargas-tributarias-y-piden-reglas-a-largo-plazo-para-incentivar-la-inversion/",
+        "resumen": "Las organizaciones señalaron que la tarifa del impuesto sobre la renta podría llegar a 50 %, frente a una tarifa promedio de 21 % en América Latina.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gremios energéticos proponen reducir cargas tributarias y piden reglas a largo plazo para incentivar la inversión",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio sube tras aval al presupuesto y petróleo en picos de cinco meses",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-arranca-al-alza-tras-la-aprobacion-del-presupuesto-y-con-el-petroleo-en-maximos-de-cinco-meses/",
+        "resumen": "Esto es lo que mueve al dólar en Colombia al inicio de la jornada del 20 de octubre",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia arranca al alza tras la aprobación del presupuesto y con el petróleo en máximos de cinco meses",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Andrés Conesa liderará el comité ejecutivo de ALTA como nuevo presidente",
+        "url": "https://www.valoraanalitik.com/ceo-aeromexico-presidencia-comite-ejecutivo-alta/",
+        "resumen": "El economista fue elegido durante el ALTA AGM & Airline Leaders Forum 2026, que se realiza en Ciudad de México.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Andrés Conesa, CEO de Aeroméxico, asume la presidencia del comité ejecutivo de ALTA",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Fenómeno de El Niño alcanza nivel muy fuerte con temperaturas atípicas en el Pacífico",
+        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-ya-es-muy-fuerte-se-estan-registrando-temperaturas-excepcionales-en-el-pacifico/",
+        "resumen": "La vulnerabilidad del mercado colombiano se refleja en que 72 % de la agricultura depende del agua de lluvia.",
+        "autor": "",
+        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
+        "publicacion": "",
+        "titulo_fuente": "Fenómeno de El Niño ya es «muy fuerte»; se están registrando temperaturas excepcionales en el Pacífico",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "PazdelRío solicita conservar arancel del 35 por ciento al alambrón de China y Rusia",
+        "url": "https://www.valoraanalitik.com/pazdelrio-pide-mantener-arancel-del-35-al-alambron-importado-de-china-y-rusia/",
+        "resumen": "La empresa advirtió que eliminar la protección arancelaria sin establecer una medida equivalente dejaría al mercado colombiano expuesto.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "PazdelRío pide mantener arancel del 35 % al alambrón importado de China y Rusia",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
       {
         "titulo": "Premercado | Caen bolsas mundiales por dudas sobre IA y crudo escala ante temor de abastecimiento",
         "url": "https://www.valoraanalitik.com/premercado-mercados-globales-caen-tras-incertidumbre-sobre-ia-y-petroleo-sube-por-riesgo-de-suministro/",
@@ -503,109 +603,89 @@
         "publicacion": "",
         "titulo_fuente": "Inversión extranjera directa en Colombia creció 44 % en septiembre, pero remesas la sigue superando",
         "capturado": "2026-10-17T14:40:14-05:00"
-      },
-      {
-        "titulo": "De la Espriella presenta en el Congreso su agenda final sobre sometimiento, antimermelada y terrorismo",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-lleva-al-congreso-su-agenda-de-cierre-de-ano-sometimiento-antimermelada-y-estatuto-antiterrorista-en-el-centro/",
-        "resumen": "Estos son los proyectos de ley que el gobierno de Abelardo de la Espriella adelanta en su primera legislatura.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella lleva al Congreso su agenda de cierre de año: sometimiento, antimermelada y estatuto antiterrorista, en el centro",
-        "capturado": "2026-10-17T14:40:14-05:00"
-      },
-      {
-        "titulo": "Escándalo UNGRD: Corte Suprema procesará a seis legisladores por supuesta venta de contratos estatales",
-        "url": "https://www.valoraanalitik.com/caso-ungrd-corte-suprema-llevara-a-juicio-a-seis-congresistas-por-presunta-negociacion-de-contratos-publicos/",
-        "resumen": "La investigación identifica tres contratos que presuntamente se habrían negociado a cambio de los votos de los congresistas.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Caso UNGRD: Corte Suprema llevará a juicio a seis congresistas por presunta negociación de contratos públicos",
-        "capturado": "2026-10-17T12:28:13-05:00"
-      },
-      {
-        "titulo": "Las millonarias apuestas de las fintech en el país buscan mayor cuota en el mercado financiero",
-        "url": "https://www.valoraanalitik.com/billonarias-inversiones-fintechs-colombia/",
-        "resumen": "Colombia Fintech identifica al crédito digital como la principal vertical del sector, con 39,4 % de participación entre las empresas.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "La billonarias inversiones que despliegan las fintechs en Colombia; van por más participación en el sistema financiero",
-        "capturado": "2026-10-17T12:28:13-05:00"
-      },
-      {
-        "titulo": "Arturo Calle pronostica recorte de 2000 puestos de trabajo ante el crecimiento de Shein y Temu",
-        "url": "https://www.valoraanalitik.com/arturo-calle-advierte-perdida-de-2-000-empleos-por-auge-de-plataformas-como-shein-y-temu/",
-        "resumen": "Uno de los puntos señalados por Calle fue la exención del impuesto al valor agregado (IVA) para determinadas compras internacionales.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Arturo Calle advierte pérdida de 2.000 empleos por auge de plataformas como Shein y Temu",
-        "capturado": "2026-10-17T12:28:13-05:00"
-      },
-      {
-        "titulo": "Este es el proyecto de contrarreforma pensional que presentará el Centro Democrático en el Legislativo",
-        "url": "https://www.valoraanalitik.com/asi-sera-la-contrarreforma-pensional-que-radicara-el-centro-democratico-en-el-congreso/",
-        "resumen": "Centro Democrático alista contrarreforma pensional: busca cambios a la ley de Petro y apoyo de De la Espriella.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Así será la contrarreforma pensional que radicará el Centro Democrático en el Congreso",
-        "capturado": "2026-10-17T12:28:13-05:00"
-      },
-      {
-        "titulo": "Entrevista | La solicitud de Latam Airlines al Gobierno De la Espriella para abrir más rutas y frecuencias",
-        "url": "https://www.valoraanalitik.com/entrevista-el-pedido-de-latam-airlines-al-gobierno-de-la-espriella-para-poder-abrir-mas-rutas-y-frecuencias-en-colombia/",
-        "resumen": "En diálogo con Valora Analitik, Érika Zarante, CEO de LATAM Airlines Colombia, explicó qué necesita la aerolínea para abrir más rutas y frecuencias en el país.",
-        "autor": "",
-        "subseccion": "Aerolineas colombia",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | El pedido de Latam Airlines al Gobierno De la Espriella para poder abrir más rutas y frecuencias en Colombia",
-        "capturado": "2026-10-17T09:07:17-05:00"
-      },
-      {
-        "titulo": "Abelardo de la Espriella revela obras y capital para San Andrés y Providencia y da detalles",
-        "url": "https://www.valoraanalitik.com/abelardo-de-la-espriella-anuncia-importantes-inversiones-y-obras-para-san-andres-y-providencia-los-detalles/",
-        "resumen": "Aseguró que regresará en un mes para verificar el avance de los compromisos y pidió a los ministros hacer seguimiento a cada anuncio.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Abelardo de la Espriella anuncia importantes inversiones y obras para San Andrés y Providencia: los detalles",
-        "capturado": "2026-10-16T20:11:26-05:00"
-      },
-      {
-        "titulo": "Presentan referendo para disminuir la cantidad de congresistas, concejales y diputados en el país",
-        "url": "https://www.valoraanalitik.com/radican-referendo-que-busca-reducir-numero-de-congresistas-concejales-y-diputados-en-colombia/",
-        "resumen": "La propuesta pretende reducir el número de integrantes de corporaciones públicas en los niveles nacional, departamental y municipal.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Radican referendo que busca reducir número de congresistas, concejales y diputados en Colombia",
-        "capturado": "2026-10-16T20:11:26-05:00"
-      },
-      {
-        "titulo": "Cambios para congresistas y sus conflictos de interés según la reforma antimermelada",
-        "url": "https://www.valoraanalitik.com/reforma-antimermelada-que-cambiaria-para-los-congresistas-y-sus-conflictos-de-intereses/",
-        "resumen": "La reforma también busca precisar cuándo un congresista debe declararse impedido para participar en un debate o una votación.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Reforma ‘antimermelada’: qué cambiaría para los congresistas y sus conflictos de intereses",
-        "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá regresa al podio de ganancias en Colombia y así quedó la clasificación",
-        "url": "https://www.valoraanalitik.com/banco-de-bogota-vuelve-al-top-3-de-las-entidades-financieras-con-mayores-utilidades-en-colombia-asi-quedo-el-ranking/",
-        "resumen": "Tras dos meses de reconfiguración en los que el Banco GNB Sudameris había logrado escalar al tercer lugar a nivel nacional, el podio cambió.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Banco de Bogotá vuelve al top 3 de las entidades financieras con mayores utilidades en Colombia: así quedó el ranking",
-        "capturado": "2026-10-16T17:42:23-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Compañía alemana destinará 4 millones de euros a gran iniciativa en Cartagena para triplicar su actividad",
+        "url": "https://www.valoraanalitik.com/multinacional-alemana-invertira-4-millones-de-euros-en-megaproyecto-en-cartagena-y-espera-triplicar-su-operacion/",
+        "resumen": "Cartagena atrae nuevas inversiones internacionales y una multinacional alemana prepara un ambicioso plan de expansión.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional alemana invertirá 4 millones de euros en megaproyecto en Cartagena y espera triplicar su operación",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Campetrol sugiere cuatro acciones para fortalecer la industria de hidrocarburos en el país",
+        "url": "https://www.valoraanalitik.com/campetrol-propone-cuatro-medidas-para-robustecer-el-sector-de-petroleo-y-gas-en-colombia/",
+        "resumen": "También serán necesarios elementos como la seguridad física, social y laboral, más un fortalecimiento institucional.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Campetrol propone cuatro medidas para robustecer el sector de petróleo y gas en Colombia",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "La postura de XM frente a la medida de Ecopetrol sobre las compras externas de gas",
+        "url": "https://www.valoraanalitik.com/la-vision-de-xm-sobre-la-decision-de-ecopetrol-con-los-contratos-de-importacion-de-gas/",
+        "resumen": "Juan Carlos Morales, gerente encargado de XM, dijo que son necesarias todas las fuentes de energía eléctrica en medio de El Niño.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "La visión de XM sobre la decisión de Ecopetrol con los contratos de importación de gas",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Asociaciones del sector energético sugieren bajar impuestos y exigen normas estables para atraer capital",
+        "url": "https://www.valoraanalitik.com/gremios-energeticos-proponen-reducir-cargas-tributarias-y-piden-reglas-a-largo-plazo-para-incentivar-la-inversion/",
+        "resumen": "Las organizaciones señalaron que la tarifa del impuesto sobre la renta podría llegar a 50 %, frente a una tarifa promedio de 21 % en América Latina.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gremios energéticos proponen reducir cargas tributarias y piden reglas a largo plazo para incentivar la inversión",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Andrés Conesa, líder de Aeroméxico, toma el mando de la junta directiva de ALTA",
+        "url": "https://www.valoraanalitik.com/ceo-aeromexico-presidencia-comite-ejecutivo-alta/",
+        "resumen": "El economista fue elegido durante el ALTA AGM & Airline Leaders Forum 2026, que se realiza en Ciudad de México.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Andrés Conesa, CEO de Aeroméxico, asume la presidencia del comité ejecutivo de ALTA",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "El Fenómeno de «El Niño» alcanza nivel muy fuerte con temperaturas atípicas en el Pacífico",
+        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-ya-es-muy-fuerte-se-estan-registrando-temperaturas-excepcionales-en-el-pacifico/",
+        "resumen": "La vulnerabilidad del mercado colombiano se refleja en que 72 % de la agricultura depende del agua de lluvia.",
+        "autor": "",
+        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
+        "publicacion": "",
+        "titulo_fuente": "Fenómeno de El Niño ya es «muy fuerte»; se están registrando temperaturas excepcionales en el Pacífico",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "PazdelRío solicita conservar el arancel de 35 % para el alambrón de China y Rusia",
+        "url": "https://www.valoraanalitik.com/pazdelrio-pide-mantener-arancel-del-35-al-alambron-importado-de-china-y-rusia/",
+        "resumen": "La empresa advirtió que eliminar la protección arancelaria sin establecer una medida equivalente dejaría al mercado colombiano expuesto.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "PazdelRío pide mantener arancel del 35 % al alambrón importado de China y Rusia",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
+      {
+        "titulo": "Colombia alcanza 39.000 hectáreas de aguacate Hass y apunta a la productividad al 2027",
+        "url": "https://www.valoraanalitik.com/colombia-supera-las-39-000-hectareas-sembradas-de-aguacate-hass-y-pone-el-foco-en-productividad-para-2027/",
+        "resumen": "De acuerdo con cifras de Corpohass, Antioquia concentra la mayor área registrada del país, con 14.258 hectáreas.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Colombia supera las 39.000 hectáreas sembradas de aguacate Hass y pone el foco en productividad para 2027",
+        "capturado": "2026-10-20T11:51:32-05:00"
+      },
       {
         "titulo": "El Congreso avaló el presupuesto gubernamental De la Espriella por 635 billones de pesos para el 2027",
         "url": "https://www.valoraanalitik.com/relevante-congreso-de-la-republica-aprobo-el-presupuesto-del-gobierno-de-la-espriella-por-635-billones-para-2027/",
@@ -1125,86 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Expertos y empresas se reunirán en Bogotá durante el Foro ComplianceLatam para debatir sobre compliance, IA y riesgos regulatorios",
         "capturado": "2026-10-15T17:36:58-05:00"
-      },
-      {
-        "titulo": "GEB alista su llegada a Wall Street impulsado por dos factores y evalúa emitir acciones",
-        "url": "https://www.valoraanalitik.com/detonantes-geb-camino-wall-street-acciones/",
-        "resumen": "La compañía calcula que el precio de cada ADR en la Bolsa de Nueva York podría moverse en un rango entre US$20 y US$25, sin ser una decisión en firme.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Exclusiva | Los dos “detonantes” para que el GEB comience su camino a Wall Street; no descarta emisión de acciones",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Aseguradoras informan el valor de las pérdidas por el sismo en Colombia y los pagos hechos",
-        "url": "https://www.valoraanalitik.com/aseguradoras-revelan-a-cuanto-ascienden-las-perdidas-por-el-terremoto-en-colombia-y-cuanto-han-pagado-a-los-afectados/",
-        "resumen": "Fasecolda actualizó el balance de reclamaciones por el terremoto del 10 de agosto y detalló dónde se concentran los daños y las indemnizaciones.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Aseguradoras revelan a cuánto ascienden las pérdidas por el terremoto en Colombia y cuánto han pagado a los afectados",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Merco 2026 ubica a Alquería entre las cinco principales empresas para la población del país",
-        "url": "https://www.valoraanalitik.com/alqueria-entra-al-top-5-de-las-mejores-empresas-para-la-poblacion-general-colombiana-segun-merco-2026/",
-        "resumen": "Alquería ha evolucionado de una compañía reconocida principalmente por sus productos lácteos a una empresa de alimentos multimarca y multicategoría.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Alquería entra al top 5 de las mejores empresas para la población general colombiana, según Merco 2026",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Termina el programa Caminos Comunitarios Para la Paz de Petro y el Gobierno lanza Caminos del Tigre",
-        "url": "https://www.valoraanalitik.com/se-acaba-el-programa-de-petro-de-caminos-comunitarios-para-la-paz/",
-        "resumen": "El programa del Gobierno anterior apenas llegó a 12 % de ejecución, por lo cual se liquidará en las próximas semanas.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Se acaba el programa de Petro de Caminos Comunitarios Para la Paz: Gobierno creará los ‘Caminos del Tigre’",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "XM reporta que Colombia registra más de 360 suspensiones de energía programadas en 2026",
-        "url": "https://www.valoraanalitik.com/colombia-ha-tenido-mas-de-360-cortes-de-energia-programados-en-2026-xm/",
-        "resumen": "XM advirtió que, durante siete meses, en medio del fenómeno de El Niño, se va a requerir generación térmica al máximo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia ha tenido más de 360 cortes de energía programados en 2026: XM",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Gobierno De La Espriella adopta medidas cruciales frente a Aerocafé, Autopistas del Café y más megaobras caldenses",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-toma-decisiones-clave-autopistas-del-cafe-aerocafe-megaobras-caldas/",
-        "resumen": "La ministra Elsa Noguea confirmó que la concesión vial se ampliará unos meses mientras se toman decisiones de fondo.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella toma decisiones clave sobre Autopistas del Café, Aerocafé y otras megaobras de Caldas",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Sugieren crear entidad para prevenir desabastecimiento en supermercados colombianos por ciberataques ocurridos en Francia",
-        "url": "https://www.valoraanalitik.com/proponen-agencia-para-evitar-que-supermercados-colombianos-se-queden-sin-alimentos-por-ciberataques-como-ya-paso-en-francia/",
-        "resumen": "Un ciberataque en supermercados de Francia dañó alimentos y encendió las alertas sobre la seguridad digital de servicios esenciales en Colombia.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Proponen agencia para evitar que supermercados colombianos se queden sin alimentos por ciberataques, como ya pasó en Francia",
-        "capturado": "2026-10-15T14:20:07-05:00"
-      },
-      {
-        "titulo": "Inician los encuentros de la junta del Fondo Milagro para definir la reconstrucción nacional por sismo",
-        "url": "https://www.valoraanalitik.com/consejo-directivo-del-fondo-milagro-arranca-reuniones-reconstruccion-tras-terremoto/",
-        "resumen": "El patrimonio autónomo canalizará los recursos del Estado para atender la emergencia en todo el país.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Consejo Directivo del Fondo Milagro arranca reuniones para decidir sobre reconstrucción del país tras terremoto",
-        "capturado": "2026-10-15T10:16:50-05:00"
       }
     ]
   }
