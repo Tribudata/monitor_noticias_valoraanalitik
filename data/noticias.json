@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-19T20:10:35-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-20T01:26:25-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De la Espriella busca revertir modificación de Petro en rentas vitalicias de pensiones",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-busca-reversar-cambio-de-petro-en-rentas-vitalicias-para-pensiones/",
+        "resumen": "El Gobierno propone cambiar las reglas de las rentas vitalicias tras una caída del 64 % en su emisión y mayores costos para financiar estas pensiones.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella busca reversar cambio de Petro en rentas vitalicias para pensiones",
+        "capturado": "2026-10-20T01:26:25-05:00"
+      },
       {
         "titulo": "Alza del 38,5 % en el salario mínimo para 2027: advertencia sobre efectos en la economía e inflación del país",
         "url": "https://www.valoraanalitik.com/aumento-del-salario-minimo-de-385-para-2027-esta-es-la-advertencia-sobre-el-impacto-para-la-economia-en-colombia/",
@@ -593,19 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Trabajadores pedirán agresivo aumento del salario mínimo en Colombia para 2027: Ajuste sería mayor a $600.000",
         "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "Shakira participa en la edificación de escuelas chocoanas post sismo: estos son los iniciales favorecidos",
-        "url": "https://www.valoraanalitik.com/shakira-se-une-a-la-reconstruccion-de-colegios-en-choco-tras-el-terremoto-estos-seran-los-primeros-beneficiados/",
-        "resumen": "El terremoto dejó 200 escuelas con daños en Chocó. Shakira y CAF anunciaron una alianza clave para el departamento epicentro del terremoto.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Shakira se une a la reconstrucción de colegios en Chocó tras el terremoto: estos serán los primeros beneficiados",
-        "capturado": "2026-10-16T17:42:23-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Las ventas externas de café en Colombia bajan 13,8 % a septiembre debido a la divisa y gastos de operación",
+        "url": "https://www.valoraanalitik.com/exportaciones-de-cafe-colombiano-caen-138-a-septiembre-por-efectos-del-dolar-y-costos-operativos/",
+        "resumen": "El año cafetero Colombia exportó 11,68 millones de sacos, una disminución de 11 % frente al periodo cafetero anterior.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Exportaciones de café colombiano caen 13,8 % a septiembre por efectos del dólar y costos operativos",
+        "capturado": "2026-10-20T01:26:25-05:00"
+      },
       {
         "titulo": "Asuntos centrales del agro regional a tratar en Expoagrofuturo 2026",
         "url": "https://www.valoraanalitik.com/temas-que-marcan-la-agenda-del-agro-en-latinoamerica-y-se-discutiran-en-expoagrofuturo-2026/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Exclusiva | “Estamos haciendo todo para pasar este fenómeno de El Niño”: directora de la CREG",
-        "capturado": "2026-10-15T10:16:50-05:00"
-      },
-      {
-        "titulo": "Grupo Argos y Nicky Jam entregan casa en Quindío de Adopta un Hogar con apoyo estatal y gremial",
-        "url": "https://www.valoraanalitik.com/se-entrego-primera-vivienda-de-adopta-un-hogar-de-grupo-argos-y-nicky-jam-en-quindio-minvivienda-federacion-nacional-de-cafeteros-e-isagen-se-sumaron/",
-        "resumen": "Adopta un Hogar contempla 500 viviendas en Chocó, 235 en Valle del Cauca, 100 en Risaralda, 100 en Caldas, 40 en Quindío y 25 en Antioquia.",
-        "autor": "",
-        "subseccion": "Adopta un hogar",
-        "publicacion": "",
-        "titulo_fuente": "Se entregó primera vivienda de Adopta un Hogar de Grupo Argos y Nicky Jam en Quindío; MinVivienda, Federación Nacional de Cafeteros e Isagen se sumaron",
         "capturado": "2026-10-15T10:16:50-05:00"
       }
     ]
