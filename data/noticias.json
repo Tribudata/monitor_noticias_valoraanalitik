@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-20T15:21:57-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-10-20T18:19:24-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De la Espriella prepara nuevo decreto sobre tarifas diferenciales en peajes del Eje Cafetero",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-nuevo-decreto-de-tarifas-diferenciales-para-peajes-del-eje-cafetero/",
+        "resumen": "Elsa Noguera advirtió que el Estado no continuará subsidiando a sectores con capacidad económica.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella alista nuevo decreto de tarifas diferenciales para peajes del Eje Cafetero",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
+      {
+        "titulo": "Nuevas reglas del Gobierno colombiano sobre tercerización, acoso y plataformas cambiarían el trabajo",
+        "url": "https://www.valoraanalitik.com/asi-cambiarian-las-reglas-laborales-sobre-tercerizacion-acoso-y-plataformas-digitales-en-colombia-con-el-nuevo-gobierno/",
+        "resumen": "Diego Felipe Valdivieso, socio y líder de la Unidad de Derecho Laboral y Seguridad Social de Scola Abogados, analizó las implicaciones de los cambios.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Así cambiarían las reglas laborales sobre tercerización, acoso y plataformas digitales en Colombia con el nuevo Gobierno",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
+      {
+        "titulo": "Aprobados a última hora artículos del Presupuesto 2027 sobre TES, deuda pública y fondos de emergencia",
+        "url": "https://www.valoraanalitik.com/seguimiento-a-tes-gestion-de-deuda-publica-y-recursos-para-emergencias-entre-los-nuevos-articulos-que-se-aprobaron-en-el-presupuesto-de-2027/",
+        "resumen": "Durante el debate, el Congreso agregó cinco nuevos artículos al texto final de la norma que ahora pasa a sanción presidencial.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Seguimiento a TES, gestión de deuda pública y recursos para emergencias, entre los nuevos artículos que se aprobaron en el Presupuesto de 2027 a última hora",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
+      {
+        "titulo": "Empresas recibirán del Gobierno De la Espriella 25 % de un salario mínimo por cada nuevo empleado",
+        "url": "https://www.valoraanalitik.com/empleo-en-colombia-gobierno-de-de-la-espriella-dara-25-de-un-salario-minimo-por-cada-nuevo-trabajador/",
+        "resumen": "El Gobierno De la Espriella busca que más empresas contraten formalmente en un momento en que el desempleo volvió a subir en Colombia.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Empleo en Colombia: Gobierno De la Espriella dará 25 % de un salario mínimo por cada nuevo trabajador a estas empresas",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
+      {
+        "titulo": "Asociación carbonera pidió quitar la penalización al consumo energético dentro de su sector",
+        "url": "https://www.valoraanalitik.com/gremio-del-carbon-solicito-eliminar-penalizacion-por-consumo-de-energia-en-su-industria/",
+        "resumen": "Para la organización, se elevarían en 10 % los costos de producción, lo que afectaría la competitividad de las empresas de carbón térmico.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gremio del carbón solicitó eliminar penalización por consumo de energía en su industria",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
+      {
+        "titulo": "El banco alemán KfW otorga 200 millones de euros a Colombia para el Presupuesto de 2026",
+        "url": "https://www.valoraanalitik.com/colombia-asegura-200-millones-de-euros-con-el-banco-aleman-kfw-para-financiar-el-presupuesto-de-2026/",
+        "resumen": "El contrato de crédito externo fortalecerá las finanzas públicas, diversificará las fuentes de endeudamiento, según el MinHacienda.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Colombia asegura 200 millones de euros con el banco alemán KfW para financiar el Presupuesto de 2026",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
+      {
+        "titulo": "Colombia se reincorpora al Grupo Egmont, fundamental para la inteligencia financiera global",
+        "url": "https://www.valoraanalitik.com/colombia-vuelve-a-ingresar-al-grupo-egmont-clave-para-la-inteligencia-financiera-en-el-mundo/",
+        "resumen": "El Grupo Egmont es una red que reúne unidades de inteligencia financiera de diferentes países y jurisdicciones para facilitar el intercambio de información.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Colombia vuelve a ingresar al Grupo Egmont, clave para la inteligencia financiera en el mundo",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
       {
         "titulo": "Medellín progresa en modificación del POT con modificaciones en vivienda, turismo y renovación urbana",
         "url": "https://www.valoraanalitik.com/medellin-avanza-en-reforma-al-pot-con-cambios-en-vivienda-turismo-y-renovacion-urbana/",
@@ -533,79 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "De la Espriella anuncia medidas para reforzar la soberanía de Colombia en San Andrés",
         "capturado": "2026-10-19T00:08:30-05:00"
-      },
-      {
-        "titulo": "Adquiera pasajes de avión económicos: hay trayectos desde $47.500 y la oferta termina pronto",
-        "url": "https://www.valoraanalitik.com/comprar-tiquetes-aereos-baratos-hay-vuelos-desde-47-500-y-la-promocion-vence-en-pocos-dias/",
-        "resumen": "La aerolínea plantea esta promoción de tiquetes como una oportunidad para organizar viajes de fin de año y anticipar planes para 2027.",
-        "autor": "",
-        "subseccion": "Aerolineas colombia",
-        "publicacion": "",
-        "titulo_fuente": "Comprar tiquetes aéreos baratos: hay vuelos desde $47.500 y la promoción vence en pocos días",
-        "capturado": "2026-10-18T19:23:32-05:00"
-      },
-      {
-        "titulo": "Aval Casa de Bolsa estima inflación de 6,90 % y tipos de interés en 12,25 % al acabar 2026",
-        "url": "https://www.valoraanalitik.com/aval-casa-de-bolsa-proyecta-inflacion-del-690-y-tasas-de-interes-congeladas-en-1225-para-el-cierre-de-2026/",
-        "resumen": "La entidad anticipa una inflación del 6,90 % a cierre de año, una tasa de interés en 12,25 % hasta mediados de 2027 y una TRM cercana a los $3.279.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Aval Casa de Bolsa proyecta inflación del 6,90 % y tasas de interés congeladas en 12,25 % para el cierre de 2026",
-        "capturado": "2026-10-18T17:19:11-05:00"
-      },
-      {
-        "titulo": "Entrevista | Scania Colombia subió 17 % y prepara capital para talleres y carros eléctricos al 2027",
-        "url": "https://www.valoraanalitik.com/entrevista-scania-colombia-crecio-17-y-alista-inversiones-en-talleres-y-vehiculos-electricos-para-2027/",
-        "resumen": "Scania Colombia revela sus planes de expansión en el país y fija meta de ventas de buses eléctricos para 2027.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Scania Colombia creció 17 % y alista inversiones en talleres y vehículos eléctricos para 2027",
-        "capturado": "2026-10-18T17:19:11-05:00"
-      },
-      {
-        "titulo": "MinAgricultura y Fedepapa pretenden bajar hasta 50 % los gastos de producción de los cultivadores",
-        "url": "https://www.valoraanalitik.com/minagricultura-y-fedepapa-buscan-reducir-hasta-50-los-costos-de-produccion-de-los-paperos/",
-        "resumen": "El Gobierno acordó una agenda con Fedepapa para mejorar la productividad, reducir intermediarios y fortalecer la comercialización.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "MinAgricultura y Fedepapa buscan reducir hasta 50 % los costos de producción de los paperos",
-        "capturado": "2026-10-18T17:19:11-05:00"
-      },
-      {
-        "titulo": "Entrevista | JMC proyecta que en 2026 se venderían más de 340.000 vehículos en Colombia",
-        "url": "https://www.valoraanalitik.com/venta-carros-colombia-record-2026-jmc/",
-        "resumen": "El rebote tras dos años de caída, el dólar y el crédito explican el repunte. La marca ya tiene la mitad de las ventas de camiones livianos.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Venta de vehículos en Colombia superaría las 340.000 unidades en 2026: JMC",
-        "capturado": "2026-10-18T14:33:27-05:00"
-      },
-      {
-        "titulo": "Francia: 1.800 arrestos y disturbios tras marchas de Macron por vida y educación",
-        "url": "https://www.valoraanalitik.com/protestas-en-francia-contra-macron-protestas-por-educacion-y-costo-de-vida-terminaron-en-disturbios-y-1-800-detenidos/",
-        "resumen": "Estas son las razones por las que Francia protesta contra el gobierno de Emmanuel Macron.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Protestas en Francia contra Macron: protestas por educación y costo de vida terminaron en disturbios y 1.800 detenidos",
-        "capturado": "2026-10-18T14:33:27-05:00"
-      },
-      {
-        "titulo": "Herbalife apunta a un crecimiento de dos dígitos en el país y lo califica como un mercado estratégico",
-        "url": "https://www.valoraanalitik.com/entrevista-herbalife-busca-lograr-un-crecimiento-de-doble-digito-en-los-proximos-anos-colombia-es-uno-de-sus-mercados-clave/",
-        "resumen": "Colombia se consolida como uno de los mercados más importantes de Herbalife en Centro y Sudamérica, con más de 50.000 distribuidores independientes.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Herbalife busca crecer a doble dígito en los próximos años: Colombia es uno de sus mercados clave",
-        "capturado": "2026-10-18T12:11:28-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Modificaciones del nuevo mandato nacional a normas de contratación, hostigamiento y apps en el país",
+        "url": "https://www.valoraanalitik.com/asi-cambiarian-las-reglas-laborales-sobre-tercerizacion-acoso-y-plataformas-digitales-en-colombia-con-el-nuevo-gobierno/",
+        "resumen": "Diego Felipe Valdivieso, socio y líder de la Unidad de Derecho Laboral y Seguridad Social de Scola Abogados, analizó las implicaciones de los cambios.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Así cambiarían las reglas laborales sobre tercerización, acoso y plataformas digitales en Colombia con el nuevo Gobierno",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
+      {
+        "titulo": "Trabajo nacional: administración De la Espriella otorgará cuarto de salario básico por empleado a firmas",
+        "url": "https://www.valoraanalitik.com/empleo-en-colombia-gobierno-de-de-la-espriella-dara-25-de-un-salario-minimo-por-cada-nuevo-trabajador/",
+        "resumen": "El Gobierno De la Espriella busca que más empresas contraten formalmente en un momento en que el desempleo volvió a subir en Colombia.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Empleo en Colombia: Gobierno De la Espriella dará 25 % de un salario mínimo por cada nuevo trabajador a estas empresas",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
+      {
+        "titulo": "Asociación carbonera pidió suprimir castigo por gasto eléctrico en su sector",
+        "url": "https://www.valoraanalitik.com/gremio-del-carbon-solicito-eliminar-penalizacion-por-consumo-de-energia-en-su-industria/",
+        "resumen": "Para la organización, se elevarían en 10 % los costos de producción, lo que afectaría la competitividad de las empresas de carbón térmico.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gremio del carbón solicitó eliminar penalización por consumo de energía en su industria",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
+      {
+        "titulo": "Adquirir vivienda sencilla: estrategia de Conaltura para simplificar la llegada a casa propia nacional",
+        "url": "https://www.valoraanalitik.com/como-comprar-casa-propia-sin-tantos-enredos-la-apuesta-de-conaltura-por-hacer-mas-facil-el-acceso-a-vivienda-en-colombia/",
+        "resumen": "La accesibilidad empieza a entenderse de una manera diferente: esa es precisamente una de las apuestas de Conaltura.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Cómo comprar casa propia sin tantos enredos: la apuesta de Conaltura por hacer más fácil el acceso a vivienda en Colombia",
+        "capturado": "2026-10-20T18:19:24-05:00"
+      },
       {
         "titulo": "SuperSociedades para la liquidación de Presto por 20 días hábiles ante búsqueda de comprador",
         "url": "https://www.valoraanalitik.com/presto-busca-comprador-supersociedades-suspende-liquidacion-por-20-dias-habiles/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Tesla sorprende al mundo y presenta su primer carro que puede volar: estos son los detalles",
         "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Región Bogotá captó cincuenta y seis iniciativas de capital externo por 456 millones de dólares en 2026",
-        "url": "https://www.valoraanalitik.com/bogota-region-atrajo-56-proyectos-de-inversion-extranjera-por-us456-millones-en-2026/",
-        "resumen": "La diversificación geográfica continúa siendo una característica de la inversión que recibe Bogotá-Región.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá-Región atrajo 56 proyectos de inversión extranjera por US$456 millones en 2026",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Air-e superará el límite de pasivos por cuatro billones de pesos a las firmas eléctricas",
-        "url": "https://www.valoraanalitik.com/air-e-rompera-el-techo-de-deudas-por-4-billones-a-las-empresas-del-sector-electrico/",
-        "resumen": "Cálculos del promedio de la deuda revelaron que se ha disparado en cerca de $150.000 millones mensuales en los últimos dos años.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Air-e romperá el techo de deudas por $4 billones a las empresas del sector eléctrico",
-        "capturado": "2026-10-16T06:48:06-05:00"
-      },
-      {
-        "titulo": "Ignacio Bravo asume como gerente general de Banco Falabella Colombia",
-        "url": "https://www.valoraanalitik.com/ignacio-bravo-nuevo-gerente-general-de-banco-falabella-colombia/",
-        "resumen": "Bravo es ingeniero civil industrial de la Pontificia Universidad Católica de Chile y cuenta con un MBA de la Universidad de California, Berkeley.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Ignacio Bravo, nuevo gerente general de Banco Falabella Colombia",
-        "capturado": "2026-10-15T20:05:17-05:00"
-      },
-      {
-        "titulo": "El regulador energético colombiano enfoca su labor en el Fenómeno de El Niño y la modernización mayorista",
-        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-y-modernizacion-del-mercado-mayorista-son-los-focos-del-regulador-del-sector-energetico-colombiano/",
-        "resumen": "La directora de la CREG afirmó que la modernización del mercado mayorista de energía es esencial.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Fenómeno de El Niño y modernización del mercado mayorista son los focos del regulador del sector energético colombiano",
-        "capturado": "2026-10-15T20:05:17-05:00"
       }
     ]
   }
