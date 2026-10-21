@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-21T13:12:12-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-10-21T16:55:01-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "BBVA Spark entrega $37.450 millones a la fintech Bold para financiar créditos a establecimientos",
+        "url": "https://www.valoraanalitik.com/fintech-bold-obtiene-credito-bbva-spark/",
+        "resumen": "La compañía procesa cerca de $20 billones anuales en pagos con tarjeta y códigos QR.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fintech Bold obtiene $37.450 millones de BBVA Spark para ampliar su oferta de crédito a comercios",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "Modificaciones al Presupuesto restan $3 billones a Colombia en 2027 frente al fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/colombia-tendra-3-billones-menos-para-atender-fenomeno-de-el-nino-en-2027-por-cambios-en-presupuesto/",
+        "resumen": "Además de estos recursos, también se eliminan $3 billones para salud y aumenta el presupuesto de la deuda.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia tendrá $3 billones menos para atender fenómeno de El Niño en 2027 por cambios en Presupuesto",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "GeoPark agranda su operación en Argentina tras adjudicarse un bloque y estos son los datos",
+        "url": "https://www.valoraanalitik.com/geopark-expandio-el-tamano-de-su-negocio-en-argentina-tras-la-adjudicacion-de-un-nuevo-bloque-estos-son-los-detalles/",
+        "resumen": "La escala de producción potencial es de aproximadamente de 40.000 a 50.000 barriles de petróleo equivalentes al día.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark expandió el tamaño de su negocio en Argentina tras la adjudicación de un nuevo bloque: estos son los detalles",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "Las plantas térmicas colombianas incumplen la meta de producción de energía durante El Niño",
+        "url": "https://www.valoraanalitik.com/las-plantas-termicas-en-colombia-no-llegan-a-la-meta-de-generacion-electrica-en-medio-de-el-nino/",
+        "resumen": "Este tipo de generación sirve como respaldo cuando el sistema eléctrico es impactado por una ola de calor.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Las plantas térmicas en Colombia no llegan a la meta de generación eléctrica en medio de El Niño",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "Arranca Expo Agrofuturo en Corferias, espacio de tecnología, inversión y agro sostenible",
+        "url": "https://www.valoraanalitik.com/inicia-expo-agrofuturo-feria-corferias-agronegocios/",
+        "resumen": "Expo Agrofuturo se realiza hasta el 23 de octubre en Corferias, de 9:00 am. a 7:00 pm.; la entrada Full Expo cuesta $95.000 por un día y $230.000 por tres días.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Inicia Expo Agrofuturo en Corferias: el encuentro donde convergen tecnología, inversión y producción sostenible para el agro",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "A pesar de las lluvias, Fenómeno de El Niño alerta a zonas del país por sequía e incendios",
+        "url": "https://www.valoraanalitik.com/aunque-esta-lloviendo-fenomeno-de-el-nino-mantiene-en-alerta-a-varias-regiones-de-colombia-por-riesgo-de-incendios-y-falta-de-agua/",
+        "resumen": "El Fenómeno de El Niño sigue bajo vigilancia pese a las lluvias. Las condiciones climáticas mantienen riesgos que podrían agravarse en los próximos meses.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Aunque está lloviendo, Fenómeno de El Niño mantiene en alerta a varias regiones de Colombia por riesgo de incendios y falta de agua",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio subió y pasó de $3.200 tras cierre al alza por prudencia fiscal",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-volvio-a-subir-y-supero-los-3-200-cerro-al-alza-en-medio-de-cautela-fiscal/",
+        "resumen": "La divisa arrancó con impulso en $3.185,10, tocó un mínimo intradiario de $3.178,88 y trepó hasta un máximo de $3.202.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia volvió a subir y superó los $3.200: Cerró al alza en medio de cautela fiscal",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "Milagro Week asegura respaldo de Citi, J.P. Morgan y más aliados para inversión local",
+        "url": "https://www.valoraanalitik.com/milagro-week-confirma-a-j-p-morgan-citi-y-otros-aliados-para-atraer-inversion-a-colombia/",
+        "resumen": "Milagro Week se realizará del 16 al 19 de noviembre en Nueva York y presentará 86 proyectos públicos y privados que suman inversiones por US$56.799 millones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Milagro Week confirma a J.P. Morgan, Citi y otros aliados para atraer inversión a Colombia",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
       {
         "titulo": "Fracking, Sirius y mayor compra externa de gas son vitales para restaurar el autoabastecimiento local",
         "url": "https://www.valoraanalitik.com/mas-importacion-de-gas-fracking-y-sirius-son-las-claves-para-recuperar-el-autoabastecimiento-en-colombia/",
@@ -523,89 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Relevante | Congreso de la República aprobó el presupuesto del gobierno De la Espriella por $635 billones para 2027",
         "capturado": "2026-10-20T06:59:39-05:00"
-      },
-      {
-        "titulo": "Definición del salario mínimo en Colombia del 2027 quedará en manos de estos representantes: ¿Llegarán con posturas muy distanciadas?",
-        "url": "https://www.valoraanalitik.com/definicion-del-salario-minimo-en-colombia-del-2027-quedara-en-manos-de-estos-representantes-llegaran-con-posturas-muy-distanciadas/",
-        "resumen": "El incremento del salario mínimo en Colombia del 2027 empezaría con una discusión del 7 % o el 8 %",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Definición del salario mínimo en Colombia del 2027 quedará en manos de estos representantes: ¿Llegarán con posturas muy distanciadas?",
-        "capturado": "2026-10-20T06:59:39-05:00"
-      },
-      {
-        "titulo": "Escasez de gas pone en riesgo de parálisis al sector industrial y productivo colombiano",
-        "url": "https://www.valoraanalitik.com/crisis-de-gas-amenaza-con-paralizar-parte-del-aparato-productivo-e-industrial-de-colombia/",
-        "resumen": "Ecopetrol declaró desiertos los contratos para comprar el gas del exterior que llegaría a Puerto Bahía (Cartagena) y el Pacífico (Valle del Cauca).",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Crisis de gas amenaza con paralizar parte del aparato productivo e industrial de Colombia",
-        "capturado": "2026-10-20T06:59:39-05:00"
-      },
-      {
-        "titulo": "Tipos de interés en Colombia continuarán elevados en 2027: El crédito seguiría costoso",
-        "url": "https://www.valoraanalitik.com/tasas-de-interes-en-colombia-van-a-seguir-altas-en-2027-credito-podria-seguir-caro/",
-        "resumen": "Las tasas de interés en Colombia van a depender de lo que pase con el proceso de desaceleración de la inflación.",
-        "autor": "",
-        "subseccion": "Tasas de interes en colombia",
-        "publicacion": "",
-        "titulo_fuente": "Tasas de interés en Colombia van a seguir altas en 2027: Crédito podría seguir caro",
-        "capturado": "2026-10-20T06:59:39-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella busca revertir modificación de Petro en rentas vitalicias de pensiones",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-busca-reversar-cambio-de-petro-en-rentas-vitalicias-para-pensiones/",
-        "resumen": "El Gobierno propone cambiar las reglas de las rentas vitalicias tras una caída del 64 % en su emisión y mayores costos para financiar estas pensiones.",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella busca reversar cambio de Petro en rentas vitalicias para pensiones",
-        "capturado": "2026-10-20T01:26:25-05:00"
-      },
-      {
-        "titulo": "Alza del 38,5 % en el salario mínimo para 2027: advertencia sobre efectos en la economía e inflación del país",
-        "url": "https://www.valoraanalitik.com/aumento-del-salario-minimo-de-385-para-2027-esta-es-la-advertencia-sobre-el-impacto-para-la-economia-en-colombia/",
-        "resumen": "El aumento del salario mínimo para 2027 ya genera debate por sus posibles efectos en los precios, el empleo formal y los costos de las empresas.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Aumento del salario mínimo de 38,5 % para 2027: esta es la advertencia sobre el impacto para la inflación y la economía en Colombia",
-        "capturado": "2026-10-19T20:10:35-05:00"
-      },
-      {
-        "titulo": "Nueva megacárcel en Medellín alcanza la mitad de su edificación: especificaciones de la obra",
-        "url": "https://www.valoraanalitik.com/borrador-automatico-3nueva-megacarcel-en-medellin-se-acerca-al-50-de-construccion-detalles-del-proyecto/",
-        "resumen": "La nueva megacárcel en Medellín tendrá capacidad para 1.339 sindicados y actualmente genera 563 empleos directos, según la Alcaldía.",
-        "autor": "",
-        "subseccion": "Alcaldia de medellin",
-        "publicacion": "",
-        "titulo_fuente": "Nueva megacárcel en Medellín se acerca al 50 % de construcción: detalles del proyecto",
-        "capturado": "2026-10-19T20:10:35-05:00"
-      },
-      {
-        "titulo": "Ventas externas de café nacional bajan 13,8 % a septiembre por impacto cambiario y gastos de operación",
-        "url": "https://www.valoraanalitik.com/exportaciones-de-cafe-colombiano-caen-138-a-septiembre-por-efectos-del-dolar-y-costos-operativos/",
-        "resumen": "El año cafetero Colombia exportó 11,68 millones de sacos, una disminución de 11 % frente al periodo cafetero anterior.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Exportaciones de café colombiano caen 13,8 % a septiembre por efectos del dólar y costos operativos",
-        "capturado": "2026-10-19T20:10:35-05:00"
-      },
-      {
-        "titulo": "Consumo de gasolina de aviones en Latinoamérica creció casi 80 % en doce meses, según ALTA",
-        "url": "https://www.valoraanalitik.com/gasto-combustible-aviacion-aumento-80-alta/",
-        "resumen": "El tráfico de pasajeros en la región creció 2 % entre enero y julio, mientras el gasto de las aerolíneas en combustible casi se duplicó.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Gasto en combustible de aerolíneas en América Latina subió cerca de 80 % en un año: ALTA",
-        "capturado": "2026-10-19T20:10:35-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Merco 2026 ubica a Carlos Cavelier de Alquería como el directivo de mejor reputación en alimentos del país",
+        "url": "https://www.valoraanalitik.com/carlos-cavelier-de-alqueria-fue-reconocido-como-el-lider-con-mejor-reputacion-en-la-industria-de-alimentos-en-colombia-segun-merco-2026/",
+        "resumen": "Uno de los principales frentes de trabajo del coordinador de Sueños de Alquería es la educación pública, a través de la Fundación Alquería Cavelier.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Carlos Cavelier de Alquería fue reconocido como el líder con mejor reputación en la industria de alimentos en Colombia, según Merco 2026",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "GeoPark agranda su operación en territorio argentino luego de ganar un nuevo bloque: detalles",
+        "url": "https://www.valoraanalitik.com/geopark-expandio-el-tamano-de-su-negocio-en-argentina-tras-la-adjudicacion-de-un-nuevo-bloque-estos-son-los-detalles/",
+        "resumen": "La escala de producción potencial es de aproximadamente de 40.000 a 50.000 barriles de petróleo equivalentes al día.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark expandió el tamaño de su negocio en Argentina tras la adjudicación de un nuevo bloque: estos son los detalles",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "Plantas térmicas del país incumplen la meta de producción de energía durante el fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/las-plantas-termicas-en-colombia-no-llegan-a-la-meta-de-generacion-electrica-en-medio-de-el-nino/",
+        "resumen": "Este tipo de generación sirve como respaldo cuando el sistema eléctrico es impactado por una ola de calor.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Las plantas térmicas en Colombia no llegan a la meta de generación eléctrica en medio de El Niño",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "Arranca en Corferias Expo Agrofuturo, el evento que reúne tecnología, inversión y agro sostenible",
+        "url": "https://www.valoraanalitik.com/inicia-expo-agrofuturo-feria-corferias-agronegocios/",
+        "resumen": "Expo Agrofuturo se realiza hasta el 23 de octubre en Corferias, de 9:00 am. a 7:00 pm.; la entrada Full Expo cuesta $95.000 por un día y $230.000 por tres días.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Inicia Expo Agrofuturo en Corferias: el encuentro donde convergen tecnología, inversión y producción sostenible para el agro",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
+      {
+        "titulo": "Milagro Week ratifica a Citi, J.P. Morgan y más socios para captar capital hacia Colombia",
+        "url": "https://www.valoraanalitik.com/milagro-week-confirma-a-j-p-morgan-citi-y-otros-aliados-para-atraer-inversion-a-colombia/",
+        "resumen": "Milagro Week se realizará del 16 al 19 de noviembre en Nueva York y presentará 86 proyectos públicos y privados que suman inversiones por US$56.799 millones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Milagro Week confirma a J.P. Morgan, Citi y otros aliados para atraer inversión a Colombia",
+        "capturado": "2026-10-21T16:55:01-05:00"
+      },
       {
         "titulo": "Mayor compra externa de gas, fracking y Sirius son vitales para restaurar la autosuficiencia nacional",
         "url": "https://www.valoraanalitik.com/mas-importacion-de-gas-fracking-y-sirius-son-las-claves-para-recuperar-el-autoabastecimiento-en-colombia/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "EDF de Francia: una de las empresas energéticas más grandes del mundo que invirtió en Colombia",
         "capturado": "2026-10-18T12:11:28-05:00"
-      },
-      {
-        "titulo": "Ray-Ban cumple 90 años apostándole en Colombia a Meta, Transitions y festivales",
-        "url": "https://www.valoraanalitik.com/ray-ban-colombia-meta-transitions-90-anos/",
-        "resumen": "EssilorLuxottica, dueña de Ray-Ban, atiende más de 5.000 ópticas en Colombia y alista lanzamientos para el aniversario de la marca.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Ray-Ban llega a sus 90 años con Meta, Transitions y festivales como apuestas en Colombia",
-        "capturado": "2026-10-17T19:11:54-05:00"
-      },
-      {
-        "titulo": "Hitachi destinó US$80 millones para crecer en Risaralda y prevé ganancias de US$300 millones en 2026",
-        "url": "https://www.valoraanalitik.com/hitachi-invirtio-us80-millones-para-expandirse-en-risaralda-proyecta-ganancias-por-us300-millones-en-2026/",
-        "resumen": "El gerente de Hitachi, Javier Ricardo Ruiz, habló sobre los objetivos de la compañía tanto a nivel nacional como en los mercados internacionales.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Hitachi invirtió US$80 millones para expandirse en Risaralda; proyecta ganancias por US$300 millones en 2026",
-        "capturado": "2026-10-17T19:11:54-05:00"
-      },
-      {
-        "titulo": "Claro Colombia abre la preventa del iPhone Duo: fecha de disponibilidad en tiendas este octubre",
-        "url": "https://www.valoraanalitik.com/inicia-la-preventa-del-nuevo-iphone-duo-en-claro-colombia-desde-esta-fecha-de-octubre-estara-disponible-en-tiendas/",
-        "resumen": "De acuerdo con Claro, los compradores también tendrán la posibilidad de financiar la adquisición del equipo.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Inicia la preventa del nuevo iPhone Duo en Claro Colombia: desde esta fecha de octubre estará disponible en tiendas",
-        "capturado": "2026-10-17T14:40:14-05:00"
-      },
-      {
-        "titulo": "Arturo Calle avisa destrucción de 2.000 puestos de trabajo debido al crecimiento de Shein y Temu",
-        "url": "https://www.valoraanalitik.com/arturo-calle-advierte-perdida-de-2-000-empleos-por-auge-de-plataformas-como-shein-y-temu/",
-        "resumen": "Uno de los puntos señalados por Calle fue la exención del impuesto al valor agregado (IVA) para determinadas compras internacionales.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Arturo Calle advierte pérdida de 2.000 empleos por auge de plataformas como Shein y Temu",
-        "capturado": "2026-10-17T12:28:13-05:00"
-      },
-      {
-        "titulo": "De esta manera funcionará la contrarreforma pensional que presentará el Centro Democrático en el Congreso",
-        "url": "https://www.valoraanalitik.com/asi-sera-la-contrarreforma-pensional-que-radicara-el-centro-democratico-en-el-congreso/",
-        "resumen": "Centro Democrático alista contrarreforma pensional: busca cambios a la ley de Petro y apoyo de De la Espriella.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Así será la contrarreforma pensional que radicará el Centro Democrático en el Congreso",
-        "capturado": "2026-10-17T12:28:13-05:00"
       }
     ]
   }
