@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-21T08:07:01-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-21T13:12:12-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Fracking, Sirius y mayor compra externa de gas son vitales para restaurar el autoabastecimiento local",
+        "url": "https://www.valoraanalitik.com/mas-importacion-de-gas-fracking-y-sirius-son-las-claves-para-recuperar-el-autoabastecimiento-en-colombia/",
+        "resumen": "En septiembre de 2026, 39 % de la demanda se atendió con el gas del exterior, y 66 % de ese gas fue para la generación eléctrica.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Más importación de gas, fracking y Sirius son las claves para recuperar el autoabastecimiento en Colombia",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "ARQ multiplica por tres su base en el país y amplía su red hacia empresas, inversión y criptomonedas",
+        "url": "https://www.valoraanalitik.com/arq-colombia-ecosistema-financiero/",
+        "resumen": "La plataforma, antes DolarApp, incorporó la compra de criptoactivos y lanzó una solución empresarial. Colombia es su mercado más relevante.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "ARQ triplica usuarios en Colombia y expande su ecosistema financiero; lleva su oferta a empresas, inversión y cripto",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Las compras externas hacia el país crecieron con fuerza en agosto y rebasaron los US$7.700 millones",
+        "url": "https://www.valoraanalitik.com/importaciones-a-colombia-se-dispararon-en-agosto-superaron-los-us7-700-millones/",
+        "resumen": "En el acumulado de los primeros ocho meses del año (enero – agosto de 2026), las importaciones alcanzaron US$53.746,4 millones CIF.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Importaciones a Colombia se dispararon en agosto: superaron los US$7.700 millones",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Firma de colombiana obtiene US$500.000 de EE. UU. por innovar en la detección de patologías",
+        "url": "https://www.valoraanalitik.com/empresa-fundada-por-colombiana-recibe-us500-000-del-gobierno-de-estados-unidos-tras-lograr-innovacion-en-deteccion-de-enfermedades/",
+        "resumen": "La médica colombiana María Artunduaga recibió un respaldo de cerca de US$500.000 para su empresa que desarrolló una importante innovación.",
+        "autor": "",
+        "subseccion": "Emprendedores",
+        "publicacion": "",
+        "titulo_fuente": "Empresa fundada por colombiana recibe US$500.000 del Gobierno de Estados Unidos tras lograr innovación en detección de enfermedades",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Entra en marcha la nueva granja solar de Enel en Atlántico y así avanza su oferta verde",
+        "url": "https://www.valoraanalitik.com/nuevo-parque-solar-de-enel-en-atlantico-entro-en-operacion-asi-queda-su-portafolio-en-renovables/",
+        "resumen": "Para la empresa, esto fortalece la matriz energética colombiana, en medio del fenómeno de El Niño que estresa al sistema.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo parque solar de Enel en Atlántico entró en operación: así queda su portafolio en renovables",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella expedirá hoy decreto de Presupuesto de 2027 por $635 billones",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-expedira-hoy-decreto-de-presupuesto-de-2027-por-635-billones/",
+        "resumen": "El vicepresidente de Colombia, José Manuel Restrepo, y el ministro de Hacienda, Miguel Gómez.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella expedirá hoy decreto de Presupuesto de 2027 por $635 billones",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Las empresarias con mejor reputación en Colombia en 2026, según Ranking Merco",
+        "url": "https://www.valoraanalitik.com/las-empresarias-con-mejor-reputacion-en-colombia-en-2026-segun-ranking-merco/",
+        "resumen": "Estas son las empresarias colombianas con mejor reputación para 2026. Conozca el Ranking Merco completo.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Las empresarias con mejor reputación en Colombia en 2026, según Ranking Merco",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Relevante | Estos son los 100 líderes empresariales con mejor reputación en Colombia en 2026",
+        "url": "https://www.valoraanalitik.com/relevante-estos-son-los-100-lideres-empresariales-con-mejor-reputacion-en-colombia-en-2026/",
+        "resumen": "El informe de Merco también trae consigo novedades para el Top 100 de este año, en el cual sobresale el ingreso por primera vez de seis ejecutivos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Estos son los 100 líderes empresariales con mejor reputación en Colombia en 2026",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Colombianos podrán consultar sus inversiones desde WhatsApp con nueva función de Aval Fiduciaria",
+        "url": "https://www.valoraanalitik.com/inversiones-whatsapp-aval-fiduciaria/",
+        "resumen": "La entidad incorporó inteligencia artificial a su canal de atención. En el primer semestre de 2026, procesó operaciones digitales por $85,5 billones.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Colombianos podrán consultar sus inversiones desde WhatsApp con nueva función de Aval Fiduciaria",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia abre al alza en $3.191 ante tensiones en el Presupuesto de 2027 y alza del petróleo",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-al-alza-en-3-191-ante-tensiones-en-el-presupuesto-de-2027-y-alza-del-petroleo/",
+        "resumen": "El índice global del dólar (DXY) sigue haciendo respetar la zona de soporte clave ubicada en los 101,60 puntos.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre al alza en $3.191 ante tensiones en el Presupuesto de 2027 y alza del petróleo",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Especialistas estiman que el interés del BanRep trepará al 12,50 % en abril y seguiría así hasta mediados de 2027",
+        "url": "https://www.valoraanalitik.com/analistas-preven-que-la-tasa-del-banrep-subira-al-1250-este-mes-y-se-mantendria-en-ese-nivel-hasta-mediados-de-2027/",
+        "resumen": "Dos encuestas de analistas reflejan un continuo deterioro en las proyecciones de inflación, situando el indicador de cierre de 2026 en un 6,8 %.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Analistas prevén que la tasa del BanRep subirá al 12,50 % este mes y se mantendría en ese nivel hasta mediados de 2027",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
       {
         "titulo": "Minhacienda solicita sumar 1,2 billones de pesos al Presupuesto 2026 para subsidios energéticos",
         "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-pide-adicionar-12-billones-al-presupuesto-para-subsidios-de-energia/",
@@ -493,119 +603,79 @@
         "publicacion": "",
         "titulo_fuente": "Gasto en combustible de aerolíneas en América Latina subió cerca de 80 % en un año: ALTA",
         "capturado": "2026-10-19T20:10:35-05:00"
-      },
-      {
-        "titulo": "Cae la imagen positiva de la fiscal general Luz Adriana Camargo: razones de su baja favorabilidad",
-        "url": "https://www.valoraanalitik.com/se-desploma-la-favorabilidad-de-la-fiscal-general-luz-adriana-camargo-que-hay-detras-de-su-mala-imagen/",
-        "resumen": "Los cuestionamientos a la Fiscalía que explican la baja imagen de Luz Adriana Camargo.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Se desploma la favorabilidad de la fiscal general, Luz Adriana Camargo: ¿qué hay detrás de su mala imagen?",
-        "capturado": "2026-10-19T20:10:35-05:00"
-      },
-      {
-        "titulo": "Avanza transacción clave en cotizados edificios de oficinas medellinenses y deja cuantiosos ingresos",
-        "url": "https://www.valoraanalitik.com/movida-clave-cotizadas-torres-medellin/",
-        "resumen": "La operación representará ingresos superiores a $207.000 millones, cifra que supera su avalúo comercial.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Se concreta movida clave en cotizadas torres de oficinas de Medellín; negocio generó millonarios recursos",
-        "capturado": "2026-10-19T20:10:35-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella revela estrategia para organizar cultivos arroceros y controlar compras externas",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-plan-para-ordenar-siembras-de-arroz-y-regular-importaciones/",
-        "resumen": "El Gobierno anunció un plan para ordenar las siembras de arroz en Colombia, regular las importaciones y estabilizar el mercado a partir de 2027.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella anuncia plan para ordenar siembras de arroz y regular importaciones",
-        "capturado": "2026-10-19T20:10:35-05:00"
-      },
-      {
-        "titulo": "MinHacienda de Colombia admite que los ciudadanos están hartos de tributar",
-        "url": "https://www.valoraanalitik.com/ministro-de-hacienda-de-colombia-reconoce-que-la-gente-se-canso-de-pagar-impuestos/",
-        "resumen": "Según el funcionario, el país cuenta un esquema de muchos impuestos, dado que existen 18 tributos nacionales, y poco recaudo.",
-        "autor": "",
-        "subseccion": "Impuestos",
-        "publicacion": "",
-        "titulo_fuente": "Ministro de Hacienda de Colombia reconoce que “la gente se cansó de pagar impuestos”",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Futuro de J.P. Morgan en Colombia tras dos décadas y más de US$6.000 millones colocados",
-        "url": "https://www.valoraanalitik.com/lo-que-viene-para-jp-morgan-en-colombia/",
-        "resumen": "La operación local de la firma estadounidense cumple 20 años. A futuro busca ampliar sus negocios de dividas y comercio exterior.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Lo que viene para J.P. Morgan en Colombia tras cumplir 20 años; ha desplegado más de US$6.000 millones",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Plazo final para rebajas de impuestos de la DIAN: rebaja en el pago de hasta 85 %",
-        "url": "https://www.valoraanalitik.com/ultimo-plazo-para-acceder-a-beneficios-tributarios-de-la-dian-podria-reducir-su-pago-hasta-85/",
-        "resumen": "Los beneficios tributarios de la DIAN tienen fecha límite y podrían representar un ahorro para quienes cumplan los requisitos.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "Último plazo para acceder a beneficios tributarios de la DIAN: podría reducir su pago hasta 85 %",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Credicorp: Colombia encabeza la inclusión financiera regional y crecen las billeteras digitales",
-        "url": "https://www.valoraanalitik.com/credicorp-colombia-inclusion-financiera/",
-        "resumen": "El país aumentó 12 puntos su nivel de inclusión financiera desde 2021, el mayor avance acumulado entre ocho mercados evaluados.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Credicorp: Colombia lidera crecimiento en inclusión financiera en la región y billeteras digitales ganan terreno",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Marco Rubio irá a India a estrechar lazos energéticos mientras Delhi busca diversificar suministros",
-        "url": "https://www.valoraanalitik.com/marco-rubio-viajara-a-india-para-fortalecer-la-cooperacion-energetica-el-pais-asiatico-busca-diversificar-sus-fuentes/",
-        "resumen": "Tras la intervención estadounidense en Venezuela, barriles de crudo de ese país han llegado a puertos indios.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Marco Rubio viajará a India para fortalecer la cooperación energética; el país asiático busca diversificar sus fuentes",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar en el país continúa cayendo: perforó el piso de los 3.150 pesos hoy",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-sigue-perdiendo-fuerza-bajo-de-los-3-150-en-la-jornada/",
-        "resumen": "La divisa abrió en el precio máximo de la jornada en $3.178,90 y mostró una paulatina presión bajista hasta perforar la barrera de los $3.150.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia sigue perdiendo fuerza: Bajó de los $3.150 en la jornada",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "De esta manera modificaría De la Espriella las normas de trabajo para apps, prensa y acosados",
-        "url": "https://www.valoraanalitik.com/asi-cambiaria-de-la-espriella-las-reglas-laborales-para-repartidores-de-apps-periodistas-y-victimas-de-acoso/",
-        "resumen": "Cambios en la cotización a pensión de los repartidores, ajustes a las condiciones laborales de los periodistas y nuevas reglas para atender denuncias de acoso.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Así cambiaría De la Espriella las reglas laborales para repartidores de ‘apps’, periodistas y víctimas de acoso",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Bogotá regresa a la bolsa con emisión de bonos por hasta $1,5 billones para financiar obras",
-        "url": "https://www.valoraanalitik.com/bogota-vuelve-al-mercado-de-capitales/",
-        "resumen": "En noviembre de 2025, el Distrito realizó la primera colocación dentro de su programa de emisión, por un monto de $510.000 millones.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá vuelve al mercado de capitales: emitirá bonos hasta por $1,5 billones para financiar proyectos",
-        "capturado": "2026-10-19T12:40:44-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Mayor compra externa de gas, fracking y Sirius son vitales para restaurar la autosuficiencia nacional",
+        "url": "https://www.valoraanalitik.com/mas-importacion-de-gas-fracking-y-sirius-son-las-claves-para-recuperar-el-autoabastecimiento-en-colombia/",
+        "resumen": "En septiembre de 2026, 39 % de la demanda se atendió con el gas del exterior, y 66 % de ese gas fue para la generación eléctrica.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Más importación de gas, fracking y Sirius son las claves para recuperar el autoabastecimiento en Colombia",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Estudios indican que el fraude con IA alcanza una rentabilidad 4,5 veces superior a la clásica",
+        "url": "https://www.valoraanalitik.com/el-fraude-potenciado-por-ia-puede-llegar-a-ser-45-veces-mas-rentable-que-los-metodos-tradicionales-segun-expertos/",
+        "resumen": "Este escenario plantea nuevos desafíos para bancos, fintechs, medios de pago, comercios electrónicos y otras organizaciones.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "El fraude potenciado por IA puede llegar a ser 4,5 veces más rentable que los métodos tradicionales, según expertos",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Firma de colombiana obtiene US$500.000 del gobierno estadounidense por innovar en salud",
+        "url": "https://www.valoraanalitik.com/empresa-fundada-por-colombiana-recibe-us500-000-del-gobierno-de-estados-unidos-tras-lograr-innovacion-en-deteccion-de-enfermedades/",
+        "resumen": "La médica colombiana María Artunduaga recibió un respaldo de cerca de US$500.000 para su empresa que desarrolló una importante innovación.",
+        "autor": "",
+        "subseccion": "Emprendedores",
+        "publicacion": "",
+        "titulo_fuente": "Empresa fundada por colombiana recibe US$500.000 del Gobierno de Estados Unidos tras lograr innovación en detección de enfermedades",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Empieza a funcionar nuevo parque solar de Enel en el Atlántico y así se compone su oferta verde",
+        "url": "https://www.valoraanalitik.com/nuevo-parque-solar-de-enel-en-atlantico-entro-en-operacion-asi-queda-su-portafolio-en-renovables/",
+        "resumen": "Para la empresa, esto fortalece la matriz energética colombiana, en medio del fenómeno de El Niño que estresa al sistema.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo parque solar de Enel en Atlántico entró en operación: así queda su portafolio en renovables",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Listado Merco revela cuáles son las directivas con mejor reputación en el país para 2026",
+        "url": "https://www.valoraanalitik.com/las-empresarias-con-mejor-reputacion-en-colombia-en-2026-segun-ranking-merco/",
+        "resumen": "Estas son las empresarias colombianas con mejor reputación para 2026. Conozca el Ranking Merco completo.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Las empresarias con mejor reputación en Colombia en 2026, según Ranking Merco",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Destacados | Conozca los 100 directivos corporativos de mayor prestigio en el país para 2026",
+        "url": "https://www.valoraanalitik.com/relevante-estos-son-los-100-lideres-empresariales-con-mejor-reputacion-en-colombia-en-2026/",
+        "resumen": "El informe de Merco también trae consigo novedades para el Top 100 de este año, en el cual sobresale el ingreso por primera vez de seis ejecutivos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Estos son los 100 líderes empresariales con mejor reputación en Colombia en 2026",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
+      {
+        "titulo": "Indra Group dona un nuevo espacio tecnológico a colegio damnificado por sismo en Caldas",
+        "url": "https://www.valoraanalitik.com/indra-group-entrega-una-nueva-sala-de-computo-en-caldas/",
+        "resumen": "La iniciativa beneficiará a cerca de 250 estudiantes de San Antonio de Arma con tecnología, conectividad satelital y herramientas para el aprendizaje digital.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Indra Group entrega una nueva sala de cómputo a institución educativa afectada por el terremoto en Caldas",
+        "capturado": "2026-10-21T13:12:12-05:00"
+      },
       {
         "titulo": "MinHacienda solicita adición de 1,2 billones de pesos al Presupuesto 2026 para subsidios energéticos",
         "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-pide-adicionar-12-billones-al-presupuesto-para-subsidios-de-energia/",
@@ -1135,76 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Así será la contrarreforma pensional que radicará el Centro Democrático en el Congreso",
         "capturado": "2026-10-17T12:28:13-05:00"
-      },
-      {
-        "titulo": "Entrevista: la solicitud de Latam Airlines al Gobierno De la Espriella para operar más rutas y frecuencias",
-        "url": "https://www.valoraanalitik.com/entrevista-el-pedido-de-latam-airlines-al-gobierno-de-la-espriella-para-poder-abrir-mas-rutas-y-frecuencias-en-colombia/",
-        "resumen": "En diálogo con Valora Analitik, Érika Zarante, CEO de LATAM Airlines Colombia, explicó qué necesita la aerolínea para abrir más rutas y frecuencias en el país.",
-        "autor": "",
-        "subseccion": "Aerolineas colombia",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | El pedido de Latam Airlines al Gobierno De la Espriella para poder abrir más rutas y frecuencias en Colombia",
-        "capturado": "2026-10-17T09:07:17-05:00"
-      },
-      {
-        "titulo": "Gabrica nombró a Nicolás Saade como su nuevo director general",
-        "url": "https://www.valoraanalitik.com/nicolas-saade-sera-el-nuevo-director-general-de-gabrica/",
-        "resumen": "Saade es ingeniero industrial de la Pontificia Universidad Javeriana y cuenta con más de 24 años de experiencia profesional.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Nicolás Saade será el nuevo director general de Gabrica",
-        "capturado": "2026-10-16T20:11:26-05:00"
-      },
-      {
-        "titulo": "Arribó a Buenaventura embarcación para la importación y almacenamiento de gas natural en Colombia",
-        "url": "https://www.valoraanalitik.com/llega-a-buenaventura-buque-que-permitira-importar-y-almacenar-gas-natural-para-colombia/",
-        "resumen": "La embarcación, de 285 metros de eslora y 43 metros de manga, será operada por Exmar y recibirá GNL cada 30 días en promedio.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Llega a Buenaventura buque que permitirá importar y almacenar gas natural para Colombia",
-        "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá regresa al top 3 de bancos con mayores ganancias en Colombia y así quedó la lista",
-        "url": "https://www.valoraanalitik.com/banco-de-bogota-vuelve-al-top-3-de-las-entidades-financieras-con-mayores-utilidades-en-colombia-asi-quedo-el-ranking/",
-        "resumen": "Tras dos meses de reconfiguración en los que el Banco GNB Sudameris había logrado escalar al tercer lugar a nivel nacional, el podio cambió.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Banco de Bogotá vuelve al top 3 de las entidades financieras con mayores utilidades en Colombia: así quedó el ranking",
-        "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "Nuevas normas en Colombia para llevar animales de compañía a oficinas tras fallo con reglas clave",
-        "url": "https://www.valoraanalitik.com/llevar-mascotas-al-trabajo-tendra-nuevas-reglas-en-colombia-fallo-fija-parametros-clave/",
-        "resumen": "Llevar mascotas al trabajo tendrá nuevas reglas en Colombia. Un fallo judicial puso plazo a los ministerios y definió qué aspectos deberán regular.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Llevar mascotas al trabajo tendrá nuevas reglas en Colombia: fallo fija parámetros clave",
-        "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "Changan y Deepal expanden su presencia en Bucaramanga con nueva sede y planean más aperturas",
-        "url": "https://www.valoraanalitik.com/changan-y-deepal-amplian-su-operacion-en-bucaramanga-con-la-apertura-de-nueva-vitrina-proyectan-abrir-mas-puntos-de-atencion-en-el-pais/",
-        "resumen": "Changan y Deepal proyectan superar las 150 unidades durante su primer año de operación.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Changan y Deepal amplían su operación en Bucaramanga con la apertura de nueva vitrina: proyectan abrir más puntos de atención en el país",
-        "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "Arrancan trabajos de optimización en el corredor Amalfi Chorritos que impactarán a 28000 antioqueños",
-        "url": "https://www.valoraanalitik.com/inician-las-obras-para-el-mejoramiento-de-la-via-amalfi-chorritos-que-beneficiara-a-mas-de-28-000-personas-en-antioquia/",
-        "resumen": "El proyecto contempla el mejoramiento de 5,7 kilómetros de vía terciaria entre el casco urbano de Amalfi y el centro poblado Chorritos.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Inician las obras para el mejoramiento de la vía Amalfi – Chorritos que beneficiará a más de 28.000 personas en Antioquia",
-        "capturado": "2026-10-16T17:42:23-05:00"
       }
     ]
   }
