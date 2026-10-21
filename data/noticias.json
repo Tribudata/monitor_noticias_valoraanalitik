@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-20T18:19:24-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-10-20T20:54:16-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "CRC solicita mayores salvaguardas competitivas ante la unión de Claro y Azteca",
+        "url": "https://www.valoraanalitik.com/integracion-de-claro-y-azteca-crc-pide-mayores-garantias-para-la-competencia/",
+        "resumen": "La Comisión de Regulación de Comunicaciones (CRC) advirtió que los compromisos de Claro para integrar la red de Azteca en Colombia son insuficientes.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Integración de Claro y Azteca: CRC pide mayores garantías para la competencia",
+        "capturado": "2026-10-20T20:54:16-05:00"
+      },
+      {
+        "titulo": "Nueva ley del programa Mi Casa en Colombia facilitará créditos hipotecarios de vivienda",
+        "url": "https://www.valoraanalitik.com/programa-mi-casa-en-colombia-nueva-ley-permitira-a-estos-colombianos-acceder-a-creditos-hipotecarios-para-comprar-vivienda/",
+        "resumen": "La nueva ley abre una nueva posibilidad para cumplir el sueño de tener casa propia en Colombia, pero hay condiciones que definirán cómo funcionará el programa.",
+        "autor": "",
+        "subseccion": "Subsidio de vivienda",
+        "publicacion": "",
+        "titulo_fuente": "Programa Mi Casa en Colombia: nueva ley permitirá a estos colombianos acceder a créditos hipotecarios para comprar vivienda",
+        "capturado": "2026-10-20T20:54:16-05:00"
+      },
+      {
+        "titulo": "Yacimientos con mayor aporte de gas a Colombia durante septiembre",
+        "url": "https://www.valoraanalitik.com/estos-fueron-los-campos-que-mas-le-suministraron-gas-a-colombia-en-septiembre/",
+        "resumen": "En total, el suministro sobre el potencial de producción fue de 84 %. Mientras que la Regasificadora de Cartagena logró uno de 92 %.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Estos fueron los campos que más le suministraron gas a Colombia en septiembre",
+        "capturado": "2026-10-20T20:54:16-05:00"
+      },
+      {
+        "titulo": "Renault-Sofasa planea invertir US$150 millones para un nuevo carro en Colombia",
+        "url": "https://www.valoraanalitik.com/renault-sofasa-proyecta-inversion-de-us150-millones-para-fabricar-nuevo-vehiculo-en-colombia/",
+        "resumen": "Renault-Sofasa avanza en una inversión de hasta US$150 millones para fabricar un nuevo vehículo en Colombia y ampliar exportaciones a Latinoamérica.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Renault-Sofasa proyecta inversión de US$150 millones para fabricar nuevo vehículo en Colombia",
+        "capturado": "2026-10-20T20:54:16-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio ideal en Colombia se ubicaría entre $3.400 y $3.600, de acuerdo con expertos",
+        "url": "https://www.valoraanalitik.com/dolar-ideal-en-colombia-estaria-entre-3-400-y-3-600-segun-analistas/",
+        "resumen": "Los analistas hablan de una tasa de cambio en equilibrio ideal cuando no se causa un daño a los exportadores ni se ahoga la balanza comercial.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar ideal en Colombia estaría entre $3.400 y $3.600, según analistas",
+        "capturado": "2026-10-20T20:54:16-05:00"
+      },
       {
         "titulo": "Gobierno De la Espriella prepara nuevo decreto sobre tarifas diferenciales en peajes del Eje Cafetero",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-nuevo-decreto-de-tarifas-diferenciales-para-peajes-del-eje-cafetero/",
@@ -553,59 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Congreso designa ponentes para tramitar la adición de casi $4 billones al Presupuesto de 2026",
         "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Dólar estable a $3.170 en Colombia al bajar el crudo tras quitar sanciones de EE. UU. a energía rusa",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-estable-en-3-170-mientras-el-crudo-cede-tras-el-alivio-de-sanciones-de-ee-uu-a-energia-rusa/",
-        "resumen": "A nivel global, el índice DXY continúa haciendo respetar el piso 101,70 puntos.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre estable en $3.170 mientras el crudo cede tras el alivio de sanciones de EE. UU. a energía rusa",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Corficolombiana sugiere que el alza adecuada para el salario mínimo de 2027 sea del 8 por ciento",
-        "url": "https://www.valoraanalitik.com/corficolombiana-pone-sobre-la-mesa-que-el-incremento-deseable-para-el-salario-minimo-de-2027-sea-de-8/",
-        "resumen": "La corporación señaló que cálculos del CARF estimaron que el aumento de 23 % del salario mínimo elevaría el déficit fiscal en cerca de $5,3 billones en 2026.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Corficolombiana pone sobre la mesa que el incremento deseable para el salario mínimo de 2027 sea de 8 %",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Ecopetrol declara desierto el trámite de adquisición de gas importado para el Pacífico y Puerto Bahía",
-        "url": "https://www.valoraanalitik.com/ecopetrol-declara-desierto-proceso-de-compra-de-gas-importado-para-regasificadoras-del-pacifico-y-puerto-bahia/",
-        "resumen": "La empresa añadió que durante esta administración Petro hubo un declive en la industria por la falta de exploración de nuevos campos.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol declara desierto proceso de compra de gas importado para regasificadoras del Pacífico y Puerto Bahía",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Causas por las cuales el incremento del salario básico colombiano será menor en el próximo año",
-        "url": "https://www.valoraanalitik.com/por-que-el-salario-minimo-de-colombia-no-subira-tanto-para-el-ano-entrante/",
-        "resumen": "El salario mínimo de Colombia para el año entrante tendrá como base de negociación el dato de inflación del 2026",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "¿Por qué el salario mínimo de Colombia no subirá tanto para el año entrante?",
-        "capturado": "2026-10-19T06:07:15-05:00"
-      },
-      {
-        "titulo": "De la Espriella informa acciones para consolidar la autonomía colombiana en San Andrés",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-anuncia-medidas-para-reforzar-la-soberania-de-colombia-en-san-andres/",
-        "resumen": "De la Espriella también anunció que su gobierno buscará convertir a San Andrés en un centro marítimo y logístico del Caribe insular.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella anuncia medidas para reforzar la soberanía de Colombia en San Andrés",
-        "capturado": "2026-10-19T00:08:30-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Fusión de Claro y Azteca: CRC demanda más salvaguardas para el mercado",
+        "url": "https://www.valoraanalitik.com/integracion-de-claro-y-azteca-crc-pide-mayores-garantias-para-la-competencia/",
+        "resumen": "La Comisión de Regulación de Comunicaciones (CRC) advirtió que los compromisos de Claro para integrar la red de Azteca en Colombia son insuficientes.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Integración de Claro y Azteca: CRC pide mayores garantías para la competencia",
+        "capturado": "2026-10-20T20:54:16-05:00"
+      },
+      {
+        "titulo": "Yacimientos con mayor aporte de gas a Colombia en septiembre",
+        "url": "https://www.valoraanalitik.com/estos-fueron-los-campos-que-mas-le-suministraron-gas-a-colombia-en-septiembre/",
+        "resumen": "En total, el suministro sobre el potencial de producción fue de 84 %. Mientras que la Regasificadora de Cartagena logró uno de 92 %.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Estos fueron los campos que más le suministraron gas a Colombia en septiembre",
+        "capturado": "2026-10-20T20:54:16-05:00"
+      },
+      {
+        "titulo": "Renault-Sofasa planea inyección de US$150 millones para ensamblar auto en Colombia",
+        "url": "https://www.valoraanalitik.com/renault-sofasa-proyecta-inversion-de-us150-millones-para-fabricar-nuevo-vehiculo-en-colombia/",
+        "resumen": "Renault-Sofasa avanza en una inversión de hasta US$150 millones para fabricar un nuevo vehículo en Colombia y ampliar exportaciones a Latinoamérica.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Renault-Sofasa proyecta inversión de US$150 millones para fabricar nuevo vehículo en Colombia",
+        "capturado": "2026-10-20T20:54:16-05:00"
+      },
       {
         "titulo": "Modificaciones del nuevo mandato nacional a normas de contratación, hostigamiento y apps en el país",
         "url": "https://www.valoraanalitik.com/asi-cambiarian-las-reglas-laborales-sobre-tercerizacion-acoso-y-plataformas-digitales-en-colombia-con-el-nuevo-gobierno/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Tumban decreto de Petro que regulaba la tercerización laboral en Colombia",
         "capturado": "2026-10-16T14:39:22-05:00"
-      },
-      {
-        "titulo": "Firmas de Israel interesan al Gobierno De La Espriella para entablar contactos",
-        "url": "https://www.valoraanalitik.com/empresas-israelies-reuniones-colombia/",
-        "resumen": "El canciller de Colombia sostuvo encuentros con representantes de compañías de ciberseguridad, inteligencia artificial e inteligencia estratégica.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Estas son las empresas israelíes con las que el Gobierno De La Espriella busca acercamientos",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Diez grandes obras colombianas apresurarán trabajos al destrabarse permisos y trámites ecológicos",
-        "url": "https://www.valoraanalitik.com/los-10-megaproyectos-en-colombia-que-aceleraran-sus-obras/",
-        "resumen": "El presidente de la ANI, Ricardo Ayerbe, aseguró que mantendrá mesas de trabajo con la ANLA para destrabar iniciativas en el país.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Los 10 megaproyectos en Colombia que acelerarán sus obras tras destrabe de licencias y trámites ambientales",
-        "capturado": "2026-10-16T11:25:04-05:00"
-      },
-      {
-        "titulo": "Tesla asombra al planeta al mostrar su auto volador inicial con estas especificaciones",
-        "url": "https://www.valoraanalitik.com/tesla-sorprende-al-mundo-y-presenta-su-primer-carro-que-puede-volar-estos-son-los-detalles/",
-        "resumen": "La compañía anunció tres configuraciones del deportivo: Performance, Thrust y Rocket, con diferencias en su capacidad de aceleración.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tesla sorprende al mundo y presenta su primer carro que puede volar: estos son los detalles",
-        "capturado": "2026-10-16T11:25:04-05:00"
       }
     ]
   }
