@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-20T20:54:16-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-21T02:21:45-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Findeter abre línea de crédito por $243.531 millones para la recuperación de zonas afectadas por emergencias",
+        "url": "https://www.valoraanalitik.com/findeter-lanza-linea-de-credito-por-243-531-millones-para-recuperar-territorios-afectados-por-emergencias-en-colombia/",
+        "resumen": "Findeter anunció una línea de crédito por $243.531 millones para recuperar infraestructura y reactivar la economía en regiones afectadas por emergencias.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Findeter lanza línea de crédito por $243.531 millones para recuperar territorios afectados por emergencias en Colombia",
+        "capturado": "2026-10-21T02:21:45-05:00"
+      },
+      {
+        "titulo": "Delegados del FMI y el Banco Mundial arriban al país para examinar el plan de deuda pública al 2030",
+        "url": "https://www.valoraanalitik.com/fmi-y-banco-mundial-llegan-a-colombia-para-revisar-estrategia-de-deuda-publica-hasta-2030/",
+        "resumen": "El FMI y el Banco Mundial apoyarán al Gobierno colombiano en la actualización de su estrategia de deuda pública para el periodo 2027-2030.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "FMI y Banco Mundial llegan a Colombia para revisar estrategia de deuda pública hasta 2030",
+        "capturado": "2026-10-21T02:21:45-05:00"
+      },
+      {
+        "titulo": "Fitch confirma la nota nacional máxima de Ecopetrol y anticipa un descenso en su extracción",
+        "url": "https://www.valoraanalitik.com/fitch-ratifica-maxima-calificacion-nacional-de-ecopetrol-pero-preve-caida-en-su-produccion/",
+        "resumen": "Fitch mantuvo la máxima calificación nacional de Ecopetrol, aunque proyecta una caída del 3 % en su producción de hidrocarburos durante 2026.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Fitch ratifica máxima calificación nacional de Ecopetrol, pero prevé caída en su producción",
+        "capturado": "2026-10-21T02:21:45-05:00"
+      },
+      {
+        "titulo": "Odinsa convoca a asamblea extraordinaria para avalar un pago de dividendos superior a $183.000 millones",
+        "url": "https://www.valoraanalitik.com/odinsa-cita-asamblea-extraordinaria-para-aprobar-dividendo-por-mas-de-183-000-millones/",
+        "resumen": "Odinsa someterá a aprobación de sus accionistas un dividendo extraordinario de $183.108 millones, equivalente a $934 por acción.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Odinsa cita asamblea extraordinaria para aprobar dividendo por más de $183.000 millones",
+        "capturado": "2026-10-21T02:21:45-05:00"
+      },
       {
         "titulo": "CRC solicita mayores salvaguardas competitivas ante la unión de Claro y Azteca",
         "url": "https://www.valoraanalitik.com/integracion-de-claro-y-azteca-crc-pide-mayores-garantias-para-la-competencia/",
@@ -563,49 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Ahora | Economía de Colombia cayó 0,04 % en agosto de 2026 arrastrada por el sector primario e industrial",
         "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Sugieren cancelar luces navideñas en el país por la escasez energética y el fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/proponen-no-instalar-alumbrados-de-navidad-en-colombia-por-crisis-de-energia-y-fenomeno-de-el-nino/",
-        "resumen": "Entre los argumentos expuestos están el riesgo de apagón y el impacto que tendría el fenómeno de El Niño en 2026 sobre el sector energético.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Proponen no instalar alumbrados de Navidad en Colombia por crisis de energía y fenómeno de El Niño",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Permisos, consumo y rivalidad externa: desafíos eléctricos del cuatrienio según el sector",
-        "url": "https://www.valoraanalitik.com/retos-sector-electrico-licencias-demanda/",
-        "resumen": "Permisos de más de dos años, demanda que crece cerca del 7 % mensual y auge de carros eléctricos, entre los temas del encuentro de Centelsa by Nexans.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Licencias, demanda y competencia con importados: los retos que el sector eléctrico plantea para el próximo cuatrienio",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Nuevas normas para rutas escolares colombianas que colegios y acudientes deben cumplir",
-        "url": "https://www.valoraanalitik.com/rutas-escolares-tendran-importantes-cambios-en-colombia-ya-hay-nuevas-exigencias-que-los-padres-y-colegios-deben-tener-en-cuenta/",
-        "resumen": "Las rutas escolares en Colombia tienen nuevas disposiciones sobre seguridad, conductores y acompañantes. Estas son las obligaciones.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Rutas escolares tendrán importantes cambios en Colombia: ya hay nuevas exigencias que los padres y colegios deben tener en cuenta",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Designados ponentes en el Congreso para debatir adición de cerca de $4 billones al Presupuesto 2026",
-        "url": "https://www.valoraanalitik.com/congreso-designa-ponentes-para-tramitar-la-adicion-de-casi-4-billones-al-presupuesto-de-2026/",
-        "resumen": "Los representantes designados en la Comisión Cuarta cuentan con un plazo de hasta quince días calendario para radicar el informe de ponencia.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Congreso designa ponentes para tramitar la adición de casi $4 billones al Presupuesto de 2026",
-        "capturado": "2026-10-19T12:40:44-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Findeter abre línea de crédito por $243.531 millones para la recuperación de zonas en emergencia",
+        "url": "https://www.valoraanalitik.com/findeter-lanza-linea-de-credito-por-243-531-millones-para-recuperar-territorios-afectados-por-emergencias-en-colombia/",
+        "resumen": "Findeter anunció una línea de crédito por $243.531 millones para recuperar infraestructura y reactivar la economía en regiones afectadas por emergencias.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Findeter lanza línea de crédito por $243.531 millones para recuperar territorios afectados por emergencias en Colombia",
+        "capturado": "2026-10-21T02:21:45-05:00"
+      },
+      {
+        "titulo": "Fitch confirma la nota nacional de Ecopetrol y anticipa una disminución en su bombeo",
+        "url": "https://www.valoraanalitik.com/fitch-ratifica-maxima-calificacion-nacional-de-ecopetrol-pero-preve-caida-en-su-produccion/",
+        "resumen": "Fitch mantuvo la máxima calificación nacional de Ecopetrol, aunque proyecta una caída del 3 % en su producción de hidrocarburos durante 2026.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Fitch ratifica máxima calificación nacional de Ecopetrol, pero prevé caída en su producción",
+        "capturado": "2026-10-21T02:21:45-05:00"
+      },
+      {
+        "titulo": "Odinsa convoca asamblea extraordinaria para autorizar un dividendo superior a $183.000 millones",
+        "url": "https://www.valoraanalitik.com/odinsa-cita-asamblea-extraordinaria-para-aprobar-dividendo-por-mas-de-183-000-millones/",
+        "resumen": "Odinsa someterá a aprobación de sus accionistas un dividendo extraordinario de $183.108 millones, equivalente a $934 por acción.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Odinsa cita asamblea extraordinaria para aprobar dividendo por más de $183.000 millones",
+        "capturado": "2026-10-21T02:21:45-05:00"
+      },
       {
         "titulo": "Fusión de Claro y Azteca: CRC demanda más salvaguardas para el mercado",
         "url": "https://www.valoraanalitik.com/integracion-de-claro-y-azteca-crc-pide-mayores-garantias-para-la-competencia/",
@@ -1174,36 +1204,6 @@
         "subseccion": "Bancarias",
         "publicacion": "",
         "titulo_fuente": "Grupo Aval, la compañía que más escaló en top 50 de ranking Merco Empresas 2026; Porvenir lideró entre nuevos ingresos",
-        "capturado": "2026-10-16T14:39:22-05:00"
-      },
-      {
-        "titulo": "NG Energy informa datos del pozo Aruchara-6 en La Guajira e inicia perforaciones en el bloque Sinú",
-        "url": "https://www.valoraanalitik.com/ng-energy-revela-resultados-de-pozo-aruchara-6-la-guajira-y-arranca-perforacion-de-bloque-clave-sinu-estas-son-las-proyecciones/",
-        "resumen": "Se espera que la producción total en el campo María Conchita, con la incorporación de este pozo, aumente a 23,0 MMcf/d brutos (18,4 MMcf/d netos).",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "NG Energy revela resultados de pozo Aruchara-6 (La Guajira) y arranca perforación de bloque clave Sinú: estas son las proyecciones",
-        "capturado": "2026-10-16T14:39:22-05:00"
-      },
-      {
-        "titulo": "Ingenio Mayagüez abandona Nicaragua tras la venta de sus acciones en las subsidiarias",
-        "url": "https://www.valoraanalitik.com/ingenio-mayaguez-sale-de-nicaragua/",
-        "resumen": "La negociación se hizo por US$13,5 millones, cuyo pago se realizará en un plazo de tres años.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ingenio Mayagüez sale de Nicaragua tras vender participaciones en filiales",
-        "capturado": "2026-10-16T14:39:22-05:00"
-      },
-      {
-        "titulo": "Anulan norma de Petro sobre la tercerización laboral en Colombia",
-        "url": "https://www.valoraanalitik.com/tumban-decreto-de-petro-que-regulaba-la-tercerizacion-laboral-en-colombia/",
-        "resumen": "El decreto establecía reglas para identificar, corregir y sancionar la tercerización e intermediación laboral ilegal en Colombia.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Tumban decreto de Petro que regulaba la tercerización laboral en Colombia",
         "capturado": "2026-10-16T14:39:22-05:00"
       }
     ]
