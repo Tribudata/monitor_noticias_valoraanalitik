@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-21T02:21:45-05:00",
+  "actualizado": "2026-10-21T08:07:01-05:00",
   "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Minhacienda solicita sumar 1,2 billones de pesos al Presupuesto 2026 para subsidios energéticos",
+        "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-pide-adicionar-12-billones-al-presupuesto-para-subsidios-de-energia/",
+        "resumen": "Para el ministro, el sector energético requiere de inversiones grandes, estabilidad en las reglas de juego y políticas a largo plazo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ministerio de Hacienda pide adicionar $1,2 billones al Presupuesto de 2026 para subsidios de energía",
+        "capturado": "2026-10-21T08:07:01-05:00"
+      },
+      {
+        "titulo": "Presupuesto 2027 peligraría por error de trámite entre textos de Cámara y Senado y esto pasaría",
+        "url": "https://www.valoraanalitik.com/presupuesto-2027-se-caeria-por-vicio-de-tramite-entre-textos-de-camara-y-senado-esto-es-lo-que-vendria/",
+        "resumen": "La oposición sostiene que esta irregularidad llevaría al hundimiento del proyecto aprobado en las dos plenarias.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto 2027 se caería por vicio de trámite entre textos de Cámara y Senado: esto es lo que vendría",
+        "capturado": "2026-10-21T08:07:01-05:00"
+      },
+      {
+        "titulo": "ProAntioquia pretende llevar Obras por Impuestos a más zonas y alista iniciativas para 2027",
+        "url": "https://www.valoraanalitik.com/proantioquia-busca-ampliar-obras-por-impuestos-a-otras-regiones-y-prepara-proyectos-para-2027/",
+        "resumen": "La organización acompaña actualmente la estructuración de proyectos que se presentarán para la próxima vigencia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ProAntioquia busca ampliar Obras por Impuestos a otras regiones y prepara proyectos para 2027",
+        "capturado": "2026-10-21T08:07:01-05:00"
+      },
+      {
+        "titulo": "Premercado | Mercados suben por balances tecnológicos y aguardan reportes de Tesla y Meta",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-se-recuperan-tras-resultados-de-empresas-tecnologicas-se-esperan-informes-de-tesla-y-meta/",
+        "resumen": "La atención de los participantes del mercado está centrada en los resultados trimestrales de Meta Platforms y Tesla, previstos para más tarde en el día.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas se recuperan tras resultados de empresas tecnológicas: se esperan informes de Tesla y Meta",
+        "capturado": "2026-10-21T08:07:01-05:00"
+      },
       {
         "titulo": "Findeter abre línea de crédito por $243.531 millones para la recuperación de zonas afectadas por emergencias",
         "url": "https://www.valoraanalitik.com/findeter-lanza-linea-de-credito-por-243-531-millones-para-recuperar-territorios-afectados-por-emergencias-en-colombia/",
@@ -563,49 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Bogotá vuelve al mercado de capitales: emitirá bonos hasta por $1,5 billones para financiar proyectos",
         "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "En vivo | Senado y Cámara debaten contra el tiempo el Presupuesto de 2027 en plenarias",
-        "url": "https://www.valoraanalitik.com/en-vivo-plenarias-de-senado-y-camara-votan-a-contrarreloj-el-presupuesto-de-2027/",
-        "resumen": "El trámite debe surtirse con urgencia dado que mañana, martes 20 de octubre, vence el plazo constitucional y legal de aprobación.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "En vivo | Plenarias de Senado y Cámara votan a contrarreloj el Presupuesto de 2027",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Airbus calcula una necesidad de 2.720 aviones comerciales nuevos en América Latina",
-        "url": "https://www.valoraanalitik.com/airbus-2720-aviones-america-latina/",
-        "resumen": "El tráfico aéreo en la región crecería 3,7 % al año durante dos décadas. Colombia estaría entre los países con mayor aumento de viajes por persona.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Airbus prevé una demanda de 2.720 nuevos aviones de pasajeros en América Latina",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "De la Espriella anularía decretos de Petro sobre trabajo doméstico y tercerización laboral",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-tumbaria-nuevos-decretos-de-petro-sobre-tercerizacion-laboral-y-trabajo-domestico/",
-        "resumen": "Gobierno De la Espriella propone derogar más decretos del gobierno de Gustavo Petro.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella tumbaría nuevos decretos de Petro sobre tercerización laboral y trabajo doméstico",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Ahora | PIB de Colombia bajó 0,04 % en agosto de 2026 por el agro y la industria",
-        "url": "https://www.valoraanalitik.com/ahora-economia-de-colombia-cayo-004-en-agosto-de-2026-arrastrada-por-el-sector-primario-e-industrial/",
-        "resumen": "En el año corrido (enero-agosto), la actividad económica acumula una variación positiva del 2,27 %, de acuerdo con el ISE del DANE.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Economía de Colombia cayó 0,04 % en agosto de 2026 arrastrada por el sector primario e industrial",
-        "capturado": "2026-10-19T12:40:44-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "MinHacienda solicita adición de 1,2 billones de pesos al Presupuesto 2026 para subsidios energéticos",
+        "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-pide-adicionar-12-billones-al-presupuesto-para-subsidios-de-energia/",
+        "resumen": "Para el ministro, el sector energético requiere de inversiones grandes, estabilidad en las reglas de juego y políticas a largo plazo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ministerio de Hacienda pide adicionar $1,2 billones al Presupuesto de 2026 para subsidios de energía",
+        "capturado": "2026-10-21T08:07:01-05:00"
+      },
+      {
+        "titulo": "ProAntioquia pretende expandir Obras por Impuestos a más zonas y alista iniciativas para 2027",
+        "url": "https://www.valoraanalitik.com/proantioquia-busca-ampliar-obras-por-impuestos-a-otras-regiones-y-prepara-proyectos-para-2027/",
+        "resumen": "La organización acompaña actualmente la estructuración de proyectos que se presentarán para la próxima vigencia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ProAntioquia busca ampliar Obras por Impuestos a otras regiones y prepara proyectos para 2027",
+        "capturado": "2026-10-21T08:07:01-05:00"
+      },
+      {
+        "titulo": "Premercado | Mercados repuntan por reportes tecnológicos; aguardan informes de Tesla y Meta",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-se-recuperan-tras-resultados-de-empresas-tecnologicas-se-esperan-informes-de-tesla-y-meta/",
+        "resumen": "La atención de los participantes del mercado está centrada en los resultados trimestrales de Meta Platforms y Tesla, previstos para más tarde en el día.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas se recuperan tras resultados de empresas tecnológicas: se esperan informes de Tesla y Meta",
+        "capturado": "2026-10-21T08:07:01-05:00"
+      },
       {
         "titulo": "Findeter abre línea de crédito por $243.531 millones para la recuperación de zonas en emergencia",
         "url": "https://www.valoraanalitik.com/findeter-lanza-linea-de-credito-por-243-531-millones-para-recuperar-territorios-afectados-por-emergencias-en-colombia/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Inician las obras para el mejoramiento de la vía Amalfi – Chorritos que beneficiará a más de 28.000 personas en Antioquia",
         "capturado": "2026-10-16T17:42:23-05:00"
-      },
-      {
-        "titulo": "Dirigente de Andeg advierte sobre los problemas de las plantas térmicas para asegurar el suministro de energía",
-        "url": "https://www.valoraanalitik.com/presidente-de-andeg-alerta-sobre-las-dificultades-de-las-termicas-para-garantizar-la-generacion-electrica/",
-        "resumen": "También expresó que Colombia tiene reservas de carbón para más de 100 años, pero que la minería fue golpeada por decisiones tomadas en los últimos años.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Presidente de Andeg alerta sobre las dificultades de las térmicas para garantizar la generación eléctrica",
-        "capturado": "2026-10-16T14:39:22-05:00"
-      },
-      {
-        "titulo": "SuperSociedades decreta la liquidación de la cadena de hamburguesas Presto tras su quiebra",
-        "url": "https://www.valoraanalitik.com/presto-va-a-la-quiebra-supersociedades/",
-        "resumen": "La compañía no logró cumplir con su proceso de reorganización, en el que se reportaron pasivos por $31.000 millones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presto va a la quiebra: SuperSociedades ordena liquidar la tradicional cadena de hamburguesas en Colombia",
-        "capturado": "2026-10-16T14:39:22-05:00"
-      },
-      {
-        "titulo": "Grupo Aval trepó con fuerza en el top 50 de Merco Empresas 2026 y Porvenir destacó en los ingresos",
-        "url": "https://www.valoraanalitik.com/grupo-aval-la-compania-que-mas-escalo-en-top-50-de-ranking-merco-empresas-2026-porvenir-lidero-entre-nuevos-ingresos/",
-        "resumen": "Su evolución también resulta significativa por su presencia en distintos segmentos del sector financiero colombiano.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Aval, la compañía que más escaló en top 50 de ranking Merco Empresas 2026; Porvenir lideró entre nuevos ingresos",
-        "capturado": "2026-10-16T14:39:22-05:00"
       }
     ]
   }
