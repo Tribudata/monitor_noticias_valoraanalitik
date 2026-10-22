@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-22T11:57:16-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-22T15:29:06-05:00",
+  "nuevos_en_esta_corrida": 22,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Michel Janna será el nuevo delegado colombiano ante el FMI en Washington",
+        "url": "https://www.valoraanalitik.com/michel-janna-asumira-como-nuevo-representante-de-colombia-ante-el-fmi-en-washington/",
+        "resumen": "Janna actuará como enlace técnico con las autoridades nacionales y participará en las decisiones estratégicas del organismo multilateral.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Michel Janna asumirá como nuevo representante de Colombia ante el FMI en Washington",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Microfinancieras participan en discusión para modificar la tasa de usura en el país: esta es su iniciativa",
+        "url": "https://www.valoraanalitik.com/microcredito-debate-usura-colombia/",
+        "resumen": "Asomicrofinanzas participa en mesas con el regulador y propone corregir la metodología de la tasa y focalizar las soluciones de inclusión financiera.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Entidades de microcrédito se suman a debate para cambiar la tasa de usura en Colombia: esta es su propuesta",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Procuraduría solicita al Tribunal de Santander evitar medida cautelar sobre Santurbán previo a marzo de 2027",
+        "url": "https://www.valoraanalitik.com/procuraduria-pide-al-tribunal-de-santander-no-decretar-medida-cautelar-sobre-santurban-antes-de-marzo-de-2027/",
+        "resumen": "Asomineros manifestó que espera que las decisiones sobre Santurbán se tomen con base en lineamientos técnicos y jurídicos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Procuraduría pide al Tribunal de Santander no decretar medida cautelar sobre Santurbán antes de marzo de 2027",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Estados Unidos cancela visa a Ricardo Roa y a otros seis colombianos por dichos motivos",
+        "url": "https://www.valoraanalitik.com/ee-uu-revoca-visa-a-ricardo-roa-y-otros-seis-colombianos-por-estas-razones/",
+        "resumen": "La decisión fue comunicada por el Departamento de Estado y se fundamenta en disposiciones de la legislación migratoria estadounidense.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "EE.UU. revoca visa a Ricardo Roa y otros seis colombianos por estas razones",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Leyes de Rescate, Sometimiento y Estatuto Antiterrorista: los desafíos de Alejandro Ordóñez como jefe de la cartera política",
+        "url": "https://www.valoraanalitik.com/leyes-de-rescate-sometimiento-y-estatuto-antiterrorista-los-retos-de-alejandro-ordonez-como-mininterior/",
+        "resumen": "¿Podrá Alejandro Ordóñez construir mayorías en el Congreso para sacar adelante la agenda del Gobierno?",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Leyes de Rescate, Sometimiento y Estatuto Antiterrorista: los retos de Alejandro Ordóñez como MinInterior",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio baja a $3.174 y crudo trepa de US$112 por conflicto armado",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-y-cierra-en-3-174-mientras-el-petroleo-supera-los-us112-por-tensiones-militares/",
+        "resumen": "La divisa abrió a la subida en $3.193 y marcó un máximo de $3.197,75 durante los primeros minutos de negociación.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia retrocede y cierra en $3.174 mientras el petróleo supera los US$112 por tensiones militares",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Ejecutivo retomará cobro en peaje de Palmas y evalúa obras viales en Antioquia",
+        "url": "https://www.valoraanalitik.com/gobierno-reactivara-cobro-de-peaje-de-palmas-y-revisa-financiacion-de-obras-viales-en-el-oriente-antioqueno/",
+        "resumen": "Invías plantea dos alternativas para financiar obras viales en el Oriente antioqueño.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno reactivará cobro de peaje de Palmas y revisa financiación de obras viales en el Oriente antioqueño",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Retos microfinancieros en el país: productividad, inteligencia artificial y adultos mayores",
+        "url": "https://www.valoraanalitik.com/ejes-sector-microfinanciero-colombia-2026/",
+        "resumen": "María Clara Hoyos destacó que el microcrédito cerró 2025 con un crecimiento real de cartera de 8,5 %, el mayor en más de siete años.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Los ejes del sector microfinanciero en Colombia para los próximos años: productividad, IA y economía plateada",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Consumo familiar aguanta en septiembre, aunque muestra desaceleración y genera alarmas",
+        "url": "https://www.valoraanalitik.com/gasto-de-los-hogares-resiste-en-septiembre-pero-confirma-la-moderacion-y-enciende-alertas/",
+        "resumen": "De acuerdo con Raddar, aunque el consumo logró sostenerse en terreno positivo, persisten claras señales de moderación y agotamiento.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Gasto de los hogares resiste en septiembre, pero confirma la moderación y enciende alertas",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Entrevista | Expo Agrofuturo 2026 enfoca sus esfuerzos en emprendimientos y tecnología rural",
+        "url": "https://www.valoraanalitik.com/expo-agrofuturo-corferias-entrevista-2026/",
+        "resumen": "Más de 70 startups, salones de conocimiento y el primer encuentro internacional de plazas de mercado hacen parte de la feria, que va hasta el 23 de octubre.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Expo Agrofuturo 2026 apuesta por startups y tecnificación del agro",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Armando José Cuello, exviceministro de Energía, asume como vicepresidente de Energías para la Transición",
+        "url": "https://www.valoraanalitik.com/exviceministro-de-energia-llega-a-ecopetrol-armando-jose-cuello-sera-vicepresidente-de-energias-para-la-transicion/",
+        "resumen": "El exfuncionario cuenta además con experiencia en compañías como Promigas y algunas de sus filiales.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Exviceministro de Energía llega a Ecopetrol: Armando José Cuello será vicepresidente de Energías para la Transición",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella radicará Ley de Rescate Fiscal la próxima semana y expone ejes del Plan",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-presentara-ley-de-rescate-fiscal-la-proxima-semana-revela-ejes-del-plan-de-desarrollo/",
+        "resumen": "Se prevé que el gobierno haga grandes recortes y de esa manera, disminuya la brecha entre ingresos y gastos.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella presentará Ley de Rescate Fiscal la próxima semana; revela ejes del Plan de Desarrollo",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
       {
         "titulo": "Premercado | Bolsas bajan por incertidumbre en retornos de IA y Brent pasa de 110 dólares",
         "url": "https://www.valoraanalitik.com/premercado-mercados-retroceden-por-dudas-sobre-la-rentabilidad-de-inversiones-en-ia-brent-supera-los-us110/",
@@ -483,129 +603,109 @@
         "publicacion": "",
         "titulo_fuente": "Gremio del carbón solicitó eliminar penalización por consumo de energía en su industria",
         "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "El banco alemán KfW otorga 200 millones de euros a Colombia para el Presupuesto de 2026",
-        "url": "https://www.valoraanalitik.com/colombia-asegura-200-millones-de-euros-con-el-banco-aleman-kfw-para-financiar-el-presupuesto-de-2026/",
-        "resumen": "El contrato de crédito externo fortalecerá las finanzas públicas, diversificará las fuentes de endeudamiento, según el MinHacienda.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Colombia asegura 200 millones de euros con el banco alemán KfW para financiar el Presupuesto de 2026",
-        "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "Colombia se reincorpora al Grupo Egmont, fundamental para la inteligencia financiera global",
-        "url": "https://www.valoraanalitik.com/colombia-vuelve-a-ingresar-al-grupo-egmont-clave-para-la-inteligencia-financiera-en-el-mundo/",
-        "resumen": "El Grupo Egmont es una red que reúne unidades de inteligencia financiera de diferentes países y jurisdicciones para facilitar el intercambio de información.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Colombia vuelve a ingresar al Grupo Egmont, clave para la inteligencia financiera en el mundo",
-        "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "Medellín progresa en modificación del POT con modificaciones en vivienda, turismo y renovación urbana",
-        "url": "https://www.valoraanalitik.com/medellin-avanza-en-reforma-al-pot-con-cambios-en-vivienda-turismo-y-renovacion-urbana/",
-        "resumen": "Uno de los puntos más debatidos de la propuesta es la regulación de las viviendas turísticas.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Medellín avanza en reforma al POT con cambios en vivienda, turismo y renovación urbana",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Presto busca comprador y SuperSociedades frena disolución por veinte días hábiles",
-        "url": "https://www.valoraanalitik.com/presto-busca-comprador-supersociedades-suspende-liquidacion-por-20-dias-habiles/",
-        "resumen": "La cadena de hamburguesas busca preservar la operación para facilitar su venta. Registra deudas superiores a $45.000 millones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presto busca comprador: SuperSociedades suspende liquidación por 20 días hábiles",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Megaproyecto solar en Santander obtendrá crédito de hasta 200.000 millones y cuándo operará",
-        "url": "https://www.valoraanalitik.com/megaproyecto-solar-en-santander-recibira-financiacion-de-hasta-200-000-millones-cuando-entrara-en-operacion/",
-        "resumen": "La expansión de las energías limpias suma un nuevo megaproyecto solar en Santander, con potencial para ampliar la generación eléctrica de Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Megaproyecto solar en Santander recibirá financiación de hasta $200.000 millones: ¿Cuándo entrará en operación?",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Citi pronostica desaceleración del PIB colombiano al 1,8 % para 2027 por reforma fiscal",
-        "url": "https://www.valoraanalitik.com/citi-proyecta-una-desaceleracion-de-la-economia-de-colombia-al-18-en-2027-tras-el-ajuste-fiscal/",
-        "resumen": "Pese al menor crecimiento en el corto plazo, la firma destacó las fortalezas históricas del país y una inflación que cederá gradualmente al 4,7 %.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Citi proyecta una desaceleración de la economía de Colombia al 1,8 % en 2027 tras el ajuste fiscal",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia supera la baja y finaliza en 3.174 pesos tras aval al Presupuesto de 2027",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-deja-atras-su-tendencia-bajista-y-cierra-en-3-174-tras-aprobacion-del-presupuesto-para-2027/",
-        "resumen": "La divisa arrancó con sesgo bajista en $3.145 y acentuó su caída hasta registrar un mínimo intradiario de $3.130.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia deja atrás su tendencia bajista y cierra en $3.174 tras aprobación del Presupuesto para 2027",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Importante | Gobierno De la Espriella planea drástica modificación a multas viales y cesarían cobros así",
-        "url": "https://www.valoraanalitik.com/relevante-gobierno-de-la-espriella-busca-radical-cambio-a-multas-de-transito-en-colombia-se-acabarian-los-cobros-en-estos-casos/",
-        "resumen": "El anuncio lo entregó la ministra de Transporte del gobierno De la Espriella: Las multas de tránsito en Colombia cambiarían sustancialmente.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Gobierno De la Espriella busca radical cambio a multas de tránsito en Colombia: Se acabarían los cobros en estos casos",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Pactos colectivos en Colombia: impacto empresarial y laboral si Gobierno De la Espriella tumba decreto",
-        "url": "https://www.valoraanalitik.com/pactos-colectivos-en-colombia-que-cambiaria-para-las-empresas-y-los-trabajadores-si-gobierno-de-la-espriella-deroga-el-decreto-laboral/",
-        "resumen": "Los pactos colectivos en Colombia podrían cambiar: empresas y trabajadores deben conocer qué pasará con los controles del Ministerio del Trabajo.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Pactos colectivos en Colombia: qué cambiaría para las empresas y los trabajadores si Gobierno De la Espriella deroga el decreto laboral",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Grupo Sura ejecutó 6 por ciento de recompra de acciones y valora su crecimiento post escisión Argos",
-        "url": "https://www.valoraanalitik.com/grupo-sura-ya-ejecuto-6-del-programa-de-recompra-de-acciones-asi-ha-crecido-su-valor-tras-la-escision-con-grupo-argos/",
-        "resumen": "El holding financiero comenzó el pasado 5 de octubre su programa de readquisición, el cual irá hasta marzo de 2028.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Sura ya ejecutó 6 % del programa de recompra de acciones; así ha crecido su valor tras la escisión con Grupo Argos",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Inversión inmobiliaria avanza hacia Dubái con recuperación de precios y vigencia de oportunidades",
-        "url": "https://www.valoraanalitik.com/asi-se-esta-moviendo-inversion-inmobiliaria-hacia-dubai-precios-recuperan-terreno/",
-        "resumen": "En Dubái, más del 70 % de las ventas del sector suele ser de proyectos sobre planos, de acuerdo con datos de la industria.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Así se está moviendo la inversión inmobiliaria hacia Dubái; precios recuperan terreno y siguen las oportunidades",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Asignación del Presupuesto 2027: cae servicio de deuda y sube inversión",
-        "url": "https://www.valoraanalitik.com/asi-se-distribuira-el-presupuesto-2027-baja-el-pago-de-deuda-y-aumenta-inversion/",
-        "resumen": "Deuda, educación y salud se quedan con la mayor ttajada de los $634,9 billones.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Así se distribuirá el Presupuesto 2027: baja el pago de deuda y aumenta inversión",
-        "capturado": "2026-10-20T11:51:32-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Microfinancieras participan en discusión para modificar la tasa de usura en Colombia y exponen plan",
+        "url": "https://www.valoraanalitik.com/microcredito-debate-usura-colombia/",
+        "resumen": "Asomicrofinanzas participa en mesas con el regulador y propone corregir la metodología de la tasa y focalizar las soluciones de inclusión financiera.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Entidades de microcrédito se suman a debate para cambiar la tasa de usura en Colombia: esta es su propuesta",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Procuraduría solicita a Tribunal de Santander evitar medida cautelar sobre Santurbán previo a marzo 2027",
+        "url": "https://www.valoraanalitik.com/procuraduria-pide-al-tribunal-de-santander-no-decretar-medida-cautelar-sobre-santurban-antes-de-marzo-de-2027/",
+        "resumen": "Asomineros manifestó que espera que las decisiones sobre Santurbán se tomen con base en lineamientos técnicos y jurídicos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Procuraduría pide al Tribunal de Santander no decretar medida cautelar sobre Santurbán antes de marzo de 2027",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Productividad, inteligencia artificial y economía plateada son los enfoques microfinancieros en el país",
+        "url": "https://www.valoraanalitik.com/ejes-sector-microfinanciero-colombia-2026/",
+        "resumen": "María Clara Hoyos destacó que el microcrédito cerró 2025 con un crecimiento real de cartera de 8,5 %, el mayor en más de siete años.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Los ejes del sector microfinanciero en Colombia para los próximos años: productividad, IA y economía plateada",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Clínica de Oftalmología Sandiego dona 84 millones de pesos a Adopta un Hogar de Grupo Argos",
+        "url": "https://www.valoraanalitik.com/clinica-de-oftalmologia-sandiego-se-suma-a-adopta-un-hogar-de-grupo-argos-con-aporte-de-84-millones/",
+        "resumen": "Médicos y colaboradores de la institución aportaron $42 millones y la Clínica duplicó esa cifra con otros $42 millones.",
+        "autor": "",
+        "subseccion": "Adopta un hogar",
+        "publicacion": "",
+        "titulo_fuente": "Clínica de Oftalmología Sandiego se suma a Adopta un Hogar, de Grupo Argos, con aporte de $84 millones",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Arrancó el trigésimo sexto Congreso Asocajas con debate entre directivos, gremio y Gobierno sobre metas",
+        "url": "https://www.valoraanalitik.com/inicio-36-congreso-asocajas-lideres-gremio-y-gobierno-hablan-de-prioridades/",
+        "resumen": "La presidenta del gremio advirtió que la Cajas de Compensación necesitan autonomía para responder a las necesidades específicas de cada territorio.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inició 36° Congreso Asocajas: líderes, gremio y Gobierno hablan de prioridades",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Entrevista: Expo Agrofuturo 2026 enfoca esfuerzos en emprendimientos y tecnificación agrícola",
+        "url": "https://www.valoraanalitik.com/expo-agrofuturo-corferias-entrevista-2026/",
+        "resumen": "Más de 70 startups, salones de conocimiento y el primer encuentro internacional de plazas de mercado hacen parte de la feria, que va hasta el 23 de octubre.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Expo Agrofuturo 2026 apuesta por startups y tecnificación del agro",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Expl-AI-n 2026 congregará en Medellín a directivos de Walmart, Google y Nvidia para tratar sobre IA",
+        "url": "https://www.valoraanalitik.com/expl-ai-n-2026-reunira-en-medellin-a-lideres-de-walmart-google-y-nvidia-para-hablar-de-ia-y-su-utilidad/",
+        "resumen": "La agenda estará organizada en dos ejes temáticos: humanidad y eficiencia.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Expl-AI-n 2026 reunirá en Medellín a líderes de Walmart, Google y Nvidia para hablar de IA y su utilidad",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella radicará Ley de Rescate Fiscal la próxima semana y expone bases del Plan",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-presentara-ley-de-rescate-fiscal-la-proxima-semana-revela-ejes-del-plan-de-desarrollo/",
+        "resumen": "Se prevé que el gobierno haga grandes recortes y de esa manera, disminuya la brecha entre ingresos y gastos.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella presentará Ley de Rescate Fiscal la próxima semana; revela ejes del Plan de Desarrollo",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Antioquia, Cundinamarca y Valle del Cauca concentran la demanda de gas licuado en el país",
+        "url": "https://www.valoraanalitik.com/antioquia-cundinamarca-y-valle-del-cauca-concentran-el-consumo-de-gas-licuado-de-petroleo-en-colombia/",
+        "resumen": "Seis regiones del país concentran 56 % del consumo de este energético.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Antioquia, Cundinamarca y Valle del Cauca concentran el consumo de gas licuado de petróleo en Colombia",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
+      {
+        "titulo": "Cronograma de informes financieros de emisores en la Bolsa de Colombia para el tercer trimestre de 2026",
+        "url": "https://www.valoraanalitik.com/calendario-resultados-tercer-trimestre-2026/",
+        "resumen": "Las primeras compañías comenzarán a reportar la primera semana de noviembre y se extenderá a lo largo del mes.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Calendario de resultados financieros de los emisores en Bolsa de Colombia para el tercer trimestre de 2026",
+        "capturado": "2026-10-22T15:29:06-05:00"
+      },
       {
         "titulo": "Camacol sugiere estrategia urgente por descenso en comercialización de casas con iniciativas de 98 billones",
         "url": "https://www.valoraanalitik.com/camacol-propone-plan-de-choque-ante-caida-en-ventas-de-viviendas-plantea-proyectos-por-98-billones/",
@@ -1105,106 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Marco Rubio viajará a India para fortalecer la cooperación energética; el país asiático busca diversificar sus fuentes",
         "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Opción para que empresas y ciudadanos recorten gastos de energía y consigan autonomía",
-        "url": "https://www.valoraanalitik.com/alternativa-para-que-personas-y-empresas-reduzcan-costos-de-energia-y-logren-independencia-energetica/",
-        "resumen": "Este mecanismo puede representar ahorros estimados entre un 20 % y 35 % en la factura total de energía.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Alternativa para que personas y empresas reduzcan costos de energía y logren independencia energética",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Modificaciones de De la Espriella al régimen laboral para 'apps', comunicadores y acosados",
-        "url": "https://www.valoraanalitik.com/asi-cambiaria-de-la-espriella-las-reglas-laborales-para-repartidores-de-apps-periodistas-y-victimas-de-acoso/",
-        "resumen": "Cambios en la cotización a pensión de los repartidores, ajustes a las condiciones laborales de los periodistas y nuevas reglas para atender denuncias de acoso.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Así cambiaría De la Espriella las reglas laborales para repartidores de ‘apps’, periodistas y víctimas de acoso",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Claro recibió distinción como la red móvil con mayor velocidad y cobertura en Colombia",
-        "url": "https://www.valoraanalitik.com/claro-fue-reconocida-como-la-red-movil-mas-rapida-y-de-mejor-cobertura-de-colombia/",
-        "resumen": "Claro cuenta hoy con cobertura 4G en el 100 % de las cabeceras municipales y el despliegue de la red 5G en más de 100 ciudades y municipios.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Claro fue reconocida como la red móvil más rápida y de mejor cobertura de Colombia",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Airbus calcula que América Latina requerirá 2720 aeronaves de pasajeros nuevas",
-        "url": "https://www.valoraanalitik.com/airbus-2720-aviones-america-latina/",
-        "resumen": "El tráfico aéreo en la región crecería 3,7 % al año durante dos décadas. Colombia estaría entre los países con mayor aumento de viajes por persona.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Airbus prevé una demanda de 2.720 nuevos aviones de pasajeros en América Latina",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "De la Espriella anularía los recientes decretos petristas de tercerización y empleo doméstico",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-tumbaria-nuevos-decretos-de-petro-sobre-tercerizacion-laboral-y-trabajo-domestico/",
-        "resumen": "Gobierno De la Espriella propone derogar más decretos del gobierno de Gustavo Petro.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella tumbaría nuevos decretos de Petro sobre tercerización laboral y trabajo doméstico",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Sugieren no poner luces navideñas en Colombia debido a la crisis energética y El Niño",
-        "url": "https://www.valoraanalitik.com/proponen-no-instalar-alumbrados-de-navidad-en-colombia-por-crisis-de-energia-y-fenomeno-de-el-nino/",
-        "resumen": "Entre los argumentos expuestos están el riesgo de apagón y el impacto que tendría el fenómeno de El Niño en 2026 sobre el sector energético.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Proponen no instalar alumbrados de Navidad en Colombia por crisis de energía y fenómeno de El Niño",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Corficolombiana sugiere que el alza ideal para el sueldo básico de 2027 llegue al 8 por ciento",
-        "url": "https://www.valoraanalitik.com/corficolombiana-pone-sobre-la-mesa-que-el-incremento-deseable-para-el-salario-minimo-de-2027-sea-de-8/",
-        "resumen": "La corporación señaló que cálculos del CARF estimaron que el aumento de 23 % del salario mínimo elevaría el déficit fiscal en cerca de $5,3 billones en 2026.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Corficolombiana pone sobre la mesa que el incremento deseable para el salario mínimo de 2027 sea de 8 %",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Ecopetrol declara desierto el concurso para adquirir gas importado destinado al Pacífico y Puerto Bahía",
-        "url": "https://www.valoraanalitik.com/ecopetrol-declara-desierto-proceso-de-compra-de-gas-importado-para-regasificadoras-del-pacifico-y-puerto-bahia/",
-        "resumen": "La empresa añadió que durante esta administración Petro hubo un declive en la industria por la falta de exploración de nuevos campos.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol declara desierto proceso de compra de gas importado para regasificadoras del Pacífico y Puerto Bahía",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Entrevista | Asocajas afirma que las Cajas de Compensación Familiar son un gran patrimonio social patrio",
-        "url": "https://www.valoraanalitik.com/entrevista-las-cajas-de-compensacion-familiar-son-uno-de-los-principales-patrimonios-sociales-de-colombia-asocajas/",
-        "resumen": "La presidenta de Asocajas destaca la contribución del Sistema al bienestar de familias y oportunidades para fortalecer su papel frente a transformaciones.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Las Cajas de Compensación Familiar son uno de los principales patrimonios sociales de Colombia: Asocajas",
-        "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Latam y ALTA advierten sobre restricciones en el Aeropuerto El Dorado y congestión aérea regional",
-        "url": "https://www.valoraanalitik.com/latam-alta-limites-aeropuerto-el-dorado/",
-        "resumen": "Las obras previstas en El Dorado complicarán su operación en los próximos meses; ALTA pide planes aeroportuarios de largo plazo.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Latam y ALTA alertan por las limitaciones del Aeropuerto El Dorado y la congestión aérea en la región",
-        "capturado": "2026-10-19T12:40:44-05:00"
       }
     ]
   }
