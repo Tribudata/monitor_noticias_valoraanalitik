@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-21T16:55:01-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-10-21T19:32:00-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Marco Fidel Acosta asume la presidencia del Fondo Nacional del Ahorro por designación del Ejecutivo",
+        "url": "https://www.valoraanalitik.com/gobierno-nombro-a-marco-fidel-acosta-como-nuevo-presidente-del-fondo-nacional-del-ahorro/",
+        "resumen": "Marco Fidel Acosta, exconcejal de Bogotá y fundador de Colombia Justa Libres, fue nombrado nuevo presidente del Fondo Nacional del Ahorro.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno nombró a Marco Fidel Acosta como nuevo presidente del Fondo Nacional del Ahorro",
+        "capturado": "2026-10-21T19:32:00-05:00"
+      },
+      {
+        "titulo": "José Ignacio García es nombrado superintendente de Servicios Públicos por la administración De la Espriella",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-designa-a-jose-ignacio-garcia-como-nuevo-superintendente-de-servicios-publicos/",
+        "resumen": "El Gobierno nombró a José Ignacio García Puche como nuevo superintendente de Servicios Públicos, cargo desde el que enfrentará retos energéticos y climáticos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella designa a José Ignacio García como nuevo superintendente de Servicios Públicos",
+        "capturado": "2026-10-21T19:32:00-05:00"
+      },
+      {
+        "titulo": "Nueva herramienta de Clara permite a compañías colombianas recortar gastos anuales sobre $50 millones",
+        "url": "https://www.valoraanalitik.com/empresas-ahorros-solucion-clara/",
+        "resumen": "La fintech lanzó Clara for HR, para centralizar la gestión de beneficios, incentivos y compensación de los trabajadores.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Empresas en Colombia podrán ahorrar más de $50 millones al año con nueva solución de Clara",
+        "capturado": "2026-10-21T19:32:00-05:00"
+      },
+      {
+        "titulo": "Juez precisa requisitos probatorios para empleados sin contrato que exigen salarios y prestaciones",
+        "url": "https://www.valoraanalitik.com/tribunal-aclara-que-debe-probar-un-trabajador-para-reclamar-salarios-prestaciones-e-indemnizaciones-aunque-no-haya-firmado-contrato/",
+        "resumen": "Trabajar sin contrato firmado no le quita sus derechos, pero hay pruebas clave que pueden definir si deben pagarle salarios, prestaciones e indemnizaciones.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Tribunal aclara qué debe probar un trabajador para reclamar salarios, prestaciones e indemnizaciones aunque no haya firmado contrato",
+        "capturado": "2026-10-21T19:32:00-05:00"
+      },
+      {
+        "titulo": "Falla en el reembolso de cotizaciones pensionales en Colombia que pondría en riesgo su jubilación",
+        "url": "https://www.valoraanalitik.com/devolucion-de-aportes-pensionales-en-colombia-el-error-que-podria-costarle-su-pension/",
+        "resumen": "La devolución de aportes pensionales puede parecer una salida rápida, pero revisar semanas, pagos y derechos pendientes podría cambiar su decisión.",
+        "autor": "",
+        "subseccion": "Uncategorized",
+        "publicacion": "",
+        "titulo_fuente": "Devolución de aportes pensionales en Colombia: el error que podría costarle su pensión",
+        "capturado": "2026-10-21T19:32:00-05:00"
+      },
       {
         "titulo": "BBVA Spark entrega $37.450 millones a la fintech Bold para financiar créditos a establecimientos",
         "url": "https://www.valoraanalitik.com/fintech-bold-obtiene-credito-bbva-spark/",
@@ -553,59 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Dólar en Colombia arranca al alza tras la aprobación del presupuesto y con el petróleo en máximos de cinco meses",
         "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Andrés Conesa liderará el comité ejecutivo de ALTA como nuevo presidente",
-        "url": "https://www.valoraanalitik.com/ceo-aeromexico-presidencia-comite-ejecutivo-alta/",
-        "resumen": "El economista fue elegido durante el ALTA AGM & Airline Leaders Forum 2026, que se realiza en Ciudad de México.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Andrés Conesa, CEO de Aeroméxico, asume la presidencia del comité ejecutivo de ALTA",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Fenómeno de El Niño alcanza nivel muy fuerte con temperaturas atípicas en el Pacífico",
-        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-ya-es-muy-fuerte-se-estan-registrando-temperaturas-excepcionales-en-el-pacifico/",
-        "resumen": "La vulnerabilidad del mercado colombiano se refleja en que 72 % de la agricultura depende del agua de lluvia.",
-        "autor": "",
-        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
-        "publicacion": "",
-        "titulo_fuente": "Fenómeno de El Niño ya es «muy fuerte»; se están registrando temperaturas excepcionales en el Pacífico",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "PazdelRío solicita conservar arancel del 35 por ciento al alambrón de China y Rusia",
-        "url": "https://www.valoraanalitik.com/pazdelrio-pide-mantener-arancel-del-35-al-alambron-importado-de-china-y-rusia/",
-        "resumen": "La empresa advirtió que eliminar la protección arancelaria sin establecer una medida equivalente dejaría al mercado colombiano expuesto.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "PazdelRío pide mantener arancel del 35 % al alambrón importado de China y Rusia",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Premercado | Caen bolsas mundiales por dudas sobre IA y crudo escala ante temor de abastecimiento",
-        "url": "https://www.valoraanalitik.com/premercado-mercados-globales-caen-tras-incertidumbre-sobre-ia-y-petroleo-sube-por-riesgo-de-suministro/",
-        "resumen": "Mientras tanto, SpaceX y Netflix se encuentran entre los protagonistas de los resultados que se publicarán tras el cierre del mercado.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Mercados globales caen tras incertidumbre sobre IA y petróleo sube por riesgo de suministro",
-        "capturado": "2026-10-20T06:59:39-05:00"
-      },
-      {
-        "titulo": "Relevante | Congreso avaló el presupuesto del gobierno De la Espriella por 635 billones para 2027",
-        "url": "https://www.valoraanalitik.com/relevante-congreso-de-la-republica-aprobo-el-presupuesto-del-gobierno-de-la-espriella-por-635-billones-para-2027/",
-        "resumen": "El presupuesto se definió en la madrugada de este martes 20 de octubre.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Congreso de la República aprobó el presupuesto del gobierno De la Espriella por $635 billones para 2027",
-        "capturado": "2026-10-20T06:59:39-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Firmas con bienes por encima de esta cifra tendrán que tener revisor fiscal",
+        "url": "https://www.valoraanalitik.com/empresas-que-tengan-activos-que-superen-este-valor-deberan-hacer-revision-fiscal/",
+        "resumen": "En los últimos meses del calendario, las organizaciones pueden evaluar sus registros y soportes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Empresas que tengan activos que superen este valor deberán hacer revisión fiscal",
+        "capturado": "2026-10-21T19:32:00-05:00"
+      },
+      {
+        "titulo": "Compañías del país lograrán recortar gastos por más de $50 millones anuales con herramienta de Clara",
+        "url": "https://www.valoraanalitik.com/empresas-ahorros-solucion-clara/",
+        "resumen": "La fintech lanzó Clara for HR, para centralizar la gestión de beneficios, incentivos y compensación de los trabajadores.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Empresas en Colombia podrán ahorrar más de $50 millones al año con nueva solución de Clara",
+        "capturado": "2026-10-21T19:32:00-05:00"
+      },
+      {
+        "titulo": "Juzgado define qué debe demostrar un empleado para exigir pagos y compensaciones sin contrato escrito",
+        "url": "https://www.valoraanalitik.com/tribunal-aclara-que-debe-probar-un-trabajador-para-reclamar-salarios-prestaciones-e-indemnizaciones-aunque-no-haya-firmado-contrato/",
+        "resumen": "Trabajar sin contrato firmado no le quita sus derechos, pero hay pruebas clave que pueden definir si deben pagarle salarios, prestaciones e indemnizaciones.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Tribunal aclara qué debe probar un trabajador para reclamar salarios, prestaciones e indemnizaciones aunque no haya firmado contrato",
+        "capturado": "2026-10-21T19:32:00-05:00"
+      },
       {
         "titulo": "Merco 2026 ubica a Carlos Cavelier de Alquería como el directivo de mejor reputación en alimentos del país",
         "url": "https://www.valoraanalitik.com/carlos-cavelier-de-alqueria-fue-reconocido-como-el-lider-con-mejor-reputacion-en-la-industria-de-alimentos-en-colombia-segun-merco-2026/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | Scania Colombia creció 17 % y alista inversiones en talleres y vehículos eléctricos para 2027",
         "capturado": "2026-10-18T17:19:11-05:00"
-      },
-      {
-        "titulo": "Entrevista: Herbalife apunta a un crecimiento de dos dígitos a futuro y ve a Colombia como mercado clave",
-        "url": "https://www.valoraanalitik.com/entrevista-herbalife-busca-lograr-un-crecimiento-de-doble-digito-en-los-proximos-anos-colombia-es-uno-de-sus-mercados-clave/",
-        "resumen": "Colombia se consolida como uno de los mercados más importantes de Herbalife en Centro y Sudamérica, con más de 50.000 distribuidores independientes.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Herbalife busca crecer a doble dígito en los próximos años: Colombia es uno de sus mercados clave",
-        "capturado": "2026-10-18T12:11:28-05:00"
-      },
-      {
-        "titulo": "MinAgricultura confirma pacto con Grupo Éxito para recortar intermediarios y potenciar ventas rurales",
-        "url": "https://www.valoraanalitik.com/minagricultura-anuncia-alianza-con-grupo-exito-para-reducir-intermediarios-y-mejorar-ventas-del-campo/",
-        "resumen": "MinAgricultura y Grupo Éxito sellan alianza para impulsar ventas del campo por $1,2 billones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinAgricultura anuncia alianza con Grupo Éxito para reducir intermediarios y mejorar ventas del campo",
-        "capturado": "2026-10-18T12:11:28-05:00"
-      },
-      {
-        "titulo": "EDF de Francia, la gigante energética global que puso capital en Colombia",
-        "url": "https://www.valoraanalitik.com/edf-de-francia-una-de-las-empresas-energeticas-mas-grandes-del-mundo-que-invirtio-en-colombia/",
-        "resumen": "Raíssa Cafure Lafranque, CEO de la empresa en Colombia, reveló las razones detrás de la inversión en el país.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "EDF de Francia: una de las empresas energéticas más grandes del mundo que invirtió en Colombia",
-        "capturado": "2026-10-18T12:11:28-05:00"
       }
     ]
   }
