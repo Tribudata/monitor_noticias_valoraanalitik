@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-22T15:29:06-05:00",
-  "nuevos_en_esta_corrida": 22,
+  "actualizado": "2026-10-22T18:32:33-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Jorge Llano Salamanca asume como subsecretario técnico de Hacienda en Bogotá tras laborar en el AMV",
+        "url": "https://www.valoraanalitik.com/jorge-llano-salamanca-es-el-nuevo-subsecretario-tecnico-de-hacienda-de-bogota-tras-su-paso-por-el-amv/",
+        "resumen": "Jorge Llano Salamanca fue nombrado subsecretario técnico de Hacienda de Bogotá, tras una trayectoria en el sector financiero y entidades públicas.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Jorge Llano Salamanca es el nuevo subsecretario técnico de Hacienda de Bogotá tras su paso por el AMV",
+        "capturado": "2026-10-22T18:32:33-05:00"
+      },
+      {
+        "titulo": "Bogotá impulsa 60.000 auxilios habitacionales para dinamizar al gremio de la construcción",
+        "url": "https://www.valoraanalitik.com/bogota-apuesta-por-60-000-subsidios-de-vivienda-para-reactivar-el-sector-constructor/",
+        "resumen": "El alcalde indicó que la meta de su administración es alcanzar cerca de 60.000 subsidios asignados al finalizar el gobierno.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá apuesta por 60.000 subsidios de vivienda para reactivar el sector constructor",
+        "capturado": "2026-10-22T18:32:33-05:00"
+      },
+      {
+        "titulo": "Nuevo plan del Gobierno De la Espriella para generar empleo en estas regiones: estos ciudadanos podrán ser contratados fácilmente",
+        "url": "https://www.valoraanalitik.com/nuevo-plan-del-gobierno-de-la-espriella-para-generar-empleo-en-estas-regiones-estos-ciudadanos-podran-ser-contratados-facilmente/",
+        "resumen": "Estos son los ciudadanos que se pueden beneficiar y lo que se sabe del nuevo plan de empleo del Gobierno De la Espriella.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo plan del Gobierno De la Espriella para generar empleo en estas regiones: estos ciudadanos podrán ser contratados fácilmente",
+        "capturado": "2026-10-22T18:32:33-05:00"
+      },
+      {
+        "titulo": "BanRep advierte que el elevado déficit fiscal presiona la baja del dólar en el país y encarece los pasivos",
+        "url": "https://www.valoraanalitik.com/banrep-advierte-que-alto-deficit-fiscal-presiona-caida-del-dolar-en-colombia-y-encarece-la-deuda/",
+        "resumen": "Leonardo Villar señaló que el Gobierno se ha visto obligado a endeudarse para cubrir sus gastos, lo que ha provocado una entrada masiva de dólares.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "BanRep advierte que alto déficit fiscal presiona caída del dólar en Colombia y encarece la deuda",
+        "capturado": "2026-10-22T18:32:33-05:00"
+      },
+      {
+        "titulo": "Estos son los 7 ejes clave del Plan Nacional de Desarrollo del gobierno De la Espriella",
+        "url": "https://www.valoraanalitik.com/estos-son-los-7-ejes-clave-del-plan-nacional-de-desarrollo-del-gobierno-de-la-espriella/",
+        "resumen": "El Gobierno de Abelardo de la Espriella definió siete ejes para construir el Plan Nacional de Desarrollo 2026-2030. Conozca sus principales apuestas.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los 7 ejes clave del Plan Nacional de Desarrollo del gobierno De la Espriella",
+        "capturado": "2026-10-22T18:32:33-05:00"
+      },
+      {
+        "titulo": "A agosto, el desbalance fiscal colombiano alcanza el 4,5 % del PIB y reduce el margen para la meta anual",
+        "url": "https://www.valoraanalitik.com/deficit-fiscal-de-colombia-llega-al-45-del-pib-a-agosto-y-deja-un-estrecho-margen-para-cumplir-la-meta-anual/",
+        "resumen": "El indicador se ubicó por encima del 4,1 % reportado para la misma fecha en 2025 y superó el histórico para agosto de los últimos seis años.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Déficit fiscal de Colombia llega al 4,5 % del PIB a agosto y deja un estrecho margen para cumplir la meta anual",
+        "capturado": "2026-10-22T18:32:33-05:00"
+      },
+      {
+        "titulo": "La determinación sobre el gasto nacional de 2027 que aguardan los mercados con posible efecto económico",
+        "url": "https://www.valoraanalitik.com/presupuesto-de-colombia-para-2027-la-decision-que-ahora-espera-el-mercado-y-podria-impactar-la-economia/",
+        "resumen": "El presupuesto de Colombia para 2027 quedó en $634,9 billones tras una controversia legislativa. El mercado espera ajustes fiscales y claridad sobre la deuda.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto de Colombia para 2027: la decisión que ahora espera el mercado y podría impactar la economía",
+        "capturado": "2026-10-22T18:32:33-05:00"
+      },
       {
         "titulo": "Michel Janna será el nuevo delegado colombiano ante el FMI en Washington",
         "url": "https://www.valoraanalitik.com/michel-janna-asumira-como-nuevo-representante-de-colombia-ante-el-fmi-en-washington/",
@@ -533,79 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Estos fueron los campos que más le suministraron gas a Colombia en septiembre",
         "capturado": "2026-10-20T20:54:16-05:00"
-      },
-      {
-        "titulo": "Renault-Sofasa planea invertir US$150 millones para un nuevo carro en Colombia",
-        "url": "https://www.valoraanalitik.com/renault-sofasa-proyecta-inversion-de-us150-millones-para-fabricar-nuevo-vehiculo-en-colombia/",
-        "resumen": "Renault-Sofasa avanza en una inversión de hasta US$150 millones para fabricar un nuevo vehículo en Colombia y ampliar exportaciones a Latinoamérica.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Renault-Sofasa proyecta inversión de US$150 millones para fabricar nuevo vehículo en Colombia",
-        "capturado": "2026-10-20T20:54:16-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio ideal en Colombia se ubicaría entre $3.400 y $3.600, de acuerdo con expertos",
-        "url": "https://www.valoraanalitik.com/dolar-ideal-en-colombia-estaria-entre-3-400-y-3-600-segun-analistas/",
-        "resumen": "Los analistas hablan de una tasa de cambio en equilibrio ideal cuando no se causa un daño a los exportadores ni se ahoga la balanza comercial.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar ideal en Colombia estaría entre $3.400 y $3.600, según analistas",
-        "capturado": "2026-10-20T20:54:16-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella prepara nuevo decreto sobre tarifas diferenciales en peajes del Eje Cafetero",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-nuevo-decreto-de-tarifas-diferenciales-para-peajes-del-eje-cafetero/",
-        "resumen": "Elsa Noguera advirtió que el Estado no continuará subsidiando a sectores con capacidad económica.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella alista nuevo decreto de tarifas diferenciales para peajes del Eje Cafetero",
-        "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "Nuevas reglas del Gobierno colombiano sobre tercerización, acoso y plataformas cambiarían el trabajo",
-        "url": "https://www.valoraanalitik.com/asi-cambiarian-las-reglas-laborales-sobre-tercerizacion-acoso-y-plataformas-digitales-en-colombia-con-el-nuevo-gobierno/",
-        "resumen": "Diego Felipe Valdivieso, socio y líder de la Unidad de Derecho Laboral y Seguridad Social de Scola Abogados, analizó las implicaciones de los cambios.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Así cambiarían las reglas laborales sobre tercerización, acoso y plataformas digitales en Colombia con el nuevo Gobierno",
-        "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "Aprobados a última hora artículos del Presupuesto 2027 sobre TES, deuda pública y fondos de emergencia",
-        "url": "https://www.valoraanalitik.com/seguimiento-a-tes-gestion-de-deuda-publica-y-recursos-para-emergencias-entre-los-nuevos-articulos-que-se-aprobaron-en-el-presupuesto-de-2027/",
-        "resumen": "Durante el debate, el Congreso agregó cinco nuevos artículos al texto final de la norma que ahora pasa a sanción presidencial.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Seguimiento a TES, gestión de deuda pública y recursos para emergencias, entre los nuevos artículos que se aprobaron en el Presupuesto de 2027 a última hora",
-        "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "Empresas recibirán del Gobierno De la Espriella 25 % de un salario mínimo por cada nuevo empleado",
-        "url": "https://www.valoraanalitik.com/empleo-en-colombia-gobierno-de-de-la-espriella-dara-25-de-un-salario-minimo-por-cada-nuevo-trabajador/",
-        "resumen": "El Gobierno De la Espriella busca que más empresas contraten formalmente en un momento en que el desempleo volvió a subir en Colombia.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Empleo en Colombia: Gobierno De la Espriella dará 25 % de un salario mínimo por cada nuevo trabajador a estas empresas",
-        "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "Asociación carbonera pidió quitar la penalización al consumo energético dentro de su sector",
-        "url": "https://www.valoraanalitik.com/gremio-del-carbon-solicito-eliminar-penalizacion-por-consumo-de-energia-en-su-industria/",
-        "resumen": "Para la organización, se elevarían en 10 % los costos de producción, lo que afectaría la competitividad de las empresas de carbón térmico.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gremio del carbón solicitó eliminar penalización por consumo de energía en su industria",
-        "capturado": "2026-10-20T18:19:24-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Adecco entrega galardones para destacar a las compañías colombianas más creativas en talento humano",
+        "url": "https://www.valoraanalitik.com/adecco-lanza-premios-para-reconocer-a-las-empresas-mas-innovadoras-en-gestion-humana-en-colombia/",
+        "resumen": "Los Adecco Innovation Awards 2027 tendrán cuatro categorías y las inscripciones serán hasta febrero.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Adecco lanza premios para reconocer a las empresas más innovadoras en gestión humana en Colombia",
+        "capturado": "2026-10-22T18:32:33-05:00"
+      },
+      {
+        "titulo": "Tesorería de Envigado alcanza más de $11.532 millones en rendimientos financieros y baja un 99 % los costos bancarios",
+        "url": "https://www.valoraanalitik.com/tesoreria-de-envigado-supera-los-11-532-millones-en-rendimientos-financieros-y-reduce-en-99-gastos-bancarios/",
+        "resumen": "La hoja de ruta se ha centrado en dos propósitos complementarios: maximizar los rendimientos y disminuir los costos bancarios.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tesorería de Envigado supera los $11.532 millones en rendimientos financieros y reduce en 99 % gastos bancarios",
+        "capturado": "2026-10-22T18:32:33-05:00"
+      },
+      {
+        "titulo": "Bienestar laboral influye en el desempeño de las empresas según conclusiones de Sinergia Humana 2026",
+        "url": "https://www.valoraanalitik.com/bienestar-de-empleados-tiene-impacto-en-los-resultados-de-organizaciones-claves-que-deja-sinergia-humana-2026/",
+        "resumen": "La cultura organizacional y la conexión de los empleados con el propósito corporativo se han convertido en factores fundamentales para cumplir estrategias.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bienestar de empleados tiene impacto en los resultados de organizaciones: claves que deja Sinergia Humana 2026",
+        "capturado": "2026-10-22T18:32:33-05:00"
+      },
       {
         "titulo": "Microfinancieras participan en discusión para modificar la tasa de usura en Colombia y exponen plan",
         "url": "https://www.valoraanalitik.com/microcredito-debate-usura-colombia/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Exportaciones de café colombiano caen 13,8 % a septiembre por efectos del dólar y costos operativos",
         "capturado": "2026-10-20T01:26:25-05:00"
-      },
-      {
-        "titulo": "Asuntos centrales del agro regional a tratar en Expoagrofuturo 2026",
-        "url": "https://www.valoraanalitik.com/temas-que-marcan-la-agenda-del-agro-en-latinoamerica-y-se-discutiran-en-expoagrofuturo-2026/",
-        "resumen": "Bogotá recibe estas conversaciones con 19 años de trayectoria y una muestra comercial de más de 350 empresas expositoras de toda la cadena de valor.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Temas que marcan la agenda del agro en Latinoamérica y se discutirán en Expoagrofuturo 2026",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Expoagrofuturo 2026 reunirá innovación, capital y agricultura sostenible",
-        "url": "https://www.valoraanalitik.com/expoagrofuturo-2026-el-encuentro-donde-convergen-tecnologia-inversion-y-produccion-sostenible-para-el-agro/",
-        "resumen": "La feria reunirá a productores, empresarios e inversionistas en torno a la muestra comercial, el Ecosistema FIXA, AgroMatch, AgStar, entre otros.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Expoagrofuturo 2026: el encuentro donde convergen tecnología, inversión y producción sostenible para el agro",
-        "capturado": "2026-10-19T17:11:50-05:00"
-      },
-      {
-        "titulo": "Marco Rubio irá a India para afianzar alianza energética ante su búsqueda de diversificación",
-        "url": "https://www.valoraanalitik.com/marco-rubio-viajara-a-india-para-fortalecer-la-cooperacion-energetica-el-pais-asiatico-busca-diversificar-sus-fuentes/",
-        "resumen": "Tras la intervención estadounidense en Venezuela, barriles de crudo de ese país han llegado a puertos indios.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Marco Rubio viajará a India para fortalecer la cooperación energética; el país asiático busca diversificar sus fuentes",
-        "capturado": "2026-10-19T17:11:50-05:00"
       }
     ]
   }
