@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-22T00:54:20-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-22T06:31:10-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Premercado | Bolsas bajan por incertidumbre en retornos de IA y Brent pasa de 110 dólares",
+        "url": "https://www.valoraanalitik.com/premercado-mercados-retroceden-por-dudas-sobre-la-rentabilidad-de-inversiones-en-ia-brent-supera-los-us110/",
+        "resumen": "Los inversores cuestionan si el elevado gasto en centros de datos y capacidad informática puede generar rendimientos suficientes.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Mercados retroceden por dudas sobre la rentabilidad de inversiones en IA: Brent supera los US$110",
+        "capturado": "2026-10-22T06:31:10-05:00"
+      },
+      {
+        "titulo": "Reforma pensional se alista para afrontar fase decisiva hacia su implementación",
+        "url": "https://www.valoraanalitik.com/reforma-pensional-a-punto-de-enfrentar-paso-clave-para-su-puesta-en-marcha/",
+        "resumen": "La reforma pensional deberá entrar a operar desde abril del año entrante-",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Reforma pensional, a punto de enfrentar paso clave para su puesta en marcha",
+        "capturado": "2026-10-22T06:31:10-05:00"
+      },
       {
         "titulo": "Alerta | Rodrigo Lara sale del Ministerio del Interior en la administración De la Espriella y llega Alejandro Ordóñez",
         "url": "https://www.valoraanalitik.com/atencion-rodrigo-lara-no-es-mas-el-ministro-del-interior-del-gobierno-de-la-espriella-alejandro-ordonez-lo-reemplaza/",
@@ -582,26 +602,6 @@
         "subseccion": "Macroeconomía",
         "publicacion": "",
         "titulo_fuente": "Así se distribuirá el Presupuesto 2027: baja el pago de deuda y aumenta inversión",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Modificaciones al Presupuesto de 2027 en el Congreso; iniciativa va para sanción presidencial",
-        "url": "https://www.valoraanalitik.com/asi-cambio-el-presupuesto-de-2027-tras-los-debates-en-camara-y-senado-proyecto-pasa-a-sancion-presidencial/",
-        "resumen": "El presupuesto definitivo, que es un 14,2 % superior al de 2026, fija las apropiaciones del Estado para el próximo año.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Así cambió el Presupuesto de 2027 tras los debates en Cámara y Senado; proyecto pasa a sanción presidencial",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Firma alemana pondrá 4 millones de euros en proyecto en Cartagena para triplicar su actividad",
-        "url": "https://www.valoraanalitik.com/multinacional-alemana-invertira-4-millones-de-euros-en-megaproyecto-en-cartagena-y-espera-triplicar-su-operacion/",
-        "resumen": "Cartagena atrae nuevas inversiones internacionales y una multinacional alemana prepara un ambicioso plan de expansión.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Multinacional alemana invertirá 4 millones de euros en megaproyecto en Cartagena y espera triplicar su operación",
         "capturado": "2026-10-20T11:51:32-05:00"
       }
     ],
