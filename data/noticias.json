@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-21T19:32:00-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-22T00:54:20-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Alerta | Rodrigo Lara sale del Ministerio del Interior en la administración De la Espriella y llega Alejandro Ordóñez",
+        "url": "https://www.valoraanalitik.com/atencion-rodrigo-lara-no-es-mas-el-ministro-del-interior-del-gobierno-de-la-espriella-alejandro-ordonez-lo-reemplaza/",
+        "resumen": "El anuncio fue dado a conocer por el presidente De la Espriella a través de su cuenta en X",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Rodrigo Lara no es más el ministro del Interior del gobierno De la Espriella; Alejandro Ordoñez lo reemplaza",
+        "capturado": "2026-10-22T00:54:20-05:00"
+      },
+      {
+        "titulo": "Camacol sugiere plan de emergencia por descenso en comercialización de casas: sugiere obras por 98 billones de pesos",
+        "url": "https://www.valoraanalitik.com/camacol-propone-plan-de-choque-ante-caida-en-ventas-de-viviendas-plantea-proyectos-por-98-billones/",
+        "resumen": "Camacol propuso un plan de choque con proyectos por más de $98 billones para reactivar la vivienda, ante la caída de ventas e iniciaciones de obra.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Camacol propone plan de choque ante caída en ventas de viviendas: plantea proyectos por $98 billones",
+        "capturado": "2026-10-22T00:54:20-05:00"
+      },
+      {
+        "titulo": "Destacado | EPM finaliza enajenación de relevante activo eléctrico que provee a 35 municipios de la región Caribe",
+        "url": "https://www.valoraanalitik.com/relevante-epm-cierra-venta-de-importante-negocio-de-energia-que-abastece-a-35-municipios-del-caribe-colombiano/",
+        "resumen": "EPM firmó un acuerdo para vender su participación en Energía Atenea, empresa que atiende a 361.000 clientes en 35 municipios del Caribe colombiano.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | EPM cierra venta de importante negocio de energía que abastece a 35 municipios del Caribe colombiano",
+        "capturado": "2026-10-22T00:54:20-05:00"
+      },
+      {
+        "titulo": "Colombia sella pacto con remoto país que prepara capitales petroleros por 10.500 millones de dólares",
+        "url": "https://www.valoraanalitik.com/colombia-firma-acuerdo-con-exotico-destino-que-alista-millonarias-inversiones-petroleras/",
+        "resumen": "El acuerdo abre nuevas oportunidades comerciales y empresariales para Colombia en un país que se prepara para una de las mayores apuestas petroleras.",
+        "autor": "",
+        "subseccion": "Petróleo",
+        "publicacion": "",
+        "titulo_fuente": "Colombia firma acuerdo con exótico destino que alista inversiones petroleras por US$10.500 millones",
+        "capturado": "2026-10-22T00:54:20-05:00"
+      },
       {
         "titulo": "Marco Fidel Acosta asume la presidencia del Fondo Nacional del Ahorro por designación del Ejecutivo",
         "url": "https://www.valoraanalitik.com/gobierno-nombro-a-marco-fidel-acosta-como-nuevo-presidente-del-fondo-nacional-del-ahorro/",
@@ -563,49 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Multinacional alemana invertirá 4 millones de euros en megaproyecto en Cartagena y espera triplicar su operación",
         "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Campetrol sugiere cuatro acciones para fortalecer la industria petrolera y gasífera nacional",
-        "url": "https://www.valoraanalitik.com/campetrol-propone-cuatro-medidas-para-robustecer-el-sector-de-petroleo-y-gas-en-colombia/",
-        "resumen": "También serán necesarios elementos como la seguridad física, social y laboral, más un fortalecimiento institucional.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Campetrol propone cuatro medidas para robustecer el sector de petróleo y gas en Colombia",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Perspectiva de XM frente a la medida de Ecopetrol sobre compras externas de gas",
-        "url": "https://www.valoraanalitik.com/la-vision-de-xm-sobre-la-decision-de-ecopetrol-con-los-contratos-de-importacion-de-gas/",
-        "resumen": "Juan Carlos Morales, gerente encargado de XM, dijo que son necesarias todas las fuentes de energía eléctrica en medio de El Niño.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "La visión de XM sobre la decisión de Ecopetrol con los contratos de importación de gas",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Asociaciones de energía sugieren bajar impuestos y exigen normas estables para impulsar la inversión",
-        "url": "https://www.valoraanalitik.com/gremios-energeticos-proponen-reducir-cargas-tributarias-y-piden-reglas-a-largo-plazo-para-incentivar-la-inversion/",
-        "resumen": "Las organizaciones señalaron que la tarifa del impuesto sobre la renta podría llegar a 50 %, frente a una tarifa promedio de 21 % en América Latina.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gremios energéticos proponen reducir cargas tributarias y piden reglas a largo plazo para incentivar la inversión",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio sube tras aval al presupuesto y petróleo en picos de cinco meses",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-arranca-al-alza-tras-la-aprobacion-del-presupuesto-y-con-el-petroleo-en-maximos-de-cinco-meses/",
-        "resumen": "Esto es lo que mueve al dólar en Colombia al inicio de la jornada del 20 de octubre",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia arranca al alza tras la aprobación del presupuesto y con el petróleo en máximos de cinco meses",
-        "capturado": "2026-10-20T11:51:32-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Camacol sugiere estrategia urgente por descenso en comercialización de casas con iniciativas de 98 billones",
+        "url": "https://www.valoraanalitik.com/camacol-propone-plan-de-choque-ante-caida-en-ventas-de-viviendas-plantea-proyectos-por-98-billones/",
+        "resumen": "Camacol propuso un plan de choque con proyectos por más de $98 billones para reactivar la vivienda, ante la caída de ventas e iniciaciones de obra.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Camacol propone plan de choque ante caída en ventas de viviendas: plantea proyectos por $98 billones",
+        "capturado": "2026-10-22T00:54:20-05:00"
+      },
+      {
+        "titulo": "EPM finaliza cesión de relevante activo eléctrico que provee a 35 poblaciones del Caribe nacional",
+        "url": "https://www.valoraanalitik.com/relevante-epm-cierra-venta-de-importante-negocio-de-energia-que-abastece-a-35-municipios-del-caribe-colombiano/",
+        "resumen": "EPM firmó un acuerdo para vender su participación en Energía Atenea, empresa que atiende a 361.000 clientes en 35 municipios del Caribe colombiano.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | EPM cierra venta de importante negocio de energía que abastece a 35 municipios del Caribe colombiano",
+        "capturado": "2026-10-22T00:54:20-05:00"
+      },
       {
         "titulo": "Firmas con bienes por encima de esta cifra tendrán que tener revisor fiscal",
         "url": "https://www.valoraanalitik.com/empresas-que-tengan-activos-que-superen-este-valor-deberan-hacer-revision-fiscal/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Latam y ALTA alertan por las limitaciones del Aeropuerto El Dorado y la congestión aérea en la región",
         "capturado": "2026-10-19T12:40:44-05:00"
-      },
-      {
-        "titulo": "Catalina Rengifo asume la dirección ejecutiva de Actho tras su separación de la Federación Colombiana de Gestión Humana",
-        "url": "https://www.valoraanalitik.com/actho-se-independiza-de-la-federacion-colombiana-de-gestion-humana-y-nombra-a-catalina-rengifo-como-directora-ejecutiva/",
-        "resumen": "Rengifo es abogada de la Pontificia Universidad Javeriana y magíster en Gobierno y Políticas Públicas de la Universidad Externado de Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Actho se independiza de la Federación Colombiana de Gestión Humana y nombra a Catalina Rengifo como directora ejecutiva",
-        "capturado": "2026-10-18T19:23:32-05:00"
-      },
-      {
-        "titulo": "Scania Colombia aumentó 17 % y prepara capital para talleres y buses eléctricos a 2027",
-        "url": "https://www.valoraanalitik.com/entrevista-scania-colombia-crecio-17-y-alista-inversiones-en-talleres-y-vehiculos-electricos-para-2027/",
-        "resumen": "Scania Colombia revela sus planes de expansión en el país y fija meta de ventas de buses eléctricos para 2027.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Scania Colombia creció 17 % y alista inversiones en talleres y vehículos eléctricos para 2027",
-        "capturado": "2026-10-18T17:19:11-05:00"
       }
     ]
   }
