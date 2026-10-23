@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-23T13:38:19-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-10-23T16:56:37-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Exclusiva | Grupo Argos da a conocer sus planes en EE. UU., Colombia y Venezuela de cara al año 2027",
+        "url": "https://www.valoraanalitik.com/exclusiva-grupo-argos-revela-sus-apuestas-para-colombia-venezuela-y-ee-uu-para-2027/",
+        "resumen": "En diálogo con Valora Analitik, el presidente de Grupo Argos, Juan Esteban Calle, destapó la hoja de ruta estratégica del conglomerado para el próximo año.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Exclusiva | Grupo Argos revela sus apuestas para Colombia, Venezuela y EE. UU. para 2027",
+        "capturado": "2026-10-23T16:56:37-05:00"
+      },
+      {
+        "titulo": "MinHacienda finalizó segundo canje de deuda: efectuó intercambio de TES por 10,3 billones de pesos",
+        "url": "https://www.valoraanalitik.com/minhacienda-completo-segunda-operacion-de-reperfilamiento-de-deuda-intercambio-tes-por-103-billones/",
+        "resumen": "En total, el programa suma $30,1 billones en deuda reorganizada, lo que permite aliviar la carga financiera de la Nación, según el MinHacienda.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda completó segunda operación de reperfilamiento de deuda: intercambió TES por $10,3 billones",
+        "capturado": "2026-10-23T16:56:37-05:00"
+      },
+      {
+        "titulo": "EPM recupera solo 57 de cada 100 pesos invertidos en el Caribe y aguarda 800.000 millones del Gobierno De la Espriella",
+        "url": "https://www.valoraanalitik.com/epm-solo-recupera-57-de-cada-100-que-invierte-en-el-caribe-espera-800-000-millones-del-gobierno-de-la-espriella/",
+        "resumen": "El gerente de la empresa espera que haya una declaratoria de emergencia económica por la ola de calor y que los recursos a Afinia lleguen a finales de 2026.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "EPM solo recupera $57 de cada $100 que invierte en el Caribe; espera $800.000 millones del Gobierno De la Espriella",
+        "capturado": "2026-10-23T16:56:37-05:00"
+      },
+      {
+        "titulo": "Solicitarán a la Fiscalía indagar a empleados de Supersociedades por reestructuración de Accedo y supuestas fallas",
+        "url": "https://www.valoraanalitik.com/pediran-a-la-fiscalia-investigar-a-funcionarios-de-supersociedades-por-reorganizacion-de-accedo-estas-son-las-presuntas-irregularidades/",
+        "resumen": "La Fiscalía la encargada de evaluar los hechos, recaudar las pruebas y determinar si hay mérito para avanzar en una investigación formal.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pedirán a la Fiscalía investigar a funcionarios de Supersociedades por reorganización de Accedo: estas son las presuntas irregularidades",
+        "capturado": "2026-10-23T16:56:37-05:00"
+      },
+      {
+        "titulo": "Gremios del sector financiero y administración De La Espriella pactan alianza contra el gota a gota en el país",
+        "url": "https://www.valoraanalitik.com/gobierno-gremios-acuerdo-gota-a-gota/",
+        "resumen": "El pacto busca ampliar el crédito formal para micronegocios y trabajadores independientes, facilitar la rebancarización y fortalecer la educación financiera.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella y gremios financieros firman acuerdo para combatir el gota a gota en Colombia",
+        "capturado": "2026-10-23T16:56:37-05:00"
+      },
+      {
+        "titulo": "Alerta por futuro del empleo precios y pensiones ante el salario mínimo en Colombia 2027",
+        "url": "https://www.valoraanalitik.com/salario-minimo-en-colombia-2027-la-advertencia-sobre-lo-que-podria-pasar-con-el-empleo-precios-y-pensiones/",
+        "resumen": "El aumento del salario mínimo en Colombia tiene implicaciones que van más allá del ingreso de los trabajadores.",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Salario mínimo en Colombia 2027: la advertencia sobre lo que podría pasar con el empleo, precios y pensiones",
+        "capturado": "2026-10-23T16:56:37-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia cae a $3.145 al cierre empujado por el alza del Brent",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-desploma-cierra-en-3-145-impulsado-por-el-repunte-del-brent/",
+        "resumen": "La divisa abrió con sesgo bajista en $3.172 y marcó un techo intradiario de $3.189. Posteriormente marcó un mínimo de $3.136.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia se desploma: cierra en $3.145 impulsado por el repunte del Brent",
+        "capturado": "2026-10-23T16:56:37-05:00"
+      },
       {
         "titulo": "Este es el plan de Bogotá para construir casas y locales cerca del metro",
         "url": "https://www.valoraanalitik.com/asi-es-la-apuesta-de-bogota-para-desarrollar-vivienda-y-comercio-junto-al-metro/",
@@ -533,79 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno nombró a Marco Fidel Acosta como nuevo presidente del Fondo Nacional del Ahorro",
         "capturado": "2026-10-21T19:32:00-05:00"
-      },
-      {
-        "titulo": "José Ignacio García es nombrado superintendente de Servicios Públicos por la administración De la Espriella",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-designa-a-jose-ignacio-garcia-como-nuevo-superintendente-de-servicios-publicos/",
-        "resumen": "El Gobierno nombró a José Ignacio García Puche como nuevo superintendente de Servicios Públicos, cargo desde el que enfrentará retos energéticos y climáticos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella designa a José Ignacio García como nuevo superintendente de Servicios Públicos",
-        "capturado": "2026-10-21T19:32:00-05:00"
-      },
-      {
-        "titulo": "Nueva herramienta de Clara permite a compañías colombianas recortar gastos anuales sobre $50 millones",
-        "url": "https://www.valoraanalitik.com/empresas-ahorros-solucion-clara/",
-        "resumen": "La fintech lanzó Clara for HR, para centralizar la gestión de beneficios, incentivos y compensación de los trabajadores.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Empresas en Colombia podrán ahorrar más de $50 millones al año con nueva solución de Clara",
-        "capturado": "2026-10-21T19:32:00-05:00"
-      },
-      {
-        "titulo": "Juez precisa requisitos probatorios para empleados sin contrato que exigen salarios y prestaciones",
-        "url": "https://www.valoraanalitik.com/tribunal-aclara-que-debe-probar-un-trabajador-para-reclamar-salarios-prestaciones-e-indemnizaciones-aunque-no-haya-firmado-contrato/",
-        "resumen": "Trabajar sin contrato firmado no le quita sus derechos, pero hay pruebas clave que pueden definir si deben pagarle salarios, prestaciones e indemnizaciones.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Tribunal aclara qué debe probar un trabajador para reclamar salarios, prestaciones e indemnizaciones aunque no haya firmado contrato",
-        "capturado": "2026-10-21T19:32:00-05:00"
-      },
-      {
-        "titulo": "Falla en el reembolso de cotizaciones pensionales en Colombia que pondría en riesgo su jubilación",
-        "url": "https://www.valoraanalitik.com/devolucion-de-aportes-pensionales-en-colombia-el-error-que-podria-costarle-su-pension/",
-        "resumen": "La devolución de aportes pensionales puede parecer una salida rápida, pero revisar semanas, pagos y derechos pendientes podría cambiar su decisión.",
-        "autor": "",
-        "subseccion": "Uncategorized",
-        "publicacion": "",
-        "titulo_fuente": "Devolución de aportes pensionales en Colombia: el error que podría costarle su pensión",
-        "capturado": "2026-10-21T19:32:00-05:00"
-      },
-      {
-        "titulo": "BBVA Spark entrega $37.450 millones a la fintech Bold para financiar créditos a establecimientos",
-        "url": "https://www.valoraanalitik.com/fintech-bold-obtiene-credito-bbva-spark/",
-        "resumen": "La compañía procesa cerca de $20 billones anuales en pagos con tarjeta y códigos QR.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fintech Bold obtiene $37.450 millones de BBVA Spark para ampliar su oferta de crédito a comercios",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "Modificaciones al Presupuesto restan $3 billones a Colombia en 2027 frente al fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/colombia-tendra-3-billones-menos-para-atender-fenomeno-de-el-nino-en-2027-por-cambios-en-presupuesto/",
-        "resumen": "Además de estos recursos, también se eliminan $3 billones para salud y aumenta el presupuesto de la deuda.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia tendrá $3 billones menos para atender fenómeno de El Niño en 2027 por cambios en Presupuesto",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "GeoPark agranda su operación en Argentina tras adjudicarse un bloque y estos son los datos",
-        "url": "https://www.valoraanalitik.com/geopark-expandio-el-tamano-de-su-negocio-en-argentina-tras-la-adjudicacion-de-un-nuevo-bloque-estos-son-los-detalles/",
-        "resumen": "La escala de producción potencial es de aproximadamente de 40.000 a 50.000 barriles de petróleo equivalentes al día.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark expandió el tamaño de su negocio en Argentina tras la adjudicación de un nuevo bloque: estos son los detalles",
-        "capturado": "2026-10-21T16:55:01-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Grupo Argos da a conocer sus planes en EE. UU., Venezuela y Colombia de cara al año 2027",
+        "url": "https://www.valoraanalitik.com/exclusiva-grupo-argos-revela-sus-apuestas-para-colombia-venezuela-y-ee-uu-para-2027/",
+        "resumen": "En diálogo con Valora Analitik, el presidente de Grupo Argos, Juan Esteban Calle, destapó la hoja de ruta estratégica del conglomerado para el próximo año.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Exclusiva | Grupo Argos revela sus apuestas para Colombia, Venezuela y EE. UU. para 2027",
+        "capturado": "2026-10-23T16:56:37-05:00"
+      },
+      {
+        "titulo": "EPM recupera 57 de cada 100 pesos invertidos en el Caribe y prevé 800.000 millones del Gobierno",
+        "url": "https://www.valoraanalitik.com/epm-solo-recupera-57-de-cada-100-que-invierte-en-el-caribe-espera-800-000-millones-del-gobierno-de-la-espriella/",
+        "resumen": "El gerente de la empresa espera que haya una declaratoria de emergencia económica por la ola de calor y que los recursos a Afinia lleguen a finales de 2026.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "EPM solo recupera $57 de cada $100 que invierte en el Caribe; espera $800.000 millones del Gobierno De la Espriella",
+        "capturado": "2026-10-23T16:56:37-05:00"
+      },
+      {
+        "titulo": "Solicitarán a la Fiscalía indagar a empleados de Supersociedades por el caso Accedo y sus fallas",
+        "url": "https://www.valoraanalitik.com/pediran-a-la-fiscalia-investigar-a-funcionarios-de-supersociedades-por-reorganizacion-de-accedo-estas-son-las-presuntas-irregularidades/",
+        "resumen": "La Fiscalía la encargada de evaluar los hechos, recaudar las pruebas y determinar si hay mérito para avanzar en una investigación formal.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pedirán a la Fiscalía investigar a funcionarios de Supersociedades por reorganización de Accedo: estas son las presuntas irregularidades",
+        "capturado": "2026-10-23T16:56:37-05:00"
+      },
       {
         "titulo": "Kingspan aporta techos termoacústicos para las 500 casas en Chocó de Adopta un Hogar de Grupo Argos",
         "url": "https://www.valoraanalitik.com/kingspan-se-suma-a-adopta-un-hogar-de-grupo-argos-con-cubiertas-termoacusticas-para-las-500-viviendas-en-choco/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Gremio del carbón solicitó eliminar penalización por consumo de energía en su industria",
         "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "Adquirir vivienda sencilla: estrategia de Conaltura para simplificar la llegada a casa propia nacional",
-        "url": "https://www.valoraanalitik.com/como-comprar-casa-propia-sin-tantos-enredos-la-apuesta-de-conaltura-por-hacer-mas-facil-el-acceso-a-vivienda-en-colombia/",
-        "resumen": "La accesibilidad empieza a entenderse de una manera diferente: esa es precisamente una de las apuestas de Conaltura.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Cómo comprar casa propia sin tantos enredos: la apuesta de Conaltura por hacer más fácil el acceso a vivienda en Colombia",
-        "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "SuperSociedades para la liquidación de Presto por 20 días hábiles ante búsqueda de comprador",
-        "url": "https://www.valoraanalitik.com/presto-busca-comprador-supersociedades-suspende-liquidacion-por-20-dias-habiles/",
-        "resumen": "La cadena de hamburguesas busca preservar la operación para facilitar su venta. Registra deudas superiores a $45.000 millones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presto busca comprador: SuperSociedades suspende liquidación por 20 días hábiles",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "El enfoque sostenible de Colsubsidio aplicado en su hotelera y en Piscilago",
-        "url": "https://www.valoraanalitik.com/la-apuesta-de-sostenibilidad-de-colsubsidio-en-piscilago-y-sus-hoteles/",
-        "resumen": "Detrás de la oferta recreativa y hotelera hay proyectos de conservación, siembra de especies nativas y soluciones solares para reducir el consumo energético.",
-        "autor": "",
-        "subseccion": "Valorasostenible",
-        "publicacion": "",
-        "titulo_fuente": "La apuesta de sostenibilidad de Colsubsidio en Piscilago y sus hoteles",
-        "capturado": "2026-10-20T15:21:57-05:00"
       }
     ]
   }
