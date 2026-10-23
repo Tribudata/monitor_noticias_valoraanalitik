@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-23T04:29:42-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-23T09:22:57-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Tasa de cambio inicia en $3.172 luego de que De la Espriella informara recorte fiscal de $13,8 billones",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-en-3-172-tras-anuncio-de-recorte-fiscal-de-138-billones-por-de-la-espriella/",
+        "resumen": "En una semana con escasos catalizadores de datos macroeconómicos, la atención de las mesas de dinero se enfocó en las tensiones geopolíticas.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre en $3.172 tras anuncio de recorte fiscal de $13,8 billones por De la Espriella",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "EPM rechaza poner más capital en Afinia sin salida de fondo, según cabeza del grupo",
+        "url": "https://www.valoraanalitik.com/epm-no-esta-dispuesta-a-invertir-mas-en-afinia-sin-una-solucion-estructural-presidente-de-la-organizacion/",
+        "resumen": "El gerente de EPM también señaló que Afinia ha sido el “peor negocio en la historia” de la organización.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "EPM no está dispuesta a invertir más en Afinia sin una «solución estructural»: presidente de la organización",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "Entrevista | Mapfre ampliará su oferta a zonas del país en 2027; Antioquia, Valle y Caribe apuntadas",
+        "url": "https://www.valoraanalitik.com/mapfre-servicios-regiones-colombia-2027/",
+        "resumen": "La aseguradora reportó cerca de $1 billón en primas al cierre del primer semestre de 2026 y cuenta con 56 oficinas en el país.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Mapfre expandirá servicios a regiones de Colombia en 2027; Antioquia, el Valle y el Caribe en el radar",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "Obras por Impuestos para la edificación: condiciones para que firmas patrocinen iniciativas",
+        "url": "https://www.valoraanalitik.com/obras-por-impuestos-para-la-reconstruccion-requisitos-para-que-las-empresas-financien-proyectos/",
+        "resumen": "Estos son los lineamientos para que los empresarios accedan al mecanimos de Obras por Impuestos en el marco de la reconstrucción por el terremoto de Colombia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Obras por Impuestos para la reconstrucción: requisitos para que las empresas financien proyectos",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "Premercado | Crudo sube a US$114 por conflictos mientras lío fiscal en Francia y caída tech mueven mercados",
+        "url": "https://www.valoraanalitik.com/premercado-petroleo-sube-a-us114-por-tensiones-mientras-crisis-fiscal-en-francia-y-desplome-tecnologico-mueven-bolsas/",
+        "resumen": "Los inversores se deshicieron de activos franceses y buscaron refugio en los Bunds alemanes y en los bonos del Tesoro de EE. UU.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Petróleo sube a US$114 por tensiones mientras crisis fiscal en Francia y desplome tecnológico mueven bolsas",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "El incremento del salario mínimo en el país impactaría fuertemente la inflación el próximo año",
+        "url": "https://www.valoraanalitik.com/salario-minimo-en-colombia-podria-afectar-sustancialmente-a-la-inflacion-el-ano-entrante-si-sube-esto/",
+        "resumen": "El gobierno De la Espriella confirmó cuándo se espera que arranque a discutirse el aumento del salario mínimo en Colombia.",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Salario mínimo en Colombia podría afectar sustancialmente a la inflación el año entrante si sube esto",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella decreta recorte billonario del gasto y confirma ajuste fiscal",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-billonario-recorte-de-gasto-ajuste-fiscal-esta-en-marcha/",
+        "resumen": "El gobierno De la Espriella detalló el plan para recortar el gasto desde el Estado.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella anuncia billonario recorte de gasto: “Ajuste fiscal está en marcha”",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "Entrevista sobre la estrategia de inversión de Bioenergy para incrementar su capacidad productiva",
+        "url": "https://www.valoraanalitik.com/este-es-el-plan-de-inversion-de-bioenergy-para-ampliar-su-capacidad-en-energia-y-produccion-de-alcohol/",
+        "resumen": "José Antonio Franco, gerente de la compañía, habló sobre la apuesta por la producción de alcohol, caña de azúcar y generación de energía eléctrica.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Este es el plan de inversión de Bioenergy para ampliar su capacidad en energía y producción de alcohol",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "Nuevo análisis proyecta el comportamiento del dólar en Colombia para el cierre del año",
+        "url": "https://www.valoraanalitik.com/nuevo-pronostico-anticipa-si-el-dolar-en-colombia-se-va-a-disparar-en-lo-que-resta-de-este-ano/",
+        "resumen": "El dólar en Colombia ha estado más cerca de los $3.100 que de los $3.400 durante las últimas semanas.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo pronóstico anticipa si el dólar en Colombia se va a disparar en lo que resta de este año",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
       {
         "titulo": "Fondos de pensiones, EPM y Ecopetrol postulan aspirantes a la Junta Directiva de ISA",
         "url": "https://www.valoraanalitik.com/ecopetrol-fondos-de-pensiones-y-epm-presentan-candidatos-para-la-junta-directiva-de-isa/",
@@ -513,99 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Nuevo parque solar de Enel en Atlántico entró en operación: así queda su portafolio en renovables",
         "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella expedirá hoy decreto de Presupuesto de 2027 por $635 billones",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-expedira-hoy-decreto-de-presupuesto-de-2027-por-635-billones/",
-        "resumen": "El vicepresidente de Colombia, José Manuel Restrepo, y el ministro de Hacienda, Miguel Gómez.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella expedirá hoy decreto de Presupuesto de 2027 por $635 billones",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Las empresarias con mejor reputación en Colombia en 2026, según Ranking Merco",
-        "url": "https://www.valoraanalitik.com/las-empresarias-con-mejor-reputacion-en-colombia-en-2026-segun-ranking-merco/",
-        "resumen": "Estas son las empresarias colombianas con mejor reputación para 2026. Conozca el Ranking Merco completo.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Las empresarias con mejor reputación en Colombia en 2026, según Ranking Merco",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Relevante | Estos son los 100 líderes empresariales con mejor reputación en Colombia en 2026",
-        "url": "https://www.valoraanalitik.com/relevante-estos-son-los-100-lideres-empresariales-con-mejor-reputacion-en-colombia-en-2026/",
-        "resumen": "El informe de Merco también trae consigo novedades para el Top 100 de este año, en el cual sobresale el ingreso por primera vez de seis ejecutivos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Estos son los 100 líderes empresariales con mejor reputación en Colombia en 2026",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Colombianos podrán consultar sus inversiones desde WhatsApp con nueva función de Aval Fiduciaria",
-        "url": "https://www.valoraanalitik.com/inversiones-whatsapp-aval-fiduciaria/",
-        "resumen": "La entidad incorporó inteligencia artificial a su canal de atención. En el primer semestre de 2026, procesó operaciones digitales por $85,5 billones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Colombianos podrán consultar sus inversiones desde WhatsApp con nueva función de Aval Fiduciaria",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia abre al alza en $3.191 ante tensiones en el Presupuesto de 2027 y alza del petróleo",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-al-alza-en-3-191-ante-tensiones-en-el-presupuesto-de-2027-y-alza-del-petroleo/",
-        "resumen": "El índice global del dólar (DXY) sigue haciendo respetar la zona de soporte clave ubicada en los 101,60 puntos.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre al alza en $3.191 ante tensiones en el Presupuesto de 2027 y alza del petróleo",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Especialistas estiman que el interés del BanRep trepará al 12,50 % en abril y seguiría así hasta mediados de 2027",
-        "url": "https://www.valoraanalitik.com/analistas-preven-que-la-tasa-del-banrep-subira-al-1250-este-mes-y-se-mantendria-en-ese-nivel-hasta-mediados-de-2027/",
-        "resumen": "Dos encuestas de analistas reflejan un continuo deterioro en las proyecciones de inflación, situando el indicador de cierre de 2026 en un 6,8 %.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Analistas prevén que la tasa del BanRep subirá al 12,50 % este mes y se mantendría en ese nivel hasta mediados de 2027",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Minhacienda solicita sumar 1,2 billones de pesos al Presupuesto 2026 para subsidios energéticos",
-        "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-pide-adicionar-12-billones-al-presupuesto-para-subsidios-de-energia/",
-        "resumen": "Para el ministro, el sector energético requiere de inversiones grandes, estabilidad en las reglas de juego y políticas a largo plazo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ministerio de Hacienda pide adicionar $1,2 billones al Presupuesto de 2026 para subsidios de energía",
-        "capturado": "2026-10-21T08:07:01-05:00"
-      },
-      {
-        "titulo": "Presupuesto 2027 peligraría por error de trámite entre textos de Cámara y Senado y esto pasaría",
-        "url": "https://www.valoraanalitik.com/presupuesto-2027-se-caeria-por-vicio-de-tramite-entre-textos-de-camara-y-senado-esto-es-lo-que-vendria/",
-        "resumen": "La oposición sostiene que esta irregularidad llevaría al hundimiento del proyecto aprobado en las dos plenarias.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Presupuesto 2027 se caería por vicio de trámite entre textos de Cámara y Senado: esto es lo que vendría",
-        "capturado": "2026-10-21T08:07:01-05:00"
-      },
-      {
-        "titulo": "ProAntioquia pretende llevar Obras por Impuestos a más zonas y alista iniciativas para 2027",
-        "url": "https://www.valoraanalitik.com/proantioquia-busca-ampliar-obras-por-impuestos-a-otras-regiones-y-prepara-proyectos-para-2027/",
-        "resumen": "La organización acompaña actualmente la estructuración de proyectos que se presentarán para la próxima vigencia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ProAntioquia busca ampliar Obras por Impuestos a otras regiones y prepara proyectos para 2027",
-        "capturado": "2026-10-21T08:07:01-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Nucita festeja cinco días de vida: la evolución del producto único hacia un catálogo amplio",
+        "url": "https://www.valoraanalitik.com/nucita-celebra-50-anos-asi-ha-crecido-la-marca-que-paso-de-un-producto-a-tener-su-propio-portafolio/",
+        "resumen": "Para los 50 años de Nucita, Colombina puso en valor el origen regional de la marca, Cali, como escenario del principal homenaje del aniversario.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Nucita celebra 50 años: así ha crecido la marca que pasó de un producto a tener su propio portafolio",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "Corona y Wingo anunciaron el Sitio Secreto de 2026: ubicado a 1.182 millas del territorio nacional",
+        "url": "https://www.valoraanalitik.com/wingo-y-corona-revelaron-el-destino-oculto-de-2026-esta-a-1-182-millas-de-colombia/",
+        "resumen": "Los viajeros disfrutarán de una experiencia todo incluido y una agenda de actividades diseñada por Wingo y sus aliados.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Wingo y Corona revelaron el Destino Oculto de 2026: está a 1.182 millas de Colombia",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "EPM rechaza poner más capital en Afinia sin un arreglo de fondo, según el director de la entidad",
+        "url": "https://www.valoraanalitik.com/epm-no-esta-dispuesta-a-invertir-mas-en-afinia-sin-una-solucion-estructural-presidente-de-la-organizacion/",
+        "resumen": "El gerente de EPM también señaló que Afinia ha sido el “peor negocio en la historia” de la organización.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "EPM no está dispuesta a invertir más en Afinia sin una «solución estructural»: presidente de la organización",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "Condiciones para que las compañías financien iniciativas de reconstrucción mediante Obras por Impuestos",
+        "url": "https://www.valoraanalitik.com/obras-por-impuestos-para-la-reconstruccion-requisitos-para-que-las-empresas-financien-proyectos/",
+        "resumen": "Estos son los lineamientos para que los empresarios accedan al mecanimos de Obras por Impuestos en el marco de la reconstrucción por el terremoto de Colombia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Obras por Impuestos para la reconstrucción: requisitos para que las empresas financien proyectos",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
+      {
+        "titulo": "Entrevista | Estrategia financiera de Bioenergy para incrementar su potencial en alcohol y energía",
+        "url": "https://www.valoraanalitik.com/este-es-el-plan-de-inversion-de-bioenergy-para-ampliar-su-capacidad-en-energia-y-produccion-de-alcohol/",
+        "resumen": "José Antonio Franco, gerente de la compañía, habló sobre la apuesta por la producción de alcohol, caña de azúcar y generación de energía eléctrica.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Este es el plan de inversión de Bioenergy para ampliar su capacidad en energía y producción de alcohol",
+        "capturado": "2026-10-23T09:22:57-05:00"
+      },
       {
         "titulo": "Postulados aspirantes al directorio de ISA por cuenta de Ecopetrol, administradoras de pensiones y EPM",
         "url": "https://www.valoraanalitik.com/ecopetrol-fondos-de-pensiones-y-epm-presentan-candidatos-para-la-junta-directiva-de-isa/",
@@ -1154,56 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Multinacional alemana invertirá 4 millones de euros en megaproyecto en Cartagena y espera triplicar su operación",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Campetrol sugiere cuatro acciones para fortalecer la industria de hidrocarburos en el país",
-        "url": "https://www.valoraanalitik.com/campetrol-propone-cuatro-medidas-para-robustecer-el-sector-de-petroleo-y-gas-en-colombia/",
-        "resumen": "También serán necesarios elementos como la seguridad física, social y laboral, más un fortalecimiento institucional.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Campetrol propone cuatro medidas para robustecer el sector de petróleo y gas en Colombia",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "La postura de XM frente a la medida de Ecopetrol sobre las compras externas de gas",
-        "url": "https://www.valoraanalitik.com/la-vision-de-xm-sobre-la-decision-de-ecopetrol-con-los-contratos-de-importacion-de-gas/",
-        "resumen": "Juan Carlos Morales, gerente encargado de XM, dijo que son necesarias todas las fuentes de energía eléctrica en medio de El Niño.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "La visión de XM sobre la decisión de Ecopetrol con los contratos de importación de gas",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Asociaciones del sector energético sugieren bajar impuestos y exigen normas estables para atraer capital",
-        "url": "https://www.valoraanalitik.com/gremios-energeticos-proponen-reducir-cargas-tributarias-y-piden-reglas-a-largo-plazo-para-incentivar-la-inversion/",
-        "resumen": "Las organizaciones señalaron que la tarifa del impuesto sobre la renta podría llegar a 50 %, frente a una tarifa promedio de 21 % en América Latina.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gremios energéticos proponen reducir cargas tributarias y piden reglas a largo plazo para incentivar la inversión",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Andrés Conesa, líder de Aeroméxico, toma el mando de la junta directiva de ALTA",
-        "url": "https://www.valoraanalitik.com/ceo-aeromexico-presidencia-comite-ejecutivo-alta/",
-        "resumen": "El economista fue elegido durante el ALTA AGM & Airline Leaders Forum 2026, que se realiza en Ciudad de México.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Andrés Conesa, CEO de Aeroméxico, asume la presidencia del comité ejecutivo de ALTA",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "El Fenómeno de «El Niño» alcanza nivel muy fuerte con temperaturas atípicas en el Pacífico",
-        "url": "https://www.valoraanalitik.com/fenomeno-de-el-nino-ya-es-muy-fuerte-se-estan-registrando-temperaturas-excepcionales-en-el-pacifico/",
-        "resumen": "La vulnerabilidad del mercado colombiano se refleja en que 72 % de la agricultura depende del agua de lluvia.",
-        "autor": "",
-        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
-        "publicacion": "",
-        "titulo_fuente": "Fenómeno de El Niño ya es «muy fuerte»; se están registrando temperaturas excepcionales en el Pacífico",
         "capturado": "2026-10-20T11:51:32-05:00"
       }
     ]
