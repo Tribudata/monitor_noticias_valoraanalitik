@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-23T09:22:57-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-10-23T13:38:19-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Este es el plan de Bogotá para construir casas y locales cerca del metro",
+        "url": "https://www.valoraanalitik.com/asi-es-la-apuesta-de-bogota-para-desarrollar-vivienda-y-comercio-junto-al-metro/",
+        "resumen": "La iniciativa hace parte del Plan Parcial Estación Metro 26, un instrumento de planeación urbana que comprende 9,3 hectáreas.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Así es la apuesta de Bogotá para desarrollar vivienda y comercio junto al metro",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "Ejecutivo revela siete acuerdos para promover a Urabá como centro portuario",
+        "url": "https://www.valoraanalitik.com/gobierno-anuncia-siete-compromisos-para-impulsar-a-uraba-como-hub-logistico-y-portuario/",
+        "resumen": "Entre los principales anuncios está la culminación del Túnel del Toyo y su integración con la Autopista al Mar.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno anuncia siete compromisos para impulsar a Urabá como hub logístico y portuario",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "Sismo afectó 2,25 billones en microcréditos y a 183.254 clientes nacionales",
+        "url": "https://www.valoraanalitik.com/terremoto-microcreditos-afectados-colombia/",
+        "resumen": "El 71,2 % de los clientes afectados pertenece a los estratos 1 y 2 y el 52,4 % trabaja en el agro, según Asomicrofinanzas.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Terremoto dejó $2,25 billones en microcréditos afectados y golpeó a 183.254 clientes en Colombia",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "Cambios en enlace del MinHacienda tras hundimiento del presupuesto legislativo",
+        "url": "https://www.valoraanalitik.com/remezon-en-oficina-de-enlace-del-minhacienda-por-caida-del-proyecto-de-presupuesto-en-el-congreso/",
+        "resumen": "En un artículo del proyecto de ley de presupuesto hubo diferencias entre la Cámara y el Senado de la República que impidieron publicar la ley.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Remezón en oficina de enlace del MinHacienda por caída del proyecto de presupuesto en el Congreso",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "Antioquia lideró la producción de energía hidroeléctrica nacional en septiembre",
+        "url": "https://www.valoraanalitik.com/antioquia-fue-la-region-que-mas-aporto-a-la-generacion-hidroelectrica-de-colombia-en-septiembre/",
+        "resumen": "Entidades regulatorias del sector han señalado la importancia de contar con niveles superiores a 80 % para enfrentar el fenómeno de El Niño.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Antioquia fue la región que más aportó a la generación hidroeléctrica de Colombia en septiembre",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "Fintech apoyada por Tether reporta nuevas contrataciones y capital en Colombia tras conseguir gran financiación",
+        "url": "https://www.valoraanalitik.com/mural-fintech-respaldada-por-tether-anuncia-nuevas-inversiones-y-contrataciones-en-colombia-tras-lograr-millonaria-financiacion/",
+        "resumen": "En entrevista con Valora Analitik, Sinclair Toffa, cofundador y CEO de Mural, revela nuevas inversiones y contrataciones en Colombia. Estos son los detalles.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Fintech respaldada por Tether anuncia nuevas inversiones y contrataciones en Colombia tras lograr millonaria financiación",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "EPM advierte escaso nivel en embalses de Hidroituango y Guatapé por El Niño y compraría energía en bolsa",
+        "url": "https://www.valoraanalitik.com/epm-alerta-por-bajo-nivel-en-embalses-de-hidroituango-y-guatape-por-el-nino-tendria-que-comprar-mas-energia-en-bolsa/",
+        "resumen": "La empresa advirtió que, cuando disminuye la generación hidroeléctrica, EPM enfrenta presiones para cumplir sus compromisos de suministro de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "EPM alerta por bajo nivel en embalses de Hidroituango y Guatapé por El Niño; tendría que comprar más energía en bolsa",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "MinHacienda frena $13,8 billones del Presupuesto de 2026 y avisa que es tan solo la etapa inicial",
+        "url": "https://www.valoraanalitik.com/minhacienda-concreta-recorte-de-138-billones-en-el-presupuesto-de-2026-y-dice-que-es-apenas-la-primera-fase/",
+        "resumen": "MinHacienda concreta recorte de $13,8 billones en el Presupuesto de 2026 y dice que es apenas la primera fase.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda concreta recorte de $13,8 billones en el Presupuesto de 2026 y dice que es apenas la primera fase",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "Bogotá, Ciudad de México y Panamá expusieron la historia de sus plazas de mercado en Expo Agrofuturo 2026",
+        "url": "https://www.valoraanalitik.com/plazas-mercado-bogota-expo-agro-futuro/",
+        "resumen": "Expo Agrofuturo 2026 continúa hasta el 23 de octubre en Corferias con más de 350 empresas expositoras.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá, Ciudad de México y Panamá compartieron en Expo Agrofuturo 2026 el legado de sus plazas de mercado",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "Mineros planea repartir dividendos extraordinarios por US$58 millones y convoca a Asamblea de Accionistas",
+        "url": "https://www.valoraanalitik.com/mineros-busca-pagar-dividendos-extraordinarios-por-us58-millones-cita-a-asamblea-de-accionistas/",
+        "resumen": "De ser aprobado, el Dividendo Extraordinario se pagará en una sola cuota el 4 de diciembre de 2026 a los accionistas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Mineros busca pagar dividendos extraordinarios por US$58 millones: cita a Asamblea de Accionistas",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
       {
         "titulo": "Tasa de cambio inicia en $3.172 luego de que De la Espriella informara recorte fiscal de $13,8 billones",
         "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-en-3-172-tras-anuncio-de-recorte-fiscal-de-138-billones-por-de-la-espriella/",
@@ -503,109 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "GeoPark expandió el tamaño de su negocio en Argentina tras la adjudicación de un nuevo bloque: estos son los detalles",
         "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "Las plantas térmicas colombianas incumplen la meta de producción de energía durante El Niño",
-        "url": "https://www.valoraanalitik.com/las-plantas-termicas-en-colombia-no-llegan-a-la-meta-de-generacion-electrica-en-medio-de-el-nino/",
-        "resumen": "Este tipo de generación sirve como respaldo cuando el sistema eléctrico es impactado por una ola de calor.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Las plantas térmicas en Colombia no llegan a la meta de generación eléctrica en medio de El Niño",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "Arranca Expo Agrofuturo en Corferias, espacio de tecnología, inversión y agro sostenible",
-        "url": "https://www.valoraanalitik.com/inicia-expo-agrofuturo-feria-corferias-agronegocios/",
-        "resumen": "Expo Agrofuturo se realiza hasta el 23 de octubre en Corferias, de 9:00 am. a 7:00 pm.; la entrada Full Expo cuesta $95.000 por un día y $230.000 por tres días.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Inicia Expo Agrofuturo en Corferias: el encuentro donde convergen tecnología, inversión y producción sostenible para el agro",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "A pesar de las lluvias, Fenómeno de El Niño alerta a zonas del país por sequía e incendios",
-        "url": "https://www.valoraanalitik.com/aunque-esta-lloviendo-fenomeno-de-el-nino-mantiene-en-alerta-a-varias-regiones-de-colombia-por-riesgo-de-incendios-y-falta-de-agua/",
-        "resumen": "El Fenómeno de El Niño sigue bajo vigilancia pese a las lluvias. Las condiciones climáticas mantienen riesgos que podrían agravarse en los próximos meses.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Aunque está lloviendo, Fenómeno de El Niño mantiene en alerta a varias regiones de Colombia por riesgo de incendios y falta de agua",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio subió y pasó de $3.200 tras cierre al alza por prudencia fiscal",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-volvio-a-subir-y-supero-los-3-200-cerro-al-alza-en-medio-de-cautela-fiscal/",
-        "resumen": "La divisa arrancó con impulso en $3.185,10, tocó un mínimo intradiario de $3.178,88 y trepó hasta un máximo de $3.202.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia volvió a subir y superó los $3.200: Cerró al alza en medio de cautela fiscal",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "Milagro Week asegura respaldo de Citi, J.P. Morgan y más aliados para inversión local",
-        "url": "https://www.valoraanalitik.com/milagro-week-confirma-a-j-p-morgan-citi-y-otros-aliados-para-atraer-inversion-a-colombia/",
-        "resumen": "Milagro Week se realizará del 16 al 19 de noviembre en Nueva York y presentará 86 proyectos públicos y privados que suman inversiones por US$56.799 millones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Milagro Week confirma a J.P. Morgan, Citi y otros aliados para atraer inversión a Colombia",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "Fracking, Sirius y mayor compra externa de gas son vitales para restaurar el autoabastecimiento local",
-        "url": "https://www.valoraanalitik.com/mas-importacion-de-gas-fracking-y-sirius-son-las-claves-para-recuperar-el-autoabastecimiento-en-colombia/",
-        "resumen": "En septiembre de 2026, 39 % de la demanda se atendió con el gas del exterior, y 66 % de ese gas fue para la generación eléctrica.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Más importación de gas, fracking y Sirius son las claves para recuperar el autoabastecimiento en Colombia",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "ARQ multiplica por tres su base en el país y amplía su red hacia empresas, inversión y criptomonedas",
-        "url": "https://www.valoraanalitik.com/arq-colombia-ecosistema-financiero/",
-        "resumen": "La plataforma, antes DolarApp, incorporó la compra de criptoactivos y lanzó una solución empresarial. Colombia es su mercado más relevante.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "ARQ triplica usuarios en Colombia y expande su ecosistema financiero; lleva su oferta a empresas, inversión y cripto",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Las compras externas hacia el país crecieron con fuerza en agosto y rebasaron los US$7.700 millones",
-        "url": "https://www.valoraanalitik.com/importaciones-a-colombia-se-dispararon-en-agosto-superaron-los-us7-700-millones/",
-        "resumen": "En el acumulado de los primeros ocho meses del año (enero – agosto de 2026), las importaciones alcanzaron US$53.746,4 millones CIF.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Importaciones a Colombia se dispararon en agosto: superaron los US$7.700 millones",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Firma de colombiana obtiene US$500.000 de EE. UU. por innovar en la detección de patologías",
-        "url": "https://www.valoraanalitik.com/empresa-fundada-por-colombiana-recibe-us500-000-del-gobierno-de-estados-unidos-tras-lograr-innovacion-en-deteccion-de-enfermedades/",
-        "resumen": "La médica colombiana María Artunduaga recibió un respaldo de cerca de US$500.000 para su empresa que desarrolló una importante innovación.",
-        "autor": "",
-        "subseccion": "Emprendedores",
-        "publicacion": "",
-        "titulo_fuente": "Empresa fundada por colombiana recibe US$500.000 del Gobierno de Estados Unidos tras lograr innovación en detección de enfermedades",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Entra en marcha la nueva granja solar de Enel en Atlántico y así avanza su oferta verde",
-        "url": "https://www.valoraanalitik.com/nuevo-parque-solar-de-enel-en-atlantico-entro-en-operacion-asi-queda-su-portafolio-en-renovables/",
-        "resumen": "Para la empresa, esto fortalece la matriz energética colombiana, en medio del fenómeno de El Niño que estresa al sistema.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo parque solar de Enel en Atlántico entró en operación: así queda su portafolio en renovables",
-        "capturado": "2026-10-21T13:12:12-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Kingspan aporta techos termoacústicos para las 500 casas en Chocó de Adopta un Hogar de Grupo Argos",
+        "url": "https://www.valoraanalitik.com/kingspan-se-suma-a-adopta-un-hogar-de-grupo-argos-con-cubiertas-termoacusticas-para-las-500-viviendas-en-choco/",
+        "resumen": "La compañía ofrecerá condiciones preferenciales para incorporar paneles aislantes tipo sándwich en las cubiertas de las viviendas.",
+        "autor": "",
+        "subseccion": "Grupo argos",
+        "publicacion": "",
+        "titulo_fuente": "Kingspan se suma a Adopta un Hogar de Grupo Argos con cubiertas termoacústicas para las 500 viviendas en Chocó",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "Antioquia lideró el aporte a la producción hidroeléctrica del país durante el mes de septiembre",
+        "url": "https://www.valoraanalitik.com/antioquia-fue-la-region-que-mas-aporto-a-la-generacion-hidroelectrica-de-colombia-en-septiembre/",
+        "resumen": "Entidades regulatorias del sector han señalado la importancia de contar con niveles superiores a 80 % para enfrentar el fenómeno de El Niño.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Antioquia fue la región que más aportó a la generación hidroeléctrica de Colombia en septiembre",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "Fintech respaldada por Tether revela nuevas colocaciones y fichajes en el país tras millonaria inyección",
+        "url": "https://www.valoraanalitik.com/mural-fintech-respaldada-por-tether-anuncia-nuevas-inversiones-y-contrataciones-en-colombia-tras-lograr-millonaria-financiacion/",
+        "resumen": "En entrevista con Valora Analitik, Sinclair Toffa, cofundador y CEO de Mural, revela nuevas inversiones y contrataciones en Colombia. Estos son los detalles.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Fintech respaldada por Tether anuncia nuevas inversiones y contrataciones en Colombia tras lograr millonaria financiación",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "EPM advierte escasez en embalses de Hidroituango y Guatapé por El Niño y compraría energía en bolsa",
+        "url": "https://www.valoraanalitik.com/epm-alerta-por-bajo-nivel-en-embalses-de-hidroituango-y-guatape-por-el-nino-tendria-que-comprar-mas-energia-en-bolsa/",
+        "resumen": "La empresa advirtió que, cuando disminuye la generación hidroeléctrica, EPM enfrenta presiones para cumplir sus compromisos de suministro de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "EPM alerta por bajo nivel en embalses de Hidroituango y Guatapé por El Niño; tendría que comprar más energía en bolsa",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
+      {
+        "titulo": "Mineros convoca a Asamblea de Accionistas para aprobar un dividendo extraordinario de US$58 millones",
+        "url": "https://www.valoraanalitik.com/mineros-busca-pagar-dividendos-extraordinarios-por-us58-millones-cita-a-asamblea-de-accionistas/",
+        "resumen": "De ser aprobado, el Dividendo Extraordinario se pagará en una sola cuota el 4 de diciembre de 2026 a los accionistas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Mineros busca pagar dividendos extraordinarios por US$58 millones: cita a Asamblea de Accionistas",
+        "capturado": "2026-10-23T13:38:19-05:00"
+      },
       {
         "titulo": "Nucita festeja cinco días de vida: la evolución del producto único hacia un catálogo amplio",
         "url": "https://www.valoraanalitik.com/nucita-celebra-50-anos-asi-ha-crecido-la-marca-que-paso-de-un-producto-a-tener-su-propio-portafolio/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "La apuesta de sostenibilidad de Colsubsidio en Piscilago y sus hoteles",
         "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Medellín llevó a cabo la prueba inicial de envío de carga mediante drones en territorio nacional",
-        "url": "https://www.valoraanalitik.com/medellin-realizo-el-primer-piloto-de-transporte-de-carga-con-drones-en-el-pais/",
-        "resumen": "Los resultados de las pruebas permitirán evaluar los requerimientos para su eventual desarrollo.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Medellín realizó el primer piloto de transporte de carga con drones en el país",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Pactos colectivos en el país: posibles efectos para compañías y empleados si el Gobierno De la Espriella anula la norma",
-        "url": "https://www.valoraanalitik.com/pactos-colectivos-en-colombia-que-cambiaria-para-las-empresas-y-los-trabajadores-si-gobierno-de-la-espriella-deroga-el-decreto-laboral/",
-        "resumen": "Los pactos colectivos en Colombia podrían cambiar: empresas y trabajadores deben conocer qué pasará con los controles del Ministerio del Trabajo.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Pactos colectivos en Colombia: qué cambiaría para las empresas y los trabajadores si Gobierno De la Espriella deroga el decreto laboral",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Grupo Sura avanza 6 % en recompra de acciones y detalla su valorización postescisión con Grupo Argos",
-        "url": "https://www.valoraanalitik.com/grupo-sura-ya-ejecuto-6-del-programa-de-recompra-de-acciones-asi-ha-crecido-su-valor-tras-la-escision-con-grupo-argos/",
-        "resumen": "El holding financiero comenzó el pasado 5 de octubre su programa de readquisición, el cual irá hasta marzo de 2028.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Sura ya ejecutó 6 % del programa de recompra de acciones; así ha crecido su valor tras la escisión con Grupo Argos",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Este es el flujo de capitales hacia el sector de finca raíz en Dubái; valores repuntan y persisten opciones",
-        "url": "https://www.valoraanalitik.com/asi-se-esta-moviendo-inversion-inmobiliaria-hacia-dubai-precios-recuperan-terreno/",
-        "resumen": "En Dubái, más del 70 % de las ventas del sector suele ser de proyectos sobre planos, de acuerdo con datos de la industria.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Así se está moviendo la inversión inmobiliaria hacia Dubái; precios recuperan terreno y siguen las oportunidades",
-        "capturado": "2026-10-20T15:21:57-05:00"
-      },
-      {
-        "titulo": "Compañía alemana destinará 4 millones de euros a gran iniciativa en Cartagena para triplicar su actividad",
-        "url": "https://www.valoraanalitik.com/multinacional-alemana-invertira-4-millones-de-euros-en-megaproyecto-en-cartagena-y-espera-triplicar-su-operacion/",
-        "resumen": "Cartagena atrae nuevas inversiones internacionales y una multinacional alemana prepara un ambicioso plan de expansión.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Multinacional alemana invertirá 4 millones de euros en megaproyecto en Cartagena y espera triplicar su operación",
-        "capturado": "2026-10-20T11:51:32-05:00"
       }
     ]
   }
