@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-22T18:32:33-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-10-22T23:14:39-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Fondos de pensiones, EPM y Ecopetrol postulan aspirantes a la Junta Directiva de ISA",
+        "url": "https://www.valoraanalitik.com/ecopetrol-fondos-de-pensiones-y-epm-presentan-candidatos-para-la-junta-directiva-de-isa/",
+        "resumen": "ISA presentó nueve candidatos a su Junta Directiva y una reforma que cambiaría el proceso para elegir al presidente de la compañía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol, fondos de pensiones y EPM presentan candidatos para la Junta Directiva de ISA",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Grupo Gilinski adquirirá Presto mediante subordinada de Nutresa propietaria de El Corral y Mimo’s",
+        "url": "https://www.valoraanalitik.com/grupo-gilinski-comprara-presto-filial-nutresa-duena-de-el-corral-y-mimos/",
+        "resumen": "Nutresa confirmó que, con esta operación, se conservará la operación del negocio de restaurantes de comida rápida, así como todas sus marcas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Grupo Gilinski comprará Presto a través de filial de Nutresa que es dueña de El Corral y Mimo’s: estos son los detalles",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Gobierno designó oficialmente a Jorge Alberto Jaller como embajador de Colombia en Venezuela",
+        "url": "https://www.valoraanalitik.com/gobierno-oficializo-el-nombramiento-de-jorge-alberto-jaller-como-embajador-de-colomba-en-venezuela/",
+        "resumen": "El Gobierno oficializó el nombramiento de Jorge Alberto Jaller como embajador en Venezuela, en medio de nuevos acercamientos comerciales.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno oficializó el nombramiento de Jorge Alberto Jaller como embajador de Colomba en Venezuela",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Decreto mediante el cual se fijó el Presupuesto de 2027 en 635 billones",
+        "url": "https://www.valoraanalitik.com/este-es-el-decreto-con-el-que-de-la-espriella-expidio-el-presupuesto-de-2027-por-635-billones/",
+        "resumen": "El Gobierno expidió el Presupuesto de 2027 por decreto, luego de un error en el trámite del Congreso que impidió cumplir los plazos legislativos del proyecto.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Este es el decreto con el que De la Espriella expidió el Presupuesto de 2027 por $635 billones",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Ingresos trimestrales de Spotify duplican el presupuesto anual de Medellín según balance global",
+        "url": "https://www.valoraanalitik.com/spotify-facturo-en-tres-meses-casi-el-doble-del-presupuesto-anual-de-medellin-asi-fueron-sus-resultados-globales-del-tercer-trimestre/",
+        "resumen": "Spotify aumentó sus ingresos un 16 % y llegó a 788 millones de usuarios activos mensuales. Estos son los resultados que muestran el tamaño de su negocio global.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Spotify facturó en tres meses casi el doble del presupuesto anual de Medellín: así fueron sus resultados globales del tercer trimestre",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Tuya designa a Juan Sebastián Correa vicepresidente legal por la dimisión de Juan Carlos Velásquez",
+        "url": "https://www.valoraanalitik.com/tuya-nombra-a-juan-sebastian-correa-como-vicepresidente-legal-tras-renuncia-de-juan-carlos-velasquez/",
+        "resumen": "La compañía de financiamiento Tuya confirmó la salida de Juan Carlos Velásquez Vallejo y anunció dos designaciones en su estructura directiva.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Tuya nombra a Juan Sebastián Correa como vicepresidente legal tras renuncia de Juan Carlos Velásquez",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Titular de Grupo Argos afirma que se debe invertir en el país en este instante",
+        "url": "https://www.valoraanalitik.com/presidente-grupo-argos-es-el-momento-de-invertir-en-colombia/",
+        "resumen": "Juan Esteban Calle, CEO del holding de infraestructura, reveló que tienen un portafolio de $20 billones para invertir en el país.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Presidente de Grupo Argos: «Es el momento de invertir en Colombia»",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Fintech eleva el rendimiento de sus Bóvedas al 12,5 por ciento y explica cómo obtenerlo",
+        "url": "https://www.valoraanalitik.com/fintech-littio-subio-rentabilidad-bovedas/",
+        "resumen": "Littio elevó las recompensas potenciales de sus productos en pesos digitales. La tasa depende del plazo y de si el usuario tiene una suscripción Pro.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Esta fintech subió la rentabilidad de sus Bóvedas hasta 12,5 %; así puede lograr estos rendimientos",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
       {
         "titulo": "Jorge Llano Salamanca asume como subsecretario técnico de Hacienda en Bogotá tras laborar en el AMV",
         "url": "https://www.valoraanalitik.com/jorge-llano-salamanca-es-el-nuevo-subsecretario-tecnico-de-hacienda-de-bogota-tras-su-paso-por-el-amv/",
@@ -523,89 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "ProAntioquia busca ampliar Obras por Impuestos a otras regiones y prepara proyectos para 2027",
         "capturado": "2026-10-21T08:07:01-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados suben por balances tecnológicos y aguardan reportes de Tesla y Meta",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-se-recuperan-tras-resultados-de-empresas-tecnologicas-se-esperan-informes-de-tesla-y-meta/",
-        "resumen": "La atención de los participantes del mercado está centrada en los resultados trimestrales de Meta Platforms y Tesla, previstos para más tarde en el día.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas se recuperan tras resultados de empresas tecnológicas: se esperan informes de Tesla y Meta",
-        "capturado": "2026-10-21T08:07:01-05:00"
-      },
-      {
-        "titulo": "Findeter abre línea de crédito por $243.531 millones para la recuperación de zonas afectadas por emergencias",
-        "url": "https://www.valoraanalitik.com/findeter-lanza-linea-de-credito-por-243-531-millones-para-recuperar-territorios-afectados-por-emergencias-en-colombia/",
-        "resumen": "Findeter anunció una línea de crédito por $243.531 millones para recuperar infraestructura y reactivar la economía en regiones afectadas por emergencias.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Findeter lanza línea de crédito por $243.531 millones para recuperar territorios afectados por emergencias en Colombia",
-        "capturado": "2026-10-21T02:21:45-05:00"
-      },
-      {
-        "titulo": "Delegados del FMI y el Banco Mundial arriban al país para examinar el plan de deuda pública al 2030",
-        "url": "https://www.valoraanalitik.com/fmi-y-banco-mundial-llegan-a-colombia-para-revisar-estrategia-de-deuda-publica-hasta-2030/",
-        "resumen": "El FMI y el Banco Mundial apoyarán al Gobierno colombiano en la actualización de su estrategia de deuda pública para el periodo 2027-2030.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "FMI y Banco Mundial llegan a Colombia para revisar estrategia de deuda pública hasta 2030",
-        "capturado": "2026-10-21T02:21:45-05:00"
-      },
-      {
-        "titulo": "Fitch confirma la nota nacional máxima de Ecopetrol y anticipa un descenso en su extracción",
-        "url": "https://www.valoraanalitik.com/fitch-ratifica-maxima-calificacion-nacional-de-ecopetrol-pero-preve-caida-en-su-produccion/",
-        "resumen": "Fitch mantuvo la máxima calificación nacional de Ecopetrol, aunque proyecta una caída del 3 % en su producción de hidrocarburos durante 2026.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Fitch ratifica máxima calificación nacional de Ecopetrol, pero prevé caída en su producción",
-        "capturado": "2026-10-21T02:21:45-05:00"
-      },
-      {
-        "titulo": "Odinsa convoca a asamblea extraordinaria para avalar un pago de dividendos superior a $183.000 millones",
-        "url": "https://www.valoraanalitik.com/odinsa-cita-asamblea-extraordinaria-para-aprobar-dividendo-por-mas-de-183-000-millones/",
-        "resumen": "Odinsa someterá a aprobación de sus accionistas un dividendo extraordinario de $183.108 millones, equivalente a $934 por acción.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Odinsa cita asamblea extraordinaria para aprobar dividendo por más de $183.000 millones",
-        "capturado": "2026-10-21T02:21:45-05:00"
-      },
-      {
-        "titulo": "CRC solicita mayores salvaguardas competitivas ante la unión de Claro y Azteca",
-        "url": "https://www.valoraanalitik.com/integracion-de-claro-y-azteca-crc-pide-mayores-garantias-para-la-competencia/",
-        "resumen": "La Comisión de Regulación de Comunicaciones (CRC) advirtió que los compromisos de Claro para integrar la red de Azteca en Colombia son insuficientes.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Integración de Claro y Azteca: CRC pide mayores garantías para la competencia",
-        "capturado": "2026-10-20T20:54:16-05:00"
-      },
-      {
-        "titulo": "Nueva ley del programa Mi Casa en Colombia facilitará créditos hipotecarios de vivienda",
-        "url": "https://www.valoraanalitik.com/programa-mi-casa-en-colombia-nueva-ley-permitira-a-estos-colombianos-acceder-a-creditos-hipotecarios-para-comprar-vivienda/",
-        "resumen": "La nueva ley abre una nueva posibilidad para cumplir el sueño de tener casa propia en Colombia, pero hay condiciones que definirán cómo funcionará el programa.",
-        "autor": "",
-        "subseccion": "Subsidio de vivienda",
-        "publicacion": "",
-        "titulo_fuente": "Programa Mi Casa en Colombia: nueva ley permitirá a estos colombianos acceder a créditos hipotecarios para comprar vivienda",
-        "capturado": "2026-10-20T20:54:16-05:00"
-      },
-      {
-        "titulo": "Yacimientos con mayor aporte de gas a Colombia durante septiembre",
-        "url": "https://www.valoraanalitik.com/estos-fueron-los-campos-que-mas-le-suministraron-gas-a-colombia-en-septiembre/",
-        "resumen": "En total, el suministro sobre el potencial de producción fue de 84 %. Mientras que la Regasificadora de Cartagena logró uno de 92 %.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Estos fueron los campos que más le suministraron gas a Colombia en septiembre",
-        "capturado": "2026-10-20T20:54:16-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Postulados aspirantes al directorio de ISA por cuenta de Ecopetrol, administradoras de pensiones y EPM",
+        "url": "https://www.valoraanalitik.com/ecopetrol-fondos-de-pensiones-y-epm-presentan-candidatos-para-la-junta-directiva-de-isa/",
+        "resumen": "ISA presentó nueve candidatos a su Junta Directiva y una reforma que cambiaría el proceso para elegir al presidente de la compañía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol, fondos de pensiones y EPM presentan candidatos para la Junta Directiva de ISA",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Grupo Gilinski adquirirá Presto mediante subsidiaria de Nutresa propietaria de El Corral y Mimo’s",
+        "url": "https://www.valoraanalitik.com/grupo-gilinski-comprara-presto-filial-nutresa-duena-de-el-corral-y-mimos/",
+        "resumen": "Nutresa confirmó que, con esta operación, se conservará la operación del negocio de restaurantes de comida rápida, así como todas sus marcas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Grupo Gilinski comprará Presto a través de filial de Nutresa que es dueña de El Corral y Mimo’s: estos son los detalles",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Ingresos trimestrales de Spotify duplican el presupuesto anual de Medellín según sus cifras globales",
+        "url": "https://www.valoraanalitik.com/spotify-facturo-en-tres-meses-casi-el-doble-del-presupuesto-anual-de-medellin-asi-fueron-sus-resultados-globales-del-tercer-trimestre/",
+        "resumen": "Spotify aumentó sus ingresos un 16 % y llegó a 788 millones de usuarios activos mensuales. Estos son los resultados que muestran el tamaño de su negocio global.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Spotify facturó en tres meses casi el doble del presupuesto anual de Medellín: así fueron sus resultados globales del tercer trimestre",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Juan Sebastián Correa asume la vicepresidencia jurídica de Tuya ante la salida de Juan Carlos Velásquez",
+        "url": "https://www.valoraanalitik.com/tuya-nombra-a-juan-sebastian-correa-como-vicepresidente-legal-tras-renuncia-de-juan-carlos-velasquez/",
+        "resumen": "La compañía de financiamiento Tuya confirmó la salida de Juan Carlos Velásquez Vallejo y anunció dos designaciones en su estructura directiva.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Tuya nombra a Juan Sebastián Correa como vicepresidente legal tras renuncia de Juan Carlos Velásquez",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
+      {
+        "titulo": "Titular de Grupo Argos afirma que es instante propicio para destinar capital en el país",
+        "url": "https://www.valoraanalitik.com/presidente-grupo-argos-es-el-momento-de-invertir-en-colombia/",
+        "resumen": "Juan Esteban Calle, CEO del holding de infraestructura, reveló que tienen un portafolio de $20 billones para invertir en el país.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Presidente de Grupo Argos: «Es el momento de invertir en Colombia»",
+        "capturado": "2026-10-22T23:14:39-05:00"
+      },
       {
         "titulo": "Adecco entrega galardones para destacar a las compañías colombianas más creativas en talento humano",
         "url": "https://www.valoraanalitik.com/adecco-lanza-premios-para-reconocer-a-las-empresas-mas-innovadoras-en-gestion-humana-en-colombia/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Fenómeno de El Niño ya es «muy fuerte»; se están registrando temperaturas excepcionales en el Pacífico",
         "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "PazdelRío solicita conservar el arancel de 35 % para el alambrón de China y Rusia",
-        "url": "https://www.valoraanalitik.com/pazdelrio-pide-mantener-arancel-del-35-al-alambron-importado-de-china-y-rusia/",
-        "resumen": "La empresa advirtió que eliminar la protección arancelaria sin establecer una medida equivalente dejaría al mercado colombiano expuesto.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "PazdelRío pide mantener arancel del 35 % al alambrón importado de China y Rusia",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "Colombia alcanza 39.000 hectáreas de aguacate Hass y apunta a la productividad al 2027",
-        "url": "https://www.valoraanalitik.com/colombia-supera-las-39-000-hectareas-sembradas-de-aguacate-hass-y-pone-el-foco-en-productividad-para-2027/",
-        "resumen": "De acuerdo con cifras de Corpohass, Antioquia concentra la mayor área registrada del país, con 14.258 hectáreas.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Colombia supera las 39.000 hectáreas sembradas de aguacate Hass y pone el foco en productividad para 2027",
-        "capturado": "2026-10-20T11:51:32-05:00"
-      },
-      {
-        "titulo": "El Congreso avaló el presupuesto gubernamental De la Espriella por 635 billones de pesos para el 2027",
-        "url": "https://www.valoraanalitik.com/relevante-congreso-de-la-republica-aprobo-el-presupuesto-del-gobierno-de-la-espriella-por-635-billones-para-2027/",
-        "resumen": "El presupuesto se definió en la madrugada de este martes 20 de octubre.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Congreso de la República aprobó el presupuesto del gobierno De la Espriella por $635 billones para 2027",
-        "capturado": "2026-10-20T06:59:39-05:00"
-      },
-      {
-        "titulo": "Escasez de gas pone en riesgo de parálisis al sector industrial y productivo colombiano",
-        "url": "https://www.valoraanalitik.com/crisis-de-gas-amenaza-con-paralizar-parte-del-aparato-productivo-e-industrial-de-colombia/",
-        "resumen": "Ecopetrol declaró desiertos los contratos para comprar el gas del exterior que llegaría a Puerto Bahía (Cartagena) y el Pacífico (Valle del Cauca).",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Crisis de gas amenaza con paralizar parte del aparato productivo e industrial de Colombia",
-        "capturado": "2026-10-20T06:59:39-05:00"
-      },
-      {
-        "titulo": "Las ventas externas de café en Colombia bajan 13,8 % a septiembre debido a la divisa y gastos de operación",
-        "url": "https://www.valoraanalitik.com/exportaciones-de-cafe-colombiano-caen-138-a-septiembre-por-efectos-del-dolar-y-costos-operativos/",
-        "resumen": "El año cafetero Colombia exportó 11,68 millones de sacos, una disminución de 11 % frente al periodo cafetero anterior.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Exportaciones de café colombiano caen 13,8 % a septiembre por efectos del dólar y costos operativos",
-        "capturado": "2026-10-20T01:26:25-05:00"
       }
     ]
   }
