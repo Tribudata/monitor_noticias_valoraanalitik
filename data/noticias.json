@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-24T08:31:19-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-24T12:17:28-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Entrevista sobre el plan detrás de los pasajes de avión a 47000 pesos de JetSmart en Colombia",
+        "url": "https://www.valoraanalitik.com/tiquetes-baratos-jetsmart-2026-colombia/",
+        "resumen": "Según Estuardo Ortiz, CEO de JetSmart, 22 % de sus pasajeros en Colombia vuela por primera vez y las tarifas podrían subir por el combustible.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | La estrategia detrás de los tiquetes aéreos en $47.000 de JetSmart en Colombia",
+        "capturado": "2026-10-24T12:17:28-05:00"
+      },
+      {
+        "titulo": "Nuevas manifestaciones en territorio francés arrojan mínimo 135 arrestados y despliegan 70000 policías",
+        "url": "https://www.valoraanalitik.com/nuevas-protestas-en-francia-dejan-al-menos-135-detenidos/",
+        "resumen": "Una nueva jornada de protestas en Francia contra el aumento del costo de vida dejaron detenciones y enfrentamientos en Lyon.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Nuevas protestas en Francia dejan al menos 135 detenidos y movilizan a 70.000 agentes",
+        "capturado": "2026-10-24T12:17:28-05:00"
+      },
+      {
+        "titulo": "Comicios en Brasil: gran parte de los sondeos muestran leve ventaja de Bolsonaro frente a Lula",
+        "url": "https://www.valoraanalitik.com/elecciones-en-brasil-mayoria-de-encuestas-dan-ligera-ventaja-a-bolsonaro-sobre-lula-para-segunda-vuelta/",
+        "resumen": "Las recientes encuestas de las elecciones en Brasil dan una leve ventaja al candidato de derecha Flavio Bolsonaro.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Elecciones en Brasil: mayoría de encuestas dan ligera ventaja a Bolsonaro sobre Lula para segunda vuelta",
+        "capturado": "2026-10-24T12:17:28-05:00"
+      },
+      {
+        "titulo": "Exclusiva: Hyatt proyecta su quinto alojamiento en el país y estudia Barú con formato todo incluido",
+        "url": "https://www.valoraanalitik.com/primicia-hyatt-ya-planea-su-quinto-hotel-en-colombia/",
+        "resumen": "La compañía explora oportunidades en Barú y otras zonas del Caribe colombiano, en proyectos que podrían venir en el futuro.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Hyatt ya planea su quinto hotel en Colombia: analiza Barú con su modelo todo incluido",
+        "capturado": "2026-10-24T12:17:28-05:00"
+      },
+      {
+        "titulo": "Entrevista al líder de Campetrol: estamos alcanzando el límite del gas que traemos del exterior",
+        "url": "https://www.valoraanalitik.com/estamos-llegando-al-tope-del-gas-importado-presidente-de-campetrol/",
+        "resumen": "Nelson Castañeda, presidente de Campetrol, afirmó que una menor carga tributaria para el sector impulsaría un mayor dinamismo económico.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | “Estamos llegando al tope del gas importado”: presidente de Campetrol",
+        "capturado": "2026-10-24T12:17:28-05:00"
+      },
       {
         "titulo": "Nueva proyección advierte que la comida en Colombia subiría de precio durante el año 2027",
         "url": "https://www.valoraanalitik.com/alimentos-en-colombia-podrian-ponerse-mas-caros-a-lo-largo-del-2027-alerta-nuevo-pronostico/",
@@ -553,59 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Procuraduría pide al Tribunal de Santander no decretar medida cautelar sobre Santurbán antes de marzo de 2027",
         "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Estados Unidos cancela visa a Ricardo Roa y a otros seis colombianos por dichos motivos",
-        "url": "https://www.valoraanalitik.com/ee-uu-revoca-visa-a-ricardo-roa-y-otros-seis-colombianos-por-estas-razones/",
-        "resumen": "La decisión fue comunicada por el Departamento de Estado y se fundamenta en disposiciones de la legislación migratoria estadounidense.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "EE.UU. revoca visa a Ricardo Roa y otros seis colombianos por estas razones",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Leyes de Rescate, Sometimiento y Estatuto Antiterrorista: los desafíos de Alejandro Ordóñez como jefe de la cartera política",
-        "url": "https://www.valoraanalitik.com/leyes-de-rescate-sometimiento-y-estatuto-antiterrorista-los-retos-de-alejandro-ordonez-como-mininterior/",
-        "resumen": "¿Podrá Alejandro Ordóñez construir mayorías en el Congreso para sacar adelante la agenda del Gobierno?",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Leyes de Rescate, Sometimiento y Estatuto Antiterrorista: los retos de Alejandro Ordóñez como MinInterior",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio baja a $3.174 y crudo trepa de US$112 por conflicto armado",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-y-cierra-en-3-174-mientras-el-petroleo-supera-los-us112-por-tensiones-militares/",
-        "resumen": "La divisa abrió a la subida en $3.193 y marcó un máximo de $3.197,75 durante los primeros minutos de negociación.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia retrocede y cierra en $3.174 mientras el petróleo supera los US$112 por tensiones militares",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Ejecutivo retomará cobro en peaje de Palmas y evalúa obras viales en Antioquia",
-        "url": "https://www.valoraanalitik.com/gobierno-reactivara-cobro-de-peaje-de-palmas-y-revisa-financiacion-de-obras-viales-en-el-oriente-antioqueno/",
-        "resumen": "Invías plantea dos alternativas para financiar obras viales en el Oriente antioqueño.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno reactivará cobro de peaje de Palmas y revisa financiación de obras viales en el Oriente antioqueño",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Retos microfinancieros en el país: productividad, inteligencia artificial y adultos mayores",
-        "url": "https://www.valoraanalitik.com/ejes-sector-microfinanciero-colombia-2026/",
-        "resumen": "María Clara Hoyos destacó que el microcrédito cerró 2025 con un crecimiento real de cartera de 8,5 %, el mayor en más de siete años.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Los ejes del sector microfinanciero en Colombia para los próximos años: productividad, IA y economía plateada",
-        "capturado": "2026-10-22T15:29:06-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | El plan detrás de los pasajes de avión a $47.000 de JetSmart en Colombia",
+        "url": "https://www.valoraanalitik.com/tiquetes-baratos-jetsmart-2026-colombia/",
+        "resumen": "Según Estuardo Ortiz, CEO de JetSmart, 22 % de sus pasajeros en Colombia vuela por primera vez y las tarifas podrían subir por el combustible.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | La estrategia detrás de los tiquetes aéreos en $47.000 de JetSmart en Colombia",
+        "capturado": "2026-10-24T12:17:28-05:00"
+      },
+      {
+        "titulo": "Vigilancia privada en Colombia: El efecto del sueldo básico y el giro que dan en conjuntos",
+        "url": "https://www.valoraanalitik.com/seguridad-privada-en-colombia-el-impacto-que-tuvo-el-salario-minimo-y-el-cambio-que-estan-haciendo-en-conjuntos/",
+        "resumen": "La seguridad privada en Colombia ha tenido diversos cambios en los últimos meses, lo que llevó a los conjuntos a adoptar estas medidas.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Seguridad privada en Colombia: El impacto que tuvo el salario mínimo y el cambio que están haciendo en conjuntos",
+        "capturado": "2026-10-24T12:17:28-05:00"
+      },
+      {
+        "titulo": "Entrevista | Estamos llegando al tope del gas comprado afuera, dice el presidente de Campetrol",
+        "url": "https://www.valoraanalitik.com/estamos-llegando-al-tope-del-gas-importado-presidente-de-campetrol/",
+        "resumen": "Nelson Castañeda, presidente de Campetrol, afirmó que una menor carga tributaria para el sector impulsaría un mayor dinamismo económico.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | “Estamos llegando al tope del gas importado”: presidente de Campetrol",
+        "capturado": "2026-10-24T12:17:28-05:00"
+      },
       {
         "titulo": "Tesla da crédito con tasa del 0 % para autos Model 3 y Model Y en Colombia",
         "url": "https://www.valoraanalitik.com/tesla-ofrece-financiacion-al-0-para-sus-carros-model-3-y-model-y-en-colombia/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Ministerio de Hacienda pide adicionar $1,2 billones al Presupuesto de 2026 para subsidios de energía",
         "capturado": "2026-10-21T08:07:01-05:00"
-      },
-      {
-        "titulo": "ProAntioquia pretende expandir Obras por Impuestos a más zonas y alista iniciativas para 2027",
-        "url": "https://www.valoraanalitik.com/proantioquia-busca-ampliar-obras-por-impuestos-a-otras-regiones-y-prepara-proyectos-para-2027/",
-        "resumen": "La organización acompaña actualmente la estructuración de proyectos que se presentarán para la próxima vigencia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ProAntioquia busca ampliar Obras por Impuestos a otras regiones y prepara proyectos para 2027",
-        "capturado": "2026-10-21T08:07:01-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados repuntan por reportes tecnológicos; aguardan informes de Tesla y Meta",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-se-recuperan-tras-resultados-de-empresas-tecnologicas-se-esperan-informes-de-tesla-y-meta/",
-        "resumen": "La atención de los participantes del mercado está centrada en los resultados trimestrales de Meta Platforms y Tesla, previstos para más tarde en el día.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas se recuperan tras resultados de empresas tecnológicas: se esperan informes de Tesla y Meta",
-        "capturado": "2026-10-21T08:07:01-05:00"
-      },
-      {
-        "titulo": "Findeter abre línea de crédito por $243.531 millones para la recuperación de zonas en emergencia",
-        "url": "https://www.valoraanalitik.com/findeter-lanza-linea-de-credito-por-243-531-millones-para-recuperar-territorios-afectados-por-emergencias-en-colombia/",
-        "resumen": "Findeter anunció una línea de crédito por $243.531 millones para recuperar infraestructura y reactivar la economía en regiones afectadas por emergencias.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Findeter lanza línea de crédito por $243.531 millones para recuperar territorios afectados por emergencias en Colombia",
-        "capturado": "2026-10-21T02:21:45-05:00"
       }
     ]
   }
