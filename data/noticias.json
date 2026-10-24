@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-24T04:24:55-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-24T08:31:19-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Nueva proyección advierte que la comida en Colombia subiría de precio durante el año 2027",
+        "url": "https://www.valoraanalitik.com/alimentos-en-colombia-podrian-ponerse-mas-caros-a-lo-largo-del-2027-alerta-nuevo-pronostico/",
+        "resumen": "Un nuevo análisis explica por qué hay que tener cuidado con el precio de los alimentos en Colombia en 2027",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Alimentos en Colombia podrían ponerse más caros a lo largo del 2027, alerta nuevo pronóstico",
+        "capturado": "2026-10-24T08:31:19-05:00"
+      },
       {
         "titulo": "Tesla da crédito al 0 % para autos Model 3 y Model Y en Colombia",
         "url": "https://www.valoraanalitik.com/tesla-ofrece-financiacion-al-0-para-sus-carros-model-3-y-model-y-en-colombia/",
@@ -592,16 +602,6 @@
         "subseccion": "Bancarias",
         "publicacion": "",
         "titulo_fuente": "Los ejes del sector microfinanciero en Colombia para los próximos años: productividad, IA y economía plateada",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Consumo familiar aguanta en septiembre, aunque muestra desaceleración y genera alarmas",
-        "url": "https://www.valoraanalitik.com/gasto-de-los-hogares-resiste-en-septiembre-pero-confirma-la-moderacion-y-enciende-alertas/",
-        "resumen": "De acuerdo con Raddar, aunque el consumo logró sostenerse en terreno positivo, persisten claras señales de moderación y agotamiento.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Gasto de los hogares resiste en septiembre, pero confirma la moderación y enciende alertas",
         "capturado": "2026-10-22T15:29:06-05:00"
       }
     ],
