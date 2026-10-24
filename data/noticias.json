@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-23T16:56:37-05:00",
+  "actualizado": "2026-10-23T19:27:39-05:00",
   "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Vicepresidente señala que la corrección fiscal de Colombia en 2027 rondará los $70 billones",
+        "url": "https://www.valoraanalitik.com/ajuste-fiscal-de-colombia-2027-debe-ser-cercano-70-billones/",
+        "resumen": "El anuncio del funcionario se da un día después de que el Gobierno decretara un recorte presupuestal cercano a los $14 billones para 2026.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Ajuste fiscal de Colombia en 2027 debe ser cercano a $70 billones: Vicepresidente",
+        "capturado": "2026-10-23T19:27:39-05:00"
+      },
+      {
+        "titulo": "Grupo Argos prepara Obras por Impuestos en Colombia para agilizar la recuperación post terremoto",
+        "url": "https://www.valoraanalitik.com/grupo-argos-alista-obras-por-impuestos-en-colombia-para-acelerar-reconstruccion-tras-el-terremoto/",
+        "resumen": "Se evaluará con alcaldías y gobernaciones las necesidades para recuperar viviendas e infraestructura en las zonas afectadas, con más de 70 empresas aliadas.",
+        "autor": "",
+        "subseccion": "Grupo argos",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos alista Obras por Impuestos en Colombia para acelerar reconstrucción tras el terremoto",
+        "capturado": "2026-10-23T19:27:39-05:00"
+      },
+      {
+        "titulo": "Nivel de endeudamiento de las EPS en Colombia: los datos que alarman al sistema de salud",
+        "url": "https://www.valoraanalitik.com/que-tan-endeudadas-estan-las-eps-en-colombia-las-cifras-que-preocupan-al-sector-salud/",
+        "resumen": "Las deudas de las EPS en Colombia llegaron a cifras preocupantes, mientras su patrimonio negativo siguió creciendo.",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "¿Qué tan endeudadas están las EPS en Colombia?: Las cifras que preocupan al sector salud",
+        "capturado": "2026-10-23T19:27:39-05:00"
+      },
+      {
+        "titulo": "Titular de Bancolombia sugiere que el salario mínimo suba de 8 % a 9 % para 2027",
+        "url": "https://www.valoraanalitik.com/presidente-de-bancolombia-salario-minimo-deberia-aumentar-entre-8-y-9-para-2027/",
+        "resumen": "Juan Carlos Mora, presidente de Bancolombia, considera razonable un aumento del salario mínimo de entre 8 % y 9 % en 2027, según inflación y productividad.",
+        "autor": "",
+        "subseccion": "Bancolombia",
+        "publicacion": "",
+        "titulo_fuente": "Presidente de Bancolombia: salario mínimo debería aumentar entre 8 % y 9 % para 2027",
+        "capturado": "2026-10-23T19:27:39-05:00"
+      },
+      {
+        "titulo": "Cifra para reconstruir a Colombia tras el sismo sube a $54 billones, según MinVivienda",
+        "url": "https://www.valoraanalitik.com/costo-de-la-reconstruccion-de-colombia-tras-terremoto-aumenta-54-billones/",
+        "resumen": "Jaime Andrés Beltrán, titular de la cartera, reveló que ya hay $1,7 billones para comenzar la segunda fase de la reconstrucción.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Costo de la reconstrucción de Colombia tras terremoto aumenta a $54 billones, revelan datos de MinVivienda",
+        "capturado": "2026-10-23T19:27:39-05:00"
+      },
+      {
+        "titulo": "Operadores anticipan un tipo de interés de 12,50 % en el BanRep para octubre",
+        "url": "https://www.valoraanalitik.com/mercado-da-por-hecho-una-tasa-del-1250-en-banrep-para-octubre/",
+        "resumen": "La más reciente Encuesta ANIF revela que de las 19 entidades consultadas, 13 prevén un incremento de 25 puntos básicos en la tasa de intervención.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Mercado da por hecho una tasa del 12,50 % en BanRep para octubre",
+        "capturado": "2026-10-23T19:27:39-05:00"
+      },
       {
         "titulo": "Exclusiva | Grupo Argos da a conocer sus planes en EE. UU., Colombia y Venezuela de cara al año 2027",
         "url": "https://www.valoraanalitik.com/exclusiva-grupo-argos-revela-sus-apuestas-para-colombia-venezuela-y-ee-uu-para-2027/",
@@ -543,69 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Premercado | Mercados retroceden por dudas sobre la rentabilidad de inversiones en IA: Brent supera los US$110",
         "capturado": "2026-10-22T06:31:10-05:00"
-      },
-      {
-        "titulo": "Reforma pensional se alista para afrontar fase decisiva hacia su implementación",
-        "url": "https://www.valoraanalitik.com/reforma-pensional-a-punto-de-enfrentar-paso-clave-para-su-puesta-en-marcha/",
-        "resumen": "La reforma pensional deberá entrar a operar desde abril del año entrante-",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "Reforma pensional, a punto de enfrentar paso clave para su puesta en marcha",
-        "capturado": "2026-10-22T06:31:10-05:00"
-      },
-      {
-        "titulo": "Alerta | Rodrigo Lara sale del Ministerio del Interior en la administración De la Espriella y llega Alejandro Ordóñez",
-        "url": "https://www.valoraanalitik.com/atencion-rodrigo-lara-no-es-mas-el-ministro-del-interior-del-gobierno-de-la-espriella-alejandro-ordonez-lo-reemplaza/",
-        "resumen": "El anuncio fue dado a conocer por el presidente De la Espriella a través de su cuenta en X",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Rodrigo Lara no es más el ministro del Interior del gobierno De la Espriella; Alejandro Ordoñez lo reemplaza",
-        "capturado": "2026-10-22T00:54:20-05:00"
-      },
-      {
-        "titulo": "Camacol sugiere plan de emergencia por descenso en comercialización de casas: sugiere obras por 98 billones de pesos",
-        "url": "https://www.valoraanalitik.com/camacol-propone-plan-de-choque-ante-caida-en-ventas-de-viviendas-plantea-proyectos-por-98-billones/",
-        "resumen": "Camacol propuso un plan de choque con proyectos por más de $98 billones para reactivar la vivienda, ante la caída de ventas e iniciaciones de obra.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Camacol propone plan de choque ante caída en ventas de viviendas: plantea proyectos por $98 billones",
-        "capturado": "2026-10-22T00:54:20-05:00"
-      },
-      {
-        "titulo": "Destacado | EPM finaliza enajenación de relevante activo eléctrico que provee a 35 municipios de la región Caribe",
-        "url": "https://www.valoraanalitik.com/relevante-epm-cierra-venta-de-importante-negocio-de-energia-que-abastece-a-35-municipios-del-caribe-colombiano/",
-        "resumen": "EPM firmó un acuerdo para vender su participación en Energía Atenea, empresa que atiende a 361.000 clientes en 35 municipios del Caribe colombiano.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | EPM cierra venta de importante negocio de energía que abastece a 35 municipios del Caribe colombiano",
-        "capturado": "2026-10-22T00:54:20-05:00"
-      },
-      {
-        "titulo": "Colombia sella pacto con remoto país que prepara capitales petroleros por 10.500 millones de dólares",
-        "url": "https://www.valoraanalitik.com/colombia-firma-acuerdo-con-exotico-destino-que-alista-millonarias-inversiones-petroleras/",
-        "resumen": "El acuerdo abre nuevas oportunidades comerciales y empresariales para Colombia en un país que se prepara para una de las mayores apuestas petroleras.",
-        "autor": "",
-        "subseccion": "Petróleo",
-        "publicacion": "",
-        "titulo_fuente": "Colombia firma acuerdo con exótico destino que alista inversiones petroleras por US$10.500 millones",
-        "capturado": "2026-10-22T00:54:20-05:00"
-      },
-      {
-        "titulo": "Marco Fidel Acosta asume la presidencia del Fondo Nacional del Ahorro por designación del Ejecutivo",
-        "url": "https://www.valoraanalitik.com/gobierno-nombro-a-marco-fidel-acosta-como-nuevo-presidente-del-fondo-nacional-del-ahorro/",
-        "resumen": "Marco Fidel Acosta, exconcejal de Bogotá y fundador de Colombia Justa Libres, fue nombrado nuevo presidente del Fondo Nacional del Ahorro.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno nombró a Marco Fidel Acosta como nuevo presidente del Fondo Nacional del Ahorro",
-        "capturado": "2026-10-21T19:32:00-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Vicepresidente señala que en 2027 el ajuste fiscal colombiano requerirá cerca de 70 billones de pesos",
+        "url": "https://www.valoraanalitik.com/ajuste-fiscal-de-colombia-2027-debe-ser-cercano-70-billones/",
+        "resumen": "El anuncio del funcionario se da un día después de que el Gobierno decretara un recorte presupuestal cercano a los $14 billones para 2026.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Ajuste fiscal de Colombia en 2027 debe ser cercano a $70 billones: Vicepresidente",
+        "capturado": "2026-10-23T19:27:39-05:00"
+      },
+      {
+        "titulo": "Grupo Argos prepara Obras por Impuestos en el país para agilizar la reconstrucción post terremoto",
+        "url": "https://www.valoraanalitik.com/grupo-argos-alista-obras-por-impuestos-en-colombia-para-acelerar-reconstruccion-tras-el-terremoto/",
+        "resumen": "Se evaluará con alcaldías y gobernaciones las necesidades para recuperar viviendas e infraestructura en las zonas afectadas, con más de 70 empresas aliadas.",
+        "autor": "",
+        "subseccion": "Grupo argos",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos alista Obras por Impuestos en Colombia para acelerar reconstrucción tras el terremoto",
+        "capturado": "2026-10-23T19:27:39-05:00"
+      },
+      {
+        "titulo": "Endeudamiento de las EPS en Colombia genera alarma en el sistema de salud según las cifras",
+        "url": "https://www.valoraanalitik.com/que-tan-endeudadas-estan-las-eps-en-colombia-las-cifras-que-preocupan-al-sector-salud/",
+        "resumen": "Las deudas de las EPS en Colombia llegaron a cifras preocupantes, mientras su patrimonio negativo siguió creciendo.",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "¿Qué tan endeudadas están las EPS en Colombia?: Las cifras que preocupan al sector salud",
+        "capturado": "2026-10-23T19:27:39-05:00"
+      },
+      {
+        "titulo": "MinVivienda informa que la reconstrucción del país tras el sismo sube a un costo de 54 billones",
+        "url": "https://www.valoraanalitik.com/costo-de-la-reconstruccion-de-colombia-tras-terremoto-aumenta-54-billones/",
+        "resumen": "Jaime Andrés Beltrán, titular de la cartera, reveló que ya hay $1,7 billones para comenzar la segunda fase de la reconstrucción.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Costo de la reconstrucción de Colombia tras terremoto aumenta a $54 billones, revelan datos de MinVivienda",
+        "capturado": "2026-10-23T19:27:39-05:00"
+      },
       {
         "titulo": "Grupo Argos da a conocer sus planes en EE. UU., Venezuela y Colombia de cara al año 2027",
         "url": "https://www.valoraanalitik.com/exclusiva-grupo-argos-revela-sus-apuestas-para-colombia-venezuela-y-ee-uu-para-2027/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Estos fueron los campos que más le suministraron gas a Colombia en septiembre",
         "capturado": "2026-10-20T20:54:16-05:00"
-      },
-      {
-        "titulo": "Renault-Sofasa planea inyección de US$150 millones para ensamblar auto en Colombia",
-        "url": "https://www.valoraanalitik.com/renault-sofasa-proyecta-inversion-de-us150-millones-para-fabricar-nuevo-vehiculo-en-colombia/",
-        "resumen": "Renault-Sofasa avanza en una inversión de hasta US$150 millones para fabricar un nuevo vehículo en Colombia y ampliar exportaciones a Latinoamérica.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Renault-Sofasa proyecta inversión de US$150 millones para fabricar nuevo vehículo en Colombia",
-        "capturado": "2026-10-20T20:54:16-05:00"
-      },
-      {
-        "titulo": "Modificaciones del nuevo mandato nacional a normas de contratación, hostigamiento y apps en el país",
-        "url": "https://www.valoraanalitik.com/asi-cambiarian-las-reglas-laborales-sobre-tercerizacion-acoso-y-plataformas-digitales-en-colombia-con-el-nuevo-gobierno/",
-        "resumen": "Diego Felipe Valdivieso, socio y líder de la Unidad de Derecho Laboral y Seguridad Social de Scola Abogados, analizó las implicaciones de los cambios.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Así cambiarían las reglas laborales sobre tercerización, acoso y plataformas digitales en Colombia con el nuevo Gobierno",
-        "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "Trabajo nacional: administración De la Espriella otorgará cuarto de salario básico por empleado a firmas",
-        "url": "https://www.valoraanalitik.com/empleo-en-colombia-gobierno-de-de-la-espriella-dara-25-de-un-salario-minimo-por-cada-nuevo-trabajador/",
-        "resumen": "El Gobierno De la Espriella busca que más empresas contraten formalmente en un momento en que el desempleo volvió a subir en Colombia.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Empleo en Colombia: Gobierno De la Espriella dará 25 % de un salario mínimo por cada nuevo trabajador a estas empresas",
-        "capturado": "2026-10-20T18:19:24-05:00"
-      },
-      {
-        "titulo": "Asociación carbonera pidió suprimir castigo por gasto eléctrico en su sector",
-        "url": "https://www.valoraanalitik.com/gremio-del-carbon-solicito-eliminar-penalizacion-por-consumo-de-energia-en-su-industria/",
-        "resumen": "Para la organización, se elevarían en 10 % los costos de producción, lo que afectaría la competitividad de las empresas de carbón térmico.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gremio del carbón solicitó eliminar penalización por consumo de energía en su industria",
-        "capturado": "2026-10-20T18:19:24-05:00"
       }
     ]
   }
