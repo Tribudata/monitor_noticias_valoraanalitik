@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-24T12:17:28-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-24T14:41:41-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "José Manuel Restrepo alerta de una bomba fiscal que estallaría en marzo de 2027",
+        "url": "https://www.valoraanalitik.com/jose-manuel-restrepo-advierte-sobre-una-bomba-fiscal-que-podria-estallar-en-marzo-de-2027/",
+        "resumen": "José Manuel Restrepo aseguró que el Gobierno busca evitar una crisis de las finanzas públicas.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "José Manuel Restrepo advierte sobre una bomba fiscal que podría estallar en marzo de 2027",
+        "capturado": "2026-10-24T14:41:41-05:00"
+      },
       {
         "titulo": "Entrevista sobre el plan detrás de los pasajes de avión a 47000 pesos de JetSmart en Colombia",
         "url": "https://www.valoraanalitik.com/tiquetes-baratos-jetsmart-2026-colombia/",
@@ -593,19 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Entidades de microcrédito se suman a debate para cambiar la tasa de usura en Colombia: esta es su propuesta",
         "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Procuraduría solicita al Tribunal de Santander evitar medida cautelar sobre Santurbán previo a marzo de 2027",
-        "url": "https://www.valoraanalitik.com/procuraduria-pide-al-tribunal-de-santander-no-decretar-medida-cautelar-sobre-santurban-antes-de-marzo-de-2027/",
-        "resumen": "Asomineros manifestó que espera que las decisiones sobre Santurbán se tomen con base en lineamientos técnicos y jurídicos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Procuraduría pide al Tribunal de Santander no decretar medida cautelar sobre Santurbán antes de marzo de 2027",
-        "capturado": "2026-10-22T15:29:06-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El 48 % del mercado cervecero artesanal en Colombia es de Tres Cordilleras, la marca líder del sector",
+        "url": "https://www.valoraanalitik.com/3-cordilleras-se-consolida-como-la-cerveza-artesanal-mas-grande-de-colombia-concentra-el-48-de-la-participacion-en-el-mercado/",
+        "resumen": "Desde su fundación en 2008, ha acumulado siete medallas (una de oro, una de plata y cinco de bronce) en certámenes locales e internacionales.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "3 Cordilleras se consolida como la cerveza artesanal más grande de Colombia: concentra el 48 % de la participación en el mercado",
+        "capturado": "2026-10-24T14:41:41-05:00"
+      },
       {
         "titulo": "Entrevista | El plan detrás de los pasajes de avión a $47.000 de JetSmart en Colombia",
         "url": "https://www.valoraanalitik.com/tiquetes-baratos-jetsmart-2026-colombia/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Indra Group entrega una nueva sala de cómputo a institución educativa afectada por el terremoto en Caldas",
         "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "MinHacienda solicita adición de 1,2 billones de pesos al Presupuesto 2026 para subsidios energéticos",
-        "url": "https://www.valoraanalitik.com/ministerio-de-hacienda-pide-adicionar-12-billones-al-presupuesto-para-subsidios-de-energia/",
-        "resumen": "Para el ministro, el sector energético requiere de inversiones grandes, estabilidad en las reglas de juego y políticas a largo plazo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ministerio de Hacienda pide adicionar $1,2 billones al Presupuesto de 2026 para subsidios de energía",
-        "capturado": "2026-10-21T08:07:01-05:00"
       }
     ]
   }
