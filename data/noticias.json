@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-25T13:17:46-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-25T16:08:26-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "En directo | Escrutinio comicios Brasil: Lula y Bolsonaro en reñida pugna por la jefatura de Estado",
+        "url": "https://www.valoraanalitik.com/resultados-electorales-brasil-segunda-vuelta-lula-bolsonaro/",
+        "resumen": "El Tribunal Superior Electoral de Brasil prorrogó por 2 horas el horario de votación. Conteo iniciaría a las 7 pm de Brasilia, 3 pm hora Colombia.",
+        "autor": "",
+        "subseccion": "Elecciones presidenciales",
+        "publicacion": "",
+        "titulo_fuente": "En Vivo | Resultados elecciones Brasil: Bolsonaro y Lula en cerrada disputa por la Presidencia",
+        "capturado": "2026-10-25T16:08:26-05:00"
+      },
+      {
+        "titulo": "Guadalajara y Ciudad de México: así lucen las recientes y modernizadas instalaciones hoteleras NH en territorio mexicano",
+        "url": "https://www.valoraanalitik.com/guadalajara-mexico-cdmx-nh-hoteles/",
+        "resumen": "Colombia es el tercer país que más turistas envía a México por avión: unos 530.000 en 2025 y 174.000 entre enero y abril de este año.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Guadalajara y Ciudad de México: así son los nuevos y renovados hoteles NH en México",
+        "capturado": "2026-10-25T16:08:26-05:00"
+      },
       {
         "titulo": "Entrevista a Cachivaches, el negocio colombiano centrado en Halloween con más de seis décadas de expansión",
         "url": "https://www.valoraanalitik.com/cachivaches-la-empresa-colombiana-de-mas-de-50-anos-que-crece-con-halloween/",
@@ -582,26 +602,6 @@
         "subseccion": "Macroeconomía",
         "publicacion": "",
         "titulo_fuente": "Este es el decreto con el que De la Espriella expidió el Presupuesto de 2027 por $635 billones",
-        "capturado": "2026-10-22T23:14:39-05:00"
-      },
-      {
-        "titulo": "Ingresos trimestrales de Spotify duplican el presupuesto anual de Medellín según balance global",
-        "url": "https://www.valoraanalitik.com/spotify-facturo-en-tres-meses-casi-el-doble-del-presupuesto-anual-de-medellin-asi-fueron-sus-resultados-globales-del-tercer-trimestre/",
-        "resumen": "Spotify aumentó sus ingresos un 16 % y llegó a 788 millones de usuarios activos mensuales. Estos son los resultados que muestran el tamaño de su negocio global.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Spotify facturó en tres meses casi el doble del presupuesto anual de Medellín: así fueron sus resultados globales del tercer trimestre",
-        "capturado": "2026-10-22T23:14:39-05:00"
-      },
-      {
-        "titulo": "Tuya designa a Juan Sebastián Correa vicepresidente legal por la dimisión de Juan Carlos Velásquez",
-        "url": "https://www.valoraanalitik.com/tuya-nombra-a-juan-sebastian-correa-como-vicepresidente-legal-tras-renuncia-de-juan-carlos-velasquez/",
-        "resumen": "La compañía de financiamiento Tuya confirmó la salida de Juan Carlos Velásquez Vallejo y anunció dos designaciones en su estructura directiva.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Tuya nombra a Juan Sebastián Correa como vicepresidente legal tras renuncia de Juan Carlos Velásquez",
         "capturado": "2026-10-22T23:14:39-05:00"
       }
     ],
