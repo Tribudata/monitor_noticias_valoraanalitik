@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-25T05:03:41-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-25T09:31:31-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Dilema pensional: cuenta fiscal, discusión en el Congreso y necesidad de aplazar su vigencia",
+        "url": "https://www.valoraanalitik.com/encrucijada-pensional-entre-el-ajuste-fiscal-el-debate-legislativo-y-la-urgencia-de-posponer-su-puesta-en-marcha/",
+        "resumen": "Tras el pronunciamiento de la Corte Constitucional, el nuevo sistema de seguridad social se encuentra en medio de dos fuerzas contrapuestas.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Encrucijada pensional: entre el ajuste fiscal, el debate legislativo y la urgencia de posponer su puesta en marcha",
+        "capturado": "2026-10-25T09:31:31-05:00"
+      },
+      {
+        "titulo": "Elecciones en Brasil: empate entre Lula y Flávio Bolsonaro de cara al balotaje",
+        "url": "https://www.valoraanalitik.com/brasil-define-su-rumbo-politico-lula-y-flavio-bolsonaro-llegan-empatados-a-la-segunda-vuelta/",
+        "resumen": "El presidente Lula da Silva y Flávio Bolsonaro llegan a la segunda vuelta presidencial con números reñidos.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Brasil define su rumbo político: Lula y Flávio Bolsonaro llegan empatados a la segunda vuelta",
+        "capturado": "2026-10-25T09:31:31-05:00"
+      },
       {
         "titulo": "Oportunidad laboral en Colombia: aprenda cuál es la temporada ideal para conseguir trabajo ágilmente",
         "url": "https://www.valoraanalitik.com/empleo-en-colombia-conozca-el-mejor-momento-para-ser-contratado-facil-y-rapido/",
@@ -582,26 +602,6 @@
         "subseccion": "Empleos",
         "publicacion": "",
         "titulo_fuente": "Nuevo plan del Gobierno De la Espriella para generar empleo en estas regiones: estos ciudadanos podrán ser contratados fácilmente",
-        "capturado": "2026-10-22T18:32:33-05:00"
-      },
-      {
-        "titulo": "BanRep advierte que el elevado déficit fiscal presiona la baja del dólar en el país y encarece los pasivos",
-        "url": "https://www.valoraanalitik.com/banrep-advierte-que-alto-deficit-fiscal-presiona-caida-del-dolar-en-colombia-y-encarece-la-deuda/",
-        "resumen": "Leonardo Villar señaló que el Gobierno se ha visto obligado a endeudarse para cubrir sus gastos, lo que ha provocado una entrada masiva de dólares.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "BanRep advierte que alto déficit fiscal presiona caída del dólar en Colombia y encarece la deuda",
-        "capturado": "2026-10-22T18:32:33-05:00"
-      },
-      {
-        "titulo": "Estos son los 7 ejes clave del Plan Nacional de Desarrollo del gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/estos-son-los-7-ejes-clave-del-plan-nacional-de-desarrollo-del-gobierno-de-la-espriella/",
-        "resumen": "El Gobierno de Abelardo de la Espriella definió siete ejes para construir el Plan Nacional de Desarrollo 2026-2030. Conozca sus principales apuestas.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los 7 ejes clave del Plan Nacional de Desarrollo del gobierno De la Espriella",
         "capturado": "2026-10-22T18:32:33-05:00"
       }
     ],
