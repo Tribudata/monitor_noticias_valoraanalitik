@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-25T09:31:31-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-25T13:17:46-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Entrevista a Cachivaches, el negocio colombiano centrado en Halloween con más de seis décadas de expansión",
+        "url": "https://www.valoraanalitik.com/cachivaches-la-empresa-colombiana-de-mas-de-50-anos-que-crece-con-halloween/",
+        "resumen": "En entrevista con Valora Analitik, Juan de la Espriella, gerente de Cachivaches, revela cómo ha evolucionado el mercado de disfraces en Colombia.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Cachivaches, la empresa colombiana de más de 60 años que crece con Halloween: así cambió el negocio de los disfraces",
+        "capturado": "2026-10-25T13:17:46-05:00"
+      },
+      {
+        "titulo": "Entrevista: Hero Motos destina más de US$2 millones en Colombia para 2026 con metas de alta expansión",
+        "url": "https://www.valoraanalitik.com/entrevista-hero-motos-ha-invertido-en-colombia-mas-de-us2-millones-en-2026-planes-de-crecer-a-doble-digito-y-nuevas-unidades-de-negocio/",
+        "resumen": "En Colombia se encuentra la única planta de producción de Hero fuera de Asia.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Hero Motos ha invertido en Colombia más de US$2 millones en 2026: planes de crecer a doble dígito y nuevas unidades de negocio",
+        "capturado": "2026-10-25T13:17:46-05:00"
+      },
+      {
+        "titulo": "Alerta: María Corina Machado vuelve a territorio venezolano luego de casi diez meses de ausencia",
+        "url": "https://www.valoraanalitik.com/maria-corina-machado-regresa-venezuela-2026/",
+        "resumen": "Su regreso llega tras al menos siete intentos fallidos y en medio del Gobierno interino de Delcy Rodríguez.",
+        "autor": "",
+        "subseccion": "Insidevenezuela",
+        "publicacion": "",
+        "titulo_fuente": "Atención | María Corina Machado regresa a Venezuela tras casi diez meses fuera del país",
+        "capturado": "2026-10-25T13:17:46-05:00"
+      },
+      {
+        "titulo": "Conclusión de las APPA en Antioquia: administración nacional elimina trabas sobre 103.000 hectáreas",
+        "url": "https://www.valoraanalitik.com/fin-appa-antioquia-gobierno-restricciones/",
+        "resumen": "La UPRA concluyó que la figura tenía fallas cartográficas y vacíos de consulta previa. Córdoba y Tolima son las siguientes en la lista.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Fin de las APPA en Antioquia: Gobierno levanta restricciones sobre 103.000 hectáreas",
+        "capturado": "2026-10-25T13:17:46-05:00"
+      },
+      {
+        "titulo": "Entrevista al presidente de AngloGold Ashanti: Colombia tiene que priorizar gas, cobre y oro",
+        "url": "https://www.valoraanalitik.com/colombia-debe-enfocarse-en-oro-cobre-y-gas-presidente-de-anglogold-ashanti/",
+        "resumen": "Alberto Calderón, CEO de la empresa y expresidente de Ecopetrol, habló sobre el panorama minero-energético en Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Colombia debe enfocarse en oro, cobre y gas: presidente de AngloGold Ashanti",
+        "capturado": "2026-10-25T13:17:46-05:00"
+      },
       {
         "titulo": "Dilema pensional: cuenta fiscal, discusión en el Congreso y necesidad de aplazar su vigencia",
         "url": "https://www.valoraanalitik.com/encrucijada-pensional-entre-el-ajuste-fiscal-el-debate-legislativo-y-la-urgencia-de-posponer-su-puesta-en-marcha/",
@@ -553,59 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Tuya nombra a Juan Sebastián Correa como vicepresidente legal tras renuncia de Juan Carlos Velásquez",
         "capturado": "2026-10-22T23:14:39-05:00"
-      },
-      {
-        "titulo": "Titular de Grupo Argos afirma que se debe invertir en el país en este instante",
-        "url": "https://www.valoraanalitik.com/presidente-grupo-argos-es-el-momento-de-invertir-en-colombia/",
-        "resumen": "Juan Esteban Calle, CEO del holding de infraestructura, reveló que tienen un portafolio de $20 billones para invertir en el país.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Presidente de Grupo Argos: «Es el momento de invertir en Colombia»",
-        "capturado": "2026-10-22T23:14:39-05:00"
-      },
-      {
-        "titulo": "Fintech eleva el rendimiento de sus Bóvedas al 12,5 por ciento y explica cómo obtenerlo",
-        "url": "https://www.valoraanalitik.com/fintech-littio-subio-rentabilidad-bovedas/",
-        "resumen": "Littio elevó las recompensas potenciales de sus productos en pesos digitales. La tasa depende del plazo y de si el usuario tiene una suscripción Pro.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Esta fintech subió la rentabilidad de sus Bóvedas hasta 12,5 %; así puede lograr estos rendimientos",
-        "capturado": "2026-10-22T23:14:39-05:00"
-      },
-      {
-        "titulo": "Jorge Llano Salamanca asume como subsecretario técnico de Hacienda en Bogotá tras laborar en el AMV",
-        "url": "https://www.valoraanalitik.com/jorge-llano-salamanca-es-el-nuevo-subsecretario-tecnico-de-hacienda-de-bogota-tras-su-paso-por-el-amv/",
-        "resumen": "Jorge Llano Salamanca fue nombrado subsecretario técnico de Hacienda de Bogotá, tras una trayectoria en el sector financiero y entidades públicas.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Jorge Llano Salamanca es el nuevo subsecretario técnico de Hacienda de Bogotá tras su paso por el AMV",
-        "capturado": "2026-10-22T18:32:33-05:00"
-      },
-      {
-        "titulo": "Bogotá impulsa 60.000 auxilios habitacionales para dinamizar al gremio de la construcción",
-        "url": "https://www.valoraanalitik.com/bogota-apuesta-por-60-000-subsidios-de-vivienda-para-reactivar-el-sector-constructor/",
-        "resumen": "El alcalde indicó que la meta de su administración es alcanzar cerca de 60.000 subsidios asignados al finalizar el gobierno.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá apuesta por 60.000 subsidios de vivienda para reactivar el sector constructor",
-        "capturado": "2026-10-22T18:32:33-05:00"
-      },
-      {
-        "titulo": "Nuevo plan del Gobierno De la Espriella para generar empleo en estas regiones: estos ciudadanos podrán ser contratados fácilmente",
-        "url": "https://www.valoraanalitik.com/nuevo-plan-del-gobierno-de-la-espriella-para-generar-empleo-en-estas-regiones-estos-ciudadanos-podran-ser-contratados-facilmente/",
-        "resumen": "Estos son los ciudadanos que se pueden beneficiar y lo que se sabe del nuevo plan de empleo del Gobierno De la Espriella.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo plan del Gobierno De la Espriella para generar empleo en estas regiones: estos ciudadanos podrán ser contratados fácilmente",
-        "capturado": "2026-10-22T18:32:33-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista a Cachivaches: la firma nacional con seis décadas se expande gracias a Halloween",
+        "url": "https://www.valoraanalitik.com/cachivaches-la-empresa-colombiana-de-mas-de-50-anos-que-crece-con-halloween/",
+        "resumen": "En entrevista con Valora Analitik, Juan de la Espriella, gerente de Cachivaches, revela cómo ha evolucionado el mercado de disfraces en Colombia.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Cachivaches, la empresa colombiana de más de 60 años que crece con Halloween: así cambió el negocio de los disfraces",
+        "capturado": "2026-10-25T13:17:46-05:00"
+      },
+      {
+        "titulo": "Entrevista: Hero Motos suma más de US$2 millones de inversión en Colombia este 2026",
+        "url": "https://www.valoraanalitik.com/entrevista-hero-motos-ha-invertido-en-colombia-mas-de-us2-millones-en-2026-planes-de-crecer-a-doble-digito-y-nuevas-unidades-de-negocio/",
+        "resumen": "En Colombia se encuentra la única planta de producción de Hero fuera de Asia.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Hero Motos ha invertido en Colombia más de US$2 millones en 2026: planes de crecer a doble dígito y nuevas unidades de negocio",
+        "capturado": "2026-10-25T13:17:46-05:00"
+      },
+      {
+        "titulo": "Presidente de AngloGold Ashanti señala que el país debe priorizar gas, oro y cobre",
+        "url": "https://www.valoraanalitik.com/colombia-debe-enfocarse-en-oro-cobre-y-gas-presidente-de-anglogold-ashanti/",
+        "resumen": "Alberto Calderón, CEO de la empresa y expresidente de Ecopetrol, habló sobre el panorama minero-energético en Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Colombia debe enfocarse en oro, cobre y gas: presidente de AngloGold Ashanti",
+        "capturado": "2026-10-25T13:17:46-05:00"
+      },
       {
         "titulo": "Oportunidades laborales en Colombia: descubra la época ideal para una contratación ágil",
         "url": "https://www.valoraanalitik.com/empleo-en-colombia-conozca-el-mejor-momento-para-ser-contratado-facil-y-rapido/",
@@ -1174,36 +1204,6 @@
         "subseccion": "Ultimas tecnologia",
         "publicacion": "",
         "titulo_fuente": "El fraude potenciado por IA puede llegar a ser 4,5 veces más rentable que los métodos tradicionales, según expertos",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Firma de colombiana obtiene US$500.000 del gobierno estadounidense por innovar en salud",
-        "url": "https://www.valoraanalitik.com/empresa-fundada-por-colombiana-recibe-us500-000-del-gobierno-de-estados-unidos-tras-lograr-innovacion-en-deteccion-de-enfermedades/",
-        "resumen": "La médica colombiana María Artunduaga recibió un respaldo de cerca de US$500.000 para su empresa que desarrolló una importante innovación.",
-        "autor": "",
-        "subseccion": "Emprendedores",
-        "publicacion": "",
-        "titulo_fuente": "Empresa fundada por colombiana recibe US$500.000 del Gobierno de Estados Unidos tras lograr innovación en detección de enfermedades",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Empieza a funcionar nuevo parque solar de Enel en el Atlántico y así se compone su oferta verde",
-        "url": "https://www.valoraanalitik.com/nuevo-parque-solar-de-enel-en-atlantico-entro-en-operacion-asi-queda-su-portafolio-en-renovables/",
-        "resumen": "Para la empresa, esto fortalece la matriz energética colombiana, en medio del fenómeno de El Niño que estresa al sistema.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo parque solar de Enel en Atlántico entró en operación: así queda su portafolio en renovables",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Listado Merco revela cuáles son las directivas con mejor reputación en el país para 2026",
-        "url": "https://www.valoraanalitik.com/las-empresarias-con-mejor-reputacion-en-colombia-en-2026-segun-ranking-merco/",
-        "resumen": "Estas son las empresarias colombianas con mejor reputación para 2026. Conozca el Ranking Merco completo.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Las empresarias con mejor reputación en Colombia en 2026, según Ranking Merco",
         "capturado": "2026-10-21T13:12:12-05:00"
       }
     ]
