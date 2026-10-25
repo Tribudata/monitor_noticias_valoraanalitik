@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-25T16:08:26-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-25T18:29:03-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
       {
@@ -607,6 +607,16 @@
     ],
     "Empresariales": [
       {
+        "titulo": "El factoring avanza en Colombia y nuevas fintech respaldan este esquema de liquidez corporativa",
+        "url": "https://www.valoraanalitik.com/factoring-sigue-creciendo-en-colombia-lulo/",
+        "resumen": "Factoring movilizó $37,1 billones en facturas a julio de 2026, el 79 % de todo 2025. Lulo Bank ofrece financiación digital para los negocios.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Factoring sigue creciendo en Colombia y más fintechs apuestan por este modelo financiero para las empresas",
+        "capturado": "2026-10-25T18:29:03-05:00"
+      },
+      {
         "titulo": "Entrevista a Cachivaches: la firma nacional con seis décadas se expande gracias a Halloween",
         "url": "https://www.valoraanalitik.com/cachivaches-la-empresa-colombiana-de-mas-de-50-anos-que-crece-con-halloween/",
         "resumen": "En entrevista con Valora Analitik, Juan de la Espriella, gerente de Cachivaches, revela cómo ha evolucionado el mercado de disfraces en Colombia.",
@@ -1194,16 +1204,6 @@
         "subseccion": "Ecopetrol",
         "publicacion": "",
         "titulo_fuente": "Más importación de gas, fracking y Sirius son las claves para recuperar el autoabastecimiento en Colombia",
-        "capturado": "2026-10-21T13:12:12-05:00"
-      },
-      {
-        "titulo": "Estudios indican que el fraude con IA alcanza una rentabilidad 4,5 veces superior a la clásica",
-        "url": "https://www.valoraanalitik.com/el-fraude-potenciado-por-ia-puede-llegar-a-ser-45-veces-mas-rentable-que-los-metodos-tradicionales-segun-expertos/",
-        "resumen": "Este escenario plantea nuevos desafíos para bancos, fintechs, medios de pago, comercios electrónicos y otras organizaciones.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "El fraude potenciado por IA puede llegar a ser 4,5 veces más rentable que los métodos tradicionales, según expertos",
         "capturado": "2026-10-21T13:12:12-05:00"
       }
     ]
