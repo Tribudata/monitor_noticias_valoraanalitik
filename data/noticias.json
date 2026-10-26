@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-25T18:29:03-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-25T20:36:24-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Acciones y futuros brasileros caen fuertemente luego de ajustada victoria electoral de Lula da Silva",
+        "url": "https://www.valoraanalitik.com/futuros-y-acciones-en-brasil-se-desploman-tras-apretada-reeleccion-de-lula-da-silva/",
+        "resumen": "El ETF EWZ, uno de los instrumentos utilizados para tomar exposición a acciones de Brasil, cae casi un 20 % tras confirmarse la reelección de Lula da Silva.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Futuros y acciones en Brasil se desploman tras apretada reelección de Lula da Silva",
+        "capturado": "2026-10-25T20:36:24-05:00"
+      },
+      {
+        "titulo": "Urgente | Lula Da Silva gana la presidencia de Brasil frente a Flávio Bolsonaro con 51,66 % y rompe pronósticos",
+        "url": "https://www.valoraanalitik.com/lula-da-silva-reelegido-presidente-brasil/",
+        "resumen": "El mandatario, de 80 años, superó al senador, que había ganado la primera vuelta y aparecía adelante en 15 de 17 encuestas.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Lula Da Silva es reelegido presidente de Brasil tras vencer a Flávio Bolsonaro con el 51,66 % de los votos: sorprende a mayoría de encuestas",
+        "capturado": "2026-10-25T20:36:24-05:00"
+      },
       {
         "titulo": "En directo | Escrutinio comicios Brasil: Lula y Bolsonaro en reñida pugna por la jefatura de Estado",
         "url": "https://www.valoraanalitik.com/resultados-electorales-brasil-segunda-vuelta-lula-bolsonaro/",
@@ -582,26 +602,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Atención | Grupo Gilinski comprará Presto a través de filial de Nutresa que es dueña de El Corral y Mimo’s: estos son los detalles",
-        "capturado": "2026-10-22T23:14:39-05:00"
-      },
-      {
-        "titulo": "Gobierno designó oficialmente a Jorge Alberto Jaller como embajador de Colombia en Venezuela",
-        "url": "https://www.valoraanalitik.com/gobierno-oficializo-el-nombramiento-de-jorge-alberto-jaller-como-embajador-de-colomba-en-venezuela/",
-        "resumen": "El Gobierno oficializó el nombramiento de Jorge Alberto Jaller como embajador en Venezuela, en medio de nuevos acercamientos comerciales.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno oficializó el nombramiento de Jorge Alberto Jaller como embajador de Colomba en Venezuela",
-        "capturado": "2026-10-22T23:14:39-05:00"
-      },
-      {
-        "titulo": "Decreto mediante el cual se fijó el Presupuesto de 2027 en 635 billones",
-        "url": "https://www.valoraanalitik.com/este-es-el-decreto-con-el-que-de-la-espriella-expidio-el-presupuesto-de-2027-por-635-billones/",
-        "resumen": "El Gobierno expidió el Presupuesto de 2027 por decreto, luego de un error en el trámite del Congreso que impidió cumplir los plazos legislativos del proyecto.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Este es el decreto con el que De la Espriella expidió el Presupuesto de 2027 por $635 billones",
         "capturado": "2026-10-22T23:14:39-05:00"
       }
     ],
