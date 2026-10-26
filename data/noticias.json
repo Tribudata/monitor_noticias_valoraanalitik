@@ -1,9 +1,109 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-26T10:01:52-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-10-26T15:41:11-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Llega al país nueva firma tecnológica tras captar US$180 millones en capital",
+        "url": "https://www.valoraanalitik.com/nueva-multinacional-de-tecnologia-llega-a-colombia-tras-recibir-inversion-de-us180-millones/",
+        "resumen": "Una multinacional de tecnología aterriza en Colombia y busca transformar las decisiones de compra y venta en el comercio.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Nueva multinacional de tecnología llega a Colombia tras recibir inversión de US$180 millones",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Anthropic, creadora de Claude, inició trámites para cotizar en la Bolsa de Nueva York",
+        "url": "https://www.valoraanalitik.com/anthropic-claude-acciones-bolsa-nueva-york/",
+        "resumen": "La compañía presentó ante la SEC la documentación para su salida a bolsa y reportó compromisos de pago por US$417.000 millones para más capacidades.",
+        "autor": "",
+        "subseccion": "Financieras internacionales",
+        "publicacion": "",
+        "titulo_fuente": "Anthropic, la empresa detrás de Claude, comenzó proceso para listar sus acciones en la Bolsa de Nueva York",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia toca su piso mensual y bordea la barrera de $3.100",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-nivel-mas-bajo-un-mes/",
+        "resumen": "En una jornada volátil y con marcada corrección bajista, el dólar en Colombia cerró en $3.130, su cotización más baja en más de un mes.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia cae a su nivel más bajo en más de un mes y se acerca al soporte de $3.100",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Contrarreforma pensional permitiría a ciudadanos cambiar de fondo y rescatar saldos sin pensión",
+        "url": "https://www.valoraanalitik.com/contrarreforma-pensional-colombianos-podrian-volver-a-elegir-fondo-y-recuperar-ahorros-si-no-se-jubilan/",
+        "resumen": "La propuesta elimina la obligatoriedad de cotizar en Colpensiones sobre los ingresos de hasta 2,3 salarios mínimos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Contrarreforma pensional: colombianos podrían volver a elegir fondo y recuperar ahorros si no se jubilan",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Colombia posee el segundo esquema fiscal menos competitivo de la OCDE según reporte de 2026",
+        "url": "https://www.valoraanalitik.com/colombia-tiene-el-segundo-sistema-tributario-menos-competitivo-de-la-ocde-segun-indice-de-2026/",
+        "resumen": "Este es el ranking de los sistemas tributarios más competitivos de la OCDE.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Colombia tiene el segundo sistema tributario menos competitivo de la OCDE, según índice de 2026",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella alista plan de rescate empresarial tras el caso Presto",
+        "url": "https://www.valoraanalitik.com/tras-el-caso-presto-gobierno-de-la-espriella-anuncia-plan-para-rescatar-otras-empresas-en-riesgo-de-quiebra/",
+        "resumen": "Tras la compra de Presto por Grupo Nutresa, el Gobierno De la Espriella anunció un plan para empresas en riesgo de cerrar y proteger empleos en Colombia.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Tras el caso Presto, Gobierno De la Espriella anuncia plan para rescatar otras empresas en riesgo de quiebra",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Térmica Proeléctrica prueba iniciativa que abastecería a unos 438.000 hogares",
+        "url": "https://www.valoraanalitik.com/termica-proelectrica-inicia-pruebas-de-proyecto-que-generaria-energia-para-unos-438-000-hogares/",
+        "resumen": "La compañía manifestó que la ampliación contribuirá a garantizar el suministro eléctrico al parque industrial de Cartagena.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Térmica Proeléctrica inicia pruebas de proyecto que generaría energía para unos 438.000 hogares",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Primicia | Resolución del Gobierno De la Espriella retoma Autopistas del Café",
+        "url": "https://www.valoraanalitik.com/primicia-resolucion-de-la-espriella-revivio-el-megaproyecto-para-autopistas-del-cafe/",
+        "resumen": "La decisión tumba el rechazo emitido el pasado 25 de mayo de 2026 y ordena reanudar de inmediato la evaluación de la propuesta en etapa de factibilidad.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Esta es la resolución con la que el Gobierno De la Espriella revivió el megaproyecto para Autopistas del Café",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Petrolera de India halla crudo en pozo exploratorio en el Meta: los detalles",
+        "url": "https://www.valoraanalitik.com/petrolera-estatal-de-india-encontro-petroleo-en-pozo-exploratorio-en-el-meta-estos-son-los-detalles/",
+        "resumen": "El potencial del yacimiento aún está por determinarse. La compañía realizará nuevos análisis técnicos para precisar los volúmenes de hidrocarburos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Petrolera estatal de India encontró petróleo en pozo exploratorio en el Meta: estos son los detalles",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Nuevas vacantes en el Banco de Talentos del Gobierno De la Espriella: cómo postularse",
+        "url": "https://www.valoraanalitik.com/nuevas-vacantes-en-el-banco-de-talentos-del-gobierno-de-la-espriella-asi-puede-aplicar-a-los-empleos-con-altos-salarios/",
+        "resumen": "El Banco de Talentos del Gobierno De la Espriella anunció nuevas vacantes en el exterior. Conozca los cargos, los países y cómo postularse.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Nuevas vacantes en el Banco de Talentos del Gobierno De la Espriella: así puede aplicar a los empleos con altos salarios",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
       {
         "titulo": "El país destinó los ingresos petroleros recientes a cubrir los subsidios del diésel y la gasolina",
         "url": "https://www.valoraanalitik.com/colombia-se-gasto-su-renta-petrolera-de-los-ultimos-anos-en-pagar-subsidios-a-la-gasolina-y-el-diesel/",
@@ -503,109 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Así es la apuesta de Bogotá para desarrollar vivienda y comercio junto al metro",
         "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "Ejecutivo revela siete acuerdos para promover a Urabá como centro portuario",
-        "url": "https://www.valoraanalitik.com/gobierno-anuncia-siete-compromisos-para-impulsar-a-uraba-como-hub-logistico-y-portuario/",
-        "resumen": "Entre los principales anuncios está la culminación del Túnel del Toyo y su integración con la Autopista al Mar.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno anuncia siete compromisos para impulsar a Urabá como hub logístico y portuario",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "Sismo afectó 2,25 billones en microcréditos y a 183.254 clientes nacionales",
-        "url": "https://www.valoraanalitik.com/terremoto-microcreditos-afectados-colombia/",
-        "resumen": "El 71,2 % de los clientes afectados pertenece a los estratos 1 y 2 y el 52,4 % trabaja en el agro, según Asomicrofinanzas.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Terremoto dejó $2,25 billones en microcréditos afectados y golpeó a 183.254 clientes en Colombia",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "Cambios en enlace del MinHacienda tras hundimiento del presupuesto legislativo",
-        "url": "https://www.valoraanalitik.com/remezon-en-oficina-de-enlace-del-minhacienda-por-caida-del-proyecto-de-presupuesto-en-el-congreso/",
-        "resumen": "En un artículo del proyecto de ley de presupuesto hubo diferencias entre la Cámara y el Senado de la República que impidieron publicar la ley.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Remezón en oficina de enlace del MinHacienda por caída del proyecto de presupuesto en el Congreso",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "Antioquia lideró la producción de energía hidroeléctrica nacional en septiembre",
-        "url": "https://www.valoraanalitik.com/antioquia-fue-la-region-que-mas-aporto-a-la-generacion-hidroelectrica-de-colombia-en-septiembre/",
-        "resumen": "Entidades regulatorias del sector han señalado la importancia de contar con niveles superiores a 80 % para enfrentar el fenómeno de El Niño.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Antioquia fue la región que más aportó a la generación hidroeléctrica de Colombia en septiembre",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "Fintech apoyada por Tether reporta nuevas contrataciones y capital en Colombia tras conseguir gran financiación",
-        "url": "https://www.valoraanalitik.com/mural-fintech-respaldada-por-tether-anuncia-nuevas-inversiones-y-contrataciones-en-colombia-tras-lograr-millonaria-financiacion/",
-        "resumen": "En entrevista con Valora Analitik, Sinclair Toffa, cofundador y CEO de Mural, revela nuevas inversiones y contrataciones en Colombia. Estos son los detalles.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Fintech respaldada por Tether anuncia nuevas inversiones y contrataciones en Colombia tras lograr millonaria financiación",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "EPM advierte escaso nivel en embalses de Hidroituango y Guatapé por El Niño y compraría energía en bolsa",
-        "url": "https://www.valoraanalitik.com/epm-alerta-por-bajo-nivel-en-embalses-de-hidroituango-y-guatape-por-el-nino-tendria-que-comprar-mas-energia-en-bolsa/",
-        "resumen": "La empresa advirtió que, cuando disminuye la generación hidroeléctrica, EPM enfrenta presiones para cumplir sus compromisos de suministro de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "EPM alerta por bajo nivel en embalses de Hidroituango y Guatapé por El Niño; tendría que comprar más energía en bolsa",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "MinHacienda frena $13,8 billones del Presupuesto de 2026 y avisa que es tan solo la etapa inicial",
-        "url": "https://www.valoraanalitik.com/minhacienda-concreta-recorte-de-138-billones-en-el-presupuesto-de-2026-y-dice-que-es-apenas-la-primera-fase/",
-        "resumen": "MinHacienda concreta recorte de $13,8 billones en el Presupuesto de 2026 y dice que es apenas la primera fase.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda concreta recorte de $13,8 billones en el Presupuesto de 2026 y dice que es apenas la primera fase",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "Bogotá, Ciudad de México y Panamá expusieron la historia de sus plazas de mercado en Expo Agrofuturo 2026",
-        "url": "https://www.valoraanalitik.com/plazas-mercado-bogota-expo-agro-futuro/",
-        "resumen": "Expo Agrofuturo 2026 continúa hasta el 23 de octubre en Corferias con más de 350 empresas expositoras.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá, Ciudad de México y Panamá compartieron en Expo Agrofuturo 2026 el legado de sus plazas de mercado",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "Mineros planea repartir dividendos extraordinarios por US$58 millones y convoca a Asamblea de Accionistas",
-        "url": "https://www.valoraanalitik.com/mineros-busca-pagar-dividendos-extraordinarios-por-us58-millones-cita-a-asamblea-de-accionistas/",
-        "resumen": "De ser aprobado, el Dividendo Extraordinario se pagará en una sola cuota el 4 de diciembre de 2026 a los accionistas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Mineros busca pagar dividendos extraordinarios por US$58 millones: cita a Asamblea de Accionistas",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio inicia en $3.172 luego de que De la Espriella informara recorte fiscal de $13,8 billones",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-en-3-172-tras-anuncio-de-recorte-fiscal-de-138-billones-por-de-la-espriella/",
-        "resumen": "En una semana con escasos catalizadores de datos macroeconómicos, la atención de las mesas de dinero se enfocó en las tensiones geopolíticas.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre en $3.172 tras anuncio de recorte fiscal de $13,8 billones por De la Espriella",
-        "capturado": "2026-10-23T09:22:57-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Aterriza en Colombia nueva tecnológica tras captar fondos por US$180 millones",
+        "url": "https://www.valoraanalitik.com/nueva-multinacional-de-tecnologia-llega-a-colombia-tras-recibir-inversion-de-us180-millones/",
+        "resumen": "Una multinacional de tecnología aterriza en Colombia y busca transformar las decisiones de compra y venta en el comercio.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Nueva multinacional de tecnología llega a Colombia tras recibir inversión de US$180 millones",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "El sistema tributario colombiano es el segundo menos competitivo de la OCDE en 2026",
+        "url": "https://www.valoraanalitik.com/colombia-tiene-el-segundo-sistema-tributario-menos-competitivo-de-la-ocde-segun-indice-de-2026/",
+        "resumen": "Este es el ranking de los sistemas tributarios más competitivos de la OCDE.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Colombia tiene el segundo sistema tributario menos competitivo de la OCDE, según índice de 2026",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella lanza plan para salvar empresas en riesgo tras caso Presto",
+        "url": "https://www.valoraanalitik.com/tras-el-caso-presto-gobierno-de-la-espriella-anuncia-plan-para-rescatar-otras-empresas-en-riesgo-de-quiebra/",
+        "resumen": "Tras la compra de Presto por Grupo Nutresa, el Gobierno De la Espriella anunció un plan para empresas en riesgo de cerrar y proteger empleos en Colombia.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Tras el caso Presto, Gobierno De la Espriella anuncia plan para rescatar otras empresas en riesgo de quiebra",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Arrancan pruebas en Proeléctrica de iniciativa que abastecería a 438.000 hogares",
+        "url": "https://www.valoraanalitik.com/termica-proelectrica-inicia-pruebas-de-proyecto-que-generaria-energia-para-unos-438-000-hogares/",
+        "resumen": "La compañía manifestó que la ampliación contribuirá a garantizar el suministro eléctrico al parque industrial de Cartagena.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Térmica Proeléctrica inicia pruebas de proyecto que generaría energía para unos 438.000 hogares",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Universidad de La Sabana y Brinsa capacitan a 40 técnicos en química de la sal",
+        "url": "https://www.valoraanalitik.com/brinsa-y-la-universidad-de-la-sabana-forman-a-40-tecnicos-en-la-quimica-de-la-sal/",
+        "resumen": "La primera cohorte reúne a 40 estudiantes, entre ellos, 33 colaboradores de la compañía y siete jóvenes de colegios públicos de Cajicá y Zipaquirá.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Brinsa y la Universidad de La Sabana forman a 40 técnicos en la química de la sal",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
+      {
+        "titulo": "Hidrocarburífera oficial de la India halló crudo en área de exploración del Meta y estos son los datos",
+        "url": "https://www.valoraanalitik.com/petrolera-estatal-de-india-encontro-petroleo-en-pozo-exploratorio-en-el-meta-estos-son-los-detalles/",
+        "resumen": "El potencial del yacimiento aún está por determinarse. La compañía realizará nuevos análisis técnicos para precisar los volúmenes de hidrocarburos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Petrolera estatal de India encontró petróleo en pozo exploratorio en el Meta: estos son los detalles",
+        "capturado": "2026-10-26T15:41:11-05:00"
+      },
       {
         "titulo": "El país destinó los ingresos petroleros recientes a cubrir subsidios de gasolina y diésel",
         "url": "https://www.valoraanalitik.com/colombia-se-gasto-su-renta-petrolera-de-los-ultimos-anos-en-pagar-subsidios-a-la-gasolina-y-el-diesel/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Empresas en Colombia podrán ahorrar más de $50 millones al año con nueva solución de Clara",
         "capturado": "2026-10-21T19:32:00-05:00"
-      },
-      {
-        "titulo": "Juzgado define qué debe demostrar un empleado para exigir pagos y compensaciones sin contrato escrito",
-        "url": "https://www.valoraanalitik.com/tribunal-aclara-que-debe-probar-un-trabajador-para-reclamar-salarios-prestaciones-e-indemnizaciones-aunque-no-haya-firmado-contrato/",
-        "resumen": "Trabajar sin contrato firmado no le quita sus derechos, pero hay pruebas clave que pueden definir si deben pagarle salarios, prestaciones e indemnizaciones.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Tribunal aclara qué debe probar un trabajador para reclamar salarios, prestaciones e indemnizaciones aunque no haya firmado contrato",
-        "capturado": "2026-10-21T19:32:00-05:00"
-      },
-      {
-        "titulo": "Merco 2026 ubica a Carlos Cavelier de Alquería como el directivo de mejor reputación en alimentos del país",
-        "url": "https://www.valoraanalitik.com/carlos-cavelier-de-alqueria-fue-reconocido-como-el-lider-con-mejor-reputacion-en-la-industria-de-alimentos-en-colombia-segun-merco-2026/",
-        "resumen": "Uno de los principales frentes de trabajo del coordinador de Sueños de Alquería es la educación pública, a través de la Fundación Alquería Cavelier.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Carlos Cavelier de Alquería fue reconocido como el líder con mejor reputación en la industria de alimentos en Colombia, según Merco 2026",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "GeoPark agranda su operación en territorio argentino luego de ganar un nuevo bloque: detalles",
-        "url": "https://www.valoraanalitik.com/geopark-expandio-el-tamano-de-su-negocio-en-argentina-tras-la-adjudicacion-de-un-nuevo-bloque-estos-son-los-detalles/",
-        "resumen": "La escala de producción potencial es de aproximadamente de 40.000 a 50.000 barriles de petróleo equivalentes al día.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark expandió el tamaño de su negocio en Argentina tras la adjudicación de un nuevo bloque: estos son los detalles",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "Plantas térmicas del país incumplen la meta de producción de energía durante el fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/las-plantas-termicas-en-colombia-no-llegan-a-la-meta-de-generacion-electrica-en-medio-de-el-nino/",
-        "resumen": "Este tipo de generación sirve como respaldo cuando el sistema eléctrico es impactado por una ola de calor.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Las plantas térmicas en Colombia no llegan a la meta de generación eléctrica en medio de El Niño",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "Arranca en Corferias Expo Agrofuturo, el evento que reúne tecnología, inversión y agro sostenible",
-        "url": "https://www.valoraanalitik.com/inicia-expo-agrofuturo-feria-corferias-agronegocios/",
-        "resumen": "Expo Agrofuturo se realiza hasta el 23 de octubre en Corferias, de 9:00 am. a 7:00 pm.; la entrada Full Expo cuesta $95.000 por un día y $230.000 por tres días.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Inicia Expo Agrofuturo en Corferias: el encuentro donde convergen tecnología, inversión y producción sostenible para el agro",
-        "capturado": "2026-10-21T16:55:01-05:00"
-      },
-      {
-        "titulo": "Milagro Week ratifica a Citi, J.P. Morgan y más socios para captar capital hacia Colombia",
-        "url": "https://www.valoraanalitik.com/milagro-week-confirma-a-j-p-morgan-citi-y-otros-aliados-para-atraer-inversion-a-colombia/",
-        "resumen": "Milagro Week se realizará del 16 al 19 de noviembre en Nueva York y presentará 86 proyectos públicos y privados que suman inversiones por US$56.799 millones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Milagro Week confirma a J.P. Morgan, Citi y otros aliados para atraer inversión a Colombia",
-        "capturado": "2026-10-21T16:55:01-05:00"
       }
     ]
   }
