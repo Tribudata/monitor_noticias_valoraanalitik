@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-25T20:36:24-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-26T02:38:00-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "De la Espriella presentará esta semana Ley de Rescate y campaña nacional de ahorro ante fuerte Super Niño",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-presentara-esta-semana-ley-de-rescate-y-campana-nacional-de-ahorro-de-energia-agua-y-gas-ante-fuerte-super-nino/",
+        "resumen": "Ante las fallas de forma en la presentación del Presupuesto 2027, Abelardo de la Espriella dijo que «en mi Gobierno los errores se reconocen y se corrigen”.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella presentará esta semana ‘Ley de Rescate’ y campaña nacional de ahorro de energía, agua y gas ante fuerte ‘Super Niño’",
+        "capturado": "2026-10-26T02:38:00-05:00"
+      },
       {
         "titulo": "Acciones y futuros brasileros caen fuertemente luego de ajustada victoria electoral de Lula da Silva",
         "url": "https://www.valoraanalitik.com/futuros-y-acciones-en-brasil-se-desploman-tras-apretada-reeleccion-de-lula-da-silva/",
@@ -592,16 +602,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Ecopetrol, fondos de pensiones y EPM presentan candidatos para la Junta Directiva de ISA",
-        "capturado": "2026-10-22T23:14:39-05:00"
-      },
-      {
-        "titulo": "Grupo Gilinski adquirirá Presto mediante subordinada de Nutresa propietaria de El Corral y Mimo’s",
-        "url": "https://www.valoraanalitik.com/grupo-gilinski-comprara-presto-filial-nutresa-duena-de-el-corral-y-mimos/",
-        "resumen": "Nutresa confirmó que, con esta operación, se conservará la operación del negocio de restaurantes de comida rápida, así como todas sus marcas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Grupo Gilinski comprará Presto a través de filial de Nutresa que es dueña de El Corral y Mimo’s: estos son los detalles",
         "capturado": "2026-10-22T23:14:39-05:00"
       }
     ],
