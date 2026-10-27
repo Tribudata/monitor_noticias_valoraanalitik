@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-26T15:41:11-05:00",
-  "nuevos_en_esta_corrida": 16,
+  "actualizado": "2026-10-26T19:17:59-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El centro financiero de Dubái ampliará al doble su espacio con una inversión de 27.000 millones de dólares",
+        "url": "https://www.valoraanalitik.com/distrito-financiero-de-dubai-difc-duplicara-su-territorio-con-una-inversion-de-us27-000-millones/",
+        "resumen": "Valora Analitik visitó The Gate, el emblemático edificio del Dubai International Financial Centre (DIFC).",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Distrito financiero de Dubái (DIFC) duplicará su territorio con una inversión de US$27.000 millones",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "Dichos planes médicos costarán más en Colombia hacia 2027 y rebasarán el incremento de la inflación",
+        "url": "https://www.valoraanalitik.com/estos-planes-de-salud-seran-mas-caros-en-colombia-en-2027-subirian-por-encima-de-la-inflacion/",
+        "resumen": "Los costos de algunos planes de salud en Colombia tendrán ajustes en 2027. Un informe revela qué está presionando los precios y a quiénes afectaría.",
+        "autor": "",
+        "subseccion": "Uncategorized",
+        "publicacion": "",
+        "titulo_fuente": "Estos planes de salud serán más caros en Colombia en 2027: subirían por encima de la inflación",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "El Fomag presenta un faltante de 2,7 billones y la Contraloría halla 61 anomalías",
+        "url": "https://www.valoraanalitik.com/fomag-registra-deficit-de-27-billones-y-contraloria-detecta-61-hallazgos-de-irregularidades/",
+        "resumen": "A la crisis financiera se suma una alerta de la Procuraduría por el faltante de $1,84 billones para financiar la salud durante 2026.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Fomag registra déficit de $2,7 billones y Contraloría detecta 61 hallazgos de irregularidades",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "Balón de Oro 2026: Harry Kane se quedó con el premio al mejor futbolista del mundo",
+        "url": "https://www.valoraanalitik.com/balon-de-oro-2026-harry-kane-se-quedo-con-el-premio-al-mejor-futbolista-del-mundo/",
+        "resumen": "Harry Kane ganó el Balón de Oro 2026 en Londres. Conozca quiénes eran los principales candidatos, qué pasó con Luis Díaz y si el premio entrega dinero.",
+        "autor": "",
+        "subseccion": "Futbol internacional",
+        "publicacion": "",
+        "titulo_fuente": "Balón de Oro 2026: Harry Kane se quedó con el premio al mejor futbolista del mundo",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella revela una nueva ventaja para empresas y empleados colombianos",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-nuevo-beneficio-para-trabajadores-y-empresas-en-colombia/",
+        "resumen": "El Gobierno De la Espriella anunció recursos para capacitar trabajadores, apoyar emprendimientos en seis departamentos y ofrecer un millón de becas.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella anuncia nuevo beneficio para trabajadores y empresas en Colombia",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "Las reducciones de la Ley de Rescate de De la Espriella irán por etapas en un periodo de cuatro años",
+        "url": "https://www.valoraanalitik.com/recortes-en-ley-de-rescate-de-de-la-espriella-seran-graduales-y-se-aplicaran-durante-cuatro-anos/",
+        "resumen": "El vicepresidente, José Manuel Restrepo, reveló detalles de la Ley de Rescate que afina el gobierno.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Recortes en Ley de Rescate de De la Espriella serán graduales y se aplicarán durante cuatro años",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "XM advierte que faltan 38 días para acumular agua en embalses colombianos y afrontar El Niño",
+        "url": "https://www.valoraanalitik.com/quedan-38-dias-para-que-colombia-almacene-suficiente-agua-en-los-embalses-para-enfrentar-el-nino-xm/",
+        "resumen": "Los aportes hídricos se encuentran en 60,51 % de la media histórica y las reservas de los embalses superan ligeramente 76 %. La meta es alcanzar 80 %.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Quedan 38 días para que Colombia almacene suficiente agua en los embalses para enfrentar El Niño: XM",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
       {
         "titulo": "Llega al país nueva firma tecnológica tras captar US$180 millones en capital",
         "url": "https://www.valoraanalitik.com/nueva-multinacional-de-tecnologia-llega-a-colombia-tras-recibir-inversion-de-us180-millones/",
@@ -533,79 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Exclusiva | Grupo Argos revela sus apuestas para Colombia, Venezuela y EE. UU. para 2027",
         "capturado": "2026-10-23T16:56:37-05:00"
-      },
-      {
-        "titulo": "MinHacienda finalizó segundo canje de deuda: efectuó intercambio de TES por 10,3 billones de pesos",
-        "url": "https://www.valoraanalitik.com/minhacienda-completo-segunda-operacion-de-reperfilamiento-de-deuda-intercambio-tes-por-103-billones/",
-        "resumen": "En total, el programa suma $30,1 billones en deuda reorganizada, lo que permite aliviar la carga financiera de la Nación, según el MinHacienda.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda completó segunda operación de reperfilamiento de deuda: intercambió TES por $10,3 billones",
-        "capturado": "2026-10-23T16:56:37-05:00"
-      },
-      {
-        "titulo": "EPM recupera solo 57 de cada 100 pesos invertidos en el Caribe y aguarda 800.000 millones del Gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/epm-solo-recupera-57-de-cada-100-que-invierte-en-el-caribe-espera-800-000-millones-del-gobierno-de-la-espriella/",
-        "resumen": "El gerente de la empresa espera que haya una declaratoria de emergencia económica por la ola de calor y que los recursos a Afinia lleguen a finales de 2026.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "EPM solo recupera $57 de cada $100 que invierte en el Caribe; espera $800.000 millones del Gobierno De la Espriella",
-        "capturado": "2026-10-23T16:56:37-05:00"
-      },
-      {
-        "titulo": "Solicitarán a la Fiscalía indagar a empleados de Supersociedades por reestructuración de Accedo y supuestas fallas",
-        "url": "https://www.valoraanalitik.com/pediran-a-la-fiscalia-investigar-a-funcionarios-de-supersociedades-por-reorganizacion-de-accedo-estas-son-las-presuntas-irregularidades/",
-        "resumen": "La Fiscalía la encargada de evaluar los hechos, recaudar las pruebas y determinar si hay mérito para avanzar en una investigación formal.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pedirán a la Fiscalía investigar a funcionarios de Supersociedades por reorganización de Accedo: estas son las presuntas irregularidades",
-        "capturado": "2026-10-23T16:56:37-05:00"
-      },
-      {
-        "titulo": "Gremios del sector financiero y administración De La Espriella pactan alianza contra el gota a gota en el país",
-        "url": "https://www.valoraanalitik.com/gobierno-gremios-acuerdo-gota-a-gota/",
-        "resumen": "El pacto busca ampliar el crédito formal para micronegocios y trabajadores independientes, facilitar la rebancarización y fortalecer la educación financiera.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella y gremios financieros firman acuerdo para combatir el gota a gota en Colombia",
-        "capturado": "2026-10-23T16:56:37-05:00"
-      },
-      {
-        "titulo": "Alerta por futuro del empleo precios y pensiones ante el salario mínimo en Colombia 2027",
-        "url": "https://www.valoraanalitik.com/salario-minimo-en-colombia-2027-la-advertencia-sobre-lo-que-podria-pasar-con-el-empleo-precios-y-pensiones/",
-        "resumen": "El aumento del salario mínimo en Colombia tiene implicaciones que van más allá del ingreso de los trabajadores.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Salario mínimo en Colombia 2027: la advertencia sobre lo que podría pasar con el empleo, precios y pensiones",
-        "capturado": "2026-10-23T16:56:37-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia cae a $3.145 al cierre empujado por el alza del Brent",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-desploma-cierra-en-3-145-impulsado-por-el-repunte-del-brent/",
-        "resumen": "La divisa abrió con sesgo bajista en $3.172 y marcó un techo intradiario de $3.189. Posteriormente marcó un mínimo de $3.136.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia se desploma: cierra en $3.145 impulsado por el repunte del Brent",
-        "capturado": "2026-10-23T16:56:37-05:00"
-      },
-      {
-        "titulo": "Este es el plan de Bogotá para construir casas y locales cerca del metro",
-        "url": "https://www.valoraanalitik.com/asi-es-la-apuesta-de-bogota-para-desarrollar-vivienda-y-comercio-junto-al-metro/",
-        "resumen": "La iniciativa hace parte del Plan Parcial Estación Metro 26, un instrumento de planeación urbana que comprende 9,3 hectáreas.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Así es la apuesta de Bogotá para desarrollar vivienda y comercio junto al metro",
-        "capturado": "2026-10-23T13:38:19-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El centro financiero de Dubái duplicará su área con US$27.000 millones",
+        "url": "https://www.valoraanalitik.com/distrito-financiero-de-dubai-difc-duplicara-su-territorio-con-una-inversion-de-us27-000-millones/",
+        "resumen": "Valora Analitik visitó The Gate, el emblemático edificio del Dubai International Financial Centre (DIFC).",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Distrito financiero de Dubái (DIFC) duplicará su territorio con una inversión de US$27.000 millones",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "Planes de salud en Colombia subirían más que la inflación en 2027",
+        "url": "https://www.valoraanalitik.com/estos-planes-de-salud-seran-mas-caros-en-colombia-en-2027-subirian-por-encima-de-la-inflacion/",
+        "resumen": "Los costos de algunos planes de salud en Colombia tendrán ajustes en 2027. Un informe revela qué está presionando los precios y a quiénes afectaría.",
+        "autor": "",
+        "subseccion": "Uncategorized",
+        "publicacion": "",
+        "titulo_fuente": "Estos planes de salud serán más caros en Colombia en 2027: subirían por encima de la inflación",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella informa nuevo beneficio para empresas y trabajadores",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-nuevo-beneficio-para-trabajadores-y-empresas-en-colombia/",
+        "resumen": "El Gobierno De la Espriella anunció recursos para capacitar trabajadores, apoyar emprendimientos en seis departamentos y ofrecer un millón de becas.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella anuncia nuevo beneficio para trabajadores y empresas en Colombia",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "Oracle destinará US$1.000 millones para su red; Colombia y región en la mira",
+        "url": "https://www.valoraanalitik.com/oracle-invertira-us1000-millones-socios/",
+        "resumen": "Durante su Oracle AI World, la compañía global de tecnología presentó nuevas herramientas de IA para automatizar procesos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Oracle invertirá US$1.000 millones para fortalecer su red de socios; América Latina y Colombia en el radar",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "Thomas Greg & Sons quiere ser víctima penal por dudas sobre elecciones 2026",
+        "url": "https://www.valoraanalitik.com/thomas-greg-sons-busca-ser-victima-en-proceso-penal-por-cuestionamientos-a-elecciones-de-2026/",
+        "resumen": "Los hechos estarían relacionados con una presunta campaña sistemática de desinformación que habría buscado desacreditar el proceso electoral.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Thomas Greg & Sons busca ser víctima en proceso penal por cuestionamientos a elecciones de 2026",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
+      {
+        "titulo": "XM advierte que faltan 38 días para completar el almacenamiento de agua en embalses frente a El Niño",
+        "url": "https://www.valoraanalitik.com/quedan-38-dias-para-que-colombia-almacene-suficiente-agua-en-los-embalses-para-enfrentar-el-nino-xm/",
+        "resumen": "Los aportes hídricos se encuentran en 60,51 % de la media histórica y las reservas de los embalses superan ligeramente 76 %. La meta es alcanzar 80 %.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Quedan 38 días para que Colombia almacene suficiente agua en los embalses para enfrentar El Niño: XM",
+        "capturado": "2026-10-26T19:17:59-05:00"
+      },
       {
         "titulo": "Aterriza en Colombia nueva tecnológica tras captar fondos por US$180 millones",
         "url": "https://www.valoraanalitik.com/nueva-multinacional-de-tecnologia-llega-a-colombia-tras-recibir-inversion-de-us180-millones/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella presentará Ley de Rescate Fiscal la próxima semana; revela ejes del Plan de Desarrollo",
         "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Antioquia, Cundinamarca y Valle del Cauca concentran la demanda de gas licuado en el país",
-        "url": "https://www.valoraanalitik.com/antioquia-cundinamarca-y-valle-del-cauca-concentran-el-consumo-de-gas-licuado-de-petroleo-en-colombia/",
-        "resumen": "Seis regiones del país concentran 56 % del consumo de este energético.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Antioquia, Cundinamarca y Valle del Cauca concentran el consumo de gas licuado de petróleo en Colombia",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Cronograma de informes financieros de emisores en la Bolsa de Colombia para el tercer trimestre de 2026",
-        "url": "https://www.valoraanalitik.com/calendario-resultados-tercer-trimestre-2026/",
-        "resumen": "Las primeras compañías comenzarán a reportar la primera semana de noviembre y se extenderá a lo largo del mes.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Calendario de resultados financieros de los emisores en Bolsa de Colombia para el tercer trimestre de 2026",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Camacol sugiere estrategia urgente por descenso en comercialización de casas con iniciativas de 98 billones",
-        "url": "https://www.valoraanalitik.com/camacol-propone-plan-de-choque-ante-caida-en-ventas-de-viviendas-plantea-proyectos-por-98-billones/",
-        "resumen": "Camacol propuso un plan de choque con proyectos por más de $98 billones para reactivar la vivienda, ante la caída de ventas e iniciaciones de obra.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Camacol propone plan de choque ante caída en ventas de viviendas: plantea proyectos por $98 billones",
-        "capturado": "2026-10-22T00:54:20-05:00"
-      },
-      {
-        "titulo": "EPM finaliza cesión de relevante activo eléctrico que provee a 35 poblaciones del Caribe nacional",
-        "url": "https://www.valoraanalitik.com/relevante-epm-cierra-venta-de-importante-negocio-de-energia-que-abastece-a-35-municipios-del-caribe-colombiano/",
-        "resumen": "EPM firmó un acuerdo para vender su participación en Energía Atenea, empresa que atiende a 361.000 clientes en 35 municipios del Caribe colombiano.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | EPM cierra venta de importante negocio de energía que abastece a 35 municipios del Caribe colombiano",
-        "capturado": "2026-10-22T00:54:20-05:00"
-      },
-      {
-        "titulo": "Firmas con bienes por encima de esta cifra tendrán que tener revisor fiscal",
-        "url": "https://www.valoraanalitik.com/empresas-que-tengan-activos-que-superen-este-valor-deberan-hacer-revision-fiscal/",
-        "resumen": "En los últimos meses del calendario, las organizaciones pueden evaluar sus registros y soportes.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Empresas que tengan activos que superen este valor deberán hacer revisión fiscal",
-        "capturado": "2026-10-21T19:32:00-05:00"
-      },
-      {
-        "titulo": "Compañías del país lograrán recortar gastos por más de $50 millones anuales con herramienta de Clara",
-        "url": "https://www.valoraanalitik.com/empresas-ahorros-solucion-clara/",
-        "resumen": "La fintech lanzó Clara for HR, para centralizar la gestión de beneficios, incentivos y compensación de los trabajadores.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Empresas en Colombia podrán ahorrar más de $50 millones al año con nueva solución de Clara",
-        "capturado": "2026-10-21T19:32:00-05:00"
       }
     ]
   }
