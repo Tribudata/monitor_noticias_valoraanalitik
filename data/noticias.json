@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-27T05:51:57-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-27T11:18:53-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Firmas estadounidenses señalan requisitos en Nueva York para inversiones cuantiosas en Colombia",
+        "url": "https://www.valoraanalitik.com/milagro-week-en-nueva-york-empresas-de-ee-uu-advierten-que-necesita-colombia-para-concretar-inversiones-millonarias/",
+        "resumen": "La Milagro Week llevará a Nueva York proyectos colombianos y el sector empresarial de EE.UU. señala las condiciones para concretar negocios.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Milagro Week en Nueva York: empresas de EE. UU. advierten qué necesita Colombia para concretar inversiones millonarias",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella menciona la colocación de deuda externa más alta de la historia colombiana",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-habla-de-la-emision-de-deuda-externa-mas-grande-en-la-historia-de-colombia/",
+        "resumen": "El Ministerio de Hacienda señaló que priorizó bonos de mediano y largo plazo para reducir vencimientos de corto plazo y riesgos de refinanciación de la deuda.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella habla de la emisión de deuda externa más grande en la historia de Colombia",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "EPM pretende conseguir un plazo más amplio para que Afinia cancele pasivos del sector eléctrico",
+        "url": "https://www.valoraanalitik.com/epm-busca-que-afinia-tenga-mayor-plazo-para-pagar-deudas-al-sistema-electrico-de-colombia/",
+        "resumen": "El gerente de EPM afirmó que se buscan alternativas para conseguir más tiempo y reunir los recursos necesarios para saldar las obligaciones de su filial.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "EPM busca que Afinia tenga mayor plazo para pagar deudas al sistema eléctrico de Colombia",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia arrancó subiendo, mas cayó pronto y rozó los tres mil ciento diez pesos",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-inicio-al-alza-pero-rapidamente-pego-la-vuelta-y-se-acerco-a-los-3-110/",
+        "resumen": "Esto mueve al dólar en Colombia al inicio de sesiones de este martes 27 de octubre.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia inició al alza, pero rápidamente pegó la vuelta y se acercó a los $3.110",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "Clientes de Afinia correrían riesgo de cortes planeados debido a los pasivos de esta filial de EPM",
+        "url": "https://www.valoraanalitik.com/usuarios-de-afinia-podrian-enfrentar-apagones-programados-por-las-deudas-de-esta-filial-de-epm/",
+        "resumen": "La compañía adeuda $131.000 millones por compras de energía correspondientes a octubre, según información divulgada por medios de comunicación.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "Usuarios de Afinia podrían enfrentar apagones programados por las deudas de esta filial de EPM",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "Bre-B fomenta los pagos digitales para tenderos y detalla su funcionamiento que disminuye el efectivo",
+        "url": "https://www.valoraanalitik.com/bre-b-impulsa-pagos-digitales-para-tenderos-asi-funciona-la-plataforma-que-reduce-el-uso-de-efectivo/",
+        "resumen": "La expansión de Accival Connect coincide con el primer año de operación de Bre-B, el sistema de pagos inmediatos del Banco de la República.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bre-B impulsa pagos digitales para tenderos: así funciona la plataforma que reduce el uso de efectivo",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "La Regasificadora de Cartagena falló otra vez en uno de sus trenes antes de cumplirse un mes",
+        "url": "https://www.valoraanalitik.com/en-menos-de-un-mes-la-regasificadora-de-cartagena-volvio-a-presentar-una-falla-en-uno-de-sus-trenes/",
+        "resumen": "La menor capacidad de regasificación podría tener un mayor impacto en el sector industrial que en los hogares y los pequeños comercios.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "En menos de un mes, la Regasificadora de Cartagena volvió a presentar una falla en uno de sus trenes",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "Willis Towers Watson pacta adquirir ARESS Corredores de Seguros a falta del aval de la SuperFinanciera",
+        "url": "https://www.valoraanalitik.com/willis-towers-watson-acuerda-la-compra-de-aress-corredores-de-seguros-la-superfinanciera-tendra-la-ultima-palabra/",
+        "resumen": "Mientras se completa el proceso, la atención a los clientes y las relaciones con las aseguradoras y los aliados continuarán con normalidad.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Willis Towers Watson acuerda la compra de ARESS Corredores de Seguros; la SuperFinanciera tendrá la última palabra",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "Premercado | Acciones de Asia trepan por la OPI de Anthropic y Europa retrocede por balances de HSBC",
+        "url": "https://www.valoraanalitik.com/premercado-asia-sube-impulsada-por-solicitud-de-salida-a-bolsa-de-anthropic-y-europa-cae-tras-resultados-de-hsbc/",
+        "resumen": "Por otra parte, el mercado muestra expectativa en torno a los resultados de Microsoft y Alphabet, previstos para después del cierre del miércoles 28.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Asia sube impulsada por solicitud de salida a bolsa de Anthropic y Europa cae tras resultados de HSBC",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "ANDI avanza en la elección de su nuevo líder mediante una evaluación rigurosa, según comunicado",
+        "url": "https://www.valoraanalitik.com/andi-confirma-avance-en-la-definicion-de-su-proximo-presidente-bajo-un-proceso-riguroso-de-evaluacion-de-perfiles-resalta-en-comunicado/",
+        "resumen": "Bruce Mac Master fue presidente de la ANDI casi 13 años.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANDI confirma avance en la definición de su próximo presidente bajo un proceso riguroso de evaluación de perfiles, resalta en comunicado",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "De la Espriella confirma regreso de clave subsidio en el país para cerca de 3 millones de ciudadanos",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-anuncia-reactivacion-de-importante-subsidio-en-colombia-beneficiara-a-casi-3-millones-de-personas/",
+        "resumen": "El gobierno De la Espriella dio a conocer que mantendrá importantes subsidios en Colombia para población vulnerable.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella anuncia reactivación de importante subsidio en Colombia: Beneficiará a casi 3 millones de personas",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "Causas de la urgencia del gobierno De la Espriella para efectuar recortes por billones de pesos",
+        "url": "https://www.valoraanalitik.com/por-que-al-gobierno-de-la-espriella-le-urge-hacer-billonarios-recortes/",
+        "resumen": "El gobierno De la Espriella ya anunció un primer recorte en el gasto cercano a los $13 billones.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "¿Por qué al gobierno De la Espriella le urge hacer billonarios recortes?",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
       {
         "titulo": "Corficolombiana consigue el cierre definitivo del caso Odebrecht en EE. UU.",
         "url": "https://www.valoraanalitik.com/corficolombiana-logra-el-archivo-definitivo-del-caso-odebrecht-en-estados-unidos/",
@@ -483,129 +603,89 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | La estrategia detrás de los tiquetes aéreos en $47.000 de JetSmart en Colombia",
         "capturado": "2026-10-24T12:17:28-05:00"
-      },
-      {
-        "titulo": "Nuevas manifestaciones en territorio francés arrojan mínimo 135 arrestados y despliegan 70000 policías",
-        "url": "https://www.valoraanalitik.com/nuevas-protestas-en-francia-dejan-al-menos-135-detenidos/",
-        "resumen": "Una nueva jornada de protestas en Francia contra el aumento del costo de vida dejaron detenciones y enfrentamientos en Lyon.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Nuevas protestas en Francia dejan al menos 135 detenidos y movilizan a 70.000 agentes",
-        "capturado": "2026-10-24T12:17:28-05:00"
-      },
-      {
-        "titulo": "Comicios en Brasil: gran parte de los sondeos muestran leve ventaja de Bolsonaro frente a Lula",
-        "url": "https://www.valoraanalitik.com/elecciones-en-brasil-mayoria-de-encuestas-dan-ligera-ventaja-a-bolsonaro-sobre-lula-para-segunda-vuelta/",
-        "resumen": "Las recientes encuestas de las elecciones en Brasil dan una leve ventaja al candidato de derecha Flavio Bolsonaro.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Elecciones en Brasil: mayoría de encuestas dan ligera ventaja a Bolsonaro sobre Lula para segunda vuelta",
-        "capturado": "2026-10-24T12:17:28-05:00"
-      },
-      {
-        "titulo": "Exclusiva: Hyatt proyecta su quinto alojamiento en el país y estudia Barú con formato todo incluido",
-        "url": "https://www.valoraanalitik.com/primicia-hyatt-ya-planea-su-quinto-hotel-en-colombia/",
-        "resumen": "La compañía explora oportunidades en Barú y otras zonas del Caribe colombiano, en proyectos que podrían venir en el futuro.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Hyatt ya planea su quinto hotel en Colombia: analiza Barú con su modelo todo incluido",
-        "capturado": "2026-10-24T12:17:28-05:00"
-      },
-      {
-        "titulo": "Entrevista al líder de Campetrol: estamos alcanzando el límite del gas que traemos del exterior",
-        "url": "https://www.valoraanalitik.com/estamos-llegando-al-tope-del-gas-importado-presidente-de-campetrol/",
-        "resumen": "Nelson Castañeda, presidente de Campetrol, afirmó que una menor carga tributaria para el sector impulsaría un mayor dinamismo económico.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | “Estamos llegando al tope del gas importado”: presidente de Campetrol",
-        "capturado": "2026-10-24T12:17:28-05:00"
-      },
-      {
-        "titulo": "Nueva proyección advierte que la comida en Colombia subiría de precio durante el año 2027",
-        "url": "https://www.valoraanalitik.com/alimentos-en-colombia-podrian-ponerse-mas-caros-a-lo-largo-del-2027-alerta-nuevo-pronostico/",
-        "resumen": "Un nuevo análisis explica por qué hay que tener cuidado con el precio de los alimentos en Colombia en 2027",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Alimentos en Colombia podrían ponerse más caros a lo largo del 2027, alerta nuevo pronóstico",
-        "capturado": "2026-10-24T08:31:19-05:00"
-      },
-      {
-        "titulo": "Tesla da crédito al 0 % para autos Model 3 y Model Y en Colombia",
-        "url": "https://www.valoraanalitik.com/tesla-ofrece-financiacion-al-0-para-sus-carros-model-3-y-model-y-en-colombia/",
-        "resumen": "Tesla anunció financiación al 0 % para sus vehículos Model 3 y Model Y en Colombia. La oferta aplica para entregas hasta el 31 de diciembre de 2026.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Tesla ofrece financiación al 0 % para sus carros Model 3 y Model Y en Colombia",
-        "capturado": "2026-10-23T23:57:04-05:00"
-      },
-      {
-        "titulo": "Fenalcarbón aplaudió el fin de los distritos mineros en Colombia",
-        "url": "https://www.valoraanalitik.com/fenalcarbon-celebro-la-derogacion-de-distritos-mineros-en-colombia/",
-        "resumen": "Previamente, el Gobierno mencionó que esta decisión no afectará los derechos de los mineros.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Fenalcarbón celebró la derogación de distritos mineros en Colombia",
-        "capturado": "2026-10-23T23:57:04-05:00"
-      },
-      {
-        "titulo": "Remesas en Colombia a septiembre de 2026 suman 28 meses sobre US$1.000 millones",
-        "url": "https://www.valoraanalitik.com/informe-remesas-en-colombia-septiembre-2026-se-completan-28-meses-por-encima-de-us1-000-millones/",
-        "resumen": "El registro más alto del año de envío de remesas a Colombia se presentó en marzo, con US$1.225,69 millones.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Informe remesas en Colombia septiembre 2026: se completan 28 meses por encima de US$1.000 millones",
-        "capturado": "2026-10-23T23:57:04-05:00"
-      },
-      {
-        "titulo": "Grupo Energía Bogotá y La Caisse concretan trato para gran transmisora en Brasil",
-        "url": "https://www.valoraanalitik.com/grupo-energia-bogota-y-la-caisse-cierran-operacion-para-crear-una-de-las-mayores-transmisoras-electricas-de-brasil/",
-        "resumen": "Grupo Energía Bogotá y La Caisse formalizaron Verene Energia, plataforma que reúne 26 concesiones y más de 9.000 kilómetros de transmisión eléctrica en Brasil.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Energía Bogotá y La Caisse cierran operación para crear una de las mayores transmisoras eléctricas de Brasil",
-        "capturado": "2026-10-23T23:57:04-05:00"
-      },
-      {
-        "titulo": "Vicepresidente señala que la corrección fiscal de Colombia en 2027 rondará los $70 billones",
-        "url": "https://www.valoraanalitik.com/ajuste-fiscal-de-colombia-2027-debe-ser-cercano-70-billones/",
-        "resumen": "El anuncio del funcionario se da un día después de que el Gobierno decretara un recorte presupuestal cercano a los $14 billones para 2026.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Ajuste fiscal de Colombia en 2027 debe ser cercano a $70 billones: Vicepresidente",
-        "capturado": "2026-10-23T19:27:39-05:00"
-      },
-      {
-        "titulo": "Grupo Argos prepara Obras por Impuestos en Colombia para agilizar la recuperación post terremoto",
-        "url": "https://www.valoraanalitik.com/grupo-argos-alista-obras-por-impuestos-en-colombia-para-acelerar-reconstruccion-tras-el-terremoto/",
-        "resumen": "Se evaluará con alcaldías y gobernaciones las necesidades para recuperar viviendas e infraestructura en las zonas afectadas, con más de 70 empresas aliadas.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos alista Obras por Impuestos en Colombia para acelerar reconstrucción tras el terremoto",
-        "capturado": "2026-10-23T19:27:39-05:00"
-      },
-      {
-        "titulo": "Nivel de endeudamiento de las EPS en Colombia: los datos que alarman al sistema de salud",
-        "url": "https://www.valoraanalitik.com/que-tan-endeudadas-estan-las-eps-en-colombia-las-cifras-que-preocupan-al-sector-salud/",
-        "resumen": "Las deudas de las EPS en Colombia llegaron a cifras preocupantes, mientras su patrimonio negativo siguió creciendo.",
-        "autor": "",
-        "subseccion": "Reforma a la salud colombia",
-        "publicacion": "",
-        "titulo_fuente": "¿Qué tan endeudadas están las EPS en Colombia?: Las cifras que preocupan al sector salud",
-        "capturado": "2026-10-23T19:27:39-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Firmas de EE. UU. señalan requerimientos en Colombia para inversiones grandes durante Milagro Week en NY",
+        "url": "https://www.valoraanalitik.com/milagro-week-en-nueva-york-empresas-de-ee-uu-advierten-que-necesita-colombia-para-concretar-inversiones-millonarias/",
+        "resumen": "La Milagro Week llevará a Nueva York proyectos colombianos y el sector empresarial de EE.UU. señala las condiciones para concretar negocios.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Milagro Week en Nueva York: empresas de EE. UU. advierten qué necesita Colombia para concretar inversiones millonarias",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "FGA avala 38.000 créditos diarios en Colombia bajo el lema el poder de un sí",
+        "url": "https://www.valoraanalitik.com/fga-respalda-38-000-operaciones-de-credito-al-dia-en-colombia/",
+        "resumen": "La entidad destacó el papel de las garantías para ampliar el acceso a financiación formal y promover la inclusión financiera en el país.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "El poder de un sí: FGA respalda 38.000 operaciones de crédito al día en Colombia",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "EPM solicita más tiempo de pago para Afinia ante el sistema eléctrico colombiano",
+        "url": "https://www.valoraanalitik.com/epm-busca-que-afinia-tenga-mayor-plazo-para-pagar-deudas-al-sistema-electrico-de-colombia/",
+        "resumen": "El gerente de EPM afirmó que se buscan alternativas para conseguir más tiempo y reunir los recursos necesarios para saldar las obligaciones de su filial.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "EPM busca que Afinia tenga mayor plazo para pagar deudas al sistema eléctrico de Colombia",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "Balance del Hot Sale 2026 muestra aumento en comercio electrónico y sectores con más demanda local",
+        "url": "https://www.valoraanalitik.com/hot-sale-2026-balance-revela-aceleracion-en-las-compras-digitales-y-las-categorias-mas-demandadas-en-el-pais/",
+        "resumen": "La jornada confirmó la consolidación del canal digital para aprovechar los descuentos de la temporada.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Hot Sale 2026: balance revela aceleración en las compras digitales y las categorías más demandadas en el país",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "Deudas de Afinia, filial de EPM, podrían generar cortes de luz planeados para sus usuarios",
+        "url": "https://www.valoraanalitik.com/usuarios-de-afinia-podrian-enfrentar-apagones-programados-por-las-deudas-de-esta-filial-de-epm/",
+        "resumen": "La compañía adeuda $131.000 millones por compras de energía correspondientes a octubre, según información divulgada por medios de comunicación.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "Usuarios de Afinia podrían enfrentar apagones programados por las deudas de esta filial de EPM",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "Bre-B fomenta cobros virtuales a tenderos: operación del sistema que baja la circulación de efectivo",
+        "url": "https://www.valoraanalitik.com/bre-b-impulsa-pagos-digitales-para-tenderos-asi-funciona-la-plataforma-que-reduce-el-uso-de-efectivo/",
+        "resumen": "La expansión de Accival Connect coincide con el primer año de operación de Bre-B, el sistema de pagos inmediatos del Banco de la República.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bre-B impulsa pagos digitales para tenderos: así funciona la plataforma que reduce el uso de efectivo",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "En menos de treinta días, la Regasificadora de Cartagena falló de nuevo en uno de sus trenes",
+        "url": "https://www.valoraanalitik.com/en-menos-de-un-mes-la-regasificadora-de-cartagena-volvio-a-presentar-una-falla-en-uno-de-sus-trenes/",
+        "resumen": "La menor capacidad de regasificación podría tener un mayor impacto en el sector industrial que en los hogares y los pequeños comercios.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "En menos de un mes, la Regasificadora de Cartagena volvió a presentar una falla en uno de sus trenes",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
+      {
+        "titulo": "ANDI ratifica progreso al elegir su nuevo presidente mediante un estricto análisis de hojas de vida",
+        "url": "https://www.valoraanalitik.com/andi-confirma-avance-en-la-definicion-de-su-proximo-presidente-bajo-un-proceso-riguroso-de-evaluacion-de-perfiles-resalta-en-comunicado/",
+        "resumen": "Bruce Mac Master fue presidente de la ANDI casi 13 años.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANDI confirma avance en la definición de su próximo presidente bajo un proceso riguroso de evaluación de perfiles, resalta en comunicado",
+        "capturado": "2026-10-27T11:18:53-05:00"
+      },
       {
         "titulo": "EEUU archiva de manera definitiva el caso Odebrecht para Corficolombiana",
         "url": "https://www.valoraanalitik.com/corficolombiana-logra-el-archivo-definitivo-del-caso-odebrecht-en-estados-unidos/",
@@ -1125,86 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Presidente de Grupo Argos: «Es el momento de invertir en Colombia»",
         "capturado": "2026-10-22T23:14:39-05:00"
-      },
-      {
-        "titulo": "Adecco entrega galardones para destacar a las compañías colombianas más creativas en talento humano",
-        "url": "https://www.valoraanalitik.com/adecco-lanza-premios-para-reconocer-a-las-empresas-mas-innovadoras-en-gestion-humana-en-colombia/",
-        "resumen": "Los Adecco Innovation Awards 2027 tendrán cuatro categorías y las inscripciones serán hasta febrero.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Adecco lanza premios para reconocer a las empresas más innovadoras en gestión humana en Colombia",
-        "capturado": "2026-10-22T18:32:33-05:00"
-      },
-      {
-        "titulo": "Tesorería de Envigado alcanza más de $11.532 millones en rendimientos financieros y baja un 99 % los costos bancarios",
-        "url": "https://www.valoraanalitik.com/tesoreria-de-envigado-supera-los-11-532-millones-en-rendimientos-financieros-y-reduce-en-99-gastos-bancarios/",
-        "resumen": "La hoja de ruta se ha centrado en dos propósitos complementarios: maximizar los rendimientos y disminuir los costos bancarios.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tesorería de Envigado supera los $11.532 millones en rendimientos financieros y reduce en 99 % gastos bancarios",
-        "capturado": "2026-10-22T18:32:33-05:00"
-      },
-      {
-        "titulo": "Bienestar laboral influye en el desempeño de las empresas según conclusiones de Sinergia Humana 2026",
-        "url": "https://www.valoraanalitik.com/bienestar-de-empleados-tiene-impacto-en-los-resultados-de-organizaciones-claves-que-deja-sinergia-humana-2026/",
-        "resumen": "La cultura organizacional y la conexión de los empleados con el propósito corporativo se han convertido en factores fundamentales para cumplir estrategias.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bienestar de empleados tiene impacto en los resultados de organizaciones: claves que deja Sinergia Humana 2026",
-        "capturado": "2026-10-22T18:32:33-05:00"
-      },
-      {
-        "titulo": "Microfinancieras participan en discusión para modificar la tasa de usura en Colombia y exponen plan",
-        "url": "https://www.valoraanalitik.com/microcredito-debate-usura-colombia/",
-        "resumen": "Asomicrofinanzas participa en mesas con el regulador y propone corregir la metodología de la tasa y focalizar las soluciones de inclusión financiera.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Entidades de microcrédito se suman a debate para cambiar la tasa de usura en Colombia: esta es su propuesta",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Procuraduría solicita a Tribunal de Santander evitar medida cautelar sobre Santurbán previo a marzo 2027",
-        "url": "https://www.valoraanalitik.com/procuraduria-pide-al-tribunal-de-santander-no-decretar-medida-cautelar-sobre-santurban-antes-de-marzo-de-2027/",
-        "resumen": "Asomineros manifestó que espera que las decisiones sobre Santurbán se tomen con base en lineamientos técnicos y jurídicos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Procuraduría pide al Tribunal de Santander no decretar medida cautelar sobre Santurbán antes de marzo de 2027",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Productividad, inteligencia artificial y economía plateada son los enfoques microfinancieros en el país",
-        "url": "https://www.valoraanalitik.com/ejes-sector-microfinanciero-colombia-2026/",
-        "resumen": "María Clara Hoyos destacó que el microcrédito cerró 2025 con un crecimiento real de cartera de 8,5 %, el mayor en más de siete años.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Los ejes del sector microfinanciero en Colombia para los próximos años: productividad, IA y economía plateada",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Clínica de Oftalmología Sandiego dona 84 millones de pesos a Adopta un Hogar de Grupo Argos",
-        "url": "https://www.valoraanalitik.com/clinica-de-oftalmologia-sandiego-se-suma-a-adopta-un-hogar-de-grupo-argos-con-aporte-de-84-millones/",
-        "resumen": "Médicos y colaboradores de la institución aportaron $42 millones y la Clínica duplicó esa cifra con otros $42 millones.",
-        "autor": "",
-        "subseccion": "Adopta un hogar",
-        "publicacion": "",
-        "titulo_fuente": "Clínica de Oftalmología Sandiego se suma a Adopta un Hogar, de Grupo Argos, con aporte de $84 millones",
-        "capturado": "2026-10-22T15:29:06-05:00"
-      },
-      {
-        "titulo": "Arrancó el trigésimo sexto Congreso Asocajas con debate entre directivos, gremio y Gobierno sobre metas",
-        "url": "https://www.valoraanalitik.com/inicio-36-congreso-asocajas-lideres-gremio-y-gobierno-hablan-de-prioridades/",
-        "resumen": "La presidenta del gremio advirtió que la Cajas de Compensación necesitan autonomía para responder a las necesidades específicas de cada territorio.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inició 36° Congreso Asocajas: líderes, gremio y Gobierno hablan de prioridades",
-        "capturado": "2026-10-22T15:29:06-05:00"
       }
     ]
   }
