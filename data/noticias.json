@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-27T15:52:52-05:00",
-  "nuevos_en_esta_corrida": 15,
+  "actualizado": "2026-10-27T19:21:53-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "FMI otorga nuevo giro por US$900 millones a Argentina luego de evaluar su plan financiero",
+        "url": "https://www.valoraanalitik.com/fmi-acuerda-nuevo-desembolso-de-us900-millones-para-argentina-tras-revision-de-su-programa-economico/",
+        "resumen": "Argentina completaría cuatro años consecutivos con superávit primario y equilibrio fiscal global, según las estimaciones del organismo.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "FMI acuerda nuevo desembolso de US$900 millones para Argentina tras revisión de su programa económico",
+        "capturado": "2026-10-27T19:21:53-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella advierte que pasivos de Air-e superan los $6 billones, por encima de lo calculado",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-alerta-deudas-air-e/",
+        "resumen": "El ministro de Hacienda, Miguel Gómez, manifestó que $1,2 billones en pagos provendrán de su cartera y del Ministerio de Minas y Energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella alerta que deudas de Air-e son mayores a las previstas y ya superan los $6 billones",
+        "capturado": "2026-10-27T19:21:53-05:00"
+      },
+      {
+        "titulo": "Firma colombiana escaló de $600 millones a $20.000 millones en ventas y apunta a México",
+        "url": "https://www.valoraanalitik.com/esta-empresa-colombiana-paso-de-vender-600-millones-a-mover-20-000-millones-y-ahora-va-por-mexico/",
+        "resumen": "La empresa multiplicó su escala comercial en menos de 18 meses y llegó a cerca de 1.000 puntos de venta en Colombia. Ahora prepara su expansión internacional.",
+        "autor": "",
+        "subseccion": "Emprendedores",
+        "publicacion": "",
+        "titulo_fuente": "Esta empresa colombiana pasó de vender $600 millones a mover $20.000 millones y ahora va por México",
+        "capturado": "2026-10-27T19:21:53-05:00"
+      },
+      {
+        "titulo": "Jaime Bermúdez declina a la presidencia de la ANDI y Junta definiría finalistas esta semana",
+        "url": "https://www.valoraanalitik.com/jaime-bermudez-retira-su-candidatura-para-ser-nuevo-presidente-de-la-andi-junta-definiria-finalistas-esta-semana/",
+        "resumen": "Con la salida de Bermúdez, la baraja de opcionados se reduce a cuatro nombres con amplia trayectoria técnica y gremial.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Jaime Bermúdez retira su candidatura para ser nuevo presidente de la ANDI; Junta definiría finalistas esta semana",
+        "capturado": "2026-10-27T19:21:53-05:00"
+      },
+      {
+        "titulo": "MinHacienda avala mover fondos del metro de Bogotá al Presupuesto y cuestiona a Petro",
+        "url": "https://www.valoraanalitik.com/minhacienda-defiende-traslado-de-recursos-del-metro-de-bogota-al-presupuesto-y-lanza-criticas-a-petro/",
+        "resumen": "La iniciativa generó críticas de sectores de oposición, que acusaron al Gobierno de buscar recortar los recursos destinados a la capital.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda defiende traslado de recursos del metro de Bogotá al Presupuesto y lanza críticas a Petro",
+        "capturado": "2026-10-27T19:21:53-05:00"
+      },
+      {
+        "titulo": "Thomas Greg & Sons fabricará de nuevo pasaportes de Colombia por contrato de 240.352 millones de pesos",
+        "url": "https://www.valoraanalitik.com/thomas-greg-sons-volvera-a-producir-los-pasaportes-colombianos-contrato-sera-por-240-352-millones/",
+        "resumen": "Gobierno de Abelardo de la Espriella volvió a contratar empresa que retiró el expresidente Gustavo Petro para la elabración de pasaportes.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Thomas Greg & Sons volverá a producir los pasaportes colombianos: contrato será por $240.352 millones",
+        "capturado": "2026-10-27T19:21:53-05:00"
+      },
+      {
+        "titulo": "Dólar colombiano subió este martes y finalizó cerca a 3.150 pesos esperando anuncio de la FED",
+        "url": "https://www.valoraanalitik.com/dolar-colombia-reboto-este-martes-27/",
+        "resumen": "En una sesión marcada por la volatilidad intradiaria, el dólar en Colombia rebotó este martes y finalizó la jornada en $3.147,40 en el mercado spot.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia rebotó este martes y cerró en cerca de $3.150: mercado, a la espera de decisión de la FED",
+        "capturado": "2026-10-27T19:21:53-05:00"
+      },
       {
         "titulo": "Visa señala que pymes con herramientas de pago usan un noventa por ciento más servicios financieros",
         "url": "https://www.valoraanalitik.com/pymes-colombianas-con-soluciones-de-pago-utilizan-90-mas-productos-financieros-segun-visa/",
@@ -533,79 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Guadalajara y Ciudad de México: así son los nuevos y renovados hoteles NH en México",
         "capturado": "2026-10-25T16:08:26-05:00"
-      },
-      {
-        "titulo": "Entrevista a Cachivaches, el negocio colombiano centrado en Halloween con más de seis décadas de expansión",
-        "url": "https://www.valoraanalitik.com/cachivaches-la-empresa-colombiana-de-mas-de-50-anos-que-crece-con-halloween/",
-        "resumen": "En entrevista con Valora Analitik, Juan de la Espriella, gerente de Cachivaches, revela cómo ha evolucionado el mercado de disfraces en Colombia.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Cachivaches, la empresa colombiana de más de 60 años que crece con Halloween: así cambió el negocio de los disfraces",
-        "capturado": "2026-10-25T13:17:46-05:00"
-      },
-      {
-        "titulo": "Entrevista: Hero Motos destina más de US$2 millones en Colombia para 2026 con metas de alta expansión",
-        "url": "https://www.valoraanalitik.com/entrevista-hero-motos-ha-invertido-en-colombia-mas-de-us2-millones-en-2026-planes-de-crecer-a-doble-digito-y-nuevas-unidades-de-negocio/",
-        "resumen": "En Colombia se encuentra la única planta de producción de Hero fuera de Asia.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Hero Motos ha invertido en Colombia más de US$2 millones en 2026: planes de crecer a doble dígito y nuevas unidades de negocio",
-        "capturado": "2026-10-25T13:17:46-05:00"
-      },
-      {
-        "titulo": "Alerta: María Corina Machado vuelve a territorio venezolano luego de casi diez meses de ausencia",
-        "url": "https://www.valoraanalitik.com/maria-corina-machado-regresa-venezuela-2026/",
-        "resumen": "Su regreso llega tras al menos siete intentos fallidos y en medio del Gobierno interino de Delcy Rodríguez.",
-        "autor": "",
-        "subseccion": "Insidevenezuela",
-        "publicacion": "",
-        "titulo_fuente": "Atención | María Corina Machado regresa a Venezuela tras casi diez meses fuera del país",
-        "capturado": "2026-10-25T13:17:46-05:00"
-      },
-      {
-        "titulo": "Conclusión de las APPA en Antioquia: administración nacional elimina trabas sobre 103.000 hectáreas",
-        "url": "https://www.valoraanalitik.com/fin-appa-antioquia-gobierno-restricciones/",
-        "resumen": "La UPRA concluyó que la figura tenía fallas cartográficas y vacíos de consulta previa. Córdoba y Tolima son las siguientes en la lista.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Fin de las APPA en Antioquia: Gobierno levanta restricciones sobre 103.000 hectáreas",
-        "capturado": "2026-10-25T13:17:46-05:00"
-      },
-      {
-        "titulo": "Entrevista al presidente de AngloGold Ashanti: Colombia tiene que priorizar gas, cobre y oro",
-        "url": "https://www.valoraanalitik.com/colombia-debe-enfocarse-en-oro-cobre-y-gas-presidente-de-anglogold-ashanti/",
-        "resumen": "Alberto Calderón, CEO de la empresa y expresidente de Ecopetrol, habló sobre el panorama minero-energético en Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Colombia debe enfocarse en oro, cobre y gas: presidente de AngloGold Ashanti",
-        "capturado": "2026-10-25T13:17:46-05:00"
-      },
-      {
-        "titulo": "Dilema pensional: cuenta fiscal, discusión en el Congreso y necesidad de aplazar su vigencia",
-        "url": "https://www.valoraanalitik.com/encrucijada-pensional-entre-el-ajuste-fiscal-el-debate-legislativo-y-la-urgencia-de-posponer-su-puesta-en-marcha/",
-        "resumen": "Tras el pronunciamiento de la Corte Constitucional, el nuevo sistema de seguridad social se encuentra en medio de dos fuerzas contrapuestas.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Encrucijada pensional: entre el ajuste fiscal, el debate legislativo y la urgencia de posponer su puesta en marcha",
-        "capturado": "2026-10-25T09:31:31-05:00"
-      },
-      {
-        "titulo": "Elecciones en Brasil: empate entre Lula y Flávio Bolsonaro de cara al balotaje",
-        "url": "https://www.valoraanalitik.com/brasil-define-su-rumbo-politico-lula-y-flavio-bolsonaro-llegan-empatados-a-la-segunda-vuelta/",
-        "resumen": "El presidente Lula da Silva y Flávio Bolsonaro llegan a la segunda vuelta presidencial con números reñidos.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Brasil define su rumbo político: Lula y Flávio Bolsonaro llegan empatados a la segunda vuelta",
-        "capturado": "2026-10-25T09:31:31-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Firma nacional elevó sus ventas de 600 millones a 20.000 millones y apunta al mercado de México",
+        "url": "https://www.valoraanalitik.com/esta-empresa-colombiana-paso-de-vender-600-millones-a-mover-20-000-millones-y-ahora-va-por-mexico/",
+        "resumen": "La empresa multiplicó su escala comercial en menos de 18 meses y llegó a cerca de 1.000 puntos de venta en Colombia. Ahora prepara su expansión internacional.",
+        "autor": "",
+        "subseccion": "Emprendedores",
+        "publicacion": "",
+        "titulo_fuente": "Esta empresa colombiana pasó de vender $600 millones a mover $20.000 millones y ahora va por México",
+        "capturado": "2026-10-27T19:21:53-05:00"
+      },
+      {
+        "titulo": "Jaime Bermúdez declina aspiración a la presidencia de la ANDI y Junta definiría finalistas estos días",
+        "url": "https://www.valoraanalitik.com/jaime-bermudez-retira-su-candidatura-para-ser-nuevo-presidente-de-la-andi-junta-definiria-finalistas-esta-semana/",
+        "resumen": "Con la salida de Bermúdez, la baraja de opcionados se reduce a cuatro nombres con amplia trayectoria técnica y gremial.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Jaime Bermúdez retira su candidatura para ser nuevo presidente de la ANDI; Junta definiría finalistas esta semana",
+        "capturado": "2026-10-27T19:21:53-05:00"
+      },
+      {
+        "titulo": "Cifras alternativas y su razón de ser son fundamentales para expandir el crédito en Colombia",
+        "url": "https://www.valoraanalitik.com/datos-alternativos-como-pueden-facilitar-el-acceso-al-credito-en-colombia/",
+        "resumen": "TransUnion destaca el potencial de la información de sectores como las telecomunicaciones para evaluar perfiles de riesgo y facilitar la inclusión financiera.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Datos alternativos y el por qué son la clave para ampliar el acceso al crédito en Colombia",
+        "capturado": "2026-10-27T19:21:53-05:00"
+      },
       {
         "titulo": "El laberinto del gasto: así cambió el perfil del comprador en Colombia",
         "url": "https://www.valoraanalitik.com/consumo-en-colombia-asi-ha-cambiado-el-perfil-del-consumidor/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Primicia | Fintech respaldada por Tether anuncia nuevas inversiones y contrataciones en Colombia tras lograr millonaria financiación",
         "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "EPM advierte escasez en embalses de Hidroituango y Guatapé por El Niño y compraría energía en bolsa",
-        "url": "https://www.valoraanalitik.com/epm-alerta-por-bajo-nivel-en-embalses-de-hidroituango-y-guatape-por-el-nino-tendria-que-comprar-mas-energia-en-bolsa/",
-        "resumen": "La empresa advirtió que, cuando disminuye la generación hidroeléctrica, EPM enfrenta presiones para cumplir sus compromisos de suministro de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "EPM alerta por bajo nivel en embalses de Hidroituango y Guatapé por El Niño; tendría que comprar más energía en bolsa",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "Mineros convoca a Asamblea de Accionistas para aprobar un dividendo extraordinario de US$58 millones",
-        "url": "https://www.valoraanalitik.com/mineros-busca-pagar-dividendos-extraordinarios-por-us58-millones-cita-a-asamblea-de-accionistas/",
-        "resumen": "De ser aprobado, el Dividendo Extraordinario se pagará en una sola cuota el 4 de diciembre de 2026 a los accionistas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Mineros busca pagar dividendos extraordinarios por US$58 millones: cita a Asamblea de Accionistas",
-        "capturado": "2026-10-23T13:38:19-05:00"
-      },
-      {
-        "titulo": "Nucita festeja cinco días de vida: la evolución del producto único hacia un catálogo amplio",
-        "url": "https://www.valoraanalitik.com/nucita-celebra-50-anos-asi-ha-crecido-la-marca-que-paso-de-un-producto-a-tener-su-propio-portafolio/",
-        "resumen": "Para los 50 años de Nucita, Colombina puso en valor el origen regional de la marca, Cali, como escenario del principal homenaje del aniversario.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Nucita celebra 50 años: así ha crecido la marca que pasó de un producto a tener su propio portafolio",
-        "capturado": "2026-10-23T09:22:57-05:00"
       }
     ]
   }
