@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-28T01:08:29-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-28T08:25:25-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De la Espriella alista modificaciones para las cajas de compensación en el país: los detalles",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-prepara-cambios-para-las-cajas-de-compensacion-en-colombia-esto-se-sabe/",
+        "resumen": "Las cajas de compensación en Colombia podrían enfrentar cambios en su vigilancia y funcionamiento. El Gobierno De la Espriella anunció medidas.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella prepara cambios para las cajas de compensación en Colombia: esto se sabe",
+        "capturado": "2026-10-28T08:25:25-05:00"
+      },
+      {
+        "titulo": "Sismo en Colombia: restaurar servicios financieros es vital para la recuperación de las poblaciones",
+        "url": "https://www.valoraanalitik.com/terremoto-en-colombia-recuperar-el-acceso-a-servicios-financieros-clave-para-la-reactivacion-de-las-comunidades/",
+        "resumen": "La disponibilidad de efectivo, el pago de jornales y la recepción de remesas son algunas de las necesidades que enfrentan los municipios afectados.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Terremoto en Colombia: recuperar el acceso a servicios financieros, clave para la reactivación de las comunidades",
+        "capturado": "2026-10-28T08:25:25-05:00"
+      },
+      {
+        "titulo": "Reforma pensional: Cámara negó tres propuestas esenciales y corre contra el reloj por otros puntos",
+        "url": "https://www.valoraanalitik.com/reforma-pensional-camara-rechazo-tres-proposiciones-clave-y-enfrenta-tiempo-record-para-salvar-otros-articulos/",
+        "resumen": "La plenaria de este miércoles 28 de octubre será determinante para avanzar en la discusión y votación de las siete proposiciones faltantes.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Reforma pensional: Cámara rechazó tres proposiciones clave y enfrenta tiempo récord para salvar otros artículos",
+        "capturado": "2026-10-28T08:25:25-05:00"
+      },
+      {
+        "titulo": "Premercado: atención a la FED y balances de grandes tecnológicas mientras el crudo repunta",
+        "url": "https://www.valoraanalitik.com/premercado-inversores-centran-atencion-en-decision-de-la-fed-y-resultados-de-grandes-tecnologicas-petroleo-rebota/",
+        "resumen": "Los mercados analizarán las orientaciones de los responsables de la política monetaria en busca de pistas sobre las perspectivas de los costes de financiación.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Inversores centran atención en decisión de la FED y resultados de grandes tecnológicas: petróleo rebota",
+        "capturado": "2026-10-28T08:25:25-05:00"
+      },
+      {
+        "titulo": "Entrevista: impulsar hidrocarburos daría a Colombia $20 billones al año a 2050 según la ACP",
+        "url": "https://www.valoraanalitik.com/reactivar-sector-de-petroleo-y-de-gas-le-aportaria-a-colombia-20-billones-anuales-a-2050-presidente-acp/",
+        "resumen": "Frank Pearl, presidente de la Asociación Colombiana de Petróleo y Gas, abordó el potencial de la industria si se revitaliza la actividad petrolera y gasífera.",
+        "autor": "",
+        "subseccion": "Petróleo",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Reactivar sector de petróleo y de gas le aportaría a Colombia $20 billones anuales a 2050: Presidente ACP",
+        "capturado": "2026-10-28T08:25:25-05:00"
+      },
+      {
+        "titulo": "De la Espriella reitera al gobierno la necesidad de subir tributos para incrementar el recaudo nacional",
+        "url": "https://www.valoraanalitik.com/insisten-al-gobierno-de-la-espriella-en-urgencia-por-aumentar-impuestos-para-mejorar-recaudo-en-colombia/",
+        "resumen": "El gobierno De la Espriella ha hablado de la necesidad de priorizar la austeridad y el control sobre el gasto.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Insisten al gobierno De la Espriella en urgencia por aumentar impuestos para mejorar recaudo en Colombia",
+        "capturado": "2026-10-28T08:25:25-05:00"
+      },
       {
         "titulo": "Ecopetrol revelará su balance del tercer trimestre de 2026 el 10 de noviembre",
         "url": "https://www.valoraanalitik.com/ecopetrol-presentara-resultados-del-tercer-trimestre-de-2026-el-10-de-noviembre/",
@@ -543,69 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno no ha prorrogado concesión Autopistas del Café, pero sí revivió estudio de nuevo megaproyecto Conexión Centro",
         "capturado": "2026-10-26T10:01:52-05:00"
-      },
-      {
-        "titulo": "Flávio Bolsonaro anuncia que pedirá invalidar el balotaje en Brasil",
-        "url": "https://www.valoraanalitik.com/flavio-bolsonaro-dice-que-solicitara-la-anulacion-de-la-segunda-vuelta-en-brasil/",
-        "resumen": "La extensión de la jornada de votación sería el principal argumento del equipo jurídico del candidato.",
-        "autor": "",
-        "subseccion": "Elecciones presidenciales",
-        "publicacion": "",
-        "titulo_fuente": "Flávio Bolsonaro dice que solicitará la anulación de la segunda vuelta en Brasil",
-        "capturado": "2026-10-26T10:01:52-05:00"
-      },
-      {
-        "titulo": "Premercado | Inversores miran balances y cumbres de bancos centrales; baja el crudo",
-        "url": "https://www.valoraanalitik.com/premercado-mercados-atentos-a-resultados-empresariales-y-reunion-de-bancos-centrales-esta-semana-petroleo-retrocede/",
-        "resumen": "La Reserva Federal de Estados Unidos, el Banco Central Europeo y el Banco de Japón tienen previsto anunciar sus decisiones de política monetaria esta semana.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Mercados atentos a resultados empresariales y reunión de bancos centrales esta semana: petróleo retrocede",
-        "capturado": "2026-10-26T10:01:52-05:00"
-      },
-      {
-        "titulo": "Salario mínimo en Colombia alcanzaría casi los $2.500.000 con esta iniciativa",
-        "url": "https://www.valoraanalitik.com/con-esta-propuesta-salario-minimo-en-colombia-podria-quedar-muy-cerca-de-los-2-500-000/",
-        "resumen": "La discusión del salario mínimo en Colombia se espera arranque formalmente desde mediados de noviembre.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Con esta propuesta, salario mínimo en Colombia podría quedar muy cerca de los $2.500.000",
-        "capturado": "2026-10-26T10:01:52-05:00"
-      },
-      {
-        "titulo": "Próxima decisión del Emisor elevaría tipos de interés en Colombia a picos de febrero de 2024",
-        "url": "https://www.valoraanalitik.com/tasas-de-interes-en-colombia-subirian-a-maximos-de-febrero-del-2024-con-proxima-decision-del-banco-de-la-republica/",
-        "resumen": "Leonardo Villar, gerente del Banco de la República, explica por qué las tasas de interés en Colombia siguen altas",
-        "autor": "",
-        "subseccion": "Tasas de interes en colombia",
-        "publicacion": "",
-        "titulo_fuente": "Tasas de interés en Colombia subirían a máximos de febrero del 2024 con próxima decisión del Banco de la República",
-        "capturado": "2026-10-26T10:01:52-05:00"
-      },
-      {
-        "titulo": "De la Espriella presentará esta semana Ley de Rescate y campaña nacional de ahorro ante fuerte Super Niño",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-presentara-esta-semana-ley-de-rescate-y-campana-nacional-de-ahorro-de-energia-agua-y-gas-ante-fuerte-super-nino/",
-        "resumen": "Ante las fallas de forma en la presentación del Presupuesto 2027, Abelardo de la Espriella dijo que «en mi Gobierno los errores se reconocen y se corrigen”.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella presentará esta semana ‘Ley de Rescate’ y campaña nacional de ahorro de energía, agua y gas ante fuerte ‘Super Niño’",
-        "capturado": "2026-10-26T02:38:00-05:00"
-      },
-      {
-        "titulo": "Acciones y futuros brasileros caen fuertemente luego de ajustada victoria electoral de Lula da Silva",
-        "url": "https://www.valoraanalitik.com/futuros-y-acciones-en-brasil-se-desploman-tras-apretada-reeleccion-de-lula-da-silva/",
-        "resumen": "El ETF EWZ, uno de los instrumentos utilizados para tomar exposición a acciones de Brasil, cae casi un 20 % tras confirmarse la reelección de Lula da Silva.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Futuros y acciones en Brasil se desploman tras apretada reelección de Lula da Silva",
-        "capturado": "2026-10-25T20:36:24-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | Estímulo a hidrocarburos sumaría 20 billones anuales al país hacia 2050: líder de ACP",
+        "url": "https://www.valoraanalitik.com/reactivar-sector-de-petroleo-y-de-gas-le-aportaria-a-colombia-20-billones-anuales-a-2050-presidente-acp/",
+        "resumen": "Frank Pearl, presidente de la Asociación Colombiana de Petróleo y Gas, abordó el potencial de la industria si se revitaliza la actividad petrolera y gasífera.",
+        "autor": "",
+        "subseccion": "Petróleo",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Reactivar sector de petróleo y de gas le aportaría a Colombia $20 billones anuales a 2050: Presidente ACP",
+        "capturado": "2026-10-28T08:25:25-05:00"
+      },
       {
         "titulo": "Cecilia Durán asume como presidenta encargada de Almaviva tras la dimisión de Camilo Cortés Duarte",
         "url": "https://www.valoraanalitik.com/cecilia-duran-sera-la-presidenta-e-de-almaviva-por-renuncia-de-camilo-cortes-duarte/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Epm",
         "publicacion": "",
         "titulo_fuente": "EPM solo recupera $57 de cada $100 que invierte en el Caribe; espera $800.000 millones del Gobierno De la Espriella",
-        "capturado": "2026-10-23T16:56:37-05:00"
-      },
-      {
-        "titulo": "Solicitarán a la Fiscalía indagar a empleados de Supersociedades por el caso Accedo y sus fallas",
-        "url": "https://www.valoraanalitik.com/pediran-a-la-fiscalia-investigar-a-funcionarios-de-supersociedades-por-reorganizacion-de-accedo-estas-son-las-presuntas-irregularidades/",
-        "resumen": "La Fiscalía la encargada de evaluar los hechos, recaudar las pruebas y determinar si hay mérito para avanzar en una investigación formal.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pedirán a la Fiscalía investigar a funcionarios de Supersociedades por reorganización de Accedo: estas son las presuntas irregularidades",
         "capturado": "2026-10-23T16:56:37-05:00"
       }
     ]
