@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-28T14:01:55-05:00",
-  "nuevos_en_esta_corrida": 22,
+  "actualizado": "2026-10-28T18:26:25-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Odinsa entregará dividendos extraordinarios por $183.000 millones al Grupo Argos",
+        "url": "https://www.valoraanalitik.com/grupo-argos-recibira-183-000-millones-en-dividendos-extraordinarios-de-odinsa/",
+        "resumen": "Grupo Argos avanza en su estrategia ACE 1.0 con $183.000 millones en dividendos extraordinarios de Odinsa.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos recibirá $183.000 millones en dividendos extraordinarios de Odinsa",
+        "capturado": "2026-10-28T18:26:25-05:00"
+      },
+      {
+        "titulo": "Gobierno costeará estudios de la línea 4 del metro bogotano y hallará fondos para Suba-Cota",
+        "url": "https://www.valoraanalitik.com/gobierno-financiara-estudios-de-la-linea-4-del-metro-de-bogota-y-buscara-recursos-para-corredor-suba-cota/",
+        "resumen": "El presidente Abelardo de la Espriella anunció nuevos recursos para movilidad en Bogotá, incluida la línea 4 del metro y el corredor Suba-Cota.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno financiará estudios de la línea 4 del metro de Bogotá y buscará recursos para corredor Suba-Cota",
+        "capturado": "2026-10-28T18:26:25-05:00"
+      },
+      {
+        "titulo": "Bolsa colombiana cambia de nombre y arranca nueva fase por integración con Chile y Perú",
+        "url": "https://www.valoraanalitik.com/bolsa-de-colombia-estrena-nombre-nuam/",
+        "resumen": "La nueva identidad hace parte de la transformación regional de nuam. Los tres mercados suman una capitalización bursátil de US$539.000 millones.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Bolsa de Colombia estrena nombre e inicia nueva etapa de cara a la integración con Chile y Perú",
+        "capturado": "2026-10-28T18:26:25-05:00"
+      },
+      {
+        "titulo": "Sector carbonero proyecta casi duplicar la producción hacia 2030 frente a niveles de 2025",
+        "url": "https://www.valoraanalitik.com/industria-del-carbon-espera-casi-duplicar-su-produccion-a-2030-frente-a-las-cifras-de-2025/",
+        "resumen": "Carlos Cante, presidente de Fenalcarbón, agregó que una de las grandes oportunidades para el sector está en Asia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Industria del carbón espera casi duplicar su producción a 2030 frente a las cifras de 2025",
+        "capturado": "2026-10-28T18:26:25-05:00"
+      },
       {
         "titulo": "H división de Argos Latam y Argos Materials sería en 2027 con más flota y plantas",
         "url": "https://www.valoraanalitik.com/separacion-de-argos-latam-y-argos-materials-se-concretaria-en-2027-empresa-aumentara-flota-e-invertira-en-plantas/",
@@ -563,49 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Recortes en Ley de Rescate de De la Espriella serán graduales y se aplicarán durante cuatro años",
         "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "XM advierte que faltan 38 días para acumular agua en embalses colombianos y afrontar El Niño",
-        "url": "https://www.valoraanalitik.com/quedan-38-dias-para-que-colombia-almacene-suficiente-agua-en-los-embalses-para-enfrentar-el-nino-xm/",
-        "resumen": "Los aportes hídricos se encuentran en 60,51 % de la media histórica y las reservas de los embalses superan ligeramente 76 %. La meta es alcanzar 80 %.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Quedan 38 días para que Colombia almacene suficiente agua en los embalses para enfrentar El Niño: XM",
-        "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "Llega al país nueva firma tecnológica tras captar US$180 millones en capital",
-        "url": "https://www.valoraanalitik.com/nueva-multinacional-de-tecnologia-llega-a-colombia-tras-recibir-inversion-de-us180-millones/",
-        "resumen": "Una multinacional de tecnología aterriza en Colombia y busca transformar las decisiones de compra y venta en el comercio.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Nueva multinacional de tecnología llega a Colombia tras recibir inversión de US$180 millones",
-        "capturado": "2026-10-26T15:41:11-05:00"
-      },
-      {
-        "titulo": "Anthropic, creadora de Claude, inició trámites para cotizar en la Bolsa de Nueva York",
-        "url": "https://www.valoraanalitik.com/anthropic-claude-acciones-bolsa-nueva-york/",
-        "resumen": "La compañía presentó ante la SEC la documentación para su salida a bolsa y reportó compromisos de pago por US$417.000 millones para más capacidades.",
-        "autor": "",
-        "subseccion": "Financieras internacionales",
-        "publicacion": "",
-        "titulo_fuente": "Anthropic, la empresa detrás de Claude, comenzó proceso para listar sus acciones en la Bolsa de Nueva York",
-        "capturado": "2026-10-26T15:41:11-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia toca su piso mensual y bordea la barrera de $3.100",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-nivel-mas-bajo-un-mes/",
-        "resumen": "En una jornada volátil y con marcada corrección bajista, el dólar en Colombia cerró en $3.130, su cotización más baja en más de un mes.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia cae a su nivel más bajo en más de un mes y se acerca al soporte de $3.100",
-        "capturado": "2026-10-26T15:41:11-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Odinsa entregará dividendos extraordinarios por $183.000 millones al Grupo Argos",
+        "url": "https://www.valoraanalitik.com/grupo-argos-recibira-183-000-millones-en-dividendos-extraordinarios-de-odinsa/",
+        "resumen": "Grupo Argos avanza en su estrategia ACE 1.0 con $183.000 millones en dividendos extraordinarios de Odinsa.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos recibirá $183.000 millones en dividendos extraordinarios de Odinsa",
+        "capturado": "2026-10-28T18:26:25-05:00"
+      },
+      {
+        "titulo": "Alianza entre Diageo y la Industria Licorera de Caldas busca fomentar la fabricación regional",
+        "url": "https://www.valoraanalitik.com/industria-licorera-de-caldas-y-diageo-firman-acuerdo/",
+        "resumen": "El memorando busca ampliar capacidades productivas, explorar mercados y fortalecer la competitividad de la industria colombiana.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Industria Licorera de Caldas y Diageo firman acuerdo para impulsar la producción local",
+        "capturado": "2026-10-28T18:26:25-05:00"
+      },
+      {
+        "titulo": "Tercer trimestre de 2026 dejó a Wyndham US$405 millones en ingresos y proyecta cierre anual",
+        "url": "https://www.valoraanalitik.com/ingresos-de-wyndham-ascendieron-a-us405-millones-en-el-tercer-trimestre-de-2026-revela-proyecciones-para-cierre-de-ano/",
+        "resumen": "En los resultados del periodo mencionado, el Ebitda ajustado se posicionó en US$207 millones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ingresos de Wyndham ascendieron a US$405 millones en el tercer trimestre de 2026: revela proyecciones para cierre de año",
+        "capturado": "2026-10-28T18:26:25-05:00"
+      },
+      {
+        "titulo": "Producción carbonera proyecta casi duplicarse hacia 2030 en comparación con 2025",
+        "url": "https://www.valoraanalitik.com/industria-del-carbon-espera-casi-duplicar-su-produccion-a-2030-frente-a-las-cifras-de-2025/",
+        "resumen": "Carlos Cante, presidente de Fenalcarbón, agregó que una de las grandes oportunidades para el sector está en Asia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Industria del carbón espera casi duplicar su producción a 2030 frente a las cifras de 2025",
+        "capturado": "2026-10-28T18:26:25-05:00"
+      },
+      {
+        "titulo": "Apenas un 21 % de compradores permitiría que un agente de IA finalice compras sin aval",
+        "url": "https://www.valoraanalitik.com/compraria-con-inteligencia-artificial-solo-el-21-de-los-consumidores-dejaria-que-un-agente-de-ia-cierre-compras-sin-su-aprobacion/",
+        "resumen": "El estudio examinó qué tan dispuestas están las personas a dejar en manos de agentes de IA tareas como investigar, seleccionar y comprar productos o servicios.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "¿Compraría con inteligencia artificial? Solo el 21 % de los consumidores dejaría que un agente de IA cierre compras sin su aprobación",
+        "capturado": "2026-10-28T18:26:25-05:00"
+      },
       {
         "titulo": "Hacia 2027 se daría la escisión entre Argos Latam y Argos Materials con más flota y recursos para plantas",
         "url": "https://www.valoraanalitik.com/separacion-de-argos-latam-y-argos-materials-se-concretaria-en-2027-empresa-aumentara-flota-e-invertira-en-plantas/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Empleo en Colombia: conozca el mejor momento para ser contratado fácil y rápido",
         "capturado": "2026-10-24T17:20:52-05:00"
-      },
-      {
-        "titulo": "IA geoespacial: de esta manera se transforma el estudio del territorio colombiano",
-        "url": "https://www.valoraanalitik.com/inteligencia-artificial-geoespacial-asi-esta-cambiando-la-forma-de-analizar-el-territorio-en-colombia/",
-        "resumen": "Esri revela cómo la inteligencia artificial ayuda a mapear los daños del terremoto en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inteligencia artificial geoespacial: así está cambiando la forma de analizar el territorio en Colombia",
-        "capturado": "2026-10-24T17:20:52-05:00"
-      },
-      {
-        "titulo": "El 48 % del mercado cervecero artesanal en Colombia es de Tres Cordilleras, la marca líder del sector",
-        "url": "https://www.valoraanalitik.com/3-cordilleras-se-consolida-como-la-cerveza-artesanal-mas-grande-de-colombia-concentra-el-48-de-la-participacion-en-el-mercado/",
-        "resumen": "Desde su fundación en 2008, ha acumulado siete medallas (una de oro, una de plata y cinco de bronce) en certámenes locales e internacionales.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "3 Cordilleras se consolida como la cerveza artesanal más grande de Colombia: concentra el 48 % de la participación en el mercado",
-        "capturado": "2026-10-24T14:41:41-05:00"
-      },
-      {
-        "titulo": "Entrevista | El plan detrás de los pasajes de avión a $47.000 de JetSmart en Colombia",
-        "url": "https://www.valoraanalitik.com/tiquetes-baratos-jetsmart-2026-colombia/",
-        "resumen": "Según Estuardo Ortiz, CEO de JetSmart, 22 % de sus pasajeros en Colombia vuela por primera vez y las tarifas podrían subir por el combustible.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | La estrategia detrás de los tiquetes aéreos en $47.000 de JetSmart en Colombia",
-        "capturado": "2026-10-24T12:17:28-05:00"
-      },
-      {
-        "titulo": "Vigilancia privada en Colombia: El efecto del sueldo básico y el giro que dan en conjuntos",
-        "url": "https://www.valoraanalitik.com/seguridad-privada-en-colombia-el-impacto-que-tuvo-el-salario-minimo-y-el-cambio-que-estan-haciendo-en-conjuntos/",
-        "resumen": "La seguridad privada en Colombia ha tenido diversos cambios en los últimos meses, lo que llevó a los conjuntos a adoptar estas medidas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Seguridad privada en Colombia: El impacto que tuvo el salario mínimo y el cambio que están haciendo en conjuntos",
-        "capturado": "2026-10-24T12:17:28-05:00"
-      },
-      {
-        "titulo": "Entrevista | Estamos llegando al tope del gas comprado afuera, dice el presidente de Campetrol",
-        "url": "https://www.valoraanalitik.com/estamos-llegando-al-tope-del-gas-importado-presidente-de-campetrol/",
-        "resumen": "Nelson Castañeda, presidente de Campetrol, afirmó que una menor carga tributaria para el sector impulsaría un mayor dinamismo económico.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | “Estamos llegando al tope del gas importado”: presidente de Campetrol",
-        "capturado": "2026-10-24T12:17:28-05:00"
       }
     ]
   }
