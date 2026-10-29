@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-29T11:47:44-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-29T16:41:25-05:00",
+  "nuevos_en_esta_corrida": 23,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Fintech arriba a Medellín para fondear carros laborales mediante alianza con inDrive",
+        "url": "https://www.valoraanalitik.com/fintech-medellin-financia-vehiculos-indrive/",
+        "resumen": "Para 2027, Alta proyecta colocar más de $130.000 millones en créditos en Colombia, de los cuales cerca de $50.000 millones serían en Medellin.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Esta fintech llega a Medellín para financiar vehículos de trabajo; tendrá alianza con inDrive",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "De la Espriella extiende hasta diciembre de 2027 el paso del Sisbén al Registro Universal de Ingresos",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-amplia-hasta-diciembre-de-2027-la-transicion-del-sisben-al-registro-universal-de-ingresos-rui/",
+        "resumen": "Durante el periodo de transición, las entidades responsables de los programas sociales deberán definir sus propios esquemas de adaptación al RUI.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella amplía hasta diciembre de 2027 la transición del Sisbén al Registro Universal de Ingresos (RUI)",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Serfinanza volvió a la bolsa con emisión de bonos para optimizar su esquema de fondeo",
+        "url": "https://www.valoraanalitik.com/serfinanza-regreso-al-mercado-de-capitales/",
+        "resumen": "El banco, parte del Grupo Olímpica, colocó bonos ordinarios por $150.000 millones, como parte de sus 50 años de existencia.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Serfinanza regresó al mercado de capitales con colocación de bonos para mejorar su estructura de financiación",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Varones contarían con mayor periodo de licencia paternal en el país: así variaría el escenario",
+        "url": "https://www.valoraanalitik.com/hombres-podrian-tener-mas-tiempo-de-licencia-de-paternidad-en-colombia-asi-cambiaria-el-panorama/",
+        "resumen": "La licencia de paternidad podría pasar de dos a 12 semanas en Colombia en medio de un panorama complejo para padres y madres.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Hombres podrían tener más tiempo de licencia de paternidad en Colombia: así cambiaría el panorama",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Gobierno nacional reprogramará vigencias futuras de proyectos demorados para fondear otros gastos",
+        "url": "https://www.valoraanalitik.com/gobierno-nacional-reprogramara-vigencias-futuras-de-obras-retrasadas-para-financiar-otras-inversiones/",
+        "resumen": "Noguera aclaró que la reprogramación no implica retirar el respaldo financiero a los proyectos de Bogotá.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno Nacional reprogramará vigencias futuras de obras retrasadas para financiar otras inversiones",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Pasajes aéreos en Colombia aumentaron 18,3 % anual y casi triplican la inflación",
+        "url": "https://www.valoraanalitik.com/tiquetes-aereos-en-colombia-subieron-183-anual-y-casi-triplican-la-inflacion/",
+        "resumen": "Las aerolíneas han absorbido parte de la presión sobre sus costos, pero el mayor peso del combustible en sus gastos operativos reduce ese margen.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tiquetes aéreos en Colombia subieron 18,3 % anual y casi triplican la inflación",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Gobierno Nacional podría acudir a mayores ventas de dólares ante trabas para colocar TES",
+        "url": "https://www.valoraanalitik.com/gobierno-nacional-podria-recurrir-a-mayores-ventas-de-dolares-ante-dificultades-para-colocar-tes/",
+        "resumen": "El Banco de Bogotá plantea varias alternativas para mejorar las condiciones de financiación al termino de 2026.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno Nacional podría recurrir a mayores ventas de dólares ante dificultades para colocar TES",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Aparece Avatr en Colombia, la enseña de lujo de Changan, CATL y Huawei",
+        "url": "https://www.valoraanalitik.com/avatar-lujo-colombia-changan-catl-huawei/",
+        "resumen": "Grupo Vardí comercializará Avatr con dos camionetas: la 11, 100 % eléctrica, y la 07, de rango extendido.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Llega Avatr a Colombia, la marca de lujo de Changan, CATL y Huawei",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia cierra al alza a la espera de decisión de tasas del BanRep",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-termina-jornada-al-alza-a-la-espera-de-decision-de-tasas-del-banrep/",
+        "resumen": "Esto fue lo que movió al dólar en Colombia al cierre de la jornada.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia termina jornada al alza a la espera de decisión de tasas del BanRep",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Carlos Andrés Echeverri asumirá como presidente de Bancoomeva y viene de Banco de Occidente",
+        "url": "https://www.valoraanalitik.com/carlos-andres-echeverri-bancoomeva/",
+        "resumen": "La Junta Directiva de la entidad agradeció a Marco Antonio Rizo por su liderazgo y contribución al desarrollo de Bancoomeva durante su gestión.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Carlos Andrés Echeverri será el nuevo presidente de Bancoomeva; llega desde Banco de Occidente",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Lulo Bank, propiedad del Grupo Gilinski, expande su oferta financiera al integrar pólizas en su aplicación",
+        "url": "https://www.valoraanalitik.com/lulo-bank-ofrecera-seguros-desde-app/",
+        "resumen": "El neobanco anunció alianzas con múltiples aseguradoras para ofrecer protección de desempleo, nómina y SOAT, entre otros.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Lulo Bank, del Grupo Gilisnki, sigue ampliando su ecosistema de servicios financieros: ofrecerá seguros desde la app",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
       {
         "titulo": "Multinacional lanza 1400 puestos en Colombia con plazas sin trayectoria y este es el proceso",
         "url": "https://www.valoraanalitik.com/multinacional-abre-1-400-vacantes-en-colombia-hay-empleos-sin-experiencia-y-asi-puede-aplicar/",
@@ -493,119 +603,129 @@
         "publicacion": "",
         "titulo_fuente": "Pymes colombianas con soluciones de pago utilizan 90 % más productos financieros, según Visa",
         "capturado": "2026-10-27T15:52:52-05:00"
-      },
-      {
-        "titulo": "Los grandes conglomerados que pujarán por la millonaria licitación para limpiar el río Bogotá",
-        "url": "https://www.valoraanalitik.com/los-poderosos-grupos-empresariales-que-competiran-por-la-billonaria-licitacion-para-descontaminar-el-rio-bogota/",
-        "resumen": "La infraestructura permitirá tratar las aguas residuales de aproximadamente 6,5 millones de habitantes de Bogotá y Soacha.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Los poderosos grupos empresariales que competirán por la billonaria licitación para descontaminar el río Bogotá",
-        "capturado": "2026-10-27T15:52:52-05:00"
-      },
-      {
-        "titulo": "Jubilarse con un salario básico: los cambios que trae la iniciativa del Gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/pensionarse-con-un-salario-minimo-que-cambiaria-con-la-nueva-propuesta-del-gobierno-de-la-espriella-sobre-rentas-vitalicias/",
-        "resumen": "La propuesta busca cambiar las reglas de las rentas vitalicias en Colombia. ¿Qué implicaciones habría para pensionarse con al menos un salario mínimo?",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Pensionarse con un salario mínimo: qué cambiaría con la nueva propuesta del Gobierno De la Espriella sobre rentas vitalicias",
-        "capturado": "2026-10-27T15:52:52-05:00"
-      },
-      {
-        "titulo": "Oracle busca duplicar su clientela en el centro de datos local y unir su gestión con Centroamérica",
-        "url": "https://www.valoraanalitik.com/oracle-duplicar-clientes-colombia/",
-        "resumen": "La compañía tecnológica ha sostenido encuentros con el Gobierno De La Espriella para impulsar la transformación tecnológica del estado.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Oracle apunta a duplicar clientes en su data center en Colombia; consolidará operación con Centroamérica",
-        "capturado": "2026-10-27T15:52:52-05:00"
-      },
-      {
-        "titulo": "MinSalud activa herramienta para plan de crisis y anticipa decisiones sobre la UPC de dos mil veintisiete",
-        "url": "https://www.valoraanalitik.com/minsalud-pone-en-marcha-plataforma-del-plan-de-choque-ante-crisis-revela-que-viene-para-la-upc-2027/",
-        "resumen": "La meta es contar con una estimación de los pasivos hacia finales de 2026 o, a más tardar, en enero de 2027, en coordinación con el Ministerio de Hacienda.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "MinSalud pone en marcha plataforma del plan de choque ante crisis; revela qué viene para la UPC 2027",
-        "capturado": "2026-10-27T15:52:52-05:00"
-      },
-      {
-        "titulo": "Colombia sella pacto con China para promover innovación tecnológica en vivienda y edificación",
-        "url": "https://www.valoraanalitik.com/colombia-firma-acuerdo-con-china-para-impulsar-nuevas-tecnologias-en-construccion-y-vivienda/",
-        "resumen": "Colombia y China acordaron intercambiar conocimientos en vivienda, infraestructura y construcción sostenible, con una alianza inicial de cuatro años.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia firma acuerdo con China para impulsar nuevas tecnologías en construcción y vivienda",
-        "capturado": "2026-10-27T15:52:52-05:00"
-      },
-      {
-        "titulo": "Firmas estadounidenses señalan requisitos en Nueva York para inversiones cuantiosas en Colombia",
-        "url": "https://www.valoraanalitik.com/milagro-week-en-nueva-york-empresas-de-ee-uu-advierten-que-necesita-colombia-para-concretar-inversiones-millonarias/",
-        "resumen": "La Milagro Week llevará a Nueva York proyectos colombianos y el sector empresarial de EE.UU. señala las condiciones para concretar negocios.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Milagro Week en Nueva York: empresas de EE. UU. advierten qué necesita Colombia para concretar inversiones millonarias",
-        "capturado": "2026-10-27T11:18:53-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella menciona la colocación de deuda externa más alta de la historia colombiana",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-habla-de-la-emision-de-deuda-externa-mas-grande-en-la-historia-de-colombia/",
-        "resumen": "El Ministerio de Hacienda señaló que priorizó bonos de mediano y largo plazo para reducir vencimientos de corto plazo y riesgos de refinanciación de la deuda.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella habla de la emisión de deuda externa más grande en la historia de Colombia",
-        "capturado": "2026-10-27T11:18:53-05:00"
-      },
-      {
-        "titulo": "EPM pretende conseguir un plazo más amplio para que Afinia cancele pasivos del sector eléctrico",
-        "url": "https://www.valoraanalitik.com/epm-busca-que-afinia-tenga-mayor-plazo-para-pagar-deudas-al-sistema-electrico-de-colombia/",
-        "resumen": "El gerente de EPM afirmó que se buscan alternativas para conseguir más tiempo y reunir los recursos necesarios para saldar las obligaciones de su filial.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "EPM busca que Afinia tenga mayor plazo para pagar deudas al sistema eléctrico de Colombia",
-        "capturado": "2026-10-27T11:18:53-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia arrancó subiendo, mas cayó pronto y rozó los tres mil ciento diez pesos",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-inicio-al-alza-pero-rapidamente-pego-la-vuelta-y-se-acerco-a-los-3-110/",
-        "resumen": "Esto mueve al dólar en Colombia al inicio de sesiones de este martes 27 de octubre.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia inició al alza, pero rápidamente pegó la vuelta y se acercó a los $3.110",
-        "capturado": "2026-10-27T11:18:53-05:00"
-      },
-      {
-        "titulo": "Clientes de Afinia correrían riesgo de cortes planeados debido a los pasivos de esta filial de EPM",
-        "url": "https://www.valoraanalitik.com/usuarios-de-afinia-podrian-enfrentar-apagones-programados-por-las-deudas-de-esta-filial-de-epm/",
-        "resumen": "La compañía adeuda $131.000 millones por compras de energía correspondientes a octubre, según información divulgada por medios de comunicación.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "Usuarios de Afinia podrían enfrentar apagones programados por las deudas de esta filial de EPM",
-        "capturado": "2026-10-27T11:18:53-05:00"
-      },
-      {
-        "titulo": "Bre-B fomenta los pagos digitales para tenderos y detalla su funcionamiento que disminuye el efectivo",
-        "url": "https://www.valoraanalitik.com/bre-b-impulsa-pagos-digitales-para-tenderos-asi-funciona-la-plataforma-que-reduce-el-uso-de-efectivo/",
-        "resumen": "La expansión de Accival Connect coincide con el primer año de operación de Bre-B, el sistema de pagos inmediatos del Banco de la República.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bre-B impulsa pagos digitales para tenderos: así funciona la plataforma que reduce el uso de efectivo",
-        "capturado": "2026-10-27T11:18:53-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Grupo La Fragata proyecta que el 30 por ciento de sus ventas decembrinas provengan de ferias de sushi, baos y ceviche",
+        "url": "https://www.valoraanalitik.com/grupo-la-fragata-festival-bogota-ceviche-sushis-baos-2026/",
+        "resumen": "La compañía gastronómica, que cumple 62 años, convierte el ceviche en plato fuerte en La Fragata Giratorio y lleva a Fish Market los ‘namis’, unas hamburguesas de sushi. Ambos festivales van hasta el 20 de diciembre.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Grupo La Fragata apuesta el 30 % de sus ventas de fin de año a festivales de ceviche, sushi y baos",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "El tiempo de licencia de paternidad en Colombia aumentaría para los hombres conforme a la propuesta",
+        "url": "https://www.valoraanalitik.com/hombres-podrian-tener-mas-tiempo-de-licencia-de-paternidad-en-colombia-asi-cambiaria-el-panorama/",
+        "resumen": "La licencia de paternidad podría pasar de dos a 12 semanas en Colombia en medio de un panorama complejo para padres y madres.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Hombres podrían tener más tiempo de licencia de paternidad en Colombia: así cambiaría el panorama",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Pasajes aéreos en el país incrementaron un 18,3 por ciento anual y casi triplican el costo de vida",
+        "url": "https://www.valoraanalitik.com/tiquetes-aereos-en-colombia-subieron-183-anual-y-casi-triplican-la-inflacion/",
+        "resumen": "Las aerolíneas han absorbido parte de la presión sobre sus costos, pero el mayor peso del combustible en sus gastos operativos reduce ese margen.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tiquetes aéreos en Colombia subieron 18,3 % anual y casi triplican la inflación",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Comerciantes antioqueños evaluarán sus elecciones mediante una herramienta de inteligencia artificial",
+        "url": "https://www.valoraanalitik.com/empresarios-de-antioquia-pondran-a-prueba-sus-decisiones-con-un-simulador-de-ia/",
+        "resumen": "Interactuar reunirá a 150 empresarios para simular decisiones de inversión, producción y expansión con inteligencia artificial, sin arriesgar su patrimonio.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Empresarios de Antioquia pondrán a prueba sus decisiones con un simulador de IA",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Medellín recibe nuevamente a Expopet con enfoque en bienestar animal, adopciones y vivencias",
+        "url": "https://www.valoraanalitik.com/expopet-regresa-a-medellin-con-adopciones-experiencias-y-bienestar-animal/",
+        "resumen": "Del 27 al 29 de noviembre, Plaza Mayor reunirá actividades para tutores y animales de compañía.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Expopet regresa a Medellín con adopciones, experiencias y bienestar animal",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Bogotá será sede del Innovation Summit 2.0 con empresarios para debatir sobre inteligencia artificial y talento",
+        "url": "https://www.valoraanalitik.com/innovation-summit-2-0-reunira-a-lideres-empresariales-para-analizar-el-futuro-del-talento/",
+        "resumen": "El encuentro, organizado por Magneto 365, celebrará su segunda edición el 20 de noviembre.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Innovation Summit 2.0 reunirá en Bogotá a líderes empresariales para analizar el futuro del talento y la inteligencia artificial",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Entrevista al director de Indumil: rechaza adquirir Monómeros y halla proyección en el carbón nacional",
+        "url": "https://www.valoraanalitik.com/presidente-de-indumil-descarta-compra-de-monomeros-ve-potencial-de-crecimiento-en-carbon-colombiano/",
+        "resumen": "Lucas Ariza, presidente de Indumil, expresó que ve un fuerte potencial en la industria minera colombiana, particularmente en el sector del carbón.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Presidente de Indumil descarta compra de Monómeros; ve potencial de crecimiento en carbón colombiano",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Carlos De Hart, empresario de Santander, aspira a la dirección de la ANDI",
+        "url": "https://www.valoraanalitik.com/carlos-de-hart-el-empresario-santandereano-que-busca-llegar-a-la-presidencia-de-la-andi/",
+        "resumen": "Uno de los primeros hitos de Carlos De Hart llegó en 2005, cuando asumió la gerencia seccional de la ANDI en Santander y Norte de Santander.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Carlos De Hart, el empresario santandereano que busca llegar a la presidencia de la ANDI",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Chevron invertirá más de US$100 millones en el país y prevé llegar a 200 estaciones de servicio",
+        "url": "https://www.valoraanalitik.com/chevron-planea-invertir-mas-de-us100-millones-en-colombia-y-espera-alcanzar-200-estaciones-de-servicio/",
+        "resumen": "La compañía señaló que el monto de la inversión está sujeto a cambios por factores comerciales, regulatorios y operativos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Chevron planea invertir más de US$100 millones en Colombia y espera alcanzar 200 estaciones de servicio",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Luz Stella Murgas aspira a convertirse en la primera mujer en liderar la agremiación ANDI",
+        "url": "https://www.valoraanalitik.com/luz-stella-murgas-la-dirigente-gremial-que-busca-ser-la-primera-mujer-que-preside-la-andi/",
+        "resumen": "Murgas cuenta con una trayectoria de más de 20 años vinculada a los sectores de energía, gas y minería en Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Luz Stella Murgas, la dirigente gremial que busca ser la primera mujer que preside la ANDI",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Trayectoria gremial y acuerdos comerciales marcan el camino de Juan Camilo Nariño hacia la ANDI",
+        "url": "https://www.valoraanalitik.com/juan-camilo-narino-experiencia-gremial-y-negociaciones-comerciales-en-la-carrera-por-la-andi/",
+        "resumen": "De los acuerdos comerciales a la minería: el recorrido de Juan Camilo Nariño, candidato a la ANDI.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Juan Camilo Nariño: experiencia gremial y negociaciones comerciales en la carrera por la ANDI",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
+      {
+        "titulo": "Pandora transforma Halloween en tendencia de moda al lanzar su nueva colección de charms",
+        "url": "https://www.valoraanalitik.com/pandora-convierte-halloween-en-una-declaracion-de-estilo-presenta-seleccion-de-charms/",
+        "resumen": "Llevados juntos o por separado, estos charms de Pandora permiten crear distintas historias.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pandora convierte Halloween en una declaración de estilo: presenta selección de charms",
+        "capturado": "2026-10-29T16:41:25-05:00"
+      },
       {
         "titulo": "Gobierno De la Espriella evaluará tributos a Temu y Shein a petición de los comerciantes",
         "url": "https://www.valoraanalitik.com/fenalco-pide-derogar-arancel-del-40-a-la-ropa-para-competir-con-temu-y-shein/",
@@ -1085,126 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Oracle invertirá US$1.000 millones para fortalecer su red de socios; América Latina y Colombia en el radar",
         "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "Thomas Greg & Sons quiere ser víctima penal por dudas sobre elecciones 2026",
-        "url": "https://www.valoraanalitik.com/thomas-greg-sons-busca-ser-victima-en-proceso-penal-por-cuestionamientos-a-elecciones-de-2026/",
-        "resumen": "Los hechos estarían relacionados con una presunta campaña sistemática de desinformación que habría buscado desacreditar el proceso electoral.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Thomas Greg & Sons busca ser víctima en proceso penal por cuestionamientos a elecciones de 2026",
-        "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "XM advierte que faltan 38 días para completar el almacenamiento de agua en embalses frente a El Niño",
-        "url": "https://www.valoraanalitik.com/quedan-38-dias-para-que-colombia-almacene-suficiente-agua-en-los-embalses-para-enfrentar-el-nino-xm/",
-        "resumen": "Los aportes hídricos se encuentran en 60,51 % de la media histórica y las reservas de los embalses superan ligeramente 76 %. La meta es alcanzar 80 %.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Quedan 38 días para que Colombia almacene suficiente agua en los embalses para enfrentar El Niño: XM",
-        "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "Aterriza en Colombia nueva tecnológica tras captar fondos por US$180 millones",
-        "url": "https://www.valoraanalitik.com/nueva-multinacional-de-tecnologia-llega-a-colombia-tras-recibir-inversion-de-us180-millones/",
-        "resumen": "Una multinacional de tecnología aterriza en Colombia y busca transformar las decisiones de compra y venta en el comercio.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Nueva multinacional de tecnología llega a Colombia tras recibir inversión de US$180 millones",
-        "capturado": "2026-10-26T15:41:11-05:00"
-      },
-      {
-        "titulo": "El sistema tributario colombiano es el segundo menos competitivo de la OCDE en 2026",
-        "url": "https://www.valoraanalitik.com/colombia-tiene-el-segundo-sistema-tributario-menos-competitivo-de-la-ocde-segun-indice-de-2026/",
-        "resumen": "Este es el ranking de los sistemas tributarios más competitivos de la OCDE.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Colombia tiene el segundo sistema tributario menos competitivo de la OCDE, según índice de 2026",
-        "capturado": "2026-10-26T15:41:11-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella lanza plan para salvar empresas en riesgo tras caso Presto",
-        "url": "https://www.valoraanalitik.com/tras-el-caso-presto-gobierno-de-la-espriella-anuncia-plan-para-rescatar-otras-empresas-en-riesgo-de-quiebra/",
-        "resumen": "Tras la compra de Presto por Grupo Nutresa, el Gobierno De la Espriella anunció un plan para empresas en riesgo de cerrar y proteger empleos en Colombia.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Tras el caso Presto, Gobierno De la Espriella anuncia plan para rescatar otras empresas en riesgo de quiebra",
-        "capturado": "2026-10-26T15:41:11-05:00"
-      },
-      {
-        "titulo": "Arrancan pruebas en Proeléctrica de iniciativa que abastecería a 438.000 hogares",
-        "url": "https://www.valoraanalitik.com/termica-proelectrica-inicia-pruebas-de-proyecto-que-generaria-energia-para-unos-438-000-hogares/",
-        "resumen": "La compañía manifestó que la ampliación contribuirá a garantizar el suministro eléctrico al parque industrial de Cartagena.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Térmica Proeléctrica inicia pruebas de proyecto que generaría energía para unos 438.000 hogares",
-        "capturado": "2026-10-26T15:41:11-05:00"
-      },
-      {
-        "titulo": "Universidad de La Sabana y Brinsa capacitan a 40 técnicos en química de la sal",
-        "url": "https://www.valoraanalitik.com/brinsa-y-la-universidad-de-la-sabana-forman-a-40-tecnicos-en-la-quimica-de-la-sal/",
-        "resumen": "La primera cohorte reúne a 40 estudiantes, entre ellos, 33 colaboradores de la compañía y siete jóvenes de colegios públicos de Cajicá y Zipaquirá.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Brinsa y la Universidad de La Sabana forman a 40 técnicos en la química de la sal",
-        "capturado": "2026-10-26T15:41:11-05:00"
-      },
-      {
-        "titulo": "Hidrocarburífera oficial de la India halló crudo en área de exploración del Meta y estos son los datos",
-        "url": "https://www.valoraanalitik.com/petrolera-estatal-de-india-encontro-petroleo-en-pozo-exploratorio-en-el-meta-estos-son-los-detalles/",
-        "resumen": "El potencial del yacimiento aún está por determinarse. La compañía realizará nuevos análisis técnicos para precisar los volúmenes de hidrocarburos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Petrolera estatal de India encontró petróleo en pozo exploratorio en el Meta: estos son los detalles",
-        "capturado": "2026-10-26T15:41:11-05:00"
-      },
-      {
-        "titulo": "El país destinó los ingresos petroleros recientes a cubrir subsidios de gasolina y diésel",
-        "url": "https://www.valoraanalitik.com/colombia-se-gasto-su-renta-petrolera-de-los-ultimos-anos-en-pagar-subsidios-a-la-gasolina-y-el-diesel/",
-        "resumen": "Ecopetrol transfirió $79 billones a la Nación entre 2018 y 2025. En el mismo periodo, el déficit acumulado del FEPC llegó a $87,7 billones.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Colombia se gastó su renta petrolera de los últimos años en pagar subsidios a la gasolina y el diésel",
-        "capturado": "2026-10-26T10:01:52-05:00"
-      },
-      {
-        "titulo": "El factoring avanza en Colombia y nuevas fintech respaldan este esquema de liquidez corporativa",
-        "url": "https://www.valoraanalitik.com/factoring-sigue-creciendo-en-colombia-lulo/",
-        "resumen": "Factoring movilizó $37,1 billones en facturas a julio de 2026, el 79 % de todo 2025. Lulo Bank ofrece financiación digital para los negocios.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Factoring sigue creciendo en Colombia y más fintechs apuestan por este modelo financiero para las empresas",
-        "capturado": "2026-10-25T18:29:03-05:00"
-      },
-      {
-        "titulo": "Entrevista a Cachivaches: la firma nacional con seis décadas se expande gracias a Halloween",
-        "url": "https://www.valoraanalitik.com/cachivaches-la-empresa-colombiana-de-mas-de-50-anos-que-crece-con-halloween/",
-        "resumen": "En entrevista con Valora Analitik, Juan de la Espriella, gerente de Cachivaches, revela cómo ha evolucionado el mercado de disfraces en Colombia.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Cachivaches, la empresa colombiana de más de 60 años que crece con Halloween: así cambió el negocio de los disfraces",
-        "capturado": "2026-10-25T13:17:46-05:00"
-      },
-      {
-        "titulo": "Entrevista: Hero Motos suma más de US$2 millones de inversión en Colombia este 2026",
-        "url": "https://www.valoraanalitik.com/entrevista-hero-motos-ha-invertido-en-colombia-mas-de-us2-millones-en-2026-planes-de-crecer-a-doble-digito-y-nuevas-unidades-de-negocio/",
-        "resumen": "En Colombia se encuentra la única planta de producción de Hero fuera de Asia.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Hero Motos ha invertido en Colombia más de US$2 millones en 2026: planes de crecer a doble dígito y nuevas unidades de negocio",
-        "capturado": "2026-10-25T13:17:46-05:00"
       }
     ]
   }
