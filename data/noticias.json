@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-28T18:26:25-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-10-28T21:44:06-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "MinHacienda evaluará tributos a Temu y Shein tal como solicitaron los comerciantes",
+        "url": "https://www.valoraanalitik.com/fenalco-pide-derogar-arancel-del-40-a-la-ropa-para-competir-con-temu-y-shein/",
+        "resumen": "Las propuestas fueron presentadas por el presidente de Fenalco, Jaime Alberto Cabal, durante la instalación de Góndola 2026, en Cartagena.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella estudiará impuestos a plataformas como Temu y Shein, como pidieron los comerciantes",
+        "capturado": "2026-10-28T21:44:06-05:00"
+      },
+      {
+        "titulo": "Autopistas del Café presenta informe de gestión previo a la devolución vial al país",
+        "url": "https://www.valoraanalitik.com/autopistas-del-cafe-entrega-balance-de-su-concesion-antes-de-revertir-la-infraestructura-al-estado/",
+        "resumen": "Mientras se aproxima la terminación de Autopistas del Café, la iniciativa privada Conexión Centro plantea una nueva intervención vial.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Autopistas del Café entrega balance de su concesión antes de revertir la infraestructura al Estado",
+        "capturado": "2026-10-28T21:44:06-05:00"
+      },
+      {
+        "titulo": "Centro Democrático presenta contraproyecto pensional con modificaciones al texto",
+        "url": "https://www.valoraanalitik.com/centro-democratico-radico-la-contrarreforma-pensional-estos-son-los-cambios-que-propone-frente-a-la-ley-de-petro/",
+        "resumen": "Uno de los principales cambios sería restablecer la libertad de elección de los afiliados.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Centro Democrático radicó la contrarreforma pensional: estos son los cambios que propone frente a la ley de Petro",
+        "capturado": "2026-10-28T21:44:06-05:00"
+      },
+      {
+        "titulo": "Congreso avala artículos pensionales devueltos por la Corte Constitucional",
+        "url": "https://www.valoraanalitik.com/congreso-aprueba-articulos-de-reforma-pensional-de-petro/",
+        "resumen": "En Colombia, el nuevo sistema quedó con unas comisiones para los fondos de pensiones de hasta 0,7 % anual sobre los activos bajo administración.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Congreso aprueba artículos de reforma pensional que fueron devueltos por Corte Constitucional",
+        "capturado": "2026-10-28T21:44:06-05:00"
+      },
       {
         "titulo": "Odinsa entregará dividendos extraordinarios por $183.000 millones al Grupo Argos",
         "url": "https://www.valoraanalitik.com/grupo-argos-recibira-183-000-millones-en-dividendos-extraordinarios-de-odinsa/",
@@ -563,49 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Estos planes de salud serán más caros en Colombia en 2027: subirían por encima de la inflación",
         "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "El Fomag presenta un faltante de 2,7 billones y la Contraloría halla 61 anomalías",
-        "url": "https://www.valoraanalitik.com/fomag-registra-deficit-de-27-billones-y-contraloria-detecta-61-hallazgos-de-irregularidades/",
-        "resumen": "A la crisis financiera se suma una alerta de la Procuraduría por el faltante de $1,84 billones para financiar la salud durante 2026.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Fomag registra déficit de $2,7 billones y Contraloría detecta 61 hallazgos de irregularidades",
-        "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "Balón de Oro 2026: Harry Kane se quedó con el premio al mejor futbolista del mundo",
-        "url": "https://www.valoraanalitik.com/balon-de-oro-2026-harry-kane-se-quedo-con-el-premio-al-mejor-futbolista-del-mundo/",
-        "resumen": "Harry Kane ganó el Balón de Oro 2026 en Londres. Conozca quiénes eran los principales candidatos, qué pasó con Luis Díaz y si el premio entrega dinero.",
-        "autor": "",
-        "subseccion": "Futbol internacional",
-        "publicacion": "",
-        "titulo_fuente": "Balón de Oro 2026: Harry Kane se quedó con el premio al mejor futbolista del mundo",
-        "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella revela una nueva ventaja para empresas y empleados colombianos",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-nuevo-beneficio-para-trabajadores-y-empresas-en-colombia/",
-        "resumen": "El Gobierno De la Espriella anunció recursos para capacitar trabajadores, apoyar emprendimientos en seis departamentos y ofrecer un millón de becas.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella anuncia nuevo beneficio para trabajadores y empresas en Colombia",
-        "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "Las reducciones de la Ley de Rescate de De la Espriella irán por etapas en un periodo de cuatro años",
-        "url": "https://www.valoraanalitik.com/recortes-en-ley-de-rescate-de-de-la-espriella-seran-graduales-y-se-aplicaran-durante-cuatro-anos/",
-        "resumen": "El vicepresidente, José Manuel Restrepo, reveló detalles de la Ley de Rescate que afina el gobierno.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Recortes en Ley de Rescate de De la Espriella serán graduales y se aplicarán durante cuatro años",
-        "capturado": "2026-10-26T19:17:59-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Gobierno De la Espriella evaluará tributos a Temu y Shein a petición de los comerciantes",
+        "url": "https://www.valoraanalitik.com/fenalco-pide-derogar-arancel-del-40-a-la-ropa-para-competir-con-temu-y-shein/",
+        "resumen": "Las propuestas fueron presentadas por el presidente de Fenalco, Jaime Alberto Cabal, durante la instalación de Góndola 2026, en Cartagena.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella estudiará impuestos a plataformas como Temu y Shein, como pidieron los comerciantes",
+        "capturado": "2026-10-28T21:44:06-05:00"
+      },
+      {
+        "titulo": "Congreso avala puntos de la reforma pensional devueltos por la Corte Constitucional",
+        "url": "https://www.valoraanalitik.com/congreso-aprueba-articulos-de-reforma-pensional-de-petro/",
+        "resumen": "En Colombia, el nuevo sistema quedó con unas comisiones para los fondos de pensiones de hasta 0,7 % anual sobre los activos bajo administración.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Congreso aprueba artículos de reforma pensional que fueron devueltos por Corte Constitucional",
+        "capturado": "2026-10-28T21:44:06-05:00"
+      },
       {
         "titulo": "Odinsa entregará dividendos extraordinarios por $183.000 millones al Grupo Argos",
         "url": "https://www.valoraanalitik.com/grupo-argos-recibira-183-000-millones-en-dividendos-extraordinarios-de-odinsa/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | Hero Motos ha invertido en Colombia más de US$2 millones en 2026: planes de crecer a doble dígito y nuevas unidades de negocio",
         "capturado": "2026-10-25T13:17:46-05:00"
-      },
-      {
-        "titulo": "Presidente de AngloGold Ashanti señala que el país debe priorizar gas, oro y cobre",
-        "url": "https://www.valoraanalitik.com/colombia-debe-enfocarse-en-oro-cobre-y-gas-presidente-de-anglogold-ashanti/",
-        "resumen": "Alberto Calderón, CEO de la empresa y expresidente de Ecopetrol, habló sobre el panorama minero-energético en Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Colombia debe enfocarse en oro, cobre y gas: presidente de AngloGold Ashanti",
-        "capturado": "2026-10-25T13:17:46-05:00"
-      },
-      {
-        "titulo": "Oportunidades laborales en Colombia: descubra la época ideal para una contratación ágil",
-        "url": "https://www.valoraanalitik.com/empleo-en-colombia-conozca-el-mejor-momento-para-ser-contratado-facil-y-rapido/",
-        "resumen": "Las cifras del mercado laboral muestran los retos que enfrentan quienes buscan empleo en Colombia y ponen sobre la mesa nuevas oportunidades.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Empleo en Colombia: conozca el mejor momento para ser contratado fácil y rápido",
-        "capturado": "2026-10-24T17:20:52-05:00"
       }
     ]
   }
