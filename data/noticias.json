@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-30T03:23:48-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-30T10:14:20-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "CREG plantea incentivos para agilizar proyectos de generación eléctrica en Colombia durante El Niño",
+        "url": "https://www.valoraanalitik.com/creg-propone-nuevos-incentivos-proyectos/",
+        "resumen": "La iniciativa busca asegurar energía firme entre 2027 y 2030 e incentivar la entrada anticipada de plantas y el almacenamiento solar con baterías.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "CREG propone nuevos incentivos para acelerar proyectos de generación eléctrica en Colombia en medio de El Niño",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Azúcar, café, verduras y gasolina subirían de precio con la reforma tributaria de De la Espriella",
+        "url": "https://www.valoraanalitik.com/azucar-cafe-verduras-y-gasolina-aumentarian-de-precio-con-nueva-reforma-tributaria-de-de-la-espriella/",
+        "resumen": "Gremios como la Federación Nacional de Cafeteros rechazaron el incremento del IVA de 5 % a 19 % para su producto.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Azúcar, café, verduras y gasolina aumentarían de precio con nueva reforma tributaria de De la Espriella",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Fusión y supresión de entidades, y recorte de nómina: la estrategia de De la Espriella para ahorrar",
+        "url": "https://www.valoraanalitik.com/fusion-y-eliminacion-de-entidades-y-reduccion-de-nomina-el-plan-de-de-la-espriella-para-apretarse-el-cinturon/",
+        "resumen": "Sumando estas medidas y otras de carácter tributario, el proyecto pretende generarle al Estado cerca de $40 billones en 2027.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Fusión y eliminación de entidades, y reducción de nómina: el plan de De la Espriella para apretarse el cinturón",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia inicia estable tras la radicación de la ley rescate del gobierno De la Espriella",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-estable-luego-de-presentacion-de-la-ley-rescate-del-gobierno-de-la-espriella/",
+        "resumen": "Estro mueve al dólar en Colombia al inició de la última sesión de octubre.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre estable luego de presentación de la ley rescate del gobierno De la Espriella",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Mateo Ravagli y Daniel Puerta asumen como vicepresidentes en Banco de Bogotá; arriban a estos cargos",
+        "url": "https://www.valoraanalitik.com/nuevos-vicepresidentes-banco-de-bogota/",
+        "resumen": "Los ejecutivos asumirán sus nuevas posiciones en la entidad del Grupo Aval a partir del primero de noviembre.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Mateo Ravagli y Daniel Puerta serán vicepresidentes en Banco de Bogotá; llegan a estas posiciones",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Luz Stella Murgas, Juan Camilo Nariño y Carlos de Hart son los finalistas a la presidencia de la ANDI",
+        "url": "https://www.valoraanalitik.com/luz-stella-murgas-juan-camilo-narino-y-carlos-de-hart-los-finalistas-para-ser-nuevo-presidente-de-la-andi/",
+        "resumen": "Queda por fuera Nicolás Uribe, expresidente de la Cámara de Comercio de Bogotá, y previamente se había retirado el excanciller Jaime Bermúdez.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Luz Stella Murgas, Juan Camilo Nariño y Carlos de Hart: los finalistas para ser nuevo presidente de la ANDI",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Congresistas analizarán ley de rescate y descartan ambiente para nuevos gravámenes a la clase media",
+        "url": "https://www.valoraanalitik.com/congresistas-estudiaran-ley-rescate-pero-no-habria-ambiente-para-nuevos-impuestos-a-la-clase-media/",
+        "resumen": "Proyecto de ley de rescate fiscal deberá superar cuatro debates en el Congreso para implementarse",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Congresistas estudiarán ley rescate pero no habría ambiente para nuevos impuestos a la clase media",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Premercado | BNB se derrumba por supuesto ataque a Binance con US$5.300 millones en fondos en riesgo",
+        "url": "https://www.valoraanalitik.com/premercado-bnb-se-desploma-tras-posible-hackeo-a-binance-que-dejaria-us5-300-millones-en-fondos-afectados/",
+        "resumen": "Analistas califican como posiblemente el mayor hackeo a un exchange registrado hasta la fecha.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | BNB se desploma tras posible hackeo a Binance que dejaría US$5.300 millones en fondos afectados",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella integra a un actor muy relevante al debate del salario mínimo en Colombia",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-suma-a-actor-muy-importante-a-la-discusion-del-aumento-del-salario-minimo-en-colombia/",
+        "resumen": "La discusión del salario mínimo en Colombia deberá arrancar desde mediados de noviembre.",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella suma a actor muy importante a la discusión del aumento del salario mínimo en Colombia",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Administración del presidente Abelardo de la Espriella pretende gravar las bebidas con edulcorantes",
+        "url": "https://www.valoraanalitik.com/bebidas-con-edulcorantes-tambien-tendrian-impuestos-con-ley-rescate-del-gobierno-de-la-espriella-asi-quedarian/",
+        "resumen": "La ley rescate del gobierno De la Espriella también busca aumentar los ingresos del país por el lado de los impuestos",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno del presidente Abelardo de la Espriella busca poner impuestos a las bebidas con edulcorantes",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Norma de rescate del gobierno De la Espriella fija el destino de los fondos de cerca de 136.000 personas pasadas a Colpensiones",
+        "url": "https://www.valoraanalitik.com/ley-rescate-gobierno-de-la-espriella-define-ahorros-de-casi-136000-personas-que-se-trasladaron-a-colpensiones/",
+        "resumen": "La ley rescate del gobierno De la Espriella define lo que debe pasar con los ahorros de casi 135.000 trabajadores que se pasaron a Colpensiones.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Ley rescate del gobierno De la Espriella define qué pasará con ahorros de casi 136.000 personas que se trasladaron a Colpensiones",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
       {
         "titulo": "Afinia giró $131.000 millones a XM y frena la amenaza de apagones en la región Caribe",
         "url": "https://www.valoraanalitik.com/afinia-pago-131-000-millones-a-xm-y-suspende-riesgo-de-cortes-de-energia-en-el-caribe/",
@@ -493,119 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Relevante | ISA cambia procesos para elegir Junta y presidente tras propuesta de Ecopetrol; accionistas eligen nuevos directivos",
         "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "País cuenta con reservas de carbón por casi 4.500 millones de toneladas",
-        "url": "https://www.valoraanalitik.com/colombia-tiene-reservas-de-carbon-cercanas-a-4-500-millones-de-toneladas-gobierno-respaldara-nuevos-proyectos/",
-        "resumen": "Gremios, empresarios y gobierno se reunieron en el Congreso de Fenalcarbón para destrabar las oportunidades de este sector de la economía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia tiene reservas de carbón cercanas a 4.500 millones de toneladas; Gobierno respaldará nuevos proyectos",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Optimismo empresarial repunta en septiembre en Colombia y se prevé mayor contratación para fin de año",
-        "url": "https://www.valoraanalitik.com/confianza-de-empresarios-en-colombia-rebota-en-septiembre-y-hay-mejores-expectativas-de-contratacion-para-cierre-de-ano/",
-        "resumen": "El centro de pensamiento explicó que esta mejora obedeció a que hay una mejor percepción de la situación económica actual.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Confianza de empresarios en Colombia rebota en septiembre y hay mejores expectativas de contratación para cierre de año",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella planteará un drástico giro para las pensiones en Colombia que aumentan con el mínimo",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-buscara-radical-cambio-para-pensiones-en-colombia-que-suben-con-el-salario-minimo/",
-        "resumen": "El documento dispone de importantes cambios para las pensiones en Colombia y los aumentos que se definen con el salario mínimo",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella buscará radical cambio para pensiones en Colombia que suben con el salario mínimo",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella alista modificaciones para las cajas de compensación en el país: los detalles",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-prepara-cambios-para-las-cajas-de-compensacion-en-colombia-esto-se-sabe/",
-        "resumen": "Las cajas de compensación en Colombia podrían enfrentar cambios en su vigilancia y funcionamiento. El Gobierno De la Espriella anunció medidas.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella prepara cambios para las cajas de compensación en Colombia: esto se sabe",
-        "capturado": "2026-10-28T08:25:25-05:00"
-      },
-      {
-        "titulo": "Sismo en Colombia: restaurar servicios financieros es vital para la recuperación de las poblaciones",
-        "url": "https://www.valoraanalitik.com/terremoto-en-colombia-recuperar-el-acceso-a-servicios-financieros-clave-para-la-reactivacion-de-las-comunidades/",
-        "resumen": "La disponibilidad de efectivo, el pago de jornales y la recepción de remesas son algunas de las necesidades que enfrentan los municipios afectados.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Terremoto en Colombia: recuperar el acceso a servicios financieros, clave para la reactivación de las comunidades",
-        "capturado": "2026-10-28T08:25:25-05:00"
-      },
-      {
-        "titulo": "Reforma pensional: Cámara negó tres propuestas esenciales y corre contra el reloj por otros puntos",
-        "url": "https://www.valoraanalitik.com/reforma-pensional-camara-rechazo-tres-proposiciones-clave-y-enfrenta-tiempo-record-para-salvar-otros-articulos/",
-        "resumen": "La plenaria de este miércoles 28 de octubre será determinante para avanzar en la discusión y votación de las siete proposiciones faltantes.",
-        "autor": "",
-        "subseccion": "Reforma pensional",
-        "publicacion": "",
-        "titulo_fuente": "Reforma pensional: Cámara rechazó tres proposiciones clave y enfrenta tiempo récord para salvar otros artículos",
-        "capturado": "2026-10-28T08:25:25-05:00"
-      },
-      {
-        "titulo": "Premercado: atención a la FED y balances de grandes tecnológicas mientras el crudo repunta",
-        "url": "https://www.valoraanalitik.com/premercado-inversores-centran-atencion-en-decision-de-la-fed-y-resultados-de-grandes-tecnologicas-petroleo-rebota/",
-        "resumen": "Los mercados analizarán las orientaciones de los responsables de la política monetaria en busca de pistas sobre las perspectivas de los costes de financiación.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Inversores centran atención en decisión de la FED y resultados de grandes tecnológicas: petróleo rebota",
-        "capturado": "2026-10-28T08:25:25-05:00"
-      },
-      {
-        "titulo": "Entrevista: impulsar hidrocarburos daría a Colombia $20 billones al año a 2050 según la ACP",
-        "url": "https://www.valoraanalitik.com/reactivar-sector-de-petroleo-y-de-gas-le-aportaria-a-colombia-20-billones-anuales-a-2050-presidente-acp/",
-        "resumen": "Frank Pearl, presidente de la Asociación Colombiana de Petróleo y Gas, abordó el potencial de la industria si se revitaliza la actividad petrolera y gasífera.",
-        "autor": "",
-        "subseccion": "Petróleo",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Reactivar sector de petróleo y de gas le aportaría a Colombia $20 billones anuales a 2050: Presidente ACP",
-        "capturado": "2026-10-28T08:25:25-05:00"
-      },
-      {
-        "titulo": "De la Espriella reitera al gobierno la necesidad de subir tributos para incrementar el recaudo nacional",
-        "url": "https://www.valoraanalitik.com/insisten-al-gobierno-de-la-espriella-en-urgencia-por-aumentar-impuestos-para-mejorar-recaudo-en-colombia/",
-        "resumen": "El gobierno De la Espriella ha hablado de la necesidad de priorizar la austeridad y el control sobre el gasto.",
-        "autor": "",
-        "subseccion": "Impuestos",
-        "publicacion": "",
-        "titulo_fuente": "Insisten al gobierno De la Espriella en urgencia por aumentar impuestos para mejorar recaudo en Colombia",
-        "capturado": "2026-10-28T08:25:25-05:00"
-      },
-      {
-        "titulo": "Ecopetrol revelará su balance del tercer trimestre de 2026 el 10 de noviembre",
-        "url": "https://www.valoraanalitik.com/ecopetrol-presentara-resultados-del-tercer-trimestre-de-2026-el-10-de-noviembre/",
-        "resumen": "Estos son los detalles para la presentación de resultados de Ecopetrol en su tercer trimestre.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol presentará resultados del tercer trimestre de 2026 el 10 de noviembre",
-        "capturado": "2026-10-28T01:08:29-05:00"
-      },
-      {
-        "titulo": "De la Espriella dispone la creación de una política nacional contra la informalidad laboral",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-ordena-crear-politica-nacional-para-reducir-la-informalidad-laboral/",
-        "resumen": "De la Espriella pidió diferenciar las obligaciones y los costos según el tamaño y la capacidad económica de las empresas.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella ordena crear política nacional para reducir la informalidad laboral",
-        "capturado": "2026-10-28T01:08:29-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Luz Stella Murgas, Juan Camilo Nariño y Carlos de Hart son los finalistas a la presidencia de la ANDI",
+        "url": "https://www.valoraanalitik.com/luz-stella-murgas-juan-camilo-narino-y-carlos-de-hart-los-finalistas-para-ser-nuevo-presidente-de-la-andi/",
+        "resumen": "Queda por fuera Nicolás Uribe, expresidente de la Cámara de Comercio de Bogotá, y previamente se había retirado el excanciller Jaime Bermúdez.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Luz Stella Murgas, Juan Camilo Nariño y Carlos de Hart: los finalistas para ser nuevo presidente de la ANDI",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
+      {
+        "titulo": "Congresistas analizarán ley de rescate sin ambiente para nuevos tributos a la clase media",
+        "url": "https://www.valoraanalitik.com/congresistas-estudiaran-ley-rescate-pero-no-habria-ambiente-para-nuevos-impuestos-a-la-clase-media/",
+        "resumen": "Proyecto de ley de rescate fiscal deberá superar cuatro debates en el Congreso para implementarse",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Congresistas estudiarán ley rescate pero no habría ambiente para nuevos impuestos a la clase media",
+        "capturado": "2026-10-30T10:14:20-05:00"
+      },
       {
         "titulo": "De la Espriella sugiere recortar impuesto corporativo a la renta y quitar gravamen a plásticos de uso único",
         "url": "https://www.valoraanalitik.com/de-la-espriella-propone-bajar-impuesto-de-renta-a-empresas-y-eliminar-gravamen-a-plasticos-de-un-solo-uso/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "ANDI confirma avance en la definición de su próximo presidente bajo un proceso riguroso de evaluación de perfiles, resalta en comunicado",
         "capturado": "2026-10-27T11:18:53-05:00"
-      },
-      {
-        "titulo": "EEUU archiva de manera definitiva el caso Odebrecht para Corficolombiana",
-        "url": "https://www.valoraanalitik.com/corficolombiana-logra-el-archivo-definitivo-del-caso-odebrecht-en-estados-unidos/",
-        "resumen": "Según la compañía, la decisión se produjo después de que el DOJ diera por terminado el acuerdo y solicitara la desestimación de los cargos.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Corficolombiana logra el archivo definitivo del caso Odebrecht en Estados Unidos",
-        "capturado": "2026-10-27T00:27:13-05:00"
-      },
-      {
-        "titulo": "Metropolitan Printer y Legis Editores pidieron iniciar trámites de reorganización corporativa",
-        "url": "https://www.valoraanalitik.com/legis-editores-y-metropolitan-printer-solicitaron-comenzar-procesos-de-reorganizacion-empresarial/",
-        "resumen": "Legis Editores reportó obligaciones vencidas por $2.673 millones y Metropolitan Printer atribuyó parte de su crisis a los costos de una planta cerrada en 2024.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Legis Editores y Metropolitan Printer solicitaron comenzar procesos de reorganización empresarial",
-        "capturado": "2026-10-27T00:27:13-05:00"
       }
     ]
   }
