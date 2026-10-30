@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-30T10:14:20-05:00",
+  "actualizado": "2026-10-30T15:02:15-05:00",
   "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno sugiere elevar cotizaciones a salud y parafiscales para empleados con más de 2 salarios mínimos",
+        "url": "https://www.valoraanalitik.com/gobierno-propone-aumentar-aportes-a-salud-y-parafiscales-para-trabajadores-que-ganen-mas-de-2-salarios-minimos/",
+        "resumen": "La reorganización también incluye la cotización patronal al sistema de salud, cuya tarifa ordinaria es del 8,5 % y está a cargo del empleador.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno propone aumentar aportes a salud y parafiscales para trabajadores que ganen más de 2 salarios mínimos",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio subió $25 y terminó la semana arriba de $3.190 tras presentación de reforma tributaria",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-subio-25-y-cerro-la-semana-por-encima-de-3-190-tras-radicacion-de-reforma-tributaria/",
+        "resumen": "El mercado estaba a la espera de la decisión del Banco de la República que decidió mantener inalterados los tipos en 12,25 %.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia subió $25 y cerró la semana por encima de $3.190 tras radicación de reforma tributaria",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "Importante | Emisor adquirirá del Ejecutivo US$2.000 millones en lo que resta de 2026: Villar",
+        "url": "https://www.valoraanalitik.com/relevante-banco-de-la-republica-le-comprara-al-gobierno-us2-000-millones-en-lo-que-resta-de-2026-villar/",
+        "resumen": "Leonardo Villar, gerente del emisor, al asegura que la compra se ralizará en lo que resta del 2026 y a la TRM vigente el día de la operación.",
+        "autor": "",
+        "subseccion": "Monedas",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Banco de la República le comprará al Gobierno US$2.000 millones en lo que resta de 2026: Villar",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "Alerta | Emisor conserva los tipos de interés en 12,25 %",
+        "url": "https://www.valoraanalitik.com/atencion-banco-de-la-republica-mantiene-las-tasas-de-interes-en-1225/",
+        "resumen": "El gerente del Banco de la República, Leonardo Villar, confirmó este viernes que las tasas de interés en Colombia se mantendrán inalteradas en 12,25 %.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Banco de la República mantiene las tasas de interés en 12,25 %",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "Concursos de méritos para laborar en la DIAN finalizarían: así modifica exigencias la ley de rescate",
+        "url": "https://www.valoraanalitik.com/concursos-de-meritos-para-trabajar-con-la-dian-se-acabarian-asi-cambia-los-requisitos-la-ley-de-rescate/",
+        "resumen": "La ley de rescate fiscal incluye facultades para modificar la carrera administrativa de la DIAN y eliminaría los concursos anuales para ingresar a la entidad.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Concursos de méritos para trabajar con la DIAN se acabarían: así cambia los requisitos la ley de rescate",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "Norma de salvamento: renta para más clase media local y menor gravamen corporativo",
+        "url": "https://www.valoraanalitik.com/ley-de-rescate-mas-colombianos-de-clase-media-tendria-que-pagar-renta-y-tarifa-de-empresas-se-reduciria/",
+        "resumen": "Para las personas naturales, se pretende reducir la base gravable para que quienes ganen poco más de $70 millones anuales tengan que declarar renta.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Ley de rescate: más colombianos de clase media tendrían que pagar renta y tarifa de empresas se reduciría",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "J.D. Vance vendría a Colombia en noviembre con otros delegados de la administración Trump",
+        "url": "https://www.valoraanalitik.com/j-d-vance-visitaria-colombia-en-noviembre-junto-a-otros-funcionarios-del-gobierno-trump/",
+        "resumen": "El vicepresidente de EE. UU. llegaría entre el 20 y 21 de noviembre para reunirse con Abelardo de la Espriella.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "J.D. Vance visitaría Colombia en noviembre junto a otros funcionarios del Gobierno Trump",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "Desocupación en Colombia descendió poco en septiembre, mas creció en urbes principales",
+        "url": "https://www.valoraanalitik.com/desempleo-en-colombia-bajo-levemente-en-septiembre-pero-subio-en-las-principales-ciudades/",
+        "resumen": "El panorama laboral tuvo un comportamiento diferente en las 13 principales ciudades y áreas metropolitanas del país.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Desempleo en Colombia bajó levemente en septiembre, pero subió en las principales ciudades",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "Reintegro del IVA alcanzaría $300.000 mensuales con ley de rescate de De la Espriella y un requisito",
+        "url": "https://www.valoraanalitik.com/devolucion-del-iva-podria-llegar-a-300-000-al-mes-con-la-ley-de-rescate-del-gobierno-de-la-espriella-hay-un-requisito-clave/",
+        "resumen": "La devolución del IVA tendría un tope cercano a $300.000 mensuales aunque dependerá de un condicionante clave para poder recibir el dinero.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Devolución del IVA podría llegar a $300.000 al mes con la ‘ley de rescate’ del gobierno De la Espriella: hay un requisito clave",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
       {
         "titulo": "CREG plantea incentivos para agilizar proyectos de generación eléctrica en Colombia durante El Niño",
         "url": "https://www.valoraanalitik.com/creg-propone-nuevos-incentivos-proyectos/",
@@ -513,99 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Industria del carbón espera casi duplicar su producción a 2030 frente a las cifras de 2025",
         "capturado": "2026-10-28T18:26:25-05:00"
-      },
-      {
-        "titulo": "H división de Argos Latam y Argos Materials sería en 2027 con más flota y plantas",
-        "url": "https://www.valoraanalitik.com/separacion-de-argos-latam-y-argos-materials-se-concretaria-en-2027-empresa-aumentara-flota-e-invertira-en-plantas/",
-        "resumen": "Argos Latam busca seguir rentabilizando su presencia en 15 países de la región, mientras que Argos Materials desarrollará su estrategia hacia Estados Unidos.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Separación de Argos Latam y Argos Materials se concretaría en 2027; empresa aumentará flota e invertirá en plantas",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Dólar sube en Colombia a $3.163 tras anuncio de la FED y petróleo más caro",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-amplia-ganancias-y-cierra-en-3-163-mercado-recibe-decision-de-la-fed-y-alza-de-precios-del-petroleo/",
-        "resumen": "La jornada estuvo determinada por el pronunciamiento del Comité Federal de Mercado Abierto (FOMC) de la FED.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia amplía ganancias y cierra en $3.163: mercado recibe decisión de la FED y alza de precios del petróleo",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "FED conserva tipos de interés en Estados Unidos tal como anticipaba el mercado",
-        "url": "https://www.valoraanalitik.com/atencion-fed-mantiene-tasas-de-interes-en-ee-uu-en-linea-con-lo-esperado-por-el-mercado/",
-        "resumen": "La decisión de la FED ya se esperaba por los mercados, ahora se espera el comunicado oficial y su tono.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Atención | FED mantiene tasas de interés en EE. UU. en línea con lo esperado por el mercado",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Patria Day 2026: invertir como impulsor del crecimiento y opciones para el país",
-        "url": "https://www.valoraanalitik.com/patria-day-2026-bogota-medellin-la-inversion-como-motor-de-desarrollo-y-oportunidades-para-colombia/",
-        "resumen": "Patria Day se realizará el 10 de noviembre en Bogotá y el 11 de noviembre en Medellín, encuentros donde reunirá a inversionistas, clientes, aliados y líderes.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Patria Day 2026: la inversión como motor de desarrollo y oportunidades para Colombia",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Se hunde iniciativa para quitar cobros en fondos privados luego de reforma pensional",
-        "url": "https://www.valoraanalitik.com/ahora-se-cae-propuesta-que-buscaba-eliminar-comisiones-de-fondos-privados-tras-reforma-pensional/",
-        "resumen": "En Colombia, el nuevo sistema quedó con unas comisiones para los fondos de pensiones de hasta 0,7 % anual sobre los activos bajo administración.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Se cae propuesta que buscaba eliminar comisiones de fondos privados tras reforma pensional",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Registraduría fijó el día para los comicios territoriales en el país en 2027",
-        "url": "https://www.valoraanalitik.com/registraduria-definio-fecha-para-las-elecciones-territoriales-en-colombia-2027/",
-        "resumen": "Durante los comicios se elegirán gobernadores, alcaldes, diputados, concejales y ediles o integrantes de las juntas administradoras locales.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Registraduría definió fecha para las elecciones territoriales en Colombia 2027",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Problema en Regasificadora de Cartagena y lío de Afinia elevan peligro de apagón",
-        "url": "https://www.valoraanalitik.com/falla-en-regasificadora-de-cartagena-y-crisis-de-afinia-aumentan-el-riesgo-de-un-apagon-en-colombia/",
-        "resumen": "Menos gas, estrechez en la oferta de energía eléctrica y deudas en el sistema marcan la agenda del sector energético colombiano.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "Falla en Regasificadora de Cartagena y crisis de Afinia aumentan el riesgo de un apagón en Colombia",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Extranjeros de Colombia hallan residencia fija en Panamá: condiciones y sumas",
-        "url": "https://www.valoraanalitik.com/colombianos-pueden-obtener-residencia-permanente-en-panama-estos-son-los-requisitos-y-montos/",
-        "resumen": "Panamá modificó los requisitos para obtener residencia permanente. Conozca cuánto dinero necesita y las obligaciones que debe cumplir.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Colombianos pueden obtener residencia permanente en Panamá: estos son los requisitos y montos",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "ISA modifica métodos para designar Junta y cabeza luego de idea de Ecopetrol",
-        "url": "https://www.valoraanalitik.com/arranca-asamblea-extraordinaria-de-isa-se-buscara-cambiar-estatutos-y-elegir-nueva-junta/",
-        "resumen": "Entre los cambios previstos está el proceso de elección del nuevo presidente de la compañía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | ISA cambia procesos para elegir Junta y presidente tras propuesta de Ecopetrol; accionistas eligen nuevos directivos",
-        "capturado": "2026-10-28T14:01:55-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Este programa otorga subsidios a compañías que contraten y ya vinculó a más de 1.000 mujeres en Antioquia",
+        "url": "https://www.valoraanalitik.com/mas-de-1-000-mujeres-en-antioquia-han-conseguido-empleo-con-este-programa-ofrece-incentivos-a-empresas-que-contraten/",
+        "resumen": "Incentivos equivalentes al 100 % de los aportes a seguridad social y parafiscales a cargo del empleador por cada nuevo empleo generado para una mujer.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Más de 1.000 mujeres en Antioquia han conseguido empleo con este programa: ofrece incentivos a empresas que contraten",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "AIG finaliza la adquisición de la aseguradora Everest en Colombia y progresa en su crecimiento regional",
+        "url": "https://www.valoraanalitik.com/aig-concreta-compra-de-aseguradora-everest-en-colombia-y-avanza-en-expansion-regional/",
+        "resumen": "La compañía también acordó adquirir las operaciones de Everest en Chile, en una transacción que espera cerrar durante el primer semestre de 2027.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "AIG concreta compra de aseguradora Everest en Colombia y avanza en expansión regional",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "Proyecto de rescate implicaría que más clase media declare renta y una menor tarifa para las empresas",
+        "url": "https://www.valoraanalitik.com/ley-de-rescate-mas-colombianos-de-clase-media-tendria-que-pagar-renta-y-tarifa-de-empresas-se-reduciria/",
+        "resumen": "Para las personas naturales, se pretende reducir la base gravable para que quienes ganen poco más de $70 millones anuales tengan que declarar renta.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Ley de rescate: más colombianos de clase media tendrían que pagar renta y tarifa de empresas se reduciría",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
+      {
+        "titulo": "El desempleo nacional disminuyó ligeramente en septiembre, pero aumentó en las ciudades principales",
+        "url": "https://www.valoraanalitik.com/desempleo-en-colombia-bajo-levemente-en-septiembre-pero-subio-en-las-principales-ciudades/",
+        "resumen": "El panorama laboral tuvo un comportamiento diferente en las 13 principales ciudades y áreas metropolitanas del país.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Desempleo en Colombia bajó levemente en septiembre, pero subió en las principales ciudades",
+        "capturado": "2026-10-30T15:02:15-05:00"
+      },
       {
         "titulo": "Luz Stella Murgas, Juan Camilo Nariño y Carlos de Hart son los finalistas a la presidencia de la ANDI",
         "url": "https://www.valoraanalitik.com/luz-stella-murgas-juan-camilo-narino-y-carlos-de-hart-los-finalistas-para-ser-nuevo-presidente-de-la-andi/",
@@ -1164,46 +1204,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Hot Sale 2026: balance revela aceleración en las compras digitales y las categorías más demandadas en el país",
-        "capturado": "2026-10-27T11:18:53-05:00"
-      },
-      {
-        "titulo": "Deudas de Afinia, filial de EPM, podrían generar cortes de luz planeados para sus usuarios",
-        "url": "https://www.valoraanalitik.com/usuarios-de-afinia-podrian-enfrentar-apagones-programados-por-las-deudas-de-esta-filial-de-epm/",
-        "resumen": "La compañía adeuda $131.000 millones por compras de energía correspondientes a octubre, según información divulgada por medios de comunicación.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "Usuarios de Afinia podrían enfrentar apagones programados por las deudas de esta filial de EPM",
-        "capturado": "2026-10-27T11:18:53-05:00"
-      },
-      {
-        "titulo": "Bre-B fomenta cobros virtuales a tenderos: operación del sistema que baja la circulación de efectivo",
-        "url": "https://www.valoraanalitik.com/bre-b-impulsa-pagos-digitales-para-tenderos-asi-funciona-la-plataforma-que-reduce-el-uso-de-efectivo/",
-        "resumen": "La expansión de Accival Connect coincide con el primer año de operación de Bre-B, el sistema de pagos inmediatos del Banco de la República.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bre-B impulsa pagos digitales para tenderos: así funciona la plataforma que reduce el uso de efectivo",
-        "capturado": "2026-10-27T11:18:53-05:00"
-      },
-      {
-        "titulo": "En menos de treinta días, la Regasificadora de Cartagena falló de nuevo en uno de sus trenes",
-        "url": "https://www.valoraanalitik.com/en-menos-de-un-mes-la-regasificadora-de-cartagena-volvio-a-presentar-una-falla-en-uno-de-sus-trenes/",
-        "resumen": "La menor capacidad de regasificación podría tener un mayor impacto en el sector industrial que en los hogares y los pequeños comercios.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "En menos de un mes, la Regasificadora de Cartagena volvió a presentar una falla en uno de sus trenes",
-        "capturado": "2026-10-27T11:18:53-05:00"
-      },
-      {
-        "titulo": "ANDI ratifica progreso al elegir su nuevo presidente mediante un estricto análisis de hojas de vida",
-        "url": "https://www.valoraanalitik.com/andi-confirma-avance-en-la-definicion-de-su-proximo-presidente-bajo-un-proceso-riguroso-de-evaluacion-de-perfiles-resalta-en-comunicado/",
-        "resumen": "Bruce Mac Master fue presidente de la ANDI casi 13 años.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANDI confirma avance en la definición de su próximo presidente bajo un proceso riguroso de evaluación de perfiles, resalta en comunicado",
         "capturado": "2026-10-27T11:18:53-05:00"
       }
     ]
