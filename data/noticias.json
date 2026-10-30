@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-29T16:41:25-05:00",
-  "nuevos_en_esta_corrida": 23,
+  "actualizado": "2026-10-29T20:46:15-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Afinia giró $131.000 millones a XM y frena la amenaza de apagones en la región Caribe",
+        "url": "https://www.valoraanalitik.com/afinia-pago-131-000-millones-a-xm-y-suspende-riesgo-de-cortes-de-energia-en-el-caribe/",
+        "resumen": "La empresa destacó que el respaldo de EPM fue determinante para mantener su operación.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Afinia pagó $131.000 millones a XM y suspende riesgo de cortes de energía en el Caribe",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "Empleados con sueldos desde $5,5 millones al mes comenzarían a tributar renta con el proyecto oficial",
+        "url": "https://www.valoraanalitik.com/trabajadores-que-ganen-desde-55-millones-mensuales-entrarian-a-pagar-impuesto-de-renta-con-reforma-del-gobierno/",
+        "resumen": "Más colombianos tendrán que tributar, se espera un recaudo adicional estimado en $7,25 billones al año.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Trabajadores que ganen desde $5,5 millones mensuales entrarían a pagar impuesto de renta con reforma del Gobierno",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "De la Espriella sugiere reducir el impuesto corporativo y abolir el tributo a plásticos desechables",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-propone-bajar-impuesto-de-renta-a-empresas-y-eliminar-gravamen-a-plasticos-de-un-solo-uso/",
+        "resumen": "El Ejecutivo sustentó que busca disminuir la carga tributaria de las empresas y mejorar la competitividad.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella propone bajar impuesto de renta a empresas y eliminar gravamen a plásticos de un solo uso",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella plantea subir IVA al 19 % en ciertos alimentos con devolución a vulnerables",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-propone-aumentar-iva-a-19-para-estos-alimentos-habria-devolucion-de-impuesto-a-hogares-pobres/",
+        "resumen": "La propuesta estipula que la mayoría que tributaban al 5 % pasarían formalmente a la tarifa general del 19 %.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella propone aumentar IVA a 19 % para estos alimentos: habría devolución de impuesto a hogares pobres",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "Nuevo proyecto del Gobierno De la Espriella eleva cargas tributarias a cerveza, licores y tabaco",
+        "url": "https://www.valoraanalitik.com/nueva-ley-de-rescate-del-gobierno-de-la-espriella-trae-mas-impuestos-para-cerveza-licores-cigarrillos/",
+        "resumen": "Otro de los productos que serían gravados son las bebidas edulcorantes y endulzadas.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Nueva reforma del Gobierno De la Espriella trae más impuestos para cerveza, licores y cigarrillos",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "De la Espriella plantea cortar a la mitad las prestaciones de servicios para 2027",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-propone-reducir-a-la-mitad-los-contratos-por-prestacion-de-servicios-en-2027/",
+        "resumen": ". La iniciativa estima que esta medida permitiría un ahorro promedio anual de 0,19 % del PIB, equivalente a cerca de $9,6 billones.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella propone reducir a la mitad los contratos por prestación de servicios en 2027",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "Ley de Rescate elevaría aportes a salud de colombianos y sumaría costos a empresas",
+        "url": "https://www.valoraanalitik.com/los-colombianos-que-pagarian-mayores-aportes-a-salud-con-ley-de-rescate-empresas-tambien-asumirian-mas-costos/",
+        "resumen": "La propuesta establece un esquema de aportes progresivos, en el que quienes tengan mayores ingresos asumirían una cotización más alta.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Los colombianos que pagarían mayores aportes a salud con Ley de Rescate; empresas también asumirían más costos",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "Gobierno de la Espriella prevé devolver IVA quincenalmente a 35 millones y subir tasas",
+        "url": "https://www.valoraanalitik.com/ahora-gobierno-de-la-espriella-busca-devolver-el-iva-a-35-millones-de-colombianos-cada-15-dias-aumentarian-tarifas/",
+        "resumen": "La devolución se liquidará a partir de la información registrada en la facturación electrónica emitida con el número de cédula del comprador.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Gobierno de la Espriella busca devolver el IVA a 35 millones de colombianos cada 15 días; aumentarían tarifas",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "Claves de la Ley de Rescate Fiscal de De la Espriella: recortes, renta e IVA",
+        "url": "https://www.valoraanalitik.com/esta-es-la-ley-de-rescate-fiscal-del-gobierno-de-la-espriella-recortes-y-cambios-en-renta-e-iva-las-claves-del-proyecto/",
+        "resumen": "La Ley de Rescate Fiscal endurece las sanciones contra quienes evadan impuestos o participen en actividades de contrabando.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Esta es la Ley de Rescate Fiscal del Gobierno De la Espriella: recortes y cambios en renta e IVA, las claves del proyecto",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
       {
         "titulo": "Fintech arriba a Medellín para fondear carros laborales mediante alianza con inDrive",
         "url": "https://www.valoraanalitik.com/fintech-medellin-financia-vehiculos-indrive/",
@@ -513,99 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "De la Espriella ordena crear política nacional para reducir la informalidad laboral",
         "capturado": "2026-10-28T01:08:29-05:00"
-      },
-      {
-        "titulo": "CEO de OpenAI: empresas deben dar prioridad a la seguridad de la IA sobre la productividad",
-        "url": "https://www.valoraanalitik.com/ceo-openai-chatgpt-empresas-seguridad-ia/",
-        "resumen": "Sam Altman dijo que las compañías identificar y mitigar las amenazas asociadas con la inteligencia artificial, que permite identificar nuevas vulnerabilidades.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "CEO de OpenAI (ChatGPT): empresas deben priorizar seguridad de la IA por encima de productividad",
-        "capturado": "2026-10-28T01:08:29-05:00"
-      },
-      {
-        "titulo": "FMI otorga nuevo giro por US$900 millones a Argentina luego de evaluar su plan financiero",
-        "url": "https://www.valoraanalitik.com/fmi-acuerda-nuevo-desembolso-de-us900-millones-para-argentina-tras-revision-de-su-programa-economico/",
-        "resumen": "Argentina completaría cuatro años consecutivos con superávit primario y equilibrio fiscal global, según las estimaciones del organismo.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "FMI acuerda nuevo desembolso de US$900 millones para Argentina tras revisión de su programa económico",
-        "capturado": "2026-10-27T19:21:53-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella advierte que pasivos de Air-e superan los $6 billones, por encima de lo calculado",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-alerta-deudas-air-e/",
-        "resumen": "El ministro de Hacienda, Miguel Gómez, manifestó que $1,2 billones en pagos provendrán de su cartera y del Ministerio de Minas y Energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella alerta que deudas de Air-e son mayores a las previstas y ya superan los $6 billones",
-        "capturado": "2026-10-27T19:21:53-05:00"
-      },
-      {
-        "titulo": "Firma colombiana escaló de $600 millones a $20.000 millones en ventas y apunta a México",
-        "url": "https://www.valoraanalitik.com/esta-empresa-colombiana-paso-de-vender-600-millones-a-mover-20-000-millones-y-ahora-va-por-mexico/",
-        "resumen": "La empresa multiplicó su escala comercial en menos de 18 meses y llegó a cerca de 1.000 puntos de venta en Colombia. Ahora prepara su expansión internacional.",
-        "autor": "",
-        "subseccion": "Emprendedores",
-        "publicacion": "",
-        "titulo_fuente": "Esta empresa colombiana pasó de vender $600 millones a mover $20.000 millones y ahora va por México",
-        "capturado": "2026-10-27T19:21:53-05:00"
-      },
-      {
-        "titulo": "Jaime Bermúdez declina a la presidencia de la ANDI y Junta definiría finalistas esta semana",
-        "url": "https://www.valoraanalitik.com/jaime-bermudez-retira-su-candidatura-para-ser-nuevo-presidente-de-la-andi-junta-definiria-finalistas-esta-semana/",
-        "resumen": "Con la salida de Bermúdez, la baraja de opcionados se reduce a cuatro nombres con amplia trayectoria técnica y gremial.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Jaime Bermúdez retira su candidatura para ser nuevo presidente de la ANDI; Junta definiría finalistas esta semana",
-        "capturado": "2026-10-27T19:21:53-05:00"
-      },
-      {
-        "titulo": "MinHacienda avala mover fondos del metro de Bogotá al Presupuesto y cuestiona a Petro",
-        "url": "https://www.valoraanalitik.com/minhacienda-defiende-traslado-de-recursos-del-metro-de-bogota-al-presupuesto-y-lanza-criticas-a-petro/",
-        "resumen": "La iniciativa generó críticas de sectores de oposición, que acusaron al Gobierno de buscar recortar los recursos destinados a la capital.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda defiende traslado de recursos del metro de Bogotá al Presupuesto y lanza críticas a Petro",
-        "capturado": "2026-10-27T19:21:53-05:00"
-      },
-      {
-        "titulo": "Thomas Greg & Sons fabricará de nuevo pasaportes de Colombia por contrato de 240.352 millones de pesos",
-        "url": "https://www.valoraanalitik.com/thomas-greg-sons-volvera-a-producir-los-pasaportes-colombianos-contrato-sera-por-240-352-millones/",
-        "resumen": "Gobierno de Abelardo de la Espriella volvió a contratar empresa que retiró el expresidente Gustavo Petro para la elabración de pasaportes.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Thomas Greg & Sons volverá a producir los pasaportes colombianos: contrato será por $240.352 millones",
-        "capturado": "2026-10-27T19:21:53-05:00"
-      },
-      {
-        "titulo": "Dólar colombiano subió este martes y finalizó cerca a 3.150 pesos esperando anuncio de la FED",
-        "url": "https://www.valoraanalitik.com/dolar-colombia-reboto-este-martes-27/",
-        "resumen": "En una sesión marcada por la volatilidad intradiaria, el dólar en Colombia rebotó este martes y finalizó la jornada en $3.147,40 en el mercado spot.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia rebotó este martes y cerró en cerca de $3.150: mercado, a la espera de decisión de la FED",
-        "capturado": "2026-10-27T19:21:53-05:00"
-      },
-      {
-        "titulo": "Visa señala que pymes con herramientas de pago usan un noventa por ciento más servicios financieros",
-        "url": "https://www.valoraanalitik.com/pymes-colombianas-con-soluciones-de-pago-utilizan-90-mas-productos-financieros-segun-visa/",
-        "resumen": "Las relaciones con pequeñas empresas generan cinco veces más valor para las entidades financieras que las de clientes tradicionales, según un informe de Visa.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pymes colombianas con soluciones de pago utilizan 90 % más productos financieros, según Visa",
-        "capturado": "2026-10-27T15:52:52-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "De la Espriella sugiere recortar impuesto corporativo a la renta y quitar gravamen a plásticos de uso único",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-propone-bajar-impuesto-de-renta-a-empresas-y-eliminar-gravamen-a-plasticos-de-un-solo-uso/",
+        "resumen": "El Ejecutivo sustentó que busca disminuir la carga tributaria de las empresas y mejorar la competitividad.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella propone bajar impuesto de renta a empresas y eliminar gravamen a plásticos de un solo uso",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "De la Espriella plantea cortar a la mitad los contratos por prestación de servicios en el año 2027",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-propone-reducir-a-la-mitad-los-contratos-por-prestacion-de-servicios-en-2027/",
+        "resumen": ". La iniciativa estima que esta medida permitiría un ahorro promedio anual de 0,19 % del PIB, equivalente a cerca de $9,6 billones.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella propone reducir a la mitad los contratos por prestación de servicios en 2027",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "Ahora | Gobierno de De la Espriella quiere reintegrar IVA a 35 millones de colombianos quincenalmente; subirían tarifas",
+        "url": "https://www.valoraanalitik.com/ahora-gobierno-de-la-espriella-busca-devolver-el-iva-a-35-millones-de-colombianos-cada-15-dias-aumentarian-tarifas/",
+        "resumen": "La devolución se liquidará a partir de la información registrada en la facturación electrónica emitida con el número de cédula del comprador.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Gobierno de la Espriella busca devolver el IVA a 35 millones de colombianos cada 15 días; aumentarían tarifas",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "Exposolar: el porvenir de la energía solar trae posibilidades para Colombia",
+        "url": "https://www.valoraanalitik.com/exposolar-el-futuro-de-la-energia-solar-abre-oportunidades-para-colombia/",
+        "resumen": "La IA, la movilidad eléctrica y los desafíos climáticos están poniendo sobre la mesa una pregunta clave: cómo garantizar energía disponible cuando se necesita.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Exposolar: el futuro de la energía solar abre oportunidades para Colombia",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
+      {
+        "titulo": "Esta es la Ley de Rescate Fiscal del Gobierno De la Espriella: recortes y modificaciones en renta e IVA, los ejes",
+        "url": "https://www.valoraanalitik.com/esta-es-la-ley-de-rescate-fiscal-del-gobierno-de-la-espriella-recortes-y-cambios-en-renta-e-iva-las-claves-del-proyecto/",
+        "resumen": "La Ley de Rescate Fiscal endurece las sanciones contra quienes evadan impuestos o participen en actividades de contrabando.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Esta es la Ley de Rescate Fiscal del Gobierno De la Espriella: recortes y cambios en renta e IVA, las claves del proyecto",
+        "capturado": "2026-10-29T20:46:15-05:00"
+      },
       {
         "titulo": "Grupo La Fragata proyecta que el 30 por ciento de sus ventas decembrinas provengan de ferias de sushi, baos y ceviche",
         "url": "https://www.valoraanalitik.com/grupo-la-fragata-festival-bogota-ceviche-sushis-baos-2026/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Legis Editores y Metropolitan Printer solicitaron comenzar procesos de reorganización empresarial",
         "capturado": "2026-10-27T00:27:13-05:00"
-      },
-      {
-        "titulo": "Amarilo planea más de 20000 casas en Lagos de Torca y prevé abrir Quora hacia 2028",
-        "url": "https://www.valoraanalitik.com/amarilo-proyecta-mas-de-20-000-viviendas-en-lagos-de-torca-y-espera-inaugurar-proyecto-quora-en-2028/",
-        "resumen": "El empresario también habló de su proyecto en Pereira para contribuir con la reconstrucción.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Amarilo proyecta más de 20.000 viviendas en Lagos de Torca y espera inaugurar proyecto Quora en 2028",
-        "capturado": "2026-10-27T00:27:13-05:00"
-      },
-      {
-        "titulo": "El centro financiero de Dubái duplicará su área con US$27.000 millones",
-        "url": "https://www.valoraanalitik.com/distrito-financiero-de-dubai-difc-duplicara-su-territorio-con-una-inversion-de-us27-000-millones/",
-        "resumen": "Valora Analitik visitó The Gate, el emblemático edificio del Dubai International Financial Centre (DIFC).",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Distrito financiero de Dubái (DIFC) duplicará su territorio con una inversión de US$27.000 millones",
-        "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "Planes de salud en Colombia subirían más que la inflación en 2027",
-        "url": "https://www.valoraanalitik.com/estos-planes-de-salud-seran-mas-caros-en-colombia-en-2027-subirian-por-encima-de-la-inflacion/",
-        "resumen": "Los costos de algunos planes de salud en Colombia tendrán ajustes en 2027. Un informe revela qué está presionando los precios y a quiénes afectaría.",
-        "autor": "",
-        "subseccion": "Uncategorized",
-        "publicacion": "",
-        "titulo_fuente": "Estos planes de salud serán más caros en Colombia en 2027: subirían por encima de la inflación",
-        "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella informa nuevo beneficio para empresas y trabajadores",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-nuevo-beneficio-para-trabajadores-y-empresas-en-colombia/",
-        "resumen": "El Gobierno De la Espriella anunció recursos para capacitar trabajadores, apoyar emprendimientos en seis departamentos y ofrecer un millón de becas.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella anuncia nuevo beneficio para trabajadores y empresas en Colombia",
-        "capturado": "2026-10-26T19:17:59-05:00"
-      },
-      {
-        "titulo": "Oracle destinará US$1.000 millones para su red; Colombia y región en la mira",
-        "url": "https://www.valoraanalitik.com/oracle-invertira-us1000-millones-socios/",
-        "resumen": "Durante su Oracle AI World, la compañía global de tecnología presentó nuevas herramientas de IA para automatizar procesos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Oracle invertirá US$1.000 millones para fortalecer su red de socios; América Latina y Colombia en el radar",
-        "capturado": "2026-10-26T19:17:59-05:00"
       }
     ]
   }
