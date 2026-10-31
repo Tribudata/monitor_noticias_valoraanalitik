@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-10-31T11:15:15-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-10-31T15:12:14-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Elecciones de mitad de período en EE. UU.: gobernaciones en disputa y aspirantes por estado",
+        "url": "https://www.valoraanalitik.com/elecciones-intermedias-en-ee-uu-estos-son-los-estados-que-elegiran-gobernador-y-sus-candidatos/",
+        "resumen": "Las elecciones intermedias del 3 de noviembre definirán las gobernaciones de 36 estados y tres territorios de EE. UU. en medio de la disputa entre partidos.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Elecciones intermedias en EE. UU.: estos son los estados que elegirán gobernador y sus candidatos",
+        "capturado": "2026-10-31T15:12:14-05:00"
+      },
+      {
+        "titulo": "Ajuste al tributo de renta empresarial en Colombia según la Ley de Rescate",
+        "url": "https://www.valoraanalitik.com/empresas-tendrian-rebaja-de-renta-en-colombia-asi-quedaria-el-impuesto-con-la-ley-de-rescate/",
+        "resumen": "La Ley de Rescate propone bajar el impuesto de renta empresarial, con nuevos incentivos a la inversión y cambios en las cargas tributarias. Este es el panorama.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Empresas tendrían rebaja de renta en Colombia: así quedaría el impuesto con la Ley de Rescate",
+        "capturado": "2026-10-31T15:12:14-05:00"
+      },
       {
         "titulo": "Entrevista | Claves de la expansión de La Fragata y su estrategia hasta 2030 en el sector gastronómico",
         "url": "https://www.valoraanalitik.com/la-fragata-restaurante-revela-plan-a-2030/",
@@ -583,29 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Lulo Bank, del Grupo Gilisnki, sigue ampliando su ecosistema de servicios financieros: ofrecerá seguros desde la app",
         "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Multinacional lanza 1400 puestos en Colombia con plazas sin trayectoria y este es el proceso",
-        "url": "https://www.valoraanalitik.com/multinacional-abre-1-400-vacantes-en-colombia-hay-empleos-sin-experiencia-y-asi-puede-aplicar/",
-        "resumen": "Las vacantes de empleo de esta multinacional están distribuidas en distintas ciudades del país, principalmente Bogotá, Medellín, Cali y Barranquilla.",
-        "autor": "",
-        "subseccion": "Uncategorized",
-        "publicacion": "",
-        "titulo_fuente": "Multinacional abre 1.400 vacantes en Colombia: hay empleos sin experiencia y así puede aplicar",
-        "capturado": "2026-10-29T11:47:44-05:00"
-      },
-      {
-        "titulo": "Gobierno prepara estrategia para inyectar energía a la red por amenazas de apagón y El Niño",
-        "url": "https://www.valoraanalitik.com/gobierno-adelanta-mecanismo-introducir-energia-riesgos-apagon-y-el-nino/",
-        "resumen": "El funcionario aseguró que el Gobierno recibeió un sector energético con unas presiones muy grandes.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno adelanta mecanismo para introducir energía al sistema eléctrico ante riesgos por apagón y El Niño",
-        "capturado": "2026-10-29T11:47:44-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Mastercard señala que la seguridad digital es vital para expandir las pymes colombianas",
+        "url": "https://www.valoraanalitik.com/la-ciberseguridad-es-un-factor-clave-para-el-crecimiento-digital-de-las-pymes-en-colombia-mastercard/",
+        "resumen": "Así lo señala el Mastercard 2026 SME Cybersecurity Outlook, el nuevo estudio regional de Mastercard sobre ciberseguridad en las pymes.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "La ciberseguridad es un factor clave para el crecimiento digital de las pymes en Colombia: Mastercard",
+        "capturado": "2026-10-31T15:12:14-05:00"
+      },
+      {
+        "titulo": "Ley de Rescate reduciría el impuesto de renta a las compañías en Colombia",
+        "url": "https://www.valoraanalitik.com/empresas-tendrian-rebaja-de-renta-en-colombia-asi-quedaria-el-impuesto-con-la-ley-de-rescate/",
+        "resumen": "La Ley de Rescate propone bajar el impuesto de renta empresarial, con nuevos incentivos a la inversión y cambios en las cargas tributarias. Este es el panorama.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Empresas tendrían rebaja de renta en Colombia: así quedaría el impuesto con la Ley de Rescate",
+        "capturado": "2026-10-31T15:12:14-05:00"
+      },
       {
         "titulo": "La Fragata comparte su estrategia al 2030 tras convertirse en un restaurante muy reconocido del país",
         "url": "https://www.valoraanalitik.com/la-fragata-restaurante-revela-plan-a-2030/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "Llega el XIII Congreso Asofiduciarias con foco en confianza e inversión para impulsar el desarrollo del país",
-        "capturado": "2026-10-27T15:52:52-05:00"
-      },
-      {
-        "titulo": "Pequeñas empresas colombianas con medios de pago usan 90 % más servicios financieros, de acuerdo con Visa",
-        "url": "https://www.valoraanalitik.com/pymes-colombianas-con-soluciones-de-pago-utilizan-90-mas-productos-financieros-segun-visa/",
-        "resumen": "Las relaciones con pequeñas empresas generan cinco veces más valor para las entidades financieras que las de clientes tradicionales, según un informe de Visa.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pymes colombianas con soluciones de pago utilizan 90 % más productos financieros, según Visa",
-        "capturado": "2026-10-27T15:52:52-05:00"
-      },
-      {
-        "titulo": "Dividir líneas de crédito, la iniciativa para evaluar el interés máximo legal y fomentar el acceso al sistema financiero",
-        "url": "https://www.valoraanalitik.com/proponen-separar-modalidades-en-la-tasa-de-usura/",
-        "resumen": "La iniciativa busca reconocer los distintos perfiles de riesgo de hogares y empresas y facilitar el regreso de millones de colombianos al sistema formal.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Separar modalidades de crédito, la propuesta para revisar la tasa de usura y ampliar la inclusión financiera",
         "capturado": "2026-10-27T15:52:52-05:00"
       }
     ]
