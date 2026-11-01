@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-01T12:53:44-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-11-01T16:53:35-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Asi funcionara la gran obra de purificacion del rio Bogota que afectara a ochenta localidades nacionales",
+        "url": "https://www.valoraanalitik.com/asi-sera-la-megaobra-para-descontaminar-el-rio-bogota-que-impactaria-a-80-municipios-del-pais/",
+        "resumen": "Tras 30 años de espera, la megaobra para recuperar el río Bogotá entra en una nueva etapa y podría beneficiar a 9,6 millones de personas.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Así será la megaobra para descontaminar el río Bogotá que impactaría a 80 municipios del país",
+        "capturado": "2026-11-01T16:53:35-05:00"
+      },
+      {
+        "titulo": "Entrevista | Emisor posee escaso espacio para variar tipos de interes sin el respaldo fiscal",
+        "url": "https://www.valoraanalitik.com/banco-republica-margen-tasas-apoyo-fiscal/",
+        "resumen": "Liliana Rojas, una de las economistas más destacadas de Perú, analizó la economía colombiana para Valora Analitik.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Banco de la República tiene poco margen para mover las tasas de interés sin apoyo fiscal",
+        "capturado": "2026-11-01T16:53:35-05:00"
+      },
+      {
+        "titulo": "FBI acusa a Corea del Norte por hurto de 6300 millones de dolares en criptoactivos a Binance",
+        "url": "https://www.valoraanalitik.com/fbi-responsabiliza-a-corea-del-norte-por-robo-de-us6-300-millones-en-criptomonedas-a-binance/",
+        "resumen": "El FBI atribuyó a Corea del Norte el robo de criptomonedas a Binance, considerado el mayor registrado contra una plataforma de intercambio de estos activos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "FBI responsabiliza a Corea del Norte por robo de US$6.300 millones en criptomonedas a Binance",
+        "capturado": "2026-11-01T16:53:35-05:00"
+      },
+      {
+        "titulo": "Se acerca la Feria del Automovil 2026 en Corferias y estas son las fechas",
+        "url": "https://www.valoraanalitik.com/fechas-salon-automovil-corferias-2026-carro/",
+        "resumen": "Más de 70 marcas y más de 600 vehículos en exhibición harán parte de uno de los principales encuentros comerciales del sector automotor colombiano.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Llega el Salón del Automóvil 2026 a Corferias: estas son las fechas",
+        "capturado": "2026-11-01T16:53:35-05:00"
+      },
       {
         "titulo": "Aumento cercano al 40 % en matrículas de vehículos nuevos a octubre en Colombia por impulso eléctrico",
         "url": "https://www.valoraanalitik.com/venta-de-carros-nuevos-en-colombia-crecio-casi-40-a-octubre-electricos-siguen-jalonando-con-fuerza/",
@@ -563,49 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Ahora | Gobierno de la Espriella busca devolver el IVA a 35 millones de colombianos cada 15 días; aumentarían tarifas",
         "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "Claves de la Ley de Rescate Fiscal de De la Espriella: recortes, renta e IVA",
-        "url": "https://www.valoraanalitik.com/esta-es-la-ley-de-rescate-fiscal-del-gobierno-de-la-espriella-recortes-y-cambios-en-renta-e-iva-las-claves-del-proyecto/",
-        "resumen": "La Ley de Rescate Fiscal endurece las sanciones contra quienes evadan impuestos o participen en actividades de contrabando.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Esta es la Ley de Rescate Fiscal del Gobierno De la Espriella: recortes y cambios en renta e IVA, las claves del proyecto",
-        "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "Fintech arriba a Medellín para fondear carros laborales mediante alianza con inDrive",
-        "url": "https://www.valoraanalitik.com/fintech-medellin-financia-vehiculos-indrive/",
-        "resumen": "Para 2027, Alta proyecta colocar más de $130.000 millones en créditos en Colombia, de los cuales cerca de $50.000 millones serían en Medellin.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Esta fintech llega a Medellín para financiar vehículos de trabajo; tendrá alianza con inDrive",
-        "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "De la Espriella extiende hasta diciembre de 2027 el paso del Sisbén al Registro Universal de Ingresos",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-amplia-hasta-diciembre-de-2027-la-transicion-del-sisben-al-registro-universal-de-ingresos-rui/",
-        "resumen": "Durante el periodo de transición, las entidades responsables de los programas sociales deberán definir sus propios esquemas de adaptación al RUI.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella amplía hasta diciembre de 2027 la transición del Sisbén al Registro Universal de Ingresos (RUI)",
-        "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Serfinanza volvió a la bolsa con emisión de bonos para optimizar su esquema de fondeo",
-        "url": "https://www.valoraanalitik.com/serfinanza-regreso-al-mercado-de-capitales/",
-        "resumen": "El banco, parte del Grupo Olímpica, colocó bonos ordinarios por $150.000 millones, como parte de sus 50 años de existencia.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Serfinanza regresó al mercado de capitales con colocación de bonos para mejorar su estructura de financiación",
-        "capturado": "2026-10-29T16:41:25-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Fallos que impactan hasta en un 40 por ciento el rendimiento de una obra de infraestructura",
+        "url": "https://www.valoraanalitik.com/errores-que-afectan-hasta-en-un-40-la-productividad-de-un-proyecto-de-infraestructura/",
+        "resumen": "Según expertos, las mejores decisiones se toman antes de que empiece la obra.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Errores que afectan hasta en un 40 % la productividad de un proyecto de infraestructura",
+        "capturado": "2026-11-01T16:53:35-05:00"
+      },
       {
         "titulo": "Colombia lidera en Latinoamérica el aporte del sector digital al PIB frente a otros cuatro países",
         "url": "https://www.valoraanalitik.com/colombia-el-pais-donde-el-ecosistema-digital-mas-aporta-al-pib-entre-cinco-economias-de-america-latina/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Nombramientos",
         "publicacion": "",
         "titulo_fuente": "Cecilia Durán será la presidenta (e) de Almaviva por renuncia de Camilo Cortés Duarte",
-        "capturado": "2026-10-28T01:08:29-05:00"
-      },
-      {
-        "titulo": "El 10 de noviembre Ecopetrol dará a conocer sus cifras financieras del tercer trimestre de 2026",
-        "url": "https://www.valoraanalitik.com/ecopetrol-presentara-resultados-del-tercer-trimestre-de-2026-el-10-de-noviembre/",
-        "resumen": "Estos son los detalles para la presentación de resultados de Ecopetrol en su tercer trimestre.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol presentará resultados del tercer trimestre de 2026 el 10 de noviembre",
         "capturado": "2026-10-28T01:08:29-05:00"
       }
     ]
