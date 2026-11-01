@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-01T06:59:20-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-01T12:53:44-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Aumento cercano al 40 % en matrículas de vehículos nuevos a octubre en Colombia por impulso eléctrico",
+        "url": "https://www.valoraanalitik.com/venta-de-carros-nuevos-en-colombia-crecio-casi-40-a-octubre-electricos-siguen-jalonando-con-fuerza/",
+        "resumen": "Solo octubre registró 32.175 carros nuevos, un crecimiento del 27,4 %",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Venta de carros nuevos en Colombia creció casi 40 % a octubre: Eléctricos siguen jalonando con fuerza",
+        "capturado": "2026-11-01T12:53:44-05:00"
+      },
+      {
+        "titulo": "Expansión del mercado de tarjetas de crédito en Colombia y su comportamiento actual",
+        "url": "https://www.valoraanalitik.com/tarjetas-de-credito-ganan-terreno-en-colombia-asi-se-mueve-su-mercado/",
+        "resumen": "El número de plásticos vigentes llegó a 16,4 millones, mientras las nuevas generaciones y las compras cotidianas impulsan su utilización.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Tarjetas de crédito ganan terreno en Colombia: así se mueve su mercado",
+        "capturado": "2026-11-01T12:53:44-05:00"
+      },
+      {
+        "titulo": "Fin de la restricción de gas natural en Colombia por parte del Ejecutivo tras superar la alerta en Cartagena",
+        "url": "https://www.valoraanalitik.com/gobierno-levanta-limitacion-de-gas-natural-en-colombia-tras-superar-contingencia-en-cartagena/",
+        "resumen": "El Ministerio de Minas y Energía confirmó que se restablecen las condiciones normales de abastecimiento de gas natural en Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno levanta limitación de gas natural en Colombia tras superar contingencia en Cartagena",
+        "capturado": "2026-11-01T12:53:44-05:00"
+      },
+      {
+        "titulo": "Finaliza la fusión de DAVIbank con Davivienda y estos son los puntos clave para los usuarios",
+        "url": "https://www.valoraanalitik.com/davibank-completa-su-integracion-con-davivienda/",
+        "resumen": "DAVIbank integra sus operaciones con Davivienda estos son los detalles del proceso.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "DAVIbank completa su integración con Davivienda: Esto deben tener en cuenta los clientes",
+        "capturado": "2026-11-01T12:53:44-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella advierte que Colombia sufrirá una grave crisis económica si falla la Ley Rescate",
+        "url": "https://www.valoraanalitik.com/colombia-entraria-en-una-crisis-economica-profunda-si-no-se-aprueba-la-ley-rescate-dice-gobierno-de-la-espriella/",
+        "resumen": "Le ley Rescate del gobierno De la Espriella impondrá IVA a algunos alimentos.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Colombia entraría en una crisis económica “profunda” si no se aprueba la Ley Rescate, dice gobierno De la Espriella",
+        "capturado": "2026-11-01T12:53:44-05:00"
+      },
+      {
+        "titulo": "Entrevista | Drummond Energy posee cuatro acuerdos para explorar yacimientos no convencionales en Colombia",
+        "url": "https://www.valoraanalitik.com/drummond-energy-tiene-cuatro-contratos-para-desarrollar-yacimientos-no-convencionales-en-colombia/",
+        "resumen": "La compañía lleva 20 años estudiando la cuenca Cesar-Ranchería y mantiene conversaciones con el Gobierno para definir cómo avanzar con el proyecto.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Drummond Energy tiene cuatro contratos para desarrollar yacimientos no convencionales en Colombia",
+        "capturado": "2026-11-01T12:53:44-05:00"
+      },
       {
         "titulo": "Desde noviembre, Avianca exigirá una nueva condición obligatoria para los vuelos a Estados Unidos",
         "url": "https://www.valoraanalitik.com/avianca-anuncia-nuevo-requisito-obligatorio-para-viajar-a-estados-unidos-desde-noviembre/",
@@ -543,69 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Serfinanza regresó al mercado de capitales con colocación de bonos para mejorar su estructura de financiación",
         "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Varones contarían con mayor periodo de licencia paternal en el país: así variaría el escenario",
-        "url": "https://www.valoraanalitik.com/hombres-podrian-tener-mas-tiempo-de-licencia-de-paternidad-en-colombia-asi-cambiaria-el-panorama/",
-        "resumen": "La licencia de paternidad podría pasar de dos a 12 semanas en Colombia en medio de un panorama complejo para padres y madres.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Hombres podrían tener más tiempo de licencia de paternidad en Colombia: así cambiaría el panorama",
-        "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Gobierno nacional reprogramará vigencias futuras de proyectos demorados para fondear otros gastos",
-        "url": "https://www.valoraanalitik.com/gobierno-nacional-reprogramara-vigencias-futuras-de-obras-retrasadas-para-financiar-otras-inversiones/",
-        "resumen": "Noguera aclaró que la reprogramación no implica retirar el respaldo financiero a los proyectos de Bogotá.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno Nacional reprogramará vigencias futuras de obras retrasadas para financiar otras inversiones",
-        "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Pasajes aéreos en Colombia aumentaron 18,3 % anual y casi triplican la inflación",
-        "url": "https://www.valoraanalitik.com/tiquetes-aereos-en-colombia-subieron-183-anual-y-casi-triplican-la-inflacion/",
-        "resumen": "Las aerolíneas han absorbido parte de la presión sobre sus costos, pero el mayor peso del combustible en sus gastos operativos reduce ese margen.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tiquetes aéreos en Colombia subieron 18,3 % anual y casi triplican la inflación",
-        "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Gobierno Nacional podría acudir a mayores ventas de dólares ante trabas para colocar TES",
-        "url": "https://www.valoraanalitik.com/gobierno-nacional-podria-recurrir-a-mayores-ventas-de-dolares-ante-dificultades-para-colocar-tes/",
-        "resumen": "El Banco de Bogotá plantea varias alternativas para mejorar las condiciones de financiación al termino de 2026.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno Nacional podría recurrir a mayores ventas de dólares ante dificultades para colocar TES",
-        "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Aparece Avatr en Colombia, la enseña de lujo de Changan, CATL y Huawei",
-        "url": "https://www.valoraanalitik.com/avatar-lujo-colombia-changan-catl-huawei/",
-        "resumen": "Grupo Vardí comercializará Avatr con dos camionetas: la 11, 100 % eléctrica, y la 07, de rango extendido.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Llega Avatr a Colombia, la marca de lujo de Changan, CATL y Huawei",
-        "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia cierra al alza a la espera de decisión de tasas del BanRep",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-termina-jornada-al-alza-a-la-espera-de-decision-de-tasas-del-banrep/",
-        "resumen": "Esto fue lo que movió al dólar en Colombia al cierre de la jornada.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia termina jornada al alza a la espera de decisión de tasas del BanRep",
-        "capturado": "2026-10-29T16:41:25-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Colombia lidera en Latinoamérica el aporte del sector digital al PIB frente a otros cuatro países",
+        "url": "https://www.valoraanalitik.com/colombia-el-pais-donde-el-ecosistema-digital-mas-aporta-al-pib-entre-cinco-economias-de-america-latina/",
+        "resumen": "Las plataformas digitales facilitaron US$15.475 millones en actividad económica en Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia, el país donde el ecosistema digital más aporta al PIB entre cinco economías de América Latina",
+        "capturado": "2026-11-01T12:53:44-05:00"
+      },
+      {
+        "titulo": "El mercado de tarjetas de crédito avanza en Colombia y así evoluciona su dinámica",
+        "url": "https://www.valoraanalitik.com/tarjetas-de-credito-ganan-terreno-en-colombia-asi-se-mueve-su-mercado/",
+        "resumen": "El número de plásticos vigentes llegó a 16,4 millones, mientras las nuevas generaciones y las compras cotidianas impulsan su utilización.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Tarjetas de crédito ganan terreno en Colombia: así se mueve su mercado",
+        "capturado": "2026-11-01T12:53:44-05:00"
+      },
+      {
+        "titulo": "DAVIbank finaliza su fusión con Davivienda y esto es lo que los usuarios deben saber",
+        "url": "https://www.valoraanalitik.com/davibank-completa-su-integracion-con-davivienda/",
+        "resumen": "DAVIbank integra sus operaciones con Davivienda estos son los detalles del proceso.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "DAVIbank completa su integración con Davivienda: Esto deben tener en cuenta los clientes",
+        "capturado": "2026-11-01T12:53:44-05:00"
+      },
+      {
+        "titulo": "Entrevista a Drummond Energy sobre sus cuatro contratos para proyectos no convencionales en Colombia",
+        "url": "https://www.valoraanalitik.com/drummond-energy-tiene-cuatro-contratos-para-desarrollar-yacimientos-no-convencionales-en-colombia/",
+        "resumen": "La compañía lleva 20 años estudiando la cuenca Cesar-Ranchería y mantiene conversaciones con el Gobierno para definir cómo avanzar con el proyecto.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Drummond Energy tiene cuatro contratos para desarrollar yacimientos no convencionales en Colombia",
+        "capturado": "2026-11-01T12:53:44-05:00"
+      },
       {
         "titulo": "Desde noviembre, Avianca exigirá una nueva condición obligatoria para los vuelos a Estados Unidos",
         "url": "https://www.valoraanalitik.com/avianca-anuncia-nuevo-requisito-obligatorio-para-viajar-a-estados-unidos-desde-noviembre/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Ecopetrol presentará resultados del tercer trimestre de 2026 el 10 de noviembre",
         "capturado": "2026-10-28T01:08:29-05:00"
-      },
-      {
-        "titulo": "Líder de OpenAI dice que compañías deben anteponer la seguridad de la IA a la productividad",
-        "url": "https://www.valoraanalitik.com/ceo-openai-chatgpt-empresas-seguridad-ia/",
-        "resumen": "Sam Altman dijo que las compañías identificar y mitigar las amenazas asociadas con la inteligencia artificial, que permite identificar nuevas vulnerabilidades.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "CEO de OpenAI (ChatGPT): empresas deben priorizar seguridad de la IA por encima de productividad",
-        "capturado": "2026-10-28T01:08:29-05:00"
-      },
-      {
-        "titulo": "Firma nacional elevó sus ventas de 600 millones a 20.000 millones y apunta al mercado de México",
-        "url": "https://www.valoraanalitik.com/esta-empresa-colombiana-paso-de-vender-600-millones-a-mover-20-000-millones-y-ahora-va-por-mexico/",
-        "resumen": "La empresa multiplicó su escala comercial en menos de 18 meses y llegó a cerca de 1.000 puntos de venta en Colombia. Ahora prepara su expansión internacional.",
-        "autor": "",
-        "subseccion": "Emprendedores",
-        "publicacion": "",
-        "titulo_fuente": "Esta empresa colombiana pasó de vender $600 millones a mover $20.000 millones y ahora va por México",
-        "capturado": "2026-10-27T19:21:53-05:00"
-      },
-      {
-        "titulo": "Jaime Bermúdez declina aspiración a la presidencia de la ANDI y Junta definiría finalistas estos días",
-        "url": "https://www.valoraanalitik.com/jaime-bermudez-retira-su-candidatura-para-ser-nuevo-presidente-de-la-andi-junta-definiria-finalistas-esta-semana/",
-        "resumen": "Con la salida de Bermúdez, la baraja de opcionados se reduce a cuatro nombres con amplia trayectoria técnica y gremial.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Jaime Bermúdez retira su candidatura para ser nuevo presidente de la ANDI; Junta definiría finalistas esta semana",
-        "capturado": "2026-10-27T19:21:53-05:00"
-      },
-      {
-        "titulo": "Cifras alternativas y su razón de ser son fundamentales para expandir el crédito en Colombia",
-        "url": "https://www.valoraanalitik.com/datos-alternativos-como-pueden-facilitar-el-acceso-al-credito-en-colombia/",
-        "resumen": "TransUnion destaca el potencial de la información de sectores como las telecomunicaciones para evaluar perfiles de riesgo y facilitar la inclusión financiera.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Datos alternativos y el por qué son la clave para ampliar el acceso al crédito en Colombia",
-        "capturado": "2026-10-27T19:21:53-05:00"
       }
     ]
   }
