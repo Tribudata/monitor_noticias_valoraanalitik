@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-01T16:53:35-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-01T20:24:10-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Su familia confirmó el deceso del exparlamentario Antonio Navarro Wolff",
+        "url": "https://www.valoraanalitik.com/fallecio-el-exsenador-antonio-navarro-wolff-confirmo-su-familia/",
+        "resumen": "Antonio Navarro Wolff fue gobernador de Nariño.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Falleció el exsenador Antonio Navarro Wolff, confirmó su familia",
+        "capturado": "2026-11-01T20:24:10-05:00"
+      },
+      {
+        "titulo": "Las ventas de Tesla en el país ya superan a las de autos tradicionales de Renault, Kia y Mazda",
+        "url": "https://www.valoraanalitik.com/tesla-en-colombia-ya-supera-en-ventas-a-modelos-muy-reconocidos-de-renault-kia-y-mazda/",
+        "resumen": "Tesla también está en el Top 6 de carros más vendidos en Colombia en todas las categorías.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tesla en Colombia ya supera en ventas a modelos muy reconocidos de Renault, Kia y Mazda",
+        "capturado": "2026-11-01T20:24:10-05:00"
+      },
       {
         "titulo": "Asi funcionara la gran obra de purificacion del rio Bogota que afectara a ochenta localidades nacionales",
         "url": "https://www.valoraanalitik.com/asi-sera-la-megaobra-para-descontaminar-el-rio-bogota-que-impactaria-a-80-municipios-del-pais/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "De la Espriella propone reducir a la mitad los contratos por prestación de servicios en 2027",
         "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "Ley de Rescate elevaría aportes a salud de colombianos y sumaría costos a empresas",
-        "url": "https://www.valoraanalitik.com/los-colombianos-que-pagarian-mayores-aportes-a-salud-con-ley-de-rescate-empresas-tambien-asumirian-mas-costos/",
-        "resumen": "La propuesta establece un esquema de aportes progresivos, en el que quienes tengan mayores ingresos asumirían una cotización más alta.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Los colombianos que pagarían mayores aportes a salud con Ley de Rescate; empresas también asumirían más costos",
-        "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "Gobierno de la Espriella prevé devolver IVA quincenalmente a 35 millones y subir tasas",
-        "url": "https://www.valoraanalitik.com/ahora-gobierno-de-la-espriella-busca-devolver-el-iva-a-35-millones-de-colombianos-cada-15-dias-aumentarian-tarifas/",
-        "resumen": "La devolución se liquidará a partir de la información registrada en la facturación electrónica emitida con el número de cédula del comprador.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Gobierno de la Espriella busca devolver el IVA a 35 millones de colombianos cada 15 días; aumentarían tarifas",
-        "capturado": "2026-10-29T20:46:15-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Las ventas de Tesla en Colombia ya superan las de autos muy conocidos de Renault, Kia y Mazda",
+        "url": "https://www.valoraanalitik.com/tesla-en-colombia-ya-supera-en-ventas-a-modelos-muy-reconocidos-de-renault-kia-y-mazda/",
+        "resumen": "Tesla también está en el Top 6 de carros más vendidos en Colombia en todas las categorías.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tesla en Colombia ya supera en ventas a modelos muy reconocidos de Renault, Kia y Mazda",
+        "capturado": "2026-11-01T20:24:10-05:00"
+      },
       {
         "titulo": "Fallos que impactan hasta en un 40 por ciento el rendimiento de una obra de infraestructura",
         "url": "https://www.valoraanalitik.com/errores-que-afectan-hasta-en-un-40-la-productividad-de-un-proyecto-de-infraestructura/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista | Reactivar sector de petróleo y de gas le aportaría a Colombia $20 billones anuales a 2050: Presidente ACP",
         "capturado": "2026-10-28T08:25:25-05:00"
-      },
-      {
-        "titulo": "Cecilia Durán asume como presidenta encargada de Almaviva tras la dimisión de Camilo Cortés Duarte",
-        "url": "https://www.valoraanalitik.com/cecilia-duran-sera-la-presidenta-e-de-almaviva-por-renuncia-de-camilo-cortes-duarte/",
-        "resumen": "Almaviva ofrece soluciones para las operaciones de almacenamiento, transporte, distribución y gestión aduanera a empresas.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Cecilia Durán será la presidenta (e) de Almaviva por renuncia de Camilo Cortés Duarte",
-        "capturado": "2026-10-28T01:08:29-05:00"
       }
     ]
   }
