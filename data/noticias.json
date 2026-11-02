@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-02T03:06:17-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-02T13:44:23-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Norma de salvavidas fiscal propone seguridad en impuestos por 16 años para capitales nuevos",
+        "url": "https://www.valoraanalitik.com/ley-de-rescate-fiscal-plantea-estabilidad-tributaria-por-16-anos-para-nuevas-inversiones/",
+        "resumen": "El RUGE contempla una tarifa de renta de 20 % para proyectos que comiencen su ejecución en 2027 y 2028.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ley de rescate fiscal plantea estabilidad tributaria por 16 años para nuevas inversiones",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "Entrevista | Constructora Camu prevé alza inmobiliaria en Colombia en 2027 y expone metas",
+        "url": "https://www.valoraanalitik.com/entrevista-constructora-camu-anticipa-crecimiento-de-vivienda-en-colombia-en-2027-y-revela-prioridades/",
+        "resumen": "Su gerente general conversó con Valora Analitik sobre las señales de recuperación que están viendo para el sector en el Gobierno De la Espriella.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Constructora Camu anticipa crecimiento de vivienda en Colombia en 2027 y revela prioridades",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "Matrícula de motocicletas nuevas en Colombia subió casi 25 % en octubre de 2026 y marcas dominan",
+        "url": "https://www.valoraanalitik.com/venta-de-motos-nuevas-en-colombia-crecio-casi-25-en-octubre-de-2026-estas-fueron-las-marcas-lideres/",
+        "resumen": "La venta de motos nuevas en Colombia mantuvo su crecimiento en octubre de 2026, aunque registró una caída frente a septiembre.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "Venta de motos nuevas en Colombia creció casi 25 % en octubre de 2026: estas fueron las marcas líderes",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "Locales de comida en Colombia afrontan crisis: clausuras pasarían de 6.500 y avisan por tributos",
+        "url": "https://www.valoraanalitik.com/restaurantes-en-colombia-enfrentan-crisis-cierres-superarian-los-6-500-y-alertan-por-nuevos-impuestos/",
+        "resumen": "La discusión tributaria abre un nuevo frente de incertidumbre para los empresarios gastronómicos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Restaurantes en Colombia enfrentan crisis: cierres superarían los 6.500 y alertan por nuevos impuestos",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "GeoPark formaliza su llegada a Venezuela y Grupo Gilinski asume el mando de la petrolera",
+        "url": "https://www.valoraanalitik.com/geopark-concreta-su-entrada-a-venezuela-y-grupo-gilinski-toma-el-control-de-la-petrolera/",
+        "resumen": "Grupo Gilinski tendrá el 56,3 % de GeoPark, que activó un contrato petrolero por 25 años en Venezuela y prepara el inicio de operaciones.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark concreta su entrada a Venezuela y Grupo Gilinski toma el control de la petrolera",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella prepara profunda transformación al pase nacional de conducción",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-buscara-radical-cambio-a-la-licencia-de-conduccion-en-colombia-se-perderia-por-puntos/",
+        "resumen": "La propuesta sobre modificar la licencia de conducción en Colombia surge de una conversación con la ciudadanía, dijo el Gobierno.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella buscará radical cambio a la licencia de conducción en Colombia: Se perdería por puntos",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "Entrevista sobre el desarrollo de Territorio Panaca, iniciativa turística de un billón de pesos",
+        "url": "https://www.valoraanalitik.com/entrevista-asi-avanza-territorio-panaca-el-megaproyecto-turistico-de-1-billon-que-es-unico-en-colombia-y-que-estara-en-la-milagro-week/",
+        "resumen": "Lucas Naranjo, gerente de Perfek, la constructora encargada del megaproyecto, habló con Valora Analitik sobre el avance de Territorio Panaca.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Así avanza Territorio Panaca, el megaproyecto turístico de $1 billón que es único en Colombia y que estará en la Milagro Week",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella anuncia alza del IVA a alimentos y café con esquema de devolución",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confirma-que-subira-iva-al-cafe-y-otros-alimentos-pero-explica-como-devolvera-ese-pago-a-millones-de-colombianos/",
+        "resumen": "El gobierno De la Espriella explica lo que viene para el cobro del IVA en Colombia con la Ley Rescate",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella confirma que subirá IVA al café y otros alimentos, pero explica cómo devolverá ese pago a millones de colombianos",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
       {
         "titulo": "Su familia confirmó el deceso del exparlamentario Antonio Navarro Wolff",
         "url": "https://www.valoraanalitik.com/fallecio-el-exsenador-antonio-navarro-wolff-confirmo-su-familia/",
@@ -523,89 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella suma a actor muy importante a la discusión del aumento del salario mínimo en Colombia",
         "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Administración del presidente Abelardo de la Espriella pretende gravar las bebidas con edulcorantes",
-        "url": "https://www.valoraanalitik.com/bebidas-con-edulcorantes-tambien-tendrian-impuestos-con-ley-rescate-del-gobierno-de-la-espriella-asi-quedarian/",
-        "resumen": "La ley rescate del gobierno De la Espriella también busca aumentar los ingresos del país por el lado de los impuestos",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno del presidente Abelardo de la Espriella busca poner impuestos a las bebidas con edulcorantes",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Norma de rescate del gobierno De la Espriella fija el destino de los fondos de cerca de 136.000 personas pasadas a Colpensiones",
-        "url": "https://www.valoraanalitik.com/ley-rescate-gobierno-de-la-espriella-define-ahorros-de-casi-136000-personas-que-se-trasladaron-a-colpensiones/",
-        "resumen": "La ley rescate del gobierno De la Espriella define lo que debe pasar con los ahorros de casi 135.000 trabajadores que se pasaron a Colpensiones.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Ley rescate del gobierno De la Espriella define qué pasará con ahorros de casi 136.000 personas que se trasladaron a Colpensiones",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Afinia giró $131.000 millones a XM y frena la amenaza de apagones en la región Caribe",
-        "url": "https://www.valoraanalitik.com/afinia-pago-131-000-millones-a-xm-y-suspende-riesgo-de-cortes-de-energia-en-el-caribe/",
-        "resumen": "La empresa destacó que el respaldo de EPM fue determinante para mantener su operación.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Afinia pagó $131.000 millones a XM y suspende riesgo de cortes de energía en el Caribe",
-        "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "Empleados con sueldos desde $5,5 millones al mes comenzarían a tributar renta con el proyecto oficial",
-        "url": "https://www.valoraanalitik.com/trabajadores-que-ganen-desde-55-millones-mensuales-entrarian-a-pagar-impuesto-de-renta-con-reforma-del-gobierno/",
-        "resumen": "Más colombianos tendrán que tributar, se espera un recaudo adicional estimado en $7,25 billones al año.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Trabajadores que ganen desde $5,5 millones mensuales entrarían a pagar impuesto de renta con reforma del Gobierno",
-        "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "De la Espriella sugiere reducir el impuesto corporativo y abolir el tributo a plásticos desechables",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-propone-bajar-impuesto-de-renta-a-empresas-y-eliminar-gravamen-a-plasticos-de-un-solo-uso/",
-        "resumen": "El Ejecutivo sustentó que busca disminuir la carga tributaria de las empresas y mejorar la competitividad.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella propone bajar impuesto de renta a empresas y eliminar gravamen a plásticos de un solo uso",
-        "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella plantea subir IVA al 19 % en ciertos alimentos con devolución a vulnerables",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-propone-aumentar-iva-a-19-para-estos-alimentos-habria-devolucion-de-impuesto-a-hogares-pobres/",
-        "resumen": "La propuesta estipula que la mayoría que tributaban al 5 % pasarían formalmente a la tarifa general del 19 %.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella propone aumentar IVA a 19 % para estos alimentos: habría devolución de impuesto a hogares pobres",
-        "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "Nuevo proyecto del Gobierno De la Espriella eleva cargas tributarias a cerveza, licores y tabaco",
-        "url": "https://www.valoraanalitik.com/nueva-ley-de-rescate-del-gobierno-de-la-espriella-trae-mas-impuestos-para-cerveza-licores-cigarrillos/",
-        "resumen": "Otro de los productos que serían gravados son las bebidas edulcorantes y endulzadas.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Nueva reforma del Gobierno De la Espriella trae más impuestos para cerveza, licores y cigarrillos",
-        "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "De la Espriella plantea cortar a la mitad las prestaciones de servicios para 2027",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-propone-reducir-a-la-mitad-los-contratos-por-prestacion-de-servicios-en-2027/",
-        "resumen": ". La iniciativa estima que esta medida permitiría un ahorro promedio anual de 0,19 % del PIB, equivalente a cerca de $9,6 billones.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella propone reducir a la mitad los contratos por prestación de servicios en 2027",
-        "capturado": "2026-10-29T20:46:15-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Turismo capilar genera US$4.500 millones y el país busca mayor participación",
+        "url": "https://www.valoraanalitik.com/turismo-capilar-mueve-un-mercado-de-us4-500-millones/",
+        "resumen": "El crecimiento de las búsquedas internacionales por trasplantes capilares abre espacio para que el país compita como destino de restauración capilar.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Turismo capilar mueve un mercado de US$4.500 millones y Colombia busca ganar espacio",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "Proyecto de salvavidas fiscal propone dieciséis años de estabilidad tributaria para nuevos capitales",
+        "url": "https://www.valoraanalitik.com/ley-de-rescate-fiscal-plantea-estabilidad-tributaria-por-16-anos-para-nuevas-inversiones/",
+        "resumen": "El RUGE contempla una tarifa de renta de 20 % para proyectos que comiencen su ejecución en 2027 y 2028.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ley de rescate fiscal plantea estabilidad tributaria por 16 años para nuevas inversiones",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "Entrevista a Constructora Camu sobre perspectivas de vivienda para 2027 y sus enfoques",
+        "url": "https://www.valoraanalitik.com/entrevista-constructora-camu-anticipa-crecimiento-de-vivienda-en-colombia-en-2027-y-revela-prioridades/",
+        "resumen": "Su gerente general conversó con Valora Analitik sobre las señales de recuperación que están viendo para el sector en el Gobierno De la Espriella.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Constructora Camu anticipa crecimiento de vivienda en Colombia en 2027 y revela prioridades",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "Gastronomía colombiana en crisis con más de 6.500 clausuras previstas y alarma por tributos",
+        "url": "https://www.valoraanalitik.com/restaurantes-en-colombia-enfrentan-crisis-cierres-superarian-los-6-500-y-alertan-por-nuevos-impuestos/",
+        "resumen": "La discusión tributaria abre un nuevo frente de incertidumbre para los empresarios gastronómicos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Restaurantes en Colombia enfrentan crisis: cierres superarían los 6.500 y alertan por nuevos impuestos",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "GeoPark llega a Venezuela y Grupo Gilinski asume el dominio de la petrolera",
+        "url": "https://www.valoraanalitik.com/geopark-concreta-su-entrada-a-venezuela-y-grupo-gilinski-toma-el-control-de-la-petrolera/",
+        "resumen": "Grupo Gilinski tendrá el 56,3 % de GeoPark, que activó un contrato petrolero por 25 años en Venezuela y prepara el inicio de operaciones.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark concreta su entrada a Venezuela y Grupo Gilinski toma el control de la petrolera",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
+      {
+        "titulo": "Entrevista sobre el progreso de Territorio Panaca, iniciativa turística de un billón de pesos en Colombia",
+        "url": "https://www.valoraanalitik.com/entrevista-asi-avanza-territorio-panaca-el-megaproyecto-turistico-de-1-billon-que-es-unico-en-colombia-y-que-estara-en-la-milagro-week/",
+        "resumen": "Lucas Naranjo, gerente de Perfek, la constructora encargada del megaproyecto, habló con Valora Analitik sobre el avance de Territorio Panaca.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Así avanza Territorio Panaca, el megaproyecto turístico de $1 billón que es único en Colombia y que estará en la Milagro Week",
+        "capturado": "2026-11-02T13:44:23-05:00"
+      },
       {
         "titulo": "Las ventas de Tesla en Colombia ya superan las de autos muy conocidos de Renault, Kia y Mazda",
         "url": "https://www.valoraanalitik.com/tesla-en-colombia-ya-supera-en-ventas-a-modelos-muy-reconocidos-de-renault-kia-y-mazda/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Arturo Calle invierte $2.045 millones para renovar tienda en centro comercial de Barranquilla: incorpora concepto por primera vez en el país",
         "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "El fallo en la Regasificadora de Cartagena y la crisis de Afinia elevan la probabilidad de apagón en el país",
-        "url": "https://www.valoraanalitik.com/falla-en-regasificadora-de-cartagena-y-crisis-de-afinia-aumentan-el-riesgo-de-un-apagon-en-colombia/",
-        "resumen": "Menos gas, estrechez en la oferta de energía eléctrica y deudas en el sistema marcan la agenda del sector energético colombiano.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "Falla en Regasificadora de Cartagena y crisis de Afinia aumentan el riesgo de un apagón en Colombia",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "ISA modifica protocolos para designar Junta y presidente luego de propuesta de Ecopetrol y nombran directiva",
-        "url": "https://www.valoraanalitik.com/arranca-asamblea-extraordinaria-de-isa-se-buscara-cambiar-estatutos-y-elegir-nueva-junta/",
-        "resumen": "Entre los cambios previstos está el proceso de elección del nuevo presidente de la compañía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | ISA cambia procesos para elegir Junta y presidente tras propuesta de Ecopetrol; accionistas eligen nuevos directivos",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "El país cuenta con reservas carboníferas de unos 4.500 millones de toneladas y el Ejecutivo apoyará iniciativas",
-        "url": "https://www.valoraanalitik.com/colombia-tiene-reservas-de-carbon-cercanas-a-4-500-millones-de-toneladas-gobierno-respaldara-nuevos-proyectos/",
-        "resumen": "Gremios, empresarios y gobierno se reunieron en el Congreso de Fenalcarbón para destrabar las oportunidades de este sector de la economía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia tiene reservas de carbón cercanas a 4.500 millones de toneladas; Gobierno respaldará nuevos proyectos",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Ticketmaster alcanzó su transacción más alta en territorio nacional con el festival EDC Medellín",
-        "url": "https://www.valoraanalitik.com/ticketmaster-registro-su-mayor-operacion-en-colombia-con-el-festival-edc-medellin/",
-        "resumen": "El evento tuvo el día de lanzamiento de ventas más rápido entre los festivales operados por la compañía y alcanzó picos de más de 3.000 ingresos en 15 minutos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ticketmaster registró su mayor operación en Colombia con el festival EDC Medellín",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "La confianza empresarial nacional repunta en septiembre y muestra mejores perspectivas de empleo para fin de año",
-        "url": "https://www.valoraanalitik.com/confianza-de-empresarios-en-colombia-rebota-en-septiembre-y-hay-mejores-expectativas-de-contratacion-para-cierre-de-ano/",
-        "resumen": "El centro de pensamiento explicó que esta mejora obedeció a que hay una mejor percepción de la situación económica actual.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Confianza de empresarios en Colombia rebota en septiembre y hay mejores expectativas de contratación para cierre de año",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Entrevista | Estímulo a hidrocarburos sumaría 20 billones anuales al país hacia 2050: líder de ACP",
-        "url": "https://www.valoraanalitik.com/reactivar-sector-de-petroleo-y-de-gas-le-aportaria-a-colombia-20-billones-anuales-a-2050-presidente-acp/",
-        "resumen": "Frank Pearl, presidente de la Asociación Colombiana de Petróleo y Gas, abordó el potencial de la industria si se revitaliza la actividad petrolera y gasífera.",
-        "autor": "",
-        "subseccion": "Petróleo",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Reactivar sector de petróleo y de gas le aportaría a Colombia $20 billones anuales a 2050: Presidente ACP",
-        "capturado": "2026-10-28T08:25:25-05:00"
       }
     ]
   }
