@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-03T03:31:16-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-03T11:55:29-05:00",
+  "nuevos_en_esta_corrida": 17,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Multinacional destina más de US$5 millones en Medellín y agranda su capacidad logística en el país",
+        "url": "https://www.valoraanalitik.com/multinacional-invierte-mas-de-us5-millones-en-medellin-y-amplia-su-capacidad-logistica-en-colombia/",
+        "resumen": "La inversión de la multinacional en Colombia se eleva a US$20 millones y busca fortalecer la infraestructura para el almacenamiento de alimentos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional invierte más de US$5 millones en Medellín y amplía su capacidad logística en Colombia",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "ANI suscribe pacto para habilitar Muelle 13 de Buenaventura y esquivar demanda de US$30 millones",
+        "url": "https://www.valoraanalitik.com/ani-firma-acuerdo-para-reactivar-muelle-13-de-buenaventura-y-evitar-litigio-de-us30-millones/",
+        "resumen": "Grupo Portuario tenía el manejo del terminal desde 2005, inicialmente bajo un contrato de concesión portuaria.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "ANI firma acuerdo para reactivar Muelle 13 de Buenaventura y evitar litigio de US$30 millones",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Reforma de De La Espriella quitaría exenciones fiscales a jueces, magistrados y docentes: porcentajes",
+        "url": "https://www.valoraanalitik.com/reforma-de-de-la-espriella-eliminaria-beneficios-tributarios-de-magistrados-jueces-y-docentes-estos-son-los-porcentajes/",
+        "resumen": "La Ley de Rescate propone poner fin a determinados beneficios tributarios que favorecen a determinados funcionarios públicos.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Reforma de De La Espriella eliminaría beneficios tributarios de magistrados, jueces y docentes: estos son los porcentajes",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Utilidades netas de Saudi Aramco suben más de 30 % pese a guerra en Irán, aunque baja la extracción",
+        "url": "https://www.valoraanalitik.com/ingresos-netos-de-saudi-aramco-crecen-mas-de-30-pese-a-la-guerra-en-iran-aunque-cae-la-produccion/",
+        "resumen": "La guerra en Irán no es el único frente de preocupación. También ha enfrentado ataques relacionados con los combates contra los hutíes en Yemen.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ingresos netos de Saudi Aramco crecen más de 30 % pese a la guerra en Irán, aunque cae la producción",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "IPC en Colombia aumentaría por tributos de ley rescate, mas no sería prolongado: señala la iniciativa",
+        "url": "https://www.valoraanalitik.com/inflacion-en-colombia-subiria-por-impuestos-de-la-ley-rescate-pero-no-duraria-tanto-esto-dice-el-mismo-proyecto/",
+        "resumen": "La inflación en Colombia viene ya presionada por cuenta de la variación en el precio de algunos alimentos.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Inflación en Colombia subiría por impuestos de la ley rescate, pero no duraría tanto: Esto dice el mismo proyecto",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Lucas Madriñán asume como CEO de RappiPay Colombia",
+        "url": "https://www.valoraanalitik.com/lucas-madrinan-es-el-nuevo-ceo-de-rappipay-colombia/",
+        "resumen": "La compañía duplicó su base de clientes, al pasar de 350.000 a más de 700.000 usuarios y y superó el billón de pesos en cartera administrada entre RappiCard",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Lucas Madriñán es el nuevo CEO de RappiPay Colombia",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Elecciones de medio término en EE. UU.: demócratas buscan recuperar el control del Congreso de Trump",
+        "url": "https://www.valoraanalitik.com/elecciones-de-medio-termino-en-ee-uu-democratas-buscan-recuperar-el-control-del-congreso-de-trump/",
+        "resumen": "El control del Senado dependerá de los resultados en estados como Alaska, Iowa, Kansas, Maine, entre otros.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Elecciones de medio término en EE. UU.: demócratas buscan recuperar el control del Congreso de Trump",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia arranca noviembre con fuerza al alza: supera los $3.200 tras alertas por default si no se aprueba la ley rescate",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-arranca-noviembre-con-fuerza-al-alza-supera-los-3-200-tras-alertas-por-default-si-no-se-aprueba-la-ley-rescate/",
+        "resumen": "Esto es lo que mueve al dólar en Colombia este martes 3 de noviembre.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia arranca noviembre con fuerza al alza: supera los $3.200 tras alertas por default si no se aprueba la ley rescate",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Incentivos a gran inversión, IVA a la gasolina e impuesto al carbono: efectos de la ley de rescate en la energía",
+        "url": "https://www.valoraanalitik.com/incentivos-a-gran-inversion-iva-a-la-gasolina-e-impuesto-al-carbono-efectos-de-la-ley-de-rescate-en-la-energia/",
+        "resumen": "La gasolina tendría un incremento en el IVA, que pasaría de 5 % a 19 % sobre el precio que recibe el productor.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Incentivos a gran inversión, IVA a la gasolina e impuesto al carbono: efectos de la ley de rescate en la energía",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Bogotá radicó presupuesto de $42,7 billones para 2027: así se distribuirán los recursos",
+        "url": "https://www.valoraanalitik.com/bogota-radico-presupuesto-de-427-billones-para-2027-asi-se-distribuiran-los-recursos/",
+        "resumen": "La administración también radicó el Marco Fiscal de Mediano Plazo que contiene las proyecciones económicas y financieras para la próxima década.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá radicó presupuesto de $42,7 billones para 2027: así se distribuirán los recursos",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Asoportuaria solicita optimizar la profundidad en Barranquilla y el Gobierno Nacional convoca una mesa",
+        "url": "https://www.valoraanalitik.com/asoportuaria-pide-mejorar-el-calado-del-puerto-de-barranquilla-gobierno-nacional-anuncia-mesa-de-trabajo/",
+        "resumen": "El gremio también destacó la importancia del trabajo conjunto entre el sector público y privado para sacar adelante proyectos de infraestructura.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Asoportuaria pide mejorar el calado del puerto de Barranquilla; Gobierno Nacional anuncia mesa de trabajo",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "La discusión sobre el incremento del sueldo básico en Colombia arranca en los siguientes días",
+        "url": "https://www.valoraanalitik.com/aumento-del-salario-minimo-en-colombia-debera-empezar-a-definirse-en-los-proximos-dias/",
+        "resumen": "La norma local establece unas fechas límite para definir el aumento del salario mínimo en Colombia del año entrante.",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Aumento del salario mínimo en Colombia deberá empezar a definirse en los próximos días",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
       {
         "titulo": "Alejandra Zapata deja la presidencia de Coninsa luego de casi cuatro años",
         "url": "https://www.valoraanalitik.com/alejandra-zapata-anuncia-su-salida-de-la-presidencia-de-coninsa-tras-casi-cuatro-anos/",
@@ -483,129 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Atención | Banco de la República mantiene las tasas de interés en 12,25 %",
         "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "Concursos de méritos para laborar en la DIAN finalizarían: así modifica exigencias la ley de rescate",
-        "url": "https://www.valoraanalitik.com/concursos-de-meritos-para-trabajar-con-la-dian-se-acabarian-asi-cambia-los-requisitos-la-ley-de-rescate/",
-        "resumen": "La ley de rescate fiscal incluye facultades para modificar la carrera administrativa de la DIAN y eliminaría los concursos anuales para ingresar a la entidad.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Concursos de méritos para trabajar con la DIAN se acabarían: así cambia los requisitos la ley de rescate",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "Norma de salvamento: renta para más clase media local y menor gravamen corporativo",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-mas-colombianos-de-clase-media-tendria-que-pagar-renta-y-tarifa-de-empresas-se-reduciria/",
-        "resumen": "Para las personas naturales, se pretende reducir la base gravable para que quienes ganen poco más de $70 millones anuales tengan que declarar renta.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Ley de rescate: más colombianos de clase media tendrían que pagar renta y tarifa de empresas se reduciría",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "J.D. Vance vendría a Colombia en noviembre con otros delegados de la administración Trump",
-        "url": "https://www.valoraanalitik.com/j-d-vance-visitaria-colombia-en-noviembre-junto-a-otros-funcionarios-del-gobierno-trump/",
-        "resumen": "El vicepresidente de EE. UU. llegaría entre el 20 y 21 de noviembre para reunirse con Abelardo de la Espriella.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "J.D. Vance visitaría Colombia en noviembre junto a otros funcionarios del Gobierno Trump",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "Desocupación en Colombia descendió poco en septiembre, mas creció en urbes principales",
-        "url": "https://www.valoraanalitik.com/desempleo-en-colombia-bajo-levemente-en-septiembre-pero-subio-en-las-principales-ciudades/",
-        "resumen": "El panorama laboral tuvo un comportamiento diferente en las 13 principales ciudades y áreas metropolitanas del país.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Desempleo en Colombia bajó levemente en septiembre, pero subió en las principales ciudades",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "Reintegro del IVA alcanzaría $300.000 mensuales con ley de rescate de De la Espriella y un requisito",
-        "url": "https://www.valoraanalitik.com/devolucion-del-iva-podria-llegar-a-300-000-al-mes-con-la-ley-de-rescate-del-gobierno-de-la-espriella-hay-un-requisito-clave/",
-        "resumen": "La devolución del IVA tendría un tope cercano a $300.000 mensuales aunque dependerá de un condicionante clave para poder recibir el dinero.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Devolución del IVA podría llegar a $300.000 al mes con la ‘ley de rescate’ del gobierno De la Espriella: hay un requisito clave",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "CREG plantea incentivos para agilizar proyectos de generación eléctrica en Colombia durante El Niño",
-        "url": "https://www.valoraanalitik.com/creg-propone-nuevos-incentivos-proyectos/",
-        "resumen": "La iniciativa busca asegurar energía firme entre 2027 y 2030 e incentivar la entrada anticipada de plantas y el almacenamiento solar con baterías.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "CREG propone nuevos incentivos para acelerar proyectos de generación eléctrica en Colombia en medio de El Niño",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Azúcar, café, verduras y gasolina subirían de precio con la reforma tributaria de De la Espriella",
-        "url": "https://www.valoraanalitik.com/azucar-cafe-verduras-y-gasolina-aumentarian-de-precio-con-nueva-reforma-tributaria-de-de-la-espriella/",
-        "resumen": "Gremios como la Federación Nacional de Cafeteros rechazaron el incremento del IVA de 5 % a 19 % para su producto.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Azúcar, café, verduras y gasolina aumentarían de precio con nueva reforma tributaria de De la Espriella",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Fusión y supresión de entidades, y recorte de nómina: la estrategia de De la Espriella para ahorrar",
-        "url": "https://www.valoraanalitik.com/fusion-y-eliminacion-de-entidades-y-reduccion-de-nomina-el-plan-de-de-la-espriella-para-apretarse-el-cinturon/",
-        "resumen": "Sumando estas medidas y otras de carácter tributario, el proyecto pretende generarle al Estado cerca de $40 billones en 2027.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Fusión y eliminación de entidades, y reducción de nómina: el plan de De la Espriella para apretarse el cinturón",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia inicia estable tras la radicación de la ley rescate del gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-estable-luego-de-presentacion-de-la-ley-rescate-del-gobierno-de-la-espriella/",
-        "resumen": "Estro mueve al dólar en Colombia al inició de la última sesión de octubre.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre estable luego de presentación de la ley rescate del gobierno De la Espriella",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Mateo Ravagli y Daniel Puerta asumen como vicepresidentes en Banco de Bogotá; arriban a estos cargos",
-        "url": "https://www.valoraanalitik.com/nuevos-vicepresidentes-banco-de-bogota/",
-        "resumen": "Los ejecutivos asumirán sus nuevas posiciones en la entidad del Grupo Aval a partir del primero de noviembre.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Mateo Ravagli y Daniel Puerta serán vicepresidentes en Banco de Bogotá; llegan a estas posiciones",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Luz Stella Murgas, Juan Camilo Nariño y Carlos de Hart son los finalistas a la presidencia de la ANDI",
-        "url": "https://www.valoraanalitik.com/luz-stella-murgas-juan-camilo-narino-y-carlos-de-hart-los-finalistas-para-ser-nuevo-presidente-de-la-andi/",
-        "resumen": "Queda por fuera Nicolás Uribe, expresidente de la Cámara de Comercio de Bogotá, y previamente se había retirado el excanciller Jaime Bermúdez.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Luz Stella Murgas, Juan Camilo Nariño y Carlos de Hart: los finalistas para ser nuevo presidente de la ANDI",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Congresistas analizarán ley de rescate y descartan ambiente para nuevos gravámenes a la clase media",
-        "url": "https://www.valoraanalitik.com/congresistas-estudiaran-ley-rescate-pero-no-habria-ambiente-para-nuevos-impuestos-a-la-clase-media/",
-        "resumen": "Proyecto de ley de rescate fiscal deberá superar cuatro debates en el Congreso para implementarse",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Congresistas estudiarán ley rescate pero no habría ambiente para nuevos impuestos a la clase media",
-        "capturado": "2026-10-30T10:14:20-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Firma extranjera destina más de US$5 millones en Medellín y agranda su operación logística en el país",
+        "url": "https://www.valoraanalitik.com/multinacional-invierte-mas-de-us5-millones-en-medellin-y-amplia-su-capacidad-logistica-en-colombia/",
+        "resumen": "La inversión de la multinacional en Colombia se eleva a US$20 millones y busca fortalecer la infraestructura para el almacenamiento de alimentos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional invierte más de US$5 millones en Medellín y amplía su capacidad logística en Colombia",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Ganancias netas de Saudi Aramco suben más del 30 por ciento a pesar del conflicto en Irán y baja la extracción",
+        "url": "https://www.valoraanalitik.com/ingresos-netos-de-saudi-aramco-crecen-mas-de-30-pese-a-la-guerra-en-iran-aunque-cae-la-produccion/",
+        "resumen": "La guerra en Irán no es el único frente de preocupación. También ha enfrentado ataques relacionados con los combates contra los hutíes en Yemen.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ingresos netos de Saudi Aramco crecen más de 30 % pese a la guerra en Irán, aunque cae la producción",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Colsubsidio y Magneto buscan renovar las metodologías de contratación de personal",
+        "url": "https://www.valoraanalitik.com/magneto-y-colsubsidio-apuestan-por-transformar-los-procesos-de-seleccion-laboral/",
+        "resumen": "La alianza incorpora herramientas de analítica e inteligencia artificial para mejorar la conexión entre las empresas y el talento disponible.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Magneto y Colsubsidio apuestan por transformar los procesos de selección laboral",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Asumen a Lucas Madriñán como la cabeza de RappiPay en Colombia",
+        "url": "https://www.valoraanalitik.com/lucas-madrinan-es-el-nuevo-ceo-de-rappipay-colombia/",
+        "resumen": "La compañía duplicó su base de clientes, al pasar de 350.000 a más de 700.000 usuarios y y superó el billón de pesos en cartera administrada entre RappiCard",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Lucas Madriñán es el nuevo CEO de RappiPay Colombia",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
+      {
+        "titulo": "Apoyo a inversión masiva, IVA al combustible y gravamen al carbono: impactos de la norma de rescate energético",
+        "url": "https://www.valoraanalitik.com/incentivos-a-gran-inversion-iva-a-la-gasolina-e-impuesto-al-carbono-efectos-de-la-ley-de-rescate-en-la-energia/",
+        "resumen": "La gasolina tendría un incremento en el IVA, que pasaría de 5 % a 19 % sobre el precio que recibe el productor.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Incentivos a gran inversión, IVA a la gasolina e impuesto al carbono: efectos de la ley de rescate en la energía",
+        "capturado": "2026-11-03T11:55:29-05:00"
+      },
       {
         "titulo": "Alejandra Zapata deja la presidencia de Coninsa luego de casi cuatro años en el cargo",
         "url": "https://www.valoraanalitik.com/alejandra-zapata-anuncia-su-salida-de-la-presidencia-de-coninsa-tras-casi-cuatro-anos/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Ingresos de Wyndham ascendieron a US$405 millones en el tercer trimestre de 2026: revela proyecciones para cierre de año",
         "capturado": "2026-10-28T18:26:25-05:00"
-      },
-      {
-        "titulo": "Producción carbonera proyecta casi duplicarse hacia 2030 en comparación con 2025",
-        "url": "https://www.valoraanalitik.com/industria-del-carbon-espera-casi-duplicar-su-produccion-a-2030-frente-a-las-cifras-de-2025/",
-        "resumen": "Carlos Cante, presidente de Fenalcarbón, agregó que una de las grandes oportunidades para el sector está en Asia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Industria del carbón espera casi duplicar su producción a 2030 frente a las cifras de 2025",
-        "capturado": "2026-10-28T18:26:25-05:00"
-      },
-      {
-        "titulo": "Apenas un 21 % de compradores permitiría que un agente de IA finalice compras sin aval",
-        "url": "https://www.valoraanalitik.com/compraria-con-inteligencia-artificial-solo-el-21-de-los-consumidores-dejaria-que-un-agente-de-ia-cierre-compras-sin-su-aprobacion/",
-        "resumen": "El estudio examinó qué tan dispuestas están las personas a dejar en manos de agentes de IA tareas como investigar, seleccionar y comprar productos o servicios.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "¿Compraría con inteligencia artificial? Solo el 21 % de los consumidores dejaría que un agente de IA cierre compras sin su aprobación",
-        "capturado": "2026-10-28T18:26:25-05:00"
-      },
-      {
-        "titulo": "Hacia 2027 se daría la escisión entre Argos Latam y Argos Materials con más flota y recursos para plantas",
-        "url": "https://www.valoraanalitik.com/separacion-de-argos-latam-y-argos-materials-se-concretaria-en-2027-empresa-aumentara-flota-e-invertira-en-plantas/",
-        "resumen": "Argos Latam busca seguir rentabilizando su presencia en 15 países de la región, mientras que Argos Materials desarrollará su estrategia hacia Estados Unidos.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Separación de Argos Latam y Argos Materials se concretaría en 2027; empresa aumentará flota e invertirá en plantas",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense sube en Colombia y termina en 3163 pesos por la Fed y el petróleo caro",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-amplia-ganancias-y-cierra-en-3-163-mercado-recibe-decision-de-la-fed-y-alza-de-precios-del-petroleo/",
-        "resumen": "La jornada estuvo determinada por el pronunciamiento del Comité Federal de Mercado Abierto (FOMC) de la FED.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia amplía ganancias y cierra en $3.163: mercado recibe decisión de la FED y alza de precios del petróleo",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Se hunde la iniciativa para quitar cobros en fondos privados luego de la reforma pensional",
-        "url": "https://www.valoraanalitik.com/ahora-se-cae-propuesta-que-buscaba-eliminar-comisiones-de-fondos-privados-tras-reforma-pensional/",
-        "resumen": "En Colombia, el nuevo sistema quedó con unas comisiones para los fondos de pensiones de hasta 0,7 % anual sobre los activos bajo administración.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Se cae propuesta que buscaba eliminar comisiones de fondos privados tras reforma pensional",
-        "capturado": "2026-10-28T14:01:55-05:00"
       }
     ]
   }
