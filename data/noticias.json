@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-02T13:44:23-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-11-02T20:29:24-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Alejandra Zapata deja la presidencia de Coninsa luego de casi cuatro años",
+        "url": "https://www.valoraanalitik.com/alejandra-zapata-anuncia-su-salida-de-la-presidencia-de-coninsa-tras-casi-cuatro-anos/",
+        "resumen": "Alejandra Zapata anunció que cerrará su ciclo como presidenta de Coninsa y compartió los principales resultados de su gestión en la constructora.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Alejandra Zapata anuncia su salida de la presidencia de Coninsa tras casi cuatro años",
+        "capturado": "2026-11-02T20:29:24-05:00"
+      },
+      {
+        "titulo": "Alicorp compra Rama y 18 marcas en gran negocio con Cali como centro regional",
+        "url": "https://www.valoraanalitik.com/alicorp-adquiere-rama-y-otras-18-marcas-en-millonaria-operacion-que-tendra-a-cali-como-eje-regional/",
+        "resumen": "Alicorp compra Rama como parte de una adquisición regional que incluye 19 marcas y una planta en Cali para atender varios mercados latinoamericanos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Alicorp adquiere Rama y otras 18 marcas en millonaria operación que tendrá a Cali como eje regional",
+        "capturado": "2026-11-02T20:29:24-05:00"
+      },
       {
         "titulo": "Norma de salvavidas fiscal propone seguridad en impuestos por 16 años para capitales nuevos",
         "url": "https://www.valoraanalitik.com/ley-de-rescate-fiscal-plantea-estabilidad-tributaria-por-16-anos-para-nuevas-inversiones/",
@@ -583,29 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Congresistas estudiarán ley rescate pero no habría ambiente para nuevos impuestos a la clase media",
         "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Premercado | BNB se derrumba por supuesto ataque a Binance con US$5.300 millones en fondos en riesgo",
-        "url": "https://www.valoraanalitik.com/premercado-bnb-se-desploma-tras-posible-hackeo-a-binance-que-dejaria-us5-300-millones-en-fondos-afectados/",
-        "resumen": "Analistas califican como posiblemente el mayor hackeo a un exchange registrado hasta la fecha.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | BNB se desploma tras posible hackeo a Binance que dejaría US$5.300 millones en fondos afectados",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella integra a un actor muy relevante al debate del salario mínimo en Colombia",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-suma-a-actor-muy-importante-a-la-discusion-del-aumento-del-salario-minimo-en-colombia/",
-        "resumen": "La discusión del salario mínimo en Colombia deberá arrancar desde mediados de noviembre.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella suma a actor muy importante a la discusión del aumento del salario mínimo en Colombia",
-        "capturado": "2026-10-30T10:14:20-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Alejandra Zapata deja la presidencia de Coninsa luego de casi cuatro años en el cargo",
+        "url": "https://www.valoraanalitik.com/alejandra-zapata-anuncia-su-salida-de-la-presidencia-de-coninsa-tras-casi-cuatro-anos/",
+        "resumen": "Alejandra Zapata anunció que cerrará su ciclo como presidenta de Coninsa y compartió los principales resultados de su gestión en la constructora.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Alejandra Zapata anuncia su salida de la presidencia de Coninsa tras casi cuatro años",
+        "capturado": "2026-11-02T20:29:24-05:00"
+      },
+      {
+        "titulo": "Alicorp compra Rama y otras 18 marcas en millonaria transacción centrada en Cali",
+        "url": "https://www.valoraanalitik.com/alicorp-adquiere-rama-y-otras-18-marcas-en-millonaria-operacion-que-tendra-a-cali-como-eje-regional/",
+        "resumen": "Alicorp compra Rama como parte de una adquisición regional que incluye 19 marcas y una planta en Cali para atender varios mercados latinoamericanos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Alicorp adquiere Rama y otras 18 marcas en millonaria operación que tendrá a Cali como eje regional",
+        "capturado": "2026-11-02T20:29:24-05:00"
+      },
       {
         "titulo": "Turismo capilar genera US$4.500 millones y el país busca mayor participación",
         "url": "https://www.valoraanalitik.com/turismo-capilar-mueve-un-mercado-de-us4-500-millones/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "Ahora | Se cae propuesta que buscaba eliminar comisiones de fondos privados tras reforma pensional",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "El nuevo plan de Éxito busca que los clientes vuelvan a adquirir productos sin pagar de más",
-        "url": "https://www.valoraanalitik.com/recuperar-la-ilusion-de-comprar-sin-gastar-de-mas-la-nueva-estrategia-de-exito/",
-        "resumen": "Una mirada al ahorro que combina el gusto por elegir con decisiones de compra más conscientes, la comparación de precios y la administración del presupuesto.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Recuperar la ilusión de comprar sin gastar de más: la nueva estrategia de Éxito",
-        "capturado": "2026-10-28T14:01:55-05:00"
-      },
-      {
-        "titulo": "Arturo Calle destina 2045 millones de pesos para remodelar local en Barranquilla con formato inédito",
-        "url": "https://www.valoraanalitik.com/arturo-calle-invierte-2-045-millones-para-renovar-tienda-en-centro-comercial-de-barranquilla-incorpora-concepto-por-primera-vez-en-el-pais/",
-        "resumen": "Esta reapertura responde a la evolución de marca para proyectar una imagen más moderna y contemporánea.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Arturo Calle invierte $2.045 millones para renovar tienda en centro comercial de Barranquilla: incorpora concepto por primera vez en el país",
         "capturado": "2026-10-28T14:01:55-05:00"
       }
     ]
