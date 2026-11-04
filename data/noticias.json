@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-03T17:14:55-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-03T21:36:43-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Bancóldex emitirá bonos por hasta $5 billones para fomentar la expansión de las empresas",
+        "url": "https://www.valoraanalitik.com/bancoldex-5-billones-bonos-empresas/",
+        "resumen": "Desde 2017, Bancóldex ha emitido $2,1 billones en el mercado de capitales colombiano, en bonos temáticos como verdes, sociales y naranja",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Bancóldex podrá emitir hasta $5 billones en bonos para impulsar el crecimiento empresarial",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "GeoPark aumentó 119,4 % su utilidad de enero a septiembre de 2026 y resaltó llegada a Venezuela",
+        "url": "https://www.valoraanalitik.com/geopark-utilidad-entre-enero-septiembre-2026/",
+        "resumen": "En los primeros nueve meses del año acumuló una utilidad de US$40,8 millones, con una producción promedio de 27.500 boepd.",
+        "autor": "",
+        "subseccion": "Petróleo",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark elevó 119,4 % su utilidad entre enero y septiembre de 2026; destacó ingreso a Venezuela",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Gobierno buscará fondos para el dragado de Barranquilla, Canal del Dique y puente Pumarejo",
+        "url": "https://www.valoraanalitik.com/gobierno-gestionara-recursos-para-dragado-del-puerto-de-barranquilla-y-obras-en-canal-del-dique-y-puente-pumarejo/",
+        "resumen": "El gobierno busca acelerar proyectos para Barranquilla y el Atlántico que tienen distintos niveles de avance.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno gestionará recursos para dragado del puerto de Barranquilla y obras en Canal del Dique y puente Pumarejo",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Carlos Andrés de Hart sale de la puja por la presidencia de la ANDI y critica la elección",
+        "url": "https://www.valoraanalitik.com/carlos-andres-de-hart-retira-carrera-andi/",
+        "resumen": "El empresario señaló que no tuvo contacto con la Junta Directiva como parte del proceso. Advirtió sobre la necesidad de proteger la independencia del gremio.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Carlos Andrés de Hart se retira de la carrera por la presidencia de la ANDI; cuestionó el proceso de selección",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Presidente De la Espriella pide urgencia para priorizar el debate de la Ley de Rescate",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-urgencia-ley-de-rescate/",
+        "resumen": "El mandatario destacó que el proyecto busca corregir el desbalance de las finanzas públicas y plantea medidas para incrementar los ingresos del país.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Presidente De la Espriella envía mensaje de urgencia para dar prioridad a la discusión de la Ley de Rescate",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Aplazan discusión de la iniciativa de adición al presupuesto para 2026: conozca los pormenores",
+        "url": "https://www.valoraanalitik.com/se-suspende-debate-de-proyecto-de-adicion-presupuestal-para-2026-estos-son-los-detalles/",
+        "resumen": "Esto ocurre después de que el ministro de Hacienda, Miguel Gómez, presentara dos propuestas para modificar la política fiscal de 2026.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Se suspende debate de proyecto de adición presupuestal para 2026: estos son los detalles",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "El Dorado proyecta enlazarse al Metro y Regiotram mediante la iniciativa Bogotá Ciudad Aeropuerto",
+        "url": "https://www.valoraanalitik.com/el-dorado-busca-conectarse-con-el-metro-y-regiotram-asi-es-el-megaproyecto-bogota-ciudad-aeropuerto/",
+        "resumen": "Bogotá Ciudad Aeropuerto busca convertir a El Dorado en un motor de inversión, movilidad y desarrollo económico para la capital y los municipios vecinos.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "El Dorado busca conectarse con el Metro y Regiotram: así es el megaproyecto Bogotá Ciudad Aeropuerto",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Cuarenta y dos iniciativas de generación de energía se sumaron a la red nacional entre julio y septiembre",
+        "url": "https://www.valoraanalitik.com/ingresaron-42-proyectos-de-generacion-electrica-al-sistema-colombiano-en-el-tercer-trimestre-la-mayoria-fueron-solares/",
+        "resumen": "En cuanto a los proyectos de transmisión, durante el tercer trimestre de 2026 se declararon cinco iniciativas que se incorporaron al mercado.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ingresaron 42 proyectos de generación eléctrica al sistema colombiano en el tercer trimestre: la mayoría fueron solares",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Colombia presentará temas de comercio e inversión en la Cumbre Iberoamericana en Madrid",
+        "url": "https://www.valoraanalitik.com/colombia-llevara-agenda-de-comercio-e-inversion-a-la-cumbre-iberoamericana-en-madrid/",
+        "resumen": "La agenda contempla encuentros bilaterales con países estratégicos para fortalecer las relaciones diplomáticas e identificar nuevas áreas de cooperación.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Colombia llevará agenda de comercio e inversión a la Cumbre Iberoamericana en Madrid",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Aprobación de la Ley de Sometimiento en riesgo: el Ejecutivo cuenta con menos de un día para salvarla",
+        "url": "https://www.valoraanalitik.com/ley-de-sometimiento-se-juega-su-aprobacion-en-el-congreso-gobierno-tiene-menos-de-24-horas-para-salvarla/",
+        "resumen": "El proyecto establece una oferta unilateral de sometimiento a la Constitución y a la ley para integrantes de organizaciones armadas ilegales.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Ley de Sometimiento se juega su aprobación en el Congreso: Gobierno tiene menos de 24 horas para salvarla",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Aumento de ingresos y ganancias en la Bolsa Mercantil de Colombia a septiembre según la dinámica comercial",
+        "url": "https://www.valoraanalitik.com/ingresos-utilidades-bolsa-mercantil-3t-2026/",
+        "resumen": "De acuerdo con la BMC, Atra-e, su mercado bursátil de facturas, multiplicó por cuatro el valor negociado.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Ingresos y utilidades de la Bolsa Mercantil de Colombia subieron a septiembre; así se movieron los negocios",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Tensión en Medio Oriente impulsó el alza del dólar en Colombia este martes por casi 50 pesos",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-disparo-este-martes-y-subio-casi-50/",
+        "resumen": "El mercado sigue de cerca la ley de rescate económico, las decisiones del Banco de la República y la tensión entre EE. UU. e Irán.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia se disparó este martes y subió casi $50 tras tensiones en Medio Oriente",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
       {
         "titulo": "Multinacional destina más de US$5 millones en Medellín y agranda su capacidad logística en el país",
         "url": "https://www.valoraanalitik.com/multinacional-invierte-mas-de-us5-millones-en-medellin-y-amplia-su-capacidad-logistica-en-colombia/",
@@ -483,129 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Ley de Rescate de De la Espriella: más impuestos a comisionistas y golpe a inversiones de CDT y otros productos",
         "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "María Fernanda Suárez asume como presidenta del Banco de Bogotá en sustitución de Juan Carlos Echeverry",
-        "url": "https://www.valoraanalitik.com/maria-fernanda-suarez-es-la-nueva-presidenta-del-banco-de-bogota-reemplaza-a-juan-carlos-echeverry/",
-        "resumen": "Entre los cargos que ha ocupado se encuentran la Presidencia de Accenture Colombia y el Ministerio de Minas.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "María Fernanda Suárez es la nueva presidenta del Banco de Bogotá: reemplaza a Juan Carlos Echeverry",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "De la Espriella suprimiría exenciones de renta a jueces, magistrados y docentes universitarios",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-eliminaria-exenciones-de-renta-a-magistrados-jueces-y-profesores-universitarios/",
-        "resumen": "Con la eliminación de los beneficios, estos ingresos pasarían a someterse a las reglas generales de depuración de renta.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella eliminaría exenciones de renta a magistrados, jueces y profesores universitarios",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "Alerta | Juan Carlos Echeverry se aparta de la presidencia del Banco de Bogotá",
-        "url": "https://www.valoraanalitik.com/atencion-juan-carlos-echeverry-deja-la-presidencia-del-banco-de-bogota/",
-        "resumen": "La nueva presidenta de la entidad financiera será María Fernanda Suárez.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Juan Carlos Echeverry deja la presidencia del Banco de Bogotá",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "SIC dio luz verde a la fusión entre Grupo Nutresa y Presto sin imponer condiciones",
-        "url": "https://www.valoraanalitik.com/sic-aprobo-integracion-entre-grupo-nutresa-y-presto-operacion-no-tendra-condicionamientos/",
-        "resumen": "La SIC realizó un estudio económico en el que analizó los mercados nacionales de distribución mayorista de alimentos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "SIC aprobó integración entre Grupo Nutresa y Presto: operación no tendrá condicionamientos",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "Intereses de préstamos en Colombia caerán en noviembre de 2026: así variará la tasa de usura",
-        "url": "https://www.valoraanalitik.com/tasa-de-usura-en-colombia-bajara-en-noviembre-de-2026-asi-quedaran-los-intereses-de-los-creditos/",
-        "resumen": "La tasa de usura es el límite máximo de interés que pueden cobrar las entidades financieras por los créditos.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Tasa de usura en Colombia bajará en noviembre de 2026: así quedarán los intereses de los créditos",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "Director del Banco de la República indicó impactos de la ley rescate en el costo de vida: ¿servirá?",
-        "url": "https://www.valoraanalitik.com/gerente-del-banrep-senalo-los-efectos-que-tendria-la-ley-rescate-en-la-inflacion-ayudaria/",
-        "resumen": "El funcionario relacionó el aumento reciente del déficit fiscal con las dificultades del país para alcanzar los objetivos de inflación.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gerente del BanRep señaló los efectos que tendría la ley rescate en la inflación: ¿Ayudaría?",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "Ganancia neta de Grupo Nutresa, propiedad de Gilinski, bajó 60 % a septiembre por costos extraordinarios",
-        "url": "https://www.valoraanalitik.com/utilidad-nutresa-septiembre-2026/",
-        "resumen": "El conglomerado de alimentos destacó que su utilidad ajustada por gastos no recurrentes y diferencias de cambio no realizadas se ubicó en $730.594 millones",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Utilidad neta de Grupo Nutresa, de Gilinski, cayó 60 % a septiembre de este año por gastos no recurrentes",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "Norma de salvamento del gobierno De la Espriella modificaría el salario de muchos empleados: así les repercutiría",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-del-gobierno-de-la-espriella-impactaria-el-sueldo-de-millones-de-trabajadores-asi-los-afectaria/",
-        "resumen": "La ley de rescate propone nuevos aportes a salud según el salario. Un cálculo estima cuánto podría bajar el ingreso mensual de los trabajadores.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Ley de Rescate del gobierno De la Espriella impactaría el sueldo de millones de trabajadores: así los afectaría",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "Gobierno sugiere elevar cotizaciones a salud y parafiscales para empleados con más de 2 salarios mínimos",
-        "url": "https://www.valoraanalitik.com/gobierno-propone-aumentar-aportes-a-salud-y-parafiscales-para-trabajadores-que-ganen-mas-de-2-salarios-minimos/",
-        "resumen": "La reorganización también incluye la cotización patronal al sistema de salud, cuya tarifa ordinaria es del 8,5 % y está a cargo del empleador.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno propone aumentar aportes a salud y parafiscales para trabajadores que ganen más de 2 salarios mínimos",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio subió $25 y terminó la semana arriba de $3.190 tras presentación de reforma tributaria",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-subio-25-y-cerro-la-semana-por-encima-de-3-190-tras-radicacion-de-reforma-tributaria/",
-        "resumen": "El mercado estaba a la espera de la decisión del Banco de la República que decidió mantener inalterados los tipos en 12,25 %.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia subió $25 y cerró la semana por encima de $3.190 tras radicación de reforma tributaria",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "Importante | Emisor adquirirá del Ejecutivo US$2.000 millones en lo que resta de 2026: Villar",
-        "url": "https://www.valoraanalitik.com/relevante-banco-de-la-republica-le-comprara-al-gobierno-us2-000-millones-en-lo-que-resta-de-2026-villar/",
-        "resumen": "Leonardo Villar, gerente del emisor, al asegura que la compra se ralizará en lo que resta del 2026 y a la TRM vigente el día de la operación.",
-        "autor": "",
-        "subseccion": "Monedas",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Banco de la República le comprará al Gobierno US$2.000 millones en lo que resta de 2026: Villar",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "Alerta | Emisor conserva los tipos de interés en 12,25 %",
-        "url": "https://www.valoraanalitik.com/atencion-banco-de-la-republica-mantiene-las-tasas-de-interes-en-1225/",
-        "resumen": "El gerente del Banco de la República, Leonardo Villar, confirmó este viernes que las tasas de interés en Colombia se mantendrán inalteradas en 12,25 %.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Banco de la República mantiene las tasas de interés en 12,25 %",
-        "capturado": "2026-10-30T15:02:15-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Las ganancias de GeoPark subieron 119,4 % de enero a septiembre de 2026 y resaltó su llegada a Venezuela",
+        "url": "https://www.valoraanalitik.com/geopark-utilidad-entre-enero-septiembre-2026/",
+        "resumen": "En los primeros nueve meses del año acumuló una utilidad de US$40,8 millones, con una producción promedio de 27.500 boepd.",
+        "autor": "",
+        "subseccion": "Petróleo",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark elevó 119,4 % su utilidad entre enero y septiembre de 2026; destacó ingreso a Venezuela",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Arranca el II Salón Colombia Itaú en la Feria del Millón para apoyar creadores nuevos de toda la nación",
+        "url": "https://www.valoraanalitik.com/llega-el-ii-salon-colombia-itau-a-la-feria-del-millon/",
+        "resumen": "Participarán cerca de 140 artistas con más de 7.500 obras, consolidando el evento como uno de los principales escenarios del arte emergente en Colombia.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Llega el II Salón Colombia Itaú a la Feria del Millón para impulsar a artistas emergentes de todos los departamentos del país",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
+      {
+        "titulo": "Carlos Andrés de Hart sale de la puja por la dirección de la ANDI y criticó la forma de elección",
+        "url": "https://www.valoraanalitik.com/carlos-andres-de-hart-retira-carrera-andi/",
+        "resumen": "El empresario señaló que no tuvo contacto con la Junta Directiva como parte del proceso. Advirtió sobre la necesidad de proteger la independencia del gremio.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Carlos Andrés de Hart se retira de la carrera por la presidencia de la ANDI; cuestionó el proceso de selección",
+        "capturado": "2026-11-03T21:36:43-05:00"
+      },
       {
         "titulo": "Aplazan discusión de la iniciativa de presupuesto adicional para 2026: conozca los pormenores",
         "url": "https://www.valoraanalitik.com/se-suspende-debate-de-proyecto-de-adicion-presupuestal-para-2026-estos-son-los-detalles/",
@@ -1174,36 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Chevron planea invertir más de US$100 millones en Colombia y espera alcanzar 200 estaciones de servicio",
-        "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Luz Stella Murgas aspira a convertirse en la primera mujer en liderar la agremiación ANDI",
-        "url": "https://www.valoraanalitik.com/luz-stella-murgas-la-dirigente-gremial-que-busca-ser-la-primera-mujer-que-preside-la-andi/",
-        "resumen": "Murgas cuenta con una trayectoria de más de 20 años vinculada a los sectores de energía, gas y minería en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Luz Stella Murgas, la dirigente gremial que busca ser la primera mujer que preside la ANDI",
-        "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Trayectoria gremial y acuerdos comerciales marcan el camino de Juan Camilo Nariño hacia la ANDI",
-        "url": "https://www.valoraanalitik.com/juan-camilo-narino-experiencia-gremial-y-negociaciones-comerciales-en-la-carrera-por-la-andi/",
-        "resumen": "De los acuerdos comerciales a la minería: el recorrido de Juan Camilo Nariño, candidato a la ANDI.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Juan Camilo Nariño: experiencia gremial y negociaciones comerciales en la carrera por la ANDI",
-        "capturado": "2026-10-29T16:41:25-05:00"
-      },
-      {
-        "titulo": "Pandora transforma Halloween en tendencia de moda al lanzar su nueva colección de charms",
-        "url": "https://www.valoraanalitik.com/pandora-convierte-halloween-en-una-declaracion-de-estilo-presenta-seleccion-de-charms/",
-        "resumen": "Llevados juntos o por separado, estos charms de Pandora permiten crear distintas historias.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pandora convierte Halloween en una declaración de estilo: presenta selección de charms",
         "capturado": "2026-10-29T16:41:25-05:00"
       }
     ]
