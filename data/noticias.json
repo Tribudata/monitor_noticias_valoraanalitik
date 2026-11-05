@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-05T02:14:22-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-05T10:42:58-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Qatar Airways completó su vuelo inicial en el país: los pormenores del trayecto",
+        "url": "https://www.valoraanalitik.com/qatar-airways-ya-realizo-su-primer-vuelo-en-colombia-los-detalles-de-la-nueva-ruta/",
+        "resumen": "Qatar Airways inició operaciones en Colombia con dos vuelos semanales. La ruta conecta a Bogotá con Doha y amplía las opciones hacia Asia y Oceanía.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Qatar Airways ya realizó su primer vuelo en Colombia: los detalles de la nueva ruta",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "Revolut crece en el territorio con nuevo capital; su avalúo pasa de US$115.000 millones",
+        "url": "https://www.valoraanalitik.com/revolut-el-nuevo-banco-en-colombia-avanza-en-su-expansion-con-nuevo-fondeo-valoracion-supera-us115-000-millones/",
+        "resumen": "El crecimiento internacional de Revolut está respaldado por sus resultados financieros. En 2025, los ingresos de la compañía aumentaron 46 %.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Revolut, el nuevo banco en Colombia, avanza en su expansión con nuevo fondeo; valoración supera US$115.000 millones",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "La escuadra de Portugal dejará de percibir casi 100 millones de euros por la salida de Cristiano Ronaldo",
+        "url": "https://www.valoraanalitik.com/la-seleccion-de-portugal-perdera-casi-100-millones-de-euros-con-la-renuncia-de-cristiano-ronaldo/",
+        "resumen": "Cristiano Ronaldo apalanca millones en patrocinios, eventos, transmisiones y ventas de camisetas",
+        "autor": "",
+        "subseccion": "Futbol internacional",
+        "publicacion": "",
+        "titulo_fuente": "La Selección de Portugal perderá casi 100 millones de euros con la renuncia de Cristiano Ronaldo",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "Tecnoglass informó ventas récord al tercer trimestre y prevé rebasar US$1.100 millones para 2026",
+        "url": "https://www.valoraanalitik.com/tecnoglass-ingresos-record-3t-2026/",
+        "resumen": "La compañía barranquillera mejoró su perspectiva de ingresos y Ebitda para el cierre de este año, gracias a la cartera de pedidos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Tecnoglass reportó ingresos récord en tercer trimestre y proyecta superar US$1.100 millones en todo 2026",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia inicia con ligera caída tras recientes previsiones de precios del BanRep",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-con-leve-baja-tras-nuevos-pronosticos-de-inflacion-del-banrep/",
+        "resumen": "Esto es lo que mueve al dólar en Colombia al arranque de la jornada.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre con leve baja tras nuevos pronósticos de inflación del BanRep",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "Tributaria de De la Espriella elevaría gastos corporativos y afectaría nuevas vinculaciones laborales",
+        "url": "https://www.valoraanalitik.com/reforma-tributaria-de-de-la-espriella-dispararia-costos-empresariales-y-pondria-en-jaque-nuevas-contrataciones/",
+        "resumen": "MiPymes alertan por cambios en aportes, advierten presión sobre costos y empleo formal.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Reforma tributaria de De la Espriella dispararía costos empresariales y pondría en jaque nuevas contrataciones",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella ratifica la llegada de otro delegado para la negociación salarial 2027",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confirma-que-se-suma-otro-negociador-dentro-del-salario-minimo-de-colombia-del-2027/",
+        "resumen": "Las propuestas iniciales para el aumento del salario mínimo de Colombia del 2027 parecieran estar alejadas.",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella confirma que se suma otro negociador para el salario mínimo de Colombia del 2027",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "Incidentes en El Dorado: operadores detallan motivos y alertan peligros por retrasos tecnológicos",
+        "url": "https://www.valoraanalitik.com/fallas-en-aeropuerto-el-dorado-controladores-explican-que-ocurrio-y-advierten-riesgos-por-falta-de-modernizacion/",
+        "resumen": "Las fallas obligaron a reducir el tráfico aéreo en El Dorado. Controladores aseguran que existen protocolos para atender estas contingencias.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Fallas en aeropuerto El Dorado: controladores explican qué ocurrió y advierten riesgos por falta de modernización",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "La fintech Plurall lanzó una línea crediticia para unir las microfinanzas al mercado bursátil",
+        "url": "https://www.valoraanalitik.com/fintech-plurall-fabrica-de-creditos/",
+        "resumen": "La firma ya realizó la primera venta de cartera de microcréditos a inversionistas institucionales. Apunta a lograr US$35 millones en 2027.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "La fintech Plurall creó una “fábrica de créditos” para conectar las microfinanzas con el mercado de capitales",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "Premercado | Mercados mixtos tras caída tecnológica y potencial distensión bélica entre Irán y EE. UU.",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-mixtas-tras-desplome-tecnologico-y-posible-desescalada-de-la-guerra-entre-iran-y-ee-uu/",
+        "resumen": "Los inversores interpretaron el resultado electoral de EE. UU. como un posible aumento de la probabilidad de una desescalada.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas mixtas tras desplome tecnológico y posible desescalada de la guerra entre Irán y EE. UU.",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "¿Qué monto persigue captar la administración De la Espriella mediante la Ley Rescate y su base de discusión?",
+        "url": "https://www.valoraanalitik.com/cuanta-plata-necesita-recaudar-el-gobierno-de-la-espriella-con-la-ley-rescate-esto-seria-lo-minimo-a-negociar/",
+        "resumen": "De acuerdo con el gobierno De la Espriella, la Ley Rescate debería aprobarse antes de que termine este año.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "¿Cuánta plata necesita recaudar el gobierno De la Espriella con la Ley Rescate?: Esto sería lo mínimo a negociar",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
       {
         "titulo": "El costo de vida en Colombia cerrará 2026 sobre lo estimado y la economía avanzará menos, según el BanRep",
         "url": "https://www.valoraanalitik.com/inflacion-en-colombia-terminaria-mas-arriba-de-lo-previsto-en-2026-y-pib-crecera-menos-de-lo-proyectado-dice-informe-del-banrep/",
@@ -493,119 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Alicorp adquiere Rama y otras 18 marcas en millonaria operación que tendrá a Cali como eje regional",
         "capturado": "2026-11-02T20:29:24-05:00"
-      },
-      {
-        "titulo": "Norma de salvavidas fiscal propone seguridad en impuestos por 16 años para capitales nuevos",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-fiscal-plantea-estabilidad-tributaria-por-16-anos-para-nuevas-inversiones/",
-        "resumen": "El RUGE contempla una tarifa de renta de 20 % para proyectos que comiencen su ejecución en 2027 y 2028.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ley de rescate fiscal plantea estabilidad tributaria por 16 años para nuevas inversiones",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Entrevista | Constructora Camu prevé alza inmobiliaria en Colombia en 2027 y expone metas",
-        "url": "https://www.valoraanalitik.com/entrevista-constructora-camu-anticipa-crecimiento-de-vivienda-en-colombia-en-2027-y-revela-prioridades/",
-        "resumen": "Su gerente general conversó con Valora Analitik sobre las señales de recuperación que están viendo para el sector en el Gobierno De la Espriella.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Constructora Camu anticipa crecimiento de vivienda en Colombia en 2027 y revela prioridades",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Matrícula de motocicletas nuevas en Colombia subió casi 25 % en octubre de 2026 y marcas dominan",
-        "url": "https://www.valoraanalitik.com/venta-de-motos-nuevas-en-colombia-crecio-casi-25-en-octubre-de-2026-estas-fueron-las-marcas-lideres/",
-        "resumen": "La venta de motos nuevas en Colombia mantuvo su crecimiento en octubre de 2026, aunque registró una caída frente a septiembre.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Venta de motos nuevas en Colombia creció casi 25 % en octubre de 2026: estas fueron las marcas líderes",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Locales de comida en Colombia afrontan crisis: clausuras pasarían de 6.500 y avisan por tributos",
-        "url": "https://www.valoraanalitik.com/restaurantes-en-colombia-enfrentan-crisis-cierres-superarian-los-6-500-y-alertan-por-nuevos-impuestos/",
-        "resumen": "La discusión tributaria abre un nuevo frente de incertidumbre para los empresarios gastronómicos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Restaurantes en Colombia enfrentan crisis: cierres superarían los 6.500 y alertan por nuevos impuestos",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "GeoPark formaliza su llegada a Venezuela y Grupo Gilinski asume el mando de la petrolera",
-        "url": "https://www.valoraanalitik.com/geopark-concreta-su-entrada-a-venezuela-y-grupo-gilinski-toma-el-control-de-la-petrolera/",
-        "resumen": "Grupo Gilinski tendrá el 56,3 % de GeoPark, que activó un contrato petrolero por 25 años en Venezuela y prepara el inicio de operaciones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark concreta su entrada a Venezuela y Grupo Gilinski toma el control de la petrolera",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella prepara profunda transformación al pase nacional de conducción",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-buscara-radical-cambio-a-la-licencia-de-conduccion-en-colombia-se-perderia-por-puntos/",
-        "resumen": "La propuesta sobre modificar la licencia de conducción en Colombia surge de una conversación con la ciudadanía, dijo el Gobierno.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella buscará radical cambio a la licencia de conducción en Colombia: Se perdería por puntos",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Entrevista sobre el desarrollo de Territorio Panaca, iniciativa turística de un billón de pesos",
-        "url": "https://www.valoraanalitik.com/entrevista-asi-avanza-territorio-panaca-el-megaproyecto-turistico-de-1-billon-que-es-unico-en-colombia-y-que-estara-en-la-milagro-week/",
-        "resumen": "Lucas Naranjo, gerente de Perfek, la constructora encargada del megaproyecto, habló con Valora Analitik sobre el avance de Territorio Panaca.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Así avanza Territorio Panaca, el megaproyecto turístico de $1 billón que es único en Colombia y que estará en la Milagro Week",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella anuncia alza del IVA a alimentos y café con esquema de devolución",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confirma-que-subira-iva-al-cafe-y-otros-alimentos-pero-explica-como-devolvera-ese-pago-a-millones-de-colombianos/",
-        "resumen": "El gobierno De la Espriella explica lo que viene para el cobro del IVA en Colombia con la Ley Rescate",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella confirma que subirá IVA al café y otros alimentos, pero explica cómo devolverá ese pago a millones de colombianos",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Su familia confirmó el deceso del exparlamentario Antonio Navarro Wolff",
-        "url": "https://www.valoraanalitik.com/fallecio-el-exsenador-antonio-navarro-wolff-confirmo-su-familia/",
-        "resumen": "Antonio Navarro Wolff fue gobernador de Nariño.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Falleció el exsenador Antonio Navarro Wolff, confirmó su familia",
-        "capturado": "2026-11-01T20:24:10-05:00"
-      },
-      {
-        "titulo": "Las ventas de Tesla en el país ya superan a las de autos tradicionales de Renault, Kia y Mazda",
-        "url": "https://www.valoraanalitik.com/tesla-en-colombia-ya-supera-en-ventas-a-modelos-muy-reconocidos-de-renault-kia-y-mazda/",
-        "resumen": "Tesla también está en el Top 6 de carros más vendidos en Colombia en todas las categorías.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tesla en Colombia ya supera en ventas a modelos muy reconocidos de Renault, Kia y Mazda",
-        "capturado": "2026-11-01T20:24:10-05:00"
-      },
-      {
-        "titulo": "Asi funcionara la gran obra de purificacion del rio Bogota que afectara a ochenta localidades nacionales",
-        "url": "https://www.valoraanalitik.com/asi-sera-la-megaobra-para-descontaminar-el-rio-bogota-que-impactaria-a-80-municipios-del-pais/",
-        "resumen": "Tras 30 años de espera, la megaobra para recuperar el río Bogotá entra en una nueva etapa y podría beneficiar a 9,6 millones de personas.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Así será la megaobra para descontaminar el río Bogotá que impactaría a 80 municipios del país",
-        "capturado": "2026-11-01T16:53:35-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Qatar Airways completó su vuelo inaugural en Colombia y se conocen los pormenores del nuevo trayecto",
+        "url": "https://www.valoraanalitik.com/qatar-airways-ya-realizo-su-primer-vuelo-en-colombia-los-detalles-de-la-nueva-ruta/",
+        "resumen": "Qatar Airways inició operaciones en Colombia con dos vuelos semanales. La ruta conecta a Bogotá con Doha y amplía las opciones hacia Asia y Oceanía.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Qatar Airways ya realizó su primer vuelo en Colombia: los detalles de la nueva ruta",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "De qué forma se fondea un sistema energético colombiano más robusto y variado",
+        "url": "https://www.valoraanalitik.com/como-se-financia-una-matriz-energetica-mas-fuerte-y-diversa-en-colombia/",
+        "resumen": "Cuatro iniciativas muestran cómo la financiación y la estructuración especializada pueden convertir estos objetivos en infraestructura concreta.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Cómo se financia una matriz energética más fuerte y diversa en Colombia",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "Tecnoglass registró ventas récord al tercer trimestre y prevé rebasar los US$1.100 millones al finalizar 2026",
+        "url": "https://www.valoraanalitik.com/tecnoglass-ingresos-record-3t-2026/",
+        "resumen": "La compañía barranquillera mejoró su perspectiva de ingresos y Ebitda para el cierre de este año, gracias a la cartera de pedidos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Tecnoglass reportó ingresos récord en tercer trimestre y proyecta superar US$1.100 millones en todo 2026",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "Reforma tributaria de De la Espriella elevaría gastos corporativos y afectaría las nuevas contrataciones",
+        "url": "https://www.valoraanalitik.com/reforma-tributaria-de-de-la-espriella-dispararia-costos-empresariales-y-pondria-en-jaque-nuevas-contrataciones/",
+        "resumen": "MiPymes alertan por cambios en aportes, advierten presión sobre costos y empleo formal.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Reforma tributaria de De la Espriella dispararía costos empresariales y pondría en jaque nuevas contrataciones",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
+      {
+        "titulo": "Aprendizajes del aguacate Hass a partir de otros rubros compartidos en Territorio Aguacate 2026",
+        "url": "https://www.valoraanalitik.com/lo-que-puede-aprender-el-aguacate-hass-de-otros-sectores-lecciones-que-dejan-en-territorio-aguacate-2026/",
+        "resumen": "El mercado nacional puede convertirse en un complemento importante para el crecimiento de una agroindustria.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Lo que puede aprender el aguacate Hass de otros sectores: lecciones que dejan en Territorio Aguacate 2026",
+        "capturado": "2026-11-05T10:42:58-05:00"
+      },
       {
         "titulo": "Pactia bajó su pasivo en 45 % tras vender los centros comerciales Gran Plaza en el país",
         "url": "https://www.valoraanalitik.com/pactia-redujo-su-deuda-un-45-tras-la-venta-de-los-centros-comerciales-gran-plaza-en-colombia/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "SIC aprobó integración entre Grupo Nutresa y Presto: operación no tendrá condicionamientos",
         "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "A septiembre de este año, la utilidad neta de Grupo Nutresa, propiedad de Gilinski, bajó un 60 % por gastos extraordinarios",
-        "url": "https://www.valoraanalitik.com/utilidad-nutresa-septiembre-2026/",
-        "resumen": "El conglomerado de alimentos destacó que su utilidad ajustada por gastos no recurrentes y diferencias de cambio no realizadas se ubicó en $730.594 millones",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Utilidad neta de Grupo Nutresa, de Gilinski, cayó 60 % a septiembre de este año por gastos no recurrentes",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "El salario de millones de empleados se vería afectado por la Ley de Rescate del gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-del-gobierno-de-la-espriella-impactaria-el-sueldo-de-millones-de-trabajadores-asi-los-afectaria/",
-        "resumen": "La ley de rescate propone nuevos aportes a salud según el salario. Un cálculo estima cuánto podría bajar el ingreso mensual de los trabajadores.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Ley de Rescate del gobierno De la Espriella impactaría el sueldo de millones de trabajadores: así los afectaría",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "Este programa otorga subsidios a compañías que contraten y ya vinculó a más de 1.000 mujeres en Antioquia",
-        "url": "https://www.valoraanalitik.com/mas-de-1-000-mujeres-en-antioquia-han-conseguido-empleo-con-este-programa-ofrece-incentivos-a-empresas-que-contraten/",
-        "resumen": "Incentivos equivalentes al 100 % de los aportes a seguridad social y parafiscales a cargo del empleador por cada nuevo empleo generado para una mujer.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Más de 1.000 mujeres en Antioquia han conseguido empleo con este programa: ofrece incentivos a empresas que contraten",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "AIG finaliza la adquisición de la aseguradora Everest en Colombia y progresa en su crecimiento regional",
-        "url": "https://www.valoraanalitik.com/aig-concreta-compra-de-aseguradora-everest-en-colombia-y-avanza-en-expansion-regional/",
-        "resumen": "La compañía también acordó adquirir las operaciones de Everest en Chile, en una transacción que espera cerrar durante el primer semestre de 2027.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "AIG concreta compra de aseguradora Everest en Colombia y avanza en expansión regional",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "Proyecto de rescate implicaría que más clase media declare renta y una menor tarifa para las empresas",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-mas-colombianos-de-clase-media-tendria-que-pagar-renta-y-tarifa-de-empresas-se-reduciria/",
-        "resumen": "Para las personas naturales, se pretende reducir la base gravable para que quienes ganen poco más de $70 millones anuales tengan que declarar renta.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Ley de rescate: más colombianos de clase media tendrían que pagar renta y tarifa de empresas se reduciría",
-        "capturado": "2026-10-30T15:02:15-05:00"
       }
     ]
   }
