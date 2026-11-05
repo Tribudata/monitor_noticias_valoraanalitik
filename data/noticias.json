@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-04T19:15:17-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-11-05T02:14:22-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El costo de vida en Colombia cerrará 2026 sobre lo estimado y la economía avanzará menos, según el BanRep",
+        "url": "https://www.valoraanalitik.com/inflacion-en-colombia-terminaria-mas-arriba-de-lo-previsto-en-2026-y-pib-crecera-menos-de-lo-proyectado-dice-informe-del-banrep/",
+        "resumen": "Las nuevas previsiones representan un ajuste frente a las estimaciones presentadas durante el segundo trimestre del año.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Inflación en Colombia terminaría más arriba de lo previsto en 2026 y PIB crecerá menos de lo proyectado, dice informe del BanRep",
+        "capturado": "2026-11-05T02:14:22-05:00"
+      },
+      {
+        "titulo": "EPS Sanitas implementa modificación central para usuarios en Bogotá y ya entró en vigencia",
+        "url": "https://www.valoraanalitik.com/eps-sanitas-anuncia-cambio-clave-para-sus-afiliados-en-bogota-ya-empezo-a-regir/",
+        "resumen": "Miles de usuarios de Sanitas deben tener en cuenta un ajuste en la entrega de medicamentos. La EPS explicó qué deben hacer para evitar contratiempos.",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "EPS Sanitas anuncia cambio clave para sus afiliados en Bogotá: ya empezó a regir",
+        "capturado": "2026-11-05T02:14:22-05:00"
+      },
+      {
+        "titulo": "Elección del líder de la ANDI llega a dos aspirantes tras descartar otros y estas son sus visiones",
+        "url": "https://www.valoraanalitik.com/asi-avanza-la-eleccion-del-presidente-de-la-andi-solo-quedan-dos-candidatos-y-estas-son-sus-perspectivas/",
+        "resumen": "Los candidatos explicaron sus propuestas y lo que impulsarán en su posible elección como presidente de la ANDI.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Así avanza la elección del presidente de la ANDI: solo quedan dos candidatos y estas son sus perspectivas",
+        "capturado": "2026-11-05T02:14:22-05:00"
+      },
+      {
+        "titulo": "Colsubsidio activa giros instantáneos de subsidios en el país mediante la red Bre-B",
+        "url": "https://www.valoraanalitik.com/subsidios-colombia-bre-b-colsubsidio/",
+        "resumen": "La caja de compensación y Redeban sellaron una alianza para que más de 408.000 afiliados transfieran su cuota monetaria a sus cuentas con este sistema.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Subsidios en Colombia ya se pueden transferir por Bre-B; Colsubsidio habilitó pagos inmediatos",
+        "capturado": "2026-11-05T02:14:22-05:00"
+      },
       {
         "titulo": "Corte Suprema aclara cuándo el divorcio no frena la pensión de sobrevivientes",
         "url": "https://www.valoraanalitik.com/sustitucion-pensional-corte-suprema-explica-cuando-una-separacion-no-impide-reclamar-la-mesada/",
@@ -563,49 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Así será la megaobra para descontaminar el río Bogotá que impactaría a 80 municipios del país",
         "capturado": "2026-11-01T16:53:35-05:00"
-      },
-      {
-        "titulo": "Entrevista | Emisor posee escaso espacio para variar tipos de interes sin el respaldo fiscal",
-        "url": "https://www.valoraanalitik.com/banco-republica-margen-tasas-apoyo-fiscal/",
-        "resumen": "Liliana Rojas, una de las economistas más destacadas de Perú, analizó la economía colombiana para Valora Analitik.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Banco de la República tiene poco margen para mover las tasas de interés sin apoyo fiscal",
-        "capturado": "2026-11-01T16:53:35-05:00"
-      },
-      {
-        "titulo": "FBI acusa a Corea del Norte por hurto de 6300 millones de dolares en criptoactivos a Binance",
-        "url": "https://www.valoraanalitik.com/fbi-responsabiliza-a-corea-del-norte-por-robo-de-us6-300-millones-en-criptomonedas-a-binance/",
-        "resumen": "El FBI atribuyó a Corea del Norte el robo de criptomonedas a Binance, considerado el mayor registrado contra una plataforma de intercambio de estos activos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "FBI responsabiliza a Corea del Norte por robo de US$6.300 millones en criptomonedas a Binance",
-        "capturado": "2026-11-01T16:53:35-05:00"
-      },
-      {
-        "titulo": "Se acerca la Feria del Automovil 2026 en Corferias y estas son las fechas",
-        "url": "https://www.valoraanalitik.com/fechas-salon-automovil-corferias-2026-carro/",
-        "resumen": "Más de 70 marcas y más de 600 vehículos en exhibición harán parte de uno de los principales encuentros comerciales del sector automotor colombiano.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Llega el Salón del Automóvil 2026 a Corferias: estas son las fechas",
-        "capturado": "2026-11-01T16:53:35-05:00"
-      },
-      {
-        "titulo": "Aumento cercano al 40 % en matrículas de vehículos nuevos a octubre en Colombia por impulso eléctrico",
-        "url": "https://www.valoraanalitik.com/venta-de-carros-nuevos-en-colombia-crecio-casi-40-a-octubre-electricos-siguen-jalonando-con-fuerza/",
-        "resumen": "Solo octubre registró 32.175 carros nuevos, un crecimiento del 27,4 %",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Venta de carros nuevos en Colombia creció casi 40 % a octubre: Eléctricos siguen jalonando con fuerza",
-        "capturado": "2026-11-01T12:53:44-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Pactia bajó su pasivo en 45 % tras vender los centros comerciales Gran Plaza en el país",
+        "url": "https://www.valoraanalitik.com/pactia-redujo-su-deuda-un-45-tras-la-venta-de-los-centros-comerciales-gran-plaza-en-colombia/",
+        "resumen": "Uno de los principales efectos de la operación se evidencia en la reducción de sus obligaciones financieras.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pactia redujo su deuda un 45 % tras la venta de los centros comerciales Gran Plaza en Colombia",
+        "capturado": "2026-11-05T02:14:22-05:00"
+      },
+      {
+        "titulo": "EPS Sanitas comunica modificación central para usuarios en Bogotá y ya entró en vigor",
+        "url": "https://www.valoraanalitik.com/eps-sanitas-anuncia-cambio-clave-para-sus-afiliados-en-bogota-ya-empezo-a-regir/",
+        "resumen": "Miles de usuarios de Sanitas deben tener en cuenta un ajuste en la entrega de medicamentos. La EPS explicó qué deben hacer para evitar contratiempos.",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "EPS Sanitas anuncia cambio clave para sus afiliados en Bogotá: ya empezó a regir",
+        "capturado": "2026-11-05T02:14:22-05:00"
+      },
+      {
+        "titulo": "Elección del líder de la ANDI sigue con dos aspirantes y estas son sus visiones",
+        "url": "https://www.valoraanalitik.com/asi-avanza-la-eleccion-del-presidente-de-la-andi-solo-quedan-dos-candidatos-y-estas-son-sus-perspectivas/",
+        "resumen": "Los candidatos explicaron sus propuestas y lo que impulsarán en su posible elección como presidente de la ANDI.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Así avanza la elección del presidente de la ANDI: solo quedan dos candidatos y estas son sus perspectivas",
+        "capturado": "2026-11-05T02:14:22-05:00"
+      },
+      {
+        "titulo": "Colsubsidio activó giros inmediatos y ahora los subsidios se pasan por Bre-B",
+        "url": "https://www.valoraanalitik.com/subsidios-colombia-bre-b-colsubsidio/",
+        "resumen": "La caja de compensación y Redeban sellaron una alianza para que más de 408.000 afiliados transfieran su cuota monetaria a sus cuentas con este sistema.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Subsidios en Colombia ya se pueden transferir por Bre-B; Colsubsidio habilitó pagos inmediatos",
+        "capturado": "2026-11-05T02:14:22-05:00"
+      },
       {
         "titulo": "El auge global del comercio de aguacate Hass da opciones a Colombia como productor y hay puntos clave",
         "url": "https://www.valoraanalitik.com/crecimiento-del-comercio-mundial-de-aguacate-hass-abre-oportunidades-a-colombia-como-productor-factores-para-tener-en-cuenta/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Ley de rescate: más colombianos de clase media tendrían que pagar renta y tarifa de empresas se reduciría",
         "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "El desempleo nacional disminuyó ligeramente en septiembre, pero aumentó en las ciudades principales",
-        "url": "https://www.valoraanalitik.com/desempleo-en-colombia-bajo-levemente-en-septiembre-pero-subio-en-las-principales-ciudades/",
-        "resumen": "El panorama laboral tuvo un comportamiento diferente en las 13 principales ciudades y áreas metropolitanas del país.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Desempleo en Colombia bajó levemente en septiembre, pero subió en las principales ciudades",
-        "capturado": "2026-10-30T15:02:15-05:00"
-      },
-      {
-        "titulo": "Luz Stella Murgas, Juan Camilo Nariño y Carlos de Hart son los finalistas a la presidencia de la ANDI",
-        "url": "https://www.valoraanalitik.com/luz-stella-murgas-juan-camilo-narino-y-carlos-de-hart-los-finalistas-para-ser-nuevo-presidente-de-la-andi/",
-        "resumen": "Queda por fuera Nicolás Uribe, expresidente de la Cámara de Comercio de Bogotá, y previamente se había retirado el excanciller Jaime Bermúdez.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Luz Stella Murgas, Juan Camilo Nariño y Carlos de Hart: los finalistas para ser nuevo presidente de la ANDI",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "Congresistas analizarán ley de rescate sin ambiente para nuevos tributos a la clase media",
-        "url": "https://www.valoraanalitik.com/congresistas-estudiaran-ley-rescate-pero-no-habria-ambiente-para-nuevos-impuestos-a-la-clase-media/",
-        "resumen": "Proyecto de ley de rescate fiscal deberá superar cuatro debates en el Congreso para implementarse",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Congresistas estudiarán ley rescate pero no habría ambiente para nuevos impuestos a la clase media",
-        "capturado": "2026-10-30T10:14:20-05:00"
-      },
-      {
-        "titulo": "De la Espriella sugiere recortar impuesto corporativo a la renta y quitar gravamen a plásticos de uso único",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-propone-bajar-impuesto-de-renta-a-empresas-y-eliminar-gravamen-a-plasticos-de-un-solo-uso/",
-        "resumen": "El Ejecutivo sustentó que busca disminuir la carga tributaria de las empresas y mejorar la competitividad.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella propone bajar impuesto de renta a empresas y eliminar gravamen a plásticos de un solo uso",
-        "capturado": "2026-10-29T20:46:15-05:00"
       }
     ]
   }
