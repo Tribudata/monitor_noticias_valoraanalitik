@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-05T10:42:58-05:00",
-  "nuevos_en_esta_corrida": 16,
+  "actualizado": "2026-11-05T16:51:29-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Administración De la Espriella prevé un billón de pesos para actualizar la red de aeropuertos",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-proyecta-inversion-de-1-billon-para-modernizar-infraestructura-aeronautica/",
+        "resumen": "Tras la falla que afectó los vuelos en El Dorado, el gobierno De la Espriella proyecta invertir $1 billón en radares, comunicaciones y tecnología aérea.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella proyecta inversión de $1 billón para modernizar infraestructura aeronáutica",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
+      {
+        "titulo": "Patria destina más de nueve mil millones de dólares al país y proyecta nuevos capitales al 2027",
+        "url": "https://www.valoraanalitik.com/entrevista-patria-apuesta-por-colombia-mas-de-us9-000-millones-invertidos-y-nuevas-oportunidades-de-capital-hacia-2027/",
+        "resumen": "El nuevo CEO de Patria destaca que los inversionistas internacionales continúan viendo a Colombia como uno de los mercados más atractivos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Patria apuesta por Colombia: más de US$9.000 millones invertidos y nuevas oportunidades de capital hacia 2027",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
+      {
+        "titulo": "Nueva directriz de la DIAN exige mayor reporte de datos en préstamos a personas y entidades",
+        "url": "https://www.valoraanalitik.com/nueva-resolucion-de-la-dian-pone-la-lupa-sobre-los-prestamos-entidades-y-personas-deberan-reportar-mas-informacion/",
+        "resumen": "Los préstamos entre personas y entidades tendrán nuevos controles de información. La DIAN conocerá más detalles sobre las deudas y los pagos pendientes.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "Nueva resolución de la DIAN pone la lupa sobre los préstamos: entidades y personas deberán reportar más información",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
+      {
+        "titulo": "Tributo al patrimonio cambiaría de umbral y eximiría a ciertos contribuyentes según De la Espriella",
+        "url": "https://www.valoraanalitik.com/impuesto-al-patrimonio-tendria-nuevo-limite-quienes-dejarian-de-pagarlo-con-de-la-espriella/",
+        "resumen": "El Gobierno de De la Espriella busca reducir el grupo de colombianos que paga impuesto al patrimonio. Estos son los cambios que propone.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Impuesto al patrimonio tendría nuevo límite: quiénes dejarían de pagarlo con De la Espriella",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
+      {
+        "titulo": "Causas de la dimisión de Santiago Peña a la presidencia paraguaya y señalamientos en su contra",
+        "url": "https://www.valoraanalitik.com/por-que-renuncio-santiago-pena-a-la-presidencia-de-paraguay-y-de-que-lo-acusan/",
+        "resumen": "La crisis que precipitó la salida del mandatario está relacionada con la intervención de Ueno Bank, una entidad financiera privada.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "¿Por qué renunció Santiago Peña a la Presidencia de Paraguay y de qué lo acusan?",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio de la divisa estadounidense aumentó ligeramente y finalizó por encima de tres mil doscientos treinta pesos",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-registro-leve-alza-y-cerro-sobre-los-3-230/",
+        "resumen": "La revisión al alza de la inflación por parte del BanRep y el repunte de los precios del petróleo marcaron la jornada cambiaria.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia registró leve alza y cerró sobre los $3.230",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
+      {
+        "titulo": "Firma de Chile inaugura otro establecimiento en Medellín tras rebasar cien millones de dólares en facturación",
+        "url": "https://www.valoraanalitik.com/multinacional-chilena-abre-nueva-tienda-en-medellin-tras-superar-us100-millones-en-ventas/",
+        "resumen": "La multinacional chilena abrió su segunda tienda en Medellín, completó 13 puntos en Colombia y anticipa nuevas inversiones para ampliar su operación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional chilena abre nueva tienda en Medellín tras superar US$100 millones en ventas",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
+      {
+        "titulo": "Davivienda revela herramientas inéditas tras la fusión con DAVIbank",
+        "url": "https://www.valoraanalitik.com/davivienda-anuncia-novedades-tras-integracion-davibank/",
+        "resumen": "La entidad presentó herramientas de seguridad, transferencias mediante Bre-B, opciones de ahorro y servicios internacionales.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Davivienda anuncia nuevas funcionalidades tras la integración con DAVIbank",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
+      {
+        "titulo": "Administración De La Espriella dialoga con Air Europa sobre un trayecto aéreo fresco entre Cali y Madrid",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-explora-con-air-europa-nueva-ruta-entre-cali-y-madrid/",
+        "resumen": "La eventual conexión ampliaría la oferta de vuelos entre Colombia y España. La aerolínea ya opera rutas desde Bogotá y Medellín, y sumará Barranquilla.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella explora con Air Europa nueva ruta entre Cali y Madrid",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
       {
         "titulo": "Qatar Airways completó su vuelo inicial en el país: los pormenores del trayecto",
         "url": "https://www.valoraanalitik.com/qatar-airways-ya-realizo-su-primer-vuelo-en-colombia-los-detalles-de-la-nueva-ruta/",
@@ -513,99 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Inflación en Colombia subiría por impuestos de la ley rescate, pero no duraría tanto: Esto dice el mismo proyecto",
         "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Lucas Madriñán asume como CEO de RappiPay Colombia",
-        "url": "https://www.valoraanalitik.com/lucas-madrinan-es-el-nuevo-ceo-de-rappipay-colombia/",
-        "resumen": "La compañía duplicó su base de clientes, al pasar de 350.000 a más de 700.000 usuarios y y superó el billón de pesos en cartera administrada entre RappiCard",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Lucas Madriñán es el nuevo CEO de RappiPay Colombia",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Elecciones de medio término en EE. UU.: demócratas buscan recuperar el control del Congreso de Trump",
-        "url": "https://www.valoraanalitik.com/elecciones-de-medio-termino-en-ee-uu-democratas-buscan-recuperar-el-control-del-congreso-de-trump/",
-        "resumen": "El control del Senado dependerá de los resultados en estados como Alaska, Iowa, Kansas, Maine, entre otros.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Elecciones de medio término en EE. UU.: demócratas buscan recuperar el control del Congreso de Trump",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia arranca noviembre con fuerza al alza: supera los $3.200 tras alertas por default si no se aprueba la ley rescate",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-arranca-noviembre-con-fuerza-al-alza-supera-los-3-200-tras-alertas-por-default-si-no-se-aprueba-la-ley-rescate/",
-        "resumen": "Esto es lo que mueve al dólar en Colombia este martes 3 de noviembre.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia arranca noviembre con fuerza al alza: supera los $3.200 tras alertas por default si no se aprueba la ley rescate",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Incentivos a gran inversión, IVA a la gasolina e impuesto al carbono: efectos de la ley de rescate en la energía",
-        "url": "https://www.valoraanalitik.com/incentivos-a-gran-inversion-iva-a-la-gasolina-e-impuesto-al-carbono-efectos-de-la-ley-de-rescate-en-la-energia/",
-        "resumen": "La gasolina tendría un incremento en el IVA, que pasaría de 5 % a 19 % sobre el precio que recibe el productor.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Incentivos a gran inversión, IVA a la gasolina e impuesto al carbono: efectos de la ley de rescate en la energía",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Bogotá radicó presupuesto de $42,7 billones para 2027: así se distribuirán los recursos",
-        "url": "https://www.valoraanalitik.com/bogota-radico-presupuesto-de-427-billones-para-2027-asi-se-distribuiran-los-recursos/",
-        "resumen": "La administración también radicó el Marco Fiscal de Mediano Plazo que contiene las proyecciones económicas y financieras para la próxima década.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá radicó presupuesto de $42,7 billones para 2027: así se distribuirán los recursos",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Asoportuaria solicita optimizar la profundidad en Barranquilla y el Gobierno Nacional convoca una mesa",
-        "url": "https://www.valoraanalitik.com/asoportuaria-pide-mejorar-el-calado-del-puerto-de-barranquilla-gobierno-nacional-anuncia-mesa-de-trabajo/",
-        "resumen": "El gremio también destacó la importancia del trabajo conjunto entre el sector público y privado para sacar adelante proyectos de infraestructura.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Asoportuaria pide mejorar el calado del puerto de Barranquilla; Gobierno Nacional anuncia mesa de trabajo",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "La discusión sobre el incremento del sueldo básico en Colombia arranca en los siguientes días",
-        "url": "https://www.valoraanalitik.com/aumento-del-salario-minimo-en-colombia-debera-empezar-a-definirse-en-los-proximos-dias/",
-        "resumen": "La norma local establece unas fechas límite para definir el aumento del salario mínimo en Colombia del año entrante.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Aumento del salario mínimo en Colombia deberá empezar a definirse en los próximos días",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Alejandra Zapata deja la presidencia de Coninsa luego de casi cuatro años",
-        "url": "https://www.valoraanalitik.com/alejandra-zapata-anuncia-su-salida-de-la-presidencia-de-coninsa-tras-casi-cuatro-anos/",
-        "resumen": "Alejandra Zapata anunció que cerrará su ciclo como presidenta de Coninsa y compartió los principales resultados de su gestión en la constructora.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Alejandra Zapata anuncia su salida de la presidencia de Coninsa tras casi cuatro años",
-        "capturado": "2026-11-02T20:29:24-05:00"
-      },
-      {
-        "titulo": "Alicorp compra Rama y 18 marcas en gran negocio con Cali como centro regional",
-        "url": "https://www.valoraanalitik.com/alicorp-adquiere-rama-y-otras-18-marcas-en-millonaria-operacion-que-tendra-a-cali-como-eje-regional/",
-        "resumen": "Alicorp compra Rama como parte de una adquisición regional que incluye 19 marcas y una planta en Cali para atender varios mercados latinoamericanos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Alicorp adquiere Rama y otras 18 marcas en millonaria operación que tendrá a Cali como eje regional",
-        "capturado": "2026-11-02T20:29:24-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Firma chilena inaugura local en Medellín tras rebasar US$100 millones en facturación",
+        "url": "https://www.valoraanalitik.com/multinacional-chilena-abre-nueva-tienda-en-medellin-tras-superar-us100-millones-en-ventas/",
+        "resumen": "La multinacional chilena abrió su segunda tienda en Medellín, completó 13 puntos en Colombia y anticipa nuevas inversiones para ampliar su operación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional chilena abre nueva tienda en Medellín tras superar US$100 millones en ventas",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
+      {
+        "titulo": "Davivienda revela nuevas opciones tras unificarse con DAVIbank",
+        "url": "https://www.valoraanalitik.com/davivienda-anuncia-novedades-tras-integracion-davibank/",
+        "resumen": "La entidad presentó herramientas de seguridad, transferencias mediante Bre-B, opciones de ahorro y servicios internacionales.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Davivienda anuncia nuevas funcionalidades tras la integración con DAVIbank",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
+      {
+        "titulo": "Administración De La Espriella gestiona con Air Europa nuevo vuelo entre Cali y Madrid",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-explora-con-air-europa-nueva-ruta-entre-cali-y-madrid/",
+        "resumen": "La eventual conexión ampliaría la oferta de vuelos entre Colombia y España. La aerolínea ya opera rutas desde Bogotá y Medellín, y sumará Barranquilla.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De La Espriella explora con Air Europa nueva ruta entre Cali y Madrid",
+        "capturado": "2026-11-05T16:51:29-05:00"
+      },
       {
         "titulo": "Qatar Airways completó su vuelo inaugural en Colombia y se conocen los pormenores del nuevo trayecto",
         "url": "https://www.valoraanalitik.com/qatar-airways-ya-realizo-su-primer-vuelo-en-colombia-los-detalles-de-la-nueva-ruta/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Previsora Seguros eligió a Angelamaría Sánchez Acosta como nueva presidenta",
         "capturado": "2026-10-31T00:23:17-05:00"
-      },
-      {
-        "titulo": "María Fernanda Suárez asume la presidencia del Banco de Bogotá en su reemplazo de Juan Carlos Echeverry",
-        "url": "https://www.valoraanalitik.com/maria-fernanda-suarez-es-la-nueva-presidenta-del-banco-de-bogota-reemplaza-a-juan-carlos-echeverry/",
-        "resumen": "Entre los cargos que ha ocupado se encuentran la Presidencia de Accenture Colombia y el Ministerio de Minas.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "María Fernanda Suárez es la nueva presidenta del Banco de Bogotá: reemplaza a Juan Carlos Echeverry",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "Juan Carlos Echeverry se retira del cargo de presidente del Banco de Bogotá",
-        "url": "https://www.valoraanalitik.com/atencion-juan-carlos-echeverry-deja-la-presidencia-del-banco-de-bogota/",
-        "resumen": "La nueva presidenta de la entidad financiera será María Fernanda Suárez.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Juan Carlos Echeverry deja la presidencia del Banco de Bogotá",
-        "capturado": "2026-10-30T18:58:47-05:00"
-      },
-      {
-        "titulo": "La SIC dio luz verde a la fusión entre Grupo Nutresa y Presto sin imponer condiciones",
-        "url": "https://www.valoraanalitik.com/sic-aprobo-integracion-entre-grupo-nutresa-y-presto-operacion-no-tendra-condicionamientos/",
-        "resumen": "La SIC realizó un estudio económico en el que analizó los mercados nacionales de distribución mayorista de alimentos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "SIC aprobó integración entre Grupo Nutresa y Presto: operación no tendrá condicionamientos",
-        "capturado": "2026-10-30T18:58:47-05:00"
       }
     ]
   }
