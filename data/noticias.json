@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-04T13:32:12-05:00",
-  "nuevos_en_esta_corrida": 22,
+  "actualizado": "2026-11-04T19:15:17-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Corte Suprema aclara cuándo el divorcio no frena la pensión de sobrevivientes",
+        "url": "https://www.valoraanalitik.com/sustitucion-pensional-corte-suprema-explica-cuando-una-separacion-no-impide-reclamar-la-mesada/",
+        "resumen": "Una decisión de la Corte Suprema pone el foco en las razones de una separación y en las pruebas que pueden respaldar la solicitud de sustitución pensional.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Sustitución pensional: Corte Suprema explica cuándo una separación no impide reclamar la mesada",
+        "capturado": "2026-11-04T19:15:17-05:00"
+      },
+      {
+        "titulo": "ISA reporta incremento del 8 % en ingresos operacionales al tercer trimestre de 2026",
+        "url": "https://www.valoraanalitik.com/isa-reporto-aumento-del-8-en-sus-ingresos-operacionales-al-tercer-trimestre-de-2026/",
+        "resumen": "En materia de expansión, ISA reportó adjudicaciones y transacciones por US$2.708 millones.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "ISA reportó aumento del 8 % en sus ingresos operacionales al tercer trimestre de 2026",
+        "capturado": "2026-11-04T19:15:17-05:00"
+      },
+      {
+        "titulo": "Ingresos de Mallplaza suben 6,5 % a septiembre de 2026; Colombia dinamiza la expansión",
+        "url": "https://www.valoraanalitik.com/mallplaza-aumento-ingresos-3t-2026/",
+        "resumen": "En el país incorporó ocho centros comerciales que operaban bajo la marca Gran Plaza y sumó cerca de 180.000 metros cuadrados de área arrendable.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Mallplaza aumentó 6,5 % sus ingresos en tercer trimestre de 2026; compra en Colombia impulsa expansión regional",
+        "capturado": "2026-11-04T19:15:17-05:00"
+      },
+      {
+        "titulo": "Primer debate aprueba adición al Presupuesto General: dineros irían a estos programas",
+        "url": "https://www.valoraanalitik.com/aprueban-en-primer-debate-adicion-al-presupuesto-general-de-la-nacion-recursos-irian-a-estos-programas/",
+        "resumen": "La iniciativa deberá continuar su recorrido para completar el proceso correspondiente y permitir la incorporación de los recursos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Aprueban en primer debate adición al Presupuesto General de la Nación: Recursos irían a estos programas",
+        "capturado": "2026-11-04T19:15:17-05:00"
+      },
+      {
+        "titulo": "Anuncian nuevo paro nacional en Colombia: día de las protestas",
+        "url": "https://www.valoraanalitik.com/convocan-a-nuevo-paro-nacional-en-colombia-fecha-de-las-movilizaciones/",
+        "resumen": "Diversos movimientos sociales, encabezados por la CUT, convocan a las movilizaciones en todo el territorio nacional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Convocan a nuevo paro nacional en Colombia: Fecha de las movilizaciones",
+        "capturado": "2026-11-04T19:15:17-05:00"
+      },
+      {
+        "titulo": "Criptomonedas en Colombia: Gobierno De La Espriella sugiere un nuevo tributo para bienes no informados",
+        "url": "https://www.valoraanalitik.com/criptomonedas-en-colombia-gobierno-de-la-espriella-propone-nuevo-impuesto-para-declarar-activos-no-reportados/",
+        "resumen": "La reforma fiscal del gobierno De la Espriella abre un nuevo frente para quienes tienen criptomonedas y otros activos digitales sin reportar ante la DIAN.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "Criptomonedas en Colombia: Gobierno De La Espriella propone nuevo impuesto para declarar activos no reportados",
+        "capturado": "2026-11-04T19:15:17-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia finaliza decreciente pero se mantiene sobre los 3.200 pesos post comicios estadounidenses",
+        "url": "https://www.valoraanalitik.com/precio-del-dolar-en-colombia-miercoles-4-de-noviembre-de-2026/",
+        "resumen": "Los inversionistas siguen de cerca el panorama político estadounidense y las discusiones económicas locales.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia cierra a la baja aunque sigue arriba de los $3.200 tras elecciones en EE. UU.",
+        "capturado": "2026-11-04T19:15:17-05:00"
+      },
       {
         "titulo": "Chevron destinará US$100 millones en Colombia para mejorar el suministro de combustibles terrestres y aéreos",
         "url": "https://www.valoraanalitik.com/chevron-invertira-us100-millones-en-colombia-para-fortalecer-abastecimiento-de-combustibles-terrestres-y-aereos/",
@@ -533,79 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Venta de carros nuevos en Colombia creció casi 40 % a octubre: Eléctricos siguen jalonando con fuerza",
         "capturado": "2026-11-01T12:53:44-05:00"
-      },
-      {
-        "titulo": "Expansión del mercado de tarjetas de crédito en Colombia y su comportamiento actual",
-        "url": "https://www.valoraanalitik.com/tarjetas-de-credito-ganan-terreno-en-colombia-asi-se-mueve-su-mercado/",
-        "resumen": "El número de plásticos vigentes llegó a 16,4 millones, mientras las nuevas generaciones y las compras cotidianas impulsan su utilización.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Tarjetas de crédito ganan terreno en Colombia: así se mueve su mercado",
-        "capturado": "2026-11-01T12:53:44-05:00"
-      },
-      {
-        "titulo": "Fin de la restricción de gas natural en Colombia por parte del Ejecutivo tras superar la alerta en Cartagena",
-        "url": "https://www.valoraanalitik.com/gobierno-levanta-limitacion-de-gas-natural-en-colombia-tras-superar-contingencia-en-cartagena/",
-        "resumen": "El Ministerio de Minas y Energía confirmó que se restablecen las condiciones normales de abastecimiento de gas natural en Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno levanta limitación de gas natural en Colombia tras superar contingencia en Cartagena",
-        "capturado": "2026-11-01T12:53:44-05:00"
-      },
-      {
-        "titulo": "Finaliza la fusión de DAVIbank con Davivienda y estos son los puntos clave para los usuarios",
-        "url": "https://www.valoraanalitik.com/davibank-completa-su-integracion-con-davivienda/",
-        "resumen": "DAVIbank integra sus operaciones con Davivienda estos son los detalles del proceso.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "DAVIbank completa su integración con Davivienda: Esto deben tener en cuenta los clientes",
-        "capturado": "2026-11-01T12:53:44-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella advierte que Colombia sufrirá una grave crisis económica si falla la Ley Rescate",
-        "url": "https://www.valoraanalitik.com/colombia-entraria-en-una-crisis-economica-profunda-si-no-se-aprueba-la-ley-rescate-dice-gobierno-de-la-espriella/",
-        "resumen": "Le ley Rescate del gobierno De la Espriella impondrá IVA a algunos alimentos.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Colombia entraría en una crisis económica “profunda” si no se aprueba la Ley Rescate, dice gobierno De la Espriella",
-        "capturado": "2026-11-01T12:53:44-05:00"
-      },
-      {
-        "titulo": "Entrevista | Drummond Energy posee cuatro acuerdos para explorar yacimientos no convencionales en Colombia",
-        "url": "https://www.valoraanalitik.com/drummond-energy-tiene-cuatro-contratos-para-desarrollar-yacimientos-no-convencionales-en-colombia/",
-        "resumen": "La compañía lleva 20 años estudiando la cuenca Cesar-Ranchería y mantiene conversaciones con el Gobierno para definir cómo avanzar con el proyecto.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Drummond Energy tiene cuatro contratos para desarrollar yacimientos no convencionales en Colombia",
-        "capturado": "2026-11-01T12:53:44-05:00"
-      },
-      {
-        "titulo": "Desde noviembre, Avianca exigirá una nueva condición obligatoria para los vuelos a Estados Unidos",
-        "url": "https://www.valoraanalitik.com/avianca-anuncia-nuevo-requisito-obligatorio-para-viajar-a-estados-unidos-desde-noviembre/",
-        "resumen": "Avianca advirtió que el nuevo requisito para viajar a Estados Unidos será obligatorio desde el 3 de noviembre y deberá presentarse antes del embarque.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Avianca anuncia nuevo requisito obligatorio para viajar a Estados Unidos desde noviembre",
-        "capturado": "2026-10-31T18:35:29-05:00"
-      },
-      {
-        "titulo": "Primicia | Andrés Puyo Mesa asumirá la presidencia del Banco Agrario de Colombia",
-        "url": "https://www.valoraanalitik.com/primicia-andres-puyo-mesa-sera-el-nuevo-presidente-del-banco-agrario-de-colombia/",
-        "resumen": "Andrés Puyo Mesa, nuevo presidente del Banco Agrario, cuenta con cerca de tres décadas de experiencia en el sector financiero.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Primicia | Andrés Puyo Mesa será el nuevo presidente del Banco Agrario de Colombia",
-        "capturado": "2026-10-31T18:35:29-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El auge global del comercio de aguacate Hass da opciones a Colombia como productor y hay puntos clave",
+        "url": "https://www.valoraanalitik.com/crecimiento-del-comercio-mundial-de-aguacate-hass-abre-oportunidades-a-colombia-como-productor-factores-para-tener-en-cuenta/",
+        "resumen": "La oferta internacional traerá mayores exigencias en materia de calidad, competitividad y sostenibilidad.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Crecimiento del comercio mundial de aguacate Hass abre oportunidades a Colombia como productor: factores para tener en cuenta",
+        "capturado": "2026-11-04T19:15:17-05:00"
+      },
+      {
+        "titulo": "Las exportaciones de oro y plata de El Zancudo subieron 72 % para Denarius Metals",
+        "url": "https://www.valoraanalitik.com/denarius-metals-aumento-72-sus-envios-de-oro-y-plata-desde-el-zancudo/",
+        "resumen": "La minera reportó ingresos por US$16,5 millones entre enero y septiembre y prevé iniciar la producción comercial en 2027.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Denarius Metals aumentó 72 % sus envíos de oro y plata desde El Zancudo",
+        "capturado": "2026-11-04T19:15:17-05:00"
+      },
+      {
+        "titulo": "Andrea Ferreyra, enóloga de La Celia, nominada a los Wine Star Awards 2026; Dislicores trae sus vinos",
+        "url": "https://www.valoraanalitik.com/andrea-ferreyra-enologa-de-la-celia-fue-nominada-a-los-wine-star-awards-2026-dislicores-distribuye-sus-vinos-en-colombia/",
+        "resumen": "Los consumidores pueden encontrar sus vinos en todas las tiendas y plataformas de Dislicores.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Andrea Ferreyra, enóloga de La Celia, fue nominada a los Wine Star Awards 2026; Dislicores distribuye sus vinos en Colombia",
+        "capturado": "2026-11-04T19:15:17-05:00"
+      },
       {
         "titulo": "Especialista entrega pautas para impulsar la agroindustria colombiana del aguacate Hass con Norteamérica como meta",
         "url": "https://www.valoraanalitik.com/experto-comparte-claves-para-potenciar-la-agroindustria-del-aguacate-hass-colombiano-norteamerica-como-mercado-estrategico/",
@@ -1174,36 +1204,6 @@
         "subseccion": "Macroeconomía",
         "publicacion": "",
         "titulo_fuente": "De la Espriella propone bajar impuesto de renta a empresas y eliminar gravamen a plásticos de un solo uso",
-        "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "De la Espriella plantea cortar a la mitad los contratos por prestación de servicios en el año 2027",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-propone-reducir-a-la-mitad-los-contratos-por-prestacion-de-servicios-en-2027/",
-        "resumen": ". La iniciativa estima que esta medida permitiría un ahorro promedio anual de 0,19 % del PIB, equivalente a cerca de $9,6 billones.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella propone reducir a la mitad los contratos por prestación de servicios en 2027",
-        "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "Ahora | Gobierno de De la Espriella quiere reintegrar IVA a 35 millones de colombianos quincenalmente; subirían tarifas",
-        "url": "https://www.valoraanalitik.com/ahora-gobierno-de-la-espriella-busca-devolver-el-iva-a-35-millones-de-colombianos-cada-15-dias-aumentarian-tarifas/",
-        "resumen": "La devolución se liquidará a partir de la información registrada en la facturación electrónica emitida con el número de cédula del comprador.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Gobierno de la Espriella busca devolver el IVA a 35 millones de colombianos cada 15 días; aumentarían tarifas",
-        "capturado": "2026-10-29T20:46:15-05:00"
-      },
-      {
-        "titulo": "Exposolar: el porvenir de la energía solar trae posibilidades para Colombia",
-        "url": "https://www.valoraanalitik.com/exposolar-el-futuro-de-la-energia-solar-abre-oportunidades-para-colombia/",
-        "resumen": "La IA, la movilidad eléctrica y los desafíos climáticos están poniendo sobre la mesa una pregunta clave: cómo garantizar energía disponible cuando se necesita.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Exposolar: el futuro de la energía solar abre oportunidades para Colombia",
         "capturado": "2026-10-29T20:46:15-05:00"
       }
     ]
