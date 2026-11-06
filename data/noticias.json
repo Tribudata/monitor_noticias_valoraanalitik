@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-05T16:51:29-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-11-05T21:07:39-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Sonia Abuchar asume la presidencia encargada de ISA y Juan Pablo Zárate se mantiene en la Junta",
+        "url": "https://www.valoraanalitik.com/sonia-abuchar-es-la-nueva-presidenta-e-de-isa-y-juan-pablo-zarate-seguira-como-presidente-de-junta/",
+        "resumen": "Su experiencia incluye asuntos jurídicos, regulatorios y de gobierno corporativo, además del acompañamiento a decisiones estratégicas de la organización.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Sonia Abuchar es la nueva presidenta (e) de ISA y Juan Pablo Zárate seguirá como presidente de Junta",
+        "capturado": "2026-11-05T21:07:39-05:00"
+      },
+      {
+        "titulo": "Indicador de Bancolombia señala que la economía nacional evidenció indicios de recuperación en octubre",
+        "url": "https://www.valoraanalitik.com/economia-colombiana-mostro-senales-de-recuperacion-en-octubre-segun-indicador-de-bancolombia/",
+        "resumen": "El indicador de Bancolombia pasó de proyectar una expansión de 2,1 % al cierre de septiembre a calcular un alza de 2,2 % con corte al 31 de octubre.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Economía colombiana mostró señales de recuperación en octubre, según indicador de Bancolombia",
+        "capturado": "2026-11-05T21:07:39-05:00"
+      },
+      {
+        "titulo": "Desafíos para fomentar la búsqueda de hidrocarburos en el país: reactivación petrolera y fracking",
+        "url": "https://www.valoraanalitik.com/reactivacion-petrolera-y-fracking-los-retos-para-impulsar-la-exploracion-de-hidrocarburos-en-colombia/",
+        "resumen": "El sector enfrenta varios desafíos relacionados con la asignación de nuevas áreas para la exploración.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Reactivación petrolera y fracking: los retos para impulsar la exploración de hidrocarburos en Colombia",
+        "capturado": "2026-11-05T21:07:39-05:00"
+      },
+      {
+        "titulo": "ISA planea aumentar inversiones locales y externas con compromisos por US$8.000 millones al 2030",
+        "url": "https://www.valoraanalitik.com/isa-elevar-inversiones-colombia-mercados/",
+        "resumen": "La compañía identificó oportunidades por US$305 millones en Perú y espera que el efecto cambiario sea favorable en 2027.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "ISA podría elevar sus inversiones en Colombia y otros mercados; tiene compromisos por US$8.000 millones a 2030",
+        "capturado": "2026-11-05T21:07:39-05:00"
+      },
+      {
+        "titulo": "Nutresa oficializa la compra de Presto, abrirá locales clausurados y proyecta expansión",
+        "url": "https://www.valoraanalitik.com/presto-ya-es-oficialmente-una-marca-de-nutresa-reabriran-puntos-cerrados-y-anuncia-expansion/",
+        "resumen": "Los nuevos establecimientos de Presto entrarán en funcionamiento durante los próximos meses.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presto ya es oficialmente una marca de Nutresa: Reabrirán puntos cerrados y anuncia expansión",
+        "capturado": "2026-11-05T21:07:39-05:00"
+      },
+      {
+        "titulo": "El sector turismo advierte menor competitividad por las modificaciones tributarias de la Ley de Rescate Fiscal",
+        "url": "https://www.valoraanalitik.com/turismo-alerta-por-perdida-de-competitividad-ante-cambios-tributarios-de-la-ley-de-rescate-fiscal/",
+        "resumen": "Uno de los principales puntos de preocupación es el IVA para los visitantes internacionales.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Turismo alerta por pérdida de competitividad ante cambios tributarios de la Ley de Rescate Fiscal",
+        "capturado": "2026-11-05T21:07:39-05:00"
+      },
       {
         "titulo": "Administración De la Espriella prevé un billón de pesos para actualizar la red de aeropuertos",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-proyecta-inversion-de-1-billon-para-modernizar-infraestructura-aeronautica/",
@@ -543,69 +603,49 @@
         "publicacion": "",
         "titulo_fuente": "Ingresos y utilidades de la Bolsa Mercantil de Colombia subieron a septiembre; así se movieron los negocios",
         "capturado": "2026-11-03T21:36:43-05:00"
-      },
-      {
-        "titulo": "Tensión en Medio Oriente impulsó el alza del dólar en Colombia este martes por casi 50 pesos",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-disparo-este-martes-y-subio-casi-50/",
-        "resumen": "El mercado sigue de cerca la ley de rescate económico, las decisiones del Banco de la República y la tensión entre EE. UU. e Irán.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia se disparó este martes y subió casi $50 tras tensiones en Medio Oriente",
-        "capturado": "2026-11-03T21:36:43-05:00"
-      },
-      {
-        "titulo": "Multinacional destina más de US$5 millones en Medellín y agranda su capacidad logística en el país",
-        "url": "https://www.valoraanalitik.com/multinacional-invierte-mas-de-us5-millones-en-medellin-y-amplia-su-capacidad-logistica-en-colombia/",
-        "resumen": "La inversión de la multinacional en Colombia se eleva a US$20 millones y busca fortalecer la infraestructura para el almacenamiento de alimentos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Multinacional invierte más de US$5 millones en Medellín y amplía su capacidad logística en Colombia",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "ANI suscribe pacto para habilitar Muelle 13 de Buenaventura y esquivar demanda de US$30 millones",
-        "url": "https://www.valoraanalitik.com/ani-firma-acuerdo-para-reactivar-muelle-13-de-buenaventura-y-evitar-litigio-de-us30-millones/",
-        "resumen": "Grupo Portuario tenía el manejo del terminal desde 2005, inicialmente bajo un contrato de concesión portuaria.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "ANI firma acuerdo para reactivar Muelle 13 de Buenaventura y evitar litigio de US$30 millones",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Reforma de De La Espriella quitaría exenciones fiscales a jueces, magistrados y docentes: porcentajes",
-        "url": "https://www.valoraanalitik.com/reforma-de-de-la-espriella-eliminaria-beneficios-tributarios-de-magistrados-jueces-y-docentes-estos-son-los-porcentajes/",
-        "resumen": "La Ley de Rescate propone poner fin a determinados beneficios tributarios que favorecen a determinados funcionarios públicos.",
-        "autor": "",
-        "subseccion": "Impuestos",
-        "publicacion": "",
-        "titulo_fuente": "Reforma de De La Espriella eliminaría beneficios tributarios de magistrados, jueces y docentes: estos son los porcentajes",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Utilidades netas de Saudi Aramco suben más de 30 % pese a guerra en Irán, aunque baja la extracción",
-        "url": "https://www.valoraanalitik.com/ingresos-netos-de-saudi-aramco-crecen-mas-de-30-pese-a-la-guerra-en-iran-aunque-cae-la-produccion/",
-        "resumen": "La guerra en Irán no es el único frente de preocupación. También ha enfrentado ataques relacionados con los combates contra los hutíes en Yemen.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ingresos netos de Saudi Aramco crecen más de 30 % pese a la guerra en Irán, aunque cae la producción",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "IPC en Colombia aumentaría por tributos de ley rescate, mas no sería prolongado: señala la iniciativa",
-        "url": "https://www.valoraanalitik.com/inflacion-en-colombia-subiria-por-impuestos-de-la-ley-rescate-pero-no-duraria-tanto-esto-dice-el-mismo-proyecto/",
-        "resumen": "La inflación en Colombia viene ya presionada por cuenta de la variación en el precio de algunos alimentos.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Inflación en Colombia subiría por impuestos de la ley rescate, pero no duraría tanto: Esto dice el mismo proyecto",
-        "capturado": "2026-11-03T11:55:29-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "EPM regresa a la plaza internacional de capitales con colocación de bonos por US$1.000 millones",
+        "url": "https://www.valoraanalitik.com/epm-vuelve-al-mercado-internacional-de-capitales-con-emision-de-bonos-de-us1-000-millones/",
+        "resumen": "La colocación se concretó este jueves 5 de noviembre y corresponde a un título denominado en dólares, con un plazo de siete años y vencimiento en 2033.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "EPM vuelve al mercado internacional de capitales con emisión de bonos de US$1.000 millones",
+        "capturado": "2026-11-05T21:07:39-05:00"
+      },
+      {
+        "titulo": "Nutresa oficializa la compra de Presto: reactivarán locales clausurados y proyectan crecimiento",
+        "url": "https://www.valoraanalitik.com/presto-ya-es-oficialmente-una-marca-de-nutresa-reabriran-puntos-cerrados-y-anuncia-expansion/",
+        "resumen": "Los nuevos establecimientos de Presto entrarán en funcionamiento durante los próximos meses.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presto ya es oficialmente una marca de Nutresa: Reabrirán puntos cerrados y anuncia expansión",
+        "capturado": "2026-11-05T21:07:39-05:00"
+      },
+      {
+        "titulo": "Alquería confirma la renovación del sello de Empresa B para su línea de quesos Del Vecchio",
+        "url": "https://www.valoraanalitik.com/quesos-del-vecchio-de-alqueria-ratifica-su-certificacion-como-empresa-b/",
+        "resumen": "Esta certificación distingue a las empresas que buscan ser rentables y competitivas, mientras incorporan en sus decisiones compromisos.",
+        "autor": "",
+        "subseccion": "Valorasostenible",
+        "publicacion": "",
+        "titulo_fuente": "Quesos Del Vecchio, de Alquería, ratifica su certificación como Empresa B",
+        "capturado": "2026-11-05T21:07:39-05:00"
+      },
+      {
+        "titulo": "Primicia | Eafit funda división de Inteligencia Digital y lanza un índice de competencias digitales",
+        "url": "https://www.valoraanalitik.com/eafit-crea-area-de-inteligencia-digital-y-presenta-un-indice-para-medir-las-capacidades-digitales-de-personas-y-organizaciones/",
+        "resumen": "El lanzamiento, que se realiza en alianza con Valora Analitik, marca uno de los primeros hitos de la nueva área de Inteligencia Digital de Eafit.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Primicia | Eafit crea área de Inteligencia Digital y presenta un índice para medir las capacidades digitales de personas y organizaciones",
+        "capturado": "2026-11-05T21:07:39-05:00"
+      },
       {
         "titulo": "Firma chilena inaugura local en Medellín tras rebasar US$100 millones en facturación",
         "url": "https://www.valoraanalitik.com/multinacional-chilena-abre-nueva-tienda-en-medellin-tras-superar-us100-millones-en-ventas/",
@@ -1165,46 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Empresas tendrían rebaja de renta en Colombia: así quedaría el impuesto con la Ley de Rescate",
         "capturado": "2026-10-31T15:12:14-05:00"
-      },
-      {
-        "titulo": "La Fragata comparte su estrategia al 2030 tras convertirse en un restaurante muy reconocido del país",
-        "url": "https://www.valoraanalitik.com/la-fragata-restaurante-revela-plan-a-2030/",
-        "resumen": "La tercera generación de la familia que llevó el pescado fresco a Bogotá en 1964 está hoy en manos de María Teresa Calderón y su madre. Valora Analitik conversó con la CEO sobre el relevo, la historia familiar y el rumbo del grupo hacia 2030.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Así logró La Fragata consolidarse como uno de los restaurantes más famosos de Colombia; revela plan a 2030",
-        "capturado": "2026-10-31T11:15:15-05:00"
-      },
-      {
-        "titulo": "El combustible aéreo subió 78 % interanual según el director ejecutivo de ALTA",
-        "url": "https://www.valoraanalitik.com/aerolineas-costo-combustible-alta/",
-        "resumen": "ALTA ya trabaja con el gobierno de Abelardo de la Espriella para aplicar las mejoras que El Dorado tiene pendientes desde 2023.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Las aerolíneas pagan 78 % más por combustible que hace un año: esto dice el CEO de ALTA",
-        "capturado": "2026-10-31T11:15:15-05:00"
-      },
-      {
-        "titulo": "La desocupación en Bogotá bajó al 7,6 % y el empleo creció en cerca de 70.000 ciudadanos",
-        "url": "https://www.valoraanalitik.com/desempleo-en-bogota-cayo-a-76-y-la-ocupacion-aumento-en-cerca-de-70-000-personas/",
-        "resumen": "Comercio y reparación de vehículos lideraron el crecimiento ocupacional en la capital.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Desempleo en Bogotá cayó a 7,6 % y la ocupación aumentó en cerca de 70.000 personas",
-        "capturado": "2026-10-31T11:15:15-05:00"
-      },
-      {
-        "titulo": "Angelamaría Sánchez Acosta es la flamante presidenta designada por Previsora Seguros",
-        "url": "https://www.valoraanalitik.com/previsora-seguros-eligio-a-angelamaria-sanchez-acosta-como-nueva-presidenta/",
-        "resumen": "Previsora S.A. es una compañía de seguros vinculada al Ministerio de Hacienda y Crédito Público, en la que la Nación tiene participación mayoritaria.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Previsora Seguros eligió a Angelamaría Sánchez Acosta como nueva presidenta",
-        "capturado": "2026-10-31T00:23:17-05:00"
       }
     ]
   }
