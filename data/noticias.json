@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-06T12:16:47-05:00",
-  "nuevos_en_esta_corrida": 22,
+  "actualizado": "2026-11-06T17:17:25-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El gravamen predial nacional podría subir más al incurrir en ciertas conductas",
+        "url": "https://www.valoraanalitik.com/impuesto-predial-en-colombia-podria-aumentarle-mas-si-hace-alguna-de-estas-acciones-tome-nota/",
+        "resumen": "No todos los propietarios tienen la misma protección frente a los aumentos del impuesto predial. Hay situaciones que pueden hacerle pagar de más.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Impuesto predial en Colombia podría aumentarle más si hace alguna de estas acciones: tome nota",
+        "capturado": "2026-11-06T17:17:25-05:00"
+      },
+      {
+        "titulo": "Emisor advierte impactos de El Niño y víveres sobre el costo de vida nacional",
+        "url": "https://www.valoraanalitik.com/banrep-alerta-por-efectos-que-tendrian-el-nino-y-los-alimentos-en-la-inflacion-de-colombia/",
+        "resumen": "Los directores que votaron por incrementar 25 puntos básicos la tasa de interés defendieron la necesidad de recuperar la credibilidad en la meta de inflación.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "BanRep alerta por efectos que tendrían El Niño y los alimentos en la inflación de Colombia",
+        "capturado": "2026-11-06T17:17:25-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella plantea suprimir clave gravamen en el país",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-propone-eliminar-importante-impuesto-en-colombia/",
+        "resumen": "La reforma tributaria dentro de la Ley Rescate propone que este impuesto en Colombia se deje de aplicar en el menor plazo posible",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella propone eliminar importante impuesto en Colombia",
+        "capturado": "2026-11-06T17:17:25-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio finaliza la semana estable a la espera de inflación y ley",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-cierra-la-semana-estable/",
+        "resumen": "La divisa subió $9 y terminó la jornada en $3.239, aunque acumuló una caída de $4 frente al inicio de la semana.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia cierra la semana estable: mercado espera dato de inflación de octubre y avances de Ley de Rescate",
+        "capturado": "2026-11-06T17:17:25-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella desbloquea sección del proyecto Komodo-1",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-destraba-parte-de-komodo-1-megaproyecto-en-el-mar-caribe-de-petroleo-y-gas/",
+        "resumen": "En total, se retiraron tres exigencias para el seguimiento ambiental de este proyecto.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella destraba parte de Komodo-1, megaproyecto en el mar Caribe de petróleo y gas",
+        "capturado": "2026-11-06T17:17:25-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella expone volumen de gas importable desde Venezuela en fase inicial",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-revela-cuanto-gas-se-podria-importar-desde-venezuela-en-primera-fase/",
+        "resumen": "La ministra de Minas y Energía, María Nohemi Arboleda, detalló el plan para importar gas desde Venezuela en medio del déficit que atraviesa Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella revela cuánto gas se podría importar desde Venezuela en primera fase",
+        "capturado": "2026-11-06T17:17:25-05:00"
+      },
+      {
+        "titulo": "Nequi ingresa formalmente al mercado de rendimientos con bolsillos de ganancia propia",
+        "url": "https://www.valoraanalitik.com/nequi-rentabilidades-bolsillos-rendimientos/",
+        "resumen": "Los Bolsillos interesantes se implementarán de manera gradual. Esta primera etapa funcionará para quienes reciben su nómina en Nequi.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Nequi entra oficialmente al negocio de las rentabilidades: ofrecerá bolsillos con rendimientos personalizados",
+        "capturado": "2026-11-06T17:17:25-05:00"
+      },
       {
         "titulo": "Pensión en Colombia: es posible perder la mesada tras aportar semanas extra",
         "url": "https://www.valoraanalitik.com/pension-en-colombia-puede-quedarse-sin-mesada-despues-de-cotizar-semanas-adicionales/",
@@ -533,79 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Milagro Week llegará a Europa: Madrid será sede en marzo de 2027",
         "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Campetrol sugiere ley estatutaria de consulta previa y tiempos en permisos ambientales para reactivar hidrocarburos",
-        "url": "https://www.valoraanalitik.com/campetrol-propone-ley-estatutaria-de-consulta-previa-y-plazos-en-licencias-ambientales-para-reactivar-petroleo-y-gas/",
-        "resumen": "El presidente del gremio, Nelson Castañeda, se refirió también a las claves que tendrá el país con la reactivación de contratos en Venezuela.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Campetrol propone ley estatutaria de consulta previa y plazos en licencias ambientales para reactivar petróleo y gas",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Cronograma del concurso de la DIAN: 218000 candidatos compiten por 1990 vacantes",
-        "url": "https://www.valoraanalitik.com/fechas-clave-de-la-convocatoria-de-empleo-en-la-dian-218-000-aspirantes-van-por-1-990-puestos/",
-        "resumen": "La convocatoria de empleo en la DIAN avanza con más de 218.000 aspirantes. Estas son las fechas, los horarios y las condiciones de las pruebas.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "Fechas clave de la convocatoria de empleo en la DIAN: 218.000 aspirantes van por 1.990 puestos",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo anuncia inversión en obra grande para restaurar el gasoducto binacional",
-        "url": "https://www.valoraanalitik.com/gobierno-confirma-que-invertira-en-megaproyecto-para-recuperar-gasoducto-entre-colombia-y-venezuela/",
-        "resumen": "La inclusión como proyecto estratégico representa un avance administrativo, pero no significa que pueda transportarse el gas por ahora.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno confirma que invertirá en megaproyecto para recuperar gasoducto entre Colombia y Venezuela",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense abre a la baja en el país tras reveses de Trump en los comicios",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-en-colombia-arranca-a-la-baja-tras-derrota-politica-de-donald-trump-en-elecciones-de-midterm/",
-        "resumen": "Esto es lo que mueve al dólar en Colombia al arranque de la jornada.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia arranca a la baja tras derrota política de Donald Trump en elecciones de Midterm",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Movimientos previstos de compra y venta accionaria por el ajuste del índice bursátil principal",
-        "url": "https://www.valoraanalitik.com/estos-serian-los-flujos-de-compra-y-venta-de-acciones-con-el-rebalanceo-del-msci-colcap/",
-        "resumen": "El rebalanceo será implementado al cierre del 30 de noviembre y efectivo desde el primero de diciembre.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Estos serían los flujos de compra y venta de acciones con el rebalanceo del principal índice de la Bolsa de Colombia",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Impacto del fenómeno de El Niño en las tarifas eléctricas nacionales según su severidad histórica",
-        "url": "https://www.valoraanalitik.com/asi-le-ha-pegado-el-fenomeno-de-el-nino-en-colombia-al-precio-de-la-energia-intensidad-es-una-de-las-mas-altas-en-30-anos/",
-        "resumen": "El fenómeno de El Niño en Colombia ya lleva varias semanas generado afectaciones.",
-        "autor": "",
-        "subseccion": "Medio ambiente",
-        "publicacion": "",
-        "titulo_fuente": "Así le ha pegado el fenómeno de El Niño en Colombia al precio de la energía: Intensidad es una de las más altas en 30 años",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Emcali seleccionó firma para actualizar la iluminación pública caleña a sistema LED",
-        "url": "https://www.valoraanalitik.com/emcali-escogio-empresa-para-modernizar-el-alumbrado-publico-de-cali-con-tecnologia-led/",
-        "resumen": "El proyecto entrará en una etapa de alistamiento de aproximadamente tres meses.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Emcali escogió empresa para modernizar el alumbrado público de Cali con tecnología LED",
-        "capturado": "2026-11-04T13:32:12-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Fundación WWB Colombia actuará como inversor ancla en a2censo de la Bolsa de Valores de Colombia",
+        "url": "https://www.valoraanalitik.com/wwb-colombia-a2censo-bolsa-colombia/",
+        "resumen": "La alianza busca ampliar el acceso de las mipymes a financiación, con un foco territorial en el Pacífico colombiano y criterios de equidad de género.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Fundación WWB Colombia será inversionista ancla en a2censo de la Bolsa de Colombia",
+        "capturado": "2026-11-06T17:17:25-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella desbloquea tramo de Komodo-1, proyecto petrolero y gasífero en el Caribe",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-destraba-parte-de-komodo-1-megaproyecto-en-el-mar-caribe-de-petroleo-y-gas/",
+        "resumen": "En total, se retiraron tres exigencias para el seguimiento ambiental de este proyecto.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella destraba parte de Komodo-1, megaproyecto en el mar Caribe de petróleo y gas",
+        "capturado": "2026-11-06T17:17:25-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella informa el volumen de gas importable desde Venezuela en su fase inicial",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-revela-cuanto-gas-se-podria-importar-desde-venezuela-en-primera-fase/",
+        "resumen": "La ministra de Minas y Energía, María Nohemi Arboleda, detalló el plan para importar gas desde Venezuela en medio del déficit que atraviesa Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella revela cuánto gas se podría importar desde Venezuela en primera fase",
+        "capturado": "2026-11-06T17:17:25-05:00"
+      },
       {
         "titulo": "Alianza Valores actuará como creador de mercado para 11 acciones en la BVC y este es el listado",
         "url": "https://www.valoraanalitik.com/alianza-valores-sera-formador-de-liquidez-de-11-acciones-en-la-bolsa-de-colombia-estas-son-las-especies/",
@@ -1174,36 +1204,6 @@
         "subseccion": "Infraestructura",
         "publicacion": "",
         "titulo_fuente": "Entrevista | Constructora Camu anticipa crecimiento de vivienda en Colombia en 2027 y revela prioridades",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Gastronomía colombiana en crisis con más de 6.500 clausuras previstas y alarma por tributos",
-        "url": "https://www.valoraanalitik.com/restaurantes-en-colombia-enfrentan-crisis-cierres-superarian-los-6-500-y-alertan-por-nuevos-impuestos/",
-        "resumen": "La discusión tributaria abre un nuevo frente de incertidumbre para los empresarios gastronómicos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Restaurantes en Colombia enfrentan crisis: cierres superarían los 6.500 y alertan por nuevos impuestos",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "GeoPark llega a Venezuela y Grupo Gilinski asume el dominio de la petrolera",
-        "url": "https://www.valoraanalitik.com/geopark-concreta-su-entrada-a-venezuela-y-grupo-gilinski-toma-el-control-de-la-petrolera/",
-        "resumen": "Grupo Gilinski tendrá el 56,3 % de GeoPark, que activó un contrato petrolero por 25 años en Venezuela y prepara el inicio de operaciones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark concreta su entrada a Venezuela y Grupo Gilinski toma el control de la petrolera",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Entrevista sobre el progreso de Territorio Panaca, iniciativa turística de un billón de pesos en Colombia",
-        "url": "https://www.valoraanalitik.com/entrevista-asi-avanza-territorio-panaca-el-megaproyecto-turistico-de-1-billon-que-es-unico-en-colombia-y-que-estara-en-la-milagro-week/",
-        "resumen": "Lucas Naranjo, gerente de Perfek, la constructora encargada del megaproyecto, habló con Valora Analitik sobre el avance de Territorio Panaca.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Así avanza Territorio Panaca, el megaproyecto turístico de $1 billón que es único en Colombia y que estará en la Milagro Week",
         "capturado": "2026-11-02T13:44:23-05:00"
       }
     ]
