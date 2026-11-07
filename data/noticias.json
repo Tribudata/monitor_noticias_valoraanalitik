@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-06T17:17:25-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-11-06T21:15:43-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Santiago Peña resultó detenido a raíz del colapso financiero en Ueno Bank",
+        "url": "https://www.valoraanalitik.com/santiago-pena-fue-arrestado-tras-la-crisis-financiera-de-ueno-bank/",
+        "resumen": "El procedimiento se produjo en medio de la crisis institucional desencadenada por la situación financiera de Ueno Bank.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Santiago Peña fue arrestado tras la crisis financiera de Ueno Bank",
+        "capturado": "2026-11-06T21:15:43-05:00"
+      },
+      {
+        "titulo": "Designan a Gladys Vega en la vicepresidencia corporativa de Talento Organizacional de Ecopetrol",
+        "url": "https://www.valoraanalitik.com/gladys-vega-es-nombrada-nueva-vicepresidenta-corporativa-de-talento-organizacional-de-ecopetrol/",
+        "resumen": "Su trayectoria profesional supera los 27 años en la dirección de áreas de recursos humanos de organizaciones como Altra.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gladys Vega es nombrada nueva vicepresidenta corporativa de Talento Organizacional de Ecopetrol",
+        "capturado": "2026-11-06T21:15:43-05:00"
+      },
       {
         "titulo": "El gravamen predial nacional podría subir más al incurrir en ciertas conductas",
         "url": "https://www.valoraanalitik.com/impuesto-predial-en-colombia-podria-aumentarle-mas-si-hace-alguna-de-estas-acciones-tome-nota/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Fracking le daría varias décadas a Colombia para producir petróleo y gas",
         "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia: estimaciones de cotización para finalizar 2026 y pautas para compradores",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-proyecciones-de-precio-para-el-cierre-de-2026-y-senales-para-quienes-quieren-comprar/",
-        "resumen": "El dólar vuelve a moverse en Colombia y su comportamiento abre un nuevo escenario para viajeros, compradores y personas que invierten en divisas.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia: proyecciones de precio para el cierre de 2026 y señales para quienes quieren comprar",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Milagro Week se realizará en Europa: Madrid albergará el evento en marzo de 2027",
-        "url": "https://www.valoraanalitik.com/milagro-week-llegara-a-europa-madrid-sera-sede-en-marzo-de-2027/",
-        "resumen": "Las Milagro Week son encuentros empresariales impulsados por el Gobierno Nacional para presentar oportunidades de inversión en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Milagro Week llegará a Europa: Madrid será sede en marzo de 2027",
-        "capturado": "2026-11-04T13:32:12-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Las ventas de Cencosud crecieron un 9,2 % entre julio y septiembre gracias al impulso de Plaza Central en Colombia",
+        "url": "https://www.valoraanalitik.com/cencosud-aumento-92-sus-ingresos-en-el-tercer-trimestre-plaza-central-aporto-al-desempeno-en-colombia/",
+        "resumen": "Su filial Cenco Malls elevó 14,8 % sus ingresos. En Colombia, Plaza Central completó su primer trimestre de consolidación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cencosud aumentó 9,2 % sus ingresos en el tercer trimestre; Plaza Central aportó al desempeño en Colombia",
+        "capturado": "2026-11-06T21:15:43-05:00"
+      },
       {
         "titulo": "Fundación WWB Colombia actuará como inversor ancla en a2censo de la Bolsa de Valores de Colombia",
         "url": "https://www.valoraanalitik.com/wwb-colombia-a2censo-bolsa-colombia/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Ley de rescate fiscal plantea estabilidad tributaria por 16 años para nuevas inversiones",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Entrevista a Constructora Camu sobre perspectivas de vivienda para 2027 y sus enfoques",
-        "url": "https://www.valoraanalitik.com/entrevista-constructora-camu-anticipa-crecimiento-de-vivienda-en-colombia-en-2027-y-revela-prioridades/",
-        "resumen": "Su gerente general conversó con Valora Analitik sobre las señales de recuperación que están viendo para el sector en el Gobierno De la Espriella.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Constructora Camu anticipa crecimiento de vivienda en Colombia en 2027 y revela prioridades",
         "capturado": "2026-11-02T13:44:23-05:00"
       }
     ]
