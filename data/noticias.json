@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-07T15:03:22-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-07T18:50:40-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Antioquia metió cuatro localidades en el top 10 de desempeño fiscal de 2025",
+        "url": "https://www.valoraanalitik.com/estos-son-los-municipios-con-mejor-desempeno-fiscal-en-2025-antioquia-posiciono-a-cuatro-en-los-10-primeros-lugares/",
+        "resumen": "El estudio es realizado por el DNP, entidad que también destacó un aumento en la calificación de sostenibilidad de varios municipios.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los municipios con mejor desempeño fiscal en 2025: Antioquia posicionó a cuatro en los 10 primeros lugares",
+        "capturado": "2026-11-07T18:50:40-05:00"
+      },
+      {
+        "titulo": "Riesgos eléctricos por El Niño en 2027: especialista analiza posible apagón",
+        "url": "https://www.valoraanalitik.com/habra-apagones-en-colombia-en-2027-experto-explica-los-riesgos-para-el-sistema-electrico-por-el-fenomeno-de-el-nino/",
+        "resumen": "¿Podría Colombia quedarse sin luz en 2027? El fenómeno de El Niño plantea nuevos desafíos para los embalses y la generación de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "¿Habrá apagones en Colombia en 2027? Experto explica los riesgos para el sistema eléctrico por el fenómeno de El Niño",
+        "capturado": "2026-11-07T18:50:40-05:00"
+      },
+      {
+        "titulo": "Tres consorcios competirán por la millonaria licitación de la Línea 2 del metro",
+        "url": "https://www.valoraanalitik.com/estos-son-los-tres-grupos-que-pujaran-por-la-billonaria-licitacion-de-la-linea-2-del-metro-de-bogota/",
+        "resumen": "El Distrito señaló que la Línea 2 contará con 15,5 kilómetros de extensión y 11 estaciones, 10 de ellas subterráneas.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los tres grupos que pujarán por la billonaria licitación de la Línea 2 del metro de Bogotá",
+        "capturado": "2026-11-07T18:50:40-05:00"
+      },
+      {
+        "titulo": "Centro Democrático objeta ley fiscal y sugiere acabar el 4x1000 y vender Ecopetrol",
+        "url": "https://www.valoraanalitik.com/centro-democratico-se-va-contra-ley-de-rescate-fiscal-propone-eliminar-4x1-000-y-vender-acciones-de-ecopetrol/",
+        "resumen": "La colectividad también propuso reducir la tarifa aplicable a los dividendos de 20 % a 10 %.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Centro Democrático se va contra Ley de Rescate Fiscal: propone eliminar 4×1.000 y vender acciones de Ecopetrol",
+        "capturado": "2026-11-07T18:50:40-05:00"
+      },
       {
         "titulo": "Analista advierte peligros para compañías, trabajo e inversión por norma de salvamento financiero",
         "url": "https://www.valoraanalitik.com/ley-de-rescate-economico-estos-son-los-riesgos-que-advierte-analista-para-empresas-empleo-e-inversion/",
@@ -563,49 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Inflación en Colombia terminaría más arriba de lo previsto en 2026 y PIB crecerá menos de lo proyectado, dice informe del BanRep",
         "capturado": "2026-11-05T02:14:22-05:00"
-      },
-      {
-        "titulo": "EPS Sanitas implementa modificación central para usuarios en Bogotá y ya entró en vigencia",
-        "url": "https://www.valoraanalitik.com/eps-sanitas-anuncia-cambio-clave-para-sus-afiliados-en-bogota-ya-empezo-a-regir/",
-        "resumen": "Miles de usuarios de Sanitas deben tener en cuenta un ajuste en la entrega de medicamentos. La EPS explicó qué deben hacer para evitar contratiempos.",
-        "autor": "",
-        "subseccion": "Reforma a la salud colombia",
-        "publicacion": "",
-        "titulo_fuente": "EPS Sanitas anuncia cambio clave para sus afiliados en Bogotá: ya empezó a regir",
-        "capturado": "2026-11-05T02:14:22-05:00"
-      },
-      {
-        "titulo": "Elección del líder de la ANDI llega a dos aspirantes tras descartar otros y estas son sus visiones",
-        "url": "https://www.valoraanalitik.com/asi-avanza-la-eleccion-del-presidente-de-la-andi-solo-quedan-dos-candidatos-y-estas-son-sus-perspectivas/",
-        "resumen": "Los candidatos explicaron sus propuestas y lo que impulsarán en su posible elección como presidente de la ANDI.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Así avanza la elección del presidente de la ANDI: solo quedan dos candidatos y estas son sus perspectivas",
-        "capturado": "2026-11-05T02:14:22-05:00"
-      },
-      {
-        "titulo": "Colsubsidio activa giros instantáneos de subsidios en el país mediante la red Bre-B",
-        "url": "https://www.valoraanalitik.com/subsidios-colombia-bre-b-colsubsidio/",
-        "resumen": "La caja de compensación y Redeban sellaron una alianza para que más de 408.000 afiliados transfieran su cuota monetaria a sus cuentas con este sistema.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Subsidios en Colombia ya se pueden transferir por Bre-B; Colsubsidio habilitó pagos inmediatos",
-        "capturado": "2026-11-05T02:14:22-05:00"
-      },
-      {
-        "titulo": "Corte Suprema aclara cuándo el divorcio no frena la pensión de sobrevivientes",
-        "url": "https://www.valoraanalitik.com/sustitucion-pensional-corte-suprema-explica-cuando-una-separacion-no-impide-reclamar-la-mesada/",
-        "resumen": "Una decisión de la Corte Suprema pone el foco en las razones de una separación y en las pruebas que pueden respaldar la solicitud de sustitución pensional.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Sustitución pensional: Corte Suprema explica cuándo una separación no impide reclamar la mesada",
-        "capturado": "2026-11-04T19:15:17-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Los tres consorcios que competirán por el millonario contrato de la Línea 2 del metro bogotano",
+        "url": "https://www.valoraanalitik.com/estos-son-los-tres-grupos-que-pujaran-por-la-billonaria-licitacion-de-la-linea-2-del-metro-de-bogota/",
+        "resumen": "El Distrito señaló que la Línea 2 contará con 15,5 kilómetros de extensión y 11 estaciones, 10 de ellas subterráneas.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los tres grupos que pujarán por la billonaria licitación de la Línea 2 del metro de Bogotá",
+        "capturado": "2026-11-07T18:50:40-05:00"
+      },
+      {
+        "titulo": "Centro Democrático objeta ley fiscal y plantea suprimir el cuatro por mil y enajenar Ecopetrol",
+        "url": "https://www.valoraanalitik.com/centro-democratico-se-va-contra-ley-de-rescate-fiscal-propone-eliminar-4x1-000-y-vender-acciones-de-ecopetrol/",
+        "resumen": "La colectividad también propuso reducir la tarifa aplicable a los dividendos de 20 % a 10 %.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Centro Democrático se va contra Ley de Rescate Fiscal: propone eliminar 4×1.000 y vender acciones de Ecopetrol",
+        "capturado": "2026-11-07T18:50:40-05:00"
+      },
       {
         "titulo": "Riesgos para empleo, inversión y empresas señala analista frente a ley de rescate económico",
         "url": "https://www.valoraanalitik.com/ley-de-rescate-economico-estos-son-los-riesgos-que-advierte-analista-para-empresas-empleo-e-inversion/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Minería y energía",
         "publicacion": "",
         "titulo_fuente": "Ingresos netos de Saudi Aramco crecen más de 30 % pese a la guerra en Irán, aunque cae la producción",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Colsubsidio y Magneto buscan renovar las metodologías de contratación de personal",
-        "url": "https://www.valoraanalitik.com/magneto-y-colsubsidio-apuestan-por-transformar-los-procesos-de-seleccion-laboral/",
-        "resumen": "La alianza incorpora herramientas de analítica e inteligencia artificial para mejorar la conexión entre las empresas y el talento disponible.",
-        "autor": "",
-        "subseccion": "Empleos",
-        "publicacion": "",
-        "titulo_fuente": "Magneto y Colsubsidio apuestan por transformar los procesos de selección laboral",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Asumen a Lucas Madriñán como la cabeza de RappiPay en Colombia",
-        "url": "https://www.valoraanalitik.com/lucas-madrinan-es-el-nuevo-ceo-de-rappipay-colombia/",
-        "resumen": "La compañía duplicó su base de clientes, al pasar de 350.000 a más de 700.000 usuarios y y superó el billón de pesos en cartera administrada entre RappiCard",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Lucas Madriñán es el nuevo CEO de RappiPay Colombia",
         "capturado": "2026-11-03T11:55:29-05:00"
       }
     ]
