@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-07T04:07:11-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-07T10:50:59-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Sexto ataque a peaje en Colombia este sábado en menos de tres meses tras nuevo atentado",
+        "url": "https://www.valoraanalitik.com/nuevo-atentado-a-peaje-en-colombia-este-sabado-van-seis-ataques-en-menos-de-tres-meses/",
+        "resumen": "La Policía y el Ejército adelantan labores de búsqueda y desactivación de posibles explosivos que habrían quedado en el lugar.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo atentado a peaje en Colombia este sábado: van seis ataques en menos de tres meses",
+        "capturado": "2026-11-07T10:50:59-05:00"
+      },
+      {
+        "titulo": "Proyectos por $533 billones para inversión público privada tendrá el Plan de Desarrollo de De la Espriella",
+        "url": "https://www.valoraanalitik.com/plan-de-desarrollo-de-de-la-espriella-incluira-proyectos-por-533-billones-para-inversion-publico-privada/",
+        "resumen": "Julián Buitrago Arango, director del DNP, explicó que la cifra reúne recursos públicos y privados, inversión extranjera, banca multilateral y regalías.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Plan de Desarrollo de De la Espriella incluirá proyectos por $533 billones para inversión público – privada",
+        "capturado": "2026-11-07T10:50:59-05:00"
+      },
+      {
+        "titulo": "Fuerte incertidumbre sobre las causas del movimiento de la inflación en Colombia en octubre",
+        "url": "https://www.valoraanalitik.com/esto-habria-movido-a-la-inflacion-en-colombia-durante-octubre-hay-fuerte-incertidumbre/",
+        "resumen": "Espera el mercado que la inflación en Colombia vuelva a desacelerarse hasta el año entrante.",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Esto habría movido a la inflación en Colombia durante octubre: Hay fuerte incertidumbre",
+        "capturado": "2026-11-07T10:50:59-05:00"
+      },
       {
         "titulo": "Santiago Peña resultó detenido a raíz del colapso financiero en Ueno Bank",
         "url": "https://www.valoraanalitik.com/santiago-pena-fue-arrestado-tras-la-crisis-financiera-de-ueno-bank/",
@@ -573,39 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Criptomonedas en Colombia: Gobierno De La Espriella propone nuevo impuesto para declarar activos no reportados",
         "capturado": "2026-11-04T19:15:17-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia finaliza decreciente pero se mantiene sobre los 3.200 pesos post comicios estadounidenses",
-        "url": "https://www.valoraanalitik.com/precio-del-dolar-en-colombia-miercoles-4-de-noviembre-de-2026/",
-        "resumen": "Los inversionistas siguen de cerca el panorama político estadounidense y las discusiones económicas locales.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia cierra a la baja aunque sigue arriba de los $3.200 tras elecciones en EE. UU.",
-        "capturado": "2026-11-04T19:15:17-05:00"
-      },
-      {
-        "titulo": "Chevron destinará US$100 millones en Colombia para mejorar el suministro de combustibles terrestres y aéreos",
-        "url": "https://www.valoraanalitik.com/chevron-invertira-us100-millones-en-colombia-para-fortalecer-abastecimiento-de-combustibles-terrestres-y-aereos/",
-        "resumen": "La compañía, señaló que la meta es ampliar la red de Texaco con 200 estaciones de servicio adicionales.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Chevron invertirá US$100 millones en Colombia para fortalecer abastecimiento de combustibles terrestres y aéreos",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "El fracking otorgaría múltiples décadas a Colombia para la extracción de petróleo y gas",
-        "url": "https://www.valoraanalitik.com/fracking-le-daria-varias-decadas-a-colombia-para-producir-petroleo-y-gas/",
-        "resumen": "El presidente de Campetrol manifestó que, si se avanza en medidas tributarias como el RUGE, habría potencial para desarrollar proyectos de producción.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Fracking le daría varias décadas a Colombia para producir petróleo y gas",
-        "capturado": "2026-11-04T13:32:12-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "La gran empresa de transporte Suma en Bogotá y el país muestra sus metas hacia el 2027",
+        "url": "https://www.valoraanalitik.com/suma-la-gigante-operadora-de-transporte-publico-en-bogota-y-colombia-revela-sus-apuestas-para-2027/",
+        "resumen": "Entre las prioridades está la recuperación de la seguridad en las troncales.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Suma, la gigante operadora de transporte público en Bogotá y Colombia revela sus apuestas para 2027",
+        "capturado": "2026-11-07T10:50:59-05:00"
+      },
+      {
+        "titulo": "Iniciativa de De la Espriella contempla obras por 533 billones de pesos mixtas",
+        "url": "https://www.valoraanalitik.com/plan-de-desarrollo-de-de-la-espriella-incluira-proyectos-por-533-billones-para-inversion-publico-privada/",
+        "resumen": "Julián Buitrago Arango, director del DNP, explicó que la cifra reúne recursos públicos y privados, inversión extranjera, banca multilateral y regalías.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Plan de Desarrollo de De la Espriella incluirá proyectos por $533 billones para inversión público – privada",
+        "capturado": "2026-11-07T10:50:59-05:00"
+      },
       {
         "titulo": "Las ventas de Cencosud crecieron un 9,2 % entre julio y septiembre gracias al impulso de Plaza Central en Colombia",
         "url": "https://www.valoraanalitik.com/cencosud-aumento-92-sus-ingresos-en-el-tercer-trimestre-plaza-central-aporto-al-desempeno-en-colombia/",
@@ -1185,26 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Alicorp adquiere Rama y otras 18 marcas en millonaria operación que tendrá a Cali como eje regional",
         "capturado": "2026-11-02T20:29:24-05:00"
-      },
-      {
-        "titulo": "Turismo capilar genera US$4.500 millones y el país busca mayor participación",
-        "url": "https://www.valoraanalitik.com/turismo-capilar-mueve-un-mercado-de-us4-500-millones/",
-        "resumen": "El crecimiento de las búsquedas internacionales por trasplantes capilares abre espacio para que el país compita como destino de restauración capilar.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Turismo capilar mueve un mercado de US$4.500 millones y Colombia busca ganar espacio",
-        "capturado": "2026-11-02T13:44:23-05:00"
-      },
-      {
-        "titulo": "Proyecto de salvavidas fiscal propone dieciséis años de estabilidad tributaria para nuevos capitales",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-fiscal-plantea-estabilidad-tributaria-por-16-anos-para-nuevas-inversiones/",
-        "resumen": "El RUGE contempla una tarifa de renta de 20 % para proyectos que comiencen su ejecución en 2027 y 2028.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ley de rescate fiscal plantea estabilidad tributaria por 16 años para nuevas inversiones",
-        "capturado": "2026-11-02T13:44:23-05:00"
       }
     ]
   }
