@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-08T00:30:33-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-08T08:03:48-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "La disputa por la dirección de la ANDI llega a su fase decisiva y así se conocerá al triunfador",
+        "url": "https://www.valoraanalitik.com/el-pulso-por-la-presidencia-de-la-andi-entra-en-su-recta-final-asi-se-definira-al-ganador/",
+        "resumen": "Se acerca la decisión en la ANDI: Murgas y Nariño buscan quedarse con la presidencia del gremio.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "El pulso por la presidencia de la ANDI entra en su recta final: así se definirá al ganador",
+        "capturado": "2026-11-08T08:03:48-05:00"
+      },
+      {
+        "titulo": "El costo de los comestibles en Colombia aumentaría hasta alcanzar los topes de 2023",
+        "url": "https://www.valoraanalitik.com/inflacion-en-el-precio-de-los-alimentos-en-colombia-subiria-hasta-maximos-de-2023/",
+        "resumen": "Buena parte de la inflación se explica por el aumento constante en el precio de los alimentos en Colombia",
+        "autor": "",
+        "subseccion": "Inflación",
+        "publicacion": "",
+        "titulo_fuente": "Inflación en el precio de los alimentos en Colombia subiría hasta máximos de 2023",
+        "capturado": "2026-11-08T08:03:48-05:00"
+      },
       {
         "titulo": "Antioquia metió cuatro localidades en el top 10 de desempeño fiscal de 2025",
         "url": "https://www.valoraanalitik.com/estos-son-los-municipios-con-mejor-desempeno-fiscal-en-2025-antioquia-posiciono-a-cuatro-en-los-10-primeros-lugares/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Premercado | Bolsas mixtas tras desplome tecnológico y posible desescalada de la guerra entre Irán y EE. UU.",
         "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "¿Qué monto persigue captar la administración De la Espriella mediante la Ley Rescate y su base de discusión?",
-        "url": "https://www.valoraanalitik.com/cuanta-plata-necesita-recaudar-el-gobierno-de-la-espriella-con-la-ley-rescate-esto-seria-lo-minimo-a-negociar/",
-        "resumen": "De acuerdo con el gobierno De la Espriella, la Ley Rescate debería aprobarse antes de que termine este año.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "¿Cuánta plata necesita recaudar el gobierno De la Espriella con la Ley Rescate?: Esto sería lo mínimo a negociar",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "El costo de vida en Colombia cerrará 2026 sobre lo estimado y la economía avanzará menos, según el BanRep",
-        "url": "https://www.valoraanalitik.com/inflacion-en-colombia-terminaria-mas-arriba-de-lo-previsto-en-2026-y-pib-crecera-menos-de-lo-proyectado-dice-informe-del-banrep/",
-        "resumen": "Las nuevas previsiones representan un ajuste frente a las estimaciones presentadas durante el segundo trimestre del año.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Inflación en Colombia terminaría más arriba de lo previsto en 2026 y PIB crecerá menos de lo proyectado, dice informe del BanRep",
-        "capturado": "2026-11-05T02:14:22-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "La puja por la dirección de la ANDI llega a su fase decisiva y así se conocerá al vencedor",
+        "url": "https://www.valoraanalitik.com/el-pulso-por-la-presidencia-de-la-andi-entra-en-su-recta-final-asi-se-definira-al-ganador/",
+        "resumen": "Se acerca la decisión en la ANDI: Murgas y Nariño buscan quedarse con la presidencia del gremio.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "El pulso por la presidencia de la ANDI entra en su recta final: así se definirá al ganador",
+        "capturado": "2026-11-08T08:03:48-05:00"
+      },
       {
         "titulo": "Los tres consorcios que competirán por el millonario contrato de la Línea 2 del metro bogotano",
         "url": "https://www.valoraanalitik.com/estos-son-los-tres-grupos-que-pujaran-por-la-billonaria-licitacion-de-la-linea-2-del-metro-de-bogota/",
@@ -1194,16 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Multinacional invierte más de US$5 millones en Medellín y amplía su capacidad logística en Colombia",
-        "capturado": "2026-11-03T11:55:29-05:00"
-      },
-      {
-        "titulo": "Ganancias netas de Saudi Aramco suben más del 30 por ciento a pesar del conflicto en Irán y baja la extracción",
-        "url": "https://www.valoraanalitik.com/ingresos-netos-de-saudi-aramco-crecen-mas-de-30-pese-a-la-guerra-en-iran-aunque-cae-la-produccion/",
-        "resumen": "La guerra en Irán no es el único frente de preocupación. También ha enfrentado ataques relacionados con los combates contra los hutíes en Yemen.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ingresos netos de Saudi Aramco crecen más de 30 % pese a la guerra en Irán, aunque cae la producción",
         "capturado": "2026-11-03T11:55:29-05:00"
       }
     ]
