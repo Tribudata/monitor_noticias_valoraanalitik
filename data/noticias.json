@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-08T13:26:15-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-11-08T17:23:13-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "El país reduce el uso de efectivo en pagos mientras aumenta la cantidad de billetes circulantes",
+        "url": "https://www.valoraanalitik.com/colombia-usa-cada-vez-menos-efectivo-para-pagar-pero-tiene-mas-billetes-en-circulacion/",
+        "resumen": "El uso de billeteras digitales y transferencias crece, mientras el dinero físico conserva un papel relevante en los hogares de menores ingresos.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia usa cada vez menos efectivo para pagar, pero tiene más billetes en circulación",
+        "capturado": "2026-11-08T17:23:13-05:00"
+      },
+      {
+        "titulo": "Aire desembolsa 300000 millones a térmicas por caja pero la crisis financiera persiste",
+        "url": "https://www.valoraanalitik.com/air-e-pago-300-000-millones-a-generadoras-termicas-para-aliviar-estres-de-caja-el-problema-sigue-sin-resolverse/",
+        "resumen": "Los recursos llegaron del Fondo Empresarial de la Superintendencia de Servicios Públicos, entidad que tiene intervenida a la compañía desde septiembre de 2024.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Air-e pagó $300.000 millones a generadoras térmicas para aliviar estrés de caja: el problema sigue sin resolverse",
+        "capturado": "2026-11-08T17:23:13-05:00"
+      },
+      {
+        "titulo": "Corferias realizará ruedas de negocios virtuales en noviembre para alimentos energía y construcción",
+        "url": "https://www.valoraanalitik.com/ruedas-de-negocio-2026-noviembre-econexia/",
+        "resumen": "Con estas dos ruedas, del 17 al 20 y del 24 al 27 de noviembre, termina el calendario 2026, que en julio dejó más de 600 citas en el sector creativo.",
+        "autor": "",
+        "subseccion": "Pymes en colombia",
+        "publicacion": "",
+        "titulo_fuente": "Empresas de construcción, energía y alimentos tendrán ruedas de negocios virtuales en noviembre a través de Econexia de Corferias",
+        "capturado": "2026-11-08T17:23:13-05:00"
+      },
+      {
+        "titulo": "La primera línea del Metro de Bogotá alcanza 84 por ciento de progreso y finaliza puente en la NQS",
+        "url": "https://www.valoraanalitik.com/primera-linea-del-metro-de-bogota-supera-84-de-avance-y-completa-puente-ferroviario-en-la-nqs-con-calle-8-sur/",
+        "resumen": "El Distrito informó que terminó la fundición del puente ferroviario en este sector de la ciudad.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Primera línea del Metro de Bogotá supera 84 % de avance y completa puente ferroviario en la NQS con calle 8 sur",
+        "capturado": "2026-11-08T17:23:13-05:00"
+      },
       {
         "titulo": "ANI pacta 12 acuerdos con concesionarios y frena demandas superiores a $7,5 billones",
         "url": "https://www.valoraanalitik.com/ani-logra-12-acuerdos-con-concesionarios-y-evita-reclamaciones-por-mas-de-75-billones/",
@@ -563,49 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De La Espriella explora con Air Europa nueva ruta entre Cali y Madrid",
         "capturado": "2026-11-05T16:51:29-05:00"
-      },
-      {
-        "titulo": "Qatar Airways completó su vuelo inicial en el país: los pormenores del trayecto",
-        "url": "https://www.valoraanalitik.com/qatar-airways-ya-realizo-su-primer-vuelo-en-colombia-los-detalles-de-la-nueva-ruta/",
-        "resumen": "Qatar Airways inició operaciones en Colombia con dos vuelos semanales. La ruta conecta a Bogotá con Doha y amplía las opciones hacia Asia y Oceanía.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Qatar Airways ya realizó su primer vuelo en Colombia: los detalles de la nueva ruta",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Revolut crece en el territorio con nuevo capital; su avalúo pasa de US$115.000 millones",
-        "url": "https://www.valoraanalitik.com/revolut-el-nuevo-banco-en-colombia-avanza-en-su-expansion-con-nuevo-fondeo-valoracion-supera-us115-000-millones/",
-        "resumen": "El crecimiento internacional de Revolut está respaldado por sus resultados financieros. En 2025, los ingresos de la compañía aumentaron 46 %.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Revolut, el nuevo banco en Colombia, avanza en su expansión con nuevo fondeo; valoración supera US$115.000 millones",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "La escuadra de Portugal dejará de percibir casi 100 millones de euros por la salida de Cristiano Ronaldo",
-        "url": "https://www.valoraanalitik.com/la-seleccion-de-portugal-perdera-casi-100-millones-de-euros-con-la-renuncia-de-cristiano-ronaldo/",
-        "resumen": "Cristiano Ronaldo apalanca millones en patrocinios, eventos, transmisiones y ventas de camisetas",
-        "autor": "",
-        "subseccion": "Futbol internacional",
-        "publicacion": "",
-        "titulo_fuente": "La Selección de Portugal perderá casi 100 millones de euros con la renuncia de Cristiano Ronaldo",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Tecnoglass informó ventas récord al tercer trimestre y prevé rebasar US$1.100 millones para 2026",
-        "url": "https://www.valoraanalitik.com/tecnoglass-ingresos-record-3t-2026/",
-        "resumen": "La compañía barranquillera mejoró su perspectiva de ingresos y Ebitda para el cierre de este año, gracias a la cartera de pedidos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Tecnoglass reportó ingresos récord en tercer trimestre y proyecta superar US$1.100 millones en todo 2026",
-        "capturado": "2026-11-05T10:42:58-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Air-e giró 300.000 millones a térmicas para caja y la crisis continúa",
+        "url": "https://www.valoraanalitik.com/air-e-pago-300-000-millones-a-generadoras-termicas-para-aliviar-estres-de-caja-el-problema-sigue-sin-resolverse/",
+        "resumen": "Los recursos llegaron del Fondo Empresarial de la Superintendencia de Servicios Públicos, entidad que tiene intervenida a la compañía desde septiembre de 2024.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Air-e pagó $300.000 millones a generadoras térmicas para aliviar estrés de caja: el problema sigue sin resolverse",
+        "capturado": "2026-11-08T17:23:13-05:00"
+      },
+      {
+        "titulo": "Medios informativos del país afrontan supuestas intimidaciones ilegales",
+        "url": "https://www.valoraanalitik.com/noticieros-colombianos-enfrentan-presuntas-amenazas-de-grupos-al-margen-de-la-ley/",
+        "resumen": "Caracol evacuó a parte de su personal de sus instalaciones en Bogotá como medida preventiva, luego de recibir alertas sobre posibles atentados contra el canal.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Noticieros colombianos enfrentan presuntas amenazas de grupos al margen de la ley",
+        "capturado": "2026-11-08T17:23:13-05:00"
+      },
+      {
+        "titulo": "Desplazamientos terrestres en Colombia: cuatro rubros a presupuestar",
+        "url": "https://www.valoraanalitik.com/viajes-por-carretera-en-colombia-cuatro-gastos-que-deberia-incluir-en-su-presupuesto/",
+        "resumen": "Gasolina, peajes, parqueaderos y mantenimiento son algunos de los costos que conviene revisar antes de salir de viaje durante un puente festivo.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Viajes por carretera en Colombia: cuatro gastos que debería incluir en su presupuesto",
+        "capturado": "2026-11-08T17:23:13-05:00"
+      },
       {
         "titulo": "ANI alcanza 12 pactos con concesionarios y previene demandas por más de $7,5 billones",
         "url": "https://www.valoraanalitik.com/ani-logra-12-acuerdos-con-concesionarios-y-evita-reclamaciones-por-mas-de-75-billones/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "GeoPark elevó 119,4 % su utilidad entre enero y septiembre de 2026; destacó ingreso a Venezuela",
         "capturado": "2026-11-03T21:36:43-05:00"
-      },
-      {
-        "titulo": "Arranca el II Salón Colombia Itaú en la Feria del Millón para apoyar creadores nuevos de toda la nación",
-        "url": "https://www.valoraanalitik.com/llega-el-ii-salon-colombia-itau-a-la-feria-del-millon/",
-        "resumen": "Participarán cerca de 140 artistas con más de 7.500 obras, consolidando el evento como uno de los principales escenarios del arte emergente en Colombia.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Llega el II Salón Colombia Itaú a la Feria del Millón para impulsar a artistas emergentes de todos los departamentos del país",
-        "capturado": "2026-11-03T21:36:43-05:00"
-      },
-      {
-        "titulo": "Carlos Andrés de Hart sale de la puja por la dirección de la ANDI y criticó la forma de elección",
-        "url": "https://www.valoraanalitik.com/carlos-andres-de-hart-retira-carrera-andi/",
-        "resumen": "El empresario señaló que no tuvo contacto con la Junta Directiva como parte del proceso. Advirtió sobre la necesidad de proteger la independencia del gremio.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Carlos Andrés de Hart se retira de la carrera por la presidencia de la ANDI; cuestionó el proceso de selección",
-        "capturado": "2026-11-03T21:36:43-05:00"
-      },
-      {
-        "titulo": "Aplazan discusión de la iniciativa de presupuesto adicional para 2026: conozca los pormenores",
-        "url": "https://www.valoraanalitik.com/se-suspende-debate-de-proyecto-de-adicion-presupuestal-para-2026-estos-son-los-detalles/",
-        "resumen": "Esto ocurre después de que el ministro de Hacienda, Miguel Gómez, presentara dos propuestas para modificar la política fiscal de 2026.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Se suspende debate de proyecto de adición presupuestal para 2026: estos son los detalles",
-        "capturado": "2026-11-03T17:14:55-05:00"
       }
     ]
   }
