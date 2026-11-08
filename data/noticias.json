@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-08T08:03:48-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-08T13:26:15-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "ANI pacta 12 acuerdos con concesionarios y frena demandas superiores a $7,5 billones",
+        "url": "https://www.valoraanalitik.com/ani-logra-12-acuerdos-con-concesionarios-y-evita-reclamaciones-por-mas-de-75-billones/",
+        "resumen": "La entidad anunció un portafolio de proyectos por $39,4 billones para modernizar la infraestructura aeroportuaria de Bogotá, Palmira, Cartagena y Barranquilla.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "ANI logra 12 acuerdos con concesionarios y evita reclamaciones por más de $7,5 billones",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella sella plan para 13 colegios vía concesión en Cali y Soacha por $887.000 millones",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-firma-plan-para-construir-13-colegios-por-concesion-en-cali-y-soacha-se-invertiran-887-000-millones/",
+        "resumen": "Según Presidencia, más de 14.300 estudiantes se beneficiarían de la construcción de instituciones educativas en ambas ciudades.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella firma plan para construir 13 colegios por concesión en Cali y Soacha: se invertirán $887.000 millones",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
+      {
+        "titulo": "Vicepresidente anuncia que Netflix y socios volcarán más de US$300 millones en el Bogotá Content City",
+        "url": "https://www.valoraanalitik.com/netflix-y-sus-aliados-invertiran-mas-de-us300-millones-en-el-bogota-content-city-anuncia-vicepresidente/",
+        "resumen": "El escenario, ubicado en la capital colombiana, busca incentivar la producción de contenidos audiovisuales internacionales desde Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Netflix y sus aliados invertirán más de US$300 millones en el Bogotá Content City, anuncia vicepresidente",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
+      {
+        "titulo": "Entrevista | Capitales colombianos en Miami evaluarían retornar al país tras medidas de la FED",
+        "url": "https://www.valoraanalitik.com/entrevista-inversionistas-colombianos-en-miami-estarian-pensando-en-traer-su-capital-de-vuelta-a-colombia-tras-decisiones-de-la-fed/",
+        "resumen": "Joseph DaGrosa Jr., presidente y CEO de Axxes Capital, analiza el impacto de las tasas de la FED en EE. UU. y las oportunidades de inversión en Colombia.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Inversionistas colombianos en Miami estarían pensando en traer su capital de vuelta a Colombia tras decisiones de la FED",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
+      {
+        "titulo": "Entrevista | Autopistas del Café alista el fin de su concesión en 2027 y así seguirán las vías",
+        "url": "https://www.valoraanalitik.com/entrevista-autopistas-del-cafe-se-prepara-para-terminar-su-concesion-en-2027-esto-pasara-con-las-vias-del-eje-cafetero/",
+        "resumen": "Valora Analitik conversó con Mauricio Vega, gerente de Autopistas del Café, durante el foro Eje cafetero conecta, organizado por este medio.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Autopistas del Café se prepara para terminar su concesión en 2027: esto pasará con las vías del Eje Cafetero",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
+      {
+        "titulo": "Hidrocarburifera estatal india proyecta elevar desembolsos y extracción en Colombia para 2027",
+        "url": "https://www.valoraanalitik.com/petrolera-estatal-de-india-preve-aumentar-inversion-y-produccion-en-colombia-en-2027/",
+        "resumen": "El country manager de ONGC Videsh Limited habló sobre las inversiones y proyectos de la empresa en Colombia.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Petrolera estatal de India prevé aumentar inversión y producción en Colombia en 2027",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
       {
         "titulo": "La disputa por la dirección de la ANDI llega a su fase decisiva y así se conocerá al triunfador",
         "url": "https://www.valoraanalitik.com/el-pulso-por-la-presidencia-de-la-andi-entra-en-su-recta-final-asi-se-definira-al-ganador/",
@@ -543,69 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Tecnoglass reportó ingresos récord en tercer trimestre y proyecta superar US$1.100 millones en todo 2026",
         "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia inicia con ligera caída tras recientes previsiones de precios del BanRep",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-con-leve-baja-tras-nuevos-pronosticos-de-inflacion-del-banrep/",
-        "resumen": "Esto es lo que mueve al dólar en Colombia al arranque de la jornada.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre con leve baja tras nuevos pronósticos de inflación del BanRep",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Tributaria de De la Espriella elevaría gastos corporativos y afectaría nuevas vinculaciones laborales",
-        "url": "https://www.valoraanalitik.com/reforma-tributaria-de-de-la-espriella-dispararia-costos-empresariales-y-pondria-en-jaque-nuevas-contrataciones/",
-        "resumen": "MiPymes alertan por cambios en aportes, advierten presión sobre costos y empleo formal.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Reforma tributaria de De la Espriella dispararía costos empresariales y pondría en jaque nuevas contrataciones",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella ratifica la llegada de otro delegado para la negociación salarial 2027",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confirma-que-se-suma-otro-negociador-dentro-del-salario-minimo-de-colombia-del-2027/",
-        "resumen": "Las propuestas iniciales para el aumento del salario mínimo de Colombia del 2027 parecieran estar alejadas.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella confirma que se suma otro negociador para el salario mínimo de Colombia del 2027",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Incidentes en El Dorado: operadores detallan motivos y alertan peligros por retrasos tecnológicos",
-        "url": "https://www.valoraanalitik.com/fallas-en-aeropuerto-el-dorado-controladores-explican-que-ocurrio-y-advierten-riesgos-por-falta-de-modernizacion/",
-        "resumen": "Las fallas obligaron a reducir el tráfico aéreo en El Dorado. Controladores aseguran que existen protocolos para atender estas contingencias.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Fallas en aeropuerto El Dorado: controladores explican qué ocurrió y advierten riesgos por falta de modernización",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "La fintech Plurall lanzó una línea crediticia para unir las microfinanzas al mercado bursátil",
-        "url": "https://www.valoraanalitik.com/fintech-plurall-fabrica-de-creditos/",
-        "resumen": "La firma ya realizó la primera venta de cartera de microcréditos a inversionistas institucionales. Apunta a lograr US$35 millones en 2027.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "La fintech Plurall creó una “fábrica de créditos” para conectar las microfinanzas con el mercado de capitales",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados mixtos tras caída tecnológica y potencial distensión bélica entre Irán y EE. UU.",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-mixtas-tras-desplome-tecnologico-y-posible-desescalada-de-la-guerra-entre-iran-y-ee-uu/",
-        "resumen": "Los inversores interpretaron el resultado electoral de EE. UU. como un posible aumento de la probabilidad de una desescalada.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas mixtas tras desplome tecnológico y posible desescalada de la guerra entre Irán y EE. UU.",
-        "capturado": "2026-11-05T10:42:58-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "ANI alcanza 12 pactos con concesionarios y previene demandas por más de $7,5 billones",
+        "url": "https://www.valoraanalitik.com/ani-logra-12-acuerdos-con-concesionarios-y-evita-reclamaciones-por-mas-de-75-billones/",
+        "resumen": "La entidad anunció un portafolio de proyectos por $39,4 billones para modernizar la infraestructura aeroportuaria de Bogotá, Palmira, Cartagena y Barranquilla.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "ANI logra 12 acuerdos con concesionarios y evita reclamaciones por más de $7,5 billones",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella suscribe plan para edificar 13 colegios por concesión en Cali y Soacha: se destinarán $887.000 millones",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-firma-plan-para-construir-13-colegios-por-concesion-en-cali-y-soacha-se-invertiran-887-000-millones/",
+        "resumen": "Según Presidencia, más de 14.300 estudiantes se beneficiarían de la construcción de instituciones educativas en ambas ciudades.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella firma plan para construir 13 colegios por concesión en Cali y Soacha: se invertirán $887.000 millones",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
+      {
+        "titulo": "Netflix y sus socios gastarán más de US$300 millones en el Bogotá Content City, informa vicepresidente",
+        "url": "https://www.valoraanalitik.com/netflix-y-sus-aliados-invertiran-mas-de-us300-millones-en-el-bogota-content-city-anuncia-vicepresidente/",
+        "resumen": "El escenario, ubicado en la capital colombiana, busca incentivar la producción de contenidos audiovisuales internacionales desde Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Netflix y sus aliados invertirán más de US$300 millones en el Bogotá Content City, anuncia vicepresidente",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
+      {
+        "titulo": "Entrevista | Autopistas del Café se alista para finalizar su concesión en 2027: esto ocurrirá con las vías del Eje Cafetero",
+        "url": "https://www.valoraanalitik.com/entrevista-autopistas-del-cafe-se-prepara-para-terminar-su-concesion-en-2027-esto-pasara-con-las-vias-del-eje-cafetero/",
+        "resumen": "Valora Analitik conversó con Mauricio Vega, gerente de Autopistas del Café, durante el foro Eje cafetero conecta, organizado por este medio.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Autopistas del Café se prepara para terminar su concesión en 2027: esto pasará con las vías del Eje Cafetero",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
+      {
+        "titulo": "Petrolera estatal de India proyecta elevar inversión y producción en Colombia en 2027",
+        "url": "https://www.valoraanalitik.com/petrolera-estatal-de-india-preve-aumentar-inversion-y-produccion-en-colombia-en-2027/",
+        "resumen": "El country manager de ONGC Videsh Limited habló sobre las inversiones y proyectos de la empresa en Colombia.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Petrolera estatal de India prevé aumentar inversión y producción en Colombia en 2027",
+        "capturado": "2026-11-08T13:26:15-05:00"
+      },
       {
         "titulo": "La puja por la dirección de la ANDI llega a su fase decisiva y así se conocerá al vencedor",
         "url": "https://www.valoraanalitik.com/el-pulso-por-la-presidencia-de-la-andi-entra-en-su-recta-final-asi-se-definira-al-ganador/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Se suspende debate de proyecto de adición presupuestal para 2026: estos son los detalles",
         "capturado": "2026-11-03T17:14:55-05:00"
-      },
-      {
-        "titulo": "She Is My Boss muestra 11 relatos recientes de mujeres al frente de diversas industrias",
-        "url": "https://www.valoraanalitik.com/she-is-my-boss-presenta-11-nuevas-historias-de-mujeres-que-lideran-distintos-sectores/",
-        "resumen": "Con relatos de empresarias, ejecutivas, emprendedoras y representantes del sector público, la producción busca inspirar a niñas y adolescentes.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "She Is My Boss presenta 11 nuevas historias de mujeres que lideran distintos sectores",
-        "capturado": "2026-11-03T17:14:55-05:00"
-      },
-      {
-        "titulo": "Bimbo celebra tres décadas en Colombia con lanzamientos y unidades de negocio inéditos",
-        "url": "https://www.valoraanalitik.com/bimbo-cumple-30-anos-en-colombia-estos-son-los-nuevos-productos-y-negocios-que-prepara-en-el-pais/",
-        "resumen": "Bimbo cumple 30 años en Colombia y prepara una nueva etapa de crecimiento, con apuestas para conquistar consumidores y fortalecer su presencia en la región.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bimbo cumple 30 años en Colombia: estos son los nuevos productos y negocios que prepara en el país",
-        "capturado": "2026-11-03T17:14:55-05:00"
-      },
-      {
-        "titulo": "Valora Analitik y Serrano Martínez CMA llevarán a cabo el foro Colombia 2027: perspectivas para una nueva etapa",
-        "url": "https://www.valoraanalitik.com/valora-analitik-y-serrano-martinez-cma-realizaran-el-conversatorio-colombia-2027-perspectivas-para-una-nueva-etapa/",
-        "resumen": "El encuentro tiene como propósito ofrecer una mirada sobre las perspectivas de Colombia, identificar oportunidades y anticipar los retos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Valora Analitik y Serrano Martínez CMA realizarán el conversatorio “Colombia 2027: perspectivas para una nueva etapa”",
-        "capturado": "2026-11-03T17:14:55-05:00"
-      },
-      {
-        "titulo": "Nutresa frena nuevas adquisiciones de títulos en 2026 y expone plan frente al fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/nutresa-descarta-recompras-acciones-2026/",
-        "resumen": "El conglomerado espera que adquisiciones como Presto, Tío Rico y La Universal comiencen a reflejarse en su balance durante 2027.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Nutresa descarta más recompras de acciones en 2026; revela estrategia para enfrentar El Niño",
-        "capturado": "2026-11-03T17:14:55-05:00"
-      },
-      {
-        "titulo": "Firma extranjera destina más de US$5 millones en Medellín y agranda su operación logística en el país",
-        "url": "https://www.valoraanalitik.com/multinacional-invierte-mas-de-us5-millones-en-medellin-y-amplia-su-capacidad-logistica-en-colombia/",
-        "resumen": "La inversión de la multinacional en Colombia se eleva a US$20 millones y busca fortalecer la infraestructura para el almacenamiento de alimentos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Multinacional invierte más de US$5 millones en Medellín y amplía su capacidad logística en Colombia",
-        "capturado": "2026-11-03T11:55:29-05:00"
       }
     ]
   }
