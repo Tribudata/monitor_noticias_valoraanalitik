@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-09T04:29:44-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-09T14:59:31-05:00",
+  "nuevos_en_esta_corrida": 24,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Nueva resolución de la DIAN fija plazo definitivo para obtener alivios tributarios y reducir tributos",
+        "url": "https://www.valoraanalitik.com/decreto-de-la-dian-da-ultimo-plazo-para-acceder-a-beneficios-tributarios-y-pagar-menos-impuestos/",
+        "resumen": "Miles de contribuyentes tienen una oportunidad que está por terminar. El decreto contempla alivios para quienes buscan ponerse al día con la DIAN.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Decreto de la DIAN da último plazo para acceder a beneficios tributarios y pagar menos impuestos",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Fitch otorga calificación BB a la reciente emisión de bonos sénior de Ecopetrol por hasta 2.000 millones de dólares",
+        "url": "https://www.valoraanalitik.com/fitch-asigna-nota-nueva-emision-de-ecopetrol/",
+        "resumen": "Los recursos serán destinados al pago del crédito puente contratado para la adquisición de la brasileña Brava Energy.",
+        "autor": "",
+        "subseccion": "Acciones ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Fitch asigna nota ‘BB’ a nueva emisión de Ecopetrol de notas sénior por hasta US$2.000 millones",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia sube 30 pesos y finaliza en 3.269 pesos por prudencia fiscal y desplome del crudo",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-aumenta-30-y-cierra-en-3-269-impulsado-por-cautela-fiscal-y-caida-del-petroleo/",
+        "resumen": "La divisa abrió en $3.245 y marcó un mínimo intradiario de $3.235, aunque rompió resistencias y escalar hasta un techo de $3.288,50.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia aumenta $30 y cierra en $3.269 impulsado por cautela fiscal y caída del petróleo",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Valor de la cerveza aumentaría hasta un 60 por ciento por reforma tributaria y su demanda caería a la mitad",
+        "url": "https://www.valoraanalitik.com/precio-de-la-cerveza-se-dispararia-hasta-60-con-reforma-tributaria-y-su-consumo-podria-recortarse-a-la-mitad/",
+        "resumen": "El impacto que traería la nueva reforma tributaria al consumo de cerveza y las tiendas de barrio.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Precio de la cerveza se dispararía hasta 60 % con reforma tributaria y su consumo podría recortarse a la mitad",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Sugieren suprimir gravamen al combustible y al ACPM a partir del año 2027 y así variaría el cobro",
+        "url": "https://www.valoraanalitik.com/proponen-eliminar-impuesto-a-la-gasolina-y-al-acpm-desde-2027-asi-cambiaria-el-cobro/",
+        "resumen": "El Centro Democrático incluyó la eliminación de este impuesto en su propuesta alternativa a la Ley de Rescate Económico. Esto pagaría hoy cada galón.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Proponen eliminar impuesto a la gasolina y al ACPM desde 2027: así cambiaría el cobro",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Viceministro de Hacienda señala que administración De la Espriella fallará este año en recortar $20 billones",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-no-lograra-este-ano-el-recorte-de-20-billones-que-buscaba-viceministro-de-hacienda/",
+        "resumen": "La cartera evalúa la implementación de una segunda reducción de gasto con el objetivo de aproximarse lo máximo posible a la meta original de $20 billones.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella no logrará este año el recorte de $20 billones que buscaba: Viceministro de Hacienda",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Ley de Rescate incluye iniciativa de congresistas para suprimir el 4x1000, impuesto al patrimonio y ocho tributos",
+        "url": "https://www.valoraanalitik.com/congresistas-avanzan-en-plan-para-eliminar-el-4x1-000-impuesto-al-patrimonio-y-otros-ocho-tributos-en-ley-de-rescate/",
+        "resumen": "Se conocen las primeras propuestas para modificar la reforma tributaria del gobierno de Abelardo de la Espriella.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Congresistas avanzan en plan para eliminar el 4×1.000, impuesto al patrimonio y otros ocho tributos en Ley de Rescate",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Necesidades de financiamiento llegarían a US$26.000 millones sin ley de rescate económico según Viceministerio",
+        "url": "https://www.valoraanalitik.com/viceministro-de-hacienda-estima-us26-000-millones-en-necesidades-financiamiento-sin-ley-de-rescate-economico/",
+        "resumen": "Según el funcionario, sin un ajuste fiscal gradual estructural de las finanzas habría una depresión económica en 2027.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Viceministro de Hacienda estima US$26.000 millones en necesidades financiamiento sin ley de rescate económico",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Nivel del embalse en Hidroituango subió a 420 metros para mitigar los efectos del fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/hidroituango-aumento-la-cota-del-embalse-a-420-metros-para-enfrentar-el-fenomeno-de-el-nino/",
+        "resumen": "Esta central es operada por EPM. Alcanzó dicha medida mediante un ascenso gradual y controlado que creció entre 40 y 50 centímetros diarios.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "Hidroituango aumentó la cota del embalse a 420 metros para enfrentar el fenómeno de El Niño",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Firmas de juegos de suerte y azar aceptan mayores gravámenes si se implementa un modelo que deduzca gastos",
+        "url": "https://www.valoraanalitik.com/empresas-de-azar-estan-dispuestos-a-pagar-mas-impuestos-pero-piden-un-esquema-que-reconozca-sus-costos/",
+        "resumen": "La industria de juegos de suerte y azar está dispuesta a contribuir al recaudo fiscal, pero pide condiciones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Empresas de azar están dispuestos a pagar más impuestos, pero piden un esquema que reconozca sus costos",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Congresistas descartan subir IVA a la canasta básica y aumentar aportes a salud tras cita con el Gobierno",
+        "url": "https://www.valoraanalitik.com/congreso-no-aprobara-alza-de-iva-a-canasta-basica-y-mayores-aportes-a-salud-congresistas-hablan-tras-reunion-con-gobierno/",
+        "resumen": "El Centro Democrático propuso la venta de acciones de Ecopetrol como parte del rescate fiscal, pero el sindicato más grande de la compañía rechazó la medida.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Congreso no aprobará alza de IVA a canasta básica y mayores aportes a salud: congresistas hablan tras reunión con Gobierno",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Plazo límite del Congreso para votar la reforma tributaria de De la Espriella en la Ley Rescate",
+        "url": "https://www.valoraanalitik.com/hasta-esta-fecha-tendria-el-congreso-para-aprobar-la-reforma-tributaria-del-gobierno-de-la-espriella-en-la-ley-rescate/",
+        "resumen": "El gobierno De la Espriella envió mensaje de urgencia al Congreso para que discuta y aprueba la Ley Rescate",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Hasta esta fecha tendría el Congreso para aprobar la reforma tributaria del gobierno De la Espriella en la Ley Rescate",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
       {
         "titulo": "Premercado | Inversores siguen IPC estadounidense y otros datos de la semana; baja el petróleo",
         "url": "https://www.valoraanalitik.com/premercado-inversores-atentos-a-ipc-de-ee-uu-y-otros-datos-clave-durante-la-semana-petroleo-cae/",
@@ -483,129 +603,129 @@
         "publicacion": "",
         "titulo_fuente": "Economía colombiana mostró señales de recuperación en octubre, según indicador de Bancolombia",
         "capturado": "2026-11-05T21:07:39-05:00"
-      },
-      {
-        "titulo": "Desafíos para fomentar la búsqueda de hidrocarburos en el país: reactivación petrolera y fracking",
-        "url": "https://www.valoraanalitik.com/reactivacion-petrolera-y-fracking-los-retos-para-impulsar-la-exploracion-de-hidrocarburos-en-colombia/",
-        "resumen": "El sector enfrenta varios desafíos relacionados con la asignación de nuevas áreas para la exploración.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Reactivación petrolera y fracking: los retos para impulsar la exploración de hidrocarburos en Colombia",
-        "capturado": "2026-11-05T21:07:39-05:00"
-      },
-      {
-        "titulo": "ISA planea aumentar inversiones locales y externas con compromisos por US$8.000 millones al 2030",
-        "url": "https://www.valoraanalitik.com/isa-elevar-inversiones-colombia-mercados/",
-        "resumen": "La compañía identificó oportunidades por US$305 millones en Perú y espera que el efecto cambiario sea favorable en 2027.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "ISA podría elevar sus inversiones en Colombia y otros mercados; tiene compromisos por US$8.000 millones a 2030",
-        "capturado": "2026-11-05T21:07:39-05:00"
-      },
-      {
-        "titulo": "Nutresa oficializa la compra de Presto, abrirá locales clausurados y proyecta expansión",
-        "url": "https://www.valoraanalitik.com/presto-ya-es-oficialmente-una-marca-de-nutresa-reabriran-puntos-cerrados-y-anuncia-expansion/",
-        "resumen": "Los nuevos establecimientos de Presto entrarán en funcionamiento durante los próximos meses.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presto ya es oficialmente una marca de Nutresa: Reabrirán puntos cerrados y anuncia expansión",
-        "capturado": "2026-11-05T21:07:39-05:00"
-      },
-      {
-        "titulo": "El sector turismo advierte menor competitividad por las modificaciones tributarias de la Ley de Rescate Fiscal",
-        "url": "https://www.valoraanalitik.com/turismo-alerta-por-perdida-de-competitividad-ante-cambios-tributarios-de-la-ley-de-rescate-fiscal/",
-        "resumen": "Uno de los principales puntos de preocupación es el IVA para los visitantes internacionales.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Turismo alerta por pérdida de competitividad ante cambios tributarios de la Ley de Rescate Fiscal",
-        "capturado": "2026-11-05T21:07:39-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella prevé un billón de pesos para actualizar la red de aeropuertos",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-proyecta-inversion-de-1-billon-para-modernizar-infraestructura-aeronautica/",
-        "resumen": "Tras la falla que afectó los vuelos en El Dorado, el gobierno De la Espriella proyecta invertir $1 billón en radares, comunicaciones y tecnología aérea.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella proyecta inversión de $1 billón para modernizar infraestructura aeronáutica",
-        "capturado": "2026-11-05T16:51:29-05:00"
-      },
-      {
-        "titulo": "Patria destina más de nueve mil millones de dólares al país y proyecta nuevos capitales al 2027",
-        "url": "https://www.valoraanalitik.com/entrevista-patria-apuesta-por-colombia-mas-de-us9-000-millones-invertidos-y-nuevas-oportunidades-de-capital-hacia-2027/",
-        "resumen": "El nuevo CEO de Patria destaca que los inversionistas internacionales continúan viendo a Colombia como uno de los mercados más atractivos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Patria apuesta por Colombia: más de US$9.000 millones invertidos y nuevas oportunidades de capital hacia 2027",
-        "capturado": "2026-11-05T16:51:29-05:00"
-      },
-      {
-        "titulo": "Nueva directriz de la DIAN exige mayor reporte de datos en préstamos a personas y entidades",
-        "url": "https://www.valoraanalitik.com/nueva-resolucion-de-la-dian-pone-la-lupa-sobre-los-prestamos-entidades-y-personas-deberan-reportar-mas-informacion/",
-        "resumen": "Los préstamos entre personas y entidades tendrán nuevos controles de información. La DIAN conocerá más detalles sobre las deudas y los pagos pendientes.",
-        "autor": "",
-        "subseccion": "DIAN",
-        "publicacion": "",
-        "titulo_fuente": "Nueva resolución de la DIAN pone la lupa sobre los préstamos: entidades y personas deberán reportar más información",
-        "capturado": "2026-11-05T16:51:29-05:00"
-      },
-      {
-        "titulo": "Tributo al patrimonio cambiaría de umbral y eximiría a ciertos contribuyentes según De la Espriella",
-        "url": "https://www.valoraanalitik.com/impuesto-al-patrimonio-tendria-nuevo-limite-quienes-dejarian-de-pagarlo-con-de-la-espriella/",
-        "resumen": "El Gobierno de De la Espriella busca reducir el grupo de colombianos que paga impuesto al patrimonio. Estos son los cambios que propone.",
-        "autor": "",
-        "subseccion": "Impuestos",
-        "publicacion": "",
-        "titulo_fuente": "Impuesto al patrimonio tendría nuevo límite: quiénes dejarían de pagarlo con De la Espriella",
-        "capturado": "2026-11-05T16:51:29-05:00"
-      },
-      {
-        "titulo": "Causas de la dimisión de Santiago Peña a la presidencia paraguaya y señalamientos en su contra",
-        "url": "https://www.valoraanalitik.com/por-que-renuncio-santiago-pena-a-la-presidencia-de-paraguay-y-de-que-lo-acusan/",
-        "resumen": "La crisis que precipitó la salida del mandatario está relacionada con la intervención de Ueno Bank, una entidad financiera privada.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "¿Por qué renunció Santiago Peña a la Presidencia de Paraguay y de qué lo acusan?",
-        "capturado": "2026-11-05T16:51:29-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio de la divisa estadounidense aumentó ligeramente y finalizó por encima de tres mil doscientos treinta pesos",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-registro-leve-alza-y-cerro-sobre-los-3-230/",
-        "resumen": "La revisión al alza de la inflación por parte del BanRep y el repunte de los precios del petróleo marcaron la jornada cambiaria.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia registró leve alza y cerró sobre los $3.230",
-        "capturado": "2026-11-05T16:51:29-05:00"
-      },
-      {
-        "titulo": "Firma de Chile inaugura otro establecimiento en Medellín tras rebasar cien millones de dólares en facturación",
-        "url": "https://www.valoraanalitik.com/multinacional-chilena-abre-nueva-tienda-en-medellin-tras-superar-us100-millones-en-ventas/",
-        "resumen": "La multinacional chilena abrió su segunda tienda en Medellín, completó 13 puntos en Colombia y anticipa nuevas inversiones para ampliar su operación.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Multinacional chilena abre nueva tienda en Medellín tras superar US$100 millones en ventas",
-        "capturado": "2026-11-05T16:51:29-05:00"
-      },
-      {
-        "titulo": "Davivienda revela herramientas inéditas tras la fusión con DAVIbank",
-        "url": "https://www.valoraanalitik.com/davivienda-anuncia-novedades-tras-integracion-davibank/",
-        "resumen": "La entidad presentó herramientas de seguridad, transferencias mediante Bre-B, opciones de ahorro y servicios internacionales.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Davivienda anuncia nuevas funcionalidades tras la integración con DAVIbank",
-        "capturado": "2026-11-05T16:51:29-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Fitch otorga calificación BB a la reciente colocación de bonos sénior de Ecopetrol por hasta US$2.000 millones",
+        "url": "https://www.valoraanalitik.com/fitch-asigna-nota-nueva-emision-de-ecopetrol/",
+        "resumen": "Los recursos serán destinados al pago del crédito puente contratado para la adquisición de la brasileña Brava Energy.",
+        "autor": "",
+        "subseccion": "Acciones ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Fitch asigna nota ‘BB’ a nueva emisión de Ecopetrol de notas sénior por hasta US$2.000 millones",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Tarifa de la cerveza subiría hasta un 60 % por tributaria y su gasto descendería a la mitad",
+        "url": "https://www.valoraanalitik.com/precio-de-la-cerveza-se-dispararia-hasta-60-con-reforma-tributaria-y-su-consumo-podria-recortarse-a-la-mitad/",
+        "resumen": "El impacto que traería la nueva reforma tributaria al consumo de cerveza y las tiendas de barrio.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Precio de la cerveza se dispararía hasta 60 % con reforma tributaria y su consumo podría recortarse a la mitad",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Legisladores impulsan propuesta para suprimir el 4x1.000, impuesto al patrimonio y ocho tributos más en Ley de Rescate",
+        "url": "https://www.valoraanalitik.com/congresistas-avanzan-en-plan-para-eliminar-el-4x1-000-impuesto-al-patrimonio-y-otros-ocho-tributos-en-ley-de-rescate/",
+        "resumen": "Se conocen las primeras propuestas para modificar la reforma tributaria del gobierno de Abelardo de la Espriella.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Congresistas avanzan en plan para eliminar el 4×1.000, impuesto al patrimonio y otros ocho tributos en Ley de Rescate",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Hidroituango elevó el nivel del embalse a 420 metros para afrontar la temporada de El Niño",
+        "url": "https://www.valoraanalitik.com/hidroituango-aumento-la-cota-del-embalse-a-420-metros-para-enfrentar-el-fenomeno-de-el-nino/",
+        "resumen": "Esta central es operada por EPM. Alcanzó dicha medida mediante un ascenso gradual y controlado que creció entre 40 y 50 centímetros diarios.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "Hidroituango aumentó la cota del embalse a 420 metros para enfrentar el fenómeno de El Niño",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Firmas de juegos de suerte y azar aceptan mayores tributos, pero exigen un modelo que contemple sus gastos",
+        "url": "https://www.valoraanalitik.com/empresas-de-azar-estan-dispuestos-a-pagar-mas-impuestos-pero-piden-un-esquema-que-reconozca-sus-costos/",
+        "resumen": "La industria de juegos de suerte y azar está dispuesta a contribuir al recaudo fiscal, pero pide condiciones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Empresas de azar están dispuestos a pagar más impuestos, pero piden un esquema que reconozca sus costos",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Parlamentarios confirman tras cita oficial que no habrá aumento de IVA a alimentos ni de cotizaciones",
+        "url": "https://www.valoraanalitik.com/congreso-no-aprobara-alza-de-iva-a-canasta-basica-y-mayores-aportes-a-salud-congresistas-hablan-tras-reunion-con-gobierno/",
+        "resumen": "El Centro Democrático propuso la venta de acciones de Ecopetrol como parte del rescate fiscal, pero el sindicato más grande de la compañía rechazó la medida.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Congreso no aprobará alza de IVA a canasta básica y mayores aportes a salud: congresistas hablan tras reunión con Gobierno",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Petrolera estatal india proyecta elevar su extracción en el departamento del Meta, en Colombia",
+        "url": "https://www.valoraanalitik.com/indias-state-owned-oil-company-plans-to-boost-production-in-the-region-of-meta-in-colombia/",
+        "resumen": "In this interview, Niranjan Roul, Country Manager of ONGC, explains the motives behind his optimism about Colombia’s oil and gas industry.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "India’s State-Owned Oil Company Plans to Boost Production in the Region of Meta in Colombia",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Ecopetrol cambia el día de divulgación de sus balances contables del tercer trimestre de 2026",
+        "url": "https://www.valoraanalitik.com/ecopetrol-modifica-fecha-de-publicacion-de-resultados-financieros-del-tercer-trimestre-de-2026/",
+        "resumen": "La compañía presentará sus resultados financieros el 12 de noviembre. Sus proyecciones apuntan a ingresos de entre $33 billones y $36 billones.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol modifica fecha de publicación de resultados financieros del tercer trimestre de 2026",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Industria fiduciaria propone canalizar fondos privados para impulsar obras y crecimiento nacional",
+        "url": "https://www.valoraanalitik.com/sector-fiduciario-plantea-movilizar-capital-privado-para-la-reconstruccion-y-el-desarrollo-del-pais/",
+        "resumen": "Asofiduciarias analizará los desafíos fiscales, la inversión privada y las oportunidades para financiar proyectos de largo plazo en su próximo congreso.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Sector fiduciario plantea movilizar capital privado para la reconstrucción y el desarrollo del país",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Conozca las grandes obras viales, férreas y aéreas que el país busca fondear en EE. UU.",
+        "url": "https://www.valoraanalitik.com/estos-son-los-megaproyectos-de-trenes-carreteras-y-aeropuertos-que-colombia-busca-financiar-en-milagro-week-en-ee-uu/",
+        "resumen": "Gobierno de Abelardo de la Espriella lleva 132 proyectos a Nueva York para atraer inversión a Colombia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los megaproyectos de trenes, carreteras y aeropuertos que Colombia busca financiar en Milagro Week en EE. UU.",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Ventas externas de esmeraldas alcanzaron US$104,2 millones hasta agosto de 2026 y superaron al ferroníquel",
+        "url": "https://www.valoraanalitik.com/exportaciones-de-esmeraldas-llegaron-a-us1042-millones-a-agosto-de-2026-y-superaron-las-de-ferroniquel/",
+        "resumen": "En los últimos diez años, desde 2016, este mercado ha exportado más de US$1.443,6 millones.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Exportaciones de esmeraldas llegaron a US$104,2 millones a agosto de 2026 y superaron las de ferroníquel",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
+      {
+        "titulo": "Entrevista | Asuntos energéticos colombianos exigen ser política de Estado y no de Gobierno según socio de Horst Law",
+        "url": "https://www.valoraanalitik.com/entrevista-los-temas-energeticos-en-colombia-deben-convertirse-en-una-politica-de-estado-y-no-de-gobierno-socio-de-horst-law/",
+        "resumen": "Explicó que la coyuntura actual debe servir para reconocer la necesidad de una política estructural que trascienda los periodos presidenciales.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Los temas energéticos en Colombia deben convertirse en una política de Estado y no de Gobierno: socio de Horst Law",
+        "capturado": "2026-11-09T14:59:31-05:00"
+      },
       {
         "titulo": "Air-e giró 300.000 millones a térmicas para caja y la crisis continúa",
         "url": "https://www.valoraanalitik.com/air-e-pago-300-000-millones-a-generadoras-termicas-para-aliviar-estres-de-caja-el-problema-sigue-sin-resolverse/",
@@ -1085,126 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Denarius Metals aumentó 72 % sus envíos de oro y plata desde El Zancudo",
         "capturado": "2026-11-04T19:15:17-05:00"
-      },
-      {
-        "titulo": "Andrea Ferreyra, enóloga de La Celia, nominada a los Wine Star Awards 2026; Dislicores trae sus vinos",
-        "url": "https://www.valoraanalitik.com/andrea-ferreyra-enologa-de-la-celia-fue-nominada-a-los-wine-star-awards-2026-dislicores-distribuye-sus-vinos-en-colombia/",
-        "resumen": "Los consumidores pueden encontrar sus vinos en todas las tiendas y plataformas de Dislicores.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Andrea Ferreyra, enóloga de La Celia, fue nominada a los Wine Star Awards 2026; Dislicores distribuye sus vinos en Colombia",
-        "capturado": "2026-11-04T19:15:17-05:00"
-      },
-      {
-        "titulo": "Especialista entrega pautas para impulsar la agroindustria colombiana del aguacate Hass con Norteamérica como meta",
-        "url": "https://www.valoraanalitik.com/experto-comparte-claves-para-potenciar-la-agroindustria-del-aguacate-hass-colombiano-norteamerica-como-mercado-estrategico/",
-        "resumen": "Según explicó, el crecimiento de esta industria representa una de las señales del potencial agroindustrial de Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Experto comparte claves para potenciar la agroindustria del aguacate Hass colombiano: Norteamérica como mercado estratégico",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Uber para Empresas amplía su oferta en el país con estas alternativas",
-        "url": "https://www.valoraanalitik.com/uber-para-empresas-amplia-su-portafolio-en-colombia/",
-        "resumen": "Este servicio permite a las compañías gestionar y pagar desde un mismo lugar los trayectos de colaboradores, clientes, proveedores e invitados.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Uber para Empresas amplía su portafolio en Colombia: estas son las soluciones que ofrece",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Chevron destinará US$100 millones en Colombia para afianzar el suministro de carburantes terrestres y aéreos",
-        "url": "https://www.valoraanalitik.com/chevron-invertira-us100-millones-en-colombia-para-fortalecer-abastecimiento-de-combustibles-terrestres-y-aereos/",
-        "resumen": "La compañía, señaló que la meta es ampliar la red de Texaco con 200 estaciones de servicio adicionales.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Chevron invertirá US$100 millones en Colombia para fortalecer abastecimiento de combustibles terrestres y aéreos",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "La fracturación hidráulica otorgaría múltiples décadas a Colombia para la extracción de petróleo y gas",
-        "url": "https://www.valoraanalitik.com/fracking-le-daria-varias-decadas-a-colombia-para-producir-petroleo-y-gas/",
-        "resumen": "El presidente de Campetrol manifestó que, si se avanza en medidas tributarias como el RUGE, habría potencial para desarrollar proyectos de producción.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Fracking le daría varias décadas a Colombia para producir petróleo y gas",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Milagro Week arribará a Europa y Madrid albergará el evento en marzo de 2027",
-        "url": "https://www.valoraanalitik.com/milagro-week-llegara-a-europa-madrid-sera-sede-en-marzo-de-2027/",
-        "resumen": "Las Milagro Week son encuentros empresariales impulsados por el Gobierno Nacional para presentar oportunidades de inversión en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Milagro Week llegará a Europa: Madrid será sede en marzo de 2027",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "El sector del aguacate Hass prevé 140.000 toneladas en exportaciones al cierre de 2026 y marca metas para 2027",
-        "url": "https://www.valoraanalitik.com/agroindustria-del-aguacate-hass-espera-cerrar-2026-con-140-000-toneladas-exportadas-revela-focos-de-esfuerzos-para-2027/",
-        "resumen": "Colombia hoy en día es un referente, pues es el segundo proveedor de aguacate Hass en Europa y el cuarto en Estados Unidos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Agroindustria del aguacate Hass espera cerrar 2026 con 140.000 toneladas exportadas: revela focos de esfuerzos para 2027",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Campetrol sugiere ley estatutaria y plazos ambientales para impulsar la industria de hidrocarburos",
-        "url": "https://www.valoraanalitik.com/campetrol-propone-ley-estatutaria-de-consulta-previa-y-plazos-en-licencias-ambientales-para-reactivar-petroleo-y-gas/",
-        "resumen": "El presidente del gremio, Nelson Castañeda, se refirió también a las claves que tendrá el país con la reactivación de contratos en Venezuela.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Campetrol propone ley estatutaria de consulta previa y plazos en licencias ambientales para reactivar petróleo y gas",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo confirma recursos para megaproyecto que rehabilitará el gasoducto binacional",
-        "url": "https://www.valoraanalitik.com/gobierno-confirma-que-invertira-en-megaproyecto-para-recuperar-gasoducto-entre-colombia-y-venezuela/",
-        "resumen": "La inclusión como proyecto estratégico representa un avance administrativo, pero no significa que pueda transportarse el gas por ahora.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno confirma que invertirá en megaproyecto para recuperar gasoducto entre Colombia y Venezuela",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Emcali selecciona compañía para actualizar las luces de Cali con bombillas LED",
-        "url": "https://www.valoraanalitik.com/emcali-escogio-empresa-para-modernizar-el-alumbrado-publico-de-cali-con-tecnologia-led/",
-        "resumen": "El proyecto entrará en una etapa de alistamiento de aproximadamente tres meses.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Emcali escogió empresa para modernizar el alumbrado público de Cali con tecnología LED",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Grupo Argos anuncia nueva adquisición de acciones por hasta $150.000 millones mediante el plan ACE 1.0",
-        "url": "https://www.valoraanalitik.com/grupo-argos-nueva-recompra-acciones-ace-10/",
-        "resumen": "Esta es la segunda oferta de readquisición de Grupo Argos a través del mecanismo independiente de la Bolsa de Colombia.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos lanza nueva recompra de acciones hasta por $150.000 millones como parte de su programa ACE 1.0",
-        "capturado": "2026-11-04T13:32:12-05:00"
-      },
-      {
-        "titulo": "Las ganancias de GeoPark subieron 119,4 % de enero a septiembre de 2026 y resaltó su llegada a Venezuela",
-        "url": "https://www.valoraanalitik.com/geopark-utilidad-entre-enero-septiembre-2026/",
-        "resumen": "En los primeros nueve meses del año acumuló una utilidad de US$40,8 millones, con una producción promedio de 27.500 boepd.",
-        "autor": "",
-        "subseccion": "Petróleo",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark elevó 119,4 % su utilidad entre enero y septiembre de 2026; destacó ingreso a Venezuela",
-        "capturado": "2026-11-03T21:36:43-05:00"
       }
     ]
   }
