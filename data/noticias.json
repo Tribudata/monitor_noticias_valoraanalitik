@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-08T20:52:09-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-09T04:29:44-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Premercado | Inversores siguen IPC estadounidense y otros datos de la semana; baja el petróleo",
+        "url": "https://www.valoraanalitik.com/premercado-inversores-atentos-a-ipc-de-ee-uu-y-otros-datos-clave-durante-la-semana-petroleo-cae/",
+        "resumen": "Esta semana presenta un intenso calendario de discursos de bancos centrales, datos de inflación clave y cifras de crecimiento regional .",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Inversores atentos a IPC de EE. UU. y otros datos clave durante la semana: petróleo cae",
+        "capturado": "2026-11-09T04:29:44-05:00"
+      },
       {
         "titulo": "El país reduce el uso de efectivo en pagos mientras aumenta la cantidad de billetes circulantes",
         "url": "https://www.valoraanalitik.com/colombia-usa-cada-vez-menos-efectivo-para-pagar-pero-tiene-mas-billetes-en-circulacion/",
@@ -592,16 +602,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Davivienda anuncia nuevas funcionalidades tras la integración con DAVIbank",
-        "capturado": "2026-11-05T16:51:29-05:00"
-      },
-      {
-        "titulo": "Administración De La Espriella dialoga con Air Europa sobre un trayecto aéreo fresco entre Cali y Madrid",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-explora-con-air-europa-nueva-ruta-entre-cali-y-madrid/",
-        "resumen": "La eventual conexión ampliaría la oferta de vuelos entre Colombia y España. La aerolínea ya opera rutas desde Bogotá y Medellín, y sumará Barranquilla.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De La Espriella explora con Air Europa nueva ruta entre Cali y Madrid",
         "capturado": "2026-11-05T16:51:29-05:00"
       }
     ],
