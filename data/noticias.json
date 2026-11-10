@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-09T21:40:01-05:00",
-  "nuevos_en_esta_corrida": 21,
+  "actualizado": "2026-11-10T05:54:56-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Premercado | Acciones al alza a la espera de la inflación estadounidense y desplome del crudo por dichos de Trump",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-suben-mientras-esperan-inflacion-de-estados-unidos-petroleo-se-desploma-tras-declaraciones-de-trump/",
+        "resumen": "Los economistas anticipan que el IPC de octubre en Estados Unidos mostrará que los precios aumentan a un ritmo moderado.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas suben mientras esperan inflación de Estados Unidos: petróleo se desploma tras declaraciones de Trump",
+        "capturado": "2026-11-10T05:54:56-05:00"
+      },
       {
         "titulo": "Ecopetrol colocó bonos por US$2.000 millones para prepagar obligaciones y refinanciar préstamo de Brava Energia",
         "url": "https://www.valoraanalitik.com/ecopetrol-emite-bonos-us2000-2034-brava/",
@@ -592,16 +602,6 @@
         "subseccion": "Finanzaspersonales",
         "publicacion": "",
         "titulo_fuente": "Pensión en Colombia: ¿puede quedarse sin mesada después de cotizar semanas adicionales?",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Alianza Valores fungirá como creador de mercado de 11 acciones en la BVC",
-        "url": "https://www.valoraanalitik.com/alianza-valores-sera-formador-de-liquidez-de-11-acciones-en-la-bolsa-de-colombia-estas-son-las-especies/",
-        "resumen": "El mecanismo busca contribuir a la liquidez de las especies seleccionadas mediante la participación de un intermediario.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Alianza Valores será formador de liquidez de 11 acciones en la Bolsa de Colombia: estas son las especies",
         "capturado": "2026-11-06T12:16:47-05:00"
       }
     ],
