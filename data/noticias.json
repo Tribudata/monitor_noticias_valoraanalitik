@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-09T14:59:31-05:00",
-  "nuevos_en_esta_corrida": 24,
+  "actualizado": "2026-11-09T21:40:01-05:00",
+  "nuevos_en_esta_corrida": 21,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Ecopetrol colocó bonos por US$2.000 millones para prepagar obligaciones y refinanciar préstamo de Brava Energia",
+        "url": "https://www.valoraanalitik.com/ecopetrol-emite-bonos-us2000-2034-brava/",
+        "resumen": "La demanda alcanzó cerca de US$6.900 millones, el nivel más alto en cinco años según la compañía, con más de 235 inversionistas",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol emitió bonos por US$2.000 millones para anticipar pago de deuda y refinanciar el crédito de Brava Energia",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Nueva caída en extracción de gas en Colombia; compras externas subieron 138 por ciento",
+        "url": "https://www.valoraanalitik.com/cae-produccio-gas-colombia-sube-importacion/",
+        "resumen": "La producción de crudo bajó 2,9 % y la de gas cayó 13 % frente a septiembre de 2025. El gas importado ya cubre cerca del 40 % de la demanda.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Nuevo desplome en producción de gas en Colombia; importación se disparó 138 %",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "El día en que este tributo cesaría en Colombia: sería suprimido de forma definitiva",
+        "url": "https://www.valoraanalitik.com/la-fecha-en-la-que-este-impuesto-se-dejaria-de-pagar-en-colombia-quedaria-eliminado-permanentemente/",
+        "resumen": "La Ley de Rescate Económico abre la puerta a un cambio importante en el pago de un impuesto clave en Colombia. Hay una fecha que será determinante.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "La fecha en la que este impuesto se dejaría de pagar en Colombia: quedaría eliminado permanentemente",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Ampliación | Costo de vida en Colombia subió levemente a 6,30 por ciento anual en octubre, tal como previeron analistas",
+        "url": "https://www.valoraanalitik.com/inflacion-colombia-octubre-2026-escalo-leve/",
+        "resumen": "El DANE reportó que los alimentos, en especial la papa y los arriendos concentraron las mayores presiones sobre el costo de vida durante el mes.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Ampliación | Inflación en Colombia escaló levemente al 6,30 % anual en octubre, en línea con lo esperado por los analistas",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "DNP: elevados tipos del Banco de la República frenan el crédito productivo en el país",
+        "url": "https://www.valoraanalitik.com/dnp-altas-tasas-del-banrep-estan-frenando-el-credito-productivo-en-colombia/",
+        "resumen": "El director recordó que este viernes el DNP debe presentar el documento Conpes de las bases del Plan Nacional de Desarrollo 2026-2030.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "DNP: altas tasas del BanRep están frenando el crédito productivo en Colombia",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Propuestas de la Ley de Rescate para recortar el déficit fiscal sin frenar la inversión",
+        "url": "https://www.valoraanalitik.com/ley-de-rescate-las-propuestas-para-reducir-el-deficit-fiscal-sin-frenar-la-inversion/",
+        "resumen": "Mauricio Cárdenas y Ana Fernanda Maiguashca plantearon alternativas para ajustar el gasto y mejorar los ingresos tributarios.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Ley de Rescate: las propuestas para reducir el déficit fiscal sin frenar la inversión",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "SIC archiva investigación contra Ecopetrol, Cenit y Ocensa por acuerdos con Helistar",
+        "url": "https://www.valoraanalitik.com/sic-archiva-caso-ecopetrol-helistar/",
+        "resumen": "La decisión acoge los reparos de la Procuraduría y cierra un proceso que tenía cargos desde 2024 por contratos de más de $417.000 millones",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "SIC archiva caso contra Ecopetrol, Cenit y Ocensa por contratos con Helistar",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Ecopetrol habría alcanzado en el tercer trimestre sus segundos mejores resultados en dos años",
+        "url": "https://www.valoraanalitik.com/ecopetrol-habria-logrado-en-el-tercer-trimestre-sus-segundos-mejores-resultados-en-mas-de-dos-anos/",
+        "resumen": "Adicionalmente, la estatal energética registraría su mayor producción desde el tercer trimestre de 2025.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol habría logrado en el tercer trimestre sus segundos mejores resultados en más de dos años",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Grupo Cibest reporta un incremento del 10,5 % en sus utilidades a septiembre, llegando a 6,3 billones",
+        "url": "https://www.valoraanalitik.com/utilidades-de-grupo-cibest-bancolombia-aumentaron-tercer-trimestre/",
+        "resumen": "El CEO de la compañía, Juan Carlos Mora, aseguró que los resultados permiten a la compañía seguir creciendo y evolucionar en su portafolio a largo plazo.",
+        "autor": "",
+        "subseccion": "Bancolombia",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Utilidades de Grupo Cibest (Bancolombia) aumentaron 10,5 % al tercer trimestre: llegaron a $6,3 billones",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Reforma de De la Espriella: impacto en las entradas de quienes devengan más de dos salarios mínimos",
+        "url": "https://www.valoraanalitik.com/reforma-del-gobierno-de-la-espriella-asi-afectaria-los-ingresos-de-quienes-ganan-mas-de-dos-salarios-minimos/",
+        "resumen": "Un cambio incluido en la Ley de Rescate Económico del gobierno De la Espriella podría disminuir el dinero que reciben miles de trabajadores.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Reforma del gobierno De la Espriella: así afectaría los ingresos de quienes ganan más de dos salarios mínimos",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Especialistas estudian la Ley de Rescate sobre IVA, renta y cargas, y proponen vías para aplicarla",
+        "url": "https://www.valoraanalitik.com/expertos-analizan-la-ley-de-rescate-y-plantean-alternativas-para-su-aplicacion/",
+        "resumen": "Los panelistas coinciden en la necesidad de corregir las cuentas públicas, pero plantean cambios en la fórmula.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "IVA, renta y distribución de cargas: expertos analizan la Ley de Rescate y plantean alternativas para su aplicación",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "A 2026, el hueco del Fondo de Combustibles nacional se quintuplicaría y llegaría a $15 billones",
+        "url": "https://www.valoraanalitik.com/deficit-del-fondo-de-combustibles-en-colombia-se-multiplicaria-por-cinco-al-cierre-de-2026-cerraria-en-15-billones/",
+        "resumen": "La vida útil de las reservas de la petrolera se ubicaría en 9,7 años para finales de 2026, luego de la adquisición de la brasileña Brava Energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Déficit del Fondo de Combustibles en Colombia se multiplicaría por cinco al cierre de 2026: cerraría en $15 billones",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
       {
         "titulo": "Nueva resolución de la DIAN fija plazo definitivo para obtener alivios tributarios y reducir tributos",
         "url": "https://www.valoraanalitik.com/decreto-de-la-dian-da-ultimo-plazo-para-acceder-a-beneficios-tributarios-y-pagar-menos-impuestos/",
@@ -483,129 +603,99 @@
         "publicacion": "",
         "titulo_fuente": "Alianza Valores será formador de liquidez de 11 acciones en la Bolsa de Colombia: estas son las especies",
         "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Bogotá trae buenas noticias para arrendatarios: los costos se moderan",
-        "url": "https://www.valoraanalitik.com/bogota-tiene-una-buena-noticia-para-quienes-viven-en-arriendo-precios-dan-una-tregua/",
-        "resumen": "Los hogares que pagan arriendo en Bogotá reciben una señal favorable en medio del costo de vida. Esto es lo que está pasando con los precios.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá tiene una buena noticia para quienes viven en arriendo: precios dan una tregua",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella lanzará los términos para hacer fracking en el país",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-publicara-terminos-referencia-fracking-en-colombia/",
-        "resumen": "El director de la ANLA, Sergio Piñeros, confirmó que el procesos no partirá desde ceros por la experiencia que tiene el país en esta materia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Gobierno De la Espriella publicará términos de referencia para realizar fracking en Colombia",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Uber expande su enfoque empresarial en Colombia hacia mil municipios y crece",
-        "url": "https://www.valoraanalitik.com/entrevista-uber-amplia-apuesta-por-las-empresas-en-colombia-llega-a-mas-de-1-000-municipios-y-ve-mas-potencial-de-crecimiento/",
-        "resumen": "Uber enfatiza en que Colombia debe avanzar en el desarrollo de una regulación moderna, como ya ocurre en otros países de América Latina.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Uber amplía apuesta por las empresas en Colombia: llega a más de 1.000 municipios y ve más potencial de crecimiento",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Directivo de GeoPark pide fracking inmediato sin fases previas y duplicar producción al 2030",
-        "url": "https://www.valoraanalitik.com/estamos-listos-para-el-fracking-ceo-de-geopark-pide-iniciar-proyectos-sin-pilotos-triplicara-produccion-a-2030/",
-        "resumen": "Felipe Bayón asegura que Colombia debe iniciar fracking con la experiencia internacional de Estados Unidos y Argentina.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "«Estamos listos para el fracking»: CEO de GeoPark pide iniciar proyectos sin pilotos; triplicará producción a 2030",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Sector y Gobierno concuerdan en acelerar planes de fracturación hidráulica para 2027 sin pilotos",
-        "url": "https://www.valoraanalitik.com/colombia-podria-iniciar-proyectos-de-fracking-en-2027-sin-pilotos/",
-        "resumen": "Los gremios del petróleo y el gas le piden al Ejecutivo reglas claras y que destrabe licenciamientos ambientales para desarrollar estas iniciativas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia podría iniciar proyectos de fracking en 2027 sin pilotos: industria y Gobierno coinciden en acelerarlos",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Dólar colombiano abre al alza ante desplomes bursátiles internacionales",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-arranca-al-alza-en-medio-de-fuertes-caidas-de-bolsas-mundiales/",
-        "resumen": "Esto es lo que condiciona la subida del dólar en Colombia al inicio de la jornada del 6 de noviembre.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia arranca al alza en medio de fuertes caídas de bolsas mundiales",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Trazado definido para la línea 3 del metro bogotano: 18 estaciones y conexión con Soacha",
-        "url": "https://www.valoraanalitik.com/linea-3-del-metro-de-bogota-ya-tiene-recorrido-definido-conectara-con-soacha-y-tendra-18-estaciones/",
-        "resumen": "Este será el trazado de la línea 3 del metro: conectará Soacha con cinco localidades de Bogotá.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Línea 3 del metro de Bogotá ya tiene recorrido definido: conectará con Soacha y tendrá 18 estaciones",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella fija fecha para aplicar modificaciones de la Ley Rescate y alza de IVA",
-        "url": "https://www.valoraanalitik.com/desde-esta-fecha-aplicarian-todos-los-cambios-de-la-ley-rescate-incluidas-las-subidas-de-iva-que-propone-el-gobierno-de-la-espriella/",
-        "resumen": "El gobierno De la Espriella explicó cuál es la urgencia para aprobar la Ley Rescate.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Desde esta fecha aplicarían todos los cambios de la Ley Rescate, incluidas las subidas de IVA, que propone el gobierno De la Espriella",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Barómetro Petrolero 2026: baja la imagen favorable del sector de hidrocarburos y crece la oposición al fracking",
-        "url": "https://www.valoraanalitik.com/barometro-petrolero-2026-cae-la-percepcion-positiva-de-la-industria-petrolera-en-colombia-y-aumenta-el-rechazo-al-fracking/",
-        "resumen": "Fracking divide opiniones en Colombia: aumenta rechazo en municipios productores, según Barómetro.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Barómetro Petrolero 2026: cae la percepción positiva de la industria petrolera en Colombia y aumenta el rechazo al fracking",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Aparecen respaldos a subir el IVA en el país a los sectores de mayores ingresos",
-        "url": "https://www.valoraanalitik.com/se-suman-voces-que-apoyan-aumento-del-iva-en-colombia-a-quienes-mas-pueden-pagar/",
-        "resumen": "El cobro del IVA en Colombia cambiaría radicalmente con la propuesta de Ley Rescate del Gobierno.",
-        "autor": "",
-        "subseccion": "Reforma tributaria",
-        "publicacion": "",
-        "titulo_fuente": "Se suman voces que apoyan aumento del IVA en Colombia a quienes más pueden pagar",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Sonia Abuchar asume la presidencia encargada de ISA y Juan Pablo Zárate se mantiene en la Junta",
-        "url": "https://www.valoraanalitik.com/sonia-abuchar-es-la-nueva-presidenta-e-de-isa-y-juan-pablo-zarate-seguira-como-presidente-de-junta/",
-        "resumen": "Su experiencia incluye asuntos jurídicos, regulatorios y de gobierno corporativo, además del acompañamiento a decisiones estratégicas de la organización.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Sonia Abuchar es la nueva presidenta (e) de ISA y Juan Pablo Zárate seguirá como presidente de Junta",
-        "capturado": "2026-11-05T21:07:39-05:00"
-      },
-      {
-        "titulo": "Indicador de Bancolombia señala que la economía nacional evidenció indicios de recuperación en octubre",
-        "url": "https://www.valoraanalitik.com/economia-colombiana-mostro-senales-de-recuperacion-en-octubre-segun-indicador-de-bancolombia/",
-        "resumen": "El indicador de Bancolombia pasó de proyectar una expansión de 2,1 % al cierre de septiembre a calcular un alza de 2,2 % con corte al 31 de octubre.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Economía colombiana mostró señales de recuperación en octubre, según indicador de Bancolombia",
-        "capturado": "2026-11-05T21:07:39-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Ecopetrol colocó bonos por US$2.000 millones para prepagar obligaciones y refinanciar préstamo de Brava Energia",
+        "url": "https://www.valoraanalitik.com/ecopetrol-emite-bonos-us2000-2034-brava/",
+        "resumen": "La demanda alcanzó cerca de US$6.900 millones, el nivel más alto en cinco años según la compañía, con más de 235 inversionistas",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol emitió bonos por US$2.000 millones para anticipar pago de deuda y refinanciar el crédito de Brava Energia",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Ley de Rescate: iniciativas para bajar el hueco fiscal sin detener la inversión",
+        "url": "https://www.valoraanalitik.com/ley-de-rescate-las-propuestas-para-reducir-el-deficit-fiscal-sin-frenar-la-inversion/",
+        "resumen": "Mauricio Cárdenas y Ana Fernanda Maiguashca plantearon alternativas para ajustar el gasto y mejorar los ingresos tributarios.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Ley de Rescate: las propuestas para reducir el déficit fiscal sin frenar la inversión",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Acueductos con Propósito de Brinsa es galardonado por su influencia social y ecológica",
+        "url": "https://www.valoraanalitik.com/acueductos-con-proposito-de-brinsa-recibe-reconocimientos-por-su-impacto-social-y-ambiental/",
+        "resumen": "El programa de Brinsa ha recibido reconocimientos en distintos escenarios empresariales, ambientales y de sostenibilidad.",
+        "autor": "",
+        "subseccion": "Valorasostenible",
+        "publicacion": "",
+        "titulo_fuente": "Acueductos con Propósito de Brinsa recibe reconocimientos por su impacto social y ambiental",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Ecopetrol habría alcanzado entre julio y septiembre sus segundos mejores números en más de veinticuatro meses",
+        "url": "https://www.valoraanalitik.com/ecopetrol-habria-logrado-en-el-tercer-trimestre-sus-segundos-mejores-resultados-en-mas-de-dos-anos/",
+        "resumen": "Adicionalmente, la estatal energética registraría su mayor producción desde el tercer trimestre de 2025.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol habría logrado en el tercer trimestre sus segundos mejores resultados en más de dos años",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Cundinamarca encabeza puntajes Saber 11 de 2026 en ETC: fundación de Alquería respalda gestión",
+        "url": "https://www.valoraanalitik.com/cundinamarca-lidera-resultados-saber-11-de-2026-entre-las-entidades-territoriales-certificadas-fundacion-de-alqueria-apoya-proceso/",
+        "resumen": "La Fundación Alquería Cavelier ha contribuido a este proceso durante más de una década a través del Programa de Mejoramiento de la Calidad Educativa.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Cundinamarca lidera resultados Saber 11° de 2026 entre las Entidades Territoriales Certificadas: fundación de Alquería apoya proceso",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Víctor Küppers estuvo en el Teatro Colsubsidio con Mentes Expertas y dejó varias enseñanzas",
+        "url": "https://www.valoraanalitik.com/mentes-expertas-regreso-al-teatro-colsubsidio-con-victor-kuppers-mensajes-que-dejo-la-conversacion/",
+        "resumen": "Reunió a más de 996 asistentes y contó con la participación de representantes de 86 empresas grandes, medianas y pequeñas afiliadas a Colsubsidio.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Mentes Expertas regresó al Teatro Colsubsidio con Víctor Küppers: mensajes que dejó la conversación",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "A tercer trimestre, utilidades de Grupo Cibest de Bancolombia subieron 10,5 % hasta $6,3 billones",
+        "url": "https://www.valoraanalitik.com/utilidades-de-grupo-cibest-bancolombia-aumentaron-tercer-trimestre/",
+        "resumen": "El CEO de la compañía, Juan Carlos Mora, aseguró que los resultados permiten a la compañía seguir creciendo y evolucionar en su portafolio a largo plazo.",
+        "autor": "",
+        "subseccion": "Bancolombia",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Utilidades de Grupo Cibest (Bancolombia) aumentaron 10,5 % al tercer trimestre: llegaron a $6,3 billones",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Al finalizar 2026, el déficit del Fondo de Combustibles en Colombia se quintuplicaría a $15 billones",
+        "url": "https://www.valoraanalitik.com/deficit-del-fondo-de-combustibles-en-colombia-se-multiplicaria-por-cinco-al-cierre-de-2026-cerraria-en-15-billones/",
+        "resumen": "La vida útil de las reservas de la petrolera se ubicaría en 9,7 años para finales de 2026, luego de la adquisición de la brasileña Brava Energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Déficit del Fondo de Combustibles en Colombia se multiplicaría por cinco al cierre de 2026: cerraría en $15 billones",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
+      {
+        "titulo": "Aconauto advierte que subir el IVA a carros eléctricos afectaría a 19 marcas en Colombia",
+        "url": "https://www.valoraanalitik.com/alza-del-iva-a-carros-electricos-pondria-en-jaque-a-19-marcas-de-vehiculos-en-colombia-advierte-aconauto/",
+        "resumen": "Aconauto señaló que el incremento de la carga tributaria podría frenar la renovación del parque automotor y la transición energética del sector.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Alza del IVA a carros eléctricos pondría en jaque a 19 marcas de vehículos en Colombia, advierte Aconauto",
+        "capturado": "2026-11-09T21:40:01-05:00"
+      },
       {
         "titulo": "Fitch otorga calificación BB a la reciente colocación de bonos sénior de Ecopetrol por hasta US$2.000 millones",
         "url": "https://www.valoraanalitik.com/fitch-asigna-nota-nueva-emision-de-ecopetrol/",
@@ -1115,96 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Cómo se financia una matriz energética más fuerte y diversa en Colombia",
         "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Tecnoglass registró ventas récord al tercer trimestre y prevé rebasar los US$1.100 millones al finalizar 2026",
-        "url": "https://www.valoraanalitik.com/tecnoglass-ingresos-record-3t-2026/",
-        "resumen": "La compañía barranquillera mejoró su perspectiva de ingresos y Ebitda para el cierre de este año, gracias a la cartera de pedidos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Tecnoglass reportó ingresos récord en tercer trimestre y proyecta superar US$1.100 millones en todo 2026",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Reforma tributaria de De la Espriella elevaría gastos corporativos y afectaría las nuevas contrataciones",
-        "url": "https://www.valoraanalitik.com/reforma-tributaria-de-de-la-espriella-dispararia-costos-empresariales-y-pondria-en-jaque-nuevas-contrataciones/",
-        "resumen": "MiPymes alertan por cambios en aportes, advierten presión sobre costos y empleo formal.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Reforma tributaria de De la Espriella dispararía costos empresariales y pondría en jaque nuevas contrataciones",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Aprendizajes del aguacate Hass a partir de otros rubros compartidos en Territorio Aguacate 2026",
-        "url": "https://www.valoraanalitik.com/lo-que-puede-aprender-el-aguacate-hass-de-otros-sectores-lecciones-que-dejan-en-territorio-aguacate-2026/",
-        "resumen": "El mercado nacional puede convertirse en un complemento importante para el crecimiento de una agroindustria.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Lo que puede aprender el aguacate Hass de otros sectores: lecciones que dejan en Territorio Aguacate 2026",
-        "capturado": "2026-11-05T10:42:58-05:00"
-      },
-      {
-        "titulo": "Pactia bajó su pasivo en 45 % tras vender los centros comerciales Gran Plaza en el país",
-        "url": "https://www.valoraanalitik.com/pactia-redujo-su-deuda-un-45-tras-la-venta-de-los-centros-comerciales-gran-plaza-en-colombia/",
-        "resumen": "Uno de los principales efectos de la operación se evidencia en la reducción de sus obligaciones financieras.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pactia redujo su deuda un 45 % tras la venta de los centros comerciales Gran Plaza en Colombia",
-        "capturado": "2026-11-05T02:14:22-05:00"
-      },
-      {
-        "titulo": "EPS Sanitas comunica modificación central para usuarios en Bogotá y ya entró en vigor",
-        "url": "https://www.valoraanalitik.com/eps-sanitas-anuncia-cambio-clave-para-sus-afiliados-en-bogota-ya-empezo-a-regir/",
-        "resumen": "Miles de usuarios de Sanitas deben tener en cuenta un ajuste en la entrega de medicamentos. La EPS explicó qué deben hacer para evitar contratiempos.",
-        "autor": "",
-        "subseccion": "Reforma a la salud colombia",
-        "publicacion": "",
-        "titulo_fuente": "EPS Sanitas anuncia cambio clave para sus afiliados en Bogotá: ya empezó a regir",
-        "capturado": "2026-11-05T02:14:22-05:00"
-      },
-      {
-        "titulo": "Elección del líder de la ANDI sigue con dos aspirantes y estas son sus visiones",
-        "url": "https://www.valoraanalitik.com/asi-avanza-la-eleccion-del-presidente-de-la-andi-solo-quedan-dos-candidatos-y-estas-son-sus-perspectivas/",
-        "resumen": "Los candidatos explicaron sus propuestas y lo que impulsarán en su posible elección como presidente de la ANDI.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Así avanza la elección del presidente de la ANDI: solo quedan dos candidatos y estas son sus perspectivas",
-        "capturado": "2026-11-05T02:14:22-05:00"
-      },
-      {
-        "titulo": "Colsubsidio activó giros inmediatos y ahora los subsidios se pasan por Bre-B",
-        "url": "https://www.valoraanalitik.com/subsidios-colombia-bre-b-colsubsidio/",
-        "resumen": "La caja de compensación y Redeban sellaron una alianza para que más de 408.000 afiliados transfieran su cuota monetaria a sus cuentas con este sistema.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Subsidios en Colombia ya se pueden transferir por Bre-B; Colsubsidio habilitó pagos inmediatos",
-        "capturado": "2026-11-05T02:14:22-05:00"
-      },
-      {
-        "titulo": "El auge global del comercio de aguacate Hass da opciones a Colombia como productor y hay puntos clave",
-        "url": "https://www.valoraanalitik.com/crecimiento-del-comercio-mundial-de-aguacate-hass-abre-oportunidades-a-colombia-como-productor-factores-para-tener-en-cuenta/",
-        "resumen": "La oferta internacional traerá mayores exigencias en materia de calidad, competitividad y sostenibilidad.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Crecimiento del comercio mundial de aguacate Hass abre oportunidades a Colombia como productor: factores para tener en cuenta",
-        "capturado": "2026-11-04T19:15:17-05:00"
-      },
-      {
-        "titulo": "Las exportaciones de oro y plata de El Zancudo subieron 72 % para Denarius Metals",
-        "url": "https://www.valoraanalitik.com/denarius-metals-aumento-72-sus-envios-de-oro-y-plata-desde-el-zancudo/",
-        "resumen": "La minera reportó ingresos por US$16,5 millones entre enero y septiembre y prevé iniciar la producción comercial en 2027.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Denarius Metals aumentó 72 % sus envíos de oro y plata desde El Zancudo",
-        "capturado": "2026-11-04T19:15:17-05:00"
       }
     ]
   }
