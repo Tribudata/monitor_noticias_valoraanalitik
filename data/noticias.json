@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-10T13:33:07-05:00",
-  "nuevos_en_esta_corrida": 22,
+  "actualizado": "2026-11-10T18:57:36-05:00",
+  "nuevos_en_esta_corrida": 21,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Metas del Grupo Cibest a 2027: estima impulsar cartera a 10 % y mantener rentabilidad sobre 21 %",
+        "url": "https://www.valoraanalitik.com/grupo-cibest-destapa-metas-para-2027/",
+        "resumen": "El presidente de la entidad, Juan Carlos Mora, explicó que el grupo mejoró su proyección de crecimiento de cartera para el cierre de 2026.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Cibest destapa metas para 2027: proyecta acelerar cartera al 10 % y sostener rentabilidad sobre 21 %",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "La firma a cargo de megaproyectos viales por más de $5 billones en Cartagena, Antioquia y Bogotá",
+        "url": "https://www.valoraanalitik.com/la-empresa-detras-de-los-megaproyectos-de-infraestructura-por-mas-de-5-billones-en-bogota-antioquia-y-cartagena/",
+        "resumen": "Metro de Bogotá, Puerto Antioquia y aeropuerto de Cartagena: la empresa detrás de estas obras billonarias.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "La empresa detrás de los megaproyectos de infraestructura por más de $5 billones en Bogotá, Antioquia y Cartagena",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Gobierno procurará cuantiosa inversión en la Milagro Week para agrandar terminal El Dorado",
+        "url": "https://www.valoraanalitik.com/gobierno-buscara-millonaria-inversion-en-el-milagro-week-para-ampliar-aeropuerto-el-dorado/",
+        "resumen": "La ampliación de El Dorado es uno de los proyectos de infraestructura que Colombia llevará a la Milagro Week en Nueva York.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno buscará millonaria inversión en la Milagro Week para ampliar aeropuerto El Dorado",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Valle del Cauca contará con nuevo parque industrial por $500.000 millones: este es el megaproyecto",
+        "url": "https://www.valoraanalitik.com/valle-del-cauca-tendra-nuevo-parque-industrial-con-inversion-de-500-000-millones-asi-sera-el-megaproyecto/",
+        "resumen": "El nuevo parque industrial estará ubicado en el corredor Cali-Palmira y busca atraer empresas, generar empleo e impulsar la economía regional.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Valle del Cauca tendrá nuevo parque industrial con inversión de $500.000 millones: así será el megaproyecto",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Ganancias del Grupo Éxito aumentaron 14 % de enero a septiembre; resaltó desempeño en Uruguay y Colombia",
+        "url": "https://www.valoraanalitik.com/grupo-exito-utilidad-septiembre-2026/",
+        "resumen": "La compañía reportó que, excluyendo el efecto de la tasa de cambio, sus ganancias en lo corrido del año subieron 19 %.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Utilidad del Grupo Éxito creció 14 % entre enero y septiembre; destacó resultados en Colombia y Uruguay",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella busca acabar estratos en Colombia y transformar cobro de servicios públicos",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-quiere-eliminar-los-estratos-en-colombia-y-cambiar-radicalmente-el-cobro-de-los-servicios-publicos/",
+        "resumen": "La propuesta de eliminar los estratos en Colombia, como se conocen, ayudaría a focalizar subsidios en los servicios públicos",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella quiere eliminar los estratos en Colombia y cambiar radicalmente el cobro de los servicios públicos",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Megaproyectos prioritarios para el Gobierno De la Espriella en el Plan de Desarrollo",
+        "url": "https://www.valoraanalitik.com/estos-son-los-megaproyectos-a-los-que-el-gobierno-de-la-espriella-les-dara-prioridad-en-plan-de-desarrollo/",
+        "resumen": "El documento prioriza 119 megaproyectos, integra más de 2.000 iniciativas comunitarias regionales y reserva $58,29 billones para atender el terremoto.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los megaproyectos a los que el Gobierno De la Espriella les dará prioridad en Plan de Desarrollo",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Detalles y plazos de la reforma administrativa de Galán en Bogotá que ahorraría $40.000 millones al año",
+        "url": "https://www.valoraanalitik.com/asi-es-la-mega-reforma-administrativa-de-galan-con-la-se-ahorrarian-40-000-millones-al-ano-en-bogota-detalles-y-tiempos/",
+        "resumen": "La administración espera tener un texto para discutir este año y que el proyecto sea radicado ante el Concejo en febrero de 2027.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Así es la mega reforma administrativa de Galán con la que se ahorrarían $40.000 millones al año en Bogotá: detalles y tiempos",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Partido Liberal pone condiciones a tributaria de De la Espriella y sugiere posponer recortes fiscales",
+        "url": "https://www.valoraanalitik.com/partido-liberal-fija-lineas-rojas-a-la-reforma-tributaria-de-de-la-espriella-pide-aplazar-rebajas-de-impuestos-a-empresas/",
+        "resumen": "Los liberales plantearon revisar los alivios tributarios empresariales antes de trasladar mayores cargas al consumo de los hogares.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Partido Liberal fija líneas rojas a la reforma tributaria de De la Espriella: pide aplazar rebajas de impuestos a empresas",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "A 15 años del TLC con Canadá, inversores advierten sobre un obstáculo para nuevos capitales en el país",
+        "url": "https://www.valoraanalitik.com/tlc-con-canada-cumple-15-anos-inversionistas-canadienses-alertan-sobre-un-problema-que-frenaria-nuevas-inversiones-en-colombia/",
+        "resumen": "El TLC con Canadá cumple 15 años en medio de una discusión sobre las condiciones que necesita Colombia para atraer nuevos capitales. Una",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "TLC con Canadá cumple 15 años: inversionistas canadienses alertan sobre un problema que frenaría nuevas inversiones en Colombia",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Diana Giraldo asume la vicepresidencia de talento y cultura en Bancolombia en sustitución de Enrique González Bacci",
+        "url": "https://www.valoraanalitik.com/diana-giraldo-nueva-vicepresidenta-de-talento-y-cultura-de-bancolombia-reemplaza-a-enrique-gonzalez-bacci/",
+        "resumen": "La nueva vicepresidenta cuenta con 29 años de trayectoria en Bancolombia y ha trabajado en diferentes áreas relacionadas con la gestión del talento.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Diana Giraldo, nueva vicepresidenta de talento y cultura de Bancolombia: reemplaza a Enrique González Bacci",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Aparecen los primeros congresistas ponentes de la reforma tributaria impulsada por el mandato de De la Espriella",
+        "url": "https://www.valoraanalitik.com/se-conocen-los-primeros-ponentes-de-la-reforma-tributaria-del-gobierno-de-la-espriella/",
+        "resumen": "El proyecto de ley debe surtir su trámite legislativo en tiempo récord para que el Ejecutivo pueda reducir el desbalance fiscal proyectado para 2027.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Se conocen los primeros ponentes de la reforma tributaria del gobierno De la Espriella",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
       {
         "titulo": "CEO de Ternium señala peligro para el agro y la industria nacional por compras de acero de China",
         "url": "https://www.valoraanalitik.com/importaciones-de-acero-chino-ponen-en-riesgo-empleos-y-desarrollo-industrial-en-colombia-advierte-ceo-de-ternium/",
@@ -483,129 +603,99 @@
         "publicacion": "",
         "titulo_fuente": "Petrolera estatal de India prevé aumentar inversión y producción en Colombia en 2027",
         "capturado": "2026-11-08T13:26:15-05:00"
-      },
-      {
-        "titulo": "La disputa por la dirección de la ANDI llega a su fase decisiva y así se conocerá al triunfador",
-        "url": "https://www.valoraanalitik.com/el-pulso-por-la-presidencia-de-la-andi-entra-en-su-recta-final-asi-se-definira-al-ganador/",
-        "resumen": "Se acerca la decisión en la ANDI: Murgas y Nariño buscan quedarse con la presidencia del gremio.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "El pulso por la presidencia de la ANDI entra en su recta final: así se definirá al ganador",
-        "capturado": "2026-11-08T08:03:48-05:00"
-      },
-      {
-        "titulo": "El costo de los comestibles en Colombia aumentaría hasta alcanzar los topes de 2023",
-        "url": "https://www.valoraanalitik.com/inflacion-en-el-precio-de-los-alimentos-en-colombia-subiria-hasta-maximos-de-2023/",
-        "resumen": "Buena parte de la inflación se explica por el aumento constante en el precio de los alimentos en Colombia",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Inflación en el precio de los alimentos en Colombia subiría hasta máximos de 2023",
-        "capturado": "2026-11-08T08:03:48-05:00"
-      },
-      {
-        "titulo": "Antioquia metió cuatro localidades en el top 10 de desempeño fiscal de 2025",
-        "url": "https://www.valoraanalitik.com/estos-son-los-municipios-con-mejor-desempeno-fiscal-en-2025-antioquia-posiciono-a-cuatro-en-los-10-primeros-lugares/",
-        "resumen": "El estudio es realizado por el DNP, entidad que también destacó un aumento en la calificación de sostenibilidad de varios municipios.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los municipios con mejor desempeño fiscal en 2025: Antioquia posicionó a cuatro en los 10 primeros lugares",
-        "capturado": "2026-11-07T18:50:40-05:00"
-      },
-      {
-        "titulo": "Riesgos eléctricos por El Niño en 2027: especialista analiza posible apagón",
-        "url": "https://www.valoraanalitik.com/habra-apagones-en-colombia-en-2027-experto-explica-los-riesgos-para-el-sistema-electrico-por-el-fenomeno-de-el-nino/",
-        "resumen": "¿Podría Colombia quedarse sin luz en 2027? El fenómeno de El Niño plantea nuevos desafíos para los embalses y la generación de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "¿Habrá apagones en Colombia en 2027? Experto explica los riesgos para el sistema eléctrico por el fenómeno de El Niño",
-        "capturado": "2026-11-07T18:50:40-05:00"
-      },
-      {
-        "titulo": "Tres consorcios competirán por la millonaria licitación de la Línea 2 del metro",
-        "url": "https://www.valoraanalitik.com/estos-son-los-tres-grupos-que-pujaran-por-la-billonaria-licitacion-de-la-linea-2-del-metro-de-bogota/",
-        "resumen": "El Distrito señaló que la Línea 2 contará con 15,5 kilómetros de extensión y 11 estaciones, 10 de ellas subterráneas.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los tres grupos que pujarán por la billonaria licitación de la Línea 2 del metro de Bogotá",
-        "capturado": "2026-11-07T18:50:40-05:00"
-      },
-      {
-        "titulo": "Centro Democrático objeta ley fiscal y sugiere acabar el 4x1000 y vender Ecopetrol",
-        "url": "https://www.valoraanalitik.com/centro-democratico-se-va-contra-ley-de-rescate-fiscal-propone-eliminar-4x1-000-y-vender-acciones-de-ecopetrol/",
-        "resumen": "La colectividad también propuso reducir la tarifa aplicable a los dividendos de 20 % a 10 %.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Centro Democrático se va contra Ley de Rescate Fiscal: propone eliminar 4×1.000 y vender acciones de Ecopetrol",
-        "capturado": "2026-11-07T18:50:40-05:00"
-      },
-      {
-        "titulo": "Analista advierte peligros para compañías, trabajo e inversión por norma de salvamento financiero",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-economico-estos-son-los-riesgos-que-advierte-analista-para-empresas-empleo-e-inversion/",
-        "resumen": "Aumento de costos laborales e incertidumbre jurídica, entre los riesgos advertidos por analistas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ley de rescate económico: estos son los riesgos que advierte analista para empresas, empleo e inversión",
-        "capturado": "2026-11-07T15:03:22-05:00"
-      },
-      {
-        "titulo": "Estas resultan ser las 83 marcas presentes en el Salón del Automóvil 2026",
-        "url": "https://www.valoraanalitik.com/83-marcas-salon-automovil-2026-corferias/",
-        "resumen": "La feria irá del 12 al 22 de noviembre en Corferias, con más de 30 fabricantes chinos y otras marcas aún por anunciar.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Estas son las 83 marcas que estarán en el Salón del Automóvil 2026",
-        "capturado": "2026-11-07T15:03:22-05:00"
-      },
-      {
-        "titulo": "Revolut busca expandirse mediante la Fórmula 1 con esquema comercial que trasciende el patrocinio",
-        "url": "https://www.valoraanalitik.com/revolut-apuesta-por-la-formula-1-para-su-crecimiento-un-modelo-de-negocio-mas-alla-del-patrocinio/",
-        "resumen": "El neobanco reveló la estética que usará el AudiR26 en el Gran Premio de Brasil, en el circuito de Interlagos, como homenaje a la ciudad de Sao Paulo.",
-        "autor": "",
-        "subseccion": "Valorasports",
-        "publicacion": "",
-        "titulo_fuente": "Revolut apuesta por la Fórmula 1 para su crecimiento: un modelo de negocio más allá del patrocinio",
-        "capturado": "2026-11-07T15:03:22-05:00"
-      },
-      {
-        "titulo": "Ministro del Interior admite que reforma tributaria sufrirá modificaciones legislativas conversadas",
-        "url": "https://www.valoraanalitik.com/nuevo-ministro-del-interior-reconoce-que-reforma-tributaria-tendria-cambios-en-el-congreso-habra-dialogo/",
-        "resumen": "Ordóñez señaló que el Gobierno está dispuesto a escuchar propuestas de los partidos y los congresistas para avanzar en la aprobación de la iniciativa.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo ministro del Interior reconoce que reforma tributaria tendría cambios en el Congreso: “Habrá diálogo”",
-        "capturado": "2026-11-07T15:03:22-05:00"
-      },
-      {
-        "titulo": "S&P resalta firmeza financiera de firmas nacionales mas avisa sobre estancamiento de inversión",
-        "url": "https://www.valoraanalitik.com/sp-destaca-solidez-crediticia-de-empresas-colombianas-aunque-advierte-estancamiento-de-la-inversion/",
-        "resumen": "Incertidumbre regulatoria, altas tasas de interés y baja inversión limitan las perspectivas de crecimiento.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "S&P destaca solidez crediticia de empresas colombianas, aunque advierte estancamiento de la inversión",
-        "capturado": "2026-11-07T15:03:22-05:00"
-      },
-      {
-        "titulo": "Sexto ataque a peaje en Colombia este sábado en menos de tres meses tras nuevo atentado",
-        "url": "https://www.valoraanalitik.com/nuevo-atentado-a-peaje-en-colombia-este-sabado-van-seis-ataques-en-menos-de-tres-meses/",
-        "resumen": "La Policía y el Ejército adelantan labores de búsqueda y desactivación de posibles explosivos que habrían quedado en el lugar.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo atentado a peaje en Colombia este sábado: van seis ataques en menos de tres meses",
-        "capturado": "2026-11-07T10:50:59-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Siderúrgicas solicitan gravamen del 35 % para contrarrestar rivalidad de China",
+        "url": "https://www.valoraanalitik.com/productores-de-acero-piden-arancel-del-35-para-enfrentar-la-competencia-de-china/",
+        "resumen": "La solicitud busca llevar el arancel hasta el 35 % para países sin acuerdos comerciales.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Productores de acero piden arancel del 35 % para enfrentar la competencia de China",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Nuevo parque industrial en el Valle del Cauca con inyección de $500.000 millones",
+        "url": "https://www.valoraanalitik.com/valle-del-cauca-tendra-nuevo-parque-industrial-con-inversion-de-500-000-millones-asi-sera-el-megaproyecto/",
+        "resumen": "El nuevo parque industrial estará ubicado en el corredor Cali-Palmira y busca atraer empresas, generar empleo e impulsar la economía regional.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Valle del Cauca tendrá nuevo parque industrial con inversión de $500.000 millones: así será el megaproyecto",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Ganancia del Grupo Éxito subió 14 % hasta septiembre por su desempeño local y uruguayo",
+        "url": "https://www.valoraanalitik.com/grupo-exito-utilidad-septiembre-2026/",
+        "resumen": "La compañía reportó que, excluyendo el efecto de la tasa de cambio, sus ganancias en lo corrido del año subieron 19 %.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Utilidad del Grupo Éxito creció 14 % entre enero y septiembre; destacó resultados en Colombia y Uruguay",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Licorera de Caldas elevó a $800.000 millones sus pagos fiscales a regiones del país",
+        "url": "https://www.valoraanalitik.com/industria-licorera-de-caldas-aumento-a-800-000-millones-sus-aportes-tributarios-a-los-departamentos-de-colombia/",
+        "resumen": "Lo anterior está apalancado por la expansión del mercado interno que se ha dado en los dos últimos años, con un crecimiento en la producción y venta.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Industria Licorera de Caldas aumentó a $800.000 millones sus aportes tributarios a los departamentos de Colombia",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Netmask, firma colombiana, avanza históricamente en la defensa digital de servicios y bienes",
+        "url": "https://www.valoraanalitik.com/quien-protege-la-energia-el-agua-y-la-manufactura-de-los-ciberataques-netmask-la-compania-que-desde-colombia-acaba-de-dar-un-salto-historico/",
+        "resumen": "Netmask lleva desde Colombia capacidades especializadas para proteger entornos de tecnología operativa (OT).",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "¿Quién protege la energía, el agua y la manufactura de los ciberataques? Netmask, la compañía que desde Colombia acaba de dar un salto histórico",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "A 15 años del TLC canadiense, inversores advierten sobre un obstáculo que frenaría capitales en Colombia",
+        "url": "https://www.valoraanalitik.com/tlc-con-canada-cumple-15-anos-inversionistas-canadienses-alertan-sobre-un-problema-que-frenaria-nuevas-inversiones-en-colombia/",
+        "resumen": "El TLC con Canadá cumple 15 años en medio de una discusión sobre las condiciones que necesita Colombia para atraer nuevos capitales. Una",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "TLC con Canadá cumple 15 años: inversionistas canadienses alertan sobre un problema que frenaría nuevas inversiones en Colombia",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Hitachi Energy y Rockwell Automation fomentan la electrificación industrial con automatización y energía",
+        "url": "https://www.valoraanalitik.com/hitachi-energy-y-rockwell-automation-impulsan-un-enfoque-integrado-de-energia-y-automatizacion/",
+        "resumen": "La arquitectura «de la red al proceso» unifica el suministro de energía y la gestión de la producción para maximizar la eficiencia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Hitachi Energy y Rockwell Automation impulsan un enfoque integrado de energía y automatización para acelerar la electrificación industrial",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "Diana Giraldo asume la vicepresidencia de talento y cultura de Bancolombia en sustitución de Enrique González Bacci",
+        "url": "https://www.valoraanalitik.com/diana-giraldo-nueva-vicepresidenta-de-talento-y-cultura-de-bancolombia-reemplaza-a-enrique-gonzalez-bacci/",
+        "resumen": "La nueva vicepresidenta cuenta con 29 años de trayectoria en Bancolombia y ha trabajado en diferentes áreas relacionadas con la gestión del talento.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Diana Giraldo, nueva vicepresidenta de talento y cultura de Bancolombia: reemplaza a Enrique González Bacci",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
+      {
+        "titulo": "El gas licuado de petróleo avanza como opción frente a los problemas de suministro de gas en Colombia",
+        "url": "https://www.valoraanalitik.com/glp-gana-terreno-como-alternativa-ante-los-retos-de-abastecimiento-de-gas-en-colombia/",
+        "resumen": "Juan Manuel Morales, gerente general de Empresas Gasco en Colombia, analizó los riesgos de desabastecimiento y el papel que puede desempeñar este energético.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "GLP gana terreno como alternativa ante los retos de abastecimiento de gas en Colombia",
+        "capturado": "2026-11-10T18:57:36-05:00"
+      },
       {
         "titulo": "Luz Stella Murgas asume como la primera mujer en presidir la ANDI",
         "url": "https://www.valoraanalitik.com/luz-stella-murgas-nueva-presidenta-de-la-andi-primera-mujer/",
@@ -1115,96 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella revela cuánto gas se podría importar desde Venezuela en primera fase",
         "capturado": "2026-11-06T17:17:25-05:00"
-      },
-      {
-        "titulo": "Alianza Valores actuará como creador de mercado para 11 acciones en la BVC y este es el listado",
-        "url": "https://www.valoraanalitik.com/alianza-valores-sera-formador-de-liquidez-de-11-acciones-en-la-bolsa-de-colombia-estas-son-las-especies/",
-        "resumen": "El mecanismo busca contribuir a la liquidez de las especies seleccionadas mediante la participación de un intermediario.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Alianza Valores será formador de liquidez de 11 acciones en la Bolsa de Colombia: estas son las especies",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Qué aspectos es necesario revisar antes de arrancar un trayecto mediante la plataforma inDrive",
-        "url": "https://www.valoraanalitik.com/indrive-verificacion-antes-de-iniciar-viajes-colombia/",
-        "resumen": "inDrive destaca que si la información que aparece en la app no coincide con la persona o el vehículo que llega, se pueden usar opciones de soporte 24/7.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "¿Qué se debe verificar antes de iniciar un viaje de inDrive?",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Importante | Administración De la Espriella divulgará los pliegos para hacer fracking en el país",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-publicara-terminos-referencia-fracking-en-colombia/",
-        "resumen": "El director de la ANLA, Sergio Piñeros, confirmó que el procesos no partirá desde ceros por la experiencia que tiene el país en esta materia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Gobierno De la Espriella publicará términos de referencia para realizar fracking en Colombia",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Entrevista | Uber fortalece su enfoque corporativo en Colombia, cubre mil municipios y ve expansión",
-        "url": "https://www.valoraanalitik.com/entrevista-uber-amplia-apuesta-por-las-empresas-en-colombia-llega-a-mas-de-1-000-municipios-y-ve-mas-potencial-de-crecimiento/",
-        "resumen": "Uber enfatiza en que Colombia debe avanzar en el desarrollo de una regulación moderna, como ya ocurre en otros países de América Latina.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Uber amplía apuesta por las empresas en Colombia: llega a más de 1.000 municipios y ve más potencial de crecimiento",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Tungsteno y minerales clave: el plan de Collective Mining para hacer de Caldas polo minero en Guayabales",
-        "url": "https://www.valoraanalitik.com/asi-es-como-collective-mining-busca-consolidar-a-caldas-como-epicentro-minero/",
-        "resumen": "Omar Ossma, presidente de la empresa, explicó que el impacto de este tipo de proyectos comienza mucho antes de la extracción de minerales.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Tungsteno y minerales estratégicos: así es como Collective Mining busca consolidar a Caldas como epicentro minero con el Proyecto Guayabales",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "CEO de GeoPark afirma estar preparado para el fracking sin pruebas y prevé triplicar su producción al 2030",
-        "url": "https://www.valoraanalitik.com/estamos-listos-para-el-fracking-ceo-de-geopark-pide-iniciar-proyectos-sin-pilotos-triplicara-produccion-a-2030/",
-        "resumen": "Felipe Bayón asegura que Colombia debe iniciar fracking con la experiencia internacional de Estados Unidos y Argentina.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "«Estamos listos para el fracking»: CEO de GeoPark pide iniciar proyectos sin pilotos; triplicará producción a 2030",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Protección señala que el desempleo impulsa las cesantías en 2026 y aconseja conservarlas para emergencias",
-        "url": "https://www.valoraanalitik.com/desempleo-principal-razon-de-uso-de-las-cesantias-en-2026/",
-        "resumen": "Entre enero y octubre de 2026, la terminación del contrato laboral fue el principal motivo de uso de las cesantías en Protección.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Desempleo, principal razón de uso de las cesantías en 2026: Protección invita a mantenerlas ahorradas para cuando realmente se necesiten",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "Gobierno e industria coinciden en acelerar el fracking en Colombia desde 2027 sin fases piloto previas",
-        "url": "https://www.valoraanalitik.com/colombia-podria-iniciar-proyectos-de-fracking-en-2027-sin-pilotos/",
-        "resumen": "Los gremios del petróleo y el gas le piden al Ejecutivo reglas claras y que destrabe licenciamientos ambientales para desarrollar estas iniciativas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia podría iniciar proyectos de fracking en 2027 sin pilotos: industria y Gobierno coinciden en acelerarlos",
-        "capturado": "2026-11-06T12:16:47-05:00"
-      },
-      {
-        "titulo": "AFE plantea cambiar la inversión social en 2026 evaluando el impacto y la sostenibilidad económica regional",
-        "url": "https://www.valoraanalitik.com/el-giro-que-propone-afe-2026-en-la-inversion-social-medir-el-impacto-y-garantizar-sostenibilidad-economica-de-territorios/",
-        "resumen": "Su objetivo, trazar una nueva hoja de ruta que cambie las decisiones de inversión social en Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "El giro que propone AFE 2026 en la inversión social: medir el impacto y garantizar sostenibilidad económica de territorios",
-        "capturado": "2026-11-06T12:16:47-05:00"
       }
     ]
   }
