@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-11T08:59:51-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-11-11T16:17:26-05:00",
+  "nuevos_en_esta_corrida": 21,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno evalúa pedir otros US$200 millones al Banco Mundial para obras por sismo",
+        "url": "https://www.valoraanalitik.com/gobierno-no-descarta-buscar-otros-us200-millones-con-el-banco-mundial-para-la-reconstruccion-tras-el-terremoto/",
+        "resumen": "El Ministerio de Hacienda precisó que su rol dentro de la operación del Fondo Milagro consistirá en ejecutar los pagos que ordene la fiducia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno no descarta buscar otros US$200 millones con el Banco Mundial para la reconstrucción tras el terremoto",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Fitch mantuvo nota de la ETB, alabó su gestión financiera y quitó aviso negativo",
+        "url": "https://www.valoraanalitik.com/fitch-desempeno-etb-observacion-negativa/",
+        "resumen": "La empresa de telecomunicaciones refinanció completamente su deuda en un crédito garantizado con activos inmobiliarios no estratégicos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fitch destacó desempeño operativo y financiero de la ETB; retiró su observación negativa y mantuvo calificación",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "El billonario recaudo que dejaría la tasa a licores y cerveza de De la Espriella",
+        "url": "https://www.valoraanalitik.com/este-seria-el-billonario-recaudo-que-tendria-el-gobierno-de-la-espriella-con-propuesta-de-impuesto-a-la-cerveza-y-licores/",
+        "resumen": "Una parte del Congreso asegura que no apoyará algunas medidas propuestas por el gobierno De la Espriella en su Ley Rescate",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Este sería el billonario recaudo que tendría el gobierno De la Espriella con propuesta de impuesto a la cerveza y licores",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "De la Espriella dio fondos a afectados y el Congreso exige respuestas al Fondo Milagro",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-anuncio-recursos-para-damnificados-mientras-congreso-reclama-respuestas-al-fondo-milagro/",
+        "resumen": "Hayy malestar entre los congresistas por la excusa del gerente del Fondo Milagro y el avance de la ejecución contractual y capacidad administrativa del Fondo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella anunció recursos para damnificados, mientras Congreso reclama respuestas al Fondo Milagro",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Patria tiene en Colombia el 15 % de sus activos y crea 19.000 empleos clave",
+        "url": "https://www.valoraanalitik.com/colombia-15-activos-administra-patria/",
+        "resumen": "La firma gestiona más de US$62.000 millones a nivel global, de los cuales cerca de US$9.000 millones están invertidos en Colombia.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Colombia aporta el 15 % de los activos que administra Patria; genera 19.000 empleos en sectores estratégicos",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Cartagena impulsará su turismo con nueva terminal: megaproyecto de $6,1 billones buscará capital",
+        "url": "https://www.valoraanalitik.com/turismo-de-cartagena-dara-el-salto-de-calidad-con-nuevo-aeropuerto-megaproyecto-de-61-billones-buscara-inversion-en-la-milagro-week/",
+        "resumen": "Cartagena busca atraer capital para transformar su conectividad aérea. Un megaproyecto plantea una nueva infraestructura.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Turismo de Cartagena dará el salto de calidad con nuevo aeropuerto: megaproyecto de $6,1 billones buscará inversión en la Milagro Week",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Aris Mining elevó un 28 % sus reservas auríferas en Segovia, Antioquia, alcanzando 1,9 millones de onzas",
+        "url": "https://www.valoraanalitik.com/aris-mining-incremento-en-28-sus-reservas-de-oro-en-segovia-antioquia-hasta-19-millones-de-onzas/",
+        "resumen": "La compañía minera registró un incremento neto de 418.000 onzas troy, como resultado de la actualización de la estimación de reservas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Aris Mining incrementó en 28 % sus reservas de oro en Segovia, Antioquia, hasta 1,9 millones de onzas",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "EPS Sanitas anuncia modificaciones recientes para la entrega de fármacos en Bogotá",
+        "url": "https://www.valoraanalitik.com/eps-sanitas-confirma-nuevos-cambios-para-reclamar-medicamentos-en-bogota/",
+        "resumen": "EPS Sanitas anunció nuevos ajustes en la entrega de medicamentos en Bogotá. Los usuarios deben tener en cuenta varias fechas y recomendaciones.",
+        "autor": "",
+        "subseccion": "Reforma a la salud colombia",
+        "publicacion": "",
+        "titulo_fuente": "EPS Sanitas confirma nuevos cambios para reclamar medicamentos en Bogotá",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "EPM obtiene autorización ambiental para levantar gran parque solar en La Guajira",
+        "url": "https://www.valoraanalitik.com/epm-logra-licencia-ambiental-para-construir-mega-parque-solar-en-la-guajira/",
+        "resumen": "La iniciativa estará ubicada en San Juan del Cesar y contará con 174.600 módulos solares.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "EPM logra licencia ambiental para construir mega parque solar en La Guajira",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "ANI finiquita pleito internacional de la Perimetral de Oriente y baja pago en $1 billón",
+        "url": "https://www.valoraanalitik.com/ani-logra-cerrar-litigio-internacional-de-la-perimetral-de-oriente-y-reduce-obligacion-en-1-billon/",
+        "resumen": "La AN informó que llegó a un acuerdo para cerrar el litigio internacional de la Permiteral de Oriente, reduciendo $1 billón la obligación.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "ANI logra cerrar litigio internacional de la Perimetral de Oriente y reduce obligación en $1 billón",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "ETB finalizó el tercer trimestre con ganancia operativa y gran disminución de pérdidas",
+        "url": "https://www.valoraanalitik.com/etb-resultados-tercer-trimestre-2026/",
+        "resumen": "Diego Molano, presidente de ETB, dijo a Valora Analitik que la venta de la empresa está descartada.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "ETB cerró el tercer trimestre con resultado operacional positivo y fuerte reducción de pérdidas",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Celsia prevé que El Niño baje en abril y mayo de 2027; retomará recompra accionaria",
+        "url": "https://www.valoraanalitik.com/celsia-espera-que-el-nino-empiece-a-ceder-hacia-abril-y-mayo-de-2027-reactivara-recompra-de-acciones/",
+        "resumen": "Tras la publicación de sus resultados financieros, Celsia también afirmó Air-e le adeuda aproximadamente $198.000 millones.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Celsia espera que El Niño empiece a ceder hacia abril y mayo de 2027; reactivará recompra de acciones",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
       {
         "titulo": "Carretera Buga–Buenaventura reinicia sus 21 puntos de trabajo al frenarse las protestas en nueve tramos",
         "url": "https://www.valoraanalitik.com/via-buga-buenaventura-activa-sus-21-frentes-de-obra-tras-superar-bloqueos-en-nueve-unidades-funcionales/",
@@ -483,129 +603,99 @@
         "publicacion": "",
         "titulo_fuente": "IVA, renta y distribución de cargas: expertos analizan la Ley de Rescate y plantean alternativas para su aplicación",
         "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "A 2026, el hueco del Fondo de Combustibles nacional se quintuplicaría y llegaría a $15 billones",
-        "url": "https://www.valoraanalitik.com/deficit-del-fondo-de-combustibles-en-colombia-se-multiplicaria-por-cinco-al-cierre-de-2026-cerraria-en-15-billones/",
-        "resumen": "La vida útil de las reservas de la petrolera se ubicaría en 9,7 años para finales de 2026, luego de la adquisición de la brasileña Brava Energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Déficit del Fondo de Combustibles en Colombia se multiplicaría por cinco al cierre de 2026: cerraría en $15 billones",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Nueva resolución de la DIAN fija plazo definitivo para obtener alivios tributarios y reducir tributos",
-        "url": "https://www.valoraanalitik.com/decreto-de-la-dian-da-ultimo-plazo-para-acceder-a-beneficios-tributarios-y-pagar-menos-impuestos/",
-        "resumen": "Miles de contribuyentes tienen una oportunidad que está por terminar. El decreto contempla alivios para quienes buscan ponerse al día con la DIAN.",
-        "autor": "",
-        "subseccion": "Impuestos",
-        "publicacion": "",
-        "titulo_fuente": "Decreto de la DIAN da último plazo para acceder a beneficios tributarios y pagar menos impuestos",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Fitch otorga calificación BB a la reciente emisión de bonos sénior de Ecopetrol por hasta 2.000 millones de dólares",
-        "url": "https://www.valoraanalitik.com/fitch-asigna-nota-nueva-emision-de-ecopetrol/",
-        "resumen": "Los recursos serán destinados al pago del crédito puente contratado para la adquisición de la brasileña Brava Energy.",
-        "autor": "",
-        "subseccion": "Acciones ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Fitch asigna nota ‘BB’ a nueva emisión de Ecopetrol de notas sénior por hasta US$2.000 millones",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia sube 30 pesos y finaliza en 3.269 pesos por prudencia fiscal y desplome del crudo",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-aumenta-30-y-cierra-en-3-269-impulsado-por-cautela-fiscal-y-caida-del-petroleo/",
-        "resumen": "La divisa abrió en $3.245 y marcó un mínimo intradiario de $3.235, aunque rompió resistencias y escalar hasta un techo de $3.288,50.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia aumenta $30 y cierra en $3.269 impulsado por cautela fiscal y caída del petróleo",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Valor de la cerveza aumentaría hasta un 60 por ciento por reforma tributaria y su demanda caería a la mitad",
-        "url": "https://www.valoraanalitik.com/precio-de-la-cerveza-se-dispararia-hasta-60-con-reforma-tributaria-y-su-consumo-podria-recortarse-a-la-mitad/",
-        "resumen": "El impacto que traería la nueva reforma tributaria al consumo de cerveza y las tiendas de barrio.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Precio de la cerveza se dispararía hasta 60 % con reforma tributaria y su consumo podría recortarse a la mitad",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Sugieren suprimir gravamen al combustible y al ACPM a partir del año 2027 y así variaría el cobro",
-        "url": "https://www.valoraanalitik.com/proponen-eliminar-impuesto-a-la-gasolina-y-al-acpm-desde-2027-asi-cambiaria-el-cobro/",
-        "resumen": "El Centro Democrático incluyó la eliminación de este impuesto en su propuesta alternativa a la Ley de Rescate Económico. Esto pagaría hoy cada galón.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Proponen eliminar impuesto a la gasolina y al ACPM desde 2027: así cambiaría el cobro",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Viceministro de Hacienda señala que administración De la Espriella fallará este año en recortar $20 billones",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-no-lograra-este-ano-el-recorte-de-20-billones-que-buscaba-viceministro-de-hacienda/",
-        "resumen": "La cartera evalúa la implementación de una segunda reducción de gasto con el objetivo de aproximarse lo máximo posible a la meta original de $20 billones.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella no logrará este año el recorte de $20 billones que buscaba: Viceministro de Hacienda",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Ley de Rescate incluye iniciativa de congresistas para suprimir el 4x1000, impuesto al patrimonio y ocho tributos",
-        "url": "https://www.valoraanalitik.com/congresistas-avanzan-en-plan-para-eliminar-el-4x1-000-impuesto-al-patrimonio-y-otros-ocho-tributos-en-ley-de-rescate/",
-        "resumen": "Se conocen las primeras propuestas para modificar la reforma tributaria del gobierno de Abelardo de la Espriella.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Congresistas avanzan en plan para eliminar el 4×1.000, impuesto al patrimonio y otros ocho tributos en Ley de Rescate",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Necesidades de financiamiento llegarían a US$26.000 millones sin ley de rescate económico según Viceministerio",
-        "url": "https://www.valoraanalitik.com/viceministro-de-hacienda-estima-us26-000-millones-en-necesidades-financiamiento-sin-ley-de-rescate-economico/",
-        "resumen": "Según el funcionario, sin un ajuste fiscal gradual estructural de las finanzas habría una depresión económica en 2027.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Viceministro de Hacienda estima US$26.000 millones en necesidades financiamiento sin ley de rescate económico",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Nivel del embalse en Hidroituango subió a 420 metros para mitigar los efectos del fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/hidroituango-aumento-la-cota-del-embalse-a-420-metros-para-enfrentar-el-fenomeno-de-el-nino/",
-        "resumen": "Esta central es operada por EPM. Alcanzó dicha medida mediante un ascenso gradual y controlado que creció entre 40 y 50 centímetros diarios.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "Hidroituango aumentó la cota del embalse a 420 metros para enfrentar el fenómeno de El Niño",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Firmas de juegos de suerte y azar aceptan mayores gravámenes si se implementa un modelo que deduzca gastos",
-        "url": "https://www.valoraanalitik.com/empresas-de-azar-estan-dispuestos-a-pagar-mas-impuestos-pero-piden-un-esquema-que-reconozca-sus-costos/",
-        "resumen": "La industria de juegos de suerte y azar está dispuesta a contribuir al recaudo fiscal, pero pide condiciones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Empresas de azar están dispuestos a pagar más impuestos, pero piden un esquema que reconozca sus costos",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Congresistas descartan subir IVA a la canasta básica y aumentar aportes a salud tras cita con el Gobierno",
-        "url": "https://www.valoraanalitik.com/congreso-no-aprobara-alza-de-iva-a-canasta-basica-y-mayores-aportes-a-salud-congresistas-hablan-tras-reunion-con-gobierno/",
-        "resumen": "El Centro Democrático propuso la venta de acciones de Ecopetrol como parte del rescate fiscal, pero el sindicato más grande de la compañía rechazó la medida.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Congreso no aprobará alza de IVA a canasta básica y mayores aportes a salud: congresistas hablan tras reunión con Gobierno",
-        "capturado": "2026-11-09T14:59:31-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Fitch exaltó la gestión operativa y financiera de la ETB, quitó la lupa negativa y conservó el puntaje",
+        "url": "https://www.valoraanalitik.com/fitch-desempeno-etb-observacion-negativa/",
+        "resumen": "La empresa de telecomunicaciones refinanció completamente su deuda en un crédito garantizado con activos inmobiliarios no estratégicos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fitch destacó desempeño operativo y financiero de la ETB; retiró su observación negativa y mantuvo calificación",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Normas definidas y pactos: el desafío nacional para fomentar el capital ecológico",
+        "url": "https://www.valoraanalitik.com/reglas-claras-y-acuerdos-el-reto-de-colombia-para-impulsar-la-inversion-sostenible/",
+        "resumen": "La complejidad de las consultas previas, la gestión territorial y el licenciamiento ambiental plantea desafíos para ejecutar proyectos.",
+        "autor": "",
+        "subseccion": "Sostenibilidad",
+        "publicacion": "",
+        "titulo_fuente": "Reglas claras y acuerdos: el reto de Colombia para impulsar la inversión sostenible",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Aris Mining elevó un 28 % sus reservas auríferas en Segovia, Antioquia, llegando a 1,9 millones de onzas",
+        "url": "https://www.valoraanalitik.com/aris-mining-incremento-en-28-sus-reservas-de-oro-en-segovia-antioquia-hasta-19-millones-de-onzas/",
+        "resumen": "La compañía minera registró un incremento neto de 418.000 onzas troy, como resultado de la actualización de la estimación de reservas.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Aris Mining incrementó en 28 % sus reservas de oro en Segovia, Antioquia, hasta 1,9 millones de onzas",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "EPM consigue permiso ambiental para levantar gran parque solar en La Guajira",
+        "url": "https://www.valoraanalitik.com/epm-logra-licencia-ambiental-para-construir-mega-parque-solar-en-la-guajira/",
+        "resumen": "La iniciativa estará ubicada en San Juan del Cesar y contará con 174.600 módulos solares.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "EPM logra licencia ambiental para construir mega parque solar en La Guajira",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "ETB finalizó el tercer trimestre con saldo operacional favorable y drástica baja de mermas",
+        "url": "https://www.valoraanalitik.com/etb-resultados-tercer-trimestre-2026/",
+        "resumen": "Diego Molano, presidente de ETB, dijo a Valora Analitik que la venta de la empresa está descartada.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "ETB cerró el tercer trimestre con resultado operacional positivo y fuerte reducción de pérdidas",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Medellín será sede del Horasis Global Summit 2026: programación académica y datos del evento global",
+        "url": "https://www.valoraanalitik.com/medellin-recibe-el-horasis-global-summit-2026-agenda-academica-y-detalles-del-encuentro-internacional/",
+        "resumen": "Cerca de 1000 panelistas de 53 países se reúnen para debatir los grandes desafíos económicos, tecnológicos, políticos, sociales y ambientales.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Medellín recibe el Horasis Global Summit 2026: agenda académica y detalles del encuentro internacional",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Celsia prevé que El Niño baje en abril y mayo de 2027 y retomará recompra de acciones",
+        "url": "https://www.valoraanalitik.com/celsia-espera-que-el-nino-empiece-a-ceder-hacia-abril-y-mayo-de-2027-reactivara-recompra-de-acciones/",
+        "resumen": "Tras la publicación de sus resultados financieros, Celsia también afirmó Air-e le adeuda aproximadamente $198.000 millones.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Celsia espera que El Niño empiece a ceder hacia abril y mayo de 2027; reactivará recompra de acciones",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Presidencia lanzará Bloque Élite contra la Corrupción con 14 entidades: este será su modo de operar",
+        "url": "https://www.valoraanalitik.com/presidencia-creara-bloque-elite-contra-la-corrupcion-con-14-entidades-asi-funcionara/",
+        "resumen": "Uno de los principales componentes será el seguimiento a los recursos públicos para identificar a los beneficiarios reales.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Presidencia creará Bloque Élite contra la Corrupción con 14 entidades: así funcionará",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
+      {
+        "titulo": "Primer concepto de la nueva directora de la ANDI sobre Ley de Rescate y salario básico",
+        "url": "https://www.valoraanalitik.com/primera-vision-de-la-nueva-presidenta-de-la-andi-sobre-ley-de-rescate-y-salario-minimo/",
+        "resumen": "Tras su reciente elección como presidenta del poderoso gremio, Luz Stella Murgas habló sobre estas discusiones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Primera visión de la nueva presidenta de la ANDI sobre Ley de Rescate y salario mínimo",
+        "capturado": "2026-11-11T16:17:26-05:00"
+      },
       {
         "titulo": "PND de De la Espriella busca un millón de barriles diarios de petróleo, fracking y mayor gas",
         "url": "https://www.valoraanalitik.com/de-la-espriella-apunta-a-un-millon-de-barriles-de-petroleo-diarios-en-su-pnd-habra-fracking-y-mas-produccion-de-gas/",
@@ -1115,96 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella firma plan para construir 13 colegios por concesión en Cali y Soacha: se invertirán $887.000 millones",
         "capturado": "2026-11-08T13:26:15-05:00"
-      },
-      {
-        "titulo": "Netflix y sus socios gastarán más de US$300 millones en el Bogotá Content City, informa vicepresidente",
-        "url": "https://www.valoraanalitik.com/netflix-y-sus-aliados-invertiran-mas-de-us300-millones-en-el-bogota-content-city-anuncia-vicepresidente/",
-        "resumen": "El escenario, ubicado en la capital colombiana, busca incentivar la producción de contenidos audiovisuales internacionales desde Colombia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Netflix y sus aliados invertirán más de US$300 millones en el Bogotá Content City, anuncia vicepresidente",
-        "capturado": "2026-11-08T13:26:15-05:00"
-      },
-      {
-        "titulo": "Entrevista | Autopistas del Café se alista para finalizar su concesión en 2027: esto ocurrirá con las vías del Eje Cafetero",
-        "url": "https://www.valoraanalitik.com/entrevista-autopistas-del-cafe-se-prepara-para-terminar-su-concesion-en-2027-esto-pasara-con-las-vias-del-eje-cafetero/",
-        "resumen": "Valora Analitik conversó con Mauricio Vega, gerente de Autopistas del Café, durante el foro Eje cafetero conecta, organizado por este medio.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Autopistas del Café se prepara para terminar su concesión en 2027: esto pasará con las vías del Eje Cafetero",
-        "capturado": "2026-11-08T13:26:15-05:00"
-      },
-      {
-        "titulo": "Petrolera estatal de India proyecta elevar inversión y producción en Colombia en 2027",
-        "url": "https://www.valoraanalitik.com/petrolera-estatal-de-india-preve-aumentar-inversion-y-produccion-en-colombia-en-2027/",
-        "resumen": "El country manager de ONGC Videsh Limited habló sobre las inversiones y proyectos de la empresa en Colombia.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Petrolera estatal de India prevé aumentar inversión y producción en Colombia en 2027",
-        "capturado": "2026-11-08T13:26:15-05:00"
-      },
-      {
-        "titulo": "La puja por la dirección de la ANDI llega a su fase decisiva y así se conocerá al vencedor",
-        "url": "https://www.valoraanalitik.com/el-pulso-por-la-presidencia-de-la-andi-entra-en-su-recta-final-asi-se-definira-al-ganador/",
-        "resumen": "Se acerca la decisión en la ANDI: Murgas y Nariño buscan quedarse con la presidencia del gremio.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "El pulso por la presidencia de la ANDI entra en su recta final: así se definirá al ganador",
-        "capturado": "2026-11-08T08:03:48-05:00"
-      },
-      {
-        "titulo": "Los tres consorcios que competirán por el millonario contrato de la Línea 2 del metro bogotano",
-        "url": "https://www.valoraanalitik.com/estos-son-los-tres-grupos-que-pujaran-por-la-billonaria-licitacion-de-la-linea-2-del-metro-de-bogota/",
-        "resumen": "El Distrito señaló que la Línea 2 contará con 15,5 kilómetros de extensión y 11 estaciones, 10 de ellas subterráneas.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los tres grupos que pujarán por la billonaria licitación de la Línea 2 del metro de Bogotá",
-        "capturado": "2026-11-07T18:50:40-05:00"
-      },
-      {
-        "titulo": "Centro Democrático objeta ley fiscal y plantea suprimir el cuatro por mil y enajenar Ecopetrol",
-        "url": "https://www.valoraanalitik.com/centro-democratico-se-va-contra-ley-de-rescate-fiscal-propone-eliminar-4x1-000-y-vender-acciones-de-ecopetrol/",
-        "resumen": "La colectividad también propuso reducir la tarifa aplicable a los dividendos de 20 % a 10 %.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Centro Democrático se va contra Ley de Rescate Fiscal: propone eliminar 4×1.000 y vender acciones de Ecopetrol",
-        "capturado": "2026-11-07T18:50:40-05:00"
-      },
-      {
-        "titulo": "Riesgos para empleo, inversión y empresas señala analista frente a ley de rescate económico",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-economico-estos-son-los-riesgos-que-advierte-analista-para-empresas-empleo-e-inversion/",
-        "resumen": "Aumento de costos laborales e incertidumbre jurídica, entre los riesgos advertidos por analistas.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ley de rescate económico: estos son los riesgos que advierte analista para empresas, empleo e inversión",
-        "capturado": "2026-11-07T15:03:22-05:00"
-      },
-      {
-        "titulo": "Resultados y propuestas del primer índice de desempeño de la microempresa en Antioquia",
-        "url": "https://www.valoraanalitik.com/presentan-el-primer-indice-de-desempeno-de-la-microempresa-en-antioquia-lo-que-revelo-y-propuestas-tras-resultados/",
-        "resumen": "Esta medición ofrece una radiografía de la situación actual de este segmento empresarial y aporta información clave.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presentan el primer índice de desempeño de la microempresa en Antioquia: lo que reveló y propuestas tras resultados",
-        "capturado": "2026-11-07T15:03:22-05:00"
-      },
-      {
-        "titulo": "S&P resalta solidez de crédito en firmas colombianas pero advierte freno en la inversión",
-        "url": "https://www.valoraanalitik.com/sp-destaca-solidez-crediticia-de-empresas-colombianas-aunque-advierte-estancamiento-de-la-inversion/",
-        "resumen": "Incertidumbre regulatoria, altas tasas de interés y baja inversión limitan las perspectivas de crecimiento.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "S&P destaca solidez crediticia de empresas colombianas, aunque advierte estancamiento de la inversión",
-        "capturado": "2026-11-07T15:03:22-05:00"
       }
     ]
   }
