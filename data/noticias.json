@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-11T16:17:26-05:00",
-  "nuevos_en_esta_corrida": 21,
+  "actualizado": "2026-11-11T21:25:59-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Grupo Cibest avisa que las terminales aéreas del país llegaron al tope con 50 millones de viajeros",
+        "url": "https://www.valoraanalitik.com/grupo-cibest-aeropuertos-colombia-al-limite/",
+        "resumen": "Rionegro ya recibe casi 30 % más pasajeros de los que admite su capacidad y la mayor parte de inversión pública para aeropuertos llegará después de 2030.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Cibest advierte que los aeropuertos de Colombia están al límite: 50 millones de pasajeros y la capacidad no da abasto",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "En octubre cayó la confianza del consumidor y se situó en 8,5 por ciento",
+        "url": "https://www.valoraanalitik.com/confianza-consumidor-disminuyo-octubre-2026/",
+        "resumen": "Según Fedesarrollo, la caída de 7,2 puntos frente a septiembre se explica sobre todo por un retroceso de 11,3 puntos en las expectativas de los consumidores.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Confianza del consumidor disminuyó en octubre, ubicándose en 8,5 %",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Gastos a considerar al adquirir vivienda VIS por primera vez en el país",
+        "url": "https://www.valoraanalitik.com/comprar-vivienda-vis-por-primera-vez-en-colombia-estos-son-los-gastos-que-debe-tener-en-cuenta/",
+        "resumen": "Comprar vivienda VIS implica más que reunir la cuota inicial. Hay otros compromisos económicos que los jóvenes deben revisar antes de firmar.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Comprar vivienda VIS por primera vez en Colombia: estos son los gastos que debe tener en cuenta",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Acciones de Nvidia bajan 10 por ciento por la eventual salida de Jensen Huang",
+        "url": "https://www.valoraanalitik.com/accion-nvidia-cae-10-salida-jensen-huang/",
+        "resumen": "La junta alistaría su salida tras conocerse una segunda relación extramatrimonial. Nvidia ha perdido más de US$450.000 millones desde el domingo.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Acción de Nvidia cae 10 % ante posible salida de Jensen Huang",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Felipe Márquez sale de la presidencia de Acción Fiduciaria luego de casi dos años",
+        "url": "https://www.valoraanalitik.com/felipe-marquez-deja-accion-fiduciaria/",
+        "resumen": "La salida se acordó con la Junta Directiva, que adelantará la búsqueda de su reemplazo. Márquez volverá a dirigir su consultora Elemento.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Felipe Márquez dejará la presidencia de Acción Fiduciaria tras casi dos años en la compañía",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Ganancias de DAVIbank aumentaron 23,2 % al tercer trimestre de 2026 y alcanzaron $70.000 millones",
+        "url": "https://www.valoraanalitik.com/davibank-utilidad-crecio-tercer-trimestre/",
+        "resumen": "Las comisiones del negocio de tarjetas subieron cerca de 27 % y los gastos operacionales bajaron, mientras la cartera comercial se contrajo 6,5 %.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Utilidad de DAVIbank creció 23,2 % en el tercer trimestre de 2026 y llegó a $70.000 millones",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Clara capta US$105 millones para potenciar su plataforma y respaldar la expansión regional corporativa",
+        "url": "https://www.valoraanalitik.com/clara-obtiene-us105-millones-servicios/",
+        "resumen": "Se trata de una Serie C de US$65 millones y la renovación de una línea de financiamiento de US$40 millones.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Clara obtiene US$105 millones para fortalecer su plataforma y acompañar expansión de empresas latinoamericanas",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Corte Constitucional aprueba emergencia económica por temblor, pero veta destinar fondos al déficit",
+        "url": "https://www.valoraanalitik.com/corte-constitucional-avala-emergencia-econo/",
+        "resumen": "Hacienda tendrá 20 días hábiles para recalcular el costo de la emergencia, cuyas medidas no podrán atender problemas previos al sismo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Corte Constitucional avala la emergencia económica por el sismo, pero prohíbe usar los recursos para cubrir el déficit fiscal",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio bajó este miércoles y terminó abajo de $3.300 tras sesión Next Day por festivo en EE. UU.",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-cayo-este-miercoles-y-cerro-por-debajo-de-3-300-tras-jornada-next-day-por-festivo-en-ee-uu/",
+        "resumen": "Tras una apertura en $3.292, la divisa se ubicó alrededor de los $3.298 en sus primeros minutos y llegó a máximos de $3.311,20.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia cayó este miércoles y cerró por debajo de $3.300 tras jornada Next Day por festivo en EE. UU.",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Firma australiana destina más de US$1 millón en el país e inaugura nueva clínica médica especializada",
+        "url": "https://www.valoraanalitik.com/multinacional-australiana-invierte-mas-de-us1-millon-en-colombia-y-abre-nueva-sede-de-atencion-especializada-en-salud/",
+        "resumen": "La inversión extranjera en salud gana protagonismo en Colombia con una nueva apuesta de una multinacional en Bogotá.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional australiana invierte más de US$1 millón en Colombia y abre nueva sede de atención especializada en salud",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "A septiembre, Enka registró una ganancia neta de $11.100 millones, comparada con $854 millones de 2025",
+        "url": "https://www.valoraanalitik.com/enka-resultados-tercer-trimestre-2026/",
+        "resumen": "La utilidad antes de impuestos llegó a $20.500 millones, frente a pérdidas de $3.700 millones un año antes, aunque los ingresos bajaron 9 %.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Enka cerró sus resultados a septiembre con una utilidad neta de $11.100 millones, frente a $854 millones en 2025",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
       {
         "titulo": "Gobierno evalúa pedir otros US$200 millones al Banco Mundial para obras por sismo",
         "url": "https://www.valoraanalitik.com/gobierno-no-descarta-buscar-otros-us200-millones-con-el-banco-mundial-para-la-reconstruccion-tras-el-terremoto/",
@@ -493,119 +603,79 @@
         "publicacion": "",
         "titulo_fuente": "Premercado | Bolsas suben mientras esperan inflación de Estados Unidos: petróleo se desploma tras declaraciones de Trump",
         "capturado": "2026-11-10T05:54:56-05:00"
-      },
-      {
-        "titulo": "Ecopetrol colocó bonos por US$2.000 millones para prepagar obligaciones y refinanciar préstamo de Brava Energia",
-        "url": "https://www.valoraanalitik.com/ecopetrol-emite-bonos-us2000-2034-brava/",
-        "resumen": "La demanda alcanzó cerca de US$6.900 millones, el nivel más alto en cinco años según la compañía, con más de 235 inversionistas",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol emitió bonos por US$2.000 millones para anticipar pago de deuda y refinanciar el crédito de Brava Energia",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Nueva caída en extracción de gas en Colombia; compras externas subieron 138 por ciento",
-        "url": "https://www.valoraanalitik.com/cae-produccio-gas-colombia-sube-importacion/",
-        "resumen": "La producción de crudo bajó 2,9 % y la de gas cayó 13 % frente a septiembre de 2025. El gas importado ya cubre cerca del 40 % de la demanda.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Nuevo desplome en producción de gas en Colombia; importación se disparó 138 %",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "El día en que este tributo cesaría en Colombia: sería suprimido de forma definitiva",
-        "url": "https://www.valoraanalitik.com/la-fecha-en-la-que-este-impuesto-se-dejaria-de-pagar-en-colombia-quedaria-eliminado-permanentemente/",
-        "resumen": "La Ley de Rescate Económico abre la puerta a un cambio importante en el pago de un impuesto clave en Colombia. Hay una fecha que será determinante.",
-        "autor": "",
-        "subseccion": "Impuestos",
-        "publicacion": "",
-        "titulo_fuente": "La fecha en la que este impuesto se dejaría de pagar en Colombia: quedaría eliminado permanentemente",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Ampliación | Costo de vida en Colombia subió levemente a 6,30 por ciento anual en octubre, tal como previeron analistas",
-        "url": "https://www.valoraanalitik.com/inflacion-colombia-octubre-2026-escalo-leve/",
-        "resumen": "El DANE reportó que los alimentos, en especial la papa y los arriendos concentraron las mayores presiones sobre el costo de vida durante el mes.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Ampliación | Inflación en Colombia escaló levemente al 6,30 % anual en octubre, en línea con lo esperado por los analistas",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "DNP: elevados tipos del Banco de la República frenan el crédito productivo en el país",
-        "url": "https://www.valoraanalitik.com/dnp-altas-tasas-del-banrep-estan-frenando-el-credito-productivo-en-colombia/",
-        "resumen": "El director recordó que este viernes el DNP debe presentar el documento Conpes de las bases del Plan Nacional de Desarrollo 2026-2030.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "DNP: altas tasas del BanRep están frenando el crédito productivo en Colombia",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Propuestas de la Ley de Rescate para recortar el déficit fiscal sin frenar la inversión",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-las-propuestas-para-reducir-el-deficit-fiscal-sin-frenar-la-inversion/",
-        "resumen": "Mauricio Cárdenas y Ana Fernanda Maiguashca plantearon alternativas para ajustar el gasto y mejorar los ingresos tributarios.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Ley de Rescate: las propuestas para reducir el déficit fiscal sin frenar la inversión",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "SIC archiva investigación contra Ecopetrol, Cenit y Ocensa por acuerdos con Helistar",
-        "url": "https://www.valoraanalitik.com/sic-archiva-caso-ecopetrol-helistar/",
-        "resumen": "La decisión acoge los reparos de la Procuraduría y cierra un proceso que tenía cargos desde 2024 por contratos de más de $417.000 millones",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "SIC archiva caso contra Ecopetrol, Cenit y Ocensa por contratos con Helistar",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Ecopetrol habría alcanzado en el tercer trimestre sus segundos mejores resultados en dos años",
-        "url": "https://www.valoraanalitik.com/ecopetrol-habria-logrado-en-el-tercer-trimestre-sus-segundos-mejores-resultados-en-mas-de-dos-anos/",
-        "resumen": "Adicionalmente, la estatal energética registraría su mayor producción desde el tercer trimestre de 2025.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol habría logrado en el tercer trimestre sus segundos mejores resultados en más de dos años",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Grupo Cibest reporta un incremento del 10,5 % en sus utilidades a septiembre, llegando a 6,3 billones",
-        "url": "https://www.valoraanalitik.com/utilidades-de-grupo-cibest-bancolombia-aumentaron-tercer-trimestre/",
-        "resumen": "El CEO de la compañía, Juan Carlos Mora, aseguró que los resultados permiten a la compañía seguir creciendo y evolucionar en su portafolio a largo plazo.",
-        "autor": "",
-        "subseccion": "Bancolombia",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Utilidades de Grupo Cibest (Bancolombia) aumentaron 10,5 % al tercer trimestre: llegaron a $6,3 billones",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Reforma de De la Espriella: impacto en las entradas de quienes devengan más de dos salarios mínimos",
-        "url": "https://www.valoraanalitik.com/reforma-del-gobierno-de-la-espriella-asi-afectaria-los-ingresos-de-quienes-ganan-mas-de-dos-salarios-minimos/",
-        "resumen": "Un cambio incluido en la Ley de Rescate Económico del gobierno De la Espriella podría disminuir el dinero que reciben miles de trabajadores.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Reforma del gobierno De la Espriella: así afectaría los ingresos de quienes ganan más de dos salarios mínimos",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Especialistas estudian la Ley de Rescate sobre IVA, renta y cargas, y proponen vías para aplicarla",
-        "url": "https://www.valoraanalitik.com/expertos-analizan-la-ley-de-rescate-y-plantean-alternativas-para-su-aplicacion/",
-        "resumen": "Los panelistas coinciden en la necesidad de corregir las cuentas públicas, pero plantean cambios en la fórmula.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "IVA, renta y distribución de cargas: expertos analizan la Ley de Rescate y plantean alternativas para su aplicación",
-        "capturado": "2026-11-09T21:40:01-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Precio de Nvidia baja 10 por ciento por probable salida de Jensen Huang",
+        "url": "https://www.valoraanalitik.com/accion-nvidia-cae-10-salida-jensen-huang/",
+        "resumen": "La junta alistaría su salida tras conocerse una segunda relación extramatrimonial. Nvidia ha perdido más de US$450.000 millones desde el domingo.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Acción de Nvidia cae 10 % ante posible salida de Jensen Huang",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Felipe Márquez saldrá de la presidencia de Acción Fiduciaria luego de casi dos años",
+        "url": "https://www.valoraanalitik.com/felipe-marquez-deja-accion-fiduciaria/",
+        "resumen": "La salida se acordó con la Junta Directiva, que adelantará la búsqueda de su reemplazo. Márquez volverá a dirigir su consultora Elemento.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Felipe Márquez dejará la presidencia de Acción Fiduciaria tras casi dos años en la compañía",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Ganancia de DAVIbank subió 23,2 por ciento en el tercer trimestre de 2026 y llegó a 70.000 millones de pesos",
+        "url": "https://www.valoraanalitik.com/davibank-utilidad-crecio-tercer-trimestre/",
+        "resumen": "Las comisiones del negocio de tarjetas subieron cerca de 27 % y los gastos operacionales bajaron, mientras la cartera comercial se contrajo 6,5 %.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Utilidad de DAVIbank creció 23,2 % en el tercer trimestre de 2026 y llegó a $70.000 millones",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Gobierno informa cuatro flancos para enmendar anomalías en la consulta previa",
+        "url": "https://www.valoraanalitik.com/gobierno-anuncia-cuatro-frentes-para-corregir-irregularidades-en-la-consulta-previa/",
+        "resumen": "Alejandro Burgos, director de la Autoridad Nacional de Consulta Previa, explicó las medidas regulatorias e institucionales para agilizar estos procesos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno anuncia cuatro frentes para corregir irregularidades en la consulta previa",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Procesos de consulta previa en Colombia crecieron al doble en diez años y el 64 por ciento pasa de tres años",
+        "url": "https://www.valoraanalitik.com/consultas-previas-en-colombia-se-duplicaron-en-una-decada-y-el-64-supera-los-tres-anos/",
+        "resumen": "Un estudio de Corficolombiana analizó el aumento de estos trámites y los retos que representan para la ejecución de proyectos estratégicos.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Consultas previas en Colombia se duplicaron en una década y el 64 % supera los tres años",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Firma de Australia destina más de un millón de dólares en Colombia para inaugurar clínica médica",
+        "url": "https://www.valoraanalitik.com/multinacional-australiana-invierte-mas-de-us1-millon-en-colombia-y-abre-nueva-sede-de-atencion-especializada-en-salud/",
+        "resumen": "La inversión extranjera en salud gana protagonismo en Colombia con una nueva apuesta de una multinacional en Bogotá.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional australiana invierte más de US$1 millón en Colombia y abre nueva sede de atención especializada en salud",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
+      {
+        "titulo": "Enka finalizó septiembre con ganancia neta de 11.100 millones de pesos frente a 854 millones de 2025",
+        "url": "https://www.valoraanalitik.com/enka-resultados-tercer-trimestre-2026/",
+        "resumen": "La utilidad antes de impuestos llegó a $20.500 millones, frente a pérdidas de $3.700 millones un año antes, aunque los ingresos bajaron 9 %.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Enka cerró sus resultados a septiembre con una utilidad neta de $11.100 millones, frente a $854 millones en 2025",
+        "capturado": "2026-11-11T21:25:59-05:00"
+      },
       {
         "titulo": "Fitch exaltó la gestión operativa y financiera de la ETB, quitó la lupa negativa y conservó el puntaje",
         "url": "https://www.valoraanalitik.com/fitch-desempeno-etb-observacion-negativa/",
@@ -1135,76 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Estos son los megaproyectos de trenes, carreteras y aeropuertos que Colombia busca financiar en Milagro Week en EE. UU.",
         "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Ventas externas de esmeraldas alcanzaron US$104,2 millones hasta agosto de 2026 y superaron al ferroníquel",
-        "url": "https://www.valoraanalitik.com/exportaciones-de-esmeraldas-llegaron-a-us1042-millones-a-agosto-de-2026-y-superaron-las-de-ferroniquel/",
-        "resumen": "En los últimos diez años, desde 2016, este mercado ha exportado más de US$1.443,6 millones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Exportaciones de esmeraldas llegaron a US$104,2 millones a agosto de 2026 y superaron las de ferroníquel",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Entrevista | Asuntos energéticos colombianos exigen ser política de Estado y no de Gobierno según socio de Horst Law",
-        "url": "https://www.valoraanalitik.com/entrevista-los-temas-energeticos-en-colombia-deben-convertirse-en-una-politica-de-estado-y-no-de-gobierno-socio-de-horst-law/",
-        "resumen": "Explicó que la coyuntura actual debe servir para reconocer la necesidad de una política estructural que trascienda los periodos presidenciales.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Los temas energéticos en Colombia deben convertirse en una política de Estado y no de Gobierno: socio de Horst Law",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Air-e giró 300.000 millones a térmicas para caja y la crisis continúa",
-        "url": "https://www.valoraanalitik.com/air-e-pago-300-000-millones-a-generadoras-termicas-para-aliviar-estres-de-caja-el-problema-sigue-sin-resolverse/",
-        "resumen": "Los recursos llegaron del Fondo Empresarial de la Superintendencia de Servicios Públicos, entidad que tiene intervenida a la compañía desde septiembre de 2024.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Air-e pagó $300.000 millones a generadoras térmicas para aliviar estrés de caja: el problema sigue sin resolverse",
-        "capturado": "2026-11-08T17:23:13-05:00"
-      },
-      {
-        "titulo": "Medios informativos del país afrontan supuestas intimidaciones ilegales",
-        "url": "https://www.valoraanalitik.com/noticieros-colombianos-enfrentan-presuntas-amenazas-de-grupos-al-margen-de-la-ley/",
-        "resumen": "Caracol evacuó a parte de su personal de sus instalaciones en Bogotá como medida preventiva, luego de recibir alertas sobre posibles atentados contra el canal.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Noticieros colombianos enfrentan presuntas amenazas de grupos al margen de la ley",
-        "capturado": "2026-11-08T17:23:13-05:00"
-      },
-      {
-        "titulo": "Desplazamientos terrestres en Colombia: cuatro rubros a presupuestar",
-        "url": "https://www.valoraanalitik.com/viajes-por-carretera-en-colombia-cuatro-gastos-que-deberia-incluir-en-su-presupuesto/",
-        "resumen": "Gasolina, peajes, parqueaderos y mantenimiento son algunos de los costos que conviene revisar antes de salir de viaje durante un puente festivo.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Viajes por carretera en Colombia: cuatro gastos que debería incluir en su presupuesto",
-        "capturado": "2026-11-08T17:23:13-05:00"
-      },
-      {
-        "titulo": "ANI alcanza 12 pactos con concesionarios y previene demandas por más de $7,5 billones",
-        "url": "https://www.valoraanalitik.com/ani-logra-12-acuerdos-con-concesionarios-y-evita-reclamaciones-por-mas-de-75-billones/",
-        "resumen": "La entidad anunció un portafolio de proyectos por $39,4 billones para modernizar la infraestructura aeroportuaria de Bogotá, Palmira, Cartagena y Barranquilla.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "ANI logra 12 acuerdos con concesionarios y evita reclamaciones por más de $7,5 billones",
-        "capturado": "2026-11-08T13:26:15-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella suscribe plan para edificar 13 colegios por concesión en Cali y Soacha: se destinarán $887.000 millones",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-firma-plan-para-construir-13-colegios-por-concesion-en-cali-y-soacha-se-invertiran-887-000-millones/",
-        "resumen": "Según Presidencia, más de 14.300 estudiantes se beneficiarían de la construcción de instituciones educativas en ambas ciudades.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella firma plan para construir 13 colegios por concesión en Cali y Soacha: se invertirán $887.000 millones",
-        "capturado": "2026-11-08T13:26:15-05:00"
       }
     ]
   }
