@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-12T05:09:41-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-12T13:31:41-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Las utilidades de Colombina aumentaron 10,5 % a septiembre y las ventas locales impulsaron el balance",
+        "url": "https://www.valoraanalitik.com/colombina-ganancias-septiembre-2026/",
+        "resumen": "Colombina alertó que el ámbito de los negocios “continúa siendo afectado por diversos aspectos negativos heredados del pasado gobierno”.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Ganancias de Colombina crecieron 10,5 % entre enero y septiembre; ventas en el país impulsaron el resultado",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "Entrevista | Somos una pieza fundamental dentro de la columna vertebral del sistema eléctrico dijo el gerente de Hidroituango",
+        "url": "https://www.valoraanalitik.com/somos-una-pieza-fundamental-dentro-de-la-columna-vertebral-del-sistema-electrico-gerente-de-hidroituango/",
+        "resumen": "Carolina Escobar, gerente de Hidroituango, explicó los alcances del aumento de la cota del embalse a 420 metros y su impacto en la generación de energía.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | “Somos una pieza fundamental dentro de la columna vertebral del sistema eléctrico”: gerente de Hidroituango",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "Cementos Argos pretende entrar al índice MSCI Standard y extender su participación global",
+        "url": "https://www.valoraanalitik.com/cementos-argos-indice-msci-standard-2027/",
+        "resumen": "La compañía avanza en iniciativas para aumentar su flotante durante el primer trimestre de 2027. Reveló expectativas para EE. UU y América Latina.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Cementos Argos busca ingresar al índice MSCI Standard y ampliar su presencia en mercados internacionales",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "Inversionistas del exterior registran máximo histórico en adquisición de TES durante canjes de deuda en octubre",
+        "url": "https://www.valoraanalitik.com/fondos-extranjeros-marcan-record-de-compras-de-tes-en-medio-de-canjes-de-deuda-en-octubre/",
+        "resumen": "Los capitales internacionales protagonizaron un histórico relevo en la demanda de deuda pública en Colombia al adquirir $10,17 billones.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fondos extranjeros marcan récord de compras de TES en medio de canjes de deuda en octubre",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "El nuevo gravamen que la administración De la Espriella quiere fijar a un sector de US$29.100 millones en Colombia",
+        "url": "https://www.valoraanalitik.com/el-nuevo-impuesto-que-el-gobierno-de-la-espriella-busca-poner-a-un-mercado-que-mueve-us29-100-millones-en-colombia/",
+        "resumen": "El gobierno De la Espriella busca aumentar el recaudo en un sector que ha ganado terreno en Colombia. La propuesta ya genera reparos.",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "El nuevo impuesto que el gobierno De la Espriella busca poner a un mercado que mueve US$29.100 millones en Colombia",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito proyecta expansión en Colombia a 2027 con hasta US$70 millones para locales y remodelaciones",
+        "url": "https://www.valoraanalitik.com/grupo-exito-expansion-colombia-2027/",
+        "resumen": "En relación con el impacto del terremoto en Colombia en la operación, se destacó que al cierre del año se verán las reclamaciones ante aseguradoras.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Éxito prepara expansión en Colombia para 2027; invertirá hasta US$70 millones en nuevas tiendas y reconversiones",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "Encuestas en Colombia estarían en riesgo por la Ley Mordaza, según advierten varias firmas",
+        "url": "https://www.valoraanalitik.com/colombia-se-esta-quedando-sin-encuestas-firmas-advierten-freno-por-la-ley-mordaza/",
+        "resumen": "La Ley Mordaza está dejando a Colombia sin encuestas de opinión, advierten firmas como Invamer y Cifras & Conceptos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Colombia se está quedando sin encuestas: firmas advierten freno por la Ley Mordaza",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "Jensen Huang renunció como CEO de Nvidia por escándalo de infidelidad y supuesto espionaje; acciones se desploman",
+        "url": "https://www.valoraanalitik.com/jensen-huang-renuncio-como-ceo-de-nvidia-por-escandalo-de-infidelidad-y-supuesto-espionaje/",
+        "resumen": "La compañía perdió el umbral de los US$4 billones en capitalización bursátil y designó a Colette Kress como directora ejecutiva interina.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Jensen Huang renunció como CEO de Nvidia por escándalo de infidelidad y supuesto espionaje; acciones se desploman",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "Gobierno aceptó propuesta del Congreso y la reforma tributaria tendrá múltiples ponentes",
+        "url": "https://www.valoraanalitik.com/reforma-tributaria-contara-con-varios-ponentes-gobierno-acogio-la-propuesta-del-congreso/",
+        "resumen": "Esto luego de que se conociera que el Ejecutivo había decidido nombrar solamente un ponente por cada una de las cuatro comisiones económicas.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Reforma tributaria contará con varios ponentes; Gobierno acogió la propuesta del Congreso",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "Mineros elevó su utilidad neta un 38 % a septiembre a $768.578 millones y aumentó su extracción de oro",
+        "url": "https://www.valoraanalitik.com/mineros-utilidad-septiembre-2026/",
+        "resumen": "Los ingresos aumentaron 31 %, impulsados por el precio y el desempeño de las ventas de oro.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Mineros aumentó 38 % su utilidad neta a septiembre y alcanzó $768.578 millones; producción de oro también creció",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella fomentará fabricación nacional de fármacos e inmunizantes",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-impulsara-produccion-local-de-medicamento-y-vacunas/",
+        "resumen": "El gobierno De la Espriella quiere implementar mecanismos para garantizar la entrega de medicamentos en Colombia",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella impulsará producción local de medicamento y vacunas",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia inicia al alza en $3.294 y se aproxima a la cota de $3.300",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-al-alza-en-3-294-y-vuelve-a-acercarse-a-la-barrera-de-los-3-300/",
+        "resumen": "En las primeras transacciones de la mañana, la tasa de cambio ha tocado un precio mínimo de $3.282,88.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre al alza en $3.294 y vuelve a acercarse a la barrera de los $3.300",
+        "capturado": "2026-11-12T13:31:41-05:00"
+      },
       {
         "titulo": "Grupo Cibest avisa que las terminales aéreas del país llegaron al tope con 50 millones de viajeros",
         "url": "https://www.valoraanalitik.com/grupo-cibest-aeropuertos-colombia-al-limite/",
@@ -483,126 +603,6 @@
         "publicacion": "",
         "titulo_fuente": "Importaciones de acero chino ponen en riesgo empleos y desarrollo industrial en Colombia, advierte CEO de Ternium",
         "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Luz Stella Murgas asume como la primera mujer en dirigir la ANDI",
-        "url": "https://www.valoraanalitik.com/luz-stella-murgas-nueva-presidenta-de-la-andi-primera-mujer/",
-        "resumen": "La líder de Naturgas fue elegida para ser la nueva presidenta de la Asociación Nacional de Empresarios en reemplazo de Bruce Mac Master.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Luz Stella Murgas se convierte en la primera mujer presidenta de la ANDI",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "A septiembre, Colpensiones recauda más de $2 billones para pagar a 2 millones de pensionados",
-        "url": "https://www.valoraanalitik.com/colpensiones-reporta-un-recaudo-superior-a-2-billones-a-septiembre-que-cubre-mesadas-de-2-millones-de-personas/",
-        "resumen": "Para cubrir los derechos pensionales de los beneficiarios del sistema, Colpensiones efectúa un desembolso mensual de $5,63 billones.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Colpensiones reporta un recaudo superior a $2 billones a septiembre que cubre mesadas de 2 millones de personas",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Vuelven a poner en marcha disposición que autoriza despidos en compañías del país",
-        "url": "https://www.valoraanalitik.com/reactivan-medida-que-permitiria-a-empresas-despedir-a-algunos-trabajadores-en-colombia/",
-        "resumen": "Una decisión judicial reactivó una medida que modifica las condiciones bajo las cuales algunas empresas pueden terminar contratos laborales en Colombia.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Reactivan medida que permitiría a empresas despedir a algunos trabajadores en Colombia",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Quietud inflacionaria a octubre en territorio colombiano habría sido pasajera",
-        "url": "https://www.valoraanalitik.com/estabilidad-de-la-inflacion-en-colombia-a-octubre-habria-sido-transitoria/",
-        "resumen": "La inflación en Colombia, con corte a octubre de este año, llegó hasta el 6,30 %.",
-        "autor": "",
-        "subseccion": "Inflación",
-        "publicacion": "",
-        "titulo_fuente": "Estabilidad de la inflación en Colombia, a octubre, habría sido transitoria",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "The Economist compara el estilo administrativo de Abelardo de la Espriella en sus primeros cien días con Donald Trump",
-        "url": "https://www.valoraanalitik.com/100-dias-de-de-la-espriella-the-economist-compara-su-estilo-de-gobierno-con-el-de-donald-trump/",
-        "resumen": "The Economist analiza los 100 días de De la Espriella y sus similitudes con Donald Trump.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "100 días de De la Espriella: The Economist compara su estilo de gobierno con el de Donald Trump",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Estos serian los motivos de la cancelacion del viaje a Colombia del vicepresidente estadounidense JD Vance",
-        "url": "https://www.valoraanalitik.com/vicepresidente-de-estados-unidos-j-d-vance-cancela-su-visita-a-colombia-estas-serian-las-razones/",
-        "resumen": "La gira contemplaba encuentros con los presidentes de Colombia, Abelardo De la Espriella; Argentina, Javier Milei, y Chile, José Antonio Kast.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Vicepresidente de Estados Unidos, J.D. Vance, cancela su visita a Colombia: estas serían las razones",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Parex eleva su extraccion de petroleo luego de adquirir a Frontera Energy y espera mayor actividad en los Llanos",
-        "url": "https://www.valoraanalitik.com/parex-aumenta-produccion-petrolera-tras-compra-de-frontera-energy-preve-mejor-desempeno-en-llanos-orientales/",
-        "resumen": "La adquisición de los activos de Frontera se cerró el 1 de junio de 2026, con lo cual la empresa se convirtió en la principal petrolera privada de Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Parex aumenta producción petrolera tras compra de Frontera Energy; prevé mejor desempeño en Llanos Orientales",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "La Corte Suprema detalla en que casos la ARL asume siniestros ocurridos previo al ingreso o despues de salir",
-        "url": "https://www.valoraanalitik.com/corte-suprema-explica-cuando-la-arl-debe-cubrir-accidentes-antes-de-entrar-o-salir-del-trabajo/",
-        "resumen": "Un accidente ocurrido antes de comenzar la jornada puede tener consecuencias laborales. La Corte Suprema aclaró qué situaciones deben evaluarse.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Corte Suprema explica cuándo la ARL debe cubrir accidentes antes de entrar o salir del trabajo",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Octubre ubico a la electricidad como el servicio con mayor incremento dentro de las tarifas energeticas nacionales",
-        "url": "https://www.valoraanalitik.com/la-electricidad-fue-el-servicio-que-mas-aumento-en-la-canasta-energetica-de-colombia-durante-octubre/",
-        "resumen": "La generación térmica que es más costosa que la hidráulica, junto con la importación de gas serían los causantes.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "La electricidad fue el servicio que más aumentó en la canasta energética de Colombia durante octubre",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Pei aumentó sus ingresos 4,3 % a septiembre hasta $631.000 millones y logró cifra récord de socios",
-        "url": "https://www.valoraanalitik.com/ingresos-pei-septiembre-record-2026/",
-        "resumen": "Durante el tercer trimestre de 2026, Pei avanzó en el proceso de adquisición del portafolio inmobiliario de Terranum.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Ingresos de Pei crecieron 4,3 % a septiembre y llegaron a $631.000 millones; alcanzó récord de inversionistas",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Grupo Cibest reduce pronóstico del PIB colombiano del tercer trimestre y advierte pico inflacionario en 2027",
-        "url": "https://www.valoraanalitik.com/grupo-cibest-recorta-proyeccion-pib-colombia-tercer-trimestre-alerta-pico-inflacion/",
-        "resumen": "La ‘holding’ de Bancolombia también aseguró que el déficit fiscal del país aumentaría con fuerza en 2027.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Cibest recorta proyección de PIB de Colombia del tercer trimestre y alerta por pico de inflación en 2027",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Premercado | Acciones al alza a la espera de la inflación estadounidense y desplome del crudo por dichos de Trump",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-suben-mientras-esperan-inflacion-de-estados-unidos-petroleo-se-desploma-tras-declaraciones-de-trump/",
-        "resumen": "Los economistas anticipan que el IPC de octubre en Estados Unidos mostrará que los precios aumentan a un ritmo moderado.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas suben mientras esperan inflación de Estados Unidos: petróleo se desploma tras declaraciones de Trump",
-        "capturado": "2026-11-10T05:54:56-05:00"
       }
     ],
     "Empresariales": [
