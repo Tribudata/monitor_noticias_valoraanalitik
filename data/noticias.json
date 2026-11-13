@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-12T13:31:41-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-11-12T19:01:43-05:00",
+  "nuevos_en_esta_corrida": 24,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Ecopetrol y Reficar escapan a millonarios embargos de la DIAN durante litigio por IVA de combustibles",
+        "url": "https://www.valoraanalitik.com/ecopetrol-reficar-evitan-embargos-dian-iva/",
+        "resumen": "Mientras los jueces no decidan, la DIAN no podrá cobrar una deuda de más de $8 billones que, de hacerse efectiva, golpearía la liquidez de ambas empresas.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol y Reficar evitan billonarios embargos de la DIAN mientras se resuelve pleito por IVA a combustibles",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Producción de Ecopetrol disminuyó 3,3 % de enero a septiembre de 2026 y alcanzó 726.000 barriles diarios",
+        "url": "https://www.valoraanalitik.com/produccion-de-ecopetrol-cayo-enero-septiembre-a-726-000-barriles-diarios/",
+        "resumen": "Las cifras incluyen la consolidación al 100 % de la producción en Brava Energía de Brasil, que se consolidó en agosto pasado.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Producción de Ecopetrol cayó 3,3 % entre enero y septiembre de 2026: llegó a 726.000 barriles diarios",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Ganancia de Davivienda Group cayó 13,3 % en tercer trimestre a $720.000 millones y llegó a $1,85 billones a septiembre",
+        "url": "https://www.valoraanalitik.com/utilidad-de-davivienda-group-bajo-133-en-el-tercer-trimestre-a-720-000-millones-gano-185-billones-a-septiembre/",
+        "resumen": "Este retroceso obedeció principalmente a la normalización de los ingresos del portafolio de inversiones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Utilidad de Davivienda Group bajó 13,3 % en el tercer trimestre a $720.000 millones; ganó $1,85 billones a septiembre",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Nu Holdings reportó ganancias históricas de US$1.100 millones en el tercer trimestre con alza de 31 %",
+        "url": "https://www.valoraanalitik.com/nu-utilidades-tercer-trimestre-2026/",
+        "resumen": "Los ingresos brutos aumentaron 37 % y la cartera de crédito llegó a US$41.600 millones. En Colombia, Nu alcanzó 6,1 millones de clientes.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Nu Holdings (Nubank) registró utilidades récord de US$1.100 millones en el tercer trimestre, con un crecimiento de 31 %",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Colombia presentará seis megaproyectos hidroeléctricos por US$720 millones en la Milagro Week",
+        "url": "https://www.valoraanalitik.com/colombia-llevara-seis-megaproyectos-hidroelectricos-por-us720-millones-a-la-milagro-week/",
+        "resumen": "Los proyectos hidroeléctricos hacen parte de la apuesta de Colombia para atraer inversionistas internacionales y ampliar su generación de energía renovable.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Colombia llevará seis megaproyectos hidroeléctricos por US$720 millones a la Milagro Week",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Ingresos de Odinsa disminuyen en el tercer trimestre del año 2026",
+        "url": "https://www.valoraanalitik.com/odinsa-caida-ingresos-tercer-semestre-2026/",
+        "resumen": "La compañía registró menores ingresos por el método de participación patrimonial, mientras que la deuda aumentó por la incorporación de Ticsa.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Odinsa reporta caída en ingresos durante el tercer trimestre de 2026",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Ecopetrol reporta salto de 86 % en utilidad neta a $4,8 billones e ingresos sobre $35 billones en tercer trimestre con menor producción",
+        "url": "https://www.valoraanalitik.com/utilidad-neta-de-ecopetrol-se-disparo-86-ingresos-superaron-35-billones/",
+        "resumen": "La compañía tuvo un trimestre positivo tras consolidar la compra de la firma brasileña Brava Energía.",
+        "autor": "",
+        "subseccion": "Acciones ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Pese a menor producción, utilidad neta de Ecopetrol se disparó 86 % en el tercer trimestre a $4,8 billones e ingresos superaron $35 billones",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "IATA propone bajar el IVA al combustible y los tiquetes para reducir gastos en la aviación",
+        "url": "https://www.valoraanalitik.com/la-propuesta-de-iata-para-aliviar-los-costos-del-sector-aereo/",
+        "resumen": "La asociación señala que este insumo representa entre 30 % y 40 % de los costos de una aerolínea y cuestiona nuevos impuestos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Reducir el IVA al combustible y los tiquetes, la propuesta de IATA para aliviar los costos del sector aéreo",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella espera acuerdo general para el incremento del salario mínimo colombiano",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confia-en-que-aumento-del-salario-minimo-en-colombia-se-de-por-consenso/",
+        "resumen": "El Gobierno asegura que va a garantizar la participación de los distintos representantes en la negociación del salario mínimo en Colombia",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella confía en que aumento del salario mínimo en Colombia se dé por consenso",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Fondo Milagro busca acelerar obras tras el sismo y propiciar mayor inversión estatal",
+        "url": "https://www.valoraanalitik.com/gobierno-busca-agilizar-reconstruccion-tras-el-terremoto-y-avanzar-en-inversion-con-fondo-milagro/",
+        "resumen": "El vicepresidente aseguró que el Gobierno busca acelerar las intervenciones y mantener el trabajo articulado con el sector de la construcción.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno busca agilizar reconstrucción tras el terremoto y avanzar en inversión con Fondo Milagro",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Fecha de apertura del mayor proyecto residencial de lujo para la tercera edad en Medellín",
+        "url": "https://www.valoraanalitik.com/medellin-tendra-el-megaproyecto-de-vivienda-de-lujo-para-adultos-mayores-mas-grande-de-colombia/",
+        "resumen": "Medellín tendrá un nuevo proyecto de vivienda para adultos mayores. La apuesta refleja el crecimiento de un mercado en crecimiento.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Medellín tendrá el megaproyecto de vivienda de lujo para adultos mayores más grande de Colombia: ya hay fecha de inauguración",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar en el país supera los $3.300 tras más de un mes sin cotizar así",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-consolida-sobre-los-3-300-luego-de-mas-de-un-mes-sin-cerrar-en-ese-valor/",
+        "resumen": "La divisa abrió al alza en $3.282,88 y marcó rápidamente un mínimo intradiario en $3.277. Luego tocó un pico de $3.347,47 durante la mañana.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia se consolida sobre los $3.300 luego de más de un mes sin cerrar en ese valor",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
       {
         "titulo": "Las utilidades de Colombina aumentaron 10,5 % a septiembre y las ventas locales impulsaron el balance",
         "url": "https://www.valoraanalitik.com/colombina-ganancias-septiembre-2026/",
@@ -483,129 +603,129 @@
         "publicacion": "",
         "titulo_fuente": "Grupo Cibest destapa metas para 2027: proyecta acelerar cartera al 10 % y sostener rentabilidad sobre 21 %",
         "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "La firma a cargo de megaproyectos viales por más de $5 billones en Cartagena, Antioquia y Bogotá",
-        "url": "https://www.valoraanalitik.com/la-empresa-detras-de-los-megaproyectos-de-infraestructura-por-mas-de-5-billones-en-bogota-antioquia-y-cartagena/",
-        "resumen": "Metro de Bogotá, Puerto Antioquia y aeropuerto de Cartagena: la empresa detrás de estas obras billonarias.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "La empresa detrás de los megaproyectos de infraestructura por más de $5 billones en Bogotá, Antioquia y Cartagena",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "Gobierno procurará cuantiosa inversión en la Milagro Week para agrandar terminal El Dorado",
-        "url": "https://www.valoraanalitik.com/gobierno-buscara-millonaria-inversion-en-el-milagro-week-para-ampliar-aeropuerto-el-dorado/",
-        "resumen": "La ampliación de El Dorado es uno de los proyectos de infraestructura que Colombia llevará a la Milagro Week en Nueva York.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno buscará millonaria inversión en la Milagro Week para ampliar aeropuerto El Dorado",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "Valle del Cauca contará con nuevo parque industrial por $500.000 millones: este es el megaproyecto",
-        "url": "https://www.valoraanalitik.com/valle-del-cauca-tendra-nuevo-parque-industrial-con-inversion-de-500-000-millones-asi-sera-el-megaproyecto/",
-        "resumen": "El nuevo parque industrial estará ubicado en el corredor Cali-Palmira y busca atraer empresas, generar empleo e impulsar la economía regional.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Valle del Cauca tendrá nuevo parque industrial con inversión de $500.000 millones: así será el megaproyecto",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "Ganancias del Grupo Éxito aumentaron 14 % de enero a septiembre; resaltó desempeño en Uruguay y Colombia",
-        "url": "https://www.valoraanalitik.com/grupo-exito-utilidad-septiembre-2026/",
-        "resumen": "La compañía reportó que, excluyendo el efecto de la tasa de cambio, sus ganancias en lo corrido del año subieron 19 %.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Utilidad del Grupo Éxito creció 14 % entre enero y septiembre; destacó resultados en Colombia y Uruguay",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella busca acabar estratos en Colombia y transformar cobro de servicios públicos",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-quiere-eliminar-los-estratos-en-colombia-y-cambiar-radicalmente-el-cobro-de-los-servicios-publicos/",
-        "resumen": "La propuesta de eliminar los estratos en Colombia, como se conocen, ayudaría a focalizar subsidios en los servicios públicos",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella quiere eliminar los estratos en Colombia y cambiar radicalmente el cobro de los servicios públicos",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "Megaproyectos prioritarios para el Gobierno De la Espriella en el Plan de Desarrollo",
-        "url": "https://www.valoraanalitik.com/estos-son-los-megaproyectos-a-los-que-el-gobierno-de-la-espriella-les-dara-prioridad-en-plan-de-desarrollo/",
-        "resumen": "El documento prioriza 119 megaproyectos, integra más de 2.000 iniciativas comunitarias regionales y reserva $58,29 billones para atender el terremoto.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los megaproyectos a los que el Gobierno De la Espriella les dará prioridad en Plan de Desarrollo",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "Detalles y plazos de la reforma administrativa de Galán en Bogotá que ahorraría $40.000 millones al año",
-        "url": "https://www.valoraanalitik.com/asi-es-la-mega-reforma-administrativa-de-galan-con-la-se-ahorrarian-40-000-millones-al-ano-en-bogota-detalles-y-tiempos/",
-        "resumen": "La administración espera tener un texto para discutir este año y que el proyecto sea radicado ante el Concejo en febrero de 2027.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Así es la mega reforma administrativa de Galán con la que se ahorrarían $40.000 millones al año en Bogotá: detalles y tiempos",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "Partido Liberal pone condiciones a tributaria de De la Espriella y sugiere posponer recortes fiscales",
-        "url": "https://www.valoraanalitik.com/partido-liberal-fija-lineas-rojas-a-la-reforma-tributaria-de-de-la-espriella-pide-aplazar-rebajas-de-impuestos-a-empresas/",
-        "resumen": "Los liberales plantearon revisar los alivios tributarios empresariales antes de trasladar mayores cargas al consumo de los hogares.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Partido Liberal fija líneas rojas a la reforma tributaria de De la Espriella: pide aplazar rebajas de impuestos a empresas",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "A 15 años del TLC con Canadá, inversores advierten sobre un obstáculo para nuevos capitales en el país",
-        "url": "https://www.valoraanalitik.com/tlc-con-canada-cumple-15-anos-inversionistas-canadienses-alertan-sobre-un-problema-que-frenaria-nuevas-inversiones-en-colombia/",
-        "resumen": "El TLC con Canadá cumple 15 años en medio de una discusión sobre las condiciones que necesita Colombia para atraer nuevos capitales. Una",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "TLC con Canadá cumple 15 años: inversionistas canadienses alertan sobre un problema que frenaría nuevas inversiones en Colombia",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "Diana Giraldo asume la vicepresidencia de talento y cultura en Bancolombia en sustitución de Enrique González Bacci",
-        "url": "https://www.valoraanalitik.com/diana-giraldo-nueva-vicepresidenta-de-talento-y-cultura-de-bancolombia-reemplaza-a-enrique-gonzalez-bacci/",
-        "resumen": "La nueva vicepresidenta cuenta con 29 años de trayectoria en Bancolombia y ha trabajado en diferentes áreas relacionadas con la gestión del talento.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Diana Giraldo, nueva vicepresidenta de talento y cultura de Bancolombia: reemplaza a Enrique González Bacci",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "Aparecen los primeros congresistas ponentes de la reforma tributaria impulsada por el mandato de De la Espriella",
-        "url": "https://www.valoraanalitik.com/se-conocen-los-primeros-ponentes-de-la-reforma-tributaria-del-gobierno-de-la-espriella/",
-        "resumen": "El proyecto de ley debe surtir su trámite legislativo en tiempo récord para que el Ejecutivo pueda reducir el desbalance fiscal proyectado para 2027.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Se conocen los primeros ponentes de la reforma tributaria del gobierno De la Espriella",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "CEO de Ternium señala peligro para el agro y la industria nacional por compras de acero de China",
-        "url": "https://www.valoraanalitik.com/importaciones-de-acero-chino-ponen-en-riesgo-empleos-y-desarrollo-industrial-en-colombia-advierte-ceo-de-ternium/",
-        "resumen": "Según Máximo Vedoya, también presidente de Alacero, China podría representar el 45 % de todos los bienes producidos en el mundo.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Importaciones de acero chino ponen en riesgo empleos y desarrollo industrial en Colombia, advierte CEO de Ternium",
-        "capturado": "2026-11-10T13:33:07-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Ecopetrol reportó baja de 3,3 % en su producción a 726.000 barriles diarios entre enero y septiembre de 2026",
+        "url": "https://www.valoraanalitik.com/produccion-de-ecopetrol-cayo-enero-septiembre-a-726-000-barriles-diarios/",
+        "resumen": "Las cifras incluyen la consolidación al 100 % de la producción en Brava Energía de Brasil, que se consolidó en agosto pasado.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Producción de Ecopetrol cayó 3,3 % entre enero y septiembre de 2026: llegó a 726.000 barriles diarios",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Davivienda Group redujo su utilidad 13,3 % en el tercer trimestre a $720.000 millones y ganó $1,85 billones a septiembre",
+        "url": "https://www.valoraanalitik.com/utilidad-de-davivienda-group-bajo-133-en-el-tercer-trimestre-a-720-000-millones-gano-185-billones-a-septiembre/",
+        "resumen": "Este retroceso obedeció principalmente a la normalización de los ingresos del portafolio de inversiones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Utilidad de Davivienda Group bajó 13,3 % en el tercer trimestre a $720.000 millones; ganó $1,85 billones a septiembre",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Odinsa registra descenso en sus ingresos en el transcurso del tercer trimestre de 2026",
+        "url": "https://www.valoraanalitik.com/odinsa-caida-ingresos-tercer-semestre-2026/",
+        "resumen": "La compañía registró menores ingresos por el método de participación patrimonial, mientras que la deuda aumentó por la incorporación de Ticsa.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Odinsa reporta caída en ingresos durante el tercer trimestre de 2026",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Utilidad neta de Ecopetrol trepó 86 % en el tercer trimestre a $4,8 billones e ingresos superaron $35 billones a pesar de menor producción",
+        "url": "https://www.valoraanalitik.com/utilidad-neta-de-ecopetrol-se-disparo-86-ingresos-superaron-35-billones/",
+        "resumen": "La compañía tuvo un trimestre positivo tras consolidar la compra de la firma brasileña Brava Energía.",
+        "autor": "",
+        "subseccion": "Acciones ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Pese a menor producción, utilidad neta de Ecopetrol se disparó 86 % en el tercer trimestre a $4,8 billones e ingresos superaron $35 billones",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "IATA propone bajar el IVA al combustible y a los tiquetes para disminuir los costos aéreos",
+        "url": "https://www.valoraanalitik.com/la-propuesta-de-iata-para-aliviar-los-costos-del-sector-aereo/",
+        "resumen": "La asociación señala que este insumo representa entre 30 % y 40 % de los costos de una aerolínea y cuestiona nuevos impuestos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Reducir el IVA al combustible y los tiquetes, la propuesta de IATA para aliviar los costos del sector aéreo",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Utilidades de Colombina aumentaron 10,5 % a septiembre gracias a mayores ventas locales",
+        "url": "https://www.valoraanalitik.com/colombina-ganancias-septiembre-2026/",
+        "resumen": "Colombina alertó que el ámbito de los negocios “continúa siendo afectado por diversos aspectos negativos heredados del pasado gobierno”.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Ganancias de Colombina crecieron 10,5 % entre enero y septiembre; ventas en el país impulsaron el resultado",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Entrevista | Gerente de Hidroituango destaca rol clave de la obra en el sistema eléctrico",
+        "url": "https://www.valoraanalitik.com/somos-una-pieza-fundamental-dentro-de-la-columna-vertebral-del-sistema-electrico-gerente-de-hidroituango/",
+        "resumen": "Carolina Escobar, gerente de Hidroituango, explicó los alcances del aumento de la cota del embalse a 420 metros y su impacto en la generación de energía.",
+        "autor": "",
+        "subseccion": "Epm",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | “Somos una pieza fundamental dentro de la columna vertebral del sistema eléctrico”: gerente de Hidroituango",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Cementos Argos apunta al índice MSCI Standard para elevar su alcance internacional",
+        "url": "https://www.valoraanalitik.com/cementos-argos-indice-msci-standard-2027/",
+        "resumen": "La compañía avanza en iniciativas para aumentar su flotante durante el primer trimestre de 2027. Reveló expectativas para EE. UU y América Latina.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Cementos Argos busca ingresar al índice MSCI Standard y ampliar su presencia en mercados internacionales",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Adopta un Hogar entrega nueva vivienda a familia damnificada por sismo en Antioquia",
+        "url": "https://www.valoraanalitik.com/adopta-un-hogar-entrega-nueva-vivienda-a-familia-afectada-por-terremoto-en-antioquia/",
+        "resumen": "Más de 50 voluntarios de Asulado participaron en la construcción de la cuarta casa entregada por la iniciativa, que suma más de 6.600 donaciones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Adopta un Hogar entrega nueva vivienda a familia afectada por terremoto en Antioquia",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito proyecta expansión al 2027 en Colombia con hasta US$70 millones en inversión",
+        "url": "https://www.valoraanalitik.com/grupo-exito-expansion-colombia-2027/",
+        "resumen": "En relación con el impacto del terremoto en Colombia en la operación, se destacó que al cierre del año se verán las reclamaciones ante aseguradoras.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Éxito prepara expansión en Colombia para 2027; invertirá hasta US$70 millones en nuevas tiendas y reconversiones",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Venta de tanques para agua subiría un 15 % con el arribo del fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/demanda-de-tanques-de-agua-aumentaria-15-ante-llegada-del-fenomeno-de-el-nino/",
+        "resumen": "Colplast identificó un mayor interés por estos sistemas de almacenamiento en la Costa Atlántica y Antioquia, especialmente entre los hogares urbanos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Demanda de tanques de agua aumentaría 15 % ante llegada del fenómeno de El Niño",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
+      {
+        "titulo": "Jensen Huang renunció como CEO de Nvidia por escándalo de infidelidad y supuesto espionaje; acciones se desploman",
+        "url": "https://www.valoraanalitik.com/jensen-huang-renuncio-como-ceo-de-nvidia-por-escandalo-de-infidelidad-y-supuesto-espionaje/",
+        "resumen": "La compañía perdió el umbral de los US$4 billones en capitalización bursátil y designó a Colette Kress como directora ejecutiva interina.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Jensen Huang renunció como CEO de Nvidia por escándalo de infidelidad y supuesto espionaje; acciones se desploman",
+        "capturado": "2026-11-12T19:01:43-05:00"
+      },
       {
         "titulo": "Precio de Nvidia baja 10 por ciento por probable salida de Jensen Huang",
         "url": "https://www.valoraanalitik.com/accion-nvidia-cae-10-salida-jensen-huang/",
@@ -1085,126 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Ahora | Utilidades de Grupo Cibest (Bancolombia) aumentaron 10,5 % al tercer trimestre: llegaron a $6,3 billones",
         "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Al finalizar 2026, el déficit del Fondo de Combustibles en Colombia se quintuplicaría a $15 billones",
-        "url": "https://www.valoraanalitik.com/deficit-del-fondo-de-combustibles-en-colombia-se-multiplicaria-por-cinco-al-cierre-de-2026-cerraria-en-15-billones/",
-        "resumen": "La vida útil de las reservas de la petrolera se ubicaría en 9,7 años para finales de 2026, luego de la adquisición de la brasileña Brava Energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Déficit del Fondo de Combustibles en Colombia se multiplicaría por cinco al cierre de 2026: cerraría en $15 billones",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Aconauto advierte que subir el IVA a carros eléctricos afectaría a 19 marcas en Colombia",
-        "url": "https://www.valoraanalitik.com/alza-del-iva-a-carros-electricos-pondria-en-jaque-a-19-marcas-de-vehiculos-en-colombia-advierte-aconauto/",
-        "resumen": "Aconauto señaló que el incremento de la carga tributaria podría frenar la renovación del parque automotor y la transición energética del sector.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Alza del IVA a carros eléctricos pondría en jaque a 19 marcas de vehículos en Colombia, advierte Aconauto",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Fitch otorga calificación BB a la reciente colocación de bonos sénior de Ecopetrol por hasta US$2.000 millones",
-        "url": "https://www.valoraanalitik.com/fitch-asigna-nota-nueva-emision-de-ecopetrol/",
-        "resumen": "Los recursos serán destinados al pago del crédito puente contratado para la adquisición de la brasileña Brava Energy.",
-        "autor": "",
-        "subseccion": "Acciones ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Fitch asigna nota ‘BB’ a nueva emisión de Ecopetrol de notas sénior por hasta US$2.000 millones",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Tarifa de la cerveza subiría hasta un 60 % por tributaria y su gasto descendería a la mitad",
-        "url": "https://www.valoraanalitik.com/precio-de-la-cerveza-se-dispararia-hasta-60-con-reforma-tributaria-y-su-consumo-podria-recortarse-a-la-mitad/",
-        "resumen": "El impacto que traería la nueva reforma tributaria al consumo de cerveza y las tiendas de barrio.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Precio de la cerveza se dispararía hasta 60 % con reforma tributaria y su consumo podría recortarse a la mitad",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Legisladores impulsan propuesta para suprimir el 4x1.000, impuesto al patrimonio y ocho tributos más en Ley de Rescate",
-        "url": "https://www.valoraanalitik.com/congresistas-avanzan-en-plan-para-eliminar-el-4x1-000-impuesto-al-patrimonio-y-otros-ocho-tributos-en-ley-de-rescate/",
-        "resumen": "Se conocen las primeras propuestas para modificar la reforma tributaria del gobierno de Abelardo de la Espriella.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Congresistas avanzan en plan para eliminar el 4×1.000, impuesto al patrimonio y otros ocho tributos en Ley de Rescate",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Hidroituango elevó el nivel del embalse a 420 metros para afrontar la temporada de El Niño",
-        "url": "https://www.valoraanalitik.com/hidroituango-aumento-la-cota-del-embalse-a-420-metros-para-enfrentar-el-fenomeno-de-el-nino/",
-        "resumen": "Esta central es operada por EPM. Alcanzó dicha medida mediante un ascenso gradual y controlado que creció entre 40 y 50 centímetros diarios.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "Hidroituango aumentó la cota del embalse a 420 metros para enfrentar el fenómeno de El Niño",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Firmas de juegos de suerte y azar aceptan mayores tributos, pero exigen un modelo que contemple sus gastos",
-        "url": "https://www.valoraanalitik.com/empresas-de-azar-estan-dispuestos-a-pagar-mas-impuestos-pero-piden-un-esquema-que-reconozca-sus-costos/",
-        "resumen": "La industria de juegos de suerte y azar está dispuesta a contribuir al recaudo fiscal, pero pide condiciones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Empresas de azar están dispuestos a pagar más impuestos, pero piden un esquema que reconozca sus costos",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Parlamentarios confirman tras cita oficial que no habrá aumento de IVA a alimentos ni de cotizaciones",
-        "url": "https://www.valoraanalitik.com/congreso-no-aprobara-alza-de-iva-a-canasta-basica-y-mayores-aportes-a-salud-congresistas-hablan-tras-reunion-con-gobierno/",
-        "resumen": "El Centro Democrático propuso la venta de acciones de Ecopetrol como parte del rescate fiscal, pero el sindicato más grande de la compañía rechazó la medida.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Congreso no aprobará alza de IVA a canasta básica y mayores aportes a salud: congresistas hablan tras reunión con Gobierno",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Petrolera estatal india proyecta elevar su extracción en el departamento del Meta, en Colombia",
-        "url": "https://www.valoraanalitik.com/indias-state-owned-oil-company-plans-to-boost-production-in-the-region-of-meta-in-colombia/",
-        "resumen": "In this interview, Niranjan Roul, Country Manager of ONGC, explains the motives behind his optimism about Colombia’s oil and gas industry.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "India’s State-Owned Oil Company Plans to Boost Production in the Region of Meta in Colombia",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Ecopetrol cambia el día de divulgación de sus balances contables del tercer trimestre de 2026",
-        "url": "https://www.valoraanalitik.com/ecopetrol-modifica-fecha-de-publicacion-de-resultados-financieros-del-tercer-trimestre-de-2026/",
-        "resumen": "La compañía presentará sus resultados financieros el 12 de noviembre. Sus proyecciones apuntan a ingresos de entre $33 billones y $36 billones.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol modifica fecha de publicación de resultados financieros del tercer trimestre de 2026",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Industria fiduciaria propone canalizar fondos privados para impulsar obras y crecimiento nacional",
-        "url": "https://www.valoraanalitik.com/sector-fiduciario-plantea-movilizar-capital-privado-para-la-reconstruccion-y-el-desarrollo-del-pais/",
-        "resumen": "Asofiduciarias analizará los desafíos fiscales, la inversión privada y las oportunidades para financiar proyectos de largo plazo en su próximo congreso.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Sector fiduciario plantea movilizar capital privado para la reconstrucción y el desarrollo del país",
-        "capturado": "2026-11-09T14:59:31-05:00"
-      },
-      {
-        "titulo": "Conozca las grandes obras viales, férreas y aéreas que el país busca fondear en EE. UU.",
-        "url": "https://www.valoraanalitik.com/estos-son-los-megaproyectos-de-trenes-carreteras-y-aeropuertos-que-colombia-busca-financiar-en-milagro-week-en-ee-uu/",
-        "resumen": "Gobierno de Abelardo de la Espriella lleva 132 proyectos a Nueva York para atraer inversión a Colombia.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Estos son los megaproyectos de trenes, carreteras y aeropuertos que Colombia busca financiar en Milagro Week en EE. UU.",
-        "capturado": "2026-11-09T14:59:31-05:00"
       }
     ]
   }
