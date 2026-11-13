@@ -1,9 +1,119 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-13T02:06:02-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-11-13T10:37:51-05:00",
+  "nuevos_en_esta_corrida": 19,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Inversores extranjeros vuelven a mirar a Grupo Sura ante mejores pronósticos de ganancias para 2026",
+        "url": "https://www.valoraanalitik.com/fondos-internacionales-grupo-sura-2026/",
+        "resumen": "El CEO del conglomerado, Ricardo Jaramillo, indicó que el volumen de negociación en Bolsa de Colombia ha crecido en el último año.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fondos internacionales recuperan interés en Grupo Sura en medio de una mejor proyección de utilidades para 2026",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Sector empresarial aceptaría impuesto de renta corporativa si se detiene el IVA a la comida",
+        "url": "https://www.valoraanalitik.com/empresarios-cederian-en-impuesto-de-renta-corporativa-a-cambio-de-frenar-iva-para-alimentos/",
+        "resumen": "La presidenta del Consejo Gremial indicó que las propuestas todavía deben revisarse en mesas de trabajo sectoriales.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Empresarios cederían en impuesto de renta corporativa a cambio de frenar IVA para alimentos",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Utilidades del Grupo Energía Bogotá caen a $1,8 billones hasta septiembre por Air-e y dólar",
+        "url": "https://www.valoraanalitik.com/grupo-energia-bogota-redujo-sus-ganancias-entre-enero-y-septiembre-y-llego-a-18-billones-por-perdidas-de-air-e-y-tasa-de-cambio/",
+        "resumen": "Los ingresos del Grupo Energía Bogotá cayeron 12,4 % a septiembre. El efecto cambiario y mayores gastos financieros presionaron sus resultados.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Energía Bogotá redujo sus ganancias entre enero y septiembre y llegó a $1,8 billones; por pérdidas de Air-e y tasa de cambio",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en Colombia inicia estable a $3.310 por previsiones de subidas en la FED",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-estable-en-3-310-sostenido-por-expectativas-de-alzas-en-la-fed/",
+        "resumen": "Las monedas latinoamericanas siguen enfrentando presiones vendedoras frente a un dólar que conserva su fortaleza.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre estable en $3.310 sostenido por expectativas de alzas en la FED",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "J.P. Morgan Asset Management introduce los fondos cotizados activos pioneros en el país",
+        "url": "https://www.valoraanalitik.com/jp-morgan-asset-manag-lanza-etfs-colombia/",
+        "resumen": "El lanzamiento reúne 15 estrategias globales e inaugura una nueva etapa para el mercado colombiano.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "J.P. Morgan Asset Management lanza los primeros ETFs activos de Colombia",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Gobierno exige a congresistas reportar gestiones presupuestales para frenar la mermelada",
+        "url": "https://www.valoraanalitik.com/asi-busca-el-gobierno-acabar-con-la-mermelada-congresistas-tendran-que-revelar-sus-gestiones-presupuestales/",
+        "resumen": "El Plan impone un marco de regulación al cabildeo (lobbying) y a la gestión de intereses privados ante las ramas del poder público.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Así busca el Gobierno acabar con la ‘mermelada’: congresistas tendrán que revelar sus gestiones presupuestales",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Falla mundial de Microsoft afecta a Outlook y Teams que restablecerían servicio en 48 horas",
+        "url": "https://www.valoraanalitik.com/microsoft-enfrenta-caida-global-de-sus-servicios-outlook-y-teams-volverian-a-funcionar-en-48-horas/",
+        "resumen": "De acuerdo con los reportes de la compañía, el problema está relacionado con fallas en algunos servidores que soportan sus servicios en la nube.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Microsoft enfrenta caída global de sus servicios: Outlook y Teams volverían a funcionar en 48 horas",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "ANLA solicita vigilancia y debate técnico para la PTAR Canoas clave en rescate del río Bogotá",
+        "url": "https://www.valoraanalitik.com/anla-pide-debate-tecnico-y-vigilancia-sobre-la-ptar-canoas-megaobra-clave-para-recuperar-el-rio-bogota/",
+        "resumen": "La PTAR Canoas está diseñada para tratar el 70 % de las aguas residuales de Bogotá y el 100 % de las de Soacha.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "ANLA pide debate técnico y vigilancia sobre la PTAR Canoas, megaobra clave para recuperar el río Bogotá",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Premercado | Bolsas mixtas por IA y baja del petróleo con el IPP de EE. UU. en la mira",
+        "url": "https://www.valoraanalitik.com/premercado-mercados-globales-mixtos-por-optimismo-en-ia-mientras-petroleo-cae-ipp-de-ee-uu-en-la-agenda/",
+        "resumen": "Donald Trump afirmó que Washington ya no necesita un acuerdo con Irán.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Mercados globales mixtos por optimismo en IA mientras petróleo cae: IPP de EE. UU. en la agenda",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Acción de Cementos Argos entraría al MSCI Standard si Grupo Argos baja su participación",
+        "url": "https://www.valoraanalitik.com/cementos-argos-msci-standard-analistas/",
+        "resumen": "Grupo Argos incluyó en sus resultados del tercer trimestre la posibilidad de reducir su participación en Cementos Argos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Acción de Cementos Argos podría entrar al MSCI Standard si se concreta reducción de participación de Grupo Argos: analistas",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Propuesta estatal modificaría las citas y la atención a usuarios de EPS colombianas: esto priorizará",
+        "url": "https://www.valoraanalitik.com/plan-del-gobierno-cambiaria-citas-y-atencion-de-pacientes-en-las-eps-en-colombia-esto-priorizara/",
+        "resumen": "El Plan de Desarrollo del Gobierno tiene otras disposiciones muy importantes sobre el funcionamiento de las EPS en Colombia",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Plan del Gobierno cambiaría citas y atención de pacientes en las EPS en Colombia: Esto priorizará",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
       {
         "titulo": "Grupo Sura rebasó la meta de utilidades de 2026 y elevó su pronóstico para el cierre del periodo",
         "url": "https://www.valoraanalitik.com/grupo-sura-supero-meta-ganancias-de-todo-2026-elevo-proyecciones/",
@@ -493,119 +603,89 @@
         "publicacion": "",
         "titulo_fuente": "EPS Sanitas confirma nuevos cambios para reclamar medicamentos en Bogotá",
         "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "EPM obtiene autorización ambiental para levantar gran parque solar en La Guajira",
-        "url": "https://www.valoraanalitik.com/epm-logra-licencia-ambiental-para-construir-mega-parque-solar-en-la-guajira/",
-        "resumen": "La iniciativa estará ubicada en San Juan del Cesar y contará con 174.600 módulos solares.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "EPM logra licencia ambiental para construir mega parque solar en La Guajira",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "ANI finiquita pleito internacional de la Perimetral de Oriente y baja pago en $1 billón",
-        "url": "https://www.valoraanalitik.com/ani-logra-cerrar-litigio-internacional-de-la-perimetral-de-oriente-y-reduce-obligacion-en-1-billon/",
-        "resumen": "La AN informó que llegó a un acuerdo para cerrar el litigio internacional de la Permiteral de Oriente, reduciendo $1 billón la obligación.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "ANI logra cerrar litigio internacional de la Perimetral de Oriente y reduce obligación en $1 billón",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "ETB finalizó el tercer trimestre con ganancia operativa y gran disminución de pérdidas",
-        "url": "https://www.valoraanalitik.com/etb-resultados-tercer-trimestre-2026/",
-        "resumen": "Diego Molano, presidente de ETB, dijo a Valora Analitik que la venta de la empresa está descartada.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "ETB cerró el tercer trimestre con resultado operacional positivo y fuerte reducción de pérdidas",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "Celsia prevé que El Niño baje en abril y mayo de 2027; retomará recompra accionaria",
-        "url": "https://www.valoraanalitik.com/celsia-espera-que-el-nino-empiece-a-ceder-hacia-abril-y-mayo-de-2027-reactivara-recompra-de-acciones/",
-        "resumen": "Tras la publicación de sus resultados financieros, Celsia también afirmó Air-e le adeuda aproximadamente $198.000 millones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Celsia espera que El Niño empiece a ceder hacia abril y mayo de 2027; reactivará recompra de acciones",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "Carretera Buga–Buenaventura reinicia sus 21 puntos de trabajo al frenarse las protestas en nueve tramos",
-        "url": "https://www.valoraanalitik.com/via-buga-buenaventura-activa-sus-21-frentes-de-obra-tras-superar-bloqueos-en-nueve-unidades-funcionales/",
-        "resumen": "Se destraban las 21 unidades funcionales del proyecto, incluida la Vía Alterna Interna de Buenaventura, que estuvo en riesgo de salir de la concesión.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Vía Buga–Buenaventura activa sus 21 frentes de obra tras superar bloqueos en nueve unidades funcionales",
-        "capturado": "2026-11-11T08:59:51-05:00"
-      },
-      {
-        "titulo": "PND de De la Espriella contempla un millón de barriles diarios de crudo, fracking y mayor gas",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-apunta-a-un-millon-de-barriles-de-petroleo-diarios-en-su-pnd-habra-fracking-y-mas-produccion-de-gas/",
-        "resumen": "El Gobierno publicó el borrador del Plan de Desarrollo, cuyo articulado definitivo se construirá hasta febrero de 2027.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella apunta a un millón de barriles de petróleo diarios en su PND; habrá fracking y más producción de gas",
-        "capturado": "2026-11-11T08:59:51-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella promoverá cuentas de ahorro infantiles en el país con fondos hasta los 18 años",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-buscara-crear-cuentas-de-ahorro-para-estos-ninos-en-colombia-acumularan-ahorros-hasta-los-18-anos/",
-        "resumen": "El gobierno De la Espriella en su plan de desarrollo quiere implementar las «Cuentas Milagro»",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella buscará crear cuentas de ahorro para estos niños en Colombia: Acumularán ahorros hasta los 18 años",
-        "capturado": "2026-11-11T08:59:51-05:00"
-      },
-      {
-        "titulo": "Premercado | Acciones tecnológicas suben las bolsas globales, el crudo repunta y se analizan tasas de la FED",
-        "url": "https://www.valoraanalitik.com/premercado-acciones-de-ia-impulsan-mercados-mundiales-petroleo-rebota-e-inversores-evaluan-tasas-de-la-fed/",
-        "resumen": "Las acciones de CoreWeave se dispararon casi un 13 % durante la sesión nocturna después de resultados trimestrales por encima de las estimaciones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Acciones de IA impulsan mercados mundiales; petróleo rebota e inversores evalúan tasas de la FED",
-        "capturado": "2026-11-11T08:59:51-05:00"
-      },
-      {
-        "titulo": "Autonomía, habilidad para acordar y seguridad para el capital, tres desafíos de la nueva líder de la ANDI",
-        "url": "https://www.valoraanalitik.com/independencia-capacidad-de-consenso-y-confianza-inversionista-los-tres-retos-de-la-nueva-presidente-de-la-andi/",
-        "resumen": "Tras 82 años de existencia, finalmente una mujer llega a la presidencia del gremio empresarial más importante de Colombia.",
-        "autor": "",
-        "subseccion": "Uncategorized",
-        "publicacion": "",
-        "titulo_fuente": "Independencia, capacidad de consenso y confianza inversionista: los tres retos de la nueva presidente de la ANDI",
-        "capturado": "2026-11-11T08:59:51-05:00"
-      },
-      {
-        "titulo": "Esto incrementarían su costo los cigarrillos y vapeadores con iniciativa de mayores tributos del gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/esto-subirian-de-precio-los-cigarrillos-y-vapeadores-con-propuestas-del-gobierno-de-la-espriella-sobre-mas-impuestos/",
-        "resumen": "Busca el gobierno De la Espriella un millonario recaudo con los mayores impuestos a los cigarrillos y vapeadores",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Esto subirían de precio los cigarrillos y vapeadores con propuesta de más impuestos del gobierno De la Espriella",
-        "capturado": "2026-11-11T08:59:51-05:00"
-      },
-      {
-        "titulo": "Utilidad de Celsia Colombia bajó 65,1 % al tercer trimestre debido a menor producción hídrica",
-        "url": "https://www.valoraanalitik.com/ganancia-celsia-colombia-cayo-tercer-trimes/",
-        "resumen": "La generación hidráulica cayó 34,6 % por El Niño, mientras C2 Energía y El Tesorito, sus vehículos de inversión, mejoraron ingresos y Ebitda.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ganancia de Celsia Colombia cayó 65,1 % en el tercer trimestre por menor generación hidráulica",
-        "capturado": "2026-11-11T00:56:18-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Impacto económico y urbano de los eventos de Breakfast Live según sus cifras",
+        "url": "https://www.valoraanalitik.com/conciertos-y-festivales-de-breakfast-live-impulsan-la-economia-y-dinamizan-las-ciudades-estas-son-las-cifras-de-impacto/",
+        "resumen": "Durante los últimos meses, la compañía ha sido protagonista de importantes convocatorias musicales en Bogotá y Medellín.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Conciertos y festivales de Breakfast Live impulsan la economía y dinamizan las ciudades: estas son las cifras de impacto",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Empresarios aceptarían mantener renta corporativa si se evita IVA a alimentos",
+        "url": "https://www.valoraanalitik.com/empresarios-cederian-en-impuesto-de-renta-corporativa-a-cambio-de-frenar-iva-para-alimentos/",
+        "resumen": "La presidenta del Consejo Gremial indicó que las propuestas todavía deben revisarse en mesas de trabajo sectoriales.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Empresarios cederían en impuesto de renta corporativa a cambio de frenar IVA para alimentos",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Utilidades del Grupo Energía Bogotá caen a $1,8 billones hasta septiembre por Air-e y tasa de cambio",
+        "url": "https://www.valoraanalitik.com/grupo-energia-bogota-redujo-sus-ganancias-entre-enero-y-septiembre-y-llego-a-18-billones-por-perdidas-de-air-e-y-tasa-de-cambio/",
+        "resumen": "Los ingresos del Grupo Energía Bogotá cayeron 12,4 % a septiembre. El efecto cambiario y mayores gastos financieros presionaron sus resultados.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Energía Bogotá redujo sus ganancias entre enero y septiembre y llegó a $1,8 billones; por pérdidas de Air-e y tasa de cambio",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Señalan posible daño a la formalización empresarial por iniciativa fiscal del Gobierno",
+        "url": "https://www.valoraanalitik.com/aliadas-advierte-que-proyecto-de-ajuste-economico-podria-afectar-la-formalizacion-empresarial-en-colombia/",
+        "resumen": "Señaló que la propuesta debe contemplar medidas que impulsen la libre empresa, el trabajo digno y un desarrollo que beneficie a todos los sectores.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Advierten que proyecto de ajuste económico del Gobierno podría afectar la formalización empresarial en Colombia",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "J.P. Morgan Asset Management presenta los primeros ETFs activos del país",
+        "url": "https://www.valoraanalitik.com/jp-morgan-asset-manag-lanza-etfs-colombia/",
+        "resumen": "El lanzamiento reúne 15 estrategias globales e inaugura una nueva etapa para el mercado colombiano.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "J.P. Morgan Asset Management lanza los primeros ETFs activos de Colombia",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Porcicultores se congregan en Medellín para fomentar producción verde y proteger la biodiversidad",
+        "url": "https://www.valoraanalitik.com/sector-porcicultor-se-reune-en-medellin-para-impulsar-produccion-sostenible-y-conservacion-de-biodiversidad/",
+        "resumen": "Según la entidad, la pérdida de biodiversidad plantea desafíos para todos los sectores productivos y la porcicultura no es ajena a ellos.",
+        "autor": "",
+        "subseccion": "Valorasostenible",
+        "publicacion": "",
+        "titulo_fuente": "Sector porcicultor se reúne en Medellín para impulsar producción sostenible y conservación de biodiversidad",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Falla mundial afecta servicios de Microsoft: Outlook y Teams se restablecerían en dos días",
+        "url": "https://www.valoraanalitik.com/microsoft-enfrenta-caida-global-de-sus-servicios-outlook-y-teams-volverian-a-funcionar-en-48-horas/",
+        "resumen": "De acuerdo con los reportes de la compañía, el problema está relacionado con fallas en algunos servidores que soportan sus servicios en la nube.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Microsoft enfrenta caída global de sus servicios: Outlook y Teams volverían a funcionar en 48 horas",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
+      {
+        "titulo": "Acción de Cementos Argos entraría al MSCI Standard si Grupo Argos baja su participación",
+        "url": "https://www.valoraanalitik.com/cementos-argos-msci-standard-analistas/",
+        "resumen": "Grupo Argos incluyó en sus resultados del tercer trimestre la posibilidad de reducir su participación en Cementos Argos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Acción de Cementos Argos podría entrar al MSCI Standard si se concreta reducción de participación de Grupo Argos: analistas",
+        "capturado": "2026-11-13T10:37:51-05:00"
+      },
       {
         "titulo": "Grupo Sura rebasó la meta de utilidades de 2026 y subió otra vez su estimación de cierre de año",
         "url": "https://www.valoraanalitik.com/grupo-sura-supero-meta-ganancias-de-todo-2026-elevo-proyecciones/",
@@ -1125,86 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Parex aumenta producción petrolera tras compra de Frontera Energy; prevé mejor desempeño en Llanos Orientales",
         "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Latam incrementa sus conexiones internacionales saliendo de Bogotá, Medellín y Cartagena",
-        "url": "https://www.valoraanalitik.com/latam-amplia-su-conectividad-internacional-desde-bogota-medellin-y-cartagena/",
-        "resumen": "Las rutas desde Bogotá hacia Miami y Orlando tendrán hasta 14 frecuencias semanales durante diciembre y enero.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Latam amplía su conectividad internacional desde Bogotá, Medellín y Cartagena",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Corte Suprema detalla cuándo la ARL asume siniestros al ingresar o salir de laborar",
-        "url": "https://www.valoraanalitik.com/corte-suprema-explica-cuando-la-arl-debe-cubrir-accidentes-antes-de-entrar-o-salir-del-trabajo/",
-        "resumen": "Un accidente ocurrido antes de comenzar la jornada puede tener consecuencias laborales. La Corte Suprema aclaró qué situaciones deben evaluarse.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Corte Suprema explica cuándo la ARL debe cubrir accidentes antes de entrar o salir del trabajo",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Latam Airlines reiniciará el trayecto entre Medellín y Cartagena desde enero de 2027",
-        "url": "https://www.valoraanalitik.com/latam-airlines-retoma-la-ruta-entre-medellin-y-cartagena-a-partir-de-enero-de-2027/",
-        "resumen": "La ruta iniciará operaciones el 1 de enero de 2027 y contará con 21 frecuencias semanales, con alternativas de viaje en la mañana y tarde.",
-        "autor": "",
-        "subseccion": "Turismo",
-        "publicacion": "",
-        "titulo_fuente": "Latam Airlines retoma la ruta entre Medellín y Cartagena a partir de enero de 2027",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Grupo Cibest baja pronóstico del PIB colombiano del tercer trimestre y advierte pico inflacionario en 2027",
-        "url": "https://www.valoraanalitik.com/grupo-cibest-recorta-proyeccion-pib-colombia-tercer-trimestre-alerta-pico-inflacion/",
-        "resumen": "La ‘holding’ de Bancolombia también aseguró que el déficit fiscal del país aumentaría con fuerza en 2027.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Cibest recorta proyección de PIB de Colombia del tercer trimestre y alerta por pico de inflación en 2027",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Gran Tierra finalizó el periodo con baja del 7 % en extracción y avanza traspaso de bienes en Colombia y Ecuador",
-        "url": "https://www.valoraanalitik.com/gran-tierra-cerro-el-trimestre-con-una-caida-de-7-en-produccion-mientras-avanza-venta-de-activos-en-colombia-y-ecuador/",
-        "resumen": "El resultado estuvo asociado con una menor producción en el campo Cohembi, en Colombia, y con la venta de Lodgepole, en Canadá.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gran Tierra cerró el trimestre con una caída de 7 % en producción mientras avanza venta de activos en Colombia y Ecuador",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Entrevista | GEB se ofrece a trabajar con Ecopetrol para traer gas venezolano y ducto tardaría un año",
-        "url": "https://www.valoraanalitik.com/geb-ofrece-colaborar-con-ecopetrol-para-importar-gas-de-venezuela-linea-podria-estar-lista-en-12-a-15-meses/",
-        "resumen": "Juan Ricardo Ortega, presidente del Grupo Energía Bogotá, también señaló que el faltante de gas ha tenido impactos en la industria alimentaria colombiana.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | GEB ofrece colaborar con Ecopetrol para importar gas de Venezuela: línea podría estar lista en 12 a 15 meses",
-        "capturado": "2026-11-10T13:33:07-05:00"
-      },
-      {
-        "titulo": "Ecopetrol colocó bonos por US$2.000 millones para prepagar obligaciones y refinanciar préstamo de Brava Energia",
-        "url": "https://www.valoraanalitik.com/ecopetrol-emite-bonos-us2000-2034-brava/",
-        "resumen": "La demanda alcanzó cerca de US$6.900 millones, el nivel más alto en cinco años según la compañía, con más de 235 inversionistas",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol emitió bonos por US$2.000 millones para anticipar pago de deuda y refinanciar el crédito de Brava Energia",
-        "capturado": "2026-11-09T21:40:01-05:00"
-      },
-      {
-        "titulo": "Ley de Rescate: iniciativas para bajar el hueco fiscal sin detener la inversión",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-las-propuestas-para-reducir-el-deficit-fiscal-sin-frenar-la-inversion/",
-        "resumen": "Mauricio Cárdenas y Ana Fernanda Maiguashca plantearon alternativas para ajustar el gasto y mejorar los ingresos tributarios.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Ley de Rescate: las propuestas para reducir el déficit fiscal sin frenar la inversión",
-        "capturado": "2026-11-09T21:40:01-05:00"
       }
     ]
   }
