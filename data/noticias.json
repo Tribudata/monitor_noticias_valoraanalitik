@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-14T10:58:38-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-14T15:37:56-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Firmas del país preparan modificaciones en las compensaciones a empleados para el año 2027",
+        "url": "https://www.valoraanalitik.com/empresas-en-colombia-alistan-cambios-en-los-beneficios-para-los-trabajadores-en-2027/",
+        "resumen": "Las empresas en Colombia revisan nuevas fórmulas para mejorar los ingresos de sus empleados y aliviar gastos cotidianos sin elevar sus costos laborales.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Empresas en Colombia alistan cambios en los beneficios para los trabajadores en 2027",
+        "capturado": "2026-11-14T15:37:56-05:00"
+      },
+      {
+        "titulo": "Nubank obtiene permiso para operar formalmente como banco y modificará su funcionamiento",
+        "url": "https://www.valoraanalitik.com/nubank-recibe-aval-para-convertirse-oficialmente-en-banco-asi-transformara-sus-operaciones/",
+        "resumen": "Nubank contará con una nueva autorización que se sumará a las tres licencias que ya posee.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Nubank recibe aval para convertirse oficialmente en banco: Así transformará sus operaciones",
+        "capturado": "2026-11-14T15:37:56-05:00"
+      },
+      {
+        "titulo": "OCDE vigila los retos que afronta Colombia en materia de captación de capitales ecológicos",
+        "url": "https://www.valoraanalitik.com/ocde-pone-la-lupa-sobre-los-desafios-que-enfrenta-colombia-para-atraer-inversiones-verdes/",
+        "resumen": "El organismo destaca la importancia de fortalecer la confianza institucional y establecer reglas claras.",
+        "autor": "",
+        "subseccion": "Sostenibilidad",
+        "publicacion": "",
+        "titulo_fuente": "OCDE pone la lupa sobre los desafíos que enfrenta Colombia para atraer inversiones verdes",
+        "capturado": "2026-11-14T15:37:56-05:00"
+      },
       {
         "titulo": "Colombia baja en escalafón turístico por desafíos en seguridad e infraestructura regional",
         "url": "https://www.valoraanalitik.com/colombia-cae-ranking-turismo-2026-wef/",
@@ -573,39 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "El nuevo impuesto que el gobierno De la Espriella busca poner a un mercado que mueve US$29.100 millones en Colombia",
         "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Grupo Éxito proyecta expansión en Colombia a 2027 con hasta US$70 millones para locales y remodelaciones",
-        "url": "https://www.valoraanalitik.com/grupo-exito-expansion-colombia-2027/",
-        "resumen": "En relación con el impacto del terremoto en Colombia en la operación, se destacó que al cierre del año se verán las reclamaciones ante aseguradoras.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Éxito prepara expansión en Colombia para 2027; invertirá hasta US$70 millones en nuevas tiendas y reconversiones",
-        "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Encuestas en Colombia estarían en riesgo por la Ley Mordaza, según advierten varias firmas",
-        "url": "https://www.valoraanalitik.com/colombia-se-esta-quedando-sin-encuestas-firmas-advierten-freno-por-la-ley-mordaza/",
-        "resumen": "La Ley Mordaza está dejando a Colombia sin encuestas de opinión, advierten firmas como Invamer y Cifras & Conceptos.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Colombia se está quedando sin encuestas: firmas advierten freno por la Ley Mordaza",
-        "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Jensen Huang renunció como CEO de Nvidia por escándalo de infidelidad y supuesto espionaje; acciones se desploman",
-        "url": "https://www.valoraanalitik.com/jensen-huang-renuncio-como-ceo-de-nvidia-por-escandalo-de-infidelidad-y-supuesto-espionaje/",
-        "resumen": "La compañía perdió el umbral de los US$4 billones en capitalización bursátil y designó a Colette Kress como directora ejecutiva interina.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Jensen Huang renunció como CEO de Nvidia por escándalo de infidelidad y supuesto espionaje; acciones se desploman",
-        "capturado": "2026-11-12T13:31:41-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Firmas colombianas preparan modificaciones en las contraprestaciones de sus empleados para 2027",
+        "url": "https://www.valoraanalitik.com/empresas-en-colombia-alistan-cambios-en-los-beneficios-para-los-trabajadores-en-2027/",
+        "resumen": "Las empresas en Colombia revisan nuevas fórmulas para mejorar los ingresos de sus empleados y aliviar gastos cotidianos sin elevar sus costos laborales.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Empresas en Colombia alistan cambios en los beneficios para los trabajadores en 2027",
+        "capturado": "2026-11-14T15:37:56-05:00"
+      },
+      {
+        "titulo": "Asociación del plástico resalta que el recauchutado disminuye gastos por kilómetro ante ruedas foráneas baratas",
+        "url": "https://www.valoraanalitik.com/gremio-del-plastico-destaca-que-reencauche-puede-reducir-el-costo-por-kilometro-frente-a-llantas-importadas-de-baja-calidad/",
+        "resumen": "Señala la importancia de concentrar el análisis en la existencia de dumping y la imposibilidad de competir en condiciones desiguales de mercado.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gremio del plástico destaca que reencauche puede reducir el costo por kilometro frente a llantas importadas de «baja calidad»",
+        "capturado": "2026-11-14T15:37:56-05:00"
+      },
+      {
+        "titulo": "OCDE vigila los retos de Colombia en materia de captación de capitales ecológicos",
+        "url": "https://www.valoraanalitik.com/ocde-pone-la-lupa-sobre-los-desafios-que-enfrenta-colombia-para-atraer-inversiones-verdes/",
+        "resumen": "El organismo destaca la importancia de fortalecer la confianza institucional y establecer reglas claras.",
+        "autor": "",
+        "subseccion": "Sostenibilidad",
+        "publicacion": "",
+        "titulo_fuente": "OCDE pone la lupa sobre los desafíos que enfrenta Colombia para atraer inversiones verdes",
+        "capturado": "2026-11-14T15:37:56-05:00"
+      },
       {
         "titulo": "Importante movimiento en el sector bananero de Urabá involucra a tres de sus mayores empresas",
         "url": "https://www.valoraanalitik.com/sector-bananero-se-mueve-en-colombia-2026/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Celsia espera que El Niño empiece a ceder hacia abril y mayo de 2027; reactivará recompra de acciones",
         "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "Presidencia lanzará Bloque Élite contra la Corrupción con 14 entidades: este será su modo de operar",
-        "url": "https://www.valoraanalitik.com/presidencia-creara-bloque-elite-contra-la-corrupcion-con-14-entidades-asi-funcionara/",
-        "resumen": "Uno de los principales componentes será el seguimiento a los recursos públicos para identificar a los beneficiarios reales.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Presidencia creará Bloque Élite contra la Corrupción con 14 entidades: así funcionará",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "Primer concepto de la nueva directora de la ANDI sobre Ley de Rescate y salario básico",
-        "url": "https://www.valoraanalitik.com/primera-vision-de-la-nueva-presidenta-de-la-andi-sobre-ley-de-rescate-y-salario-minimo/",
-        "resumen": "Tras su reciente elección como presidenta del poderoso gremio, Luz Stella Murgas habló sobre estas discusiones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Primera visión de la nueva presidenta de la ANDI sobre Ley de Rescate y salario mínimo",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "PND de De la Espriella busca un millón de barriles diarios de petróleo, fracking y mayor gas",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-apunta-a-un-millon-de-barriles-de-petroleo-diarios-en-su-pnd-habra-fracking-y-mas-produccion-de-gas/",
-        "resumen": "El Gobierno publicó el borrador del Plan de Desarrollo, cuyo articulado definitivo se construirá hasta febrero de 2027.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella apunta a un millón de barriles de petróleo diarios en su PND; habrá fracking y más producción de gas",
-        "capturado": "2026-11-11T08:59:51-05:00"
       }
     ]
   }
