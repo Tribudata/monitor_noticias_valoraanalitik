@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-13T16:51:45-05:00",
-  "nuevos_en_esta_corrida": 23,
+  "actualizado": "2026-11-13T21:08:23-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Banco de Bogotá prevé un 2027 en Colombia con inflación alta y economía estancada",
+        "url": "https://www.valoraanalitik.com/colombia-viviria-2027-estancamiento-economico-alta-inflacion/",
+        "resumen": "La entidad financiera aseguró que el país tendría un escenario de estanflación durante este cierre de año y en el próximo.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Colombia viviría un 2027 de estancamiento económico y alta inflación: Banco de Bogotá",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "EE. UU. reanuda vuelos tras cuatro horas de parálisis pero habrá cancelaciones el fin de semana",
+        "url": "https://www.valoraanalitik.com/ee-uu-levanta-suspension-de-vuelos-a-nivel-nacional-por-razones-de-seguridad/",
+        "resumen": "La Administración Federal de Aviación había argumentado «circunstancias extraordinarias» para tomar la determinación.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | EE. UU. levanta suspensión de vuelos tras cuatro horas; cancelaciones se extenderán durante el fin de semana",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "Luis Felipe Henao asumirá la gerencia del Fondo Milagro en reemplazo de Jaime Andrés Uribe",
+        "url": "https://www.valoraanalitik.com/luis-felipe-henao-nuevo-gerente-del-fondo-milagro-tras-salida-jaime-andres-uribe/",
+        "resumen": "La renuncia del anterior gerente se dio tras confirmarse los altos sueldos de los directivos del fondo y su baja ejecución.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Luis Felipe Henao será el nuevo gerente del Fondo Milagro tras salida de Jaime Andrés Uribe",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella pondrá $34.000 millones para el 50 % de estudios del metro de Bogotá L4",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-cofinanciara-50-estudios-linea-4-metro-de-bogota/",
+        "resumen": "La propuesta preliminar de la Línea 4 contempla extender el sistema hacia el extremo norte de la capital.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella cofinanciará con $34.000 millones el 50 % de los estudios de la Línea 4 del metro de Bogotá",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "Construcciones El Cóndor supera los rojos operativos y apunta otra vez a la rentabilidad",
+        "url": "https://www.valoraanalitik.com/construcciones-el-condor-deja-atras-las-perdidas-operacionales-y-se-acerca-a-dar-nuevamente-ganancias/",
+        "resumen": "El Cóndor reveló sus estados financieros del tercer trimestre de 2026.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Construcciones El Cóndor deja atrás las pérdidas operacionales y se acerca a dar nuevamente ganancias",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "Grupo Argos analiza ampliar recompra de acciones y menciona posible venta de su parte en Cemargos",
+        "url": "https://www.valoraanalitik.com/grupo-argos-podria-ampliar-cupo-de-recompra-de-acciones/",
+        "resumen": "La firma avanza en el cumplimiento de su segunda oferta de readquisición bajo mecanismo independiente por hasta $150.000 millones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos podría ampliar cupo de recompra de acciones; habla de posible venta de participación en Cemargos",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "Designados ponentes de comisiones económicas de la Cámara para la reforma tributaria de De la Espriella",
+        "url": "https://www.valoraanalitik.com/definidos-ponentes-comisiones-economicas-camara-de-reforma-tributaria/",
+        "resumen": "Con esta decisión, el Congreso da un paso clave para iniciar las discusiones de la Ley de Rescate.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Definidos ponentes de comisiones económicas de la Cámara para la reforma tributaria de De la Espriella",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "EPM aumentó sus ganancias un 16 % a septiembre de 2026 y llegó a $3,3 billones",
+        "url": "https://www.valoraanalitik.com/epm-elevo-sus-utilidades-16-a-septiembre-de-2026-y-alcanzo-33-billones/",
+        "resumen": "El Grupo EPM mantuvo resultados sólidos, en un contexto marcado por la variabilidad climática.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "EPM elevó sus utilidades 16 % a septiembre de 2026 y alcanzó $3,3 billones",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
       {
         "titulo": "EE. UU. dispone suspensión de operaciones aéreas en todo el país por motivos de seguridad",
         "url": "https://www.valoraanalitik.com/ee-uu-ordena-detencion-de-vuelos-a-nivel-nacional-por-razones-de-seguridad/",
@@ -523,89 +603,59 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno De la Espriella impulsará producción local de medicamento y vacunas",
         "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia inicia al alza en $3.294 y se aproxima a la cota de $3.300",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-al-alza-en-3-294-y-vuelve-a-acercarse-a-la-barrera-de-los-3-300/",
-        "resumen": "En las primeras transacciones de la mañana, la tasa de cambio ha tocado un precio mínimo de $3.282,88.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre al alza en $3.294 y vuelve a acercarse a la barrera de los $3.300",
-        "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Grupo Cibest avisa que las terminales aéreas del país llegaron al tope con 50 millones de viajeros",
-        "url": "https://www.valoraanalitik.com/grupo-cibest-aeropuertos-colombia-al-limite/",
-        "resumen": "Rionegro ya recibe casi 30 % más pasajeros de los que admite su capacidad y la mayor parte de inversión pública para aeropuertos llegará después de 2030.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Cibest advierte que los aeropuertos de Colombia están al límite: 50 millones de pasajeros y la capacidad no da abasto",
-        "capturado": "2026-11-11T21:25:59-05:00"
-      },
-      {
-        "titulo": "En octubre cayó la confianza del consumidor y se situó en 8,5 por ciento",
-        "url": "https://www.valoraanalitik.com/confianza-consumidor-disminuyo-octubre-2026/",
-        "resumen": "Según Fedesarrollo, la caída de 7,2 puntos frente a septiembre se explica sobre todo por un retroceso de 11,3 puntos en las expectativas de los consumidores.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Confianza del consumidor disminuyó en octubre, ubicándose en 8,5 %",
-        "capturado": "2026-11-11T21:25:59-05:00"
-      },
-      {
-        "titulo": "Gastos a considerar al adquirir vivienda VIS por primera vez en el país",
-        "url": "https://www.valoraanalitik.com/comprar-vivienda-vis-por-primera-vez-en-colombia-estos-son-los-gastos-que-debe-tener-en-cuenta/",
-        "resumen": "Comprar vivienda VIS implica más que reunir la cuota inicial. Hay otros compromisos económicos que los jóvenes deben revisar antes de firmar.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Comprar vivienda VIS por primera vez en Colombia: estos son los gastos que debe tener en cuenta",
-        "capturado": "2026-11-11T21:25:59-05:00"
-      },
-      {
-        "titulo": "Acciones de Nvidia bajan 10 por ciento por la eventual salida de Jensen Huang",
-        "url": "https://www.valoraanalitik.com/accion-nvidia-cae-10-salida-jensen-huang/",
-        "resumen": "La junta alistaría su salida tras conocerse una segunda relación extramatrimonial. Nvidia ha perdido más de US$450.000 millones desde el domingo.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Acción de Nvidia cae 10 % ante posible salida de Jensen Huang",
-        "capturado": "2026-11-11T21:25:59-05:00"
-      },
-      {
-        "titulo": "Felipe Márquez sale de la presidencia de Acción Fiduciaria luego de casi dos años",
-        "url": "https://www.valoraanalitik.com/felipe-marquez-deja-accion-fiduciaria/",
-        "resumen": "La salida se acordó con la Junta Directiva, que adelantará la búsqueda de su reemplazo. Márquez volverá a dirigir su consultora Elemento.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Felipe Márquez dejará la presidencia de Acción Fiduciaria tras casi dos años en la compañía",
-        "capturado": "2026-11-11T21:25:59-05:00"
-      },
-      {
-        "titulo": "Ganancias de DAVIbank aumentaron 23,2 % al tercer trimestre de 2026 y alcanzaron $70.000 millones",
-        "url": "https://www.valoraanalitik.com/davibank-utilidad-crecio-tercer-trimestre/",
-        "resumen": "Las comisiones del negocio de tarjetas subieron cerca de 27 % y los gastos operacionales bajaron, mientras la cartera comercial se contrajo 6,5 %.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Utilidad de DAVIbank creció 23,2 % en el tercer trimestre de 2026 y llegó a $70.000 millones",
-        "capturado": "2026-11-11T21:25:59-05:00"
-      },
-      {
-        "titulo": "Clara capta US$105 millones para potenciar su plataforma y respaldar la expansión regional corporativa",
-        "url": "https://www.valoraanalitik.com/clara-obtiene-us105-millones-servicios/",
-        "resumen": "Se trata de una Serie C de US$65 millones y la renovación de una línea de financiamiento de US$40 millones.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Clara obtiene US$105 millones para fortalecer su plataforma y acompañar expansión de empresas latinoamericanas",
-        "capturado": "2026-11-11T21:25:59-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "EE. UU. reanuda operaciones aéreas tras cuatro horas pero cancelaciones seguirán todo el fin de semana",
+        "url": "https://www.valoraanalitik.com/ee-uu-levanta-suspension-de-vuelos-a-nivel-nacional-por-razones-de-seguridad/",
+        "resumen": "La Administración Federal de Aviación había argumentado «circunstancias extraordinarias» para tomar la determinación.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | EE. UU. levanta suspensión de vuelos tras cuatro horas; cancelaciones se extenderán durante el fin de semana",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "Luis Felipe Henao asume la gerencia del Fondo Milagro en reemplazo de Jaime Andrés Uribe",
+        "url": "https://www.valoraanalitik.com/luis-felipe-henao-nuevo-gerente-del-fondo-milagro-tras-salida-jaime-andres-uribe/",
+        "resumen": "La renuncia del anterior gerente se dio tras confirmarse los altos sueldos de los directivos del fondo y su baja ejecución.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Luis Felipe Henao será el nuevo gerente del Fondo Milagro tras salida de Jaime Andrés Uribe",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "Grupo Argos analiza subir recompra de acciones y menciona venta potencial de su parte en Cemargos",
+        "url": "https://www.valoraanalitik.com/grupo-argos-podria-ampliar-cupo-de-recompra-de-acciones/",
+        "resumen": "La firma avanza en el cumplimiento de su segunda oferta de readquisición bajo mecanismo independiente por hasta $150.000 millones.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos podría ampliar cupo de recompra de acciones; habla de posible venta de participación en Cemargos",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "Banco de Occidente designa a Mauricio Guzmán como nuevo vicepresidente de empresas",
+        "url": "https://www.valoraanalitik.com/mauricio-guzman-es-el-nuevo-vicepresidente-de-empresas-de-banco-de-occidente/",
+        "resumen": "El ejecutivo, que actualmente se desempeña como vicepresidente de banca corporativa, cuenta con más de 30 años de trayectoria en el sector financiero.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Mauricio Guzmán es el nuevo vicepresidente de empresas de Banco de Occidente",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
+      {
+        "titulo": "A septiembre de 2026 las ganancias de EPM subieron 16 % y llegaron a $3,3 billones",
+        "url": "https://www.valoraanalitik.com/epm-elevo-sus-utilidades-16-a-septiembre-de-2026-y-alcanzo-33-billones/",
+        "resumen": "El Grupo EPM mantuvo resultados sólidos, en un contexto marcado por la variabilidad climática.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "EPM elevó sus utilidades 16 % a septiembre de 2026 y alcanzó $3,3 billones",
+        "capturado": "2026-11-13T21:08:23-05:00"
+      },
       {
         "titulo": "Supergiros destina a vivienda su aporte de 15.000 millones de pesos para la reconstrucción del país",
         "url": "https://www.valoraanalitik.com/supergiros-convierte-en-hogares-su-compromiso-de-15-000-millones-para-la-reconstruccion-de-colombia/",
@@ -1155,56 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Independencia, capacidad de consenso y confianza inversionista: los tres retos de la nueva presidente de la ANDI",
         "capturado": "2026-11-11T08:59:51-05:00"
-      },
-      {
-        "titulo": "Utilidad de Celsia Colombia bajó 65,1 % entre julio y septiembre por menor producción hídrica",
-        "url": "https://www.valoraanalitik.com/ganancia-celsia-colombia-cayo-tercer-trimes/",
-        "resumen": "La generación hidráulica cayó 34,6 % por El Niño, mientras C2 Energía y El Tesorito, sus vehículos de inversión, mejoraron ingresos y Ebitda.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ganancia de Celsia Colombia cayó 65,1 % en el tercer trimestre por menor generación hidráulica",
-        "capturado": "2026-11-11T00:56:18-05:00"
-      },
-      {
-        "titulo": "Utilidad neta de Celsia retrocedió 64,1 % en el tercer trimestre de 2026 y los ingresos crecieron 24,8 %",
-        "url": "https://www.valoraanalitik.com/ganancia-neta-celsia-cayo-tercer-trimestre/",
-        "resumen": "Entre enero y septiembre, la utilidad neta de Celsia fue de $169.780 millones, 43,4 % menos que en 2025.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ganancia neta de Celsia cayó 64,1 % en el tercer trimestre de 2026; ingresos subieron 24,8 %",
-        "capturado": "2026-11-11T00:56:18-05:00"
-      },
-      {
-        "titulo": "Entrevista | Dell Technologies prevé un buen cierre de 2026 y más pedidos para 2027",
-        "url": "https://www.valoraanalitik.com/entrevista-dell-technologies-anticipa-un-cierre-positivo-de-2026-y-mayor-demanda-en-2027/",
-        "resumen": "Dell Technologies prevé cerrar 2026 con resultados positivos y mantener el crecimiento de la demanda de infraestructura para inteligencia artificial en 2027.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Dell Technologies anticipa un cierre positivo de 2026 y mayor demanda en 2027",
-        "capturado": "2026-11-11T00:56:18-05:00"
-      },
-      {
-        "titulo": "Siderúrgicas solicitan gravamen del 35 % para contrarrestar rivalidad de China",
-        "url": "https://www.valoraanalitik.com/productores-de-acero-piden-arancel-del-35-para-enfrentar-la-competencia-de-china/",
-        "resumen": "La solicitud busca llevar el arancel hasta el 35 % para países sin acuerdos comerciales.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Productores de acero piden arancel del 35 % para enfrentar la competencia de China",
-        "capturado": "2026-11-10T18:57:36-05:00"
-      },
-      {
-        "titulo": "Nuevo parque industrial en el Valle del Cauca con inyección de $500.000 millones",
-        "url": "https://www.valoraanalitik.com/valle-del-cauca-tendra-nuevo-parque-industrial-con-inversion-de-500-000-millones-asi-sera-el-megaproyecto/",
-        "resumen": "El nuevo parque industrial estará ubicado en el corredor Cali-Palmira y busca atraer empresas, generar empleo e impulsar la economía regional.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Valle del Cauca tendrá nuevo parque industrial con inversión de $500.000 millones: así será el megaproyecto",
-        "capturado": "2026-11-10T18:57:36-05:00"
       }
     ]
   }
