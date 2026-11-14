@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-14T04:17:11-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-14T10:58:38-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Colombia baja en escalafón turístico por desafíos en seguridad e infraestructura regional",
+        "url": "https://www.valoraanalitik.com/colombia-cae-ranking-turismo-2026-wef/",
+        "resumen": "El país cayó tres posiciones y se ubicó en el puesto 54 del índice del Foro Económico Mundial, pese a mejorar su calificación frente a 2024.",
+        "autor": "",
+        "subseccion": "Turismo",
+        "publicacion": "",
+        "titulo_fuente": "Colombia cae en ranking de turismo: infraestructura y seguridad, entre los retos regionales",
+        "capturado": "2026-11-14T10:58:38-05:00"
+      },
+      {
+        "titulo": "Operación gigante de tres firmas principales del sector bananero en el Urabá colombiano",
+        "url": "https://www.valoraanalitik.com/sector-bananero-se-mueve-en-colombia-2026/",
+        "resumen": "C.I. Tropical, la tercera exportadora de banano de Urabá sede su operación a dos actores clave de esta industria.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Sector bananero se mueve en Colombia: Tres de las empresas más importantes en Urabá protagonizan gigante operación",
+        "capturado": "2026-11-14T10:58:38-05:00"
+      },
+      {
+        "titulo": "Parque eólico de Ecopetrol en La Guajira alcanza un veinticinco por ciento de avance",
+        "url": "https://www.valoraanalitik.com/megaproyecto-eolico-ecopetrol-la-guajira-llega-25-avance/",
+        "resumen": "La compañía tuvo varios hitos en energías renovables y confirmó novedades en las regasificadoras del Pacífico y Cartagena.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Megaproyecto eólico de Ecopetrol en La Guajira llega a 25 % de avance: así va la empresa en energías renovables",
+        "capturado": "2026-11-14T10:58:38-05:00"
+      },
       {
         "titulo": "Banco de Bogotá prevé un 2027 en Colombia con inflación alta y economía estancada",
         "url": "https://www.valoraanalitik.com/colombia-viviria-2027-estancamiento-economico-alta-inflacion/",
@@ -573,39 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Jensen Huang renunció como CEO de Nvidia por escándalo de infidelidad y supuesto espionaje; acciones se desploman",
         "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Gobierno aceptó propuesta del Congreso y la reforma tributaria tendrá múltiples ponentes",
-        "url": "https://www.valoraanalitik.com/reforma-tributaria-contara-con-varios-ponentes-gobierno-acogio-la-propuesta-del-congreso/",
-        "resumen": "Esto luego de que se conociera que el Ejecutivo había decidido nombrar solamente un ponente por cada una de las cuatro comisiones económicas.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Reforma tributaria contará con varios ponentes; Gobierno acogió la propuesta del Congreso",
-        "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Mineros elevó su utilidad neta un 38 % a septiembre a $768.578 millones y aumentó su extracción de oro",
-        "url": "https://www.valoraanalitik.com/mineros-utilidad-septiembre-2026/",
-        "resumen": "Los ingresos aumentaron 31 %, impulsados por el precio y el desempeño de las ventas de oro.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Mineros aumentó 38 % su utilidad neta a septiembre y alcanzó $768.578 millones; producción de oro también creció",
-        "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella fomentará fabricación nacional de fármacos e inmunizantes",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-impulsara-produccion-local-de-medicamento-y-vacunas/",
-        "resumen": "El gobierno De la Espriella quiere implementar mecanismos para garantizar la entrega de medicamentos en Colombia",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella impulsará producción local de medicamento y vacunas",
-        "capturado": "2026-11-12T13:31:41-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Importante movimiento en el sector bananero de Urabá involucra a tres de sus mayores empresas",
+        "url": "https://www.valoraanalitik.com/sector-bananero-se-mueve-en-colombia-2026/",
+        "resumen": "C.I. Tropical, la tercera exportadora de banano de Urabá sede su operación a dos actores clave de esta industria.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Sector bananero se mueve en Colombia: Tres de las empresas más importantes en Urabá protagonizan gigante operación",
+        "capturado": "2026-11-14T10:58:38-05:00"
+      },
+      {
+        "titulo": "El megaproyecto eólico de Ecopetrol en La Guajira alcanza un veinticinco por ciento de avance",
+        "url": "https://www.valoraanalitik.com/megaproyecto-eolico-ecopetrol-la-guajira-llega-25-avance/",
+        "resumen": "La compañía tuvo varios hitos en energías renovables y confirmó novedades en las regasificadoras del Pacífico y Cartagena.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Megaproyecto eólico de Ecopetrol en La Guajira llega a 25 % de avance: así va la empresa en energías renovables",
+        "capturado": "2026-11-14T10:58:38-05:00"
+      },
       {
         "titulo": "EE. UU. reanuda operaciones aéreas tras cuatro horas pero cancelaciones seguirán todo el fin de semana",
         "url": "https://www.valoraanalitik.com/ee-uu-levanta-suspension-de-vuelos-a-nivel-nacional-por-razones-de-seguridad/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Ecopetrol",
         "publicacion": "",
         "titulo_fuente": "De la Espriella apunta a un millón de barriles de petróleo diarios en su PND; habrá fracking y más producción de gas",
-        "capturado": "2026-11-11T08:59:51-05:00"
-      },
-      {
-        "titulo": "People, marca de Éxito, lanza colección de denim urbano y versátil junto a Tatán y Maleja",
-        "url": "https://www.valoraanalitik.com/denim-moda-urbana-y-versatilidad-asi-es-la-nueva-coleccion-de-people-marca-de-exito-con-tatan-y-maleja/",
-        "resumen": "La colección de People apuesta por un estilo más urbano y cercano al streetwear, con prendas “cool y versátiles” que se adaptan a diferentes escenarios.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Denim, moda urbana y versatilidad: así es la nueva colección de People, marca de Éxito, con Tatán y Maleja",
-        "capturado": "2026-11-11T08:59:51-05:00"
-      },
-      {
-        "titulo": "Los tres retos de la nueva presidente de la ANDI: autonomía, consenso y confianza inversora",
-        "url": "https://www.valoraanalitik.com/independencia-capacidad-de-consenso-y-confianza-inversionista-los-tres-retos-de-la-nueva-presidente-de-la-andi/",
-        "resumen": "Tras 82 años de existencia, finalmente una mujer llega a la presidencia del gremio empresarial más importante de Colombia.",
-        "autor": "",
-        "subseccion": "Uncategorized",
-        "publicacion": "",
-        "titulo_fuente": "Independencia, capacidad de consenso y confianza inversionista: los tres retos de la nueva presidente de la ANDI",
         "capturado": "2026-11-11T08:59:51-05:00"
       }
     ]
