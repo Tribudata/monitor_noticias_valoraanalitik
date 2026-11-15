@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-15T10:31:20-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-15T15:55:38-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Moody's prevé que Colombia volverá a una expansión económica próxima al 3 por ciento en 2028",
+        "url": "https://www.valoraanalitik.com/colombia-retornara-a-un-crecimiento-economico-cercano-al-3-en-2028-tras-dos-anos-de-moderacion-moodys/",
+        "resumen": "La agencia calificadora proyecta una inflación persistente hasta 2027, lo que mantendrá elevadas las tasas de interés locales.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia retornará a un crecimiento económico cercano al 3 % en 2028 tras dos años de moderación: Moody’s",
+        "capturado": "2026-11-15T15:55:38-05:00"
+      },
+      {
+        "titulo": "Skandia invierte en Solé para iniciar dos parques solares en el Cesar y apunta a 16 plantas a 2027",
+        "url": "https://www.valoraanalitik.com/sole-pone-en-marcha-dos-plantas-solares-en-el-cesar-y-proyecta-16-instalaciones-para-2027-con-millonaria-inversion-de-skandia/",
+        "resumen": "Las otras 14 minigranjas se encuentran en distintas etapas de construcción y comenzarán a operar de manera gradual entre 2026 y 2027.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Solé pone en marcha dos plantas solares en el Cesar y proyecta 16 instalaciones para 2027 con millonaria inversión de Skandia",
+        "capturado": "2026-11-15T15:55:38-05:00"
+      },
+      {
+        "titulo": "Trámites ambientales retrasan obras estratégicas como Colectora y Sirius",
+        "url": "https://www.valoraanalitik.com/estos-son-los-proyectos-clave-que-enfrentan-demoras-por-tramites-ambientales/",
+        "resumen": "Un informe de Corficolombiana propone un modelo de acuerdos claros articulado para destrabar su avance.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "De Colectora a Sirius: Estos son los proyectos clave que enfrentan demoras por trámites ambientales",
+        "capturado": "2026-11-15T15:55:38-05:00"
+      },
+      {
+        "titulo": "Pdvsa planea repartir 140.000 barriles diarios de combustible para potenciar refinerías venezolanas",
+        "url": "https://www.valoraanalitik.com/venezuela-busca-fortalecer-sus-refinerias-pdvsa-proyecta-distribuir-140-000-barriles-diarios-de-combustible/",
+        "resumen": "La reactivación del sector también incluye el fortalecimiento del Sistema de Refinación Nacional.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Venezuela busca fortalecer sus refinerías: Pdvsa proyecta distribuir 140.000 barriles diarios de combustible",
+        "capturado": "2026-11-15T15:55:38-05:00"
+      },
+      {
+        "titulo": "Datos clave de DAVIarena, el reciente recinto de eventos en Antioquia que ya inició operaciones",
+        "url": "https://www.valoraanalitik.com/cifras-alrededor-daviarena-antioquia/",
+        "resumen": "El recinto de Sabaneta tuvo un costo de construcción cercano a $400.000 millones; cuenta con experiencias y una oferta complementaria a los conciertos.",
+        "autor": "",
+        "subseccion": "Davivienda",
+        "publicacion": "",
+        "titulo_fuente": "Las cifras alrededor de DAVIarena, el nuevo escenario de espectáculos de Antioquia que ya abrió sus puertas",
+        "capturado": "2026-11-15T15:55:38-05:00"
+      },
+      {
+        "titulo": "Fitch ve a Venezuela como oportunidad de expansión para Ecopetrol y descarta que sea un riesgo",
+        "url": "https://www.valoraanalitik.com/fitch-venezuela-no-es-peligro-ecopetrol-vemos-oportunidad/",
+        "resumen": "Adriana Eraso de Fitch habla de las posibilidades de empresas locales con la reactivación del país vecino y revela perspectivas del crudo para 2027.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Fitch: «Venezuela no es un peligro para Ecopetrol; la vemos más como una oportunidad de crecimiento»",
+        "capturado": "2026-11-15T15:55:38-05:00"
+      },
       {
         "titulo": "Magnex, firma colombiana de mantenimiento de hidrocarburos, jugará un rol clave en Venezuela",
         "url": "https://www.valoraanalitik.com/magnex-la-empresa-colombiana-de-mantenimiento-critico-de-hidrocarburos-que-tendra-presencia-clave-en-venezuela/",
@@ -543,69 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Producción de Ecopetrol cayó 3,3 % entre enero y septiembre de 2026: llegó a 726.000 barriles diarios",
         "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Ganancia de Davivienda Group cayó 13,3 % en tercer trimestre a $720.000 millones y llegó a $1,85 billones a septiembre",
-        "url": "https://www.valoraanalitik.com/utilidad-de-davivienda-group-bajo-133-en-el-tercer-trimestre-a-720-000-millones-gano-185-billones-a-septiembre/",
-        "resumen": "Este retroceso obedeció principalmente a la normalización de los ingresos del portafolio de inversiones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Utilidad de Davivienda Group bajó 13,3 % en el tercer trimestre a $720.000 millones; ganó $1,85 billones a septiembre",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Nu Holdings reportó ganancias históricas de US$1.100 millones en el tercer trimestre con alza de 31 %",
-        "url": "https://www.valoraanalitik.com/nu-utilidades-tercer-trimestre-2026/",
-        "resumen": "Los ingresos brutos aumentaron 37 % y la cartera de crédito llegó a US$41.600 millones. En Colombia, Nu alcanzó 6,1 millones de clientes.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Nu Holdings (Nubank) registró utilidades récord de US$1.100 millones en el tercer trimestre, con un crecimiento de 31 %",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Colombia presentará seis megaproyectos hidroeléctricos por US$720 millones en la Milagro Week",
-        "url": "https://www.valoraanalitik.com/colombia-llevara-seis-megaproyectos-hidroelectricos-por-us720-millones-a-la-milagro-week/",
-        "resumen": "Los proyectos hidroeléctricos hacen parte de la apuesta de Colombia para atraer inversionistas internacionales y ampliar su generación de energía renovable.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Colombia llevará seis megaproyectos hidroeléctricos por US$720 millones a la Milagro Week",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Ingresos de Odinsa disminuyen en el tercer trimestre del año 2026",
-        "url": "https://www.valoraanalitik.com/odinsa-caida-ingresos-tercer-semestre-2026/",
-        "resumen": "La compañía registró menores ingresos por el método de participación patrimonial, mientras que la deuda aumentó por la incorporación de Ticsa.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Odinsa reporta caída en ingresos durante el tercer trimestre de 2026",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Ecopetrol reporta salto de 86 % en utilidad neta a $4,8 billones e ingresos sobre $35 billones en tercer trimestre con menor producción",
-        "url": "https://www.valoraanalitik.com/utilidad-neta-de-ecopetrol-se-disparo-86-ingresos-superaron-35-billones/",
-        "resumen": "La compañía tuvo un trimestre positivo tras consolidar la compra de la firma brasileña Brava Energía.",
-        "autor": "",
-        "subseccion": "Acciones ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Pese a menor producción, utilidad neta de Ecopetrol se disparó 86 % en el tercer trimestre a $4,8 billones e ingresos superaron $35 billones",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "IATA propone bajar el IVA al combustible y los tiquetes para reducir gastos en la aviación",
-        "url": "https://www.valoraanalitik.com/la-propuesta-de-iata-para-aliviar-los-costos-del-sector-aereo/",
-        "resumen": "La asociación señala que este insumo representa entre 30 % y 40 % de los costos de una aerolínea y cuestiona nuevos impuestos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Reducir el IVA al combustible y los tiquetes, la propuesta de IATA para aliviar los costos del sector aéreo",
-        "capturado": "2026-11-12T19:01:43-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Eurofarma destaca a Colombia entre sus mercados con mejor rendimiento y alta proyección",
+        "url": "https://www.valoraanalitik.com/colombia-es-uno-de-los-mercados-con-mejor-desempeno-y-mayor-proyeccion-de-eurofarma/",
+        "resumen": "La operación en Colombia adquiere un peso protagónico por sus ventas locales récord, capacidad como centro de manufactura y plataforma de exportación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia es uno de los mercados con mejor desempeño y mayor proyección de Eurofarma",
+        "capturado": "2026-11-15T15:55:38-05:00"
+      },
+      {
+        "titulo": "Trámites ambientales retrasan proyectos fundamentales desde Colectora hasta Sirius",
+        "url": "https://www.valoraanalitik.com/estos-son-los-proyectos-clave-que-enfrentan-demoras-por-tramites-ambientales/",
+        "resumen": "Un informe de Corficolombiana propone un modelo de acuerdos claros articulado para destrabar su avance.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "De Colectora a Sirius: Estos son los proyectos clave que enfrentan demoras por trámites ambientales",
+        "capturado": "2026-11-15T15:55:38-05:00"
+      },
       {
         "titulo": "Entrevista l El relato del restaurante local que destinó US$2,5 millones en Miami y ya obtuvo US$1,2 millones de ganancias",
         "url": "https://www.valoraanalitik.com/entrevista-l-la-historia-del-restaurante-colombiano-que-invirtio-us25-millones-en-miami-y-ya-genero-us12-millones-en-utilidades/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Sostenibilidad",
         "publicacion": "",
         "titulo_fuente": "Reglas claras y acuerdos: el reto de Colombia para impulsar la inversión sostenible",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "Aris Mining elevó un 28 % sus reservas auríferas en Segovia, Antioquia, llegando a 1,9 millones de onzas",
-        "url": "https://www.valoraanalitik.com/aris-mining-incremento-en-28-sus-reservas-de-oro-en-segovia-antioquia-hasta-19-millones-de-onzas/",
-        "resumen": "La compañía minera registró un incremento neto de 418.000 onzas troy, como resultado de la actualización de la estimación de reservas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Aris Mining incrementó en 28 % sus reservas de oro en Segovia, Antioquia, hasta 1,9 millones de onzas",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "EPM consigue permiso ambiental para levantar gran parque solar en La Guajira",
-        "url": "https://www.valoraanalitik.com/epm-logra-licencia-ambiental-para-construir-mega-parque-solar-en-la-guajira/",
-        "resumen": "La iniciativa estará ubicada en San Juan del Cesar y contará con 174.600 módulos solares.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "EPM logra licencia ambiental para construir mega parque solar en La Guajira",
         "capturado": "2026-11-11T16:17:26-05:00"
       }
     ]
