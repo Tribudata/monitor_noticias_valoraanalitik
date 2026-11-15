@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-14T15:37:56-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-14T19:55:04-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Asuntos esenciales y vigilancia de dineros estatales ausentes en el Presupuesto de 2027",
+        "url": "https://www.valoraanalitik.com/partidas-clave-y-controles-a-fondos-publicos-que-quedaron-fuera-del-presupuesto-de-2027/",
+        "resumen": "Según el Observatorio Fiscal de la Javeriana, al expedir por decreto el Presupuesto se sacrificaron las adiciones para salud, pensiones y educación.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Partidas clave y controles a fondos públicos que quedaron fuera del Presupuesto de 2027",
+        "capturado": "2026-11-14T19:55:04-05:00"
+      },
+      {
+        "titulo": "Ingresos de Juan Valdez pasaron de $722.000 millones con alza del 13 % y abrirán locales",
+        "url": "https://www.valoraanalitik.com/juan-valdez-supero-los-722-000-millones-en-ingresos-crecimiento-fue-del-13-y-se-viene-apertura-de-tiendas/",
+        "resumen": "Uno de los principales resultados del periodo se registró en el negocio internacional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Juan Valdez superó los $722.000 millones en ingresos: Crecimiento fue del 13 % y se viene apertura de tiendas",
+        "capturado": "2026-11-14T19:55:04-05:00"
+      },
+      {
+        "titulo": "Scania abrió sede para vigilar más de 3.300 camiones y buses en el país",
+        "url": "https://www.valoraanalitik.com/scania-inauguro-centro-que-monitoreara-mas-de-3-300-buses-y-camiones-en-colombia/",
+        "resumen": "La compañía también proyecta incrementar hasta en 50 % la vida útil de algunos componentes de desgaste.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Scania inauguró centro que monitoreará más de 3.300 buses y camiones en Colombia",
+        "capturado": "2026-11-14T19:55:04-05:00"
+      },
+      {
+        "titulo": "Pacto destaba trabajos inconclusos en la vía Bogotá-Girardot y modificará viajes",
+        "url": "https://www.valoraanalitik.com/acuerdo-destraba-obras-pendientes-de-la-via-bogota-girardot-que-cambiara-para-los-viajeros/",
+        "resumen": "La ANI llegó a un acuerdo con la concesión Vía Sumapaz que tendrá un beneficio grande en la vía Bogotá – Girardot que recientemente amplió sus carriles.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Acuerdo destraba obras pendientes de la vía Bogotá-Girardot ¿Qué cambiará para los viajeros?",
+        "capturado": "2026-11-14T19:55:04-05:00"
+      },
+      {
+        "titulo": "Gobierno asegura vigencia de dineros cafeteros mediante nuevos contratos hasta dicha fecha",
+        "url": "https://www.valoraanalitik.com/gobierno-garantiza-continuidad-de-los-fondos-cafeteros-con-nuevos-contratos-hasta-esta-fecha/",
+        "resumen": "La renovación contractual permitirá evitar interrupciones en la gestión de estos recursos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno garantiza continuidad de los fondos cafeteros con nuevos contratos hasta esta fecha",
+        "capturado": "2026-11-14T19:55:04-05:00"
+      },
+      {
+        "titulo": "Iniciativas viales en Antioquia por US$6.299 millones procuran recursos en Milagro Week",
+        "url": "https://www.valoraanalitik.com/megaproyectos-de-us6-299-millones-en-antioquia-que-buscan-financiacion-en-milagro-week/",
+        "resumen": "Las propuestas están distribuidas en cinco sectores: infraestructura, energía, hotelería, agroindustria y tecnología.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Megaproyectos de US$6.299 millones en Antioquia que buscan financiación en Milagro Week",
+        "capturado": "2026-11-14T19:55:04-05:00"
+      },
       {
         "titulo": "Firmas del país preparan modificaciones en las compensaciones a empleados para el año 2027",
         "url": "https://www.valoraanalitik.com/empresas-en-colombia-alistan-cambios-en-los-beneficios-para-los-trabajadores-en-2027/",
@@ -543,69 +603,29 @@
         "publicacion": "",
         "titulo_fuente": "Medellín tendrá el megaproyecto de vivienda de lujo para adultos mayores más grande de Colombia: ya hay fecha de inauguración",
         "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio del dólar en el país supera los $3.300 tras más de un mes sin cotizar así",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-consolida-sobre-los-3-300-luego-de-mas-de-un-mes-sin-cerrar-en-ese-valor/",
-        "resumen": "La divisa abrió al alza en $3.282,88 y marcó rápidamente un mínimo intradiario en $3.277. Luego tocó un pico de $3.347,47 durante la mañana.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia se consolida sobre los $3.300 luego de más de un mes sin cerrar en ese valor",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Las utilidades de Colombina aumentaron 10,5 % a septiembre y las ventas locales impulsaron el balance",
-        "url": "https://www.valoraanalitik.com/colombina-ganancias-septiembre-2026/",
-        "resumen": "Colombina alertó que el ámbito de los negocios “continúa siendo afectado por diversos aspectos negativos heredados del pasado gobierno”.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ganancias de Colombina crecieron 10,5 % entre enero y septiembre; ventas en el país impulsaron el resultado",
-        "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Entrevista | Somos una pieza fundamental dentro de la columna vertebral del sistema eléctrico dijo el gerente de Hidroituango",
-        "url": "https://www.valoraanalitik.com/somos-una-pieza-fundamental-dentro-de-la-columna-vertebral-del-sistema-electrico-gerente-de-hidroituango/",
-        "resumen": "Carolina Escobar, gerente de Hidroituango, explicó los alcances del aumento de la cota del embalse a 420 metros y su impacto en la generación de energía.",
-        "autor": "",
-        "subseccion": "Epm",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | “Somos una pieza fundamental dentro de la columna vertebral del sistema eléctrico”: gerente de Hidroituango",
-        "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Cementos Argos pretende entrar al índice MSCI Standard y extender su participación global",
-        "url": "https://www.valoraanalitik.com/cementos-argos-indice-msci-standard-2027/",
-        "resumen": "La compañía avanza en iniciativas para aumentar su flotante durante el primer trimestre de 2027. Reveló expectativas para EE. UU y América Latina.",
-        "autor": "",
-        "subseccion": "Bolsa de valores",
-        "publicacion": "",
-        "titulo_fuente": "Cementos Argos busca ingresar al índice MSCI Standard y ampliar su presencia en mercados internacionales",
-        "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "Inversionistas del exterior registran máximo histórico en adquisición de TES durante canjes de deuda en octubre",
-        "url": "https://www.valoraanalitik.com/fondos-extranjeros-marcan-record-de-compras-de-tes-en-medio-de-canjes-de-deuda-en-octubre/",
-        "resumen": "Los capitales internacionales protagonizaron un histórico relevo en la demanda de deuda pública en Colombia al adquirir $10,17 billones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fondos extranjeros marcan récord de compras de TES en medio de canjes de deuda en octubre",
-        "capturado": "2026-11-12T13:31:41-05:00"
-      },
-      {
-        "titulo": "El nuevo gravamen que la administración De la Espriella quiere fijar a un sector de US$29.100 millones en Colombia",
-        "url": "https://www.valoraanalitik.com/el-nuevo-impuesto-que-el-gobierno-de-la-espriella-busca-poner-a-un-mercado-que-mueve-us29-100-millones-en-colombia/",
-        "resumen": "El gobierno De la Espriella busca aumentar el recaudo en un sector que ha ganado terreno en Colombia. La propuesta ya genera reparos.",
-        "autor": "",
-        "subseccion": "Impuestos",
-        "publicacion": "",
-        "titulo_fuente": "El nuevo impuesto que el gobierno De la Espriella busca poner a un mercado que mueve US$29.100 millones en Colombia",
-        "capturado": "2026-11-12T13:31:41-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Ingresos de Juan Valdez pasaron de $722.000 millones con alza del 13 % y plan de abrir locales",
+        "url": "https://www.valoraanalitik.com/juan-valdez-supero-los-722-000-millones-en-ingresos-crecimiento-fue-del-13-y-se-viene-apertura-de-tiendas/",
+        "resumen": "Uno de los principales resultados del periodo se registró en el negocio internacional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Juan Valdez superó los $722.000 millones en ingresos: Crecimiento fue del 13 % y se viene apertura de tiendas",
+        "capturado": "2026-11-14T19:55:04-05:00"
+      },
+      {
+        "titulo": "Scania abrió centro para vigilar más de 3.300 camiones y buses en el país",
+        "url": "https://www.valoraanalitik.com/scania-inauguro-centro-que-monitoreara-mas-de-3-300-buses-y-camiones-en-colombia/",
+        "resumen": "La compañía también proyecta incrementar hasta en 50 % la vida útil de algunos componentes de desgaste.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Scania inauguró centro que monitoreará más de 3.300 buses y camiones en Colombia",
+        "capturado": "2026-11-14T19:55:04-05:00"
+      },
       {
         "titulo": "Firmas colombianas preparan modificaciones en las contraprestaciones de sus empleados para 2027",
         "url": "https://www.valoraanalitik.com/empresas-en-colombia-alistan-cambios-en-los-beneficios-para-los-trabajadores-en-2027/",
@@ -1184,26 +1204,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "ETB cerró el tercer trimestre con resultado operacional positivo y fuerte reducción de pérdidas",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "Medellín será sede del Horasis Global Summit 2026: programación académica y datos del evento global",
-        "url": "https://www.valoraanalitik.com/medellin-recibe-el-horasis-global-summit-2026-agenda-academica-y-detalles-del-encuentro-internacional/",
-        "resumen": "Cerca de 1000 panelistas de 53 países se reúnen para debatir los grandes desafíos económicos, tecnológicos, políticos, sociales y ambientales.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Medellín recibe el Horasis Global Summit 2026: agenda académica y detalles del encuentro internacional",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "Celsia prevé que El Niño baje en abril y mayo de 2027 y retomará recompra de acciones",
-        "url": "https://www.valoraanalitik.com/celsia-espera-que-el-nino-empiece-a-ceder-hacia-abril-y-mayo-de-2027-reactivara-recompra-de-acciones/",
-        "resumen": "Tras la publicación de sus resultados financieros, Celsia también afirmó Air-e le adeuda aproximadamente $198.000 millones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Celsia espera que El Niño empiece a ceder hacia abril y mayo de 2027; reactivará recompra de acciones",
         "capturado": "2026-11-11T16:17:26-05:00"
       }
     ]
