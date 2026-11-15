@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-15T02:42:24-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-15T10:31:20-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Magnex, firma colombiana de mantenimiento de hidrocarburos, jugará un rol clave en Venezuela",
+        "url": "https://www.valoraanalitik.com/magnex-la-empresa-colombiana-de-mantenimiento-critico-de-hidrocarburos-que-tendra-presencia-clave-en-venezuela/",
+        "resumen": "La empresa con más de 40 años ha evolucionado en la prestación de servicios en esta industria y tendrá presencia clave en Venezuela.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Magnex, la empresa colombiana de mantenimiento crítico de hidrocarburos que tendrá presencia clave en Venezuela",
+        "capturado": "2026-11-15T10:31:20-05:00"
+      },
+      {
+        "titulo": "Restaurante colombiano invirtió US$2,5 millones en Miami y generó utilidades por US$1,2 millones",
+        "url": "https://www.valoraanalitik.com/entrevista-l-la-historia-del-restaurante-colombiano-que-invirtio-us25-millones-en-miami-y-ya-genero-us12-millones-en-utilidades/",
+        "resumen": "En diálogo con Valora Analitik, Andrés González, CEO de Monark Hospitality y presidente de Evedesa Group, reveló los resultados de Casa D Miami.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista l La historia del restaurante colombiano que invirtió US$2,5 millones en Miami y ya generó US$1,2 millones en utilidades",
+        "capturado": "2026-11-15T10:31:20-05:00"
+      },
+      {
+        "titulo": "Empleados solicitarán un mayor incremento del salario mínimo en Colombia usando esta variable",
+        "url": "https://www.valoraanalitik.com/trabajadores-pediran-que-aumento-del-salario-minimo-en-colombia-sea-mayor-con-base-en-esta-variable/",
+        "resumen": "El incremento del salario mínimo en Colombia dependerá de factores clave como la inflación, pero los trabajadores piden tener presente otros escenarios",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Trabajadores pedirán que aumento del salario mínimo en Colombia sea mayor con base en esta variable",
+        "capturado": "2026-11-15T10:31:20-05:00"
+      },
       {
         "titulo": "Asuntos esenciales y vigilancia de dineros estatales ausentes en el Presupuesto de 2027",
         "url": "https://www.valoraanalitik.com/partidas-clave-y-controles-a-fondos-publicos-que-quedaron-fuera-del-presupuesto-de-2027/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Reducir el IVA al combustible y los tiquetes, la propuesta de IATA para aliviar los costos del sector aéreo",
         "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella espera acuerdo general para el incremento del salario mínimo colombiano",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confia-en-que-aumento-del-salario-minimo-en-colombia-se-de-por-consenso/",
-        "resumen": "El Gobierno asegura que va a garantizar la participación de los distintos representantes en la negociación del salario mínimo en Colombia",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella confía en que aumento del salario mínimo en Colombia se dé por consenso",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Fondo Milagro busca acelerar obras tras el sismo y propiciar mayor inversión estatal",
-        "url": "https://www.valoraanalitik.com/gobierno-busca-agilizar-reconstruccion-tras-el-terremoto-y-avanzar-en-inversion-con-fondo-milagro/",
-        "resumen": "El vicepresidente aseguró que el Gobierno busca acelerar las intervenciones y mantener el trabajo articulado con el sector de la construcción.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno busca agilizar reconstrucción tras el terremoto y avanzar en inversión con Fondo Milagro",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Fecha de apertura del mayor proyecto residencial de lujo para la tercera edad en Medellín",
-        "url": "https://www.valoraanalitik.com/medellin-tendra-el-megaproyecto-de-vivienda-de-lujo-para-adultos-mayores-mas-grande-de-colombia/",
-        "resumen": "Medellín tendrá un nuevo proyecto de vivienda para adultos mayores. La apuesta refleja el crecimiento de un mercado en crecimiento.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Medellín tendrá el megaproyecto de vivienda de lujo para adultos mayores más grande de Colombia: ya hay fecha de inauguración",
-        "capturado": "2026-11-12T19:01:43-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista l El relato del restaurante local que destinó US$2,5 millones en Miami y ya obtuvo US$1,2 millones de ganancias",
+        "url": "https://www.valoraanalitik.com/entrevista-l-la-historia-del-restaurante-colombiano-que-invirtio-us25-millones-en-miami-y-ya-genero-us12-millones-en-utilidades/",
+        "resumen": "En diálogo con Valora Analitik, Andrés González, CEO de Monark Hospitality y presidente de Evedesa Group, reveló los resultados de Casa D Miami.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista l La historia del restaurante colombiano que invirtió US$2,5 millones en Miami y ya generó US$1,2 millones en utilidades",
+        "capturado": "2026-11-15T10:31:20-05:00"
+      },
       {
         "titulo": "Ingresos de Juan Valdez pasaron de $722.000 millones con alza del 13 % y plan de abrir locales",
         "url": "https://www.valoraanalitik.com/juan-valdez-supero-los-722-000-millones-en-ingresos-crecimiento-fue-del-13-y-se-viene-apertura-de-tiendas/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Epm",
         "publicacion": "",
         "titulo_fuente": "EPM logra licencia ambiental para construir mega parque solar en La Guajira",
-        "capturado": "2026-11-11T16:17:26-05:00"
-      },
-      {
-        "titulo": "ETB finalizó el tercer trimestre con saldo operacional favorable y drástica baja de mermas",
-        "url": "https://www.valoraanalitik.com/etb-resultados-tercer-trimestre-2026/",
-        "resumen": "Diego Molano, presidente de ETB, dijo a Valora Analitik que la venta de la empresa está descartada.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "ETB cerró el tercer trimestre con resultado operacional positivo y fuerte reducción de pérdidas",
         "capturado": "2026-11-11T16:17:26-05:00"
       }
     ]
