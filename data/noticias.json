@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-16T02:47:42-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-16T13:13:03-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De la Espriella evalúa modificación del IVA en Colombia: descendería a este porcentaje",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-estudia-cambio-que-tendria-el-iva-en-colombia-bajaria-a-este-porcentaje/",
+        "resumen": "Esta decisión la anunció el presidente luego de mencionar que los porductos de la canasta familiar no tendrán IVA en la Ley de Rescate Económico.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella estudia cambio que tendría el IVA en Colombia: Bajaría a este porcentaje",
+        "capturado": "2026-11-16T13:13:03-05:00"
+      },
+      {
+        "titulo": "Fintech Palomma recauda arriendo de 200.000 inquilinos en Colombia y busca crecer en servicios financieros",
+        "url": "https://www.valoraanalitik.com/fintech-palomma-servicios-financieros/",
+        "resumen": "La fintech procesa cerca de $400.000 millones mensuales en pagos de arrendamiento. Recibió nuevos recursos para ampliar su oferta de crédito.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Fintech Palomma ya recauda el arriendo de 200.000 inquilinos en Colombia y busca crecer en servicios financieros",
+        "capturado": "2026-11-16T13:13:03-05:00"
+      },
+      {
+        "titulo": "Milagro Week: Avianca hará inversión de US$3.000 millones en Colombia y facilitó vuelos directos a Nueva York",
+        "url": "https://www.valoraanalitik.com/milagro-week-avianca-hara-millonaria-inversion-de-us3-000-millones-a-colombia-y-facilito-vuelos-directos-a-nueva-york/",
+        "resumen": "Avianca, en calidad de aerolínea oficial del evento, habilitó una operación especial para facilitar el desplazamiento de los participantes colombianos.",
+        "autor": "",
+        "subseccion": "Aerolineas colombia",
+        "publicacion": "",
+        "titulo_fuente": "Milagro Week: Avianca hará millonaria inversión de US$3.000 millones a Colombia y facilitó vuelos directos a Nueva York",
+        "capturado": "2026-11-16T13:13:03-05:00"
+      },
+      {
+        "titulo": "Entrevista | Ternium Colombia solicita equidad en comercio de acero: optimismo para 2027 y frentes de trabajo",
+        "url": "https://www.valoraanalitik.com/entrevista-ternium-colombia-pide-igualdad-de-condiciones-en-comercio-de-acero-optimismo-para-2027-y-frentes-de-trabajo/",
+        "resumen": "Sobre el 2027, el presidente de Ternium Colombia explicó que están optimistas, pero el país debe trabajar en varios frentes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Ternium Colombia pide igualdad de condiciones en comercio de acero: optimismo para 2027 y frentes de trabajo",
+        "capturado": "2026-11-16T13:13:03-05:00"
+      },
+      {
+        "titulo": "La Ley de rescate del Gobierno ante las contrapropuestas de gremios, empresas y analistas",
+        "url": "https://www.valoraanalitik.com/la-ley-de-rescate-del-gobierno-frente-a-las-contrapropuestas-de-gremios-empresas-y-analistas/",
+        "resumen": "El sector privado, centros de pensamiento y analistas exigen reequilibrar la carga para no golpear el consumo, la formalización laboral y el tejido empresarial.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "La Ley de rescate del Gobierno frente a las contrapropuestas de gremios, empresas y analistas",
+        "capturado": "2026-11-16T13:13:03-05:00"
+      },
+      {
+        "titulo": "El Congreso llega a su etapa decisiva: los proyectos que pretenden avalar antes del 16 de diciembre",
+        "url": "https://www.valoraanalitik.com/congreso-entra-en-la-recta-final-estas-son-las-leyes-que-buscan-aprobar-antes-del-16-de-diciembre/",
+        "resumen": "Estas son las leyes que buscan aprobar antes del 16 de diciembre el gobierno de Abelardo de la Espriella.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Congreso entra en la recta final: estas son las leyes que buscan aprobar antes del 16 de diciembre",
+        "capturado": "2026-11-16T13:13:03-05:00"
+      },
       {
         "titulo": "De La Espriella informa que la reforma no gravará con IVA la canasta familiar, tal como se propuso al inicio",
         "url": "https://www.valoraanalitik.com/de-la-espriella-reforma-no-aplicara-iva/",
@@ -543,69 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "ANLA pide debate técnico y vigilancia sobre la PTAR Canoas, megaobra clave para recuperar el río Bogotá",
         "capturado": "2026-11-13T10:37:51-05:00"
-      },
-      {
-        "titulo": "Premercado | Bolsas mixtas por IA y baja del petróleo con el IPP de EE. UU. en la mira",
-        "url": "https://www.valoraanalitik.com/premercado-mercados-globales-mixtos-por-optimismo-en-ia-mientras-petroleo-cae-ipp-de-ee-uu-en-la-agenda/",
-        "resumen": "Donald Trump afirmó que Washington ya no necesita un acuerdo con Irán.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Mercados globales mixtos por optimismo en IA mientras petróleo cae: IPP de EE. UU. en la agenda",
-        "capturado": "2026-11-13T10:37:51-05:00"
-      },
-      {
-        "titulo": "Acción de Cementos Argos entraría al MSCI Standard si Grupo Argos baja su participación",
-        "url": "https://www.valoraanalitik.com/cementos-argos-msci-standard-analistas/",
-        "resumen": "Grupo Argos incluyó en sus resultados del tercer trimestre la posibilidad de reducir su participación en Cementos Argos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Acción de Cementos Argos podría entrar al MSCI Standard si se concreta reducción de participación de Grupo Argos: analistas",
-        "capturado": "2026-11-13T10:37:51-05:00"
-      },
-      {
-        "titulo": "Propuesta estatal modificaría las citas y la atención a usuarios de EPS colombianas: esto priorizará",
-        "url": "https://www.valoraanalitik.com/plan-del-gobierno-cambiaria-citas-y-atencion-de-pacientes-en-las-eps-en-colombia-esto-priorizara/",
-        "resumen": "El Plan de Desarrollo del Gobierno tiene otras disposiciones muy importantes sobre el funcionamiento de las EPS en Colombia",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Plan del Gobierno cambiaría citas y atención de pacientes en las EPS en Colombia: Esto priorizará",
-        "capturado": "2026-11-13T10:37:51-05:00"
-      },
-      {
-        "titulo": "Grupo Sura rebasó la meta de utilidades de 2026 y elevó su pronóstico para el cierre del periodo",
-        "url": "https://www.valoraanalitik.com/grupo-sura-supero-meta-ganancias-de-todo-2026-elevo-proyecciones/",
-        "resumen": "La compañía, encabezada por Ricardo Jaramillo, también reveló avances del programa de recompra de acciones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Grupo Sura ya superó la meta de ganancias prevista para todo 2026 y volvió a elevar su proyección de cierre de año",
-        "capturado": "2026-11-13T02:06:02-05:00"
-      },
-      {
-        "titulo": "De la Espriella detiene sueldos elevados de directivos en Fondo Milagro y comunica acciones correctivas",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-frena-altos-salarios-de-los-altos-directivos-fondo-milagro/",
-        "resumen": "La polémica se dio porque algunos sueldos superan los $30 millones mensuales para el fondo a cargo de la reconstrucción del país.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella frena altos salarios de los directivos del Fondo Milagro; anuncia medidas correctivas",
-        "capturado": "2026-11-13T02:06:02-05:00"
-      },
-      {
-        "titulo": "Ganancia neta de BTG Pactual subió 17 % en el tercer trimestre y alcanzó marca histórica de US$1.000 millones",
-        "url": "https://www.valoraanalitik.com/btg-pactual-utilidad-neta-crecio-record/",
-        "resumen": "Entre enero y septiembre, el banco ganó US$2.900 millones, 26 % más que un año atrás y su junta aprobó recomprar títulos por hasta US$360 millones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Utilidad neta de BTG Pactual creció 17 % en el tercer trimestre y llegó a récord de US$1.000 millones",
-        "capturado": "2026-11-13T02:06:02-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Entrevista | Ternium Colombia solicita paridad en mercado de acero, confianza hacia 2027 y labores",
+        "url": "https://www.valoraanalitik.com/entrevista-ternium-colombia-pide-igualdad-de-condiciones-en-comercio-de-acero-optimismo-para-2027-y-frentes-de-trabajo/",
+        "resumen": "Sobre el 2027, el presidente de Ternium Colombia explicó que están optimistas, pero el país debe trabajar en varios frentes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Ternium Colombia pide igualdad de condiciones en comercio de acero: optimismo para 2027 y frentes de trabajo",
+        "capturado": "2026-11-16T13:13:03-05:00"
+      },
       {
         "titulo": "Norma de Salvamento Financiero: compañías tendrán que recalcular sus gastos y presupuestos para 2027",
         "url": "https://www.valoraanalitik.com/ley-de-rescate-economico-empresas-deberan-recalcular-sus-costos-y-presupuestos-para-2027/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Enka cerró sus resultados a septiembre con una utilidad neta de $11.100 millones, frente a $854 millones en 2025",
         "capturado": "2026-11-11T21:25:59-05:00"
-      },
-      {
-        "titulo": "Fitch exaltó la gestión operativa y financiera de la ETB, quitó la lupa negativa y conservó el puntaje",
-        "url": "https://www.valoraanalitik.com/fitch-desempeno-etb-observacion-negativa/",
-        "resumen": "La empresa de telecomunicaciones refinanció completamente su deuda en un crédito garantizado con activos inmobiliarios no estratégicos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fitch destacó desempeño operativo y financiero de la ETB; retiró su observación negativa y mantuvo calificación",
-        "capturado": "2026-11-11T16:17:26-05:00"
       }
     ]
   }
