@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-15T19:54:04-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-16T02:47:42-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "De La Espriella informa que la reforma no gravará con IVA la canasta familiar, tal como se propuso al inicio",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-reforma-no-aplicara-iva/",
+        "resumen": "El mandatario confirmó ajustes al proyecto de Ley de Rescate Económico para no modificar el IVA en Colombia.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "De La Espriella anuncia que la reforma no aplicará IVA a la canasta familiar, como se planteó inicialmente",
+        "capturado": "2026-11-16T02:47:42-05:00"
+      },
       {
         "titulo": "Industria textil formuló solicitud al Gobierno De la Espriella en normativa crucial para el sector",
         "url": "https://www.valoraanalitik.com/sector-textil-hizo-peticion-importante-a-gobierno-de-la-espriella-en-decreto-clave-para-la-industria/",
@@ -592,16 +602,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "Utilidad neta de BTG Pactual creció 17 % en el tercer trimestre y llegó a récord de US$1.000 millones",
-        "capturado": "2026-11-13T02:06:02-05:00"
-      },
-      {
-        "titulo": "Fontur y Bancóldex abren línea de crédito por $100.000 millones para micro, pequeñas y medianas empresas de turismo damnificadas por el temblor",
-        "url": "https://www.valoraanalitik.com/bancoldex-fontur-credito-mipymes-turismo/",
-        "resumen": "Los préstamos tendrán plazos de hasta cinco años, hasta 12 meses de gracia a capital y tasas con un descuento mínimo de dos puntos porcentuales.",
-        "autor": "",
-        "subseccion": "Pymes en colombia",
-        "publicacion": "",
-        "titulo_fuente": "Bancóldex y Fontur lanzan crédito de $100.000 millones para MiPymes turísticas afectadas por el sismo",
         "capturado": "2026-11-13T02:06:02-05:00"
       }
     ],
