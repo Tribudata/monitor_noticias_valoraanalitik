@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-16T13:13:03-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-16T20:59:05-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Multinacional lanzó más de 14.000 ofertas de trabajo en distintas ciudades del país y así se puede aplicar",
+        "url": "https://www.valoraanalitik.com/multinacional-abrio-mas-de-14-000-vacantes-de-empleo-en-varias-ciudades-de-colombia-asi-puede-postularse/",
+        "resumen": "Las vacantes con esta multinacional están distribuidas en distintas regiones del país y son para diferentes niveles de formación y experiencia.",
+        "autor": "",
+        "subseccion": "Empleos",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional abrió más de 14.000 vacantes de empleo en varias ciudades de Colombia: así puede postularse",
+        "capturado": "2026-11-16T20:59:05-05:00"
+      },
+      {
+        "titulo": "Trump habla del caso Huang, posibilita cita con Kim Jong Un y advierte a México sobre nuevos aranceles",
+        "url": "https://www.valoraanalitik.com/trump-se-refiere-al-caso-huang-abre-puerta-a-encuentro-con-kim-jong-un-y-amenaza-a-mexico-con-nuevos-aranceles/",
+        "resumen": "El mandatario estadounidense tampoco descartó un encuentro con Kim Jong Un. Aunque no confirmó fechas ni estableció las condiciones.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Trump se refiere al caso Huang, abre puerta a encuentro con Kim Jong Un y amenaza a México con nuevos aranceles",
+        "capturado": "2026-11-16T20:59:05-05:00"
+      },
       {
         "titulo": "Gobierno De la Espriella evalúa modificación del IVA en Colombia: descendería a este porcentaje",
         "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-estudia-cambio-que-tendria-el-iva-en-colombia-bajaria-a-este-porcentaje/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Así busca el Gobierno acabar con la ‘mermelada’: congresistas tendrán que revelar sus gestiones presupuestales",
         "capturado": "2026-11-13T10:37:51-05:00"
-      },
-      {
-        "titulo": "Falla mundial de Microsoft afecta a Outlook y Teams que restablecerían servicio en 48 horas",
-        "url": "https://www.valoraanalitik.com/microsoft-enfrenta-caida-global-de-sus-servicios-outlook-y-teams-volverian-a-funcionar-en-48-horas/",
-        "resumen": "De acuerdo con los reportes de la compañía, el problema está relacionado con fallas en algunos servidores que soportan sus servicios en la nube.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Microsoft enfrenta caída global de sus servicios: Outlook y Teams volverían a funcionar en 48 horas",
-        "capturado": "2026-11-13T10:37:51-05:00"
-      },
-      {
-        "titulo": "ANLA solicita vigilancia y debate técnico para la PTAR Canoas clave en rescate del río Bogotá",
-        "url": "https://www.valoraanalitik.com/anla-pide-debate-tecnico-y-vigilancia-sobre-la-ptar-canoas-megaobra-clave-para-recuperar-el-rio-bogota/",
-        "resumen": "La PTAR Canoas está diseñada para tratar el 70 % de las aguas residuales de Bogotá y el 100 % de las de Soacha.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "ANLA pide debate técnico y vigilancia sobre la PTAR Canoas, megaobra clave para recuperar el río Bogotá",
-        "capturado": "2026-11-13T10:37:51-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Vassar vuelve con feria de Navidad: Espera ventas por $14.000 millones con 400 marcas en Bogotá",
+        "url": "https://www.valoraanalitik.com/vassar-regresa-con-festival-navideno-proyecta-14-000-millones-en-facturacion-con-400-marcas-en-su-feria-de-bogota/",
+        "resumen": "La organización pretende convertir el espacio en un punto de encuentro para los visitantes y, al mismo tiempo, ofrecer oportunidades de crecimiento.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Vassar regresa con festival navideño: Proyecta $14.000 millones en facturación con 400 marcas en su feria de Bogotá",
+        "capturado": "2026-11-16T20:59:05-05:00"
+      },
       {
         "titulo": "Entrevista | Ternium Colombia solicita paridad en mercado de acero, confianza hacia 2027 y labores",
         "url": "https://www.valoraanalitik.com/entrevista-ternium-colombia-pide-igualdad-de-condiciones-en-comercio-de-acero-optimismo-para-2027-y-frentes-de-trabajo/",
@@ -1194,16 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Multinacional australiana invierte más de US$1 millón en Colombia y abre nueva sede de atención especializada en salud",
-        "capturado": "2026-11-11T21:25:59-05:00"
-      },
-      {
-        "titulo": "Enka finalizó septiembre con ganancia neta de 11.100 millones de pesos frente a 854 millones de 2025",
-        "url": "https://www.valoraanalitik.com/enka-resultados-tercer-trimestre-2026/",
-        "resumen": "La utilidad antes de impuestos llegó a $20.500 millones, frente a pérdidas de $3.700 millones un año antes, aunque los ingresos bajaron 9 %.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Enka cerró sus resultados a septiembre con una utilidad neta de $11.100 millones, frente a $854 millones en 2025",
         "capturado": "2026-11-11T21:25:59-05:00"
       }
     ]
