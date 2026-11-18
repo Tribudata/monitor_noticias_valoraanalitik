@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-17T14:41:57-05:00",
-  "nuevos_en_esta_corrida": 24,
+  "actualizado": "2026-11-17T21:16:27-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Addi destinará US$2.000 millones en Colombia para expandir el crédito y crear una cuenta de ahorros",
+        "url": "https://www.valoraanalitik.com/addi-invertira-us2-000-millones-en-colombia-para-ampliar-el-credito-y-lanzar-una-cuenta-de-ahorros/",
+        "resumen": "Addi cuenta con más de cuatro millones de usuarios y cerca de 60.000 comercios aliados en 1.050 municipios.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Addi invertirá US$2.000 millones en Colombia para ampliar el crédito y lanzar una cuenta de ahorros",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Natalia Abello Vives es la nueva presidenta del Grupo Bicentenario y asumirá el puesto",
+        "url": "https://www.valoraanalitik.com/grupo-bicentenario-tiene-nueva-presidenta-natalia-abello-vives-asumira-el-cargo/",
+        "resumen": "Abello asumirá la dirección de la entidad con una trayectoria de más de 30 años en cargos directivos del sector público y privado.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Bicentenario tiene nueva presidenta: Natalia Abello Vives asumirá el cargo",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Plazo máximo con el que contaría el Congreso para avalar la Ley de Rescate Económico",
+        "url": "https://www.valoraanalitik.com/fecha-limite-que-tendria-el-congreso-para-aprobacion-de-la-ley-de-rescate-economico/",
+        "resumen": "El cronograma contempla que las comisiones económicas conjuntas del Congreso realicen la primera votación en estas fechas.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Fecha límite que tendría el Congreso para aprobación de la Ley de Rescate Económico",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Tradicional centro comercial bogotano cambia su funcionamiento con alta inversión solar",
+        "url": "https://www.valoraanalitik.com/iconico-centro-comercial-de-bogota-transforma-su-operacion-con-millonaria-inversion-en-energia-solar/",
+        "resumen": "La instalación de los paneles solares producirá 217.000 kWh al año y ahorrará cerca del 15 % de la electricidad que consume el centro comercial",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Icónico centro comercial de Bogotá transforma su operación con millonaria inversión en energía solar",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito asigna $10.000 millones para socorrer familias damnificadas por sismo y así operará",
+        "url": "https://www.valoraanalitik.com/grupo-exito-afectados-terremoto-colombia/",
+        "resumen": "Entre agosto y septiembre de 2026, Grupo Éxito y su fundación entregó paquetes nutricionales a más de 32.000 familias.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Éxito destina $10.000 millones para apoyar familias afectadas por terremoto; así se desplegarán",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Gobierno pretende quitar aranceles a insumos del campo para frenar la inestabilidad global",
+        "url": "https://www.valoraanalitik.com/gobierno-busca-eliminar-aranceles-de-insumos-agropecuarios-para-mitigar-la-volatilidad-internacional/",
+        "resumen": "La disposición tendría una vigencia temporal de catorce meses mientras se evalúan sus efectos.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno busca eliminar aranceles de insumos agropecuarios para mitigar la volatilidad internacional",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "A septiembre, solo tres bancos en Colombia superaron $1 billón de ganancias: este es el listado",
+        "url": "https://www.valoraanalitik.com/bancos-colombia-ganancias-septiembre-2026/",
+        "resumen": "Bancolombia y Davivienda reúnen más de la mitad del resultado positivo de la banca local. Cuatro entidades siguen en pérdidas.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Solo tres bancos en Colombia ganaron más de $1 billón a septiembre; así quedó el ranking de utilidades",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Presidente de Parex confirma inversión de US$2.500 millones en el país de aquí a 2030",
+        "url": "https://www.valoraanalitik.com/parex-invertira-us2-500-millones-en-colombia-a-2030-confirma-su-presidente/",
+        "resumen": "La empresa adquirió los activos de Frontera Energy y se convirtió en la compañía privada más importante de la industria petrolera en Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Parex invertirá US$2.500 millones en Colombia a 2030, confirma su presidente",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "A septiembre bajaron los rendimientos entregados a clientes financieros, totalizando $87 billones",
+        "url": "https://www.valoraanalitik.com/rendimientos-a-clientes-del-sistema-financiero-cayeron-con-corte-a-septiembre-se-ubicaron-en-87-billones/",
+        "resumen": "Las mayores utilidades dejadas a los clientes al noveno mes del año fueron las de los fondos de pensiones y cesantías, con $51,46 billones.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Rendimientos a clientes del sistema financiero cayeron con corte a septiembre: se ubicaron en $87 billones",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Antioquia Gold destina más de US$6 millones a la actualización de su mina en el país",
+        "url": "https://www.valoraanalitik.com/antioquia-gold-invierte-mas-de-us6-millones-para-modernizar-su-operacion-minera-en-colombia/",
+        "resumen": "Antioquia Gold inició su producción hace siete años y busca consolidar su operación mediante la incorporación de tecnología de última generación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Antioquia Gold invierte más de US$6 millones para modernizar su operación minera en Colombia",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Corex, propietaria de Cerro Matoso, alista nuevos dineros en el país y el Ejecutivo adopta acciones",
+        "url": "https://www.valoraanalitik.com/cerro-matoso-prepara-nuevas-inversiones-en-colombia-gobierno-anuncia-medidas-para-destrabar-proyectos/",
+        "resumen": "Restrepo señaló que el interés de Corex evidencia una recuperación de la confianza inversionista en el sector minero colombiano.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Corex, dueña de Cerro Matoso, prepara nuevas inversiones en Colombia: Gobierno anuncia medidas para destrabar proyectos",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado ratifica directriz para afiliar dichos empleados a Colpensiones y efecto en pagos",
+        "url": "https://www.valoraanalitik.com/consejo-de-estado-mantiene-orden-para-que-estos-trabajadores-se-afilien-a-colpensiones-que-pasara-con-sus-mesadas/",
+        "resumen": "La orden de traslado a Colpensiones seguirá vigente tras la decisión del Consejo de Estado. El punto clave está en lo que pasará con las mesadas.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Consejo de Estado mantiene orden para que estos trabajadores se afilien a Colpensiones: ¿qué pasará con sus mesadas?",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
       {
         "titulo": "Aumenta el atractivo por criptoactivos en Colombia y estas son las monedas digitales preferidas en Wenia",
         "url": "https://www.valoraanalitik.com/activos-digitales-colombia-cripto-wenia/",
@@ -483,129 +603,89 @@
         "publicacion": "",
         "titulo_fuente": "Ahora | EE. UU. levanta suspensión de vuelos tras cuatro horas; cancelaciones se extenderán durante el fin de semana",
         "capturado": "2026-11-13T21:08:23-05:00"
-      },
-      {
-        "titulo": "Luis Felipe Henao asumirá la gerencia del Fondo Milagro en reemplazo de Jaime Andrés Uribe",
-        "url": "https://www.valoraanalitik.com/luis-felipe-henao-nuevo-gerente-del-fondo-milagro-tras-salida-jaime-andres-uribe/",
-        "resumen": "La renuncia del anterior gerente se dio tras confirmarse los altos sueldos de los directivos del fondo y su baja ejecución.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Luis Felipe Henao será el nuevo gerente del Fondo Milagro tras salida de Jaime Andrés Uribe",
-        "capturado": "2026-11-13T21:08:23-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella pondrá $34.000 millones para el 50 % de estudios del metro de Bogotá L4",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-cofinanciara-50-estudios-linea-4-metro-de-bogota/",
-        "resumen": "La propuesta preliminar de la Línea 4 contempla extender el sistema hacia el extremo norte de la capital.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella cofinanciará con $34.000 millones el 50 % de los estudios de la Línea 4 del metro de Bogotá",
-        "capturado": "2026-11-13T21:08:23-05:00"
-      },
-      {
-        "titulo": "Construcciones El Cóndor supera los rojos operativos y apunta otra vez a la rentabilidad",
-        "url": "https://www.valoraanalitik.com/construcciones-el-condor-deja-atras-las-perdidas-operacionales-y-se-acerca-a-dar-nuevamente-ganancias/",
-        "resumen": "El Cóndor reveló sus estados financieros del tercer trimestre de 2026.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Construcciones El Cóndor deja atrás las pérdidas operacionales y se acerca a dar nuevamente ganancias",
-        "capturado": "2026-11-13T21:08:23-05:00"
-      },
-      {
-        "titulo": "Grupo Argos analiza ampliar recompra de acciones y menciona posible venta de su parte en Cemargos",
-        "url": "https://www.valoraanalitik.com/grupo-argos-podria-ampliar-cupo-de-recompra-de-acciones/",
-        "resumen": "La firma avanza en el cumplimiento de su segunda oferta de readquisición bajo mecanismo independiente por hasta $150.000 millones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos podría ampliar cupo de recompra de acciones; habla de posible venta de participación en Cemargos",
-        "capturado": "2026-11-13T21:08:23-05:00"
-      },
-      {
-        "titulo": "Designados ponentes de comisiones económicas de la Cámara para la reforma tributaria de De la Espriella",
-        "url": "https://www.valoraanalitik.com/definidos-ponentes-comisiones-economicas-camara-de-reforma-tributaria/",
-        "resumen": "Con esta decisión, el Congreso da un paso clave para iniciar las discusiones de la Ley de Rescate.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Definidos ponentes de comisiones económicas de la Cámara para la reforma tributaria de De la Espriella",
-        "capturado": "2026-11-13T21:08:23-05:00"
-      },
-      {
-        "titulo": "EPM aumentó sus ganancias un 16 % a septiembre de 2026 y llegó a $3,3 billones",
-        "url": "https://www.valoraanalitik.com/epm-elevo-sus-utilidades-16-a-septiembre-de-2026-y-alcanzo-33-billones/",
-        "resumen": "El Grupo EPM mantuvo resultados sólidos, en un contexto marcado por la variabilidad climática.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "EPM elevó sus utilidades 16 % a septiembre de 2026 y alcanzó $3,3 billones",
-        "capturado": "2026-11-13T21:08:23-05:00"
-      },
-      {
-        "titulo": "EE. UU. dispone suspensión de operaciones aéreas en todo el país por motivos de seguridad",
-        "url": "https://www.valoraanalitik.com/ee-uu-ordena-detencion-de-vuelos-a-nivel-nacional-por-razones-de-seguridad/",
-        "resumen": "La Administración Federal de Aviación también argumentó «circunstancias extraordinarias» para tomar esta determinación.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "EE. UU. ordena detención de vuelos a nivel nacional por «razones de seguridad»",
-        "capturado": "2026-11-13T16:51:45-05:00"
-      },
-      {
-        "titulo": "Tasa preferencial en el impuesto predial colombiano para casas de los estratos 1, 2 y 3",
-        "url": "https://www.valoraanalitik.com/impuesto-predial-en-colombia-viviendas-de-estratos-1-2-y-3-pueden-acceder-a-tarifa-especial/",
-        "resumen": "El impuesto predial contempla una tarifa preferencial para ciertas viviendas de estratos 1, 2 y 3, pero hay requisitos que debe revisar cada propietario.",
-        "autor": "",
-        "subseccion": "Impuesto predial",
-        "publicacion": "",
-        "titulo_fuente": "Impuesto predial en Colombia: Viviendas de estratos 1, 2 y 3 pueden acceder a tarifa especial",
-        "capturado": "2026-11-13T16:51:45-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en Colombia finaliza arriba de $3.300 y el Brent continúa sobre US$96",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-cierra-por-encima-de-la-barrera-de-3-300-brent-se-mantiene-sobre-los-us96/",
-        "resumen": "Durante la rueda cambiaria, la divisa abrió prácticamente plana en $3.310, luego descendió hasta un piso intradiario de $3.306,50.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia cierra por encima de la barrera de $3.300; Brent se mantiene sobre los US$96",
-        "capturado": "2026-11-13T16:51:45-05:00"
-      },
-      {
-        "titulo": "Davivienda informa millonarios recortes anuales al unificar DAVIbank y fija metas a 2026",
-        "url": "https://www.valoraanalitik.com/davivienda-revela-billonarios-ahorros-cada-ano-tras-integrar-a-davibank/",
-        "resumen": "El presidente del grupo, Javier Suárez, calcula los costos de integración, que se pagarán una sola vez, entre $600.000 millones y $700.000 millones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Davivienda revela billonarios ahorros cada año tras integrar a DAVIbank; revela nuevas metas para 2026",
-        "capturado": "2026-11-13T16:51:45-05:00"
-      },
-      {
-        "titulo": "Jaime Uribe deja la gerencia del Fondo Milagro ante controversia por elevados sueldos",
-        "url": "https://www.valoraanalitik.com/jaime-uribe-renuncio-a-la-gerencia-del-fondo-milagro-tras-polemica-por-altos-salarios/",
-        "resumen": "La salida de Uribe se produce en medio de otros cuestionamientos a su gestión, que recibió críticas en el Congreso por la baja ejecución.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Jaime Uribe renunció a la gerencia del Fondo Milagro tras polémica por altos salarios",
-        "capturado": "2026-11-13T16:51:45-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella presenta bases del Plan de Desarrollo y revela detalles",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-radica-bases-del-plan-de-desarrollo-estos-son-los-detalles/",
-        "resumen": "El Gobierno oficializó ante el Legislativo el documento «Colombia, la Patria Milagro», el mismo texto que se conoció a inicios de esta semana.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella radica bases del Plan de Desarrollo: estos son los detalles",
-        "capturado": "2026-11-13T16:51:45-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Postobón destinó $374 millones para apoyar a 723 pequeños cultivadores de fruta colombianos",
+        "url": "https://www.valoraanalitik.com/postobon-invirtio-374-millones-para-fortalecer-a-723-pequenos-productores-de-fruta-en-colombia/",
+        "resumen": "En los últimos cinco años, Postobón ha invertido $2.285 millones en proyectos productivos para pequeños agricultores.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Postobón invirtió $374 millones para fortalecer a 723 pequeños productores de fruta en Colombia",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Addi fondeará US$2.000 millones en Colombia para expandir el crédito y abrir cuenta de ahorros",
+        "url": "https://www.valoraanalitik.com/addi-invertira-us2-000-millones-en-colombia-para-ampliar-el-credito-y-lanzar-una-cuenta-de-ahorros/",
+        "resumen": "Addi cuenta con más de cuatro millones de usuarios y cerca de 60.000 comercios aliados en 1.050 municipios.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Addi invertirá US$2.000 millones en Colombia para ampliar el crédito y lanzar una cuenta de ahorros",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Famoso centro comercial bogotano cambia su funcionamiento con alta inversión solar",
+        "url": "https://www.valoraanalitik.com/iconico-centro-comercial-de-bogota-transforma-su-operacion-con-millonaria-inversion-en-energia-solar/",
+        "resumen": "La instalación de los paneles solares producirá 217.000 kWh al año y ahorrará cerca del 15 % de la electricidad que consume el centro comercial",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Icónico centro comercial de Bogotá transforma su operación con millonaria inversión en energía solar",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito asigna $10.000 millones para socorrer hogares damnificados por sismo",
+        "url": "https://www.valoraanalitik.com/grupo-exito-afectados-terremoto-colombia/",
+        "resumen": "Entre agosto y septiembre de 2026, Grupo Éxito y su fundación entregó paquetes nutricionales a más de 32.000 familias.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Éxito destina $10.000 millones para apoyar familias afectadas por terremoto; así se desplegarán",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Relevante | Parex desembolsará US$2.500 millones en Colombia hasta 2030, asegura su presidente",
+        "url": "https://www.valoraanalitik.com/parex-invertira-us2-500-millones-en-colombia-a-2030-confirma-su-presidente/",
+        "resumen": "La empresa adquirió los activos de Frontera Energy y se convirtió en la compañía privada más importante de la industria petrolera en Colombia.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Parex invertirá US$2.500 millones en Colombia a 2030, confirma su presidente",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Antioquia Gold destina más de US$6 millones a actualizar su labor minera en el país",
+        "url": "https://www.valoraanalitik.com/antioquia-gold-invierte-mas-de-us6-millones-para-modernizar-su-operacion-minera-en-colombia/",
+        "resumen": "Antioquia Gold inició su producción hace siete años y busca consolidar su operación mediante la incorporación de tecnología de última generación.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Antioquia Gold invierte más de US$6 millones para modernizar su operación minera en Colombia",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Cerro Matoso alista recursos en Colombia y el Ejecutivo reporta acciones para destrabar obras",
+        "url": "https://www.valoraanalitik.com/cerro-matoso-prepara-nuevas-inversiones-en-colombia-gobierno-anuncia-medidas-para-destrabar-proyectos/",
+        "resumen": "Restrepo señaló que el interés de Corex evidencia una recuperación de la confianza inversionista en el sector minero colombiano.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Corex, dueña de Cerro Matoso, prepara nuevas inversiones en Colombia: Gobierno anuncia medidas para destrabar proyectos",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
+      {
+        "titulo": "Videopodcast sobre la influencia de la innovación en los negocios y la eficiencia",
+        "url": "https://www.valoraanalitik.com/videopodcast-como-impacta-la-innovacion-en-las-empresas-y-en-la-productividad/",
+        "resumen": "Alberto Echeverri explica el rol del Venture Capital, el papel de la inteligencia artificial y cómo las nuevas empresas están transformando el sector.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Videopodcast | ¿Cómo impacta la innovación en las empresas y en la productividad?",
+        "capturado": "2026-11-17T21:16:27-05:00"
+      },
       {
         "titulo": "Bogotá dará subsidios de hasta 10 millones de pesos a negocios perjudicados por el fuego en el GranSan",
         "url": "https://www.valoraanalitik.com/bogota-entregara-incentivos-de-hasta-10-millones-a-comerciantes-afectados-por-incendio-del-gransan/",
@@ -1125,86 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Bancóldex y Fontur lanzan crédito de $100.000 millones para MiPymes turísticas afectadas por el sismo",
         "capturado": "2026-11-13T02:06:02-05:00"
-      },
-      {
-        "titulo": "Conconcreto elevó 48 % su ganancia neta normalizada a septiembre de 2026 y sus entradas subieron 17 %",
-        "url": "https://www.valoraanalitik.com/conconcreto-aumento-utilidad-neta-tercer-trimestre/",
-        "resumen": "Las ventas de vivienda crecieron 96 % en el tercer trimestre y la empresa obtuvo adjudicaciones con clientes privados por más de $80.000 millones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Conconcreto aumentó 48 % su utilidad neta normalizada a septiembre de 2026 y sus ingresos crecieron 17 %",
-        "capturado": "2026-11-13T02:06:02-05:00"
-      },
-      {
-        "titulo": "Grupo Argos estudia bajar su porción en Cementos Argos sin perder dominio; muestra balances y prevé comprar más títulos",
-        "url": "https://www.valoraanalitik.com/grupo-argos-participacion-cementos-argos/",
-        "resumen": "El holding reportó ingresos consolidados a septiembre por $8,62 billones y una utilidad neta controladora de $274.000 millones, sobre una base comparable.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Grupo Argos analiza reducir participación en Cementos Argos sin perder control; revela resultados y planea recomprar más acciones",
-        "capturado": "2026-11-13T02:06:02-05:00"
-      },
-      {
-        "titulo": "Ecopetrol reportó baja de 3,3 % en su producción a 726.000 barriles diarios entre enero y septiembre de 2026",
-        "url": "https://www.valoraanalitik.com/produccion-de-ecopetrol-cayo-enero-septiembre-a-726-000-barriles-diarios/",
-        "resumen": "Las cifras incluyen la consolidación al 100 % de la producción en Brava Energía de Brasil, que se consolidó en agosto pasado.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Producción de Ecopetrol cayó 3,3 % entre enero y septiembre de 2026: llegó a 726.000 barriles diarios",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Davivienda Group redujo su utilidad 13,3 % en el tercer trimestre a $720.000 millones y ganó $1,85 billones a septiembre",
-        "url": "https://www.valoraanalitik.com/utilidad-de-davivienda-group-bajo-133-en-el-tercer-trimestre-a-720-000-millones-gano-185-billones-a-septiembre/",
-        "resumen": "Este retroceso obedeció principalmente a la normalización de los ingresos del portafolio de inversiones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Utilidad de Davivienda Group bajó 13,3 % en el tercer trimestre a $720.000 millones; ganó $1,85 billones a septiembre",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Odinsa registra descenso en sus ingresos en el transcurso del tercer trimestre de 2026",
-        "url": "https://www.valoraanalitik.com/odinsa-caida-ingresos-tercer-semestre-2026/",
-        "resumen": "La compañía registró menores ingresos por el método de participación patrimonial, mientras que la deuda aumentó por la incorporación de Ticsa.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Odinsa reporta caída en ingresos durante el tercer trimestre de 2026",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Utilidad neta de Ecopetrol trepó 86 % en el tercer trimestre a $4,8 billones e ingresos superaron $35 billones a pesar de menor producción",
-        "url": "https://www.valoraanalitik.com/utilidad-neta-de-ecopetrol-se-disparo-86-ingresos-superaron-35-billones/",
-        "resumen": "La compañía tuvo un trimestre positivo tras consolidar la compra de la firma brasileña Brava Energía.",
-        "autor": "",
-        "subseccion": "Acciones ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Pese a menor producción, utilidad neta de Ecopetrol se disparó 86 % en el tercer trimestre a $4,8 billones e ingresos superaron $35 billones",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "IATA propone bajar el IVA al combustible y a los tiquetes para disminuir los costos aéreos",
-        "url": "https://www.valoraanalitik.com/la-propuesta-de-iata-para-aliviar-los-costos-del-sector-aereo/",
-        "resumen": "La asociación señala que este insumo representa entre 30 % y 40 % de los costos de una aerolínea y cuestiona nuevos impuestos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Reducir el IVA al combustible y los tiquetes, la propuesta de IATA para aliviar los costos del sector aéreo",
-        "capturado": "2026-11-12T19:01:43-05:00"
-      },
-      {
-        "titulo": "Utilidades de Colombina aumentaron 10,5 % a septiembre gracias a mayores ventas locales",
-        "url": "https://www.valoraanalitik.com/colombina-ganancias-septiembre-2026/",
-        "resumen": "Colombina alertó que el ámbito de los negocios “continúa siendo afectado por diversos aspectos negativos heredados del pasado gobierno”.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Ganancias de Colombina crecieron 10,5 % entre enero y septiembre; ventas en el país impulsaron el resultado",
-        "capturado": "2026-11-12T19:01:43-05:00"
       }
     ]
   }
