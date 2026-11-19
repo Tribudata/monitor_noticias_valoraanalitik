@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-18T20:23:32-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-11-19T04:18:29-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Gobierno De la Espriella concluye Milagro Week sumando US$43.205 millones en compromisos de inversión y financiación",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-cierra-milagro-week-con-us43-205-millones-en-compromisos-de-inversion-y-financiacion/",
+        "resumen": "La agenda continuará con la próxima Milagro Week, que se realizará en Madrid en marzo de 2027.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella cierra Milagro Week con US$43.205 millones en compromisos de inversión y financiación",
+        "capturado": "2026-11-19T04:18:29-05:00"
+      },
       {
         "titulo": "Colectividades Verde y Liberal imponen condiciones al Ejecutivo frente a su proyecto de reforma tributaria",
         "url": "https://www.valoraanalitik.com/partidos-verde-y-liberal-trazan-lineas-rojas-al-gobierno-por-su-propuesta-de-tributaria/",
@@ -592,16 +602,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "El consumo de los mayores de 55 años representaría cerca del 19 % del PIB colombiano en 2042, revela estudio del CESA",
-        "capturado": "2026-11-15T19:54:04-05:00"
-      },
-      {
-        "titulo": "Acciones violentas amenazan las vías del país: CCI solicita acción estatal",
-        "url": "https://www.valoraanalitik.com/atentados-ponen-en-riesgo-las-carreteras-de-colombia-cci-pide-intervencion-del-gobierno/",
-        "resumen": "La organización anunció que sostendrá una reunión durante esta semana con los ministerios de Defensa y Transporte.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Atentados ponen en riesgo las carreteras de Colombia: CCI pide intervención del Gobierno",
         "capturado": "2026-11-15T19:54:04-05:00"
       }
     ],
