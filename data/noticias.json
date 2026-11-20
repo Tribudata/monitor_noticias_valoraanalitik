@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-20T04:00:23-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-20T12:56:52-05:00",
+  "nuevos_en_esta_corrida": 19,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Carros particulares podrían operar con plataformas: cambios para Uber, Didi, InDrive y Yango en Colombia",
+        "url": "https://www.valoraanalitik.com/carros-particulares-tendrian-via-libre-para-trabajar-con-aplicaciones-asi-cambiarian-uber-didi-indrive-yango-y-otras-apps-en-colombia/",
+        "resumen": "Uber, Didi y otras aplicaciones entrarían en un nuevo escenario regulatorio en Colombia, con cambios para conductores, pasajeros y empresas.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Carros particulares tendrían vía libre para trabajar con aplicaciones: así cambiarían Uber, Didi, InDrive, Yango y otras apps en Colombia",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Metas de María Fernanda Suárez en Banco de Bogotá y repercusiones de la operación con Itaú",
+        "url": "https://www.valoraanalitik.com/prioridades-suarez-banco-de-bogota-itau/",
+        "resumen": "De acuerdo con Suárez, el segmento de clientes premium se duplicó y más del 95 % de los antiguos clientes de Itaú continuó en Banco de Bogotá.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Las prioridades de María Fernanda Suárez como presidenta de Banco de Bogotá; se reveló efecto del negocio con Itaú",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "OCDE pronostica para Colombia en 2027 menor crecimiento, inflación elevada y mayor endeudamiento",
+        "url": "https://www.valoraanalitik.com/ocde-proyecta-un-2027-para-colombia-con-desaceleracion-economica-alta-inflacion-y-mas-deuda/",
+        "resumen": "El informe prevé que la economía crecerá menos en medio de tasas de interés altas, un mercado laboral deteriorado y un aumento de la deuda pública.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "OCDE proyecta un 2027 para Colombia con desaceleración económica, alta inflación y más deuda",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Adriana Guillén se aparta de la dirección de Asocajas luego de casi diez años al frente del gremio",
+        "url": "https://www.valoraanalitik.com/adriana-guillen-deja-presidencia-asocajas/",
+        "resumen": "En los próximos días se reunirá la Junta Directiva en pleno para conocer y definir la ruta del proceso de sucesión de Guillén.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Adriana Guillén deja la presidencia de Asocajas tras cerca de una década liderando el gremio",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Fármacos en el país: iniciativas de De la Espriella sobre adquisiciones, recobros y UPC",
+        "url": "https://www.valoraanalitik.com/medicamentos-en-colombia-las-propuestas-de-de-la-espriella-para-compras-recobros-y-upc/",
+        "resumen": "Gobierno propone compras centralizadas de medicamentos y recobros por tecnologías de bajo valor terapéutico.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Medicamentos en Colombia: las propuestas de De la Espriella para compras, recobros y UPC",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Tatyana Orozco, líder de la CCI: la inversión en Colombia exige reglas claras según la infraestructura",
+        "url": "https://www.valoraanalitik.com/entrevista-tatyana-orozco-presidenta-cci-la-infraestructura-necesita-reglas-claras-para-que-la-inversion-llegue-a-colombia/",
+        "resumen": "Bajo el lema Colombia conectada, competitiva y confiable: del plan a la obra, la agenda del Congreso de Infraestructura (CCI) marcará la ruta del sector.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Tatyana Orozco, presidenta CCI: “la infraestructura necesita reglas claras para que la inversión llegue a Colombia”",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Inician trabajos en Accesos Norte 2: detalles de la expansión de la Autopista Norte en Bogotá",
+        "url": "https://www.valoraanalitik.com/arrancan-obras-de-accesos-norte-2-asi-sera-el-megaproyecto-de-ampliacion-de-la-autopista-norte-de-bogota/",
+        "resumen": "El proyeto espera beneficiar a la movilidad de más de 10 millones de personas con una inversión de $1,8 billones.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Arrancan obras de Accesos Norte 2: así será el megaproyecto de ampliación de la Autopista Norte de Bogotá",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Informe del Banco de Bogotá avisa que el país se aproxima a una deuda insostenible",
+        "url": "https://www.valoraanalitik.com/colombia-esta-cada-vez-mas-cerca-a-tener-una-deuda-insostenible-advierte-informe-del-banco-de-bogota/",
+        "resumen": "La entidad alertó que la tasa de interés de la deuda pública alcanzó máximos no vistos desde 2009 y superó el ritmo de la actividad productiva.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Colombia está cada vez más cerca a tener una deuda insostenible, advierte informe del Banco de Bogotá",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "La divisa en Colombia baja al iniciar tras dos alzas y sigue arriba de 3.400 pesos",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-a-la-baja-tras-dos-jornadas-de-aumentos-se-mantiene-sobre-la-barrera-de-3-400/",
+        "resumen": "La divisa estadounidense ya tocó un máximo de $3.437,75 este viernes, pero no logró mantenerse en ese nivel.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre a la baja tras dos jornadas de aumentos; se mantiene sobre la barrera de $3.400",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Latam Cargo le apuesta al país con capital para multiplicar por tres su negocio en Bogotá",
+        "url": "https://www.valoraanalitik.com/latam-cargo-entrevista-santiago-alvarez-crecimiento-bogota/",
+        "resumen": "La infraestructura renovada de Latam Cargo fortalecerá la cadena de frío y permitirá atender más importaciones y envíos de comercio electrónico.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Latam Cargo apuesta por Colombia con inversión para triplicar su operación en Bogotá",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Inversiones superiores a $12.160 millones y entrega de títulos agrarios realiza la Agencia Nacional de Tierras",
+        "url": "https://www.valoraanalitik.com/agencia-nacional-de-tierras-avanza-con-inversiones-por-mas-de-12-160-millones-y-expedicion-de-titulos-rurales/",
+        "resumen": "También se expidieron 1.054 títulos de propiedad, equivalentes a 9.024 hectáreas, en 18 departamentos.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Agencia Nacional de Tierras avanza con inversiones por más de $12.160 millones y expedición de títulos rurales",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Premercado | Caída bursátil global por miedos sobre inteligencia artificial y petróleo al alza",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-mundiales-se-desploman-por-temores-sobre-la-inteligencia-artificial-wall-street-apunta-a-una-apertura-de-cautela-y-petroleo-sube/",
+        "resumen": "El mercado estadounidense continúa evaluando las perspectivas de la inteligencia artificial, particularmente después del debut bursátil de Anthropic.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas mundiales se desploman por temores sobre la inteligencia artificial: Wall Street apunta a una apertura de cautela y petróleo sube",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
       {
         "titulo": "De la Espriella desaprueba alocución de Petro en protestas y advierte un probable golpe de Estado",
         "url": "https://www.valoraanalitik.com/de-la-espriella-rechaza-discurso-de-petro-en-marchas-denuncia-posible-golpe-de-estado/",
@@ -483,129 +603,79 @@
         "publicacion": "",
         "titulo_fuente": "Megaproyecto La Dorada – Chiriguaná asegura financiación de $2,01 billones: recuperará 526 kilómetros de vía férrea en Colombia",
         "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Gobierno plantea ampliar años de beneficio tributario del RUGE en ley de rescate",
-        "url": "https://www.valoraanalitik.com/gobierno-abre-posibilidad-aumentar-anos-beneficio-tributario-ruge/",
-        "resumen": "La reforma tributaria del gobierno de Abelardo de la Espriella prevé un régimen nuevo para grandes inversiones.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Gobierno abre posibilidad para aumentar los años de beneficio tributario del RUGE en proyecto de rescate fiscal",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Las compras externas colombianas crecieron sobre 30 % en septiembre al sumar US$8.192,8 millones CIF",
-        "url": "https://www.valoraanalitik.com/importaciones-a-colombia-aumentaron-mas-de-30-en-septiembre-llegaron-a-us8-1928-millones-cif/",
-        "resumen": "En el acumulado de enero a septiembre de 2026, las importaciones sumaron US$61.939,1 millones CIF, lo que representa un crecimiento del 19,2 %.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Importaciones a Colombia aumentaron más de 30 % en septiembre: llegaron a US$8.192,8 millones CIF",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella sella pacto con Meta en la Milagro Week: beneficios para Colombia",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-firma-acuerdo-con-meta-durante-la-milagro-week-estos-seran-los-beneficios-para-colombia/",
-        "resumen": "El acuerdo entre el gobierno De la Espriella y Meta contempla formación en inteligencia artificial, apoyo a mipymes y medidas de seguridad digital",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella firma acuerdo con Meta durante la Milagro Week: estos serán los beneficios para Colombia",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Addi destinará US$2.000 millones en Colombia para expandir el crédito y crear una cuenta de ahorros",
-        "url": "https://www.valoraanalitik.com/addi-invertira-us2-000-millones-en-colombia-para-ampliar-el-credito-y-lanzar-una-cuenta-de-ahorros/",
-        "resumen": "Addi cuenta con más de cuatro millones de usuarios y cerca de 60.000 comercios aliados en 1.050 municipios.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Addi invertirá US$2.000 millones en Colombia para ampliar el crédito y lanzar una cuenta de ahorros",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Natalia Abello Vives es la nueva presidenta del Grupo Bicentenario y asumirá el puesto",
-        "url": "https://www.valoraanalitik.com/grupo-bicentenario-tiene-nueva-presidenta-natalia-abello-vives-asumira-el-cargo/",
-        "resumen": "Abello asumirá la dirección de la entidad con una trayectoria de más de 30 años en cargos directivos del sector público y privado.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Bicentenario tiene nueva presidenta: Natalia Abello Vives asumirá el cargo",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Plazo máximo con el que contaría el Congreso para avalar la Ley de Rescate Económico",
-        "url": "https://www.valoraanalitik.com/fecha-limite-que-tendria-el-congreso-para-aprobacion-de-la-ley-de-rescate-economico/",
-        "resumen": "El cronograma contempla que las comisiones económicas conjuntas del Congreso realicen la primera votación en estas fechas.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Fecha límite que tendría el Congreso para aprobación de la Ley de Rescate Económico",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Tradicional centro comercial bogotano cambia su funcionamiento con alta inversión solar",
-        "url": "https://www.valoraanalitik.com/iconico-centro-comercial-de-bogota-transforma-su-operacion-con-millonaria-inversion-en-energia-solar/",
-        "resumen": "La instalación de los paneles solares producirá 217.000 kWh al año y ahorrará cerca del 15 % de la electricidad que consume el centro comercial",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Icónico centro comercial de Bogotá transforma su operación con millonaria inversión en energía solar",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Grupo Éxito asigna $10.000 millones para socorrer familias damnificadas por sismo y así operará",
-        "url": "https://www.valoraanalitik.com/grupo-exito-afectados-terremoto-colombia/",
-        "resumen": "Entre agosto y septiembre de 2026, Grupo Éxito y su fundación entregó paquetes nutricionales a más de 32.000 familias.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Éxito destina $10.000 millones para apoyar familias afectadas por terremoto; así se desplegarán",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Gobierno pretende quitar aranceles a insumos del campo para frenar la inestabilidad global",
-        "url": "https://www.valoraanalitik.com/gobierno-busca-eliminar-aranceles-de-insumos-agropecuarios-para-mitigar-la-volatilidad-internacional/",
-        "resumen": "La disposición tendría una vigencia temporal de catorce meses mientras se evalúan sus efectos.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno busca eliminar aranceles de insumos agropecuarios para mitigar la volatilidad internacional",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "A septiembre, solo tres bancos en Colombia superaron $1 billón de ganancias: este es el listado",
-        "url": "https://www.valoraanalitik.com/bancos-colombia-ganancias-septiembre-2026/",
-        "resumen": "Bancolombia y Davivienda reúnen más de la mitad del resultado positivo de la banca local. Cuatro entidades siguen en pérdidas.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Solo tres bancos en Colombia ganaron más de $1 billón a septiembre; así quedó el ranking de utilidades",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Presidente de Parex confirma inversión de US$2.500 millones en el país de aquí a 2030",
-        "url": "https://www.valoraanalitik.com/parex-invertira-us2-500-millones-en-colombia-a-2030-confirma-su-presidente/",
-        "resumen": "La empresa adquirió los activos de Frontera Energy y se convirtió en la compañía privada más importante de la industria petrolera en Colombia.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Parex invertirá US$2.500 millones en Colombia a 2030, confirma su presidente",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "A septiembre bajaron los rendimientos entregados a clientes financieros, totalizando $87 billones",
-        "url": "https://www.valoraanalitik.com/rendimientos-a-clientes-del-sistema-financiero-cayeron-con-corte-a-septiembre-se-ubicaron-en-87-billones/",
-        "resumen": "Las mayores utilidades dejadas a los clientes al noveno mes del año fueron las de los fondos de pensiones y cesantías, con $51,46 billones.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Rendimientos a clientes del sistema financiero cayeron con corte a septiembre: se ubicaron en $87 billones",
-        "capturado": "2026-11-17T21:16:27-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Alianza de Seguros Sura con BeatHub para patrocinar DAVIarena y El Corazón de Bogotá Arena",
+        "url": "https://www.valoraanalitik.com/seguros-sura-alianza-beathub/",
+        "resumen": "La estrategia contempla patrocinios en dos escenarios y el desarrollo de soluciones de bienestar, prevención y aseguramiento para la industria.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Seguros Sura entra al entretenimiento con alianza con BeatHub; patrocinará DAVIarena y El Corazón de Bogotá Arena",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Adriana Guillén sale de la dirección de Asocajas luego de casi diez años al frente del gremio",
+        "url": "https://www.valoraanalitik.com/adriana-guillen-deja-presidencia-asocajas/",
+        "resumen": "En los próximos días se reunirá la Junta Directiva en pleno para conocer y definir la ruta del proceso de sucesión de Guillén.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Adriana Guillén deja la presidencia de Asocajas tras cerca de una década liderando el gremio",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Latam Airlines Colombia anuncia planes de expansión y solicita franjas horarias para más aeronaves",
+        "url": "https://www.valoraanalitik.com/latam-airlines-colombia-crecimiento-solicitud-mas-slots/",
+        "resumen": "Roberto Alvo, CEO de Latam Airlines Group, destacó a Colombia como su segundo mercado doméstico en la región, después de Brasil.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Latam Airlines Colombia confirma planes de crecimiento en el país y pide slots para sumar aviones",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Latam Cargo proyecta a Colombia mediante capital para multiplicar por tres su servicio en Bogotá",
+        "url": "https://www.valoraanalitik.com/latam-cargo-entrevista-santiago-alvarez-crecimiento-bogota/",
+        "resumen": "La infraestructura renovada de Latam Cargo fortalecerá la cadena de frío y permitirá atender más importaciones y envíos de comercio electrónico.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Latam Cargo apuesta por Colombia con inversión para triplicar su operación en Bogotá",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Deita emplea WhatsApp en sondeos y expone metas tras recibir un fondo de un millón de dólares",
+        "url": "https://www.valoraanalitik.com/entrevista-deita-utiliza-whatsapp-para-realizar-estudios-de-mercado-revela-prioridades-tras-inversion-de-us1-millon/",
+        "resumen": "Los clientes de Deita definen qué información quieren conocer y el perfil de las personas a las que desean consultar.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Deita utiliza WhatsApp para realizar estudios de mercado: revela prioridades tras inversión de US$1 millón",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "El gas de Venezuela saldría 75 por ciento más económico que el actual importado por Colombia y Ecopetrol negocia con PDVSA",
+        "url": "https://www.valoraanalitik.com/gas-de-venezuela-podria-ser-75-mas-barato-del-que-hoy-importa-colombia-ecopetrol-avanza-en-negocio-con-pdvsa/",
+        "resumen": "Para algunos analistas, lo paradójico de la situación es que hace poco más de una década era Colombia la que exportaba gas a ese país.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Gas venezolano podría ser 75 % más barato del que hoy importa Colombia; Ecopetrol avanza en negocio con PDVSA",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
+      {
+        "titulo": "Wingo recuerda las instancias principales de Destino Oculto 3, temporada que batió nuevamente marcas históricas",
+        "url": "https://www.valoraanalitik.com/wingo-destino-oculto-3-recap-y-mejores-momentos/",
+        "resumen": "La tercera edición de Destino Oculto rompió nuevamente su récord de ventas, al agotar la totalidad de sus cupos en tan solo 19 minutos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Wingo revive los mejores momentos de Destino Oculto 3, edición que volvió a romper récord",
+        "capturado": "2026-11-20T12:56:52-05:00"
+      },
       {
         "titulo": "Ignacio Gaitán asumirá la presidencia de Aliadas en reemplazo de María Claudia Lacouture",
         "url": "https://www.valoraanalitik.com/ignacio-gaitan-de-afidro-sera-el-presidente-de-aliadas-tras-salida-de-maria-claudia-lacouture/",
@@ -1135,76 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Entrevista l La historia del restaurante colombiano que invirtió US$2,5 millones en Miami y ya generó US$1,2 millones en utilidades",
         "capturado": "2026-11-15T10:31:20-05:00"
-      },
-      {
-        "titulo": "Ingresos de Juan Valdez pasaron de $722.000 millones con alza del 13 % y plan de abrir locales",
-        "url": "https://www.valoraanalitik.com/juan-valdez-supero-los-722-000-millones-en-ingresos-crecimiento-fue-del-13-y-se-viene-apertura-de-tiendas/",
-        "resumen": "Uno de los principales resultados del periodo se registró en el negocio internacional.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Juan Valdez superó los $722.000 millones en ingresos: Crecimiento fue del 13 % y se viene apertura de tiendas",
-        "capturado": "2026-11-14T19:55:04-05:00"
-      },
-      {
-        "titulo": "Scania abrió centro para vigilar más de 3.300 camiones y buses en el país",
-        "url": "https://www.valoraanalitik.com/scania-inauguro-centro-que-monitoreara-mas-de-3-300-buses-y-camiones-en-colombia/",
-        "resumen": "La compañía también proyecta incrementar hasta en 50 % la vida útil de algunos componentes de desgaste.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Scania inauguró centro que monitoreará más de 3.300 buses y camiones en Colombia",
-        "capturado": "2026-11-14T19:55:04-05:00"
-      },
-      {
-        "titulo": "Firmas colombianas preparan modificaciones en las contraprestaciones de sus empleados para 2027",
-        "url": "https://www.valoraanalitik.com/empresas-en-colombia-alistan-cambios-en-los-beneficios-para-los-trabajadores-en-2027/",
-        "resumen": "Las empresas en Colombia revisan nuevas fórmulas para mejorar los ingresos de sus empleados y aliviar gastos cotidianos sin elevar sus costos laborales.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Empresas en Colombia alistan cambios en los beneficios para los trabajadores en 2027",
-        "capturado": "2026-11-14T15:37:56-05:00"
-      },
-      {
-        "titulo": "Asociación del plástico resalta que el recauchutado disminuye gastos por kilómetro ante ruedas foráneas baratas",
-        "url": "https://www.valoraanalitik.com/gremio-del-plastico-destaca-que-reencauche-puede-reducir-el-costo-por-kilometro-frente-a-llantas-importadas-de-baja-calidad/",
-        "resumen": "Señala la importancia de concentrar el análisis en la existencia de dumping y la imposibilidad de competir en condiciones desiguales de mercado.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gremio del plástico destaca que reencauche puede reducir el costo por kilometro frente a llantas importadas de «baja calidad»",
-        "capturado": "2026-11-14T15:37:56-05:00"
-      },
-      {
-        "titulo": "OCDE vigila los retos de Colombia en materia de captación de capitales ecológicos",
-        "url": "https://www.valoraanalitik.com/ocde-pone-la-lupa-sobre-los-desafios-que-enfrenta-colombia-para-atraer-inversiones-verdes/",
-        "resumen": "El organismo destaca la importancia de fortalecer la confianza institucional y establecer reglas claras.",
-        "autor": "",
-        "subseccion": "Sostenibilidad",
-        "publicacion": "",
-        "titulo_fuente": "OCDE pone la lupa sobre los desafíos que enfrenta Colombia para atraer inversiones verdes",
-        "capturado": "2026-11-14T15:37:56-05:00"
-      },
-      {
-        "titulo": "Importante movimiento en el sector bananero de Urabá involucra a tres de sus mayores empresas",
-        "url": "https://www.valoraanalitik.com/sector-bananero-se-mueve-en-colombia-2026/",
-        "resumen": "C.I. Tropical, la tercera exportadora de banano de Urabá sede su operación a dos actores clave de esta industria.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Sector bananero se mueve en Colombia: Tres de las empresas más importantes en Urabá protagonizan gigante operación",
-        "capturado": "2026-11-14T10:58:38-05:00"
-      },
-      {
-        "titulo": "El megaproyecto eólico de Ecopetrol en La Guajira alcanza un veinticinco por ciento de avance",
-        "url": "https://www.valoraanalitik.com/megaproyecto-eolico-ecopetrol-la-guajira-llega-25-avance/",
-        "resumen": "La compañía tuvo varios hitos en energías renovables y confirmó novedades en las regasificadoras del Pacífico y Cartagena.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Megaproyecto eólico de Ecopetrol en La Guajira llega a 25 % de avance: así va la empresa en energías renovables",
-        "capturado": "2026-11-14T10:58:38-05:00"
       }
     ]
   }
