@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-20T12:56:52-05:00",
+  "actualizado": "2026-11-20T18:55:18-05:00",
   "nuevos_en_esta_corrida": 19,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Wall Street se hunde y vive su peor semana postpandemia por dudas sobre rentabilidad de IA",
+        "url": "https://www.valoraanalitik.com/wall-street-se-desploma-y-registra-su-peor-semana-desde-pandemia-preocupacion-por-rentabilidad-de-ia-en-auge/",
+        "resumen": "La caída de las acciones de IA marcaron varios hitos negativos para Wall Street el viernes.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Wall Street se desploma y registra su peor semana desde pandemia: preocupación por rentabilidad de IA en auge",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Nueva ley defiende a colombianos de cobros por préstamos no pedidos: conozca el reclamo",
+        "url": "https://www.valoraanalitik.com/nueva-ley-protege-a-colombianos-de-pagar-creditos-que-nunca-solicitaron-asi-pueden-reclamar/",
+        "resumen": "¿Le están cobrando un crédito que nunca pidió? La nueva ley que ya entró en vigencia establece cómo frenar esas deudas.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Nueva ley protege a colombianos de pagar créditos que nunca solicitaron: así pueden reclamar",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Más de 1.000 tenderos exigen al Gobierno y al Congreso frenar los tributos saludables",
+        "url": "https://www.valoraanalitik.com/mas-de-1-000-tenderos-piden-al-gobierno-y-al-congreso-frenar-los-impuestos-saludables/",
+        "resumen": "Los comerciantes advierten que estos gravámenes afectan las ventas, la rentabilidad de las tiendas de barrio y el bolsillo de los consumidores.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Más de 1.000 tenderos piden al Gobierno y al Congreso frenar los impuestos saludables",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Entrevista | Samsung elevará su inversión deportiva en 2027 enfocada en salud y tecnología",
+        "url": "https://www.valoraanalitik.com/samsung-ampliara-su-inversion-en-el-deporte-en-2027/",
+        "resumen": "Samsung proyecta continuar sus inversiones deportivas en 2027 y fortalecer el uso de relojes inteligentes para monitorear el rendimiento físico.",
+        "autor": "",
+        "subseccion": "Valorasports",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Samsung ampliará su inversión en el deporte en 2027 con foco en salud y tecnología",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Alerta | Grupo Argos enajena títulos de Cementos Argos para subir flotante y entrar al MSCI Standard",
+        "url": "https://www.valoraanalitik.com/grupo-argos-vende-acciones-cementos-argos-aumentar-flotante-entrar-a-msci-standard/",
+        "resumen": "El ‘holding’ de infraestructura mantendrá el control de la cementera, con aproximadamente un 52,2 %.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Grupo Argos vende acciones de Cementos Argos para aumentar flotante y entrar a MSCI Standard",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Naturgas indica que el gasoducto Antonio Ricaurte estaría listo entre 12 y 24 meses",
+        "url": "https://www.valoraanalitik.com/gasoducto-antonio-ricaurte-podria-estar-listo-en-un-plazo-de-entre-12-y-24-meses-naturgas/",
+        "resumen": "La recuperación de la infraestructura, que conecta a Colombia con Venezuela, requiere intervenciones técnicas y la reconstrucción de algunos tramos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gasoducto Antonio Ricaurte podría estar listo en un plazo de entre 12 y 24 meses: Naturgas",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "De la Espriella solicita agilizar la ampliación de la Autopista Norte y concluirla un año antes",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-pide-acelerar-obras-de-ampliacion-de-autopista-norte-plantea-terminar-el-proyecto-un-ano-antes/",
+        "resumen": "El Gobierno Nacional señaló que el proyecto permaneció sin avances durante cuatro años por el Gobienro del expresidente.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella pide acelerar obras de ampliación de Autopista Norte; plantea terminar el proyecto un año antes",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "El impuesto al carbono encarecería el diésel, el jet fuel y el carbón",
+        "url": "https://www.valoraanalitik.com/diesel-jet-fuel-y-carbon-se-encarecerian-con-la-aplicacion-del-impuesto-al-carbono/",
+        "resumen": "Andeg también dijo que habría un efecto neto negativo de $3,8 billones, mayor presión fiscal en subsidios por posibles aumentos en la tarifa de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Diésel, jet fuel y carbón se encarecerían con la aplicación del impuesto al carbono",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Valora Analitik, trii, Eafit y BreakfastLive realizarán el mayor festival de finanzas del país",
+        "url": "https://www.valoraanalitik.com/valora-analitik-festival-finanzas-colombia/",
+        "resumen": "En 2027, Distriito Inversión reunirá en Medellín a más de 10.000 interesados en las inversiones para aprender de la mano de expertos.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Valora Analitik tendrá el festival de finanzas más grande de Colombia de la mano de trii, Eafit y BreakfastLive",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito inaugura su primer outlet en Bogotá con rebajas fijas de hasta 60 por ciento",
+        "url": "https://www.valoraanalitik.com/grupo-exito-outlet-bogota-descuentos/",
+        "resumen": "El establecimiento estará en el sector del 20 de Julio y ofrecerá productos de tecnología, electrodomésticos, moda, hogar, juguetería y deportes.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Éxito abre su primera tienda de outlet en Bogotá; ofrecerá descuentos permanentes de hasta 60 %",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Black Friday en Colombia: pasajes aéreos nacionales a partir de $50.000",
+        "url": "https://www.valoraanalitik.com/black-friday-en-colombia-tiquetes-de-avion-desde-50-000-para-viajar-por-el-pais/",
+        "resumen": "El Black Friday tendrá tiquetes de avión desde $50.000 para quienes buscan viajar barato por Colombia y aprovechar descuentos en hoteles y paquetes turísticos.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Black Friday en Colombia: tiquetes de avión desde $50.000 para viajar por el país",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia subió cerca de $150 en dos jornadas y ya pasó los $3.500",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-aumento-casi-150-en-dos-dias-y-ya-supero-la-barrera-de-los-3-500/",
+        "resumen": "La divisa abrió ligeramente a la baja en $3.425 y tocó un mínimo intradiario de $3.407, aunque finalizó exactamente en su máximo del día: $3.508.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia aumentó casi $150 en dos días y ya superó la barrera de los $3.500",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
       {
         "titulo": "Carros particulares podrían operar con plataformas: cambios para Uber, Didi, InDrive y Yango en Colombia",
         "url": "https://www.valoraanalitik.com/carros-particulares-tendrian-via-libre-para-trabajar-con-aplicaciones-asi-cambiarian-uber-didi-indrive-yango-y-otras-apps-en-colombia/",
@@ -483,129 +603,79 @@
         "publicacion": "",
         "titulo_fuente": "DIAN hace aclaración clave sobre el RUT: no se lo pueden exigir para estos trámites",
         "capturado": "2026-11-18T20:23:32-05:00"
-      },
-      {
-        "titulo": "Terpel desarrollará proyecto solar con almacenamiento en baterías para abastecer a Sucroal en el Valle del Cauca",
-        "url": "https://www.valoraanalitik.com/terpel-desarrollara-proyecto-solar-con-almacenamiento-en-baterias-para-abastecer-a-sucroal-en-el-valle-del-cauca/",
-        "resumen": "La iniciativa busca combinar la generación de energía renovable con su almacenamiento y gestión.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Terpel desarrollará proyecto solar con almacenamiento en baterías para abastecer a Sucroal en el Valle del Cauca",
-        "capturado": "2026-11-18T20:23:32-05:00"
-      },
-      {
-        "titulo": "Alerta Galán sobre posible racionamiento energético en Bogotá ante mayor consumo",
-        "url": "https://www.valoraanalitik.com/bogota-enfrenta-riesgo-de-racionamiento-de-energia-por-aumento-de-la-demanda-advierte-galan/",
-        "resumen": "El alcalde presentará una estrategia de información para que los ciudadanos conozcan cómo evoluciona el consumo eléctrico.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá enfrenta riesgo de racionamiento de energía por aumento de la demanda, advierte Galán",
-        "capturado": "2026-11-18T20:23:32-05:00"
-      },
-      {
-        "titulo": "Más de US$5 millones llegarían a Colombia para fomentar la industria publicitaria regional",
-        "url": "https://www.valoraanalitik.com/colombia-recibiria-inversion-de-mas-de-us5-millones-para-impulsar-negocio-publicitario-en-latinoamerica/",
-        "resumen": "La inversión busca convertir a Bogotá en un hub publicitario regional, con operaciones en varios países y expansión prevista hacia México y Panamá.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia recibiría inversión de más de US$5 millones para impulsar negocio publicitario en Latinoamérica",
-        "capturado": "2026-11-18T20:23:32-05:00"
-      },
-      {
-        "titulo": "El dólar sube más de $50 y finaliza en $3.356 tras alta demanda compradora",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-se-dispara-mas-de-50-y-cierra-en-3-356-impulsado-por-fuerte-volumen-comprador/",
-        "resumen": "La divisa abrió al alza en $3.320,10 y marcó de inmediato su piso intradiario en $3.305,30. También tocó un techo de $3.364.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia se dispara más de $50 y cierra en $3.356 impulsado por fuerte volumen comprador",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "María Claudia Lacouture deja la dirección de AmCham Colombia para asumir en la CAF",
-        "url": "https://www.valoraanalitik.com/maria-claudia-lacouture-renuncia-amcham/",
-        "resumen": "Lacouture dejará su cargo actual después de nueve años. Desde enero de 2027 estará al frente de la agenda de turismo de CAF para Iberoamérica.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "María Claudia Lacouture renuncia a la presidencia de AmCham Colombia y será directora de turismo en la CAF",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella busca modificar cobro del IVA en Colombia con esquema personalizado",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-quiere-aplicar-drastico-cambio-al-cobro-del-iva-en-colombia-seria-personalizado/",
-        "resumen": "Miguel Gómez, ministro de Hacienda, dijo que hay mecanismos para que las personas de más bajos ingresos no paguen por el IVA en Colombia",
-        "autor": "",
-        "subseccion": "Impuestos",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella quiere aplicar drástico cambio al cobro del IVA en Colombia: Sería personalizado",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Beneficio de la DIAN permite a contribuyentes rescatar recursos cerca de la fecha límite",
-        "url": "https://www.valoraanalitik.com/contribuyentes-podrian-recuperar-millones-de-pesos-con-beneficio-de-la-dian-se-acerca-fecha-limite/",
-        "resumen": "Un trámite ante la DIAN podría representar un alivio de millones de pesos para algunos contribuyentes. El calendario para solicitarlo está por cerrar.",
-        "autor": "",
-        "subseccion": "Impuestos",
-        "publicacion": "",
-        "titulo_fuente": "Contribuyentes podrían recuperar millones de pesos con beneficio de la DIAN: se acerca fecha límite",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Gobierno retira el IVA del 19 % a medicinas prepagadas de la reforma tributaria",
-        "url": "https://www.valoraanalitik.com/gobierno-elimina-el-iva-de-19-a-medicinas-prepagadas-de-reforma-tributaria/",
-        "resumen": "El ministro de Hacienda aseguró ante el Congreso que se estudian otros impuestos para compensar los cambios en la Ley de Rescate Económico.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Gobierno elimina el IVA de 19 % a medicinas prepagadas de reforma tributaria",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Grupo Éxito volvería a Venezuela en 2027 y D1 estudia opciones de inversión",
-        "url": "https://www.valoraanalitik.com/grupo-exito-regreso-venezuela-d1-analiza/",
-        "resumen": "En total, más de 30 empresas colombianas buscan fortalecer su presencia en Venezuela; principalmente en el retail.",
-        "autor": "",
-        "subseccion": "Insidevenezuela",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Grupo Éxito regresaría a Venezuela en 2027 y D1 analiza oportunidades de inversión",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Cronograma oficial para concertar el salario mínimo de 2027 y sus fechas clave",
-        "url": "https://www.valoraanalitik.com/salario-minimo-de-2027-gobierno-definio-cronograma-para-negociar-el-aumento-estas-son-las-fechas-clave/",
-        "resumen": "A partir de ese momento se desarrollarán las jornadas de deliberación para intentar alcanzar un acuerdo.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Salario mínimo de 2027: Gobierno definió cronograma para negociar el aumento, estas son las fechas clave",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Banco Popular renueva sus tarjetas de crédito con ventajas desde un salario mínimo",
-        "url": "https://www.valoraanalitik.com/banco-popular-relanza-tarjetas-credito/",
-        "resumen": "Esta entidad del Grupo Aval se concentrará en cuatro tarjetas especializadas. Proyecta superar $70.000 millones en utilidades este año.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Banco Popular relanza sus tarjetas de crédito; vienen con beneficios y se accede desde un salario mínimo",
-        "capturado": "2026-11-18T14:18:17-05:00"
-      },
-      {
-        "titulo": "Megaproyecto La Dorada – Chiriguaná logra 2,01 billones para 526 km de vía férrea",
-        "url": "https://www.valoraanalitik.com/megaproyecto-la-dorada-chiriguana-asegura-financiacion-de-201-billones-recuperara-526-kilometros-de-via-ferrea-en-colombia/",
-        "resumen": "El cierre financiero garantiza la financiación de las obras contempladas en este corredor férreo.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Megaproyecto La Dorada – Chiriguaná asegura financiación de $2,01 billones: recuperará 526 kilómetros de vía férrea en Colombia",
-        "capturado": "2026-11-18T14:18:17-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Más de 1.000 tenderos piden al Gobierno y al Congreso frenar los impuestos saludables",
+        "url": "https://www.valoraanalitik.com/mas-de-1-000-tenderos-piden-al-gobierno-y-al-congreso-frenar-los-impuestos-saludables/",
+        "resumen": "Los comerciantes advierten que estos gravámenes afectan las ventas, la rentabilidad de las tiendas de barrio y el bolsillo de los consumidores.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Más de 1.000 tenderos piden al Gobierno y al Congreso frenar los impuestos saludables",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Samsung aumentará su inversión en el deporte en 2027 con foco en salud y tecnología según entrevista",
+        "url": "https://www.valoraanalitik.com/samsung-ampliara-su-inversion-en-el-deporte-en-2027/",
+        "resumen": "Samsung proyecta continuar sus inversiones deportivas en 2027 y fortalecer el uso de relojes inteligentes para monitorear el rendimiento físico.",
+        "autor": "",
+        "subseccion": "Valorasports",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Samsung ampliará su inversión en el deporte en 2027 con foco en salud y tecnología",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Grupo Argos vende acciones de Cementos Argos para aumentar flotante y entrar a MSCI Standard",
+        "url": "https://www.valoraanalitik.com/grupo-argos-vende-acciones-cementos-argos-aumentar-flotante-entrar-a-msci-standard/",
+        "resumen": "El ‘holding’ de infraestructura mantendrá el control de la cementera, con aproximadamente un 52,2 %.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Grupo Argos vende acciones de Cementos Argos para aumentar flotante y entrar a MSCI Standard",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Gasoducto Antonio Ricaurte estaría listo entre 12 y 24 meses según Naturgas",
+        "url": "https://www.valoraanalitik.com/gasoducto-antonio-ricaurte-podria-estar-listo-en-un-plazo-de-entre-12-y-24-meses-naturgas/",
+        "resumen": "La recuperación de la infraestructura, que conecta a Colombia con Venezuela, requiere intervenciones técnicas y la reconstrucción de algunos tramos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Gasoducto Antonio Ricaurte podría estar listo en un plazo de entre 12 y 24 meses: Naturgas",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Diésel, jet fuel y carbón subirían de precio por la aplicación del impuesto al carbono",
+        "url": "https://www.valoraanalitik.com/diesel-jet-fuel-y-carbon-se-encarecerian-con-la-aplicacion-del-impuesto-al-carbono/",
+        "resumen": "Andeg también dijo que habría un efecto neto negativo de $3,8 billones, mayor presión fiscal en subsidios por posibles aumentos en la tarifa de energía.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Diésel, jet fuel y carbón se encarecerían con la aplicación del impuesto al carbono",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "GOU Payments y zulu habilitan red de pagos inmediatos empresarial para giros de hasta $250 millones",
+        "url": "https://www.valoraanalitik.com/gou-payments-y-zulu-lanzan-red-de-pagos-instantaneos-para-empresas-en-colombia-permitira-transferencias-de-hasta-250-millones/",
+        "resumen": "Las empresas colombianas pueden enviar pagos inmediatos de hasta $250 millones, 24 horas al día y 7 días a la semana, a una red inicial de más de 15 bancos.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "GOU Payments y zulu lanzan red de pagos instantáneos para empresas en Colombia: permitirá transferencias de hasta $250 millones",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito inaugura su primer establecimiento de remates en Bogotá con rebajas fijas de hasta 60 %",
+        "url": "https://www.valoraanalitik.com/grupo-exito-outlet-bogota-descuentos/",
+        "resumen": "El establecimiento estará en el sector del 20 de Julio y ofrecerá productos de tecnología, electrodomésticos, moda, hogar, juguetería y deportes.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Éxito abre su primera tienda de outlet en Bogotá; ofrecerá descuentos permanentes de hasta 60 %",
+        "capturado": "2026-11-20T18:55:18-05:00"
+      },
       {
         "titulo": "Alianza de Seguros Sura con BeatHub para patrocinar DAVIarena y El Corazón de Bogotá Arena",
         "url": "https://www.valoraanalitik.com/seguros-sura-alianza-beathub/",
@@ -1135,76 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Negocio de ‘fracking’ de Ecopetrol en EE. UU. tuvo su menor producción en más de dos años: estas fueron las razones",
         "capturado": "2026-11-17T14:41:57-05:00"
-      },
-      {
-        "titulo": "Inicia el debate sobre el salario mínimo en Colombia para 2027 y se fijan los plazos de las charlas",
-        "url": "https://www.valoraanalitik.com/ahora-empieza-la-discusion-del-salario-minimo-en-colombia-de-2027-estos-seran-los-tiempos-de-negociacion/",
-        "resumen": "Como parte de la preparación, el Gobierno ya tuvo una mesa de trabajo con entidades económicas para revisar los indicadores que servirán de base.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Empieza la discusión del salario mínimo en Colombia de 2027: estos serán los tiempos de negociación",
-        "capturado": "2026-11-17T14:41:57-05:00"
-      },
-      {
-        "titulo": "Vassar vuelve con feria de Navidad: Espera ventas por $14.000 millones con 400 marcas en Bogotá",
-        "url": "https://www.valoraanalitik.com/vassar-regresa-con-festival-navideno-proyecta-14-000-millones-en-facturacion-con-400-marcas-en-su-feria-de-bogota/",
-        "resumen": "La organización pretende convertir el espacio en un punto de encuentro para los visitantes y, al mismo tiempo, ofrecer oportunidades de crecimiento.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Vassar regresa con festival navideño: Proyecta $14.000 millones en facturación con 400 marcas en su feria de Bogotá",
-        "capturado": "2026-11-16T20:59:05-05:00"
-      },
-      {
-        "titulo": "Entrevista | Ternium Colombia solicita paridad en mercado de acero, confianza hacia 2027 y labores",
-        "url": "https://www.valoraanalitik.com/entrevista-ternium-colombia-pide-igualdad-de-condiciones-en-comercio-de-acero-optimismo-para-2027-y-frentes-de-trabajo/",
-        "resumen": "Sobre el 2027, el presidente de Ternium Colombia explicó que están optimistas, pero el país debe trabajar en varios frentes.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Ternium Colombia pide igualdad de condiciones en comercio de acero: optimismo para 2027 y frentes de trabajo",
-        "capturado": "2026-11-16T13:13:03-05:00"
-      },
-      {
-        "titulo": "Norma de Salvamento Financiero: compañías tendrán que recalcular sus gastos y presupuestos para 2027",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-economico-empresas-deberan-recalcular-sus-costos-y-presupuestos-para-2027/",
-        "resumen": "El análisis cobra relevancia porque las empresas están definiendo sus presupuestos y decisiones de inversión para 2027.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ley de Rescate Económico: empresas deberán recalcular sus costos y presupuestos para 2027",
-        "capturado": "2026-11-15T19:54:04-05:00"
-      },
-      {
-        "titulo": "Eurofarma destaca a Colombia entre sus mercados con mejor rendimiento y alta proyección",
-        "url": "https://www.valoraanalitik.com/colombia-es-uno-de-los-mercados-con-mejor-desempeno-y-mayor-proyeccion-de-eurofarma/",
-        "resumen": "La operación en Colombia adquiere un peso protagónico por sus ventas locales récord, capacidad como centro de manufactura y plataforma de exportación.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia es uno de los mercados con mejor desempeño y mayor proyección de Eurofarma",
-        "capturado": "2026-11-15T15:55:38-05:00"
-      },
-      {
-        "titulo": "Trámites ambientales retrasan proyectos fundamentales desde Colectora hasta Sirius",
-        "url": "https://www.valoraanalitik.com/estos-son-los-proyectos-clave-que-enfrentan-demoras-por-tramites-ambientales/",
-        "resumen": "Un informe de Corficolombiana propone un modelo de acuerdos claros articulado para destrabar su avance.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "De Colectora a Sirius: Estos son los proyectos clave que enfrentan demoras por trámites ambientales",
-        "capturado": "2026-11-15T15:55:38-05:00"
-      },
-      {
-        "titulo": "Entrevista l El relato del restaurante local que destinó US$2,5 millones en Miami y ya obtuvo US$1,2 millones de ganancias",
-        "url": "https://www.valoraanalitik.com/entrevista-l-la-historia-del-restaurante-colombiano-que-invirtio-us25-millones-en-miami-y-ya-genero-us12-millones-en-utilidades/",
-        "resumen": "En diálogo con Valora Analitik, Andrés González, CEO de Monark Hospitality y presidente de Evedesa Group, reveló los resultados de Casa D Miami.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista l La historia del restaurante colombiano que invirtió US$2,5 millones en Miami y ya generó US$1,2 millones en utilidades",
-        "capturado": "2026-11-15T10:31:20-05:00"
       }
     ]
   }
