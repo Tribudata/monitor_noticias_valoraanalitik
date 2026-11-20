@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-19T20:07:32-05:00",
-  "nuevos_en_esta_corrida": 19,
+  "actualizado": "2026-11-20T04:00:23-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "De la Espriella desaprueba alocución de Petro en protestas y advierte un probable golpe de Estado",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-rechaza-discurso-de-petro-en-marchas-denuncia-posible-golpe-de-estado/",
+        "resumen": "Cuestionó cualquier intento de desconocer el orden constitucional o promover un golpe de Estado.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "De la Espriella rechaza discurso de Petro en marchas: denuncia posible golpe de Estado",
+        "capturado": "2026-11-20T04:00:23-05:00"
+      },
+      {
+        "titulo": "Ignacio Gaitán asumirá la presidencia de Aliadas en reemplazo de María Claudia Lacouture",
+        "url": "https://www.valoraanalitik.com/ignacio-gaitan-de-afidro-sera-el-presidente-de-aliadas-tras-salida-de-maria-claudia-lacouture/",
+        "resumen": "Gaitán se desempeñaba como vicepresidente de la alianza, y ahora liderará la agenda que se mantiene con el Gobierno Nacional y el Congreso de la República.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Ignacio Gaitán de Afidro será el presidente de Aliadas tras salida de María Claudia Lacouture",
+        "capturado": "2026-11-20T04:00:23-05:00"
+      },
       {
         "titulo": "Bogotá habilita la estación inicial de carga totalmente eléctrica para articulados",
         "url": "https://www.valoraanalitik.com/bogota-pone-en-marcha-el-primer-patio-de-recarga-100-electrico-para-buses-troncales/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Rendimientos a clientes del sistema financiero cayeron con corte a septiembre: se ubicaron en $87 billones",
         "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Antioquia Gold destina más de US$6 millones a la actualización de su mina en el país",
-        "url": "https://www.valoraanalitik.com/antioquia-gold-invierte-mas-de-us6-millones-para-modernizar-su-operacion-minera-en-colombia/",
-        "resumen": "Antioquia Gold inició su producción hace siete años y busca consolidar su operación mediante la incorporación de tecnología de última generación.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Antioquia Gold invierte más de US$6 millones para modernizar su operación minera en Colombia",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Corex, propietaria de Cerro Matoso, alista nuevos dineros en el país y el Ejecutivo adopta acciones",
-        "url": "https://www.valoraanalitik.com/cerro-matoso-prepara-nuevas-inversiones-en-colombia-gobierno-anuncia-medidas-para-destrabar-proyectos/",
-        "resumen": "Restrepo señaló que el interés de Corex evidencia una recuperación de la confianza inversionista en el sector minero colombiano.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Corex, dueña de Cerro Matoso, prepara nuevas inversiones en Colombia: Gobierno anuncia medidas para destrabar proyectos",
-        "capturado": "2026-11-17T21:16:27-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Ignacio Gaitán asumirá la presidencia de Aliadas en reemplazo de María Claudia Lacouture",
+        "url": "https://www.valoraanalitik.com/ignacio-gaitan-de-afidro-sera-el-presidente-de-aliadas-tras-salida-de-maria-claudia-lacouture/",
+        "resumen": "Gaitán se desempeñaba como vicepresidente de la alianza, y ahora liderará la agenda que se mantiene con el Gobierno Nacional y el Congreso de la República.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Ignacio Gaitán de Afidro será el presidente de Aliadas tras salida de María Claudia Lacouture",
+        "capturado": "2026-11-20T04:00:23-05:00"
+      },
       {
         "titulo": "Camilo Morales asumió como presidente encargado de Naturgas tras la llegada de Luz Stella Murgas a la ANDI",
         "url": "https://www.valoraanalitik.com/camilo-morales-fue-designado-presidente-e-de-naturgas-tras-paso-de-luz-stella-murgas-a-la-presidencia-de-la-andi/",
@@ -1195,16 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Megaproyecto eólico de Ecopetrol en La Guajira llega a 25 % de avance: así va la empresa en energías renovables",
         "capturado": "2026-11-14T10:58:38-05:00"
-      },
-      {
-        "titulo": "EE. UU. reanuda operaciones aéreas tras cuatro horas pero cancelaciones seguirán todo el fin de semana",
-        "url": "https://www.valoraanalitik.com/ee-uu-levanta-suspension-de-vuelos-a-nivel-nacional-por-razones-de-seguridad/",
-        "resumen": "La Administración Federal de Aviación había argumentado «circunstancias extraordinarias» para tomar la determinación.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | EE. UU. levanta suspensión de vuelos tras cuatro horas; cancelaciones se extenderán durante el fin de semana",
-        "capturado": "2026-11-13T21:08:23-05:00"
       }
     ]
   }
