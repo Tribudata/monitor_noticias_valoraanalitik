@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-21T10:12:25-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-21T16:00:09-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Planta de Ternium México iniciará operaciones en 2027 tras destinar US$4.000 millones en su tercera fase",
+        "url": "https://www.valoraanalitik.com/aceria-de-ternium-mexico-se-prepara-para-arrancar-en-2027-tras-inversion-de-us4-000-millones-en-tercera-etapa/",
+        "resumen": "Valora Analitik fue uno de los medios invitados para un recorrido por el lugar, dónde César Jiménez, presidente de Ternium México, explicó los detalles.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Acería de Ternium México se prepara para arrancar en 2027 tras inversión de US$4.000 millones en tercera etapa",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
+      {
+        "titulo": "ANI habilita 106 kilómetros viales entre Neiva, Pitalito y San Agustín luego de invertir $376.843 millones",
+        "url": "https://www.valoraanalitik.com/ani-pone-en-operacion-106-kilometros-de-via-entre-neiva-pitalito-y-san-agustin-tras-inversion-de-376-843-millones/",
+        "resumen": "La entrega comprende la rehabilitación de 101 km de vía existente, la variante de Timaná de 3,7 km y un tercer carril de 1 km en La Jagua.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "ANI pone en operación 106 kilómetros de vía entre Neiva, Pitalito y San Agustín tras inversión de $376.843 millones",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
+      {
+        "titulo": "Exclusiva | NG Energy y socios suministrarían hasta 20 % del gas colombiano y prevén llegar a Venezuela",
+        "url": "https://www.valoraanalitik.com/ng-energy-y-sus-socios-podrian-aportar-hasta-20-del-gas-que-consume-colombia-la-empresa-espera-entrar-en-venezuela/",
+        "resumen": "Jorge Fonseca, presidente de NG Energy, reveló algunos detalles de su incursión en el mercado con las mayores reservas de petróleo y gas del mundo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Exclusiva | NG Energy y sus socios podrían aportar hasta 20 % del gas que consume Colombia; la empresa espera entrar en Venezuela",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
+      {
+        "titulo": "Dubái facilita la entrada a compañías latinoamericanas impulsando el café de Brasil y Colombia",
+        "url": "https://www.valoraanalitik.com/dubai-abre-la-puerta-a-empresas-latinoamericanas-con-el-cafe-como-bandera-desde-brasil-y-colombia/",
+        "resumen": "El DMCC tiene hoy unas 300 empresas latinoamericanas entre sus miembros, de las cuales cerca de 200 son brasileñas.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Dubái abre la puerta a empresas latinoamericanas con el café como bandera desde Brasil y Colombia",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
+      {
+        "titulo": "Netflix define el día de estreno para su suscripción con publicidad en el territorio colombiano",
+        "url": "https://www.valoraanalitik.com/netflix-tiene-lista-la-fecha-para-lanzamiento-del-plan-con-anuncios-en-colombia/",
+        "resumen": "Colombia y Perú serán los únicos mercados latinoamericanos del primer grupo de lanzamientos del plan que permite publicidad durante las emisiones de contenido.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Netflix tiene lista la fecha para lanzamiento del plan con anuncios en Colombia",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
       {
         "titulo": "Fasecolda y Asofondos detallan los efectos pensionales por frenar el decreto del deslizamiento salarial",
         "url": "https://www.valoraanalitik.com/que-cambia-para-las-pensiones-tras-la-suspension-del-decreto-sobre-el-deslizamiento-del-salario-minimo-fasecolda-y-asofondos-explican/",
@@ -553,59 +603,79 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno de De la Espriella buscará aval del Congreso para operaciones conjuntas con EE. UU. en Colombia",
         "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Desde 2011, Colfondos acumula $43,8 billones en ganancias para afiliados y resalta en portafolios",
-        "url": "https://www.valoraanalitik.com/colfondos-rendimientos-afiliados-35-anos/",
-        "resumen": "La administradora tiene $76,2 billones en activos administrados y más de 2,3 millones de afiliados. Celebra 35 años en el país.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Colfondos ha generado $43,8 billones en rendimientos para sus afiliados desde 2011; destacó liderazgo en portafolios",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense sube en su apertura y roza picos de dos meses; expertos ven pausa en tasas",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-al-alza-y-se-acerca-a-maximos-de-dos-meses-analistas-preven-pausa-en-tasas-de-interes/",
-        "resumen": "JP Tactical Trading señaló quese puede hablar de una continuidad en el impulso comprador tras la ruptura observada el miércoles.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia abre al alza y se acerca a máximos de dos meses; analistas prevén pausa en tasas de interés",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella concluye Milagro Week sumando US$43.205 millones en compromisos de inversión y financiación",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-cierra-milagro-week-con-us43-205-millones-en-compromisos-de-inversion-y-financiacion/",
-        "resumen": "La agenda continuará con la próxima Milagro Week, que se realizará en Madrid en marzo de 2027.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella cierra Milagro Week con US$43.205 millones en compromisos de inversión y financiación",
-        "capturado": "2026-11-19T04:18:29-05:00"
-      },
-      {
-        "titulo": "Colectividades Verde y Liberal imponen condiciones al Ejecutivo frente a su proyecto de reforma tributaria",
-        "url": "https://www.valoraanalitik.com/partidos-verde-y-liberal-trazan-lineas-rojas-al-gobierno-por-su-propuesta-de-tributaria/",
-        "resumen": "Aunque el Gobierno anunció ajustes al proyecto de ley, las mayorías legislativas advierten que no permitirán impuestos a la canasta familiar.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Partidos Verde y Liberal trazan ‘líneas rojas’ al Gobierno por su propuesta de tributaria",
-        "capturado": "2026-11-18T20:23:32-05:00"
-      },
-      {
-        "titulo": "Destacado | Germán Bahamón de Fedecafé asumirá la presidencia del Consejo Gremial Nacional",
-        "url": "https://www.valoraanalitik.com/relevante-german-bahamon-de-fedecafe-sera-el-nuevo-presidente-del-consejo-gremial-nacional/",
-        "resumen": "La designación pondrá al dirigente cafetero al frente de uno de los principales espacios de representación del sector empresarial colombiano.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Germán Bahamón de Fedecafé será el nuevo presidente del Consejo Gremial Nacional",
-        "capturado": "2026-11-18T20:23:32-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Hospedaje en Provenza con gastronomía, entretenimiento y relajación en un solo lugar",
+        "url": "https://www.valoraanalitik.com/el-hotel-en-provenza-que-ofrece-descanso-gastronomia-y-diversion-sin-salir-del-edificio/",
+        "resumen": "El hotel cuenta con 35 habitaciones y recepción las 24 horas, y los huéspedes pueden elegir entre tres tipos de habitación.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "El hotel en Provenza que ofrece descanso, gastronomía y diversión sin salir del edificio",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
+      {
+        "titulo": "Avianca ajusta asientos y aviones ante límites operativos en terminales de Bogotá y Medellín",
+        "url": "https://www.valoraanalitik.com/avianca-habilito-sillas-y-cambios-a-aeronaves-de-mayor-capacidad-tras-restricciones-en-aeropuertos-de-bogota-y-medellin/",
+        "resumen": "Avianca implementó un plan de contingencia para acelerar la recuperación de la red y facilitar los desplazamientos de sus clientes.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Avianca habilitó sillas y cambios a aeronaves de mayor capacidad tras restricciones en aeropuertos de Bogotá y Medellín",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
+      {
+        "titulo": "Planta de Ternium México iniciará operaciones en 2027 tras inyectar US$4.000 millones",
+        "url": "https://www.valoraanalitik.com/aceria-de-ternium-mexico-se-prepara-para-arrancar-en-2027-tras-inversion-de-us4-000-millones-en-tercera-etapa/",
+        "resumen": "Valora Analitik fue uno de los medios invitados para un recorrido por el lugar, dónde César Jiménez, presidente de Ternium México, explicó los detalles.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Acería de Ternium México se prepara para arrancar en 2027 tras inversión de US$4.000 millones en tercera etapa",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
+      {
+        "titulo": "Qurable arriba a Colombia con IA para retener clientes e invertirá US$5 millones en centro",
+        "url": "https://www.valoraanalitik.com/qurable-llega-a-colombia-con-agentes-de-ia-que-fidelizan-clientes-en-tiempo-real-invertira-us5-millones-para-hub-de-operaciones/",
+        "resumen": "La plataforma de Qurable usa agentes de IA que analizan en tiempo real cada compra y cada interacción del cliente",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Qurable llega a Colombia con agentes de IA que fidelizan clientes en tiempo real: invertirá US$5 millones para hub de operaciones",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
+      {
+        "titulo": "NG Energy y aliados prevén surtir hasta 20 % del gas nacional y miran hacia Venezuela",
+        "url": "https://www.valoraanalitik.com/ng-energy-y-sus-socios-podrian-aportar-hasta-20-del-gas-que-consume-colombia-la-empresa-espera-entrar-en-venezuela/",
+        "resumen": "Jorge Fonseca, presidente de NG Energy, reveló algunos detalles de su incursión en el mercado con las mayores reservas de petróleo y gas del mundo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Exclusiva | NG Energy y sus socios podrían aportar hasta 20 % del gas que consume Colombia; la empresa espera entrar en Venezuela",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
+      {
+        "titulo": "Dubái recibe a firmas de Latinoamérica impulsando el grano cafetero de Colombia y Brasil",
+        "url": "https://www.valoraanalitik.com/dubai-abre-la-puerta-a-empresas-latinoamericanas-con-el-cafe-como-bandera-desde-brasil-y-colombia/",
+        "resumen": "El DMCC tiene hoy unas 300 empresas latinoamericanas entre sus miembros, de las cuales cerca de 200 son brasileñas.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Dubái abre la puerta a empresas latinoamericanas con el café como bandera desde Brasil y Colombia",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
+      {
+        "titulo": "Netflix ya definió el día de llegada de su alternativa con publicidad a territorio colombiano",
+        "url": "https://www.valoraanalitik.com/netflix-tiene-lista-la-fecha-para-lanzamiento-del-plan-con-anuncios-en-colombia/",
+        "resumen": "Colombia y Perú serán los únicos mercados latinoamericanos del primer grupo de lanzamientos del plan que permite publicidad durante las emisiones de contenido.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Netflix tiene lista la fecha para lanzamiento del plan con anuncios en Colombia",
+        "capturado": "2026-11-21T16:00:09-05:00"
+      },
       {
         "titulo": "Negocios corporativos en Colombia rebasan los US$11.400 millones en 2026, a pesar del descenso del 20 % en tratos",
         "url": "https://www.valoraanalitik.com/transacciones-empresariales-colombia-2026/",
@@ -1134,76 +1204,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Bogotá entregará incentivos de hasta $10 millones a comerciantes afectados por incendio del GranSan",
-        "capturado": "2026-11-17T14:41:57-05:00"
-      },
-      {
-        "titulo": "Collective Mining destinará 100 millones de dólares más para labores mineras en el país: conozca los datos",
-        "url": "https://www.valoraanalitik.com/collective-mining-invertira-us100-millones-adicionales-para-exploracion-minera-en-colombia-estos-son-los-detalles/",
-        "resumen": "La compañía lleva seis años operando en Colombia, donde ha concentrado sus actividades de exploración en Caldas.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Collective Mining invertirá US$100 millones adicionales para exploración minera en Colombia: estos son los detalles",
-        "capturado": "2026-11-17T14:41:57-05:00"
-      },
-      {
-        "titulo": "El gas del exterior supera las estimaciones y ya abarca el 44 % del suministro interno",
-        "url": "https://www.valoraanalitik.com/gas-importado-rompe-el-techo-de-las-proyecciones-y-ya-representa-44-de-la-oferta-local/",
-        "resumen": "Pese a que no es nuevo que el país importe parte del gas que consume, sí lo es la velocidad con la cual están creciendo este tipo de importaciones.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gas importado rompe el techo de las proyecciones y ya representa 44 % de la oferta local",
-        "capturado": "2026-11-17T14:41:57-05:00"
-      },
-      {
-        "titulo": "Para 2027 se abrirían concursos públicos en el país por dos enormes terminales aéreas y una vía multimillonaria",
-        "url": "https://www.valoraanalitik.com/dos-mega-aeropuertos-y-una-billonaria-carretera-licitarian-colombia-2027/",
-        "resumen": "El CEO de Grupo Argos, Juan Esteban Calle, aseguró que la empresa tiene alta expectativa de que estos proyectos salgan a contratación el próximo año.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Dos mega aeropuertos y una billonaria carretera saldrían a licitación en Colombia en 2027",
-        "capturado": "2026-11-17T14:41:57-05:00"
-      },
-      {
-        "titulo": "Podcast | ¿Qué activará el repunte de vivienda en 2027? Bancolombia evalúa las proyecciones del sector",
-        "url": "https://www.valoraanalitik.com/podcast-que-impulsara-la-recuperacion-de-vivienda-en-2027-bancolombia-analiza-las-perspectivas-del-mercado/",
-        "resumen": "Federico Suárez, vicepresidente del Negocio Inmobiliario y Constructor de Bancolombia, habló sobre el panorama actual del mercado de vivienda entre otros temas.",
-        "autor": "",
-        "subseccion": "Bancolombia",
-        "publicacion": "",
-        "titulo_fuente": "Podcast | ¿Qué impulsará la recuperación de vivienda en 2027? Bancolombia analiza las perspectivas del mercado",
-        "capturado": "2026-11-17T14:41:57-05:00"
-      },
-      {
-        "titulo": "Cierra planta de Nestlé en Colombia productora de Saltinas, Cocosette y Morenitas",
-        "url": "https://www.valoraanalitik.com/fabrica-nestle-colombia-cerrara-operaciones/",
-        "resumen": "A partir de 2027, Colombia será la sede de la nueva Región Andina de Nestlé, integrada también por Ecuador, Bolivia y Perú.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fábrica de Nestlé en Colombia en la que se hacen Saltinas, Cocosette y Morenitas cerrará operaciones",
-        "capturado": "2026-11-17T14:41:57-05:00"
-      },
-      {
-        "titulo": "CREG adopta acciones contra El Niño ante aportes hídricos en mínimos históricos",
-        "url": "https://www.valoraanalitik.com/creg-refuerza-medidas-para-enfrentar-el-nino-embalses-registran-minimos-historicos-en-aportes-de-agua/",
-        "resumen": "Embalses enfrentan menores aportes de agua y Colombia acelera medidas para evitar riesgos energéticos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "CREG refuerza medidas para enfrentar El Niño: embalses registran mínimos históricos en aportes de agua",
-        "capturado": "2026-11-17T14:41:57-05:00"
-      },
-      {
-        "titulo": "Programa Adopta un Hogar de Grupo Argos inicia edificación de 92 casas en zonas sismizadas",
-        "url": "https://www.valoraanalitik.com/adopta-un-hogar-de-grupo-argos-inicio-la-construccion-de-92-viviendas-en-estos-corregimientos-afectados-por-el-terremoto/",
-        "resumen": "La iniciativa tiene previsto entregar las primeras 40 viviendas durante diciembre de 2026.",
-        "autor": "",
-        "subseccion": "Adopta un hogar",
-        "publicacion": "",
-        "titulo_fuente": "Adopta un Hogar de Grupo Argos inició la construcción de 92 viviendas en estos corregimientos afectados por el terremoto",
         "capturado": "2026-11-17T14:41:57-05:00"
       }
     ]
