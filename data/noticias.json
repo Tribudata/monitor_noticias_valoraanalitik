@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-21T01:38:16-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-21T10:12:25-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Fasecolda y Asofondos detallan los efectos pensionales por frenar el decreto del deslizamiento salarial",
+        "url": "https://www.valoraanalitik.com/que-cambia-para-las-pensiones-tras-la-suspension-del-decreto-sobre-el-deslizamiento-del-salario-minimo-fasecolda-y-asofondos-explican/",
+        "resumen": "El Decreto 1485 de 2025 modificaba las reglas para calcular el deslizamiento del salario mínimo en las rentas vitalicias y la participación del Estado.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "¿Qué cambia para las pensiones tras la suspensión del decreto sobre el deslizamiento del salario mínimo? Fasecolda y Asofondos explican",
+        "capturado": "2026-11-21T10:12:25-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo en alerta debido a bajos embalses justo antes del impacto fuerte del fenómeno de El Niño",
+        "url": "https://www.valoraanalitik.com/gobierno-prende-alarmas-por-menor-nivel-de-embalses-ad-portas-de-mayor-golpe-del-fenomeno-de-el-nino/",
+        "resumen": "Lo anterior, explicó la jefe de cartera, derivado de la ausencia de lluvias y el aumento de la temperatura.",
+        "autor": "",
+        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno prende alarmas por menor nivel de embalses ad portas de mayor golpe del fenómeno de El Niño",
+        "capturado": "2026-11-21T10:12:25-05:00"
+      },
+      {
+        "titulo": "Negocios corporativos en Colombia rebasan US$11.400 millones en 2026, pese a retroceder 20 % en acuerdos",
+        "url": "https://www.valoraanalitik.com/transacciones-empresariales-colombia-2026/",
+        "resumen": "El capital movilizado en fusiones y adquisiciones aumentó 59 % a septiembre. Software, energía, petróleo y banca, entre los sectores con mayor actividad.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Transacciones empresariales en Colombia superan US$11.400 millones en 2026, pese a caída de 20 % en operaciones",
+        "capturado": "2026-11-21T10:12:25-05:00"
+      },
       {
         "titulo": "Chile vuelve a comprar carne bovina colombiana y proyecta ventas externas por US$27 millones al 2027",
         "url": "https://www.valoraanalitik.com/colombia-reabre-mercado-chileno-para-la-carne-bovina-y-proyecta-exportaciones-por-us27-millones-en-2027/",
@@ -573,39 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Relevante | Germán Bahamón de Fedecafé será el nuevo presidente del Consejo Gremial Nacional",
         "capturado": "2026-11-18T20:23:32-05:00"
-      },
-      {
-        "titulo": "Ban100 excede $1,24 billones en titularizaciones tras reciente emisión de $70.000 millones",
-        "url": "https://www.valoraanalitik.com/ban100-supera-12-billones-titularizaciones/",
-        "resumen": "La entidad también lanzó una cuenta de ahorros digital con una rentabilidad de 11 % efectivo anual sin cuota de manejo.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Ban100 supera $1,24 billones en titularizaciones tras nueva emisión de $70.000 millones",
-        "capturado": "2026-11-18T20:23:32-05:00"
-      },
-      {
-        "titulo": "Fenalcarbón solicita al Gobierno una modificación paulatina del tributo al carbono para prevenir efectos en costos",
-        "url": "https://www.valoraanalitik.com/fenalcarbon-pide-al-gobierno-un-ajuste-gradual-del-impuesto-al-carbono-para-evitar-impacto-en-costos-de-la-industria/",
-        "resumen": "El gremio advirtió que el aumento propuesto en el proyecto de ley de rescate económico elevaría el tributo a más de $212.000 por tonelada de carbón en 2029.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Fenalcarbón pide al Gobierno un ajuste gradual del impuesto al carbono para evitar impacto en costos de la industria",
-        "capturado": "2026-11-18T20:23:32-05:00"
-      },
-      {
-        "titulo": "Arranca la puja por el salario mínimo de 2027: este es el incremento que facilitaría el acuerdo",
-        "url": "https://www.valoraanalitik.com/empieza-la-puja-por-el-salario-minimo-de-2027-este-es-el-aumento-que-podria-destrabar-la-negociacion/",
-        "resumen": "La negociación del salario mínimo de 2027 arranca con posiciones enfrentadas y una advertencia sobre el límite del aumento que soportaría la economía.",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Empieza la puja por el salario mínimo de 2027: este es el aumento que podría destrabar la negociación",
-        "capturado": "2026-11-18T20:23:32-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Negocios corporativos en Colombia rebasan los US$11.400 millones en 2026, a pesar del descenso del 20 % en tratos",
+        "url": "https://www.valoraanalitik.com/transacciones-empresariales-colombia-2026/",
+        "resumen": "El capital movilizado en fusiones y adquisiciones aumentó 59 % a septiembre. Software, energía, petróleo y banca, entre los sectores con mayor actividad.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Transacciones empresariales en Colombia superan US$11.400 millones en 2026, pese a caída de 20 % en operaciones",
+        "capturado": "2026-11-21T10:12:25-05:00"
+      },
       {
         "titulo": "Rappi robustece beneficios a usuarios al sumar socios de fidelización e incursionar en turismo",
         "url": "https://www.valoraanalitik.com/rappi-fortalece-recompensas-clientes-viajes/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Adopta un hogar",
         "publicacion": "",
         "titulo_fuente": "Adopta un Hogar de Grupo Argos inició la construcción de 92 viviendas en estos corregimientos afectados por el terremoto",
-        "capturado": "2026-11-17T14:41:57-05:00"
-      },
-      {
-        "titulo": "Entrevista | Grupo Trinity resalta rapidez del actual Gobierno colombiano en restaurar confianza",
-        "url": "https://www.valoraanalitik.com/grupo-trinity-destaca-celeridad-del-nuevo-gobierno-de-colombia-en-recuperar-confianza-en-el-pais/",
-        "resumen": "Iván Trujillo, CEO del Grupo, presentó un balance de los resultados del 2026 y los hitos marcados por la compañía.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Grupo Trinity destaca celeridad del nuevo Gobierno de Colombia en recuperar confianza en el país",
         "capturado": "2026-11-17T14:41:57-05:00"
       }
     ]
