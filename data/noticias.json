@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-21T16:00:09-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-11-21T20:10:02-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Retroceso inversor y menor consumo: Radiografía del producto interno bruto nacional",
+        "url": "https://www.valoraanalitik.com/caida-de-la-inversion-y-desaceleracion-del-gasto-radiografia-del-pib-de-colombia/",
+        "resumen": "Los resultados del tercer trimestre han llevado a las principales firmas de análisis a ajustar a la baja sus expectativas para este año y el próximo.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Caída de la inversión y desaceleración del gasto: Radiografía del PIB de Colombia",
+        "capturado": "2026-11-21T20:10:02-05:00"
+      },
+      {
+        "titulo": "Tributo predial en el país contaría con recientes auxilios: estas son las opciones",
+        "url": "https://www.valoraanalitik.com/impuesto-predial-en-colombia-podria-tener-nuevos-alivios-estas-son-las-alternativas/",
+        "resumen": "¿Le llegó más caro el recibo del impuesto predial? En Colombia, las alcaldías tienen herramientas para moderar el cobro y facilitar el pago a los propietarios.",
+        "autor": "",
+        "subseccion": "Impuesto predial",
+        "publicacion": "",
+        "titulo_fuente": "Impuesto predial en Colombia podría tener nuevos alivios: estas son las alternativas",
+        "capturado": "2026-11-21T20:10:02-05:00"
+      },
       {
         "titulo": "Planta de Ternium México iniciará operaciones en 2027 tras destinar US$4.000 millones en su tercera fase",
         "url": "https://www.valoraanalitik.com/aceria-de-ternium-mexico-se-prepara-para-arrancar-en-2027-tras-inversion-de-us4-000-millones-en-tercera-etapa/",
@@ -582,26 +602,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "Alta expectativa por llegada de Revolut a Colombia; lista de espera sería la más grande que ha tenido el banco",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Banco AV Villas prevé ganancias para 2026 tras un cuatrienio y analiza costo de vida e ingreso básico",
-        "url": "https://www.valoraanalitik.com/av-villas-generara-utilidades-en-2026-luego-de-cuatro-anos-habla-de-expectativas-sobre-inflacion-y-salario-minimo/",
-        "resumen": "Frente a la reforma tributaria, Hernández consideró que el proyecto terminará teniendo modificaciones frente a la propuesta inicial del Gobierno Nacional.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "AV Villas generará utilidades en 2026 luego de cuatro años; habla de expectativas sobre inflación y salario mínimo",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Administración de De la Espriella pedirá permiso al legislativo para misiones conjuntas con EE. UU.",
-        "url": "https://www.valoraanalitik.com/gobierno-de-de-la-espriella-buscara-aval-del-congreso-para-operaciones-conjuntas-con-ee-uu-en-colombia/",
-        "resumen": "El anuncio se produjo tras la reunión que sostuvo Bula con el secretario de Guerra estadounidense, Pete Hegseth.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno de De la Espriella buscará aval del Congreso para operaciones conjuntas con EE. UU. en Colombia",
         "capturado": "2026-11-19T13:32:50-05:00"
       }
     ],
