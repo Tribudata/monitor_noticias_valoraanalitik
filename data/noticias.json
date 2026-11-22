@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-22T03:40:15-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-22T11:59:34-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Colombia debe rescatar su soberanía energética: las seis propuestas de BCG",
+        "url": "https://www.valoraanalitik.com/colombia-necesita-recuperar-su-soberania-energetica-las-seis-medidas-que-propone-bcg/",
+        "resumen": "La discusión energética ya no puede concentrarse exclusivamente en la transición hacia fuentes más limpias, sino que debe incorporar otros dos factores.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Colombia necesita recuperar su soberanía energética: las seis medidas que propone BCG",
+        "capturado": "2026-11-22T11:59:34-05:00"
+      },
+      {
+        "titulo": "Pactar un acuerdo nacional y un ajuste fiscal paulatino: claves para enderezar a Colombia",
+        "url": "https://www.valoraanalitik.com/firmar-un-acuerdo-nacional-y-hacer-ajuste-fiscal-gradual-entre-las-acciones-estrategicas-para-corregir-el-rumbo-de-colombia/",
+        "resumen": "Las principales autoridades económicas coincidieron en revisar las reformas estructurales del gasto e implementar un paquete fiscal gradual y creíble.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Firmar un acuerdo nacional y hacer ajuste fiscal gradual: Entre las acciones estratégicas para corregir el rumbo de Colombia",
+        "capturado": "2026-11-22T11:59:34-05:00"
+      },
+      {
+        "titulo": "Ecopetrol anuncia fuerte inversión en EE. UU.: taladrará siete pozos nuevos",
+        "url": "https://www.valoraanalitik.com/ecopetrol-confirma-importante-inversion-en-estados-unidos-perforara-7-nuevos-pozos/",
+        "resumen": "La iniciativa busca compensar el impacto del recorte de taladros aplicado en 2025, cuando Ecopetrol pasó de operar con cuatro equipos a dos.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol confirma importante inversión en Estados Unidos: Perforará 7 nuevos pozos",
+        "capturado": "2026-11-22T11:59:34-05:00"
+      },
+      {
+        "titulo": "Entrevista | CDT con tasas de más del 13 %: gerente de MejorCDT habla sobre invertir",
+        "url": "https://www.valoraanalitik.com/entrevista-tasas-de-cdt-superiores-al-13-esto-dice-gerente-de-mejorcdt-sobre-el-momento-para-invertir/",
+        "resumen": "En dialogo con Valora Analitik, Omar Casas, gerente de MejorCDT, explica por qué es un buen momento para invertir en CDT y qué oportunidades hay.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Tasas de CDT superiores al 13 %: esto dice gerente de MejorCDT sobre el momento para invertir",
+        "capturado": "2026-11-22T11:59:34-05:00"
+      },
+      {
+        "titulo": "KMA Construcciones llega a 25 años y se afianza como la mayor firma de ingeniería colombiana: su historia",
+        "url": "https://www.valoraanalitik.com/kma-construcciones-cumple-25-anos-es-la-empresa-ingenieria-civil-mas-grande-colombia/",
+        "resumen": "Menzel Amín, presidente de la compañía, revela detalles de su trayectoria al frente de la firma y traza la ruta para las próximas décadas.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "KMA Construcciones cumple 25 años y se consolida como la empresa de ingeniería civil más grande de Colombia: esta es su historia",
+        "capturado": "2026-11-22T11:59:34-05:00"
+      },
       {
         "titulo": "Retroceso inversor y menor consumo: Radiografía del producto interno bruto nacional",
         "url": "https://www.valoraanalitik.com/caida-de-la-inversion-y-desaceleracion-del-gasto-radiografia-del-pib-de-colombia/",
@@ -553,59 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "MinHacienda busca modernizar el mercado de deuda pública en Colombia con bonos tokenizados",
         "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella detalla la forma de obtener el auxilio del 40 % de un salario mínimo por empleado",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-explica-como-acceder-al-subsidio-del-40-de-un-salario-minimo-por-trabajador/",
-        "resumen": "El subsidio por el terremoto puede representar hasta $700.362 mensuales por trabajador. Estos son los requisitos y los pasos que deben cumplir.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella explica cómo acceder al subsidio del 40 % de un salario mínimo por trabajador",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Colombia llega al punto máximo de El Niño con reservas hídricas bajo el porcentaje aconsejado",
-        "url": "https://www.valoraanalitik.com/colombia-se-acerca-al-pico-de-el-nino-con-embalses-por-debajo-del-nivel-recomendado/",
-        "resumen": "XM señaló que en lo que va de noviembre se están registrando mínimos históricos a nivel diario.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia se acerca al pico de El Niño con embalses por debajo del nivel recomendado",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Proyectos viales en Bogotá: los que entregará el mandatario distrital y los pendientes para su sucesor",
-        "url": "https://www.valoraanalitik.com/asi-avanzan-las-grandes-obras-de-bogota-cuales-entregara-galan-y-cuales-quedaran-para-el-proximo-alcalde/",
-        "resumen": "El próximo alcalde de Bogotá recibirá varios proyectos estratégicos en ejecución, entre ellos la primera línea del metro.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Así avanzan las grandes obras de Bogotá: ¿cuáles entregará Galán y cuáles quedarán para el próximo alcalde?",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Subida del tributo al carbono elevaría precios de vuelos y amenazaría capitales del sector energético",
-        "url": "https://www.valoraanalitik.com/alza-en-impuesto-al-carbono-encareceria-los-tiquetes-aereos-y-pondria-en-riesgo-las-inversiones-del-sector-energetico/",
-        "resumen": "Distintas voces se han pronunciado en contra del impuesto al carbono de la reforma tributaria y piden que los cambios se apliquen gradualmente.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Alza en impuesto al carbono encarecería los tiquetes aéreos y pondría en riesgo las inversiones del sector energético",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Fuerte interés por el arribo de Revolut al país; su lista de espera rompería récords históricos",
-        "url": "https://www.valoraanalitik.com/expectativa-revolut-colombia-lista-espera/",
-        "resumen": "La entidad bancaria, que ofrecerá sus servicios en Colombia desde 2027, ya opera en 40 países y planea llegar a 100 millones de usuarios globales.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Alta expectativa por llegada de Revolut a Colombia; lista de espera sería la más grande que ha tenido el banco",
-        "capturado": "2026-11-19T13:32:50-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Administración evalúa ocho decretos del trabajo y esto es lo que variaría para las compañías",
+        "url": "https://www.valoraanalitik.com/gobierno-revisa-ocho-decretos-laborales-y-esto-es-lo-que-podria-cambiar-para-las-empresas/",
+        "resumen": "La revisión busca ajustar la reglamentación, sin eliminar los derechos reconocidos en la Constitución, el Código Sustantivo del Trabajo o la reforma laboral.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno revisa ocho decretos laborales y esto es lo que podría cambiar para las empresas",
+        "capturado": "2026-11-22T11:59:34-05:00"
+      },
+      {
+        "titulo": "Ecopetrol ratifica gran inversión en EE. UU.: perforará siete pozos nuevos",
+        "url": "https://www.valoraanalitik.com/ecopetrol-confirma-importante-inversion-en-estados-unidos-perforara-7-nuevos-pozos/",
+        "resumen": "La iniciativa busca compensar el impacto del recorte de taladros aplicado en 2025, cuando Ecopetrol pasó de operar con cuatro equipos a dos.",
+        "autor": "",
+        "subseccion": "Ecopetrol",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol confirma importante inversión en Estados Unidos: Perforará 7 nuevos pozos",
+        "capturado": "2026-11-22T11:59:34-05:00"
+      },
+      {
+        "titulo": "KMA Construcciones celebra 25 años y se afianza como la mayor firma de ingeniería civil del país",
+        "url": "https://www.valoraanalitik.com/kma-construcciones-cumple-25-anos-es-la-empresa-ingenieria-civil-mas-grande-colombia/",
+        "resumen": "Menzel Amín, presidente de la compañía, revela detalles de su trayectoria al frente de la firma y traza la ruta para las próximas décadas.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "KMA Construcciones cumple 25 años y se consolida como la empresa de ingeniería civil más grande de Colombia: esta es su historia",
+        "capturado": "2026-11-22T11:59:34-05:00"
+      },
       {
         "titulo": "Hospedaje en Provenza con gastronomía, entretenimiento y relajación en un solo lugar",
         "url": "https://www.valoraanalitik.com/el-hotel-en-provenza-que-ofrece-descanso-gastronomia-y-diversion-sin-salir-del-edificio/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Antioquia Gold invierte más de US$6 millones para modernizar su operación minera en Colombia",
         "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Cerro Matoso alista recursos en Colombia y el Ejecutivo reporta acciones para destrabar obras",
-        "url": "https://www.valoraanalitik.com/cerro-matoso-prepara-nuevas-inversiones-en-colombia-gobierno-anuncia-medidas-para-destrabar-proyectos/",
-        "resumen": "Restrepo señaló que el interés de Corex evidencia una recuperación de la confianza inversionista en el sector minero colombiano.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Corex, dueña de Cerro Matoso, prepara nuevas inversiones en Colombia: Gobierno anuncia medidas para destrabar proyectos",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Videopodcast sobre la influencia de la innovación en los negocios y la eficiencia",
-        "url": "https://www.valoraanalitik.com/videopodcast-como-impacta-la-innovacion-en-las-empresas-y-en-la-productividad/",
-        "resumen": "Alberto Echeverri explica el rol del Venture Capital, el papel de la inteligencia artificial y cómo las nuevas empresas están transformando el sector.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Videopodcast | ¿Cómo impacta la innovación en las empresas y en la productividad?",
-        "capturado": "2026-11-17T21:16:27-05:00"
-      },
-      {
-        "titulo": "Bogotá dará subsidios de hasta 10 millones de pesos a negocios perjudicados por el fuego en el GranSan",
-        "url": "https://www.valoraanalitik.com/bogota-entregara-incentivos-de-hasta-10-millones-a-comerciantes-afectados-por-incendio-del-gransan/",
-        "resumen": "La Alcaldía de Bogotá anunció un paquete de ayudas económicas y acompañamiento empresarial para recuperar los negocios afectados por el incendio.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá entregará incentivos de hasta $10 millones a comerciantes afectados por incendio del GranSan",
-        "capturado": "2026-11-17T14:41:57-05:00"
       }
     ]
   }
