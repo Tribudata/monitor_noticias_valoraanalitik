@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-24T07:15:12-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-24T17:41:34-05:00",
+  "nuevos_en_esta_corrida": 23,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Inversión de 1,9 billones de pesos para grandes proyectos viales en Bogotá y Cundinamarca",
+        "url": "https://www.valoraanalitik.com/bogota-y-cundinamarca-tendran-megaobras-viales-por-19-billones-estos-corredores-seran-intervenidos/",
+        "resumen": "Las megaobras del proyecto ‘Accesos Norte Fase 2’ contemplan tres corredores clave para la conexión entre Bogotá y varios municipios de Cundinamarca.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá y Cundinamarca tendrán megaobras viales por $1,9 billones: estos corredores serán intervenidos",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Procuraduría imputa cargos a Armando Benedetti por investigación sobre la magistrada Cristina Lombana",
+        "url": "https://www.valoraanalitik.com/procuraduria-formula-pliego-de-cargos-contra-armando-benedetti-en-caso-de-magistrada-cristina-lombana/",
+        "resumen": "El órgano de control calificó provisionalmente la conducta atribuida al exministro como una falta grave cometida a título de dolo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Procuraduría formula pliego de cargos contra Armando Benedetti en caso de magistrada Cristina Lombana",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Fiducoldex destituyó a Andrés Guzmán de la presidencia luego de un proceso disciplinario",
+        "url": "https://www.valoraanalitik.com/fiducoldex-removio-andres-guzman-presidente/",
+        "resumen": "La fiduciaria garantizó que sus negocios fiduciarios continúan desarrollándose con absoluta normalidad.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Fiducoldex removió a Andrés Guzmán como presidente de la entidad tras realizar proceso disciplinario",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Empresa española de ópticas prepara crecimiento en territorio colombiano hacia 2027",
+        "url": "https://www.valoraanalitik.com/cadena-de-opticas-espanola-alista-expansion-en-colombia-para-2027/",
+        "resumen": "La cadena de ópticas española prepara su expansión en Colombia para 2027 y apuesta por ciudades intermedias, mientras advierte sobre los retos del sector.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cadena de ópticas española alista expansión en Colombia: estos son sus planes para 2027",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Desde diciembre, Andrés Orozco Álvarez tomará el liderazgo general de Roa Florhuila",
+        "url": "https://www.valoraanalitik.com/andres-orozco-nuevo-gerente-roa-florhuila/",
+        "resumen": "Reemplazará a Jaime Alberto Rojas Díaz. Llega desde Celema y cuenta con más de 20 años de experiencia en consumo masivo.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Andrés Orozco Álvarez asumirá la gerencia general de Roa Florhuila desde diciembre",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio en el país supera los $3.600 y alcanza cotizaciones inéditas desde mayo",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-rompe-la-barrera-de-los-3-600-y-toca-maximos-no-vistos-desde-finales-de-mayo/",
+        "resumen": "Este martes, la tasa de cambio abrió ligeramente al alza en $3.530 y marcó de inmediato su piso intradiario en $3.520.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia rompe la barrera de los $3.600 y toca máximos no vistos desde finales de mayo",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Inversionistas en Nueva York muestran interés por US$2.200 millones para el puerto de Urabá",
+        "url": "https://www.valoraanalitik.com/puerto-progreso-de-uraba-atrae-interes-de-inversion-por-us2-200-millones-en-nueva-york/",
+        "resumen": "Puerto Progreso contempla la participación de cuatro comunidades locales como accionistas de la concesión.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Puerto Progreso de Urabá atrae interés de inversión por US$2.200 millones en Nueva York",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Retienen a 30 personas en Cartagena en medio de un asalto",
+        "url": "https://www.valoraanalitik.com/exito-de-cartagena-30-personas-secuestradas-durante-intento-de-robo/",
+        "resumen": "En los alrededores del supermercado se desplegaron unidades de la Policía Nacional, la Armada, el Gaula Militar y las Fuerzas Especiales.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Éxito de Cartagena: 30 personas secuestradas durante intento de robo",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "BMW, MINI y BMW Motorrad abren dos nuevas vitrinas en el país con estos vehículos",
+        "url": "https://www.valoraanalitik.com/bmw-mini-y-bmw-motorrad-estrenan-dos-sedes-en-colombia-llegan-con-estos-modelos/",
+        "resumen": "El crecimiento de vehículos eléctricos e híbridos impulsa la apuesta de marcas prémium. Autogermana abrió nuevas sedes con modelos de BMW, MINI y Motorrad.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "BMW, MINI y BMW Motorrad estrenan dos sedes en Colombia: llegan con estos modelos",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Amazon inaugura su primer centro de datos en Bogotá para almacenamiento y procesamiento local",
+        "url": "https://www.valoraanalitik.com/amazon-abrio-en-bogota-su-primer-centro-de-datos-en-colombia-empresas-podran-procesar-y-guardar-informacion-en-el-pais/",
+        "resumen": "La infraestructura del datacenter promete latencias de menos de 10 milisegundos y ya la usan Bancolombia, Datacenter Colombia y Casa Toro",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Amazon abrió en Bogotá su primer centro de datos en Colombia: empresas podrán procesar y guardar información en el país",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Motivos detrás de las anomalías para escoger nueva Junta en la Cámara de Comercio de Bogotá y su denuncia",
+        "url": "https://www.valoraanalitik.com/irregularidades-nueva-junta-camara-bogota/",
+        "resumen": "Guillermo Botero, expresidente de Fenalco, consideró como “llamativo” el crecimiento de afiliados a la CCB en municipios de Cundinamarca y el sur de Bogotá.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "¿Qué hay detrás de las irregularidades para elegir nueva Junta en la Cámara de Comercio de Bogotá? Detalles de la denuncia",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "ANLA aprueba iniciativas petroleras en Meta y Casanare que abarcan hasta 75 pozos",
+        "url": "https://www.valoraanalitik.com/anla-proyectos-petroleros-casanare-meta/",
+        "resumen": "Los proyectos suman 2.685 hectáreas en medidas de compensación biótica y ecológica.",
+        "autor": "",
+        "subseccion": "Petróleo",
+        "publicacion": "",
+        "titulo_fuente": "ANLA da luz verde a proyectos petroleros en Casanare y Meta que contemplan hasta 75 pozos",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
       {
         "titulo": "Premercado | Mercados asiáticos suben por alza de Nvidia; bolsa europea cae y Wall Street mira a la FED",
         "url": "https://www.valoraanalitik.com/premercado-bolsas-de-asia-repuntan-tras-rally-de-nvidia-europa-retrocede-y-wall-street-atento-a-la-fed/",
@@ -483,129 +603,119 @@
         "publicacion": "",
         "titulo_fuente": "Nueva ley protege a colombianos de pagar créditos que nunca solicitaron: así pueden reclamar",
         "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Más de 1.000 tenderos exigen al Gobierno y al Congreso frenar los tributos saludables",
-        "url": "https://www.valoraanalitik.com/mas-de-1-000-tenderos-piden-al-gobierno-y-al-congreso-frenar-los-impuestos-saludables/",
-        "resumen": "Los comerciantes advierten que estos gravámenes afectan las ventas, la rentabilidad de las tiendas de barrio y el bolsillo de los consumidores.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Más de 1.000 tenderos piden al Gobierno y al Congreso frenar los impuestos saludables",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Entrevista | Samsung elevará su inversión deportiva en 2027 enfocada en salud y tecnología",
-        "url": "https://www.valoraanalitik.com/samsung-ampliara-su-inversion-en-el-deporte-en-2027/",
-        "resumen": "Samsung proyecta continuar sus inversiones deportivas en 2027 y fortalecer el uso de relojes inteligentes para monitorear el rendimiento físico.",
-        "autor": "",
-        "subseccion": "Valorasports",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Samsung ampliará su inversión en el deporte en 2027 con foco en salud y tecnología",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Alerta | Grupo Argos enajena títulos de Cementos Argos para subir flotante y entrar al MSCI Standard",
-        "url": "https://www.valoraanalitik.com/grupo-argos-vende-acciones-cementos-argos-aumentar-flotante-entrar-a-msci-standard/",
-        "resumen": "El ‘holding’ de infraestructura mantendrá el control de la cementera, con aproximadamente un 52,2 %.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Grupo Argos vende acciones de Cementos Argos para aumentar flotante y entrar a MSCI Standard",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Naturgas indica que el gasoducto Antonio Ricaurte estaría listo entre 12 y 24 meses",
-        "url": "https://www.valoraanalitik.com/gasoducto-antonio-ricaurte-podria-estar-listo-en-un-plazo-de-entre-12-y-24-meses-naturgas/",
-        "resumen": "La recuperación de la infraestructura, que conecta a Colombia con Venezuela, requiere intervenciones técnicas y la reconstrucción de algunos tramos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gasoducto Antonio Ricaurte podría estar listo en un plazo de entre 12 y 24 meses: Naturgas",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "De la Espriella solicita agilizar la ampliación de la Autopista Norte y concluirla un año antes",
-        "url": "https://www.valoraanalitik.com/de-la-espriella-pide-acelerar-obras-de-ampliacion-de-autopista-norte-plantea-terminar-el-proyecto-un-ano-antes/",
-        "resumen": "El Gobierno Nacional señaló que el proyecto permaneció sin avances durante cuatro años por el Gobienro del expresidente.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "De la Espriella pide acelerar obras de ampliación de Autopista Norte; plantea terminar el proyecto un año antes",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "El impuesto al carbono encarecería el diésel, el jet fuel y el carbón",
-        "url": "https://www.valoraanalitik.com/diesel-jet-fuel-y-carbon-se-encarecerian-con-la-aplicacion-del-impuesto-al-carbono/",
-        "resumen": "Andeg también dijo que habría un efecto neto negativo de $3,8 billones, mayor presión fiscal en subsidios por posibles aumentos en la tarifa de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Diésel, jet fuel y carbón se encarecerían con la aplicación del impuesto al carbono",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Valora Analitik, trii, Eafit y BreakfastLive realizarán el mayor festival de finanzas del país",
-        "url": "https://www.valoraanalitik.com/valora-analitik-festival-finanzas-colombia/",
-        "resumen": "En 2027, Distriito Inversión reunirá en Medellín a más de 10.000 interesados en las inversiones para aprender de la mano de expertos.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Valora Analitik tendrá el festival de finanzas más grande de Colombia de la mano de trii, Eafit y BreakfastLive",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Grupo Éxito inaugura su primer outlet en Bogotá con rebajas fijas de hasta 60 por ciento",
-        "url": "https://www.valoraanalitik.com/grupo-exito-outlet-bogota-descuentos/",
-        "resumen": "El establecimiento estará en el sector del 20 de Julio y ofrecerá productos de tecnología, electrodomésticos, moda, hogar, juguetería y deportes.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Éxito abre su primera tienda de outlet en Bogotá; ofrecerá descuentos permanentes de hasta 60 %",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Black Friday en Colombia: pasajes aéreos nacionales a partir de $50.000",
-        "url": "https://www.valoraanalitik.com/black-friday-en-colombia-tiquetes-de-avion-desde-50-000-para-viajar-por-el-pais/",
-        "resumen": "El Black Friday tendrá tiquetes de avión desde $50.000 para quienes buscan viajar barato por Colombia y aprovechar descuentos en hoteles y paquetes turísticos.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Black Friday en Colombia: tiquetes de avión desde $50.000 para viajar por el país",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Dólar en Colombia subió cerca de $150 en dos jornadas y ya pasó los $3.500",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-aumento-casi-150-en-dos-dias-y-ya-supero-la-barrera-de-los-3-500/",
-        "resumen": "La divisa abrió ligeramente a la baja en $3.425 y tocó un mínimo intradiario de $3.407, aunque finalizó exactamente en su máximo del día: $3.508.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia aumentó casi $150 en dos días y ya superó la barrera de los $3.500",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Carros particulares podrían operar con plataformas: cambios para Uber, Didi, InDrive y Yango en Colombia",
-        "url": "https://www.valoraanalitik.com/carros-particulares-tendrian-via-libre-para-trabajar-con-aplicaciones-asi-cambiarian-uber-didi-indrive-yango-y-otras-apps-en-colombia/",
-        "resumen": "Uber, Didi y otras aplicaciones entrarían en un nuevo escenario regulatorio en Colombia, con cambios para conductores, pasajeros y empresas.",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Carros particulares tendrían vía libre para trabajar con aplicaciones: así cambiarían Uber, Didi, InDrive, Yango y otras apps en Colombia",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Metas de María Fernanda Suárez en Banco de Bogotá y repercusiones de la operación con Itaú",
-        "url": "https://www.valoraanalitik.com/prioridades-suarez-banco-de-bogota-itau/",
-        "resumen": "De acuerdo con Suárez, el segmento de clientes premium se duplicó y más del 95 % de los antiguos clientes de Itaú continuó en Banco de Bogotá.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Las prioridades de María Fernanda Suárez como presidenta de Banco de Bogotá; se reveló efecto del negocio con Itaú",
-        "capturado": "2026-11-20T12:56:52-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El consumo energético de la IA desafía la adaptación del país hacia nuevos centros de datos",
+        "url": "https://www.valoraanalitik.com/la-ia-necesita-energia-el-reto-de-preparar-a-colombia-para-la-proxima-generacion-de-centros-de-datos/",
+        "resumen": "Según la IEA, los centros de datos consumieron cerca de 415 TWh de electricidad en 2024, alrededor del 1,5 % de la demanda eléctrica mundial.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "La IA necesita energía: el reto de preparar a Colombia para la próxima generación de centros de datos",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Modificación empresarial en el país por la iniciativa legislativa de la administración De la Espriella",
+        "url": "https://www.valoraanalitik.com/cambio-que-tendrian-empresas-en-colombia-con-proyecto-de-ley-que-busca-el-gobierno-de-la-espriella/",
+        "resumen": "Las empresas tendrían serias afectaciones si incumplen con norma clave que busca el Gobierno De la Espriella con Ley de Rescate.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Cambio que tendrían empresas en Colombia con proyecto de ley que busca el Gobierno De la Espriella",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Firma óptica de España prepara crecimiento en el país y revela su estrategia para 2027",
+        "url": "https://www.valoraanalitik.com/cadena-de-opticas-espanola-alista-expansion-en-colombia-para-2027/",
+        "resumen": "La cadena de ópticas española prepara su expansión en Colombia para 2027 y apuesta por ciudades intermedias, mientras advierte sobre los retos del sector.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cadena de ópticas española alista expansión en Colombia: estos son sus planes para 2027",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Alquería destinó más de 700 millones de pesos a iniciativas ecológicas para la ganadería",
+        "url": "https://www.valoraanalitik.com/alqueria-invirtio-700-millones-en-soluciones-para-la-sostenibilidad-de-los-sistemas-ganaderos/",
+        "resumen": "Los productores participantes aumentaron 18 % su producción total de leche.",
+        "autor": "",
+        "subseccion": "Sostenibilidad",
+        "publicacion": "",
+        "titulo_fuente": "Alquería invirtió más de $700 millones en soluciones para mejorar la sostenibilidad de los sistemas ganaderos",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Desde diciembre, Andrés Orozco Álvarez tomará las riendas de la gerencia general de Roa Florhuila",
+        "url": "https://www.valoraanalitik.com/andres-orozco-nuevo-gerente-roa-florhuila/",
+        "resumen": "Reemplazará a Jaime Alberto Rojas Díaz. Llega desde Celema y cuenta con más de 20 años de experiencia en consumo masivo.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Andrés Orozco Álvarez asumirá la gerencia general de Roa Florhuila desde diciembre",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Ejecutivo y Mercado Libre abren programa para digitalizar 12.000 comercios",
+        "url": "https://www.valoraanalitik.com/gobierno-y-mercado-libre-lanzan-convocatoria-para-digitalizar-12-000-negocios/",
+        "resumen": "Los seleccionados tendrán tres meses sin comisión por ventas, acceso a herramientas de publicidad y capacitaciones para fortalecer sus negocios.",
+        "autor": "",
+        "subseccion": "Emprendedores",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno y Mercado Libre lanzan convocatoria para digitalizar 12.000 negocios",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Puerto Progreso de Urabá despierta interés de inversión por US$2.200 millones en Nueva York",
+        "url": "https://www.valoraanalitik.com/puerto-progreso-de-uraba-atrae-interes-de-inversion-por-us2-200-millones-en-nueva-york/",
+        "resumen": "Puerto Progreso contempla la participación de cuatro comunidades locales como accionistas de la concesión.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Puerto Progreso de Urabá atrae interés de inversión por US$2.200 millones en Nueva York",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "BMW, MINI y BMW Motorrad inauguran dos puntos en Colombia y presentan estos vehículos",
+        "url": "https://www.valoraanalitik.com/bmw-mini-y-bmw-motorrad-estrenan-dos-sedes-en-colombia-llegan-con-estos-modelos/",
+        "resumen": "El crecimiento de vehículos eléctricos e híbridos impulsa la apuesta de marcas prémium. Autogermana abrió nuevas sedes con modelos de BMW, MINI y Motorrad.",
+        "autor": "",
+        "subseccion": "Vehiculos motores",
+        "publicacion": "",
+        "titulo_fuente": "BMW, MINI y BMW Motorrad estrenan dos sedes en Colombia: llegan con estos modelos",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Amazon inaugura en Bogotá su primer centro de datos local para procesar y almacenar información",
+        "url": "https://www.valoraanalitik.com/amazon-abrio-en-bogota-su-primer-centro-de-datos-en-colombia-empresas-podran-procesar-y-guardar-informacion-en-el-pais/",
+        "resumen": "La infraestructura del datacenter promete latencias de menos de 10 milisegundos y ya la usan Bancolombia, Datacenter Colombia y Casa Toro",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Amazon abrió en Bogotá su primer centro de datos en Colombia: empresas podrán procesar y guardar información en el país",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Detalles de la denuncia sobre las anomalías en la elección de la nueva Junta de la CCB",
+        "url": "https://www.valoraanalitik.com/irregularidades-nueva-junta-camara-bogota/",
+        "resumen": "Guillermo Botero, expresidente de Fenalco, consideró como “llamativo” el crecimiento de afiliados a la CCB en municipios de Cundinamarca y el sur de Bogotá.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "¿Qué hay detrás de las irregularidades para elegir nueva Junta en la Cámara de Comercio de Bogotá? Detalles de la denuncia",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
+      {
+        "titulo": "Comfandi convoca a directivos y especialistas para debatir sobre el bienestar laboral y su impacto productivo",
+        "url": "https://www.valoraanalitik.com/comfandi-reunira-a-empresarios-y-expertos-para-conversar-sobre-como-la-armonia-de-los-trabajadores-impulsa-la-productividad-empresarial/",
+        "resumen": "La programación también contempla una macrorrueda de negocios para conectar compradores y vendedores del ámbito local y nacional.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Comfandi reunirá a empresarios y expertos para conversar sobre cómo la armonía de los trabajadores impulsa la productividad empresarial",
+        "capturado": "2026-11-24T17:41:34-05:00"
+      },
       {
         "titulo": "Air-e indicó el valor del alza en las tarifas de energía para diciembre en la costa Caribe",
         "url": "https://www.valoraanalitik.com/air-e-aclara-aumento-en-tarifas-de-energia/",
@@ -1095,116 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Caldas recuperó terreno en exportaciones durante septiembre y se consolidó como líder del Eje Cafetero",
         "capturado": "2026-11-19T20:07:32-05:00"
-      },
-      {
-        "titulo": "Tributaria de De la Espriella: firmas de Estados Unidos en el país emiten advertencia",
-        "url": "https://www.valoraanalitik.com/reforma-tributaria-del-gobierno-de-la-espriella-empresas-estadounidenses-en-colombia-lanzan-advertencia/",
-        "resumen": "La Ley de Rescate Fiscal del gobierno De la Espriella genera inquietud entre empresas estadounidenses por sus efectos en la inversión y el empleo en Colombia.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Reforma tributaria del gobierno De la Espriella: empresas estadounidenses en Colombia lanzan advertencia",
-        "capturado": "2026-11-19T20:07:32-05:00"
-      },
-      {
-        "titulo": "CrossTech World 2026 convoca en Miami a directivos mundiales de pagos, remesas y tecnología financiera",
-        "url": "https://www.valoraanalitik.com/crosstech-world-2026-reune-en-miami-a-lideres-de-la-industria-global-de-pagos-remesas-y-tecnologia-financiera/",
-        "resumen": "El evento analiza los principales cambios que están redefiniendo la manera en que el dinero se mueve entre países.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "CrossTech World 2026 reúne en Miami a líderes de la industria global de pagos, remesas y tecnología financiera",
-        "capturado": "2026-11-19T20:07:32-05:00"
-      },
-      {
-        "titulo": "Estas firmas colombianas requerirían facturar hasta $63 millones adicionales para asumir sus mayores gastos de personal",
-        "url": "https://www.valoraanalitik.com/estas-empresas-en-colombia-necesitarian-vender-hasta-63-millones-mas-para-cubrir-el-aumento-de-sus-costos-laborales/",
-        "resumen": "La temporada de fin de año pondrá a prueba las finanzas de muchas empresas, que deberán ajustar sus cuentas para sostener la operación y el empleo.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Estas empresas en Colombia necesitarían vender hasta $63 millones más para cubrir el aumento de sus costos laborales",
-        "capturado": "2026-11-19T20:07:32-05:00"
-      },
-      {
-        "titulo": "Venta total de cupos en el XXIII Congreso Nacional de Infraestructura en Cartagena: toda la información",
-        "url": "https://www.valoraanalitik.com/xxiii-congreso-nacional-de-infraestructura-en-cartagena-agota-inscripciones-en-tiempo-record-los-detalles/",
-        "resumen": "Reunirá durante tres días al Gobierno Nacional, gobernadores, alcaldes de las principales ciudades, representantes de la banca multilateral y empresarios.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "XXIII Congreso Nacional de Infraestructura en Cartagena agota inscripciones en tiempo récord: los detalles",
-        "capturado": "2026-11-19T20:07:32-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella detalla pasos para obtener el auxilio del 40 por ciento de un salario por empleado",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-explica-como-acceder-al-subsidio-del-40-de-un-salario-minimo-por-trabajador/",
-        "resumen": "El subsidio por el terremoto puede representar hasta $700.362 mensuales por trabajador. Estos son los requisitos y los pasos que deben cumplir.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella explica cómo acceder al subsidio del 40 % de un salario mínimo por trabajador",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Colombia llega al punto máximo de El Niño con embalses bajo la cifra sugerida",
-        "url": "https://www.valoraanalitik.com/colombia-se-acerca-al-pico-de-el-nino-con-embalses-por-debajo-del-nivel-recomendado/",
-        "resumen": "XM señaló que en lo que va de noviembre se están registrando mínimos históricos a nivel diario.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia se acerca al pico de El Niño con embalses por debajo del nivel recomendado",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "AV Villas tendrá ganancias en 2026 tras cuatro años y comenta sobre costo de vida y salario básico",
-        "url": "https://www.valoraanalitik.com/av-villas-generara-utilidades-en-2026-luego-de-cuatro-anos-habla-de-expectativas-sobre-inflacion-y-salario-minimo/",
-        "resumen": "Frente a la reforma tributaria, Hernández consideró que el proyecto terminará teniendo modificaciones frente a la propuesta inicial del Gobierno Nacional.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "AV Villas generará utilidades en 2026 luego de cuatro años; habla de expectativas sobre inflación y salario mínimo",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Desembolsos por compras externas de gas al país se multiplicaron por tres en doce meses",
-        "url": "https://www.valoraanalitik.com/pagos-por-importaciones-de-gas-a-colombia-se-triplicaron-en-un-ano/",
-        "resumen": "Este comportamiento explicó la razón detrás del alza en las compras que Colombia hizo al exterior en el tercer trimestre de 2026.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Pagos por importaciones de gas a Colombia se triplicaron en un año",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Terpel sumará un aliado en fuentes limpias en Valle del Cauca por sesenta mil millones de pesos",
-        "url": "https://www.valoraanalitik.com/terpel-tendra-un-nuevo-socio-en-energias-renovables-en-el-valle-del-cauca-inversion-asciende-a-60-000-millones/",
-        "resumen": "El proyecto contará con más de 19.000 módulos solares y tendrá una generación equivalente al consumo eléctrico anual de más de 10.000 hogares.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Terpel tendrá un nuevo socio en energías renovables en el Valle del Cauca; inversión asciende a $60.000 millones",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Aseguradoras desembolsan 1,43 billones de pesos por sismos en Colombia desde agosto",
-        "url": "https://www.valoraanalitik.com/seguros-por-terremoto-en-colombia-aseguradoras-han-pagado-143-billones-a-afectados-desde-agosto/",
-        "resumen": "El presidente ejecutivo de Fasecolda también aseguró que el sector asegurador llegó al terremoto en condiciones de solvencia y liquidez.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Seguros por terremoto en Colombia: aseguradoras han pagado $1,43 billones a afectados desde agosto",
-        "capturado": "2026-11-19T13:32:50-05:00"
-      },
-      {
-        "titulo": "Grupo Argos triunfa en los Best Branding Awards Colombia 2024 con proyecto social y ambiental",
-        "url": "https://www.valoraanalitik.com/grupo-argos-gana-en-la-primera-edicion-de-los-best-branding-awards-colombia-con-iniciativa-ambiental-y-social/",
-        "resumen": "La iniciativa ganadora nació de una alianza entre Grupo Argos, Cementos Argos, la Fundación Grupo Argos y Páramo Impacta.",
-        "autor": "",
-        "subseccion": "Grupo argos",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos gana en la primera edición de los Best Branding Awards Colombia con iniciativa ambiental y social",
-        "capturado": "2026-11-18T20:23:32-05:00"
       }
     ]
   }
