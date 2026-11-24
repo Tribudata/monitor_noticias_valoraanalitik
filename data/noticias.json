@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-23T20:33:36-05:00",
-  "nuevos_en_esta_corrida": 24,
+  "actualizado": "2026-11-24T07:15:12-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Premercado | Mercados asiáticos suben por alza de Nvidia; bolsa europea cae y Wall Street mira a la FED",
+        "url": "https://www.valoraanalitik.com/premercado-bolsas-de-asia-repuntan-tras-rally-de-nvidia-europa-retrocede-y-wall-street-atento-a-la-fed/",
+        "resumen": "Nvidia se disparó un 31,5 %, su mayor ganancia porcentual en un solo día en 23 años, recuperando casi US$1 billón en capitalización bursátil.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Premercado | Bolsas de Asia repuntan tras rally de Nvidia; Europa retrocede y Wall Street atento a la FED",
+        "capturado": "2026-11-24T07:15:12-05:00"
+      },
+      {
+        "titulo": "ANDI pacta con el Ejecutivo un aporte de $48,8 billones para el saneamiento fiscal colombiano",
+        "url": "https://www.valoraanalitik.com/andi-acuerda-con-el-gobierno-hacer-un-esfuerzo-de-488-billones-para-rescate-fiscal-de-colombia/",
+        "resumen": "La ANDI también presentó una serie de propuestas para no afectar el bolsillo de los colombianos con más impuestos.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "ANDI acuerda con el Gobierno hacer un esfuerzo de $48,8 billones para rescate fiscal de Colombia",
+        "capturado": "2026-11-24T07:15:12-05:00"
+      },
+      {
+        "titulo": "Director del Emisor señala la fórmula ideal para el incremento salarial mínimo colombiano en 2027",
+        "url": "https://www.valoraanalitik.com/gerente-del-banco-de-la-republica-dice-cual-seria-la-receta-adecuada-para-el-aumento-del-salario-minimo-en-colombia-del-2027/",
+        "resumen": "De acuerdo con el gerente del Banco de la República el aumento del salario mínimo debe ser mesurado para evitar un nuevo golpe a la inflación",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Gerente del Banco de la República dice cuál sería la receta adecuada para el aumento del salario mínimo en Colombia del 2027",
+        "capturado": "2026-11-24T07:15:12-05:00"
+      },
+      {
+        "titulo": "Urgente | Ataque terrorista contra la Gobernación del Meta estremece a Villavicencio esta noche",
+        "url": "https://www.valoraanalitik.com/atentado-contra-gobernacion-del-meta-sacude-villavicencio/",
+        "resumen": "El presidente De la Espriella confirmó el ataque y aseguró que está a la espera de reportes oficiales.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Atentado contra la Gobernación del Meta sacude esta noche a Villavicencio",
+        "capturado": "2026-11-24T07:15:12-05:00"
+      },
+      {
+        "titulo": "Metro capitalino logra hito para la Línea 2 con iniciativas superiores a medio billón de pesos",
+        "url": "https://www.valoraanalitik.com/metro-de-bogota-da-paso-clave-para-avanzar-en-linea-2/",
+        "resumen": "La EMB abrió las convocatorias para contratar la interventoría y la gerencia del proyecto, con contratos que suman más de $534.000 millones.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Metro de Bogotá da paso clave para avanzar en Línea 2 con proyectos por más de medio billón de pesos",
+        "capturado": "2026-11-24T07:15:12-05:00"
+      },
       {
         "titulo": "Única moto en el planeta irá a subasta en territorio colombiano en pro de afectados por sismo",
         "url": "https://www.valoraanalitik.com/esta-motocicleta-unica-en-el-mundo-sera-subastada-en-colombia-para-ayudar-a-damnificados-del-terremoto/",
@@ -552,56 +602,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "Las prioridades de María Fernanda Suárez como presidenta de Banco de Bogotá; se reveló efecto del negocio con Itaú",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "OCDE pronostica para Colombia en 2027 menor crecimiento, inflación elevada y mayor endeudamiento",
-        "url": "https://www.valoraanalitik.com/ocde-proyecta-un-2027-para-colombia-con-desaceleracion-economica-alta-inflacion-y-mas-deuda/",
-        "resumen": "El informe prevé que la economía crecerá menos en medio de tasas de interés altas, un mercado laboral deteriorado y un aumento de la deuda pública.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "OCDE proyecta un 2027 para Colombia con desaceleración económica, alta inflación y más deuda",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Adriana Guillén se aparta de la dirección de Asocajas luego de casi diez años al frente del gremio",
-        "url": "https://www.valoraanalitik.com/adriana-guillen-deja-presidencia-asocajas/",
-        "resumen": "En los próximos días se reunirá la Junta Directiva en pleno para conocer y definir la ruta del proceso de sucesión de Guillén.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Adriana Guillén deja la presidencia de Asocajas tras cerca de una década liderando el gremio",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Fármacos en el país: iniciativas de De la Espriella sobre adquisiciones, recobros y UPC",
-        "url": "https://www.valoraanalitik.com/medicamentos-en-colombia-las-propuestas-de-de-la-espriella-para-compras-recobros-y-upc/",
-        "resumen": "Gobierno propone compras centralizadas de medicamentos y recobros por tecnologías de bajo valor terapéutico.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Medicamentos en Colombia: las propuestas de De la Espriella para compras, recobros y UPC",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Tatyana Orozco, líder de la CCI: la inversión en Colombia exige reglas claras según la infraestructura",
-        "url": "https://www.valoraanalitik.com/entrevista-tatyana-orozco-presidenta-cci-la-infraestructura-necesita-reglas-claras-para-que-la-inversion-llegue-a-colombia/",
-        "resumen": "Bajo el lema Colombia conectada, competitiva y confiable: del plan a la obra, la agenda del Congreso de Infraestructura (CCI) marcará la ruta del sector.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Tatyana Orozco, presidenta CCI: “la infraestructura necesita reglas claras para que la inversión llegue a Colombia”",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Inician trabajos en Accesos Norte 2: detalles de la expansión de la Autopista Norte en Bogotá",
-        "url": "https://www.valoraanalitik.com/arrancan-obras-de-accesos-norte-2-asi-sera-el-megaproyecto-de-ampliacion-de-la-autopista-norte-de-bogota/",
-        "resumen": "El proyeto espera beneficiar a la movilidad de más de 10 millones de personas con una inversión de $1,8 billones.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Arrancan obras de Accesos Norte 2: así será el megaproyecto de ampliación de la Autopista Norte de Bogotá",
         "capturado": "2026-11-20T12:56:52-05:00"
       }
     ],
