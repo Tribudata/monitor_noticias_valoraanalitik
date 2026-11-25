@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-24T17:41:34-05:00",
-  "nuevos_en_esta_corrida": 23,
+  "actualizado": "2026-11-25T00:18:41-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Senado aprueba iniciativa de adición al presupuesto pero falta debate en Cámara",
+        "url": "https://www.valoraanalitik.com/senado-da-luz-verde-a-proyecto-de-adicion-presupuestal/",
+        "resumen": "La iniciativa contempla recursos para la reconstrucción tras el terremoto, el pago a adultos mayores y la operación del sistema eléctrico.",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Senado da luz verde a proyecto de adición presupuestal; aún está pendiente discusión en Cámara",
+        "capturado": "2026-11-25T00:18:41-05:00"
+      },
+      {
+        "titulo": "Urgente | Falla en el servicio de energía impacta a Nariño y otras regiones del país",
+        "url": "https://www.valoraanalitik.com/apagon-afecta-a-narino-y-otros-departamentos-esto-se-sabe-de-la-falla-electrica/",
+        "resumen": "Cedenar reportó una avería simultánea en los circuitos que conectan a Nariño con el SIN. Las causas están bajo investigación.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Ahora | Apagón afecta a Nariño y otros departamentos: esto se sabe de la falla eléctrica",
+        "capturado": "2026-11-25T00:18:41-05:00"
+      },
+      {
+        "titulo": "MinHacienda frena emisiones privadas de deuda y planea recortar papeles a corto plazo",
+        "url": "https://www.valoraanalitik.com/minhacienda-elimina-las-colocaciones-privadas-de-deuda-y-proyecta-una-drastica-reduccion-de-titulos-a-corto-plazo/",
+        "resumen": "El director de Crédito Público, César Arias, presentó en el foro Visión Itaú 2026 la nueva estrategia de financiamiento del Gobierno y sus objetivos.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda elimina las colocaciones privadas de deuda y proyecta una drástica reducción de títulos a corto plazo",
+        "capturado": "2026-11-25T00:18:41-05:00"
+      },
+      {
+        "titulo": "Grupo QBCo reporta la salida de Bernardo Serna y designa un líder encargado",
+        "url": "https://www.valoraanalitik.com/grupo-qbco-anuncia-salida-de-bernardo-serna-y-nombra-director-interino/",
+        "resumen": "La decisión se tomó de mutuo acuerdo con la Junta Directiva. Carlos Payan asumirá las funciones de la dirección general.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Grupo QBCo anuncia salida de Bernardo Serna y nombra director interino",
+        "capturado": "2026-11-25T00:18:41-05:00"
+      },
+      {
+        "titulo": "Banco de la República prevé baja más rápida de tasas si pasa el ajuste fiscal",
+        "url": "https://www.valoraanalitik.com/banco-de-la-republica-proyecta-que-la-reduccion-de-las-tasas-de-interes-tomara-menos-tiempo-si-se-aprueba-el-ajuste-fiscal/",
+        "resumen": "El gerente del emisor advirtió en Visión Itaú 2026 que la política monetaria no puede actuar sola.",
+        "autor": "",
+        "subseccion": "Banco de la republica",
+        "publicacion": "",
+        "titulo_fuente": "Banco de la República proyecta que la reducción de las tasas de interés tomará menos tiempo si se aprueba el ajuste fiscal",
+        "capturado": "2026-11-25T00:18:41-05:00"
+      },
+      {
+        "titulo": "Mineros entregará dividendos extraordinarios por US$58,1 millones",
+        "url": "https://www.valoraanalitik.com/mineros-repartira-us581-millones-en-dividendos-extraordinarios/",
+        "resumen": "La compañía aprobó un pago único de US$0,20 por acción, adicional al dividendo ordinario de US$0,10 autorizado en marzo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Mineros repartirá US$58,1 millones en dividendos extraordinarios",
+        "capturado": "2026-11-25T00:18:41-05:00"
+      },
+      {
+        "titulo": "Este es el macroproyecto de vivienda y comercio conectado con el Metro de Medellín",
+        "url": "https://www.valoraanalitik.com/asi-sera-el-macroproyecto-que-tendra-acceso-directo-al-metro-de-medellin/",
+        "resumen": "El desarrollo contempla 1.122 viviendas y un mall comercial de más de 60 locales. Se construirá junto a la estación Envigado, en alianza con AR Construcciones.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Así será el macroproyecto de comercio y vivienda que tendrá acceso directo al Metro de Medellín",
+        "capturado": "2026-11-25T00:18:41-05:00"
+      },
       {
         "titulo": "Inversión de 1,9 billones de pesos para grandes proyectos viales en Bogotá y Cundinamarca",
         "url": "https://www.valoraanalitik.com/bogota-y-cundinamarca-tendran-megaobras-viales-por-19-billones-estos-corredores-seran-intervenidos/",
@@ -533,79 +603,39 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno prende alarmas por menor nivel de embalses ad portas de mayor golpe del fenómeno de El Niño",
         "capturado": "2026-11-21T10:12:25-05:00"
-      },
-      {
-        "titulo": "Negocios corporativos en Colombia rebasan US$11.400 millones en 2026, pese a retroceder 20 % en acuerdos",
-        "url": "https://www.valoraanalitik.com/transacciones-empresariales-colombia-2026/",
-        "resumen": "El capital movilizado en fusiones y adquisiciones aumentó 59 % a septiembre. Software, energía, petróleo y banca, entre los sectores con mayor actividad.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Transacciones empresariales en Colombia superan US$11.400 millones en 2026, pese a caída de 20 % en operaciones",
-        "capturado": "2026-11-21T10:12:25-05:00"
-      },
-      {
-        "titulo": "Chile vuelve a comprar carne bovina colombiana y proyecta ventas externas por US$27 millones al 2027",
-        "url": "https://www.valoraanalitik.com/colombia-reabre-mercado-chileno-para-la-carne-bovina-y-proyecta-exportaciones-por-us27-millones-en-2027/",
-        "resumen": "El anuncio fue realizado este viernes 20 de noviembre por el ministro de Agricultura, Indalecio Dangond, quien destacó la recuperación de este mercado.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Colombia reabre mercado chileno para la carne bovina y proyecta exportaciones por US$27 millones en 2027",
-        "capturado": "2026-11-21T01:38:16-05:00"
-      },
-      {
-        "titulo": "Nequi avisa la fecha en que sus clientes no tendrán acceso a la plataforma: prepárese",
-        "url": "https://www.valoraanalitik.com/nequi-anuncia-que-usuarios-no-podran-usar-la-aplicacion-en-esta-fecha-tome-nota/",
-        "resumen": "Nequi suspenderá temporalmente el acceso a su aplicación a finales de noviembre. La pausa tiene una hora específica de inicio y finalización.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "Nequi anuncia que usuarios no podrán usar la aplicación en esta fecha: tome nota",
-        "capturado": "2026-11-21T01:38:16-05:00"
-      },
-      {
-        "titulo": "Rappi robustece beneficios a usuarios, extiende alianzas con fidelización y entra en turismo",
-        "url": "https://www.valoraanalitik.com/rappi-fortalece-recompensas-clientes-viajes/",
-        "resumen": "Los usuarios de Pro Black recibirán 2 % en RappiCréditos para viajes hasta el 31 de diciembre; acumularán millas y puntos en seis programas aliados.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Rappi fortalece las recompensas para sus clientes; amplía alianzas con programas de lealtad y apuesta por viajes",
-        "capturado": "2026-11-21T01:38:16-05:00"
-      },
-      {
-        "titulo": "Naturgas halla opciones para reabrir el gasoducto con Venezuela buscando nuevos suministros",
-        "url": "https://www.valoraanalitik.com/naturgas-ve-posibilidades-de-reactivar-gasoducto-con-venezuela/",
-        "resumen": "La recuperación de la infraestructura, que conecta a Colombia con Venezuela, requiere intervenciones técnicas y la reconstrucción de algunos tramos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Naturgas ve posibilidades de reactivar gasoducto con Venezuela en medio de búsqueda de nuevas fuentes de gas",
-        "capturado": "2026-11-21T01:38:16-05:00"
-      },
-      {
-        "titulo": "Wall Street se hunde y vive su peor semana postpandemia por dudas sobre rentabilidad de IA",
-        "url": "https://www.valoraanalitik.com/wall-street-se-desploma-y-registra-su-peor-semana-desde-pandemia-preocupacion-por-rentabilidad-de-ia-en-auge/",
-        "resumen": "La caída de las acciones de IA marcaron varios hitos negativos para Wall Street el viernes.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Wall Street se desploma y registra su peor semana desde pandemia: preocupación por rentabilidad de IA en auge",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Nueva ley defiende a colombianos de cobros por préstamos no pedidos: conozca el reclamo",
-        "url": "https://www.valoraanalitik.com/nueva-ley-protege-a-colombianos-de-pagar-creditos-que-nunca-solicitaron-asi-pueden-reclamar/",
-        "resumen": "¿Le están cobrando un crédito que nunca pidió? La nueva ley que ya entró en vigencia establece cómo frenar esas deudas.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Nueva ley protege a colombianos de pagar créditos que nunca solicitaron: así pueden reclamar",
-        "capturado": "2026-11-20T18:55:18-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Grupo QBCo confirma la salida de Bernardo Serna y designa un director encargado",
+        "url": "https://www.valoraanalitik.com/grupo-qbco-anuncia-salida-de-bernardo-serna-y-nombra-director-interino/",
+        "resumen": "La decisión se tomó de mutuo acuerdo con la Junta Directiva. Carlos Payan asumirá las funciones de la dirección general.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Grupo QBCo anuncia salida de Bernardo Serna y nombra director interino",
+        "capturado": "2026-11-25T00:18:41-05:00"
+      },
+      {
+        "titulo": "Mineros pagará US$58,1 millones por concepto de dividendos extraordinarios",
+        "url": "https://www.valoraanalitik.com/mineros-repartira-us581-millones-en-dividendos-extraordinarios/",
+        "resumen": "La compañía aprobó un pago único de US$0,20 por acción, adicional al dividendo ordinario de US$0,10 autorizado en marzo.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "Mineros repartirá US$58,1 millones en dividendos extraordinarios",
+        "capturado": "2026-11-25T00:18:41-05:00"
+      },
+      {
+        "titulo": "Este es el proyecto comercial y habitacional con entrada directa al Metro de Medellín",
+        "url": "https://www.valoraanalitik.com/asi-sera-el-macroproyecto-que-tendra-acceso-directo-al-metro-de-medellin/",
+        "resumen": "El desarrollo contempla 1.122 viviendas y un mall comercial de más de 60 locales. Se construirá junto a la estación Envigado, en alianza con AR Construcciones.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Así será el macroproyecto de comercio y vivienda que tendrá acceso directo al Metro de Medellín",
+        "capturado": "2026-11-25T00:18:41-05:00"
+      },
       {
         "titulo": "El consumo energético de la IA desafía la adaptación del país hacia nuevos centros de datos",
         "url": "https://www.valoraanalitik.com/la-ia-necesita-energia-el-reto-de-preparar-a-colombia-para-la-proxima-generacion-de-centros-de-datos/",
@@ -1175,36 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Ignacio Gaitán de Afidro será el presidente de Aliadas tras salida de María Claudia Lacouture",
         "capturado": "2026-11-20T04:00:23-05:00"
-      },
-      {
-        "titulo": "Camilo Morales asumió como presidente encargado de Naturgas tras la llegada de Luz Stella Murgas a la ANDI",
-        "url": "https://www.valoraanalitik.com/camilo-morales-fue-designado-presidente-e-de-naturgas-tras-paso-de-luz-stella-murgas-a-la-presidencia-de-la-andi/",
-        "resumen": "Morales Lara se desempeña como secretario general de Naturgas desde octubre de 2021.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Camilo Morales fue designado presidente (e) de Naturgas tras paso de Luz Stella Murgas a la Presidencia de la ANDI",
-        "capturado": "2026-11-19T20:07:32-05:00"
-      },
-      {
-        "titulo": "WeWork expande su presencia en Colombia al introducir el arrendamiento de oficinas por horas",
-        "url": "https://www.valoraanalitik.com/wework-amplia-su-operacion-en-colombia-y-lanza-nuevo-servicio-alquiler-de-oficinas-por-horas/",
-        "resumen": "La apuesta de WeWork llega en medio del avance del trabajo híbrido y busca cambiar la forma en que empresas y profesionales utilizan una oficina.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "WeWork amplía su operación en Colombia y lanza nuevo servicio: alquiler de oficinas por horas",
-        "capturado": "2026-11-19T20:07:32-05:00"
-      },
-      {
-        "titulo": "Caldas incrementó sus ventas externas en septiembre y se afianzó a la cabeza del Eje Cafetero",
-        "url": "https://www.valoraanalitik.com/caldas-recupero-terreno-en-exportaciones-durante-septiembre-y-se-consolido-como-lider-del-eje-cafetero/",
-        "resumen": "La composición de las ventas externas evidencia el peso de la actividad cafetera, aunque también muestra avances de otros sectores productivos.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Caldas recuperó terreno en exportaciones durante septiembre y se consolidó como líder del Eje Cafetero",
-        "capturado": "2026-11-19T20:07:32-05:00"
       }
     ]
   }
