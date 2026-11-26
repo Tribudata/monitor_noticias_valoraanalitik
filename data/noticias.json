@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-25T00:18:41-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-11-25T19:08:56-05:00",
+  "nuevos_en_esta_corrida": 24,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Bogotá entregará contratos por $25 billones para el cobro del Metro y Transmilenio",
+        "url": "https://www.valoraanalitik.com/bogota-adjudicara-contratos-por-25-billones/",
+        "resumen": "El alcalde Carlos Fernando Galán reveló el plan de adjudicaciones de las próximas líneas del metro de la capital del país.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Bogotá adjudicará contratos por $25 billones para el recaudo del Metro y Transmilenio",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella adjudicará mini concesiones para vías devueltas y deterioradas",
+        "url": "https://www.valoraanalitik.com/asi-busca-el-gobierno-financiar-el-mantenimiento-de-vias-que-ya-no-estan-concesionadas/",
+        "resumen": "La ministra de Transporte anunció un esquema de miniconcesiones con plazos de tres a cinco años.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella contratará «mini concesiones» para vías que han vuelto al Estado y se han deteriorado",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "El presupuesto de 2026 contará con $3,8 billones extra y así será su distribución",
+        "url": "https://www.valoraanalitik.com/presupuesto-de-2026-tendra-38-billones-adicionales/",
+        "resumen": "La Cámara aprobó la iniciativa que destina recursos a la reconstrucción de zonas afectadas por el sismo y los pagos de Colombia Mayor.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto de 2026 tendrá $3,8 billones adicionales: así se repartirán",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Hernando Osorio queda como presidente encargado de AV Villas tras la salida de Gerardo Hernández",
+        "url": "https://www.valoraanalitik.com/hernando-osorio-asume-en-encargo-la-presidencia-de-av-villas/",
+        "resumen": "El directivo llega en medio de la transformación del banco, que espera cerrar 2026 con utilidades tras casi tres años de resultados negativos.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Hernando Osorio asume en encargo la presidencia de AV Villas tras salida de Gerardo Hernández",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Multinacional estrena megaobra de US$13 millones en el Valle del Cauca con nueva operación",
+        "url": "https://www.valoraanalitik.com/multinacional-inaugura-megaobra-de-us13-millones-en-valle-del-cauca-asi-es-su-nueva-operacion/",
+        "resumen": "La multinacional invirtió US$13 millones en una bodega en Yumbo que duplicará su capacidad en el Valle y fortalecerá la distribución de alimentos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional inaugura megaobra de US$13 millones en Valle del Cauca: así es su nueva operación",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "CCI creará plataforma de datos para vigilar proyectos viales en Colombia y enlazar firmas",
+        "url": "https://www.valoraanalitik.com/cci-sistema-informacion-obras-colombia/",
+        "resumen": "Se hará en alianza con la CAF y permitirá consultar el avance de proyectos, además de enlazar a firmas para facilitar la ejecución de las obras.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "CCI lanzará sistema de información para monitorear obras de infraestructura en Colombia y conectar empresas",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Invías convoca concursos por $6,4 billones para arreglo y mejora de vías en el país",
+        "url": "https://www.valoraanalitik.com/invias-anuncia-licitaciones-por-64-billones-para-mantenimiento-y-rehabilitacion-de-carreteras-en-colombia/",
+        "resumen": "El objetivo es rehabilitar 5.000 kms en 29 corredores viales regionales.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Invías anuncia licitaciones por $6,4 billones para mantenimiento y rehabilitación de carreteras en Colombia",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Empresarios en Colombia perdieron confianza en octubre y la industria cayó de nuevo",
+        "url": "https://www.valoraanalitik.com/confianza-empresarial-en-colombia-cayo-en-octubre-la-industrial-volvio-a-terreno-negativo-tras-tres-meses-al-alza/",
+        "resumen": "La industria retornó a terreno negativo tras permanecer tres meses consecutivos por encima de 0 % (julio a septiembre).",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Confianza empresarial en Colombia cayó en octubre: la industrial volvió a terreno negativo tras tres meses al alza",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Designación de Nate Morris como embajador estadounidense en Colombia hallaría freno en el Senado",
+        "url": "https://www.valoraanalitik.com/nominacion-de-nate-morris-como-embajador-de-ee-uu-en-colombia-podria-enfrentar-bloqueo-en-el-senado/",
+        "resumen": "El presidente De la Espriella, felicitó a Morris por el avance de su nominación en el Comité de Relaciones Exteriores.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Nominación de Nate Morris como embajador de EE. UU. en Colombia podría enfrentar bloqueo en el Senado",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Aerolíneas inician rebajas por Black Friday con trayectos internos desde $45.600 con tasas",
+        "url": "https://www.valoraanalitik.com/aerolineas-lanzan-descuentos-para-black-friday-hay-vuelos-nacionales-desde-45-600-con-impuestos-incluidos/",
+        "resumen": "Varias aerolíneas anunciaron promociones en tiquetes áreos para viajar por Colombia y al exterior. Estas son las tarifas, fechas y condiciones para comprar.",
+        "autor": "",
+        "subseccion": "Aerolineas colombia",
+        "publicacion": "",
+        "titulo_fuente": "Aerolíneas lanzan descuentos para Black Friday: hay vuelos nacionales desde $45.600 con impuestos incluidos",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Colpensiones estaría facultada para exigir cotizaciones pensionales atrasadas de muchos años",
+        "url": "https://www.valoraanalitik.com/colpensiones-podria-cobrar-aportes-a-pension-que-quedaron-pendientes-desde-hace-varios-anos/",
+        "resumen": "Un fallo del Consejo de Estado aclaró cómo se cuentan los cinco años para que Colpensiones adelante el cobro de aportes pensionales atrasados.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Colpensiones podría cobrar aportes a pensión que quedaron pendientes desde hace varios años",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "El Gobierno nacional rechaza declaración de más de 70 congresistas del Reino Unido sobre la Paz",
+        "url": "https://www.valoraanalitik.com/colombia-rechaza-pronunciamiento-de-mas-de-70-parlamentarios-britanicos-sobre-el-acuerdo-de-paz/",
+        "resumen": "Acuerdo de Paz abre nuevo roce diplomático entre Colombia y parlamentarios del Reino Unido.",
+        "autor": "",
+        "subseccion": "Financieras internacionales",
+        "publicacion": "",
+        "titulo_fuente": "Colombia rechaza pronunciamiento de más de 70 parlamentarios británicos sobre el Acuerdo de Paz",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
       {
         "titulo": "Senado aprueba iniciativa de adición al presupuesto pero falta debate en Cámara",
         "url": "https://www.valoraanalitik.com/senado-da-luz-verde-a-proyecto-de-adicion-presupuestal/",
@@ -483,129 +603,129 @@
         "publicacion": "",
         "titulo_fuente": "Firmar un acuerdo nacional y hacer ajuste fiscal gradual: Entre las acciones estratégicas para corregir el rumbo de Colombia",
         "capturado": "2026-11-22T11:59:34-05:00"
-      },
-      {
-        "titulo": "Ecopetrol anuncia fuerte inversión en EE. UU.: taladrará siete pozos nuevos",
-        "url": "https://www.valoraanalitik.com/ecopetrol-confirma-importante-inversion-en-estados-unidos-perforara-7-nuevos-pozos/",
-        "resumen": "La iniciativa busca compensar el impacto del recorte de taladros aplicado en 2025, cuando Ecopetrol pasó de operar con cuatro equipos a dos.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol confirma importante inversión en Estados Unidos: Perforará 7 nuevos pozos",
-        "capturado": "2026-11-22T11:59:34-05:00"
-      },
-      {
-        "titulo": "Entrevista | CDT con tasas de más del 13 %: gerente de MejorCDT habla sobre invertir",
-        "url": "https://www.valoraanalitik.com/entrevista-tasas-de-cdt-superiores-al-13-esto-dice-gerente-de-mejorcdt-sobre-el-momento-para-invertir/",
-        "resumen": "En dialogo con Valora Analitik, Omar Casas, gerente de MejorCDT, explica por qué es un buen momento para invertir en CDT y qué oportunidades hay.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Tasas de CDT superiores al 13 %: esto dice gerente de MejorCDT sobre el momento para invertir",
-        "capturado": "2026-11-22T11:59:34-05:00"
-      },
-      {
-        "titulo": "KMA Construcciones llega a 25 años y se afianza como la mayor firma de ingeniería colombiana: su historia",
-        "url": "https://www.valoraanalitik.com/kma-construcciones-cumple-25-anos-es-la-empresa-ingenieria-civil-mas-grande-colombia/",
-        "resumen": "Menzel Amín, presidente de la compañía, revela detalles de su trayectoria al frente de la firma y traza la ruta para las próximas décadas.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "KMA Construcciones cumple 25 años y se consolida como la empresa de ingeniería civil más grande de Colombia: esta es su historia",
-        "capturado": "2026-11-22T11:59:34-05:00"
-      },
-      {
-        "titulo": "Retroceso inversor y menor consumo: Radiografía del producto interno bruto nacional",
-        "url": "https://www.valoraanalitik.com/caida-de-la-inversion-y-desaceleracion-del-gasto-radiografia-del-pib-de-colombia/",
-        "resumen": "Los resultados del tercer trimestre han llevado a las principales firmas de análisis a ajustar a la baja sus expectativas para este año y el próximo.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Caída de la inversión y desaceleración del gasto: Radiografía del PIB de Colombia",
-        "capturado": "2026-11-21T20:10:02-05:00"
-      },
-      {
-        "titulo": "Tributo predial en el país contaría con recientes auxilios: estas son las opciones",
-        "url": "https://www.valoraanalitik.com/impuesto-predial-en-colombia-podria-tener-nuevos-alivios-estas-son-las-alternativas/",
-        "resumen": "¿Le llegó más caro el recibo del impuesto predial? En Colombia, las alcaldías tienen herramientas para moderar el cobro y facilitar el pago a los propietarios.",
-        "autor": "",
-        "subseccion": "Impuesto predial",
-        "publicacion": "",
-        "titulo_fuente": "Impuesto predial en Colombia podría tener nuevos alivios: estas son las alternativas",
-        "capturado": "2026-11-21T20:10:02-05:00"
-      },
-      {
-        "titulo": "Planta de Ternium México iniciará operaciones en 2027 tras destinar US$4.000 millones en su tercera fase",
-        "url": "https://www.valoraanalitik.com/aceria-de-ternium-mexico-se-prepara-para-arrancar-en-2027-tras-inversion-de-us4-000-millones-en-tercera-etapa/",
-        "resumen": "Valora Analitik fue uno de los medios invitados para un recorrido por el lugar, dónde César Jiménez, presidente de Ternium México, explicó los detalles.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Acería de Ternium México se prepara para arrancar en 2027 tras inversión de US$4.000 millones en tercera etapa",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "ANI habilita 106 kilómetros viales entre Neiva, Pitalito y San Agustín luego de invertir $376.843 millones",
-        "url": "https://www.valoraanalitik.com/ani-pone-en-operacion-106-kilometros-de-via-entre-neiva-pitalito-y-san-agustin-tras-inversion-de-376-843-millones/",
-        "resumen": "La entrega comprende la rehabilitación de 101 km de vía existente, la variante de Timaná de 3,7 km y un tercer carril de 1 km en La Jagua.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "ANI pone en operación 106 kilómetros de vía entre Neiva, Pitalito y San Agustín tras inversión de $376.843 millones",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "Exclusiva | NG Energy y socios suministrarían hasta 20 % del gas colombiano y prevén llegar a Venezuela",
-        "url": "https://www.valoraanalitik.com/ng-energy-y-sus-socios-podrian-aportar-hasta-20-del-gas-que-consume-colombia-la-empresa-espera-entrar-en-venezuela/",
-        "resumen": "Jorge Fonseca, presidente de NG Energy, reveló algunos detalles de su incursión en el mercado con las mayores reservas de petróleo y gas del mundo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Exclusiva | NG Energy y sus socios podrían aportar hasta 20 % del gas que consume Colombia; la empresa espera entrar en Venezuela",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "Dubái facilita la entrada a compañías latinoamericanas impulsando el café de Brasil y Colombia",
-        "url": "https://www.valoraanalitik.com/dubai-abre-la-puerta-a-empresas-latinoamericanas-con-el-cafe-como-bandera-desde-brasil-y-colombia/",
-        "resumen": "El DMCC tiene hoy unas 300 empresas latinoamericanas entre sus miembros, de las cuales cerca de 200 son brasileñas.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Dubái abre la puerta a empresas latinoamericanas con el café como bandera desde Brasil y Colombia",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "Netflix define el día de estreno para su suscripción con publicidad en el territorio colombiano",
-        "url": "https://www.valoraanalitik.com/netflix-tiene-lista-la-fecha-para-lanzamiento-del-plan-con-anuncios-en-colombia/",
-        "resumen": "Colombia y Perú serán los únicos mercados latinoamericanos del primer grupo de lanzamientos del plan que permite publicidad durante las emisiones de contenido.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Netflix tiene lista la fecha para lanzamiento del plan con anuncios en Colombia",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "Fasecolda y Asofondos detallan los efectos pensionales por frenar el decreto del deslizamiento salarial",
-        "url": "https://www.valoraanalitik.com/que-cambia-para-las-pensiones-tras-la-suspension-del-decreto-sobre-el-deslizamiento-del-salario-minimo-fasecolda-y-asofondos-explican/",
-        "resumen": "El Decreto 1485 de 2025 modificaba las reglas para calcular el deslizamiento del salario mínimo en las rentas vitalicias y la participación del Estado.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "¿Qué cambia para las pensiones tras la suspensión del decreto sobre el deslizamiento del salario mínimo? Fasecolda y Asofondos explican",
-        "capturado": "2026-11-21T10:12:25-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo en alerta debido a bajos embalses justo antes del impacto fuerte del fenómeno de El Niño",
-        "url": "https://www.valoraanalitik.com/gobierno-prende-alarmas-por-menor-nivel-de-embalses-ad-portas-de-mayor-golpe-del-fenomeno-de-el-nino/",
-        "resumen": "Lo anterior, explicó la jefe de cartera, derivado de la ausencia de lluvias y el aumento de la temperatura.",
-        "autor": "",
-        "subseccion": "Fenomeno de el nino efecto que amenaza colombia en 2026",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno prende alarmas por menor nivel de embalses ad portas de mayor golpe del fenómeno de El Niño",
-        "capturado": "2026-11-21T10:12:25-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Hernando Osorio encarga la presidencia de AV Villas tras la salida de Gerardo Hernández",
+        "url": "https://www.valoraanalitik.com/hernando-osorio-asume-en-encargo-la-presidencia-de-av-villas/",
+        "resumen": "El directivo llega en medio de la transformación del banco, que espera cerrar 2026 con utilidades tras casi tres años de resultados negativos.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Hernando Osorio asume en encargo la presidencia de AV Villas tras salida de Gerardo Hernández",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Multinacional abre megaobra de US$13 millones en Valle del Cauca y detalla su nueva operación",
+        "url": "https://www.valoraanalitik.com/multinacional-inaugura-megaobra-de-us13-millones-en-valle-del-cauca-asi-es-su-nueva-operacion/",
+        "resumen": "La multinacional invirtió US$13 millones en una bodega en Yumbo que duplicará su capacidad en el Valle y fortalecerá la distribución de alimentos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Multinacional inaugura megaobra de US$13 millones en Valle del Cauca: así es su nueva operación",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "CCI lanzará sistema informativo para vigilar obras viales en Colombia y conectar empresas",
+        "url": "https://www.valoraanalitik.com/cci-sistema-informacion-obras-colombia/",
+        "resumen": "Se hará en alianza con la CAF y permitirá consultar el avance de proyectos, además de enlazar a firmas para facilitar la ejecución de las obras.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "CCI lanzará sistema de información para monitorear obras de infraestructura en Colombia y conectar empresas",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Invías abre licitaciones por $6,4 billones para cuidar y arreglar carreteras en Colombia",
+        "url": "https://www.valoraanalitik.com/invias-anuncia-licitaciones-por-64-billones-para-mantenimiento-y-rehabilitacion-de-carreteras-en-colombia/",
+        "resumen": "El objetivo es rehabilitar 5.000 kms en 29 corredores viales regionales.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Invías anuncia licitaciones por $6,4 billones para mantenimiento y rehabilitación de carreteras en Colombia",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Colpensiones evaluaría cobrar aportes pensionales atrasados desde hace varios años",
+        "url": "https://www.valoraanalitik.com/colpensiones-podria-cobrar-aportes-a-pension-que-quedaron-pendientes-desde-hace-varios-anos/",
+        "resumen": "Un fallo del Consejo de Estado aclaró cómo se cuentan los cinco años para que Colpensiones adelante el cobro de aportes pensionales atrasados.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Colpensiones podría cobrar aportes a pensión que quedaron pendientes desde hace varios años",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "El 86,7 % del presupuesto de 2026 de Confecámaras irá para servicios de las cámaras de comercio",
+        "url": "https://www.valoraanalitik.com/confecamaras-servicios-camaras-de-comercio/",
+        "resumen": "La entidad aprobó egresos por $37.594 millones para este año, de los cuales $32.582 millones fueron a servicios para las 58 cámaras del país.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Confecámaras destina 86,7 % de su presupuesto de 2026 a servicios para las cámaras de comercio",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Virtualisimo, Café Nominado Reserva y ARPA Arte con Papel ganan la segunda edición de los Premios +50 Emprende Colombia",
+        "url": "https://www.valoraanalitik.com/ganadores-de-la-segunda-edicion-de-los-premios-50-emprende-colombia/",
+        "resumen": "La segunda edición recibió 96 postulaciones de 12 departamentos y Bogotá D. C., un 48 % más que las 65 de la primera edición.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Virtualisimo, Café Nominado Reserva y ARPA Arte con Papel, ganadores de la segunda edición de los Premios +50 Emprende Colombia",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "El Fondo Milagro administrará los recursos de reconstrucción y Argos entregará primer barrio en diciembre",
+        "url": "https://www.valoraanalitik.com/fondo-milagro-reconstruccion-argos-barrio/",
+        "resumen": "Juan Esteban Calle, presidente de Grupo Argos, indicó que el 20 de diciembre se entregará el primer barrio, como parte de Adopta un Hogar.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Así administrará el Fondo Milagro los recursos para reconstrucción; Argos entregará primer barrio en diciembre",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Grupo Éxito anuncia medidas tras retención de rehenes en Cartagena y el futuro de su tienda y personal",
+        "url": "https://www.valoraanalitik.com/grupo-exito-revela-que-hara-tras-toma-de-rehenes-en-cartagena-y-que-pasara-con-su-almacen-y-trabajadores/",
+        "resumen": "Grupo Éxito confirmó qué pasará con su almacén de La Castellana en Cartagena tras la toma de rehenes presentada el 24 de noviembre.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Éxito revela qué hará tras toma de rehenes en Cartagena y qué pasará con su almacén y trabajadores",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Tigo Business: un aliado estratégico para la continuidad y evolución de las grandes entidades en Colombia",
+        "url": "https://www.valoraanalitik.com/tigo-business-un-aliado-estrategico-para-la-evolucion-de-las-entidades/",
+        "resumen": "El servicio reúne capacidades de telecomunicaciones y TIC para acompañar a organizaciones que necesitan administrar entornos complejos.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Tigo Business: un aliado estratégico para la continuidad y evolución de las grandes entidades en Colombia",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Jorge Castaño asumirá la vicepresidencia ejecutiva tras modificar su función en el Grupo Aval",
+        "url": "https://www.valoraanalitik.com/jorge-castano-cambiara-su-rol-en-grupo-aval-sera-vicepresidente-ejecutivo-del-conglomerado/",
+        "resumen": "Castaño, quien fue superintendente financiero entre 2017 y 2023, viene de ser vicepresidente de activos financieros y eficiencia de Grupo Aval.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Jorge Castaño cambiará su rol en Grupo Aval: será vicepresidente ejecutivo del conglomerado",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
+      {
+        "titulo": "Atención | Esta es la trayectoria de Gerardo Hernández, designado nuevo presidente del Grupo Aval",
+        "url": "https://www.valoraanalitik.com/gerardo-hernandez-sera-nuevo-presidente-grupo-aval/",
+        "resumen": "Gerardo Hernández ha hecho parte del Banco de la República, la Superintendencia Financiera y viene de ser presidente del Banco AV Villas.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Gerardo Hernández será el nuevo presidente del Grupo Aval: esta es su trayectoria",
+        "capturado": "2026-11-25T19:08:56-05:00"
+      },
       {
         "titulo": "Grupo QBCo confirma la salida de Bernardo Serna y designa un director encargado",
         "url": "https://www.valoraanalitik.com/grupo-qbco-anuncia-salida-de-bernardo-serna-y-nombra-director-interino/",
@@ -1085,126 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Atención | Grupo Argos vende acciones de Cementos Argos para aumentar flotante y entrar a MSCI Standard",
         "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Gasoducto Antonio Ricaurte estaría listo entre 12 y 24 meses según Naturgas",
-        "url": "https://www.valoraanalitik.com/gasoducto-antonio-ricaurte-podria-estar-listo-en-un-plazo-de-entre-12-y-24-meses-naturgas/",
-        "resumen": "La recuperación de la infraestructura, que conecta a Colombia con Venezuela, requiere intervenciones técnicas y la reconstrucción de algunos tramos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Gasoducto Antonio Ricaurte podría estar listo en un plazo de entre 12 y 24 meses: Naturgas",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Diésel, jet fuel y carbón subirían de precio por la aplicación del impuesto al carbono",
-        "url": "https://www.valoraanalitik.com/diesel-jet-fuel-y-carbon-se-encarecerian-con-la-aplicacion-del-impuesto-al-carbono/",
-        "resumen": "Andeg también dijo que habría un efecto neto negativo de $3,8 billones, mayor presión fiscal en subsidios por posibles aumentos en la tarifa de energía.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Diésel, jet fuel y carbón se encarecerían con la aplicación del impuesto al carbono",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "GOU Payments y zulu habilitan red de pagos inmediatos empresarial para giros de hasta $250 millones",
-        "url": "https://www.valoraanalitik.com/gou-payments-y-zulu-lanzan-red-de-pagos-instantaneos-para-empresas-en-colombia-permitira-transferencias-de-hasta-250-millones/",
-        "resumen": "Las empresas colombianas pueden enviar pagos inmediatos de hasta $250 millones, 24 horas al día y 7 días a la semana, a una red inicial de más de 15 bancos.",
-        "autor": "",
-        "subseccion": "Bancarias",
-        "publicacion": "",
-        "titulo_fuente": "GOU Payments y zulu lanzan red de pagos instantáneos para empresas en Colombia: permitirá transferencias de hasta $250 millones",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Grupo Éxito inaugura su primer establecimiento de remates en Bogotá con rebajas fijas de hasta 60 %",
-        "url": "https://www.valoraanalitik.com/grupo-exito-outlet-bogota-descuentos/",
-        "resumen": "El establecimiento estará en el sector del 20 de Julio y ofrecerá productos de tecnología, electrodomésticos, moda, hogar, juguetería y deportes.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Éxito abre su primera tienda de outlet en Bogotá; ofrecerá descuentos permanentes de hasta 60 %",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Alianza de Seguros Sura con BeatHub para patrocinar DAVIarena y El Corazón de Bogotá Arena",
-        "url": "https://www.valoraanalitik.com/seguros-sura-alianza-beathub/",
-        "resumen": "La estrategia contempla patrocinios en dos escenarios y el desarrollo de soluciones de bienestar, prevención y aseguramiento para la industria.",
-        "autor": "",
-        "subseccion": "Conciertos eventos",
-        "publicacion": "",
-        "titulo_fuente": "Seguros Sura entra al entretenimiento con alianza con BeatHub; patrocinará DAVIarena y El Corazón de Bogotá Arena",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Adriana Guillén sale de la dirección de Asocajas luego de casi diez años al frente del gremio",
-        "url": "https://www.valoraanalitik.com/adriana-guillen-deja-presidencia-asocajas/",
-        "resumen": "En los próximos días se reunirá la Junta Directiva en pleno para conocer y definir la ruta del proceso de sucesión de Guillén.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Adriana Guillén deja la presidencia de Asocajas tras cerca de una década liderando el gremio",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Latam Airlines Colombia anuncia planes de expansión y solicita franjas horarias para más aeronaves",
-        "url": "https://www.valoraanalitik.com/latam-airlines-colombia-crecimiento-solicitud-mas-slots/",
-        "resumen": "Roberto Alvo, CEO de Latam Airlines Group, destacó a Colombia como su segundo mercado doméstico en la región, después de Brasil.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Latam Airlines Colombia confirma planes de crecimiento en el país y pide slots para sumar aviones",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Latam Cargo proyecta a Colombia mediante capital para multiplicar por tres su servicio en Bogotá",
-        "url": "https://www.valoraanalitik.com/latam-cargo-entrevista-santiago-alvarez-crecimiento-bogota/",
-        "resumen": "La infraestructura renovada de Latam Cargo fortalecerá la cadena de frío y permitirá atender más importaciones y envíos de comercio electrónico.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Latam Cargo apuesta por Colombia con inversión para triplicar su operación en Bogotá",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Deita emplea WhatsApp en sondeos y expone metas tras recibir un fondo de un millón de dólares",
-        "url": "https://www.valoraanalitik.com/entrevista-deita-utiliza-whatsapp-para-realizar-estudios-de-mercado-revela-prioridades-tras-inversion-de-us1-millon/",
-        "resumen": "Los clientes de Deita definen qué información quieren conocer y el perfil de las personas a las que desean consultar.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Deita utiliza WhatsApp para realizar estudios de mercado: revela prioridades tras inversión de US$1 millón",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "El gas de Venezuela saldría 75 por ciento más económico que el actual importado por Colombia y Ecopetrol negocia con PDVSA",
-        "url": "https://www.valoraanalitik.com/gas-de-venezuela-podria-ser-75-mas-barato-del-que-hoy-importa-colombia-ecopetrol-avanza-en-negocio-con-pdvsa/",
-        "resumen": "Para algunos analistas, lo paradójico de la situación es que hace poco más de una década era Colombia la que exportaba gas a ese país.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Gas venezolano podría ser 75 % más barato del que hoy importa Colombia; Ecopetrol avanza en negocio con PDVSA",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Wingo recuerda las instancias principales de Destino Oculto 3, temporada que batió nuevamente marcas históricas",
-        "url": "https://www.valoraanalitik.com/wingo-destino-oculto-3-recap-y-mejores-momentos/",
-        "resumen": "La tercera edición de Destino Oculto rompió nuevamente su récord de ventas, al agotar la totalidad de sus cupos en tan solo 19 minutos.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Wingo revive los mejores momentos de Destino Oculto 3, edición que volvió a romper récord",
-        "capturado": "2026-11-20T12:56:52-05:00"
-      },
-      {
-        "titulo": "Ignacio Gaitán asumirá la presidencia de Aliadas en reemplazo de María Claudia Lacouture",
-        "url": "https://www.valoraanalitik.com/ignacio-gaitan-de-afidro-sera-el-presidente-de-aliadas-tras-salida-de-maria-claudia-lacouture/",
-        "resumen": "Gaitán se desempeñaba como vicepresidente de la alianza, y ahora liderará la agenda que se mantiene con el Gobierno Nacional y el Congreso de la República.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Ignacio Gaitán de Afidro será el presidente de Aliadas tras salida de María Claudia Lacouture",
-        "capturado": "2026-11-20T04:00:23-05:00"
       }
     ]
   }
