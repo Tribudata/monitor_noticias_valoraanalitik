@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-26T03:46:53-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-26T13:54:21-05:00",
+  "nuevos_en_esta_corrida": 18,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Aerocivil evaluará slots en El Dorado con nuevo esquema del Gobierno",
+        "url": "https://www.valoraanalitik.com/aerocivil-revisara-slots-en-aeropuerto-el-dorado/",
+        "resumen": "La terminal aérea cuenta actualmente con una capacidad de 74 operaciones por hora en sus dos pistas.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Aerocivil revisará slots en aeropuerto El Dorado: así es el nuevo esquema que alista el Gobierno",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Camacol avisa que subsidios habitacionales nacionales faltarían en 2027 y ve retos para repuntar",
+        "url": "https://www.valoraanalitik.com/camacol-advierte-que-subsidios-de-vivienda-nacionales-no-llegarian-en-2027-y-senala-retos-para-reactivar-el-mercado/",
+        "resumen": "Chiriví señaló que los programas de subsidios distritales y de las cajas de compensación serán fundamentales para mantener el movimiento del mercado.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Camacol advierte que subsidios de vivienda nacionales no llegarían en 2027 y señala retos para reactivar el mercado",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Bogotá llegó a tope récord de vivienda nueva en 2026 con 52.076 unidades y liderazgo VIS",
+        "url": "https://www.valoraanalitik.com/bogota-alcanzo-maximo-historico-de-vivienda-nueva-en-2026-registro-52-076-unidades-vis-siguen-liderando/",
+        "resumen": "La inversión de los hogares en vivienda nueva en Bogotá alcanzó los $18,2 billones en 2026, un crecimiento de 10 % frente al año anterior.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá alcanzó máximo histórico de vivienda nueva en 2026: registró 52.076 unidades, VIS siguen liderando",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella reactivará subsidios habitacionales en Colombia desde 2027",
+        "url": "https://www.valoraanalitik.com/atencion-gobierno-de-la-espriella-reactivara-los-subsidios-de-vivienda-en-colombia-desde-2027/",
+        "resumen": "La estrategia de vivienda del Gobierno De la Espriella proyecta movilizar $20 billones durante el cuatrienio a través de distintas fuentes de financiación.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Gobierno De la Espriella reactivará los subsidios de vivienda en Colombia desde 2027",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella fija fecha para borrador de términos sobre fracking",
+        "url": "https://www.valoraanalitik.com/exclusiva-gobierno-de-la-espriella-tiene-fecha-para-publicar-borrador-de-terminos-de-referencia-para-hacer-fracking/",
+        "resumen": "La ANLA también prepara cambios en la consulta previa, las sustracciones y la compensación ambiental para acortar los tiempos de licenciamiento.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Exclusiva | Gobierno De la Espriella tiene fecha para publicar borrador de términos de referencia para hacer fracking",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella entrega cárcel de $362.974 millones en Colombia: cupo para 1.722 presos",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-entrega-carcel-de-362-974-millones-en-colombia-tendra-capacidad-para-1-722-internos/",
+        "resumen": "La nueva cárcel de Riohacha entregada por el gobierno De la Espriella cuenta con espacios para mujeres y población wayuu.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella entrega cárcel de $362.974 millones en Colombia: tendrá capacidad para 1.722 internos",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Entrevista | Itaú: Colombia sobresale en la región al adoptar medidas anticipadas para su déficit fiscal",
+        "url": "https://www.valoraanalitik.com/entrevista-itau-colombia-destaca-en-america-latina-al-tomar-decisiones-tempranas-para-corregir-su-desbalance-fiscal/",
+        "resumen": "Andrés Pérez, economista jefe para América Latina de Itaú, analizó las perspectivas macroeconómicas de la región y resaltó el desempeño de Colombia.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Entrevista | Itaú: Colombia destaca en América Latina al tomar decisiones tempranas para corregir su desbalance fiscal",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Permiso de conducción en Colombia: Corte Constitucional conserva norma esencial para millones de choferes",
+        "url": "https://www.valoraanalitik.com/licencia-de-conduccion-en-colombia-corte-constitucional-mantiene-regla-clave-que-afecta-a-millones-de-conductores/",
+        "resumen": "La Corte Constitucional ratificó los periodos de renovación de la licencia de conducción según la edad y el tipo de servicio del vehículo.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Licencia de conducción en Colombia: Corte Constitucional mantiene regla clave que afecta a millones de conductores",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Indicador de productividad frenaría el alza del salario básico en Colombia: la PTF sumó solo 0,15 pp",
+        "url": "https://www.valoraanalitik.com/dato-de-productividad-limitaria-el-aumento-del-salario-minimo-en-colombia-la-ptf-apenas-aporto-015-pp/",
+        "resumen": "Con una inflación acumulada del 5,94 % y un aporte marginal de la productividad, la mesa de concertación inicia negociaciones con un margen estrecho.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Dato de productividad limitaría el aumento del salario mínimo en Colombia: la PTF apenas aportó 0,15 pp",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia inicia cayendo a $3.534 en sesión Next Day por el día de Acción de Gracias en EE. UU.",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-abre-a-la-baja-en-3-534-en-jornada-next-day-por-el-festivo-de-accion-de-gracias-en-ee-uu/",
+        "resumen": "La divisa estadounidense abrió hoy con un retroceso de $21 hasta los $3.534, acompañando el respiro técnico del dólar a nivel global.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia abre a la baja en $3.534 en jornada Next Day por el festivo de Acción de Gracias en EE. UU.",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Cuatro acciones locales con gran potencial según las selecciones de Cibest Capital para noviembre 2026",
+        "url": "https://www.valoraanalitik.com/actualizacion-top-picks-de-cibest-capital-estas-son-cuatro-acciones-con-mayor-potencial-de-crecimiento-en-el-mercado-colombiano/",
+        "resumen": "Los Top Picks de Cibest Capital registraron una valorización de 23,54 % en lo corrido del año, incluidos dividendos, frente al 18,76 % del MSCI Colcap.",
+        "autor": "",
+        "subseccion": "Bolsa de valores",
+        "publicacion": "",
+        "titulo_fuente": "Top Picks de Cibest Capital noviembre 2026: estas son cuatro acciones con mayor potencial de crecimiento en el mercado colombiano",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Alcalde Galán admite demoras de personal y en obras de estaciones del sistema Metro de Bogotá",
+        "url": "https://www.valoraanalitik.com/metro-de-bogota-galan-reconoce-retrasos-en-estaciones-y-falta-de-personal/",
+        "resumen": "El alcalde también se refirió a los preparativos para integrar el sistema de pago de la primera línea del metro con el de TransMilenio.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Metro de Bogotá: Galán reconoce retrasos en estaciones y falta de personal",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
       {
         "titulo": "Colombia pretende agilizar sus proyectos viales mayores y estas son las iniciativas",
         "url": "https://www.valoraanalitik.com/conclusiones-clave-del-congreso-nacional-de-infraestructura-2026/",
@@ -483,129 +603,69 @@
         "publicacion": "",
         "titulo_fuente": "Relevante | Arranca fase de construcción del megaproyecto del Canal del Dique por más de $3,2 billones",
         "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Gobierno planteará modificar la Ley de APP para autorizar adiciones de hasta 50 % en grandes obras viales",
-        "url": "https://www.valoraanalitik.com/gobierno-reformar-la-ley-de-app-busca-adiciones-hasta-50-megaproyectos/",
-        "resumen": "La ministra Elsa Noguera aseguró que esta medida será clave en medio de un escenario de estrechez fiscal.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno propondrá reformar la Ley de APP para permitir adiciones de hasta 50 % en megaproyectos de infraestructura",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Banqueros consideran el ajuste fiscal requisito para la baja de tasas en 2027 y el repunte del crédito",
-        "url": "https://www.valoraanalitik.com/banqueros-ajuste-fiscal-tasa-colombia/",
-        "resumen": "Los presidentes de AV Villas y Serfinanza consideran que la corrección de las finanzas públicas será determinante para recuperar la confianza.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Banqueros ven ajuste fiscal como condición para que baje la tasa de interés en 2027 y se reactive el crédito",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Federación de Municipios señala que reembolso de dinero por fotomultas no ocurrirá de forma automática",
-        "url": "https://www.valoraanalitik.com/federacion-de-municipios-aclara-que-devolucion-de-dinero-por-fotomultas-no-sera-automatica/",
-        "resumen": "Devolución de dinero por fotomultas dependerá de un proceso administrativo, advierte Federación de Municipios.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Federación de Municipios aclara que devolución de dinero por fotomultas no será automática",
-        "capturado": "2026-11-23T08:31:11-05:00"
-      },
-      {
-        "titulo": "Exclusivo | Ecopetrol enajenará activos no clave y enfocará su operación en crudo y gas: ¿Abarca a ISA?",
-        "url": "https://www.valoraanalitik.com/exclusivo-ecopetrol-vendera-activos-no-estrategicos-y-concentrara-su-negocio-en-petroleo-y-gas-estaria-isa-incluida/",
-        "resumen": "La petrolera prepara un plan de desinversión y busca socios internacionales para acelerar el desarrollo de yacimientos no convencionales, gas y campos maduros.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Exclusivo | Ecopetrol venderá activos no estratégicos y concentrará su negocio en petróleo y gas: ¿Estaría ISA incluida?",
-        "capturado": "2026-11-23T08:31:11-05:00"
-      },
-      {
-        "titulo": "Bogotá afronta tensión energética y polución: estas son las acciones solicitadas por el Distrito",
-        "url": "https://www.valoraanalitik.com/bogota-enfrenta-presion-energetica-y-contaminacion-estas-son-las-medidas-que-pide-el-distrito/",
-        "resumen": "Galán pidió reducir el consumo de energía ante la presión sobre las reservas hídricas, mientras permanece en alerta por contaminación atmosférica.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá enfrenta presión energética y contaminación: estas son las medidas que pide el Distrito",
-        "capturado": "2026-11-23T08:31:11-05:00"
-      },
-      {
-        "titulo": "Dubái intensifica su inversión en inteligencia artificial a través de su distrito financiero",
-        "url": "https://www.valoraanalitik.com/dubai-acelera-su-apuesta-por-la-inteligencia-artificial-desde-su-centro-financiero/",
-        "resumen": "El Centro Financiero Internacional de Dubái busca atraer más de 500 empresas de inteligencia artificial a lo que denomina como el Dubai AI Campus.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Dubái acelera su apuesta por la inteligencia artificial desde su centro financiero",
-        "capturado": "2026-11-23T08:31:11-05:00"
-      },
-      {
-        "titulo": "Premercado | Wall Street repunta y pone la mira en el reporte de PCE de la semana: baja el petróleo",
-        "url": "https://www.valoraanalitik.com/premercado-wall-street-se-recupera-y-centra-atencion-en-publicacion-de-pce-esta-semana-petroleo-cae/",
-        "resumen": "El calendario económico también podría influir en la confianza del mercado.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Wall Street se recupera y centra atención en publicación de PCE esta semana: petróleo cae",
-        "capturado": "2026-11-23T08:31:11-05:00"
-      },
-      {
-        "titulo": "Gobierno De la Espriella confirma la duración del fenómeno de El Niño fuerte y los departamentos impactados",
-        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-confirma-hasta-cuando-ira-el-fenomeno-de-el-nino-muy-fuerte-y-los-departamentos-mas-afectados/",
-        "resumen": "El fenómeno de El Niño en Colombia ya empezó y su golpe más fuerte se sentirá en los próximos días.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno De la Espriella confirma hasta cuándo irá el fenómeno de El Niño “muy fuerte” y los departamentos más afectados",
-        "capturado": "2026-11-23T08:31:11-05:00"
-      },
-      {
-        "titulo": "Inaam prevé ventas en Colombia al tiempo que apunta a crecer en Estados Unidos y México",
-        "url": "https://www.valoraanalitik.com/inaam-busca-expandirse-a-ee-uu-y-mexico-mientras-proyecta-ventas-en-colombia/",
-        "resumen": "La marca colombiana de bebidas botánicas prepara nuevos lanzamientos y busca US$8 millones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inaam busca expandirse a EE. UU. y México mientras proyecta ventas en Colombia",
-        "capturado": "2026-11-22T17:24:44-05:00"
-      },
-      {
-        "titulo": "Entrevista | Interaseo alista iniciativa energética en Cali y prevé ventas por $1,5 billones en 2027",
-        "url": "https://www.valoraanalitik.com/interaseo-avanza-con-nuevo-proyecto-de-generacion-de-energia-en-cali-y-espera-facturar-15-billones-en-2027/",
-        "resumen": "Fabio Alberto Salazar, gerente general de Interaseo, habló sobre las perspectivas de la compañía para 2027.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Interaseo avanza con nuevo proyecto de generación de energía en Cali y espera facturar $1,5 billones en 2027",
-        "capturado": "2026-11-22T17:24:44-05:00"
-      },
-      {
-        "titulo": "Titular de Ecopetrol reitera que el déficit fiscal del Fepc persiste debido al valor del diésel",
-        "url": "https://www.valoraanalitik.com/presidente-de-ecopetrol-insiste-en-que-hueco-fiscal-del-fepc-se-mantiene-por-precio-del-diesel/",
-        "resumen": "Durante el tercer trimestre de 2026, el diésel registró una diferencia de $7.545 por galón por debajo de su precio de reconocimiento.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Presidente de Ecopetrol insiste en que hueco fiscal del Fepc se mantiene por precio del diésel",
-        "capturado": "2026-11-22T17:24:44-05:00"
-      },
-      {
-        "titulo": "Proyecciones para la economía de Asia en el año 2027",
-        "url": "https://www.valoraanalitik.com/crecimiento-economico-asia-2027-proyecciones/",
-        "resumen": "Oxford Economics prevé un crecimiento desigual en Asia para 2027, con Vietnam e India entre las economías más dinámicas y una desaceleración en China.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Crecimiento económico de Asia en 2027: estas son las proyecciones",
-        "capturado": "2026-11-22T17:24:44-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Alimentos con fibra y proteína crecen y generan desafíos para el sector industrial colombiano",
+        "url": "https://www.valoraanalitik.com/bebidas-con-proteina-y-fibra-ganan-terreno-y-plantean-retos-a-la-industria-de-alimentos-en-colombia/",
+        "resumen": "De acuerdo con Innova Market Insights, ambos ingredientes se encuentran entre las principales tendencias globales de innovación en el sector.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bebidas con proteína y fibra ganan terreno y plantean retos a la industria de alimentos en Colombia",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Atención | Gobierno De la Espriella reactivará subsidios habitacionales en Colombia desde 2027",
+        "url": "https://www.valoraanalitik.com/atencion-gobierno-de-la-espriella-reactivara-los-subsidios-de-vivienda-en-colombia-desde-2027/",
+        "resumen": "La estrategia de vivienda del Gobierno De la Espriella proyecta movilizar $20 billones durante el cuatrienio a través de distintas fuentes de financiación.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Gobierno De la Espriella reactivará los subsidios de vivienda en Colombia desde 2027",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Bienestar laboral y sostenibilidad empresarial exigen estabilidad financiera, formación y confianza",
+        "url": "https://www.valoraanalitik.com/confianza-estabilidad-financiera-y-formacion-claves-para-fortalecer-el-bienestar-de-los-trabajadores-y-contribuir-a-la-sostenibilidad-empresarial/",
+        "resumen": "Reflexiones del encuentro ‘La productividad empieza por la armonía de los trabajadores’, organizado por Comfandi, que reunió a líderes empresariales y expertos.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Confianza, estabilidad financiera y formación: claves para fortalecer el bienestar de los trabajadores y contribuir a la sostenibilidad empresarial",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Exclusiva | Gobierno De la Espriella fijó fecha para publicar el borrador de términos del fracking",
+        "url": "https://www.valoraanalitik.com/exclusiva-gobierno-de-la-espriella-tiene-fecha-para-publicar-borrador-de-terminos-de-referencia-para-hacer-fracking/",
+        "resumen": "La ANLA también prepara cambios en la consulta previa, las sustracciones y la compensación ambiental para acortar los tiempos de licenciamiento.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Exclusiva | Gobierno De la Espriella tiene fecha para publicar borrador de términos de referencia para hacer fracking",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Incode presenta herramienta para validar firmas en pagos y compras de agentes de IA",
+        "url": "https://www.valoraanalitik.com/incode-lanza-tecnologia-para-verificar-quien-autoriza-compras-y-pagos-de-agentes-de-ia/",
+        "resumen": "El anuncio se produce en un mercado donde los canales digitales concentran buena parte de la actividad financiera y comercial.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Incode lanza tecnología para verificar quién autoriza compras y pagos de agentes de IA",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
+      {
+        "titulo": "Inficaldas y el CLAO: un plan extendido para unir a Caldas con nuevas opciones de progreso",
+        "url": "https://www.valoraanalitik.com/inficaldas-y-el-clao-una-estrategia-de-largo-plazo-para-conectar-a-caldas-con-nuevas-oportunidades-de-desarrollo/",
+        "resumen": "Planificación territorial, inteligencia logística y articulación de actores para impulsar competitividad, reactivación económica y bienestar de la población.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inficaldas y el CLAO: una estrategia de largo plazo para conectar a Caldas con nuevas oportunidades de desarrollo",
+        "capturado": "2026-11-26T13:54:21-05:00"
+      },
       {
         "titulo": "El país quiere dinamizar sus proyectos viales mayores y estas son las iniciativas",
         "url": "https://www.valoraanalitik.com/conclusiones-clave-del-congreso-nacional-de-infraestructura-2026/",
@@ -1145,66 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Dubái abre la puerta a empresas latinoamericanas con el café como bandera desde Brasil y Colombia",
         "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "Netflix ya definió el día de llegada de su alternativa con publicidad a territorio colombiano",
-        "url": "https://www.valoraanalitik.com/netflix-tiene-lista-la-fecha-para-lanzamiento-del-plan-con-anuncios-en-colombia/",
-        "resumen": "Colombia y Perú serán los únicos mercados latinoamericanos del primer grupo de lanzamientos del plan que permite publicidad durante las emisiones de contenido.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Netflix tiene lista la fecha para lanzamiento del plan con anuncios en Colombia",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "Negocios corporativos en Colombia rebasan los US$11.400 millones en 2026, a pesar del descenso del 20 % en tratos",
-        "url": "https://www.valoraanalitik.com/transacciones-empresariales-colombia-2026/",
-        "resumen": "El capital movilizado en fusiones y adquisiciones aumentó 59 % a septiembre. Software, energía, petróleo y banca, entre los sectores con mayor actividad.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Transacciones empresariales en Colombia superan US$11.400 millones en 2026, pese a caída de 20 % en operaciones",
-        "capturado": "2026-11-21T10:12:25-05:00"
-      },
-      {
-        "titulo": "Rappi robustece beneficios a usuarios al sumar socios de fidelización e incursionar en turismo",
-        "url": "https://www.valoraanalitik.com/rappi-fortalece-recompensas-clientes-viajes/",
-        "resumen": "Los usuarios de Pro Black recibirán 2 % en RappiCréditos para viajes hasta el 31 de diciembre; acumularán millas y puntos en seis programas aliados.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Rappi fortalece las recompensas para sus clientes; amplía alianzas con programas de lealtad y apuesta por viajes",
-        "capturado": "2026-11-21T01:38:16-05:00"
-      },
-      {
-        "titulo": "Naturgas halla opciones para reabrir el gasoducto venezolano ante la búsqueda de nuevos suministros",
-        "url": "https://www.valoraanalitik.com/naturgas-ve-posibilidades-de-reactivar-gasoducto-con-venezuela/",
-        "resumen": "La recuperación de la infraestructura, que conecta a Colombia con Venezuela, requiere intervenciones técnicas y la reconstrucción de algunos tramos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Naturgas ve posibilidades de reactivar gasoducto con Venezuela en medio de búsqueda de nuevas fuentes de gas",
-        "capturado": "2026-11-21T01:38:16-05:00"
-      },
-      {
-        "titulo": "Más de 1.000 tenderos piden al Gobierno y al Congreso frenar los impuestos saludables",
-        "url": "https://www.valoraanalitik.com/mas-de-1-000-tenderos-piden-al-gobierno-y-al-congreso-frenar-los-impuestos-saludables/",
-        "resumen": "Los comerciantes advierten que estos gravámenes afectan las ventas, la rentabilidad de las tiendas de barrio y el bolsillo de los consumidores.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Más de 1.000 tenderos piden al Gobierno y al Congreso frenar los impuestos saludables",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Samsung aumentará su inversión en el deporte en 2027 con foco en salud y tecnología según entrevista",
-        "url": "https://www.valoraanalitik.com/samsung-ampliara-su-inversion-en-el-deporte-en-2027/",
-        "resumen": "Samsung proyecta continuar sus inversiones deportivas en 2027 y fortalecer el uso de relojes inteligentes para monitorear el rendimiento físico.",
-        "autor": "",
-        "subseccion": "Valorasports",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Samsung ampliará su inversión en el deporte en 2027 con foco en salud y tecnología",
-        "capturado": "2026-11-20T18:55:18-05:00"
       }
     ]
   }
