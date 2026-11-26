@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-25T19:08:56-05:00",
-  "nuevos_en_esta_corrida": 24,
+  "actualizado": "2026-11-26T03:46:53-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Colombia pretende agilizar sus proyectos viales mayores y estas son las iniciativas",
+        "url": "https://www.valoraanalitik.com/conclusiones-clave-del-congreso-nacional-de-infraestructura-2026/",
+        "resumen": "Alcaldes y Gobierno presentaron proyectos de movilidad, transporte intermodal y conectividad rural durante el Congreso Nacional de Infraestructura.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Colombia busca acelerar sus grandes obras de infraestructura: estas son las apuestas",
+        "capturado": "2026-11-26T03:46:53-05:00"
+      },
+      {
+        "titulo": "Proyecto de salvamento financiero: bancada contraria propone texto alterno para captar $18,1 billones",
+        "url": "https://www.valoraanalitik.com/oposicion-presenta-ponencia-alternativa-a-la-ley-de-rescate-economico/",
+        "resumen": "La iniciativa plantea mantener recursos del SENA, el ICBF y las cajas de compensación, además de eliminar el IVA a insumos agrícolas.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Ley de rescate económico: oposición presenta ponencia alternativa para recaudar $18,1 billones",
+        "capturado": "2026-11-26T03:46:53-05:00"
+      },
       {
         "titulo": "Bogotá entregará contratos por $25 billones para el cobro del Metro y Transmilenio",
         "url": "https://www.valoraanalitik.com/bogota-adjudicara-contratos-por-25-billones/",
@@ -583,29 +603,19 @@
         "publicacion": "",
         "titulo_fuente": "Crecimiento económico de Asia en 2027: estas son las proyecciones",
         "capturado": "2026-11-22T17:24:44-05:00"
-      },
-      {
-        "titulo": "Colombia debe rescatar su soberanía energética: las seis propuestas de BCG",
-        "url": "https://www.valoraanalitik.com/colombia-necesita-recuperar-su-soberania-energetica-las-seis-medidas-que-propone-bcg/",
-        "resumen": "La discusión energética ya no puede concentrarse exclusivamente en la transición hacia fuentes más limpias, sino que debe incorporar otros dos factores.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Colombia necesita recuperar su soberanía energética: las seis medidas que propone BCG",
-        "capturado": "2026-11-22T11:59:34-05:00"
-      },
-      {
-        "titulo": "Pactar un acuerdo nacional y un ajuste fiscal paulatino: claves para enderezar a Colombia",
-        "url": "https://www.valoraanalitik.com/firmar-un-acuerdo-nacional-y-hacer-ajuste-fiscal-gradual-entre-las-acciones-estrategicas-para-corregir-el-rumbo-de-colombia/",
-        "resumen": "Las principales autoridades económicas coincidieron en revisar las reformas estructurales del gasto e implementar un paquete fiscal gradual y creíble.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Firmar un acuerdo nacional y hacer ajuste fiscal gradual: Entre las acciones estratégicas para corregir el rumbo de Colombia",
-        "capturado": "2026-11-22T11:59:34-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "El país quiere dinamizar sus proyectos viales mayores y estas son las iniciativas",
+        "url": "https://www.valoraanalitik.com/conclusiones-clave-del-congreso-nacional-de-infraestructura-2026/",
+        "resumen": "Alcaldes y Gobierno presentaron proyectos de movilidad, transporte intermodal y conectividad rural durante el Congreso Nacional de Infraestructura.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Colombia busca acelerar sus grandes obras de infraestructura: estas son las apuestas",
+        "capturado": "2026-11-26T03:46:53-05:00"
+      },
       {
         "titulo": "Hernando Osorio encarga la presidencia de AV Villas tras la salida de Gerardo Hernández",
         "url": "https://www.valoraanalitik.com/hernando-osorio-asume-en-encargo-la-presidencia-de-av-villas/",
@@ -1194,16 +1204,6 @@
         "subseccion": "Valorasports",
         "publicacion": "",
         "titulo_fuente": "Entrevista | Samsung ampliará su inversión en el deporte en 2027 con foco en salud y tecnología",
-        "capturado": "2026-11-20T18:55:18-05:00"
-      },
-      {
-        "titulo": "Grupo Argos vende acciones de Cementos Argos para aumentar flotante y entrar a MSCI Standard",
-        "url": "https://www.valoraanalitik.com/grupo-argos-vende-acciones-cementos-argos-aumentar-flotante-entrar-a-msci-standard/",
-        "resumen": "El ‘holding’ de infraestructura mantendrá el control de la cementera, con aproximadamente un 52,2 %.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Grupo Argos vende acciones de Cementos Argos para aumentar flotante y entrar a MSCI Standard",
         "capturado": "2026-11-20T18:55:18-05:00"
       }
     ]
