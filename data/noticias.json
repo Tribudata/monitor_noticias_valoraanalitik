@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-26T21:04:58-05:00",
-  "nuevos_en_esta_corrida": 21,
+  "actualizado": "2026-11-27T06:15:52-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Alza en la edad de jubilación en Colombia aplicaría de forma paulatina y sin inmediatez",
+        "url": "https://www.valoraanalitik.com/propuesta-para-subir-la-edad-de-pension-en-colombia-no-seria-inmediata-se-priorizaria-la-gradualidad/",
+        "resumen": "La edad de pensión en Colombia debe subir. dicen organismos como la OCDE. En esto debería quedar.",
+        "autor": "",
+        "subseccion": "Reforma pensional",
+        "publicacion": "",
+        "titulo_fuente": "Propuesta para subir la edad de pensión en Colombia no sería inmediata: Se priorizaría la gradualidad",
+        "capturado": "2026-11-27T06:15:52-05:00"
+      },
+      {
+        "titulo": "Mayor capital y tecnología requiere la infraestructura colombiana según el Congreso CCI 2026",
+        "url": "https://www.valoraanalitik.com/temas-clave-en-el-segundo-dia-del-congreso-de-la-cci-2026/",
+        "resumen": "El sector enfrenta brechas de financiación, dificultades regulatorias y retos técnicos que limitan su competitividad.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Colombia necesita más inversión y tecnología para transformar su infraestructura: temas clave en el segundo día del Congreso de la CCI 2026",
+        "capturado": "2026-11-27T06:15:52-05:00"
+      },
       {
         "titulo": "Terminal aérea de Cartagena progresa en actualización tras pactos para destrabar trabajos",
         "url": "https://www.valoraanalitik.com/aeropuerto-de-cartagena-avanza-en-su-modernizacion-tras-acuerdos-para-destrabar-obras/",
@@ -582,26 +602,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "Premercado | Bolsas de Asia repuntan tras rally de Nvidia; Europa retrocede y Wall Street atento a la FED",
-        "capturado": "2026-11-24T07:15:12-05:00"
-      },
-      {
-        "titulo": "ANDI pacta con el Ejecutivo un aporte de $48,8 billones para el saneamiento fiscal colombiano",
-        "url": "https://www.valoraanalitik.com/andi-acuerda-con-el-gobierno-hacer-un-esfuerzo-de-488-billones-para-rescate-fiscal-de-colombia/",
-        "resumen": "La ANDI también presentó una serie de propuestas para no afectar el bolsillo de los colombianos con más impuestos.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "ANDI acuerda con el Gobierno hacer un esfuerzo de $48,8 billones para rescate fiscal de Colombia",
-        "capturado": "2026-11-24T07:15:12-05:00"
-      },
-      {
-        "titulo": "Director del Emisor señala la fórmula ideal para el incremento salarial mínimo colombiano en 2027",
-        "url": "https://www.valoraanalitik.com/gerente-del-banco-de-la-republica-dice-cual-seria-la-receta-adecuada-para-el-aumento-del-salario-minimo-en-colombia-del-2027/",
-        "resumen": "De acuerdo con el gerente del Banco de la República el aumento del salario mínimo debe ser mesurado para evitar un nuevo golpe a la inflación",
-        "autor": "",
-        "subseccion": "Salario minimo",
-        "publicacion": "",
-        "titulo_fuente": "Gerente del Banco de la República dice cuál sería la receta adecuada para el aumento del salario mínimo en Colombia del 2027",
         "capturado": "2026-11-24T07:15:12-05:00"
       }
     ],
