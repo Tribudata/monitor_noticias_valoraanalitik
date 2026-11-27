@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-26T13:54:21-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-11-26T21:04:58-05:00",
+  "nuevos_en_esta_corrida": 21,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Terminal aérea de Cartagena progresa en actualización tras pactos para destrabar trabajos",
+        "url": "https://www.valoraanalitik.com/aeropuerto-de-cartagena-avanza-en-su-modernizacion-tras-acuerdos-para-destrabar-obras/",
+        "resumen": "La ANI, el Gobierno y la concesión definieron compromisos sobre terrenos, vías y espacio público. Las obras registran un avance del 11 %.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Aeropuerto de Cartagena avanza en su modernización tras acuerdos para destrabar obras",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Modificaciones en Tiendas Ísimo: Andrés Escobar dimitió a la gerencia ejecutiva",
+        "url": "https://www.valoraanalitik.com/andres-escobar-renuncio-a-la-gerencia-ejecutiva-de-tiendas-isimo/",
+        "resumen": "El directivo deja la cadena por motivos personales, tras un año en el que la compañía superó los $900.000 millones en ventas y alcanzó 310 tiendas.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Cambios en Tiendas Ísimo: Andrés Escobar renunció a la gerencia ejecutiva",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Cobros del corredor Bogotá-Girardot aumentarán en diciembre al concluir obras: así quedaron",
+        "url": "https://www.valoraanalitik.com/peajes-de-chusaca-y-chinauta-tendran-nuevas-tarifas-en-diciembre/",
+        "resumen": "El ajuste comenzará a regir el 1 de diciembre en la vía Bogotá-Girardot. Uno de los peajes cuenta con una tarifa diferencial para ciertos usuarios.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Peajes de la vía Bogotá-Girardot subirán tarifas en diciembre tras finalizar obras: así quedaron",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Colombia expuso ante la OCDE su estrategia para mudar el modelo productivo al 2030",
+        "url": "https://www.valoraanalitik.com/colombia-presento-ante-la-ocde-su-plan-para-transformar-la-economia-al-2030/",
+        "resumen": "La hoja de ruta plantea elevar la inversión al 25 % del PIB e impulsar sectores como la agroindustria, la bioeconomía y los minerales estratégicos.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Colombia presentó ante la OCDE su plan para transformar la economía al 2030",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Pasajes de vuelo de Wingo se adquirirán desde ahora mediante Addi por cuotas",
+        "url": "https://www.valoraanalitik.com/tiquetes-aereos-de-wingo-se-podran-comprar-ahora-con-addi-a-cuotas/",
+        "resumen": "La aerolínea también anunció descuentos en vuelos nacionales e internacionales para viajar en 2027.",
+        "autor": "",
+        "subseccion": "Aerolineas colombia",
+        "publicacion": "",
+        "titulo_fuente": "Tiquetes aéreos de Wingo se podrán comprar ahora con Addi a cuotas",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Gobierno colombiano enfrenta riesgo en su credibilidad fiscal por ausencia de acciones de ajuste",
+        "url": "https://www.valoraanalitik.com/credibilidad-fiscal-del-gobierno-colombiano-esta-en-riesgo-ante-la-falta-de-medidas-concretas-de-ajuste/",
+        "resumen": "Rafael Molina, director de Research en Renta 4 Global Fiduciaria, se refirió a las presiones inflacionarias, las tasas de interés y las perspectivas del dólar.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Credibilidad fiscal del Gobierno colombiano está en riesgo ante la falta de medidas concretas de ajuste",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Histórico: acción externa regresa a la Bolsa de Colombia tras 15 años",
+        "url": "https://www.valoraanalitik.com/accion-empresa-extranjera-bolsa-de-colombia/",
+        "resumen": "El último doble listado de un emisor extranjero en el mercado accionario local fue Tuscany International Drilling, también canadiense.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Relevante | Después de 15 años, la acción de una empresa extranjera se lista en la Bolsa de Colombia",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio del dólar cerró a $3.549,70 en rueda Next Day debido a festividad estadounidense",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-cierra-en-3-54970-en-sesion-next-day-por-festivo-en-ee-uu/",
+        "resumen": "De acuerdo con el Banco de Occidente, la divisa abrió en $3.534 y osciló durante la jornada en un rango entre $3.485 y $3.547.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia cierra en $3.549,70 en sesión Next Day por festivo en EE. UU.",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Remuneración básica en Colombia apuntaría a un incremento de $130.000 hacia 2027",
+        "url": "https://www.valoraanalitik.com/salario-minimo-en-colombia-estaria-mas-cerca-de-subir-130-000-para-2027/",
+        "resumen": "La productividad laboral, clave para el dato del salario mínimo en Colombia, subió bastante menos de lo esperado",
+        "autor": "",
+        "subseccion": "Salario minimo",
+        "publicacion": "",
+        "titulo_fuente": "Salario mínimo en Colombia estaría más cerca de subir $130.000 para 2027",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Supersalud fija nuevas normas para hospitales y clínicas que exigen permiso previo",
+        "url": "https://www.valoraanalitik.com/supersalud-establece-nuevas-reglas-para-clinicas-y-hospitales-estos-cambios-requeriran-autorizacion-previa/",
+        "resumen": "La Supersalud fijó nuevas condiciones para que las clínicas y hospitales tengan en cuenta antes de tomar determinadas decisiones.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Supersalud establece nuevas reglas para clínicas y hospitales: estos cambios requerirán autorización previa",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella anuncia nuevos megaproyectos viales muy esperados en el país",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-destapa-nueva-ola-de-megaproyectos-carreteras-esperadas-hace-anos/",
+        "resumen": "El presidente de la ANI, Ricardo Ayerbe, entregó detalles de las obras que se buscarán ejecutar en nuevo programa de concesiones.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella destapa nueva ola de megaproyectos: se construirán carreteras esperadas hace años en Colombia",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Empieza negociación del salario mínimo 2027 con datos de productividad por hora",
+        "url": "https://www.valoraanalitik.com/salario-minimo-2027-comienza-concertacion-con-indicadores-que-muestran-avances-en-productividad-por-hora/",
+        "resumen": "Estos tres resultados serán analizados por los diferentes sectores durante las próximas sesiones.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Salario mínimo 2027: comienza concertación con indicadores que muestran avances en productividad por hora",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
       {
         "titulo": "Aerocivil evaluará slots en El Dorado con nuevo esquema del Gobierno",
         "url": "https://www.valoraanalitik.com/aerocivil-revisara-slots-en-aeropuerto-el-dorado/",
@@ -483,129 +603,99 @@
         "publicacion": "",
         "titulo_fuente": "Gerente del Banco de la República dice cuál sería la receta adecuada para el aumento del salario mínimo en Colombia del 2027",
         "capturado": "2026-11-24T07:15:12-05:00"
-      },
-      {
-        "titulo": "Urgente | Ataque terrorista contra la Gobernación del Meta estremece a Villavicencio esta noche",
-        "url": "https://www.valoraanalitik.com/atentado-contra-gobernacion-del-meta-sacude-villavicencio/",
-        "resumen": "El presidente De la Espriella confirmó el ataque y aseguró que está a la espera de reportes oficiales.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Atención | Atentado contra la Gobernación del Meta sacude esta noche a Villavicencio",
-        "capturado": "2026-11-24T07:15:12-05:00"
-      },
-      {
-        "titulo": "Metro capitalino logra hito para la Línea 2 con iniciativas superiores a medio billón de pesos",
-        "url": "https://www.valoraanalitik.com/metro-de-bogota-da-paso-clave-para-avanzar-en-linea-2/",
-        "resumen": "La EMB abrió las convocatorias para contratar la interventoría y la gerencia del proyecto, con contratos que suman más de $534.000 millones.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Metro de Bogotá da paso clave para avanzar en Línea 2 con proyectos por más de medio billón de pesos",
-        "capturado": "2026-11-24T07:15:12-05:00"
-      },
-      {
-        "titulo": "Única moto en el planeta irá a subasta en territorio colombiano en pro de afectados por sismo",
-        "url": "https://www.valoraanalitik.com/esta-motocicleta-unica-en-el-mundo-sera-subastada-en-colombia-para-ayudar-a-damnificados-del-terremoto/",
-        "resumen": "El terremoto dejó más de 778.000 personas afectadas, según la UNGRD. Una motocicleta exclusiva será subastada para apoyar la reconstrucción.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "Esta motocicleta única en el mundo será subastada en Colombia para ayudar a damnificados del terremoto",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "De acuerdo con el CARF, ley de salvavidas financiero no alcanzaría a contener alza de deuda",
-        "url": "https://www.valoraanalitik.com/ley-de-rescate-economico-no-bastaria-para-frenar-el-crecimiento-de-la-deuda/",
-        "resumen": "El Comité proyecta que el endeudamiento neto llegará al 78,1 % del PIB en 2030 y pide al Gobierno aplicar recortes adicionales de gasto y ajustes estructurales.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Ley de rescate económico no bastaría para frenar el crecimiento de la deuda, según el CARF",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Método para determinar el monto de primas, cesantías y demás prestaciones sociales",
-        "url": "https://www.valoraanalitik.com/mintrabajo-actualiza-calculadora-gratuita-para-hacer-la-cuenta-de-la-prima-de-diciembre/",
-        "resumen": "La herramienta permite estimar el valor de la prima de servicios que recibirán los trabajadores en diciembre.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Así puede calcular cuánto recibirá de prima, cesantías y otros pagos laborales",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Air-e indicó el porcentaje de incremento en cobros de luz para el litoral Caribe en diciembre",
-        "url": "https://www.valoraanalitik.com/air-e-aclara-aumento-en-tarifas-de-energia/",
-        "resumen": "La empresa explicó que el incremento responde al componente de restricciones del sistema eléctrico, asociado al mayor uso de generación térmica por El Niño.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Air-e aclaró de cuánto será aumento en tarifas de energía en la costa Caribe para diciembre",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Mauricio Gómez Amín será ministro de las TIC ad hoc por demanda de Caracol y RCN en tribunal andino",
-        "url": "https://www.valoraanalitik.com/mauricio-gomez-amin-asumira-como-ministro-de-las-tic-ad-hoc-por-litigio-de-caracol-y-rcn-ante-tribunal-andino/",
-        "resumen": "Gómez Amín asumirá las competencias de la ministra de las TIC exclusivamente para las actuaciones relacionadas con el análisis y cumplimiento de la sentencia.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Mauricio Gómez Amín asumirá como ministro de las TIC ad hoc por litigio de Caracol y RCN ante tribunal andino",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Aerocivil inicia análisis en el Valle del Cauca para fabricar combustible aéreo sostenible en Colombia",
-        "url": "https://www.valoraanalitik.com/aerocivil-anuncia-estudio-para-producir-combustible-de-aviacion-sostenible-en-colombia/",
-        "resumen": "El análisis, que se realizará con apoyo de Países Bajos y la OACI, revisará costos, tecnología y otras condiciones para su desarrollo.",
-        "autor": "",
-        "subseccion": "Sostenibilidad",
-        "publicacion": "",
-        "titulo_fuente": "Aerocivil anuncia estudio en Valle del Cauca para producir combustible de aviación sostenible en Colombia",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Tren del Caribe se reactiva y quiere integrar más regiones: La Guajira y Córdoba solicitan unirse",
-        "url": "https://www.valoraanalitik.com/tren-del-caribe-revive-y-busca-conectar-mas-departamentos-la-guajira-y-cordoba-piden-entrar-al-proyecto/",
-        "resumen": "Tren del Caribe de $6,6 billones toma fuerza y alcaldes piden ampliar su trazado",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Tren del Caribe revive y busca conectar más departamentos: La Guajira y Córdoba piden entrar al megaproyecto",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Inversión Extranjera Directa en Colombia aumentó 24 % en octubre de 2026 impulsada por minería y petróleo",
-        "url": "https://www.valoraanalitik.com/inversion-extranjera-directa-en-colombia-crecio-24-en-octubre-de-2026-petroleo-y-mineria-jalonaron/",
-        "resumen": "El balance acumulado en los primeros 10 meses del año todavía se mantiene ligeramente por debajo del registro del año anterior.",
-        "autor": "",
-        "subseccion": "Banco de la republica",
-        "publicacion": "",
-        "titulo_fuente": "Inversión Extranjera Directa en Colombia creció 24 % en octubre de 2026; petróleo y minería jalonaron",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Ejecutivo realiza modificaciones en los viceministerios de Educación Superior y Deporte: conozca los cambios",
-        "url": "https://www.valoraanalitik.com/gobierno-mueve-fichas-en-los-viceministerios-de-deporte-y-educacion-superior-estos-son-los-cambios/",
-        "resumen": "Estos son los perfiles de los nuevos viceministros para Deporte y Educación.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno mueve fichas en los viceministerios de Deporte y Educación Superior: estos son los cambios",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Importante | Comienza la etapa constructiva del megaproyecto Canal del Dique por más de $3,2 billones",
-        "url": "https://www.valoraanalitik.com/arranca-fase-de-construccion-del-megaproyecto-del-canal-del-dique/",
-        "resumen": "La nueva etapa contempla 14 unidades funcionales, dos compuertas, intervenciones de dragado y recuperación de ecosistemas estratégicos.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Arranca fase de construcción del megaproyecto del Canal del Dique por más de $3,2 billones",
-        "capturado": "2026-11-23T20:33:36-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Andrés Escobar dejó la gerencia ejecutiva de Tiendas Ísimo",
+        "url": "https://www.valoraanalitik.com/andres-escobar-renuncio-a-la-gerencia-ejecutiva-de-tiendas-isimo/",
+        "resumen": "El directivo deja la cadena por motivos personales, tras un año en el que la compañía superó los $900.000 millones en ventas y alcanzó 310 tiendas.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Cambios en Tiendas Ísimo: Andrés Escobar renunció a la gerencia ejecutiva",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Fintech elevó por encima del 13 % la rentabilidad de sus CDT antes de la prima",
+        "url": "https://www.valoraanalitik.com/esta-fintech-subio-la-rentabilidad-de-sus-cdt-previo-al-pago-de-la-prima/",
+        "resumen": "La tasa supera las ofrecidas por otras entidades financieras, según una comparación presentada por la compañía.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Esta fintech subió la rentabilidad de sus CDT previo al pago de la prima: es superior a 13 %",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Addi permitirá financiar la compra de pasajes aéreos con Wingo en cuotas",
+        "url": "https://www.valoraanalitik.com/tiquetes-aereos-de-wingo-se-podran-comprar-ahora-con-addi-a-cuotas/",
+        "resumen": "La aerolínea también anunció descuentos en vuelos nacionales e internacionales para viajar en 2027.",
+        "autor": "",
+        "subseccion": "Aerolineas colombia",
+        "publicacion": "",
+        "titulo_fuente": "Tiquetes aéreos de Wingo se podrán comprar ahora con Addi a cuotas",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Supersalud fija nuevas normas para clínicas y hospitales que exigirán visto bueno",
+        "url": "https://www.valoraanalitik.com/supersalud-establece-nuevas-reglas-para-clinicas-y-hospitales-estos-cambios-requeriran-autorizacion-previa/",
+        "resumen": "La Supersalud fijó nuevas condiciones para que las clínicas y hospitales tengan en cuenta antes de tomar determinadas decisiones.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Supersalud establece nuevas reglas para clínicas y hospitales: estos cambios requerirán autorización previa",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Gobierno anuncia nueva tanda de megaprovincial y vías muy esperadas en Colombia",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-destapa-nueva-ola-de-megaproyectos-carreteras-esperadas-hace-anos/",
+        "resumen": "El presidente de la ANI, Ricardo Ayerbe, entregó detalles de las obras que se buscarán ejecutar en nuevo programa de concesiones.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella destapa nueva ola de megaproyectos: se construirán carreteras esperadas hace años en Colombia",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Alejo Igoa presentará su show de YouTube en Bogotá: día, sitio y costo de los tiquetes",
+        "url": "https://www.valoraanalitik.com/alejo-igoa-traera-sus-aventuras-de-youtube-al-escenario-en-bogota/",
+        "resumen": "La función tendrá una duración de 90 minutos e incluirá música, coreografías, números acrobáticos y participación del público.",
+        "autor": "",
+        "subseccion": "Conciertos eventos",
+        "publicacion": "",
+        "titulo_fuente": "Alejo Igoa traerá sus aventuras de YouTube al escenario en Bogotá: fecha, lugar y precio de entradas",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Salario mínimo 2027: inicia la mesa con datos sobre el incremento de la productividad horaria",
+        "url": "https://www.valoraanalitik.com/salario-minimo-2027-comienza-concertacion-con-indicadores-que-muestran-avances-en-productividad-por-hora/",
+        "resumen": "Estos tres resultados serán analizados por los diferentes sectores durante las próximas sesiones.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Salario mínimo 2027: comienza concertación con indicadores que muestran avances en productividad por hora",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "Ejecutivo informa cambios en permisos ambientales y consulta previa para acelerar obras viales",
+        "url": "https://www.valoraanalitik.com/gobierno-anuncia-ajustes-al-licenciamiento-ambiental-y-la-consulta-previa-para-agilizar-proyectos-de-infraestructura/",
+        "resumen": "Medidas que adelanta el Gobierno para mejorar la articulación institucional y superar obstáculos que afectan la ejecución de proyectos estratégicos.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno anuncia ajustes al licenciamiento ambiental y la consulta previa para agilizar proyectos de infraestructura",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
+      {
+        "titulo": "GEB y Cálidda proveerán gas natural en 15 poblaciones del centro y sur peruano",
+        "url": "https://www.valoraanalitik.com/geb-y-calidda-llevaran-gas-natural-a-15-ciudades-del-centro-y-sur-de-peru/",
+        "resumen": "El proyecto contempla una inversión superior a US$605 millones, 3.700 kilómetros de redes y la generación de 9.000 empleos.",
+        "autor": "",
+        "subseccion": "Minería y energía",
+        "publicacion": "",
+        "titulo_fuente": "GEB y Cálidda llevarán gas natural a 15 ciudades del centro y sur de Perú",
+        "capturado": "2026-11-26T21:04:58-05:00"
+      },
       {
         "titulo": "Alimentos con fibra y proteína crecen y generan desafíos para el sector industrial colombiano",
         "url": "https://www.valoraanalitik.com/bebidas-con-proteina-y-fibra-ganan-terreno-y-plantean-retos-a-la-industria-de-alimentos-en-colombia/",
@@ -1115,96 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "Presidente de Ecopetrol insiste en que hueco fiscal del Fepc se mantiene por precio del diésel",
         "capturado": "2026-11-22T17:24:44-05:00"
-      },
-      {
-        "titulo": "Administración evalúa ocho decretos del trabajo y esto es lo que variaría para las compañías",
-        "url": "https://www.valoraanalitik.com/gobierno-revisa-ocho-decretos-laborales-y-esto-es-lo-que-podria-cambiar-para-las-empresas/",
-        "resumen": "La revisión busca ajustar la reglamentación, sin eliminar los derechos reconocidos en la Constitución, el Código Sustantivo del Trabajo o la reforma laboral.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno revisa ocho decretos laborales y esto es lo que podría cambiar para las empresas",
-        "capturado": "2026-11-22T11:59:34-05:00"
-      },
-      {
-        "titulo": "Ecopetrol ratifica gran inversión en EE. UU.: perforará siete pozos nuevos",
-        "url": "https://www.valoraanalitik.com/ecopetrol-confirma-importante-inversion-en-estados-unidos-perforara-7-nuevos-pozos/",
-        "resumen": "La iniciativa busca compensar el impacto del recorte de taladros aplicado en 2025, cuando Ecopetrol pasó de operar con cuatro equipos a dos.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol confirma importante inversión en Estados Unidos: Perforará 7 nuevos pozos",
-        "capturado": "2026-11-22T11:59:34-05:00"
-      },
-      {
-        "titulo": "KMA Construcciones celebra 25 años y se afianza como la mayor firma de ingeniería civil del país",
-        "url": "https://www.valoraanalitik.com/kma-construcciones-cumple-25-anos-es-la-empresa-ingenieria-civil-mas-grande-colombia/",
-        "resumen": "Menzel Amín, presidente de la compañía, revela detalles de su trayectoria al frente de la firma y traza la ruta para las próximas décadas.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "KMA Construcciones cumple 25 años y se consolida como la empresa de ingeniería civil más grande de Colombia: esta es su historia",
-        "capturado": "2026-11-22T11:59:34-05:00"
-      },
-      {
-        "titulo": "Hospedaje en Provenza con gastronomía, entretenimiento y relajación en un solo lugar",
-        "url": "https://www.valoraanalitik.com/el-hotel-en-provenza-que-ofrece-descanso-gastronomia-y-diversion-sin-salir-del-edificio/",
-        "resumen": "El hotel cuenta con 35 habitaciones y recepción las 24 horas, y los huéspedes pueden elegir entre tres tipos de habitación.",
-        "autor": "",
-        "subseccion": "Estilo de vida",
-        "publicacion": "",
-        "titulo_fuente": "El hotel en Provenza que ofrece descanso, gastronomía y diversión sin salir del edificio",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "Avianca ajusta asientos y aviones ante límites operativos en terminales de Bogotá y Medellín",
-        "url": "https://www.valoraanalitik.com/avianca-habilito-sillas-y-cambios-a-aeronaves-de-mayor-capacidad-tras-restricciones-en-aeropuertos-de-bogota-y-medellin/",
-        "resumen": "Avianca implementó un plan de contingencia para acelerar la recuperación de la red y facilitar los desplazamientos de sus clientes.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Avianca habilitó sillas y cambios a aeronaves de mayor capacidad tras restricciones en aeropuertos de Bogotá y Medellín",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "Planta de Ternium México iniciará operaciones en 2027 tras inyectar US$4.000 millones",
-        "url": "https://www.valoraanalitik.com/aceria-de-ternium-mexico-se-prepara-para-arrancar-en-2027-tras-inversion-de-us4-000-millones-en-tercera-etapa/",
-        "resumen": "Valora Analitik fue uno de los medios invitados para un recorrido por el lugar, dónde César Jiménez, presidente de Ternium México, explicó los detalles.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Acería de Ternium México se prepara para arrancar en 2027 tras inversión de US$4.000 millones en tercera etapa",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "Qurable arriba a Colombia con IA para retener clientes e invertirá US$5 millones en centro",
-        "url": "https://www.valoraanalitik.com/qurable-llega-a-colombia-con-agentes-de-ia-que-fidelizan-clientes-en-tiempo-real-invertira-us5-millones-para-hub-de-operaciones/",
-        "resumen": "La plataforma de Qurable usa agentes de IA que analizan en tiempo real cada compra y cada interacción del cliente",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Qurable llega a Colombia con agentes de IA que fidelizan clientes en tiempo real: invertirá US$5 millones para hub de operaciones",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "NG Energy y aliados prevén surtir hasta 20 % del gas nacional y miran hacia Venezuela",
-        "url": "https://www.valoraanalitik.com/ng-energy-y-sus-socios-podrian-aportar-hasta-20-del-gas-que-consume-colombia-la-empresa-espera-entrar-en-venezuela/",
-        "resumen": "Jorge Fonseca, presidente de NG Energy, reveló algunos detalles de su incursión en el mercado con las mayores reservas de petróleo y gas del mundo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Exclusiva | NG Energy y sus socios podrían aportar hasta 20 % del gas que consume Colombia; la empresa espera entrar en Venezuela",
-        "capturado": "2026-11-21T16:00:09-05:00"
-      },
-      {
-        "titulo": "Dubái recibe a firmas de Latinoamérica impulsando el grano cafetero de Colombia y Brasil",
-        "url": "https://www.valoraanalitik.com/dubai-abre-la-puerta-a-empresas-latinoamericanas-con-el-cafe-como-bandera-desde-brasil-y-colombia/",
-        "resumen": "El DMCC tiene hoy unas 300 empresas latinoamericanas entre sus miembros, de las cuales cerca de 200 son brasileñas.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Dubái abre la puerta a empresas latinoamericanas con el café como bandera desde Brasil y Colombia",
-        "capturado": "2026-11-21T16:00:09-05:00"
       }
     ]
   }
