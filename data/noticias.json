@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-27T06:15:52-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-27T15:11:26-05:00",
+  "nuevos_en_esta_corrida": 20,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Vicepresidente asegura que decreto para unir consulta previa y licencia ambiental está por salir",
+        "url": "https://www.valoraanalitik.com/decreto-tramitar-consulta-previa-licencia-ambiental-a-la-par-salio-saldra-proximos-dias/",
+        "resumen": "José Manuel Restrepo destacó que la iniciativa busca destrabar grandes proyectos en Colombia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Decreto para tramitar consulta previa y licencia ambiental a la par «ya salió o saldrá en próximos días»: Vicepresidente",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Negociación del salario mínimo 2027 arranca con 0,15 % de productividad y caída de trabajadores con el básico",
+        "url": "https://www.valoraanalitik.com/salario-minimo-2027-en-colombia-negociacion-inicia-con-015-de-productividad-y-desplome-en-quienes-ganan-el-basico/",
+        "resumen": "La población ocupada que percibe un salario mínimo pasó de 2,34 millones de personas (10,1 % de los ocupados) a solo 1,13 millones (4,8 %).",
+        "autor": "",
+        "subseccion": "Macroeconomía",
+        "publicacion": "",
+        "titulo_fuente": "Salario mínimo 2027 en Colombia: negociación inicia con 0,15 % de productividad y desplome en quienes ganan el básico",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Tatiana Mejía deja la presidencia de Tostao tras cuatro años de gestión",
+        "url": "https://www.valoraanalitik.com/tatiana-mejia-sale-de-la-presidencia-de-tostao/",
+        "resumen": "La directiva dejará el cargo el 30 de noviembre, luego de liderar la reorganización de la cadena y su regreso a un flujo de caja positivo.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Tostao’ anuncia la salida de su presidenta Tatiana Mejía tras cuatro años al frente de la compañía",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Dólar en Colombia cae de los $3.500 y termina la semana con descenso significativo",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-vuelve-a-bajar-de-los-3-500-cierra-semana-con-importante-caida/",
+        "resumen": "Este viernes, la divisa abrió a la baja en $3.515, marcó un techo diario de $3.521,39 y descendió hasta un mínimo de $3.470,15.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia vuelve a bajar de los $3.500: Cierra semana con importante caída",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "ISA comunica modificaciones en su nómina directiva y detalla los cambios",
+        "url": "https://www.valoraanalitik.com/isa-anuncia-cambios-en-su-equipo-directivo/",
+        "resumen": "Olga Patricia Castaño regresa a la vicepresidencia de estrategia y otros tres directivos retoman sus cargos en la compañía.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "ISA anuncia cambios en su equipo directivo: estos son los movimientos",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella fija reglas a cobertura de deslizamiento del salario mínimo para blindar pensiones",
+        "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-reglamenta-cobertura-de-deslizamiento-del-salario-minimo-para-blindar-las-pensiones/",
+        "resumen": "Tras la suspensión cautelar del Decreto 1485 de 2025, una nueva normativa busca dar certeza técnica a las rentas vitalicias y y proteger el ahorro pensional.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno De la Espriella reglamenta cobertura de deslizamiento del salario mínimo para blindar las pensiones",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "EPS Sanitas informa nuevas medidas para entregar fármacos en Bogotá y usuarios irán a sitios precisos",
+        "url": "https://www.valoraanalitik.com/eps-sanitas-anuncia-nuevos-cambios-para-reclamar-medicamentos-en-bogota-algunos-pacientes-deberan-acudir-a-puntos-especificos/",
+        "resumen": "EPS Sanitas explicó cómo funcionará la atención en Bogotá y qué alternativas tienen quienes aún esperan sus fórmulas tras el cambio de operador.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "EPS Sanitas anuncia nuevos cambios para reclamar medicamentos en Bogotá: algunos pacientes deberán acudir a puntos específicos",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Plantean IVA en Colombia del 10 % en vez de 19 % a autos eléctricos en tributaria de administración De la Espriella",
+        "url": "https://www.valoraanalitik.com/proponen-iva-en-colombia-del-10-y-no-del-19-a-carros-electricos-en-reforma-tributaria-del-gobierno-de-la-espriella/",
+        "resumen": "Una nueva propuesta se abre camino para modificar el IVA en Colombia a la compra de carros eléctricos",
+        "autor": "",
+        "subseccion": "Impuestos",
+        "publicacion": "",
+        "titulo_fuente": "Proponen IVA en Colombia del 10 %, y no del 19 %, a carros eléctricos en reforma tributaria del gobierno De la Espriella",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "De esta forma operará el plan que reactivará ayudas de vivienda en Colombia a partir de 2027",
+        "url": "https://www.valoraanalitik.com/asi-sera-el-programa-con-el-que-se-reactivaran-los-subsidios-de-vivienda-en-colombia-desde-2027/",
+        "resumen": "El plan del gobierno del presidente Abelardo de la Espriella espera implementarse desde el 2027.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Así será el programa con el que se reactivarán los subsidios de vivienda en Colombia desde 2027",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "DIAN reveló alza de la UVT para 2027 y su efecto en tributos y deberes fiscales",
+        "url": "https://www.valoraanalitik.com/la-uvt-es-la-referencia-que-utiliza-la-dian-para-calcular-topes-limites-y-sanciones-su-actualizacion-cambiaria-cuanto-representan-esos-valores-en-pesos-desde-2027/",
+        "resumen": "La UVT es la referencia que utiliza la DIAN para calcular topes, límites y sanciones. Su actualización cambiará cuánto representan esos valores desde 2027.",
+        "autor": "",
+        "subseccion": "DIAN",
+        "publicacion": "",
+        "titulo_fuente": "DIAN ya puso sobre la mesa el aumento de la UVT para 2027: así impactaría impuestos y obligaciones tributarias",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Alza del salario mínimo requiere ajustarse a inflación y productividad para cuidar el empleo: BanRep",
+        "url": "https://www.valoraanalitik.com/incremento-del-minimo-debe-alinearse-con-inflacion-y-productividad-para-no-deteriorar-el-empleo-codirectora-banrep/",
+        "resumen": "Olga Lucía Acosta recomendó a los hogares reducir el consumo y alertó sobre la gravedad de la crisis fiscal.",
+        "autor": "",
+        "subseccion": "Banco de la republica",
+        "publicacion": "",
+        "titulo_fuente": "Incremento del mínimo debe alinearse con inflación y productividad para no deteriorar el empleo: Codirectora BanRep",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Tasa de cambio inicia con retroceso a $3.515 por festivo estadounidense y mayor precio del petróleo",
+        "url": "https://www.valoraanalitik.com/dolar-en-colombia-reabre-a-la-baja-en-3-515-tras-el-festivo-en-ee-uu-apoyado-por-el-repunte-del-petroleo/",
+        "resumen": "La divisa se mantiene apenas sobre el soporte de los $3.500, profundizando la corrección iniciada tras el rechazo registrado en la zona de techo.",
+        "autor": "",
+        "subseccion": "Dólar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar en Colombia reabre a la baja en $3.515 tras el festivo en EE. UU., apoyado por el repunte del petróleo",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
       {
         "titulo": "Alza en la edad de jubilación en Colombia aplicaría de forma paulatina y sin inmediatez",
         "url": "https://www.valoraanalitik.com/propuesta-para-subir-la-edad-de-pension-en-colombia-no-seria-inmediata-se-priorizaria-la-gradualidad/",
@@ -483,129 +603,89 @@
         "publicacion": "",
         "titulo_fuente": "Bogotá y Cundinamarca tendrán megaobras viales por $1,9 billones: estos corredores serán intervenidos",
         "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "Procuraduría imputa cargos a Armando Benedetti por investigación sobre la magistrada Cristina Lombana",
-        "url": "https://www.valoraanalitik.com/procuraduria-formula-pliego-de-cargos-contra-armando-benedetti-en-caso-de-magistrada-cristina-lombana/",
-        "resumen": "El órgano de control calificó provisionalmente la conducta atribuida al exministro como una falta grave cometida a título de dolo.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Procuraduría formula pliego de cargos contra Armando Benedetti en caso de magistrada Cristina Lombana",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "Fiducoldex destituyó a Andrés Guzmán de la presidencia luego de un proceso disciplinario",
-        "url": "https://www.valoraanalitik.com/fiducoldex-removio-andres-guzman-presidente/",
-        "resumen": "La fiduciaria garantizó que sus negocios fiduciarios continúan desarrollándose con absoluta normalidad.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Fiducoldex removió a Andrés Guzmán como presidente de la entidad tras realizar proceso disciplinario",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "Empresa española de ópticas prepara crecimiento en territorio colombiano hacia 2027",
-        "url": "https://www.valoraanalitik.com/cadena-de-opticas-espanola-alista-expansion-en-colombia-para-2027/",
-        "resumen": "La cadena de ópticas española prepara su expansión en Colombia para 2027 y apuesta por ciudades intermedias, mientras advierte sobre los retos del sector.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cadena de ópticas española alista expansión en Colombia: estos son sus planes para 2027",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "Desde diciembre, Andrés Orozco Álvarez tomará el liderazgo general de Roa Florhuila",
-        "url": "https://www.valoraanalitik.com/andres-orozco-nuevo-gerente-roa-florhuila/",
-        "resumen": "Reemplazará a Jaime Alberto Rojas Díaz. Llega desde Celema y cuenta con más de 20 años de experiencia en consumo masivo.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Andrés Orozco Álvarez asumirá la gerencia general de Roa Florhuila desde diciembre",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "Tasa de cambio en el país supera los $3.600 y alcanza cotizaciones inéditas desde mayo",
-        "url": "https://www.valoraanalitik.com/dolar-en-colombia-rompe-la-barrera-de-los-3-600-y-toca-maximos-no-vistos-desde-finales-de-mayo/",
-        "resumen": "Este martes, la tasa de cambio abrió ligeramente al alza en $3.530 y marcó de inmediato su piso intradiario en $3.520.",
-        "autor": "",
-        "subseccion": "Dólar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar en Colombia rompe la barrera de los $3.600 y toca máximos no vistos desde finales de mayo",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "Inversionistas en Nueva York muestran interés por US$2.200 millones para el puerto de Urabá",
-        "url": "https://www.valoraanalitik.com/puerto-progreso-de-uraba-atrae-interes-de-inversion-por-us2-200-millones-en-nueva-york/",
-        "resumen": "Puerto Progreso contempla la participación de cuatro comunidades locales como accionistas de la concesión.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Puerto Progreso de Urabá atrae interés de inversión por US$2.200 millones en Nueva York",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "Retienen a 30 personas en Cartagena en medio de un asalto",
-        "url": "https://www.valoraanalitik.com/exito-de-cartagena-30-personas-secuestradas-durante-intento-de-robo/",
-        "resumen": "En los alrededores del supermercado se desplegaron unidades de la Policía Nacional, la Armada, el Gaula Militar y las Fuerzas Especiales.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Éxito de Cartagena: 30 personas secuestradas durante intento de robo",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "BMW, MINI y BMW Motorrad abren dos nuevas vitrinas en el país con estos vehículos",
-        "url": "https://www.valoraanalitik.com/bmw-mini-y-bmw-motorrad-estrenan-dos-sedes-en-colombia-llegan-con-estos-modelos/",
-        "resumen": "El crecimiento de vehículos eléctricos e híbridos impulsa la apuesta de marcas prémium. Autogermana abrió nuevas sedes con modelos de BMW, MINI y Motorrad.",
-        "autor": "",
-        "subseccion": "Vehiculos motores",
-        "publicacion": "",
-        "titulo_fuente": "BMW, MINI y BMW Motorrad estrenan dos sedes en Colombia: llegan con estos modelos",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "Amazon inaugura su primer centro de datos en Bogotá para almacenamiento y procesamiento local",
-        "url": "https://www.valoraanalitik.com/amazon-abrio-en-bogota-su-primer-centro-de-datos-en-colombia-empresas-podran-procesar-y-guardar-informacion-en-el-pais/",
-        "resumen": "La infraestructura del datacenter promete latencias de menos de 10 milisegundos y ya la usan Bancolombia, Datacenter Colombia y Casa Toro",
-        "autor": "",
-        "subseccion": "Ultimas tecnologia",
-        "publicacion": "",
-        "titulo_fuente": "Amazon abrió en Bogotá su primer centro de datos en Colombia: empresas podrán procesar y guardar información en el país",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "Motivos detrás de las anomalías para escoger nueva Junta en la Cámara de Comercio de Bogotá y su denuncia",
-        "url": "https://www.valoraanalitik.com/irregularidades-nueva-junta-camara-bogota/",
-        "resumen": "Guillermo Botero, expresidente de Fenalco, consideró como “llamativo” el crecimiento de afiliados a la CCB en municipios de Cundinamarca y el sur de Bogotá.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "¿Qué hay detrás de las irregularidades para elegir nueva Junta en la Cámara de Comercio de Bogotá? Detalles de la denuncia",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "ANLA aprueba iniciativas petroleras en Meta y Casanare que abarcan hasta 75 pozos",
-        "url": "https://www.valoraanalitik.com/anla-proyectos-petroleros-casanare-meta/",
-        "resumen": "Los proyectos suman 2.685 hectáreas en medidas de compensación biótica y ecológica.",
-        "autor": "",
-        "subseccion": "Petróleo",
-        "publicacion": "",
-        "titulo_fuente": "ANLA da luz verde a proyectos petroleros en Casanare y Meta que contemplan hasta 75 pozos",
-        "capturado": "2026-11-24T17:41:34-05:00"
-      },
-      {
-        "titulo": "Premercado | Mercados asiáticos suben por alza de Nvidia; bolsa europea cae y Wall Street mira a la FED",
-        "url": "https://www.valoraanalitik.com/premercado-bolsas-de-asia-repuntan-tras-rally-de-nvidia-europa-retrocede-y-wall-street-atento-a-la-fed/",
-        "resumen": "Nvidia se disparó un 31,5 %, su mayor ganancia porcentual en un solo día en 23 años, recuperando casi US$1 billón en capitalización bursátil.",
-        "autor": "",
-        "subseccion": "Mercados",
-        "publicacion": "",
-        "titulo_fuente": "Premercado | Bolsas de Asia repuntan tras rally de Nvidia; Europa retrocede y Wall Street atento a la FED",
-        "capturado": "2026-11-24T07:15:12-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "Vicepresidente dice que decreto de licencia ambiental y consulta previa simultáneas saldrá pronto",
+        "url": "https://www.valoraanalitik.com/decreto-tramitar-consulta-previa-licencia-ambiental-a-la-par-salio-saldra-proximos-dias/",
+        "resumen": "José Manuel Restrepo destacó que la iniciativa busca destrabar grandes proyectos en Colombia.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Decreto para tramitar consulta previa y licencia ambiental a la par «ya salió o saldrá en próximos días»: Vicepresidente",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Tatiana Mejía deja la presidencia de Tostao tras cuatro años en el cargo, según anunció la marca",
+        "url": "https://www.valoraanalitik.com/tatiana-mejia-sale-de-la-presidencia-de-tostao/",
+        "resumen": "La directiva dejará el cargo el 30 de noviembre, luego de liderar la reorganización de la cadena y su regreso a un flujo de caja positivo.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Tostao’ anuncia la salida de su presidenta Tatiana Mejía tras cuatro años al frente de la compañía",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Estos son los movimientos en la directiva de ISA anunciados por la empresa",
+        "url": "https://www.valoraanalitik.com/isa-anuncia-cambios-en-su-equipo-directivo/",
+        "resumen": "Olga Patricia Castaño regresa a la vicepresidencia de estrategia y otros tres directivos retoman sus cargos en la compañía.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "ISA anuncia cambios en su equipo directivo: estos son los movimientos",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Línea de bebidas con electrolitos marca el ingreso de Refisal al mercado de hidratación funcional",
+        "url": "https://www.valoraanalitik.com/refisal-entra-al-mercado-de-la-hidratacion-funcional-tras-lanzar-linea-de-bebidas-con-electrolitos/",
+        "resumen": "La apuesta responde a una tendencia global que, según Stratistics MRC, llevará el mercado de electrolitos en polvo a US$20.310 millones en 2032.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Refisal entra al mercado de la hidratación funcional tras lanzar línea de bebidas con electrolitos",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Firma colombiana de moda llega a Estados Unidos con su primer local tras 19 aperturas locales",
+        "url": "https://www.valoraanalitik.com/marca-colombiana-de-moda-abre-su-primera-tienda-en-estados-unidos-tras-consolidar-19-aperturas-en-el-pais/",
+        "resumen": "La marca ha impactado a más de 61.000 mujeres alrededor del mundo con su propuesta.",
+        "autor": "",
+        "subseccion": "Estilo de vida",
+        "publicacion": "",
+        "titulo_fuente": "Marca colombiana de moda abre su primera tienda en Estados Unidos tras consolidar 19 aperturas en el país",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Abelardo de la Espriella apartará a Fedegán y afirma que hablará directamente con los ganaderos",
+        "url": "https://www.valoraanalitik.com/abelardo-de-la-espriella-desconocera-a-fedegan-y-dice-que-tendra-linea-directa-con-los-ganaderos/",
+        "resumen": "José Félix Lafaurie fue respaldado por el gremio e hizo un llamado al Gobierno Nacional para retomar el diálogo.",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Abelardo de la Espriella desconocerá a Fedegán y dice que tendrá línea directa con los ganaderos",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Siesa Avanza congregó a empresarios y expertos en tecnología para analizar el porvenir empresarial en el país",
+        "url": "https://www.valoraanalitik.com/siesa-avanza-reunio-a-empresarios-y-lideres-tecnologicos-para-debatir-el-futuro-de-la-gestion-empresarial-en-colombia/",
+        "resumen": "Concebido como un espacio de conocimiento, innovación y conexión que busca impulsar la evolución y competitividad de las organizaciones colombianas.",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Siesa Avanza reunió a empresarios y líderes tecnológicos para debatir el futuro de la gestión empresarial en Colombia",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
+      {
+        "titulo": "Herramientas de Tigo Business dirigidas a pymes centradas en conectividad, nube y movilidad",
+        "url": "https://www.valoraanalitik.com/soluciones-de-tigo-business-para-medianas-y-pequenas-empresas/",
+        "resumen": "Tigo Business cuenta con planes móviles, conectividad gestionada, soluciones de Internet de las Cosas (IoT), datos patrocinados y roaming internacional",
+        "autor": "",
+        "subseccion": "Ultimas tecnologia",
+        "publicacion": "",
+        "titulo_fuente": "Soluciones de Tigo Business para medianas y pequeñas empresas enfocadas en internet, nube y movilidad",
+        "capturado": "2026-11-27T15:11:26-05:00"
+      },
       {
         "titulo": "Andrés Escobar dejó la gerencia ejecutiva de Tiendas Ísimo",
         "url": "https://www.valoraanalitik.com/andres-escobar-renuncio-a-la-gerencia-ejecutiva-de-tiendas-isimo/",
@@ -1125,86 +1205,6 @@
         "publicacion": "",
         "titulo_fuente": "La historia detrás de la elección de la nueva Junta Directiva de la Cámara de Comercio de Bogotá: ¿qué pasó y por qué se aplazó?",
         "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "EPM estará a cargo de las luces de Bogotá por 10 años y así cambiará la red",
-        "url": "https://www.valoraanalitik.com/ahora-epm-operara-el-alumbrado-publico-de-bogota-durante-10-anos-asi-sera-la-modernizacion-de-la-red/",
-        "resumen": "El alcalde también indicó que la operación permitirá aumentar el número de cuadrillas disponibles para atender daños y reportes ciudadanos.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | EPM operará el alumbrado público de Bogotá durante 10 años: así será la modernización de la red",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "EPM se perfila como principal alternativa para el alumbrado bogotano tras irse Enel",
-        "url": "https://www.valoraanalitik.com/epm-seria-la-primera-opcion-para-operar-el-alumbrado-publico-de-bogota-tras-salida-de-enel/",
-        "resumen": "El valor definitivo del eventual acuerdo con EPM, sus condiciones de operación y el tratamiento de la infraestructura de Enel están pendientes de conocerse.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "EPM sería la primera opción para operar el alumbrado público de Bogotá tras salida de Enel",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Ecopetrol enajenará activos secundarios y enfocará su operación en hidrocarburos: ¿Se incluiría ISA?",
-        "url": "https://www.valoraanalitik.com/exclusivo-ecopetrol-vendera-activos-no-estrategicos-y-concentrara-su-negocio-en-petroleo-y-gas-estaria-isa-incluida/",
-        "resumen": "La petrolera prepara un plan de desinversión y busca socios internacionales para acelerar el desarrollo de yacimientos no convencionales, gas y campos maduros.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Exclusivo | Ecopetrol venderá activos no estratégicos y concentrará su negocio en petróleo y gas: ¿Estaría ISA incluida?",
-        "capturado": "2026-11-23T08:31:11-05:00"
-      },
-      {
-        "titulo": "Dubái intensifica su inversión en inteligencia artificial desde su distrito financiero",
-        "url": "https://www.valoraanalitik.com/dubai-acelera-su-apuesta-por-la-inteligencia-artificial-desde-su-centro-financiero/",
-        "resumen": "El Centro Financiero Internacional de Dubái busca atraer más de 500 empresas de inteligencia artificial a lo que denomina como el Dubai AI Campus.",
-        "autor": "",
-        "subseccion": "Internacional",
-        "publicacion": "",
-        "titulo_fuente": "Dubái acelera su apuesta por la inteligencia artificial desde su centro financiero",
-        "capturado": "2026-11-23T08:31:11-05:00"
-      },
-      {
-        "titulo": "Inaam apunta a crecer en Estados Unidos y México con expectativas comerciales en territorio colombiano",
-        "url": "https://www.valoraanalitik.com/inaam-busca-expandirse-a-ee-uu-y-mexico-mientras-proyecta-ventas-en-colombia/",
-        "resumen": "La marca colombiana de bebidas botánicas prepara nuevos lanzamientos y busca US$8 millones.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inaam busca expandirse a EE. UU. y México mientras proyecta ventas en Colombia",
-        "capturado": "2026-11-22T17:24:44-05:00"
-      },
-      {
-        "titulo": "Bienestar emocional y sentido de vida, los retos recientes para directivos de alto nivel en Colombia",
-        "url": "https://www.valoraanalitik.com/salud-mental-y-proposito-los-nuevos-desafios-para-altos-ejecutivos-en-colombia/",
-        "resumen": "Esta situación pone sobre la mesa la necesidad de transformar los modelos tradicionales de liderazgo.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Salud mental y propósito, los nuevos desafíos para altos ejecutivos en Colombia",
-        "capturado": "2026-11-22T17:24:44-05:00"
-      },
-      {
-        "titulo": "Entrevista | Interaseo progresa con iniciativa eléctrica en Cali y prevé ingresos por $1,5 billones en 2027",
-        "url": "https://www.valoraanalitik.com/interaseo-avanza-con-nuevo-proyecto-de-generacion-de-energia-en-cali-y-espera-facturar-15-billones-en-2027/",
-        "resumen": "Fabio Alberto Salazar, gerente general de Interaseo, habló sobre las perspectivas de la compañía para 2027.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Entrevista | Interaseo avanza con nuevo proyecto de generación de energía en Cali y espera facturar $1,5 billones en 2027",
-        "capturado": "2026-11-22T17:24:44-05:00"
-      },
-      {
-        "titulo": "Titular de Ecopetrol reitera que el déficit fiscal del Fepc persiste debido al valor del diésel",
-        "url": "https://www.valoraanalitik.com/presidente-de-ecopetrol-insiste-en-que-hueco-fiscal-del-fepc-se-mantiene-por-precio-del-diesel/",
-        "resumen": "Durante el tercer trimestre de 2026, el diésel registró una diferencia de $7.545 por galón por debajo de su precio de reconocimiento.",
-        "autor": "",
-        "subseccion": "Ecopetrol",
-        "publicacion": "",
-        "titulo_fuente": "Presidente de Ecopetrol insiste en que hueco fiscal del Fepc se mantiene por precio del diésel",
-        "capturado": "2026-11-22T17:24:44-05:00"
       }
     ]
   }
