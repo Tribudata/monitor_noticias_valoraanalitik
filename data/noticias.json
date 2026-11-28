@@ -1,9 +1,129 @@
 {
   "fuente": "https://www.valoraanalitik.com/",
-  "actualizado": "2026-11-27T15:11:26-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-11-27T21:53:53-05:00",
+  "nuevos_en_esta_corrida": 19,
   "secciones": {
     "Destacadas": [
+      {
+        "titulo": "Movilidad regional: Bogotá y Cundinamarca prevén inversiones de $45,7 billones",
+        "url": "https://www.valoraanalitik.com/bogota-y-cundinamarca-proyectan-inversiones-por-457-billones-para-transformar-la-movilidad-regional/",
+        "resumen": "El portafolio equivale al 7,8 % del Producto Interno Bruto (PIB) anual de la región y busca consolidar un sistema de movilidad integrado.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá y Cundinamarca proyectan inversiones por $45,7 billones para transformar la movilidad regional",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "De la Espriella ordena estudios definitivos para el Tren del Caribe",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-ordena-realizar-estudios-definitivos-construir-tren-del-caribe/",
+        "resumen": "El presidente pidió llevar el megaproyecto a factibilidad y extenderlo a regiones en La Guajira e incluso conectarlo con el ferrocarril La Dorada – Chiriguaná.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Atención | De la Espriella ordena realizar estudios definitivos para construir el Tren del Caribe",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Sacyr arrancará obras del Canal del Dique en febrero de 2027 tras regularización",
+        "url": "https://www.valoraanalitik.com/canal-del-dique-sacyr-iniciara-obras-en-febrero-de-2027-tras-regularizar-el-contrato/",
+        "resumen": "La compañía destacó que el país debe aprovechar el apetito de inversión que existe en el sector para impulsar nuevos proyectos.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Canal del Dique: Sacyr iniciará obras en febrero de 2027 tras regularizar el contrato",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Plan de Desarrollo incluirá propuesta del Gobierno para ampliar plazos de concesiones",
+        "url": "https://www.valoraanalitik.com/gobierno-propondra-en-plan-de-desarrollo-aumentar-plazos-de-concesiones-en-colombia/",
+        "resumen": "La propuesta también contempla elevar del 20 % al 50 % el tope de adiciones con recursos públicos para contratos de concesión vigentes.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno propondrá en Plan de Desarrollo aumentar plazos de concesiones en Colombia",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Colombia alista monitoreo a las sugerencias de la ONU sobre niñez",
+        "url": "https://www.valoraanalitik.com/colombia-prepara-seguimiento-a-recomendaciones-de-la-onu-sobre-derechos-de-la-ninez/",
+        "resumen": "Cancillería y el SNBF presentaron dos instrumentos para medir los avances y desafíos del país de cara al informe que se entregará en 2028.",
+        "autor": "",
+        "subseccion": "Política",
+        "publicacion": "",
+        "titulo_fuente": "Colombia prepara seguimiento a recomendaciones de la ONU sobre derechos de la niñez",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Tribunal favorece a Canacol durante reestructuración al rechazar apelación de firmas colombianas",
+        "url": "https://www.valoraanalitik.com/corte-favorece-canacol-reestructuracion-canada/",
+        "resumen": "Con la decisión del tribunal canadiense, parte del proceso queda en manos de la Superintendencia de Sociedades.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Corte favorece a Canacol en medio de reestructuración; niegan apelación a empresas colombianas",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Alberto Mario Vergara es designado como el nuevo presidente de Fiduprevisora",
+        "url": "https://www.valoraanalitik.com/fiduprevisora-tiene-nuevo-presidente-alberto-mario-vergara-asumira-la-direccion/",
+        "resumen": "El nombramiento se oficializó mediante decreto, en medio de la transición de la entidad tras el fin del contrato para administrar el Fomag.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Fiduprevisora tiene nuevo presidente: Alberto Mario Vergara asumirá la dirección",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella firmará muy pronto acuerdo con EE. UU. para quitar aranceles y convenio con Japón",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-firmara-acuerdo-ee-uu-eliminar-aranceles-convenio-japon/",
+        "resumen": "Mauricio Gómez, ministro de Comercio, entregó detalles de las negociaciones comerciales que se vienen para Colombia.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Gobierno De la Espriella firmará en “próximas semanas” acuerdo con EE. UU. para eliminar aranceles y convenio comercial con Japón",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Abelardo de la Espriella plantea la creación de un salario solidario para el sector informal",
+        "url": "https://www.valoraanalitik.com/abelardo-de-la-espriella-propone-crear-un-salario-solidario-para-trabajadores-informales-asi-funcionaria/",
+        "resumen": "El salario solidario no debe afectar los ingresos de quienes actualmente tienen un empleo formal y se gestionaría mediante las cajas de compensación.",
+        "autor": "",
+        "subseccion": "Gobierno de la espriella",
+        "publicacion": "",
+        "titulo_fuente": "Abelardo de la Espriella propone crear un ‘salario solidario’ para trabajadores informales: así funcionaría",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Designan a Andrés Puyo como el nuevo presidente del Banco Agrario",
+        "url": "https://www.valoraanalitik.com/andres-puyo-es-el-nuevo-presidente-del-banco-agrario/",
+        "resumen": "El directivo cuenta con más de 30 años de experiencia en el sector financiero, en especial en labores de gestión.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Confirmado: Andrés Puyo es el nuevo presidente del Banco Agrario",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "KfW entregará 800.000 euros para el diseño de la Línea 4 del Metro de Bogotá",
+        "url": "https://www.valoraanalitik.com/alemania-linea-4-metro-de-bogota/",
+        "resumen": "El acuerdo permitirá iniciar la primera fase de prefactibilidad del proyecto, que conectaría la calle 100 con la calle 235 por la Autopista Norte.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Banco de Desarrollo de Alemania aportará 800.000 euros para estructurar la Línea 4 del Metro de Bogotá",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Estos son los porcentajes autorizados para el alza de pensiones y matrículas en colegios privados en 2027",
+        "url": "https://www.valoraanalitik.com/matriculas-y-pensiones-de-colegios-privados-subiran-en-2027-estos-son-los-porcentajes-autorizados/",
+        "resumen": "Las pensiones de los colegios privados tendrán nuevos valores en 2027. El aumento dependerá de cada institución e impactará presupuesto de las familias.",
+        "autor": "",
+        "subseccion": "Finanzaspersonales",
+        "publicacion": "",
+        "titulo_fuente": "Matrículas y pensiones de colegios privados subirán en 2027: estos son los porcentajes autorizados",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
       {
         "titulo": "Vicepresidente asegura que decreto para unir consulta previa y licencia ambiental está por salir",
         "url": "https://www.valoraanalitik.com/decreto-tramitar-consulta-previa-licencia-ambiental-a-la-par-salio-saldra-proximos-dias/",
@@ -483,129 +603,79 @@
         "publicacion": "",
         "titulo_fuente": "Confianza empresarial en Colombia cayó en octubre: la industrial volvió a terreno negativo tras tres meses al alza",
         "capturado": "2026-11-25T19:08:56-05:00"
-      },
-      {
-        "titulo": "Designación de Nate Morris como embajador estadounidense en Colombia hallaría freno en el Senado",
-        "url": "https://www.valoraanalitik.com/nominacion-de-nate-morris-como-embajador-de-ee-uu-en-colombia-podria-enfrentar-bloqueo-en-el-senado/",
-        "resumen": "El presidente De la Espriella, felicitó a Morris por el avance de su nominación en el Comité de Relaciones Exteriores.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "Nominación de Nate Morris como embajador de EE. UU. en Colombia podría enfrentar bloqueo en el Senado",
-        "capturado": "2026-11-25T19:08:56-05:00"
-      },
-      {
-        "titulo": "Aerolíneas inician rebajas por Black Friday con trayectos internos desde $45.600 con tasas",
-        "url": "https://www.valoraanalitik.com/aerolineas-lanzan-descuentos-para-black-friday-hay-vuelos-nacionales-desde-45-600-con-impuestos-incluidos/",
-        "resumen": "Varias aerolíneas anunciaron promociones en tiquetes áreos para viajar por Colombia y al exterior. Estas son las tarifas, fechas y condiciones para comprar.",
-        "autor": "",
-        "subseccion": "Aerolineas colombia",
-        "publicacion": "",
-        "titulo_fuente": "Aerolíneas lanzan descuentos para Black Friday: hay vuelos nacionales desde $45.600 con impuestos incluidos",
-        "capturado": "2026-11-25T19:08:56-05:00"
-      },
-      {
-        "titulo": "Colpensiones estaría facultada para exigir cotizaciones pensionales atrasadas de muchos años",
-        "url": "https://www.valoraanalitik.com/colpensiones-podria-cobrar-aportes-a-pension-que-quedaron-pendientes-desde-hace-varios-anos/",
-        "resumen": "Un fallo del Consejo de Estado aclaró cómo se cuentan los cinco años para que Colpensiones adelante el cobro de aportes pensionales atrasados.",
-        "autor": "",
-        "subseccion": "Finanzaspersonales",
-        "publicacion": "",
-        "titulo_fuente": "Colpensiones podría cobrar aportes a pensión que quedaron pendientes desde hace varios años",
-        "capturado": "2026-11-25T19:08:56-05:00"
-      },
-      {
-        "titulo": "El Gobierno nacional rechaza declaración de más de 70 congresistas del Reino Unido sobre la Paz",
-        "url": "https://www.valoraanalitik.com/colombia-rechaza-pronunciamiento-de-mas-de-70-parlamentarios-britanicos-sobre-el-acuerdo-de-paz/",
-        "resumen": "Acuerdo de Paz abre nuevo roce diplomático entre Colombia y parlamentarios del Reino Unido.",
-        "autor": "",
-        "subseccion": "Financieras internacionales",
-        "publicacion": "",
-        "titulo_fuente": "Colombia rechaza pronunciamiento de más de 70 parlamentarios británicos sobre el Acuerdo de Paz",
-        "capturado": "2026-11-25T19:08:56-05:00"
-      },
-      {
-        "titulo": "Senado aprueba iniciativa de adición al presupuesto pero falta debate en Cámara",
-        "url": "https://www.valoraanalitik.com/senado-da-luz-verde-a-proyecto-de-adicion-presupuestal/",
-        "resumen": "La iniciativa contempla recursos para la reconstrucción tras el terremoto, el pago a adultos mayores y la operación del sistema eléctrico.",
-        "autor": "",
-        "subseccion": "Macroeconomía",
-        "publicacion": "",
-        "titulo_fuente": "Senado da luz verde a proyecto de adición presupuestal; aún está pendiente discusión en Cámara",
-        "capturado": "2026-11-25T00:18:41-05:00"
-      },
-      {
-        "titulo": "Urgente | Falla en el servicio de energía impacta a Nariño y otras regiones del país",
-        "url": "https://www.valoraanalitik.com/apagon-afecta-a-narino-y-otros-departamentos-esto-se-sabe-de-la-falla-electrica/",
-        "resumen": "Cedenar reportó una avería simultánea en los circuitos que conectan a Nariño con el SIN. Las causas están bajo investigación.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Ahora | Apagón afecta a Nariño y otros departamentos: esto se sabe de la falla eléctrica",
-        "capturado": "2026-11-25T00:18:41-05:00"
-      },
-      {
-        "titulo": "MinHacienda frena emisiones privadas de deuda y planea recortar papeles a corto plazo",
-        "url": "https://www.valoraanalitik.com/minhacienda-elimina-las-colocaciones-privadas-de-deuda-y-proyecta-una-drastica-reduccion-de-titulos-a-corto-plazo/",
-        "resumen": "El director de Crédito Público, César Arias, presentó en el foro Visión Itaú 2026 la nueva estrategia de financiamiento del Gobierno y sus objetivos.",
-        "autor": "",
-        "subseccion": "Gobierno de la espriella",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda elimina las colocaciones privadas de deuda y proyecta una drástica reducción de títulos a corto plazo",
-        "capturado": "2026-11-25T00:18:41-05:00"
-      },
-      {
-        "titulo": "Grupo QBCo reporta la salida de Bernardo Serna y designa un líder encargado",
-        "url": "https://www.valoraanalitik.com/grupo-qbco-anuncia-salida-de-bernardo-serna-y-nombra-director-interino/",
-        "resumen": "La decisión se tomó de mutuo acuerdo con la Junta Directiva. Carlos Payan asumirá las funciones de la dirección general.",
-        "autor": "",
-        "subseccion": "Nombramientos",
-        "publicacion": "",
-        "titulo_fuente": "Grupo QBCo anuncia salida de Bernardo Serna y nombra director interino",
-        "capturado": "2026-11-25T00:18:41-05:00"
-      },
-      {
-        "titulo": "Banco de la República prevé baja más rápida de tasas si pasa el ajuste fiscal",
-        "url": "https://www.valoraanalitik.com/banco-de-la-republica-proyecta-que-la-reduccion-de-las-tasas-de-interes-tomara-menos-tiempo-si-se-aprueba-el-ajuste-fiscal/",
-        "resumen": "El gerente del emisor advirtió en Visión Itaú 2026 que la política monetaria no puede actuar sola.",
-        "autor": "",
-        "subseccion": "Banco de la republica",
-        "publicacion": "",
-        "titulo_fuente": "Banco de la República proyecta que la reducción de las tasas de interés tomará menos tiempo si se aprueba el ajuste fiscal",
-        "capturado": "2026-11-25T00:18:41-05:00"
-      },
-      {
-        "titulo": "Mineros entregará dividendos extraordinarios por US$58,1 millones",
-        "url": "https://www.valoraanalitik.com/mineros-repartira-us581-millones-en-dividendos-extraordinarios/",
-        "resumen": "La compañía aprobó un pago único de US$0,20 por acción, adicional al dividendo ordinario de US$0,10 autorizado en marzo.",
-        "autor": "",
-        "subseccion": "Minería y energía",
-        "publicacion": "",
-        "titulo_fuente": "Mineros repartirá US$58,1 millones en dividendos extraordinarios",
-        "capturado": "2026-11-25T00:18:41-05:00"
-      },
-      {
-        "titulo": "Este es el macroproyecto de vivienda y comercio conectado con el Metro de Medellín",
-        "url": "https://www.valoraanalitik.com/asi-sera-el-macroproyecto-que-tendra-acceso-directo-al-metro-de-medellin/",
-        "resumen": "El desarrollo contempla 1.122 viviendas y un mall comercial de más de 60 locales. Se construirá junto a la estación Envigado, en alianza con AR Construcciones.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Así será el macroproyecto de comercio y vivienda que tendrá acceso directo al Metro de Medellín",
-        "capturado": "2026-11-25T00:18:41-05:00"
-      },
-      {
-        "titulo": "Inversión de 1,9 billones de pesos para grandes proyectos viales en Bogotá y Cundinamarca",
-        "url": "https://www.valoraanalitik.com/bogota-y-cundinamarca-tendran-megaobras-viales-por-19-billones-estos-corredores-seran-intervenidos/",
-        "resumen": "Las megaobras del proyecto ‘Accesos Norte Fase 2’ contemplan tres corredores clave para la conexión entre Bogotá y varios municipios de Cundinamarca.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá y Cundinamarca tendrán megaobras viales por $1,9 billones: estos corredores serán intervenidos",
-        "capturado": "2026-11-24T17:41:34-05:00"
       }
     ],
     "Empresariales": [
+      {
+        "titulo": "De la Espriella ordena estudios finales para el Tren del Caribe",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-ordena-realizar-estudios-definitivos-construir-tren-del-caribe/",
+        "resumen": "El presidente pidió llevar el megaproyecto a factibilidad y extenderlo a regiones en La Guajira e incluso conectarlo con el ferrocarril La Dorada – Chiriguaná.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Atención | De la Espriella ordena realizar estudios definitivos para construir el Tren del Caribe",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Gobierno planteará alargar plazos de concesiones en Plan de Desarrollo",
+        "url": "https://www.valoraanalitik.com/gobierno-propondra-en-plan-de-desarrollo-aumentar-plazos-de-concesiones-en-colombia/",
+        "resumen": "La propuesta también contempla elevar del 20 % al 50 % el tope de adiciones con recursos públicos para contratos de concesión vigentes.",
+        "autor": "",
+        "subseccion": "Infraestructura",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno propondrá en Plan de Desarrollo aumentar plazos de concesiones en Colombia",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Corte apoya a Canacol y rechaza apelación en su reestructuración",
+        "url": "https://www.valoraanalitik.com/corte-favorece-canacol-reestructuracion-canada/",
+        "resumen": "Con la decisión del tribunal canadiense, parte del proceso queda en manos de la Superintendencia de Sociedades.",
+        "autor": "",
+        "subseccion": "Mercados",
+        "publicacion": "",
+        "titulo_fuente": "Corte favorece a Canacol en medio de reestructuración; niegan apelación a empresas colombianas",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Gerente del Banco de la República indica requisitos para bajar tasas",
+        "url": "https://www.valoraanalitik.com/gerente-del-banco-de-la-republica-revela-que-hace-falta-para-que-las-tasas-vuelvan-a-bajar-en-colombia/",
+        "resumen": "Itaú Colombia realizó en Bogotá la séptima edición de Macrovision Itaú, un espacio para el análisis de las perspectivas económicas del país y la región.",
+        "autor": "",
+        "subseccion": "Bancarias",
+        "publicacion": "",
+        "titulo_fuente": "Gerente del Banco de la República revela qué hace falta para que las tasas vuelvan a bajar en Colombia",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Alberto Mario Vergara es el nuevo presidente de Fiduprevisora",
+        "url": "https://www.valoraanalitik.com/fiduprevisora-tiene-nuevo-presidente-alberto-mario-vergara-asumira-la-direccion/",
+        "resumen": "El nombramiento se oficializó mediante decreto, en medio de la transición de la entidad tras el fin del contrato para administrar el Fomag.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Fiduprevisora tiene nuevo presidente: Alberto Mario Vergara asumirá la dirección",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Gobierno De la Espriella sellará en semanas pacto con EE. UU. para quitar aranceles y tratado con Japón",
+        "url": "https://www.valoraanalitik.com/de-la-espriella-firmara-acuerdo-ee-uu-eliminar-aranceles-convenio-japon/",
+        "resumen": "Mauricio Gómez, ministro de Comercio, entregó detalles de las negociaciones comerciales que se vienen para Colombia.",
+        "autor": "",
+        "subseccion": "Internacional",
+        "publicacion": "",
+        "titulo_fuente": "Atención | Gobierno De la Espriella firmará en “próximas semanas” acuerdo con EE. UU. para eliminar aranceles y convenio comercial con Japón",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
+      {
+        "titulo": "Es oficial: Andrés Puyo asume la presidencia del Banco Agrario",
+        "url": "https://www.valoraanalitik.com/andres-puyo-es-el-nuevo-presidente-del-banco-agrario/",
+        "resumen": "El directivo cuenta con más de 30 años de experiencia en el sector financiero, en especial en labores de gestión.",
+        "autor": "",
+        "subseccion": "Nombramientos",
+        "publicacion": "",
+        "titulo_fuente": "Confirmado: Andrés Puyo es el nuevo presidente del Banco Agrario",
+        "capturado": "2026-11-27T21:53:53-05:00"
+      },
       {
         "titulo": "Vicepresidente dice que decreto de licencia ambiental y consulta previa simultáneas saldrá pronto",
         "url": "https://www.valoraanalitik.com/decreto-tramitar-consulta-previa-licencia-ambiental-a-la-par-salio-saldra-proximos-dias/",
@@ -1134,76 +1204,6 @@
         "subseccion": "Mercados",
         "publicacion": "",
         "titulo_fuente": "Empresa colombiana que automatiza la compra y venta de viviendas se expande a México y Perú",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Aerocivil prepara estudio en el Valle del Cauca para fabricar combustible sostenible de aviación",
-        "url": "https://www.valoraanalitik.com/aerocivil-anuncia-estudio-para-producir-combustible-de-aviacion-sostenible-en-colombia/",
-        "resumen": "El análisis, que se realizará con apoyo de Países Bajos y la OACI, revisará costos, tecnología y otras condiciones para su desarrollo.",
-        "autor": "",
-        "subseccion": "Sostenibilidad",
-        "publicacion": "",
-        "titulo_fuente": "Aerocivil anuncia estudio en Valle del Cauca para producir combustible de aviación sostenible en Colombia",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Grupo Aval efectúa la octava versión de su Academia NIIF para afianzar los reportes contables",
-        "url": "https://www.valoraanalitik.com/grupo-aval-realiza-la-octava-edicion-de-su-academia-niif/",
-        "resumen": "El evento congrega a cerca de 1.000 profesionales del sector procedentes de Colombia, Chile, Perú, Panamá, Barbados y los distintos mercados de Centroamérica.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Aval realiza la octava edición de su Academia NIIF para fortalecer la información financiera en América Latina",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Inicia la etapa constructiva del megaproyecto del Canal del Dique por más de 3,2 billones de pesos",
-        "url": "https://www.valoraanalitik.com/arranca-fase-de-construccion-del-megaproyecto-del-canal-del-dique/",
-        "resumen": "La nueva etapa contempla 14 unidades funcionales, dos compuertas, intervenciones de dragado y recuperación de ecosistemas estratégicos.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Relevante | Arranca fase de construcción del megaproyecto del Canal del Dique por más de $3,2 billones",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "El Gobierno planteará modificar la Ley de APP para autorizar adiciones de hasta 50 % en obras grandes",
-        "url": "https://www.valoraanalitik.com/gobierno-reformar-la-ley-de-app-busca-adiciones-hasta-50-megaproyectos/",
-        "resumen": "La ministra Elsa Noguera aseguró que esta medida será clave en medio de un escenario de estrechez fiscal.",
-        "autor": "",
-        "subseccion": "Infraestructura",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno propondrá reformar la Ley de APP para permitir adiciones de hasta 50 % en megaproyectos de infraestructura",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Roberto Alvo obtiene el Premio Bravo al CEO del Año 2026 en evento del Council of the Americas en Miami",
-        "url": "https://www.valoraanalitik.com/roberto-alvo-recibe-el-premio-bravo-al-ceo-del-ano-2026/",
-        "resumen": "El galardón reconoce el liderazgo de Alvo en la transformación de Latam durante la pandemia.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Roberto Alvo recibe el Premio Bravo al CEO del Año 2026 en ceremonia del Council of the Americas en Miami",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "Dichos contratos de trabajo en Colombia sufrirían modificaciones por medida que prepara el gobierno De la Espriella",
-        "url": "https://www.valoraanalitik.com/estos-contratos-laborales-en-colombia-tendrian-cambios-por-decision-que-prepara-el-gobierno-de-la-espriella/",
-        "resumen": "Los contratos laborales podrían enfrentar nuevos ajustes tras la revisión de ocho decretos; estas son las áreas que están bajo análisis.",
-        "autor": "",
-        "subseccion": "Política",
-        "publicacion": "",
-        "titulo_fuente": "Estos contratos laborales en Colombia tendrían cambios por decisión que prepara el gobierno De la Espriella",
-        "capturado": "2026-11-23T20:33:36-05:00"
-      },
-      {
-        "titulo": "El relato tras la designación de la nueva Junta de la Cámara de Comercio de Bogotá: qué pasó y por qué se pospuso",
-        "url": "https://www.valoraanalitik.com/historia-junta-camara-de-comercio-de-bogota/",
-        "resumen": "Con la decisión, se aplaza la elección del Directorio de la principal cámara de comercio del país hasta marzo de 2027.",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "La historia detrás de la elección de la nueva Junta Directiva de la Cámara de Comercio de Bogotá: ¿qué pasó y por qué se aplazó?",
         "capturado": "2026-11-23T20:33:36-05:00"
       }
     ]
